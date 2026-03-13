@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import asyncio
+import hashlib
 import html as html_lib
 import json
 import logging
@@ -13,7 +14,7 @@ from dataclasses import dataclass
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Any
-from urllib.parse import urljoin
+from urllib.parse import urljoin, urlparse
 from urllib.request import Request, urlopen
 
 
@@ -23,6 +24,7 @@ DOCS_DIR = ROOT / "docs"
 DATA_DIR = DOCS_DIR / "data"
 POSTS_PATH = DATA_DIR / "posts.json"
 COMMENTS_DIR = DATA_DIR / "comments"
+POSTS_MEDIA_DIR = DATA_DIR / "media" / "posts"
 MANIFEST_PATH = DOCS_DIR / "manifest.webmanifest"
 
 BASE_HEADERS = {
@@ -134,6 +136,80 @@ def fetch_page(url: str) -> str:
     request = Request(url, headers=BASE_HEADERS)
     with urlopen(request, timeout=30) as response:
         return response.read().decode("utf-8", errors="replace")
+
+
+def fetch_binary(url: str) -> bytes:
+    request = Request(
+        url,
+        headers={
+            **BASE_HEADERS,
+            "Accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+        },
+    )
+    with urlopen(request, timeout=30) as response:
+        return response.read()
+
+
+def guess_media_extension(url: str) -> str:
+    suffix = Path(urlparse(url).path).suffix.lower()
+    if suffix in {".jpg", ".jpeg", ".png", ".webp", ".gif", ".svg", ".avif"}:
+        return suffix
+    return ".jpg"
+
+
+def mirror_post_photos(posts: list[dict[str, Any]]) -> bool:
+    POSTS_MEDIA_DIR.mkdir(parents=True, exist_ok=True)
+    active_relative_paths: set[str] = set()
+    changes_detected = False
+
+    for post in posts:
+        mirrored_photos: list[str] = []
+
+        for index, url in enumerate(post.get("photos") or []):
+            if not url:
+                continue
+
+            if not re.match(r"^https?://", url):
+                relative_url = url.lstrip("./")
+                mirrored_photos.append(relative_url)
+                active_relative_paths.add(relative_url)
+                continue
+
+            extension = guess_media_extension(url)
+            digest = hashlib.sha256(url.encode("utf-8")).hexdigest()[:12]
+            filename = f"{post['id']}-{index + 1}-{digest}{extension}"
+            local_path = POSTS_MEDIA_DIR / filename
+
+            try:
+                if not local_path.exists():
+                    local_path.write_bytes(fetch_binary(url))
+                    log.info("Downloaded post image %s", local_path.relative_to(ROOT))
+                    changes_detected = True
+            except Exception as error:  # pragma: no cover - network/runtime path
+                log.warning("Failed to mirror image for post %s: %s", post["id"], error)
+                mirrored_photos.append(url)
+                continue
+
+            relative_url = local_path.relative_to(DOCS_DIR).as_posix()
+            mirrored_photos.append(relative_url)
+            active_relative_paths.add(relative_url)
+
+        if post.get("photos") != mirrored_photos:
+            post["photos"] = mirrored_photos
+
+    for path in POSTS_MEDIA_DIR.glob("*"):
+        if not path.is_file():
+            continue
+
+        relative_url = path.relative_to(DOCS_DIR).as_posix()
+        if relative_url in active_relative_paths:
+            continue
+
+        path.unlink()
+        log.info("Deleted stale mirrored image %s", path.relative_to(ROOT))
+        changes_detected = True
+
+    return changes_detected
 
 
 def parse_count(raw: str | None) -> int:
@@ -472,6 +548,7 @@ def main() -> int:
 
     changes_detected = False
     active_ids = {post["id"] for post in posts}
+    changes_detected = mirror_post_photos(posts) or changes_detected
     changes_detected = cleanup_removed_comment_files(active_ids) or changes_detected
 
     for post_id, comments in comment_results.items():
