@@ -1,11 +1,11 @@
 {
-  "name": "Telegram Pages Mirror",
-  "short_name": "TG Mirror",
-  "description": "Static browser mirror for a public Telegram channel, published from GitHub Pages.",
+  "name": "Pepeliaev Group | Пепеляев Групп",
+  "short_name": "Pepeliaev",
+  "description": "Официальный канал юридической компании «Пепеляев Групп». Новости компании, правовые обзоры законодательства и судебной практики, комментарии экспертов.",
   "start_url": "./",
   "display": "standalone",
-  "background_color": "#f7f3ea",
-  "theme_color": "#0f766e",
+  "background_color": "#f2f1e9",
+  "theme_color": "#3f7460",
   "lang": "ru",
   "icons": [
     {

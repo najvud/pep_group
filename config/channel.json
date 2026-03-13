@@ -1,13 +1,13 @@
 {
-  "channel_username": "replace-with-channel-username",
-  "channel_title": "Configure Your Channel",
-  "site_name": "Telegram Pages Mirror",
-  "site_description": "Static browser mirror for a public Telegram channel, published from GitHub Pages.",
+  "channel_username": "pgp_official",
+  "channel_title": "Pepeliaev Group | Пепеляев Групп",
+  "site_name": "Pepeliaev Group | Пепеляев Групп",
+  "site_description": "Официальный канал юридической компании «Пепеляев Групп». Новости компании, правовые обзоры законодательства и судебной практики, комментарии экспертов.",
   "language": "ru",
-  "accent_color": "#0f766e",
-  "background_color": "#f7f3ea",
-  "messages_limit": 200,
+  "accent_color": "#3f7460",
+  "background_color": "#f2f1e9",
+  "avatar_path": "assets/channel-avatar.jpg",
+  "messages_limit": 250,
   "comments_posts_limit": 40,
   "comments_max_age_days": 7
 }
-

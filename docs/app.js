@@ -16,6 +16,8 @@ const state = {
 const elements = {
   siteTitle: document.getElementById('siteTitle'),
   siteDescription: document.getElementById('siteDescription'),
+  channelAvatarWrap: document.getElementById('channelAvatarWrap'),
+  channelAvatar: document.getElementById('channelAvatar'),
   channelLink: document.getElementById('channelLink'),
   updatedText: document.getElementById('updatedText'),
   refreshButton: document.getElementById('refreshButton'),
@@ -123,6 +125,14 @@ function renderHeader(site, generatedAt) {
   elements.updatedText.textContent = `${timeAgo(generatedAt)} (${formatDate(generatedAt)})`;
   document.title = title;
 
+  if (site.avatar_path) {
+    elements.channelAvatar.src = site.avatar_path;
+    elements.channelAvatar.alt = title;
+    elements.channelAvatarWrap.classList.remove('hidden');
+  } else {
+    elements.channelAvatarWrap.classList.add('hidden');
+  }
+
   if (site.accent_color) {
     document.documentElement.style.setProperty('--accent', site.accent_color);
     const themeColorMeta = document.querySelector('meta[name="theme-color"]');
@@ -136,9 +146,11 @@ function renderHeader(site, generatedAt) {
   const descriptionMeta = document.querySelector('meta[name="description"]');
   const ogTitleMeta = document.querySelector('meta[property="og:title"]');
   const ogDescriptionMeta = document.querySelector('meta[property="og:description"]');
+  const ogImageMeta = document.querySelector('meta[property="og:image"]');
   if (descriptionMeta) descriptionMeta.setAttribute('content', description);
   if (ogTitleMeta) ogTitleMeta.setAttribute('content', title);
   if (ogDescriptionMeta) ogDescriptionMeta.setAttribute('content', description);
+  if (ogImageMeta && site.avatar_path) ogImageMeta.setAttribute('content', site.avatar_path);
 }
 
 function buildMedia(post) {

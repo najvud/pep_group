@@ -43,6 +43,7 @@ class SiteConfig:
     language: str
     accent_color: str
     background_color: str
+    avatar_path: str
     messages_limit: int
     comments_posts_limit: int
     comments_max_age_days: int
@@ -110,6 +111,7 @@ def load_config() -> SiteConfig:
         language=(env.get("TG_LANGUAGE") or raw.get("language") or "ru").strip(),
         accent_color=(env.get("TG_ACCENT_COLOR") or raw.get("accent_color") or "#0f766e").strip(),
         background_color=(env.get("TG_BACKGROUND_COLOR") or raw.get("background_color") or "#f7f3ea").strip(),
+        avatar_path=(env.get("TG_AVATAR_PATH") or raw.get("avatar_path") or "").strip(),
         messages_limit=int(env.get("MESSAGES_LIMIT") or env.get("TG_MESSAGES_LIMIT") or raw.get("messages_limit") or 200),
         comments_posts_limit=int(env.get("COMMENTS_POSTS_LIMIT") or env.get("TG_COMMENTS_POSTS_LIMIT") or raw.get("comments_posts_limit") or 40),
         comments_max_age_days=int(env.get("COMMENTS_MAX_AGE_DAYS") or env.get("TG_COMMENTS_MAX_AGE_DAYS") or raw.get("comments_max_age_days") or 7),
@@ -424,6 +426,7 @@ def build_posts_payload(config: SiteConfig, posts: list[dict[str, Any]], comment
             "language": config.language,
             "accent_color": config.accent_color,
             "background_color": config.background_color,
+            "avatar_path": config.avatar_path,
         },
         "source": {
             "channel_url": config.channel_web_url,
