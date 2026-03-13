@@ -222,6 +222,10 @@ def parse_posts(html_text: str, config: SiteConfig) -> list[dict[str, Any]]:
             urljoin("https://t.me", html_lib.unescape(url))
             for url in re.findall(r"tgme_widget_message_photo_wrap[^>]+url\('([^']+)'\)", block)
         ]
+        if not photos:
+            link_preview_match = re.search(r"link_preview_image[^>]+url\('([^']+)'\)", block)
+            if link_preview_match:
+                photos = [urljoin("https://t.me", html_lib.unescape(link_preview_match.group(1)))]
         video_url = urljoin("https://t.me", html_lib.unescape(video_match.group(1))) if video_match else None
         raw_text = text_match.group(1) if text_match else ""
         text, text_html = build_text_fields(raw_text)
