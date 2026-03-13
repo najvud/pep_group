@@ -3,13 +3,13 @@
   <desc id="desc">Rounded icon with layered paper and signal motif.</desc>
   <defs>
     <linearGradient id="bg" x1="0%" x2="100%" y1="0%" y2="100%">
-      <stop offset="0%" stop-color="#0f766e"/>
-      <stop offset="100%" stop-color="#1d4ed8"/>
+      <stop offset="0%" stop-color="#91278d"/>
+      <stop offset="72%" stop-color="#6f196c"/>
+      <stop offset="100%" stop-color="#272c3e"/>
     </linearGradient>
   </defs>
   <rect width="256" height="256" rx="64" fill="url(#bg)"/>
   <path d="M70 82c0-10 8-18 18-18h80c10 0 18 8 18 18v94c0 10-8 18-18 18H88c-10 0-18-8-18-18V82z" fill="#f8fafc"/>
-  <path d="M92 104h72M92 128h72M92 152h48" fill="none" stroke="#0f766e" stroke-linecap="round" stroke-width="12"/>
-  <circle cx="192" cy="84" r="18" fill="#f97316"/>
+  <path d="M92 104h72M92 128h72M92 152h48" fill="none" stroke="#91278d" stroke-linecap="round" stroke-width="12"/>
+  <circle cx="192" cy="84" r="18" fill="#e30606"/>
 </svg>
-

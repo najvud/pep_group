@@ -4,8 +4,8 @@
   "description": "Официальный канал юридической компании «Пепеляев Групп». Новости компании, правовые обзоры законодательства и судебной практики, комментарии экспертов.",
   "start_url": "./",
   "display": "standalone",
-  "background_color": "#f2f1e9",
-  "theme_color": "#3f7460",
+  "background_color": "#f5f7fa",
+  "theme_color": "#91278d",
   "lang": "ru",
   "icons": [
     {
