@@ -1,0 +1,81 @@
+name: Generate Telegram Session Step 2
+
+on:
+  workflow_dispatch:
+    inputs:
+      partial_session:
+        description: "partial_session from Step 1 logs"
+        required: true
+      phone_code_hash:
+        description: "phone_code_hash from Step 1 logs"
+        required: true
+      code:
+        description: "Telegram login code"
+        required: true
+      phone:
+        description: "Same phone number used in Step 1"
+        required: true
+      api_id:
+        description: "TELEGRAM_API_ID from my.telegram.org"
+        required: true
+      api_hash:
+        description: "TELEGRAM_API_HASH from my.telegram.org"
+        required: true
+      password:
+        description: "2FA password if enabled, otherwise leave empty"
+        required: false
+        default: ""
+
+jobs:
+  complete_auth:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Install Telethon
+        run: pip install telethon
+
+      - name: Finalize session
+        env:
+          PARTIAL_SESSION: ${{ github.event.inputs.partial_session }}
+          PHONE_CODE_HASH: ${{ github.event.inputs.phone_code_hash }}
+          CODE: ${{ github.event.inputs.code }}
+          PHONE: ${{ github.event.inputs.phone }}
+          API_ID: ${{ github.event.inputs.api_id }}
+          API_HASH: ${{ github.event.inputs.api_hash }}
+          PASSWORD: ${{ github.event.inputs.password }}
+        run: |
+          python3 - <<'PY'
+          import asyncio
+          import os
+          from telethon import TelegramClient
+          from telethon.errors import SessionPasswordNeededError
+          from telethon.sessions import StringSession
+
+          async def main():
+              client = TelegramClient(
+                  StringSession(os.environ["PARTIAL_SESSION"].strip()),
+                  int(os.environ["API_ID"]),
+                  os.environ["API_HASH"],
+              )
+              await client.connect()
+              try:
+                  await client.sign_in(
+                      os.environ["PHONE"],
+                      os.environ["CODE"],
+                      phone_code_hash=os.environ["PHONE_CODE_HASH"].strip(),
+                  )
+              except SessionPasswordNeededError:
+                  password = os.environ.get("PASSWORD", "")
+                  if not password:
+                      raise RuntimeError("2FA is enabled. Rerun Step 2 with the password input.")
+                  await client.sign_in(password=password)
+
+              me = await client.get_me()
+              print(f"Authorized as: {me.first_name} (@{getattr(me, 'username', 'no-username')})")
+              print()
+              print("TELEGRAM_SESSION_STR =", client.session.save())
+              await client.disconnect()
+
+          asyncio.run(main())
+          PY
+

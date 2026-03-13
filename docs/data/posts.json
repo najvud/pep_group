@@ -1,0 +1,18 @@
+{
+  "generated_at": null,
+  "site": {
+    "channel_username": "replace-with-channel-username",
+    "channel_title": "Configure Your Channel",
+    "site_name": "Telegram Pages Mirror",
+    "site_description": "Edit config/channel.json and run the GitHub Action to populate the feed.",
+    "language": "ru",
+    "accent_color": "#0f766e",
+    "background_color": "#f7f3ea"
+  },
+  "source": {
+    "channel_url": "https://t.me",
+    "comments_enabled": false
+  },
+  "posts": []
+}
+

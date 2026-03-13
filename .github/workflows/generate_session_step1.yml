@@ -1,0 +1,48 @@
+name: Generate Telegram Session Step 1
+
+on:
+  workflow_dispatch:
+    inputs:
+      phone:
+        description: "Phone number with country code, for example +79991234567"
+        required: true
+      api_id:
+        description: "TELEGRAM_API_ID from my.telegram.org"
+        required: true
+      api_hash:
+        description: "TELEGRAM_API_HASH from my.telegram.org"
+        required: true
+
+jobs:
+  send_code:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Install Telethon
+        run: pip install telethon
+
+      - name: Send login code
+        env:
+          PHONE: ${{ github.event.inputs.phone }}
+          API_ID: ${{ github.event.inputs.api_id }}
+          API_HASH: ${{ github.event.inputs.api_hash }}
+        run: |
+          python3 - <<'PY'
+          import asyncio
+          import os
+          from telethon import TelegramClient
+          from telethon.sessions import StringSession
+
+          async def main():
+              client = TelegramClient(StringSession(), int(os.environ["API_ID"]), os.environ["API_HASH"])
+              await client.connect()
+              sent = await client.send_code_request(os.environ["PHONE"])
+              print("Code sent to Telegram.")
+              print()
+              print("partial_session =", client.session.save())
+              print("phone_code_hash =", sent.phone_code_hash)
+              await client.disconnect()
+
+          asyncio.run(main())
+          PY
+

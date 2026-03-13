@@ -1,0 +1,13 @@
+{
+  "channel_username": "replace-with-channel-username",
+  "channel_title": "Configure Your Channel",
+  "site_name": "Telegram Pages Mirror",
+  "site_description": "Static browser mirror for a public Telegram channel, published from GitHub Pages.",
+  "language": "ru",
+  "accent_color": "#0f766e",
+  "background_color": "#f7f3ea",
+  "messages_limit": 200,
+  "comments_posts_limit": 40,
+  "comments_max_age_days": 7
+}
+

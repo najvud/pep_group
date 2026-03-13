@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Telegram Pages Mirror</title>
+  <meta name="description" content="Static browser mirror for a public Telegram channel.">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Telegram Pages Mirror">
+  <meta property="og:description" content="Static browser mirror for a public Telegram channel.">
+  <meta name="theme-color" content="#0f766e">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="TG Mirror">
+  <link rel="icon" href="assets/icon.svg" type="image/svg+xml">
+  <link rel="icon" href="assets/icon-192.png" sizes="192x192" type="image/png">
+  <link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="site-shell">
+    <header class="hero">
+      <div class="hero__copy">
+        <p class="eyebrow">GitHub Pages mirror</p>
+        <h1 id="siteTitle">Telegram Pages Mirror</h1>
+        <p id="siteDescription" class="hero__description">
+          Статическая браузерная лента для публичного Telegram-канала.
+        </p>
+      </div>
+
+      <div class="hero__panel">
+        <div class="hero__row">
+          <span class="meta-label">Канал</span>
+          <a id="channelLink" class="channel-link" href="https://t.me" target="_blank" rel="noopener">
+            @channel
+          </a>
+        </div>
+        <div class="hero__row">
+          <span class="meta-label">Обновлено</span>
+          <span id="updatedText">—</span>
+        </div>
+        <div class="hero__actions">
+          <button id="refreshButton" class="button button--primary" type="button">Обновить</button>
+          <button id="themeButton" class="button button--ghost" type="button">Тема</button>
+        </div>
+      </div>
+    </header>
+
+    <main class="content">
+      <section id="feedView" class="feed-view">
+        <div id="statusBanner" class="status-banner hidden" aria-live="polite"></div>
+        <div id="feedMeta" class="feed-meta hidden"></div>
+        <div id="postFeed" class="post-feed" role="feed" aria-label="Посты канала"></div>
+        <div id="loadingState" class="empty-state">
+          <div class="spinner"></div>
+          <p>Загрузка ленты...</p>
+        </div>
+        <div id="emptyState" class="empty-state hidden">
+          <h2>Лента пока пустая</h2>
+          <p>После первого запуска GitHub Action здесь появятся посты.</p>
+        </div>
+        <div id="errorState" class="empty-state hidden">
+          <h2>Не удалось загрузить данные</h2>
+          <p id="errorMessage">Проверьте, что JSON уже сгенерирован.</p>
+        </div>
+        <div id="loadMoreWrap" class="load-more hidden">
+          <button id="loadMoreButton" class="button button--ghost" type="button">Показать еще</button>
+        </div>
+      </section>
+
+      <section id="commentsView" class="comments-view hidden">
+        <div class="comments-toolbar">
+          <button id="backButton" class="button button--ghost" type="button">Назад</button>
+          <div>
+            <p class="eyebrow">Обсуждение</p>
+            <h2 id="commentsTitle">Комментарии</h2>
+          </div>
+        </div>
+        <div id="commentsStatus" class="status-banner hidden" aria-live="polite"></div>
+        <div id="commentsList" class="comments-list"></div>
+        <div id="commentsLoading" class="empty-state hidden">
+          <div class="spinner"></div>
+          <p>Загрузка комментариев...</p>
+        </div>
+        <div id="commentsEmpty" class="empty-state hidden">
+          <h2>Комментарии отсутствуют</h2>
+          <p>Либо обсуждение выключено, либо комментарии еще не подтянуты.</p>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <div id="viewer" class="viewer hidden" aria-hidden="true">
+    <button id="viewerClose" class="viewer__close" type="button" aria-label="Закрыть">×</button>
+    <button id="viewerPrev" class="viewer__nav hidden" type="button" aria-label="Назад">‹</button>
+    <div id="viewerContent" class="viewer__content"></div>
+    <button id="viewerNext" class="viewer__nav hidden" type="button" aria-label="Вперед">›</button>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
