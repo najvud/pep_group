@@ -1,0 +1,46 @@
+{
+  "generated_at": "2026-03-14T00:10:23.162Z",
+  "site": {
+    "channel_username": "pgp_official",
+    "channel_title": "Pepeliaev Group | Пепеляев Групп",
+    "site_name": "Pepeliaev Group | Пепеляев Групп",
+    "site_description": "Официальный канал юридической компании «Пепеляев Групп». Новости компании, правовые обзоры законодательства и судебной практики, комментарии экспертов.",
+    "language": "ru",
+    "accent_color": "#91278d",
+    "background_color": "#f5f7fa",
+    "avatar_path": "assets/channel-avatar.jpg",
+    "messages_limit": 250,
+    "comments_posts_limit": 40,
+    "comments_max_age_days": 7
+  },
+  "source": {
+    "channel_url": "https://t.me/s/pgp_official",
+    "comments_enabled": false
+  },
+  "post": {
+    "id": 1520,
+    "date": "2025-09-25T07:01:29+00:00",
+    "text": "⭐️ Эксперты «Пепеляев Групп» на Federal Legal Forum\n\nЭксперты «Пепеляев Групп» приняли активное участие в ежегодной конференции журнала Forbes для юридического сообщества Federal Legal Forum, которая прошла 18 сентября в Москве.\n\n▫️Юрий Воробьев, партнер, руководитель практики разрешения споров и медиации, выступил сессии «Особенности юридического бизнеса 2030 – что изменится с модернизацией системы “Разрешение споров” в России», поделившись взглядом на ключевые изменения в отрасли.\n\n▫️Рустем Ахметшин, старший партнер, руководитель налоговой практики, модерировал дебаты «Налоговые споры: судиться или договариваться?», обсуждая актуальные практические кейсы.\n\n▫️Юлия Литовцева, партнер, руководитель практики банкротства и антикризисной защиты бизнеса, приняла участие в концептуальном диспуте «Wonderland: инструменты суверенного дефолта для ординарных банкротств». Подробнее о выступлении Юлия рассказала в канале Банкротство | MustKnow.",
+    "text_html": "⭐️ Эксперты «Пепеляев Групп» на Federal Legal Forum<br><br>Эксперты «Пепеляев Групп» приняли активное участие в ежегодной конференции журнала Forbes для юридического сообщества Federal Legal Forum, которая прошла 18 сентября в Москве.<br><br>▫️<a href=\"https://www.pgplaw.ru/to-get-the-team/yuriy-vorobev/\" target=\"_blank\" rel=\"noopener noreferrer\">Юрий Воробьев</a>, партнер, руководитель практики разрешения споров и медиации, выступил сессии «Особенности юридического бизнеса 2030 – что изменится с модернизацией системы “Разрешение споров” в России», поделившись взглядом на ключевые изменения в отрасли.<br><br>▫️<a href=\"https://www.pgplaw.ru/to-get-the-team/rustem-ahmetshin/\" target=\"_blank\" rel=\"noopener noreferrer\">Рустем Ахметшин</a>, старший партнер, руководитель налоговой практики, модерировал дебаты «Налоговые споры: судиться или договариваться?», обсуждая актуальные практические кейсы.<br><br>▫️<a href=\"https://www.pgplaw.ru/to-get-the-team/yuliya-litovtseva/\" target=\"_blank\" rel=\"noopener noreferrer\">Юлия Литовцева</a>, партнер, руководитель практики банкротства и антикризисной защиты бизнеса, приняла участие в концептуальном диспуте «Wonderland: инструменты суверенного дефолта для ординарных банкротств». Подробнее о выступлении Юлия рассказала в канале <a href=\"https://t.me/bankrotstvo_mustknow/281\" target=\"_blank\" rel=\"noopener noreferrer\">Банкротство | MustKnow</a>.",
+    "views": 1250,
+    "comments_count": 0,
+    "comments_url": null,
+    "photos": [
+      {
+        "thumb_url": "data/media/posts/thumbs/1520-1-a15a52d883a6.jpg",
+        "full_url": "data/media/posts/1520-1-a15a52d883a6.jpg"
+      },
+      {
+        "thumb_url": "data/media/posts/thumbs/1520-2-4461a95b86ad.jpg",
+        "full_url": "data/media/posts/1520-2-4461a95b86ad.jpg"
+      },
+      {
+        "thumb_url": "data/media/posts/thumbs/1520-3-9674fc15e3ee.jpg",
+        "full_url": "data/media/posts/1520-3-9674fc15e3ee.jpg"
+      }
+    ],
+    "video_url": null,
+    "tg_url": "https://t.me/pgp_official/1520",
+    "permalink": "posts/1520/"
+  }
+}

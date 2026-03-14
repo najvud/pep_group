@@ -1,0 +1,50 @@
+{
+  "generated_at": "2026-03-14T00:10:23.162Z",
+  "site": {
+    "channel_username": "pgp_official",
+    "channel_title": "Pepeliaev Group | Пепеляев Групп",
+    "site_name": "Pepeliaev Group | Пепеляев Групп",
+    "site_description": "Официальный канал юридической компании «Пепеляев Групп». Новости компании, правовые обзоры законодательства и судебной практики, комментарии экспертов.",
+    "language": "ru",
+    "accent_color": "#91278d",
+    "background_color": "#f5f7fa",
+    "avatar_path": "assets/channel-avatar.jpg",
+    "messages_limit": 250,
+    "comments_posts_limit": 40,
+    "comments_max_age_days": 7
+  },
+  "source": {
+    "channel_url": "https://t.me/s/pgp_official",
+    "comments_enabled": false
+  },
+  "post": {
+    "id": 1736,
+    "date": "2026-02-26T14:16:14+00:00",
+    "text": "🏆 Эксперты «Пепеляев Групп» продемонстрировали выдающиеся результаты в индивидуальном рейтинге Право-300, 2025\n\n44 юриста «Пепеляев Групп» рекомендованы индивидуальным рейтингом Право-300 по результатам 2025 года. Трое из экспертов отмечены в рейтинге впервые.\n\n📎 Полный список рекомендованных юристов в карточках и на сайте.\n\nПоздравляем коллег с профессиональными успехами 🎉\n\n#pg_победы",
+    "text_html": "🏆 Эксперты «Пепеляев Групп» продемонстрировали выдающиеся результаты в индивидуальном рейтинге Право-300, 2025<br><br>44 юриста «Пепеляев Групп» рекомендованы индивидуальным рейтингом Право-300 по результатам 2025 года. Трое из экспертов отмечены в рейтинге впервые.<br><br>📎 Полный список рекомендованных юристов в карточках и <a href=\"https://www.pgplaw.ru/news/press-releases/individualniy-reyting-pravo300-2025/\" target=\"_blank\" rel=\"noopener noreferrer\">на сайте.</a><br><br>Поздравляем коллег с профессиональными успехами 🎉<br><br>#pg_победы",
+    "views": 1350,
+    "comments_count": 0,
+    "comments_url": null,
+    "photos": [
+      {
+        "thumb_url": "data/media/posts/thumbs/1736-1-341e9ca25f62.jpg",
+        "full_url": "data/media/posts/1736-1-341e9ca25f62.jpg"
+      },
+      {
+        "thumb_url": "data/media/posts/thumbs/1736-2-5add10466d34.jpg",
+        "full_url": "data/media/posts/1736-2-5add10466d34.jpg"
+      },
+      {
+        "thumb_url": "data/media/posts/thumbs/1736-3-9e8d05c01419.jpg",
+        "full_url": "data/media/posts/1736-3-9e8d05c01419.jpg"
+      },
+      {
+        "thumb_url": "data/media/posts/thumbs/1736-4-b88149469801.jpg",
+        "full_url": "data/media/posts/1736-4-b88149469801.jpg"
+      }
+    ],
+    "video_url": null,
+    "tg_url": "https://t.me/pgp_official/1736",
+    "permalink": "posts/1736/"
+  }
+}

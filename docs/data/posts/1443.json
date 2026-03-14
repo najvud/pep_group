@@ -1,0 +1,38 @@
+{
+  "generated_at": "2026-03-14T00:10:23.162Z",
+  "site": {
+    "channel_username": "pgp_official",
+    "channel_title": "Pepeliaev Group | Пепеляев Групп",
+    "site_name": "Pepeliaev Group | Пепеляев Групп",
+    "site_description": "Официальный канал юридической компании «Пепеляев Групп». Новости компании, правовые обзоры законодательства и судебной практики, комментарии экспертов.",
+    "language": "ru",
+    "accent_color": "#91278d",
+    "background_color": "#f5f7fa",
+    "avatar_path": "assets/channel-avatar.jpg",
+    "messages_limit": 250,
+    "comments_posts_limit": 40,
+    "comments_max_age_days": 7
+  },
+  "source": {
+    "channel_url": "https://t.me/s/pgp_official",
+    "comments_enabled": false
+  },
+  "post": {
+    "id": 1443,
+    "date": "2025-07-24T13:01:02+00:00",
+    "text": "⚡️ Делимся новым выпуском Legal Drinks\n\nНа этот раз Роман Бевзенко встретился с Андреем Егоровым, профессором ВШЭ, руководителем «Лексториума», главным редактором журнала «Цивилистика».\n\nВ выпуске обсуждаем:\n▫️Сильные и слабые стороны системы бакалавриата и магистратуры в юридическом образовании;\n▫️Три уровня проблем банкротного права: тактический, системный и стратегический;\n▫️Как подходить к анализу судебной практики — и зачем это нужно исследователю.\n\nПрисоединяйтесь к дегустации белого вина 🥂 и приятного просмотра видеоролика на удобной для вас платформе:\n\n📹 Rutube\n📹 VK\n📹 YouTube",
+    "text_html": "⚡️ Делимся новым выпуском Legal Drinks<br><br>На этот раз Роман Бевзенко встретился с Андреем Егоровым, профессором ВШЭ, руководителем «Лексториума», главным редактором журнала «Цивилистика».<br><br>В выпуске обсуждаем:<br>▫️Сильные и слабые стороны системы бакалавриата и магистратуры в юридическом образовании;<br>▫️Три уровня проблем банкротного права: тактический, системный и стратегический;<br>▫️Как подходить к анализу судебной практики — и зачем это нужно исследователю.<br><br>Присоединяйтесь к дегустации белого вина 🥂 и приятного просмотра видеоролика на удобной для вас платформе:<br><br>📹 <a href=\"https://rutube.ru/video/803a68f77033efc859093e0610053392/\" target=\"_blank\" rel=\"noopener noreferrer\">Rutube</a><br>📹 <a href=\"https://vkvideo.ru/video-227047542_456239323\" target=\"_blank\" rel=\"noopener noreferrer\">VK</a><br>📹 <a href=\"https://www.youtube.com/watch?v=J9rjIftpEqo\" target=\"_blank\" rel=\"noopener noreferrer\">YouTube</a>",
+    "views": 1600,
+    "comments_count": 0,
+    "comments_url": null,
+    "photos": [
+      {
+        "thumb_url": "data/media/posts/thumbs/1443-1-8cee00946c54.jpg",
+        "full_url": "data/media/posts/1443-1-8cee00946c54.jpg"
+      }
+    ],
+    "video_url": null,
+    "tg_url": "https://t.me/pgp_official/1443",
+    "permalink": "posts/1443/"
+  }
+}

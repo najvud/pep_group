@@ -1,0 +1,42 @@
+{
+  "generated_at": "2026-03-14T00:10:23.162Z",
+  "site": {
+    "channel_username": "pgp_official",
+    "channel_title": "Pepeliaev Group | Пепеляев Групп",
+    "site_name": "Pepeliaev Group | Пепеляев Групп",
+    "site_description": "Официальный канал юридической компании «Пепеляев Групп». Новости компании, правовые обзоры законодательства и судебной практики, комментарии экспертов.",
+    "language": "ru",
+    "accent_color": "#91278d",
+    "background_color": "#f5f7fa",
+    "avatar_path": "assets/channel-avatar.jpg",
+    "messages_limit": 250,
+    "comments_posts_limit": 40,
+    "comments_max_age_days": 7
+  },
+  "source": {
+    "channel_url": "https://t.me/s/pgp_official",
+    "comments_enabled": false
+  },
+  "post": {
+    "id": 1379,
+    "date": "2025-06-16T12:48:46+00:00",
+    "text": "📄 Новый пост в рубрике #PGграмотность\n\n❓Специализироваться по налоговому праву или специализироваться в налоговом праве?\n\nОтвечаем на вопрос в нашей карточке правописания!",
+    "text_html": "📄 Новый пост в рубрике #PGграмотность<br><br>❓Специализироваться по налоговому праву или специализироваться в налоговом праве?<br><br>Отвечаем на вопрос в нашей карточке правописания!",
+    "views": 1250,
+    "comments_count": 0,
+    "comments_url": null,
+    "photos": [
+      {
+        "thumb_url": "data/media/posts/thumbs/1379-1-4f951d270348.jpg",
+        "full_url": "data/media/posts/1379-1-4f951d270348.jpg"
+      },
+      {
+        "thumb_url": "data/media/posts/thumbs/1379-2-da2e14201656.jpg",
+        "full_url": "data/media/posts/1379-2-da2e14201656.jpg"
+      }
+    ],
+    "video_url": null,
+    "tg_url": "https://t.me/pgp_official/1379",
+    "permalink": "posts/1379/"
+  }
+}

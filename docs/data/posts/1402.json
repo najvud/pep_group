@@ -1,0 +1,38 @@
+{
+  "generated_at": "2026-03-14T00:10:23.162Z",
+  "site": {
+    "channel_username": "pgp_official",
+    "channel_title": "Pepeliaev Group | Пепеляев Групп",
+    "site_name": "Pepeliaev Group | Пепеляев Групп",
+    "site_description": "Официальный канал юридической компании «Пепеляев Групп». Новости компании, правовые обзоры законодательства и судебной практики, комментарии экспертов.",
+    "language": "ru",
+    "accent_color": "#91278d",
+    "background_color": "#f5f7fa",
+    "avatar_path": "assets/channel-avatar.jpg",
+    "messages_limit": 250,
+    "comments_posts_limit": 40,
+    "comments_max_age_days": 7
+  },
+  "source": {
+    "channel_url": "https://t.me/s/pgp_official",
+    "comments_enabled": false
+  },
+  "post": {
+    "id": 1402,
+    "date": "2025-06-30T12:06:55+00:00",
+    "text": "❓В каких случаях у вас могут изъять земельный участок в 2025 году? \n\nНа недавнем Петербургском Правовом Саммите старший партнер Сергей Спасеннов обобщил ключевые изменения, связанные с новыми правилами изъятия неиспользуемых земельных участков. \n\n📹 Смотрите видеоролик на YouTube, Rutube или VK и проверьте, попадаете ли вы в зону риска!  \n\n#видео",
+    "text_html": "❓В каких случаях у вас могут изъять земельный участок в 2025 году? <br><br>На недавнем Петербургском Правовом Саммите старший партнер Сергей Спасеннов обобщил ключевые изменения, связанные с новыми правилами изъятия неиспользуемых земельных участков. <br><br>📹 Смотрите видеоролик на <a href=\"https://youtu.be/em_M3tRilxg\" target=\"_blank\" rel=\"noopener noreferrer\">YouTube,</a> <a href=\"https://rutube.ru/video/aa6458d9ee27e9654b10da273c11c1cc/\" target=\"_blank\" rel=\"noopener noreferrer\">Rutube</a> или <a href=\"https://vkvideo.ru/video-227047542_456239314\" target=\"_blank\" rel=\"noopener noreferrer\">VK</a> и проверьте, попадаете ли вы в зону риска!  <br><br>#видео",
+    "views": 3540,
+    "comments_count": 0,
+    "comments_url": null,
+    "photos": [
+      {
+        "thumb_url": "data/media/posts/thumbs/1402-1-5c5c41e834d8.jpg",
+        "full_url": "data/media/posts/1402-1-5c5c41e834d8.jpg"
+      }
+    ],
+    "video_url": null,
+    "tg_url": "https://t.me/pgp_official/1402",
+    "permalink": "posts/1402/"
+  }
+}

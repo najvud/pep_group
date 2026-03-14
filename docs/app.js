@@ -1,6 +1,7 @@
 'use strict';
 
 const FEED_URL = 'data/posts.json';
+const PAGES_DIR = 'data/pages';
 const COMMENTS_DIR = 'data/comments';
 const PAGE_SIZE = 16;
 
@@ -8,6 +9,10 @@ const state = {
   feed: null,
   posts: [],
   rendered: 0,
+  loadedPages: new Set(),
+  totalPages: 1,
+  totalPosts: 0,
+  pageSize: PAGE_SIZE,
   viewerItems: [],
   viewerIndex: 0,
   mediaRegistry: {},
@@ -92,6 +97,24 @@ function linkifyEscaped(text) {
   );
 }
 
+function normalizePhoto(photo) {
+  if (!photo) return null;
+  if (typeof photo === 'string') {
+    return { thumb_url: photo, full_url: photo };
+  }
+  const thumbUrl = photo.thumb_url || photo.thumb || photo.url || photo.full_url || photo.full;
+  const fullUrl = photo.full_url || photo.full || photo.url || photo.thumb_url || photo.thumb;
+  if (!thumbUrl && !fullUrl) return null;
+  return {
+    thumb_url: thumbUrl || fullUrl,
+    full_url: fullUrl || thumbUrl,
+  };
+}
+
+function getPostPageUrl(post) {
+  return post?.permalink || `posts/${post.id}/`;
+}
+
 function applyTheme(theme) {
   document.documentElement.setAttribute('data-theme', theme);
   localStorage.setItem('theme', theme);
@@ -156,9 +179,10 @@ function renderHeader(site, generatedAt) {
 function buildMedia(post) {
   const media = [];
 
-  (post.photos || []).forEach((url) => {
-    if (url) {
-      media.push({ type: 'image', url });
+  (post.photos || []).forEach((photo) => {
+    const entry = normalizePhoto(photo);
+    if (entry) {
+      media.push({ type: 'image', thumb_url: entry.thumb_url, full_url: entry.full_url });
     }
   });
 
@@ -174,7 +198,7 @@ function buildMedia(post) {
   const items = media.map((item, index) => {
     const content = item.type === 'video'
       ? `<video src="${item.url}" preload="metadata" muted playsinline controls></video>`
-      : `<img src="${item.url}" alt="Media ${index + 1}" loading="lazy" decoding="async">`;
+      : `<img src="${item.thumb_url}" alt="Media ${index + 1}" loading="lazy" decoding="async">`;
     return `<button class="media-trigger" type="button" data-index="${index}">${content}</button>`;
   }).join('');
 
@@ -203,6 +227,7 @@ function renderPostCard(post) {
         <span class="chip">ID: ${post.id}</span>
       </div>
       <div class="post-card__links">
+        <a class="post-card__link" href="${getPostPageUrl(post)}">Открыть пост</a>
         ${shouldShowComments ? `<button class="button button--ghost comments-trigger" type="button" data-post-id="${post.id}">${commentsLabel}</button>` : ''}
         <a class="post-card__link" href="${post.tg_url}" target="_blank" rel="noopener">Открыть в Telegram</a>
       </div>
@@ -233,7 +258,7 @@ function updateFeedMeta() {
     return;
   }
 
-  const postsCount = state.posts.length;
+  const postsCount = state.totalPosts || state.posts.length;
   const renderedCount = Math.min(state.rendered, postsCount);
   const commentsStatus = state.feed.source.comments_enabled
     ? 'Комментарии: включены'
@@ -242,6 +267,7 @@ function updateFeedMeta() {
   elements.feedMeta.innerHTML = `
     <span>Постов в ленте: <strong>${postsCount}</strong></span>
     <span>Показано: <strong>${renderedCount}</strong></span>
+    <span>Страниц: <strong>${state.totalPages || 1}</strong></span>
     <span>${commentsStatus}</span>
   `;
   elements.feedMeta.classList.remove('hidden');
@@ -250,16 +276,47 @@ function updateFeedMeta() {
 function resetFeed() {
   state.rendered = 0;
   elements.postFeed.innerHTML = '';
-  appendNextPage();
+  void appendNextPage();
 }
 
-function appendNextPage() {
-  const nextPosts = state.posts.slice(state.rendered, state.rendered + PAGE_SIZE);
+function updateLoadMoreVisibility() {
+  const hasMoreLoadedPosts = state.rendered < state.posts.length;
+  const hasMoreRemotePages = state.loadedPages.size < state.totalPages;
+  elements.loadMoreWrap.classList.toggle('hidden', !(hasMoreLoadedPosts || hasMoreRemotePages));
+}
+
+async function loadPage(pageNumber) {
+  if (state.loadedPages.has(pageNumber) || pageNumber < 2 || pageNumber > state.totalPages) {
+    return;
+  }
+
+  const response = await fetch(`${PAGES_DIR}/${pageNumber}.json`, { cache: 'no-store' });
+  if (!response.ok) throw new Error(`HTTP ${response.status}`);
+
+  const payload = await response.json();
+  state.posts.push(...(payload.posts || []));
+  state.loadedPages.add(pageNumber);
+}
+
+async function appendNextPage() {
+  try {
+    if (state.rendered >= state.posts.length && state.loadedPages.size < state.totalPages) {
+      elements.loadMoreButton.disabled = true;
+      await loadPage(state.loadedPages.size + 1);
+    }
+  } catch (error) {
+    setStatus(elements.statusBanner, `Ошибка подгрузки следующей страницы: ${error.message}`);
+    elements.loadMoreButton.disabled = false;
+    return;
+  }
+
+  const nextPosts = state.posts.slice(state.rendered, state.rendered + state.pageSize);
   const fragment = document.createDocumentFragment();
   nextPosts.forEach((post) => fragment.appendChild(renderPostCard(post)));
   elements.postFeed.appendChild(fragment);
   state.rendered += nextPosts.length;
-  elements.loadMoreWrap.classList.toggle('hidden', state.rendered >= state.posts.length);
+  elements.loadMoreButton.disabled = false;
+  updateLoadMoreVisibility();
   updateFeedMeta();
 }
 
@@ -283,7 +340,7 @@ function renderViewer() {
 
   elements.viewerContent.innerHTML = item.type === 'video'
     ? `<video src="${item.url}" controls autoplay></video>`
-    : `<img src="${item.url}" alt="Media preview">`;
+    : `<img src="${item.full_url || item.thumb_url}" alt="Media preview">`;
 
   const hasMultiple = state.viewerItems.length > 1;
   elements.viewerPrev.classList.toggle('hidden', !hasMultiple);
@@ -376,7 +433,13 @@ async function loadFeed(force = false) {
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
 
     state.feed = await response.json();
+    const pagination = state.feed.pagination || {};
     state.posts = state.feed.posts || [];
+    state.totalPosts = Number(pagination.total_posts) || state.posts.length;
+    state.totalPages = Number(pagination.total_pages) || 1;
+    state.pageSize = Number(pagination.page_size) || PAGE_SIZE;
+    state.loadedPages = new Set(state.posts.length ? [1] : []);
+    state.mediaRegistry = {};
 
     renderHeader(state.feed.site || {}, state.feed.generated_at);
     elements.loadingState.classList.add('hidden');
@@ -384,6 +447,7 @@ async function loadFeed(force = false) {
     if (!state.posts.length) {
       elements.emptyState.classList.remove('hidden');
       updateFeedMeta();
+      updateLoadMoreVisibility();
       return;
     }
 

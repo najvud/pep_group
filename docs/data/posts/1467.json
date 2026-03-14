@@ -1,0 +1,54 @@
+{
+  "generated_at": "2026-03-14T00:10:23.162Z",
+  "site": {
+    "channel_username": "pgp_official",
+    "channel_title": "Pepeliaev Group | Пепеляев Групп",
+    "site_name": "Pepeliaev Group | Пепеляев Групп",
+    "site_description": "Официальный канал юридической компании «Пепеляев Групп». Новости компании, правовые обзоры законодательства и судебной практики, комментарии экспертов.",
+    "language": "ru",
+    "accent_color": "#91278d",
+    "background_color": "#f5f7fa",
+    "avatar_path": "assets/channel-avatar.jpg",
+    "messages_limit": 250,
+    "comments_posts_limit": 40,
+    "comments_max_age_days": 7
+  },
+  "source": {
+    "channel_url": "https://t.me/s/pgp_official",
+    "comments_enabled": false
+  },
+  "post": {
+    "id": 1467,
+    "date": "2025-08-18T07:30:25+00:00",
+    "text": "🏆 Рассказываем о нашей новой важной победе\n\nКоманда банковской и финансовой практики «Пепеляев Групп»успешно сопроводила проект по получению выплаты по еврооблигациям в рамках Указа Президента России от 19.03.2024 № 198 российскому частному инвестору — держателю еврооблигаций ВЭБ.РФ со схемой учета в иностранном контуре, который не мог получить купонные выплаты из-за режима санкций \nв отношении России. \n\n👉 Подробнее в карточках и на сайте. \n\n#pg_победы",
+    "text_html": "🏆 Рассказываем о нашей новой важной победе<br><br>Команда <a href=\"https://www.pgplaw.ru/practice-and-industry/practices/banking-and-finance/\" target=\"_blank\" rel=\"noopener noreferrer\">банковской и финансовой практики «Пепеляев Групп»</a>успешно сопроводила проект по получению выплаты по еврооблигациям в рамках Указа Президента России от 19.03.2024 № 198 российскому частному инвестору — держателю еврооблигаций <a href=\"http://%D0%92%D0%AD%D0%91.%D0%A0%D0%A4/\" target=\"_blank\" rel=\"noopener noreferrer\">ВЭБ.РФ</a> со схемой учета в иностранном контуре, который не мог получить купонные выплаты из-за режима санкций <br>в отношении России. <br><br>👉 Подробнее в карточках и <a href=\"https://www.pgplaw.ru/our-experience/235959/\" target=\"_blank\" rel=\"noopener noreferrer\">на сайте</a>. <br><br>#pg_победы",
+    "views": 1230,
+    "comments_count": 0,
+    "comments_url": null,
+    "photos": [
+      {
+        "thumb_url": "data/media/posts/thumbs/1467-1-40946bcca603.jpg",
+        "full_url": "data/media/posts/1467-1-40946bcca603.jpg"
+      },
+      {
+        "thumb_url": "data/media/posts/thumbs/1467-2-683bdc7b1217.jpg",
+        "full_url": "data/media/posts/1467-2-683bdc7b1217.jpg"
+      },
+      {
+        "thumb_url": "data/media/posts/thumbs/1467-3-d5f66aff4c40.jpg",
+        "full_url": "data/media/posts/1467-3-d5f66aff4c40.jpg"
+      },
+      {
+        "thumb_url": "data/media/posts/thumbs/1467-4-bdbd001c2fe3.jpg",
+        "full_url": "data/media/posts/1467-4-bdbd001c2fe3.jpg"
+      },
+      {
+        "thumb_url": "data/media/posts/thumbs/1467-5-b7d9c544aa0e.jpg",
+        "full_url": "data/media/posts/1467-5-b7d9c544aa0e.jpg"
+      }
+    ],
+    "video_url": null,
+    "tg_url": "https://t.me/pgp_official/1467",
+    "permalink": "posts/1467/"
+  }
+}

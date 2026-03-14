@@ -1,0 +1,38 @@
+{
+  "generated_at": "2026-03-14T00:10:23.162Z",
+  "site": {
+    "channel_username": "pgp_official",
+    "channel_title": "Pepeliaev Group | Пепеляев Групп",
+    "site_name": "Pepeliaev Group | Пепеляев Групп",
+    "site_description": "Официальный канал юридической компании «Пепеляев Групп». Новости компании, правовые обзоры законодательства и судебной практики, комментарии экспертов.",
+    "language": "ru",
+    "accent_color": "#91278d",
+    "background_color": "#f5f7fa",
+    "avatar_path": "assets/channel-avatar.jpg",
+    "messages_limit": 250,
+    "comments_posts_limit": 40,
+    "comments_max_age_days": 7
+  },
+  "source": {
+    "channel_url": "https://t.me/s/pgp_official",
+    "comments_enabled": false
+  },
+  "post": {
+    "id": 1482,
+    "date": "2025-08-25T10:02:57+00:00",
+    "text": "👀 Опубликован электронный журнал «Конкуренция и право» № 4 за 2025 г.\n\n➡️ Доступны для чтения материалы электронного журнала «Конкуренция и право» № 4 за 2025 г. Тема номера – «Уроки практики».\n\n#КиП",
+    "text_html": "👀 <a href=\"https://cljournal.ru/news/27531/\" target=\"_blank\" rel=\"noopener noreferrer\">Опубликован электронный журнал «Конкуренция и право» № 4 за 2025 г.</a><br><br>➡️ Доступны для чтения материалы <a href=\"https://e.cljournal.ru/?mid=46863\" target=\"_blank\" rel=\"noopener noreferrer\">электронного журнала «Конкуренция и право» № 4 за 2025 г. Тема</a> номера – «Уроки практики».<br><br>#КиП",
+    "views": 1260,
+    "comments_count": 0,
+    "comments_url": null,
+    "photos": [
+      {
+        "thumb_url": "data/media/posts/thumbs/1482-1-94c7935cc1f1.jpg",
+        "full_url": "data/media/posts/1482-1-94c7935cc1f1.jpg"
+      }
+    ],
+    "video_url": null,
+    "tg_url": "https://t.me/pgp_official/1482",
+    "permalink": "posts/1482/"
+  }
+}

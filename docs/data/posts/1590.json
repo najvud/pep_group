@@ -1,0 +1,38 @@
+{
+  "generated_at": "2026-03-14T00:10:23.162Z",
+  "site": {
+    "channel_username": "pgp_official",
+    "channel_title": "Pepeliaev Group | Пепеляев Групп",
+    "site_name": "Pepeliaev Group | Пепеляев Групп",
+    "site_description": "Официальный канал юридической компании «Пепеляев Групп». Новости компании, правовые обзоры законодательства и судебной практики, комментарии экспертов.",
+    "language": "ru",
+    "accent_color": "#91278d",
+    "background_color": "#f5f7fa",
+    "avatar_path": "assets/channel-avatar.jpg",
+    "messages_limit": 250,
+    "comments_posts_limit": 40,
+    "comments_max_age_days": 7
+  },
+  "source": {
+    "channel_url": "https://t.me/s/pgp_official",
+    "comments_enabled": false
+  },
+  "post": {
+    "id": 1590,
+    "date": "2025-11-07T11:03:50+00:00",
+    "text": "📚  Книги «Пепеляев Групп» на OZON\n\nИногда для вдохновения достаточно хорошей книги и чашки ароматного кофе. А если книга ещё и помогает разобраться в сложных правовых вопросах — это двойная польза.\n\nНапоминаем, что книги наших авторов — учебные пособия и сборники — доступны на Ozon.\n\n👉 Посмотреть и заказать книги можно по ссылке.",
+    "text_html": "📚  Книги «Пепеляев Групп» на OZON<br><br>Иногда для вдохновения достаточно хорошей книги и чашки ароматного кофе. А если книга ещё и помогает разобраться в сложных правовых вопросах — это двойная польза.<br><br>Напоминаем, что книги наших авторов — учебные пособия и сборники — доступны на <a href=\"https://www.ozon.ru/seller/pepelyaev-grupp-273699/\" target=\"_blank\" rel=\"noopener noreferrer\">Ozon</a>.<br><br>👉 Посмотреть и заказать книги можно <a href=\"https://www.ozon.ru/seller/pepelyaev-grupp-273699/\" target=\"_blank\" rel=\"noopener noreferrer\">по ссылке</a>.",
+    "views": 1340,
+    "comments_count": 0,
+    "comments_url": null,
+    "photos": [
+      {
+        "thumb_url": "data/media/posts/thumbs/1590-1-39a3a1bcfc34.jpg",
+        "full_url": "data/media/posts/1590-1-39a3a1bcfc34.jpg"
+      }
+    ],
+    "video_url": null,
+    "tg_url": "https://t.me/pgp_official/1590",
+    "permalink": "posts/1590/"
+  }
+}

@@ -1,4 +1,4 @@
-const CACHE_NAME = 'telegram-pages-mirror-v3';
+const CACHE_NAME = 'telegram-pages-mirror-v4';
 const STATIC_ASSETS = [
   './manifest.webmanifest',
   './assets/icon.svg',

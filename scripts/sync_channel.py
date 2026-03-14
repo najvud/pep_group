@@ -3,8 +3,10 @@ from __future__ import annotations
 import asyncio
 import hashlib
 import html as html_lib
+import io
 import json
 import logging
+import math
 import os
 import re
 import sys
@@ -14,7 +16,7 @@ from dataclasses import dataclass
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Any
-from urllib.parse import urljoin, urlparse
+from urllib.parse import urljoin
 from urllib.request import Request, urlopen
 
 
@@ -24,8 +26,13 @@ DOCS_DIR = ROOT / "docs"
 DATA_DIR = DOCS_DIR / "data"
 POSTS_PATH = DATA_DIR / "posts.json"
 COMMENTS_DIR = DATA_DIR / "comments"
+PAGES_DIR = DATA_DIR / "pages"
+POST_DETAILS_DIR = DATA_DIR / "posts"
 POSTS_MEDIA_DIR = DATA_DIR / "media" / "posts"
+POSTS_THUMBS_DIR = POSTS_MEDIA_DIR / "thumbs"
+POST_PAGES_DIR = DOCS_DIR / "posts"
 MANIFEST_PATH = DOCS_DIR / "manifest.webmanifest"
+FEED_PAGE_SIZE = 16
 
 BASE_HEADERS = {
     "User-Agent": "Mozilla/5.0 (compatible; TelegramPagesMirror/1.0)",
@@ -150,64 +157,131 @@ def fetch_binary(url: str) -> bytes:
         return response.read()
 
 
-def guess_media_extension(url: str) -> str:
-    suffix = Path(urlparse(url).path).suffix.lower()
-    if suffix in {".jpg", ".jpeg", ".png", ".webp", ".gif", ".svg", ".avif"}:
-        return suffix
-    return ".jpg"
+def normalize_photo_entry(photo: Any) -> dict[str, str] | None:
+    if not photo:
+        return None
+    if isinstance(photo, str):
+        relative_url = photo.lstrip("./")
+        return {
+            "thumb_url": relative_url,
+            "full_url": relative_url,
+        }
+    if isinstance(photo, dict):
+        thumb_url = (photo.get("thumb_url") or photo.get("thumb") or photo.get("url") or "").lstrip("./")
+        full_url = (photo.get("full_url") or photo.get("full") or photo.get("url") or thumb_url).lstrip("./")
+        if not thumb_url and full_url:
+            thumb_url = full_url
+        if thumb_url and full_url:
+            return {
+                "thumb_url": thumb_url,
+                "full_url": full_url,
+            }
+    return None
+
+
+def optimize_image_variants(raw_bytes: bytes, full_path: Path, thumb_path: Path) -> bool:
+    changes_detected = False
+    try:
+        from PIL import Image, ImageOps
+
+        with Image.open(io.BytesIO(raw_bytes)) as image:
+            image = ImageOps.exif_transpose(image)
+            image.load()
+
+            if image.mode not in ("RGB", "L"):
+                background = Image.new("RGB", image.size, "white")
+                alpha = image.getchannel("A") if "A" in image.getbands() else None
+                background.paste(image.convert("RGBA"), mask=alpha)
+                image = background
+            elif image.mode == "L":
+                image = image.convert("RGB")
+
+            full_image = image.copy()
+            full_image.thumbnail((1600, 1600))
+            if not full_path.exists():
+                full_image.save(full_path, format="JPEG", quality=82, optimize=True, progressive=True)
+                changes_detected = True
+
+            thumb_image = image.copy()
+            thumb_image.thumbnail((640, 640))
+            if not thumb_path.exists():
+                thumb_image.save(thumb_path, format="JPEG", quality=68, optimize=True, progressive=True)
+                changes_detected = True
+    except Exception as error:  # pragma: no cover - runtime/image libs path
+        log.warning("Image optimization fallback used: %s", error)
+        if not full_path.exists():
+            full_path.write_bytes(raw_bytes)
+            changes_detected = True
+        if not thumb_path.exists():
+            thumb_path.write_bytes(raw_bytes)
+            changes_detected = True
+
+    return changes_detected
 
 
 def mirror_post_photos(posts: list[dict[str, Any]]) -> bool:
     POSTS_MEDIA_DIR.mkdir(parents=True, exist_ok=True)
+    POSTS_THUMBS_DIR.mkdir(parents=True, exist_ok=True)
     active_relative_paths: set[str] = set()
     changes_detected = False
 
     for post in posts:
-        mirrored_photos: list[str] = []
+        mirrored_photos: list[dict[str, str]] = []
 
-        for index, url in enumerate(post.get("photos") or []):
-            if not url:
+        for index, raw_photo in enumerate(post.get("photos") or []):
+            photo = normalize_photo_entry(raw_photo)
+            if not photo:
                 continue
 
-            if not re.match(r"^https?://", url):
-                relative_url = url.lstrip("./")
-                mirrored_photos.append(relative_url)
-                active_relative_paths.add(relative_url)
+            full_source = photo["full_url"]
+            if not re.match(r"^https?://", full_source):
+                active_relative_paths.add(full_source)
+                active_relative_paths.add(photo["thumb_url"])
+                mirrored_photos.append(photo)
                 continue
 
-            extension = guess_media_extension(url)
-            digest = hashlib.sha256(url.encode("utf-8")).hexdigest()[:12]
-            filename = f"{post['id']}-{index + 1}-{digest}{extension}"
-            local_path = POSTS_MEDIA_DIR / filename
+            digest = hashlib.sha256(full_source.encode("utf-8")).hexdigest()[:12]
+            filename = f"{post['id']}-{index + 1}-{digest}.jpg"
+            full_path = POSTS_MEDIA_DIR / filename
+            thumb_path = POSTS_THUMBS_DIR / filename
 
             try:
-                if not local_path.exists():
-                    local_path.write_bytes(fetch_binary(url))
-                    log.info("Downloaded post image %s", local_path.relative_to(ROOT))
-                    changes_detected = True
+                if not full_path.exists() or not thumb_path.exists():
+                    raw_bytes = fetch_binary(full_source)
+                    if optimize_image_variants(raw_bytes, full_path, thumb_path):
+                        log.info("Prepared image variants for post %s", post["id"])
+                        changes_detected = True
             except Exception as error:  # pragma: no cover - network/runtime path
                 log.warning("Failed to mirror image for post %s: %s", post["id"], error)
-                mirrored_photos.append(url)
+                mirrored_photos.append(photo)
                 continue
 
-            relative_url = local_path.relative_to(DOCS_DIR).as_posix()
-            mirrored_photos.append(relative_url)
-            active_relative_paths.add(relative_url)
+            full_relative_url = full_path.relative_to(DOCS_DIR).as_posix()
+            thumb_relative_url = thumb_path.relative_to(DOCS_DIR).as_posix()
+            mirrored_photos.append(
+                {
+                    "thumb_url": thumb_relative_url,
+                    "full_url": full_relative_url,
+                }
+            )
+            active_relative_paths.add(full_relative_url)
+            active_relative_paths.add(thumb_relative_url)
 
         if post.get("photos") != mirrored_photos:
             post["photos"] = mirrored_photos
 
-    for path in POSTS_MEDIA_DIR.glob("*"):
-        if not path.is_file():
-            continue
+    for base_dir in (POSTS_MEDIA_DIR, POSTS_THUMBS_DIR):
+        for path in base_dir.glob("*"):
+            if not path.is_file():
+                continue
 
-        relative_url = path.relative_to(DOCS_DIR).as_posix()
-        if relative_url in active_relative_paths:
-            continue
+            relative_url = path.relative_to(DOCS_DIR).as_posix()
+            if relative_url in active_relative_paths:
+                continue
 
-        path.unlink()
-        log.info("Deleted stale mirrored image %s", path.relative_to(ROOT))
-        changes_detected = True
+            path.unlink()
+            log.info("Deleted stale mirrored image %s", path.relative_to(ROOT))
+            changes_detected = True
 
     return changes_detected
 
@@ -495,25 +569,242 @@ def write_manifest(config: SiteConfig) -> bool:
     return write_text_if_changed(MANIFEST_PATH, json.dumps(manifest, ensure_ascii=False, indent=2) + "\n")
 
 
-def build_posts_payload(config: SiteConfig, posts: list[dict[str, Any]], comments_enabled: bool) -> dict[str, Any]:
+def build_site_payload(config: SiteConfig) -> dict[str, Any]:
+    return {
+        "channel_username": config.channel_username,
+        "channel_title": config.channel_title,
+        "site_name": config.site_name,
+        "site_description": config.site_description,
+        "language": config.language,
+        "accent_color": config.accent_color,
+        "background_color": config.background_color,
+        "avatar_path": config.avatar_path,
+    }
+
+
+def build_source_payload(config: SiteConfig, comments_enabled: bool) -> dict[str, Any]:
+    return {
+        "channel_url": config.channel_web_url,
+        "comments_enabled": comments_enabled,
+    }
+
+
+def build_feed_index_payload(config: SiteConfig, posts: list[dict[str, Any]], comments_enabled: bool) -> dict[str, Any]:
+    total_pages = max(1, math.ceil(len(posts) / FEED_PAGE_SIZE))
     return {
         "generated_at": None,
-        "site": {
-            "channel_username": config.channel_username,
-            "channel_title": config.channel_title,
-            "site_name": config.site_name,
-            "site_description": config.site_description,
-            "language": config.language,
-            "accent_color": config.accent_color,
-            "background_color": config.background_color,
-            "avatar_path": config.avatar_path,
+        "site": build_site_payload(config),
+        "source": build_source_payload(config, comments_enabled),
+        "pagination": {
+            "page": 1,
+            "page_size": FEED_PAGE_SIZE,
+            "total_posts": len(posts),
+            "total_pages": total_pages,
         },
-        "source": {
-            "channel_url": config.channel_web_url,
-            "comments_enabled": comments_enabled,
-        },
-        "posts": posts,
+        "posts": posts[:FEED_PAGE_SIZE],
     }
+
+
+def build_feed_page_payload(page: int, posts: list[dict[str, Any]], total_posts: int) -> dict[str, Any]:
+    total_pages = max(1, math.ceil(total_posts / FEED_PAGE_SIZE))
+    start = (page - 1) * FEED_PAGE_SIZE
+    end = start + FEED_PAGE_SIZE
+    return {
+        "generated_at": None,
+        "pagination": {
+            "page": page,
+            "page_size": FEED_PAGE_SIZE,
+            "total_posts": total_posts,
+            "total_pages": total_pages,
+        },
+        "posts": posts[start:end],
+    }
+
+
+def build_post_payload(config: SiteConfig, post: dict[str, Any], comments_enabled: bool) -> dict[str, Any]:
+    return {
+        "generated_at": None,
+        "site": build_site_payload(config),
+        "source": build_source_payload(config, comments_enabled),
+        "post": post,
+    }
+
+
+def strip_tags(value: str | None) -> str:
+    return re.sub(r"<[^>]+>", "", value or "").strip()
+
+
+def collapse_whitespace(value: str | None) -> str:
+    return re.sub(r"\s+", " ", (value or "")).strip()
+
+
+def shorten_text(value: str | None, limit: int) -> str:
+    collapsed = collapse_whitespace(value)
+    if len(collapsed) <= limit:
+        return collapsed
+    clipped = collapsed[:limit].rsplit(" ", 1)[0].strip()
+    return f"{clipped}…" if clipped else collapsed[:limit]
+
+
+def post_permalink(post_id: int) -> str:
+    return f"posts/{post_id}/"
+
+
+def enrich_posts(posts: list[dict[str, Any]]) -> None:
+    for post in posts:
+        post["permalink"] = post_permalink(post["id"])
+
+
+def render_post_page_media(post: dict[str, Any]) -> str:
+    photos = [normalize_photo_entry(photo) for photo in post.get("photos") or []]
+    photos = [photo for photo in photos if photo]
+    if not photos and not post.get("video_url"):
+        return ""
+
+    media_items: list[str] = []
+    for index, photo in enumerate(photos):
+        media_items.append(
+            (
+                '<a class="media-trigger" href="../../{full_url}" target="_blank" rel="noopener">'
+                '<img src="../../{thumb_url}" alt="Media {index}" loading="lazy" decoding="async"></a>'
+            ).format(
+                full_url=html_lib.escape(photo["full_url"]),
+                thumb_url=html_lib.escape(photo["thumb_url"]),
+                index=index + 1,
+            )
+        )
+
+    if post.get("video_url"):
+        media_items.append(
+            f'<video src="{html_lib.escape(post["video_url"])}" preload="metadata" controls playsinline></video>'
+        )
+
+    gallery_class = "post-card__media post-card__media--gallery" if len(media_items) > 1 else "post-card__media"
+    return f'<div class="{gallery_class}">{"".join(media_items)}</div>'
+
+
+def render_post_page_html(config: SiteConfig, post: dict[str, Any], comments_enabled: bool) -> str:
+    title = shorten_text(post.get("text") or f"Пост #{post['id']}", 72) or f"Пост #{post['id']}"
+    description = shorten_text(strip_tags(post.get("text_html") or post.get("text") or ""), 180) or config.site_description
+    first_photo = normalize_photo_entry((post.get("photos") or [None])[0])
+    og_image = f"../../{first_photo['full_url']}" if first_photo else f"../../{config.avatar_path}"
+    comments_link = f'../../#comments-{post["id"]}' if comments_enabled else "../../"
+    comments_cta = ""
+    if comments_enabled and (post.get("comments_count") or post.get("comments_url") or post.get("comments_available")):
+        comments_cta = (
+            f'<a class="button button--ghost" href="{comments_link}">'
+            f'Комментарии ({post.get("comments_count") or 0})</a>'
+        )
+
+    return f"""<!DOCTYPE html>
+<html lang="{html_lib.escape(config.language)}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{html_lib.escape(title)} | {html_lib.escape(config.channel_title)}</title>
+  <meta name="description" content="{html_lib.escape(description)}">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="{html_lib.escape(title)}">
+  <meta property="og:description" content="{html_lib.escape(description)}">
+  <meta property="og:image" content="{html_lib.escape(og_image)}">
+  <meta property="article:published_time" content="{html_lib.escape(post.get("date") or "")}">
+  <meta name="theme-color" content="{html_lib.escape(config.accent_color)}">
+  <link rel="icon" href="../../assets/icon.svg" type="image/svg+xml">
+  <link rel="icon" href="../../assets/icon-192.png" sizes="192x192" type="image/png">
+  <link rel="apple-touch-icon" href="../../assets/apple-touch-icon.png">
+  <link rel="manifest" href="../../manifest.webmanifest">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../../style.css">
+  <script>
+    (function() {{
+      var theme = localStorage.getItem('theme');
+      if (theme) document.documentElement.setAttribute('data-theme', theme);
+    }})();
+  </script>
+</head>
+<body>
+  <div class="site-shell post-shell">
+    <header class="post-header">
+      <div>
+        <p class="eyebrow">Отдельная страница поста</p>
+        <h1 class="post-page-title">{html_lib.escape(title)}</h1>
+      </div>
+      <div class="post-header__actions">
+        <a class="button button--ghost" href="../../">К ленте</a>
+        <a class="button button--primary" href="{html_lib.escape(post["tg_url"])}" target="_blank" rel="noopener">В Telegram</a>
+      </div>
+    </header>
+
+    <article class="post-card">
+      {render_post_page_media(post)}
+      <div class="post-card__body">
+        <div class="post-card__text">{post.get("text_html") or html_lib.escape(post.get("text") or "").replace(chr(10), "<br>")}</div>
+      </div>
+      <div class="post-card__footer">
+        <div class="post-card__stats">
+          <span class="chip">{html_lib.escape(post.get("date") or "")}</span>
+          <span class="chip">Просмотры: {post.get("views") or 0}</span>
+          <span class="chip">ID: {post["id"]}</span>
+        </div>
+        <div class="post-card__links">
+          {comments_cta}
+          <a class="post-card__link" href="{html_lib.escape(post["tg_url"])}" target="_blank" rel="noopener">Открыть в Telegram</a>
+        </div>
+      </div>
+    </article>
+  </div>
+</body>
+</html>
+"""
+
+
+def cleanup_removed_page_files(total_pages: int) -> bool:
+    changed = False
+    for path in PAGES_DIR.glob("*.json"):
+        try:
+            page = int(path.stem)
+        except ValueError:
+            continue
+        if 2 <= page <= total_pages:
+            continue
+        path.unlink()
+        changed = True
+        log.info("Deleted stale page file %s", path.relative_to(ROOT))
+    return changed
+
+
+def cleanup_removed_post_detail_files(active_post_ids: set[int]) -> bool:
+    changed = False
+
+    for path in POST_DETAILS_DIR.glob("*.json"):
+        try:
+            post_id = int(path.stem)
+        except ValueError:
+            continue
+        if post_id in active_post_ids:
+            continue
+        path.unlink()
+        changed = True
+        log.info("Deleted stale post payload %s", path.relative_to(ROOT))
+
+    for directory in (POST_PAGES_DIR.iterdir() if POST_PAGES_DIR.exists() else []):
+        if not directory.is_dir():
+            continue
+        try:
+            post_id = int(directory.name)
+        except ValueError:
+            continue
+        if post_id in active_post_ids:
+            continue
+        for child in directory.glob("*"):
+            child.unlink()
+        directory.rmdir()
+        changed = True
+        log.info("Deleted stale post page %s", directory.relative_to(ROOT))
+
+    return changed
 
 
 def cleanup_removed_comment_files(active_post_ids: set[int]) -> bool:
@@ -531,6 +822,42 @@ def cleanup_removed_comment_files(active_post_ids: set[int]) -> bool:
     return changed
 
 
+def write_feed_files(config: SiteConfig, posts: list[dict[str, Any]], comments_enabled: bool) -> bool:
+    changed = False
+    total_pages = max(1, math.ceil(len(posts) / FEED_PAGE_SIZE))
+    if write_json_if_changed(POSTS_PATH, build_feed_index_payload(config, posts, comments_enabled)):
+        changed = True
+
+    PAGES_DIR.mkdir(parents=True, exist_ok=True)
+    for page in range(2, total_pages + 1):
+        payload = build_feed_page_payload(page, posts, len(posts))
+        if write_json_if_changed(PAGES_DIR / f"{page}.json", payload):
+            changed = True
+
+    changed = cleanup_removed_page_files(total_pages) or changed
+    return changed
+
+
+def write_post_detail_files(config: SiteConfig, posts: list[dict[str, Any]], comments_enabled: bool) -> bool:
+    changed = False
+    POST_DETAILS_DIR.mkdir(parents=True, exist_ok=True)
+    POST_PAGES_DIR.mkdir(parents=True, exist_ok=True)
+
+    for post in posts:
+        payload = build_post_payload(config, post, comments_enabled)
+        if write_json_if_changed(POST_DETAILS_DIR / f"{post['id']}.json", payload):
+            changed = True
+
+        page_dir = POST_PAGES_DIR / str(post["id"])
+        page_dir.mkdir(parents=True, exist_ok=True)
+        page_html = render_post_page_html(config, post, comments_enabled)
+        if write_text_if_changed(page_dir / "index.html", page_html):
+            changed = True
+
+    changed = cleanup_removed_post_detail_files({post["id"] for post in posts}) or changed
+    return changed
+
+
 def main() -> int:
     config = load_config()
     write_manifest(config)
@@ -545,6 +872,7 @@ def main() -> int:
     for post in posts:
         if post["id"] in comment_results:
             post["comments_count"] = len(comment_results[post["id"]])
+    enrich_posts(posts)
 
     changes_detected = False
     active_ids = {post["id"] for post in posts}
@@ -560,9 +888,8 @@ def main() -> int:
         if write_json_if_changed(COMMENTS_DIR / f"{post_id}.json", payload):
             changes_detected = True
 
-    posts_payload = build_posts_payload(config, posts, comments_enabled)
-    if write_json_if_changed(POSTS_PATH, posts_payload):
-        changes_detected = True
+    changes_detected = write_feed_files(config, posts, comments_enabled) or changes_detected
+    changes_detected = write_post_detail_files(config, posts, comments_enabled) or changes_detected
 
     log.info("Done. Material changes detected: %s", "yes" if changes_detected else "no")
     return 0

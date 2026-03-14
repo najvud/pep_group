@@ -1,0 +1,38 @@
+{
+  "generated_at": "2026-03-14T00:10:23.162Z",
+  "site": {
+    "channel_username": "pgp_official",
+    "channel_title": "Pepeliaev Group | Пепеляев Групп",
+    "site_name": "Pepeliaev Group | Пепеляев Групп",
+    "site_description": "Официальный канал юридической компании «Пепеляев Групп». Новости компании, правовые обзоры законодательства и судебной практики, комментарии экспертов.",
+    "language": "ru",
+    "accent_color": "#91278d",
+    "background_color": "#f5f7fa",
+    "avatar_path": "assets/channel-avatar.jpg",
+    "messages_limit": 250,
+    "comments_posts_limit": 40,
+    "comments_max_age_days": 7
+  },
+  "source": {
+    "channel_url": "https://t.me/s/pgp_official",
+    "comments_enabled": false
+  },
+  "post": {
+    "id": 1515,
+    "date": "2025-09-19T07:00:58+00:00",
+    "text": "⚡️ Управляющий партнёр «Пепеляев Групп» Сергей Пепеляев возглавил рейтинг юридических консультантов Legal Insight. \n\nВ августе журнал Legal Insight провел анонимный опрос по поводу того, чей личный бренд является самым сильным в юридическом сообществе на сегодняшний день. \n\nКоллеги попросили респондентов назвать по семь консультантов и инхаусов с сильным личным брендом. Более 100 участников опроса назвали в общей сложности 225 своих коллег.\n\n▫️Источник: Legal Insight.",
+    "text_html": "⚡️ Управляющий партнёр «Пепеляев Групп» Сергей Пепеляев возглавил рейтинг юридических консультантов Legal Insight. <br><br>В августе журнал Legal Insight провел анонимный опрос по поводу того, чей личный бренд является самым сильным в юридическом сообществе на сегодняшний день. <br><br>Коллеги попросили респондентов назвать по семь консультантов и инхаусов с сильным личным брендом. Более 100 участников опроса назвали в общей сложности 225 своих коллег.<br><br>▫️Источник: <a href=\"https://t.me/LegalInsightMagazine/2314\" target=\"_blank\" rel=\"noopener noreferrer\">Legal Insight.</a>",
+    "views": 1190,
+    "comments_count": 0,
+    "comments_url": null,
+    "photos": [
+      {
+        "thumb_url": "data/media/posts/thumbs/1515-1-b9b23755488c.jpg",
+        "full_url": "data/media/posts/1515-1-b9b23755488c.jpg"
+      }
+    ],
+    "video_url": null,
+    "tg_url": "https://t.me/pgp_official/1515",
+    "permalink": "posts/1515/"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "generated_at": "2026-03-14T00:10:23.162Z",
+  "site": {
+    "channel_username": "pgp_official",
+    "channel_title": "Pepeliaev Group | Пепеляев Групп",
+    "site_name": "Pepeliaev Group | Пепеляев Групп",
+    "site_description": "Официальный канал юридической компании «Пепеляев Групп». Новости компании, правовые обзоры законодательства и судебной практики, комментарии экспертов.",
+    "language": "ru",
+    "accent_color": "#91278d",
+    "background_color": "#f5f7fa",
+    "avatar_path": "assets/channel-avatar.jpg",
+    "messages_limit": 250,
+    "comments_posts_limit": 40,
+    "comments_max_age_days": 7
+  },
+  "source": {
+    "channel_url": "https://t.me/s/pgp_official",
+    "comments_enabled": false
+  },
+  "post": {
+    "id": 1663,
+    "date": "2025-12-31T16:13:07+00:00",
+    "text": null,
+    "text_html": null,
+    "views": 1600,
+    "comments_count": 0,
+    "comments_url": null,
+    "photos": [],
+    "video_url": "https://cdn4.telesco.pe/file/f786189bc7.mp4?token=aY-LrNQrLF_Einlk-vUK10LGhx2YLOdvu2r0zUgIaJMMmrVk91OVw7y1nHjsOsP1aP6fnXZ_T9n5303t8WEItzDPxRFAzg2WaFO_SyQHuLWKPtICmYQXW67s-p6o1FO96DC-Z8ILwgHJUY1yG8GhPTfFpE40i1vZ1064vdXG67NXIrS2wDIp9YthSPAOK7tnobw95tRL7k5fyo8wMsuL3-PASjHJMNV1AmOpFK3JgHCRE83q4x5DxqZL9vMbq7PIMrmahlOUlEFUhsUrvN099w95C4yrCxTd0KxPFL-FtVMUGagvCVWNHUmnPzxoF-n7ayhU77z9OoF9pnskjDkJ2w",
+    "tg_url": "https://t.me/pgp_official/1663",
+    "permalink": "posts/1663/"
+  }
+}
