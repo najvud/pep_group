@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-14T00:10:23.162Z",
+  "generated_at": "2026-03-14T01:11:10.765041+00:00",
   "site": {
     "channel_username": "pgp_official",
     "channel_title": "Pepeliaev Group | Пепеляев Групп",
@@ -8,10 +8,7 @@
     "language": "ru",
     "accent_color": "#91278d",
     "background_color": "#f5f7fa",
-    "avatar_path": "assets/channel-avatar.jpg",
-    "messages_limit": 250,
-    "comments_posts_limit": 40,
-    "comments_max_age_days": 7
+    "avatar_path": "assets/channel-avatar.jpg"
   },
   "source": {
     "channel_url": "https://t.me/s/pgp_official",
