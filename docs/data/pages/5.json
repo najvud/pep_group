@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-16T06:03:09.228399+00:00",
+  "generated_at": "2026-03-16T07:49:02.885687+00:00",
   "pagination": {
     "page": 5,
     "page_size": 16,
@@ -7,6 +7,24 @@
     "total_pages": 16
   },
   "posts": [
+    {
+      "id": 1658,
+      "date": "2025-12-24T09:59:54+00:00",
+      "text": "🎄 «Пепеляев Групп» – партнер Новогоднего фестиваля сказок\n\nВ этом году мы поддерживаем по-настоящему теплый и семейный новогодний проект – Новогодний фестиваль сказок в центре Москвы. Это камерный формат для детей и родителей с атмосферными спектаклями и настоящим новогодним чудом.\n\nЧто ждет гостей:\n 🔘Камерные спектакли для детей от 3 до 10 лет;\n 🔘Встреча с Дедом Морозом и подарки;\n 🔘Уютные творческие мастер-классы для детей и родителей.\n\n❄️ Афиша / Билеты\nПромокод на скидку 15% для друзей «Пепеляев Групп»: PGTAX\n\n🗓  Даты фестиваля: с 29 декабря по 10 января.\n\n📍 Место проведения: Театральный лофт Komnata 528 (Москва, Столешников переулок, 14).",
+      "text_html": "🎄 «Пепеляев Групп» – партнер Новогоднего фестиваля сказок<br><br>В этом году мы поддерживаем по-настоящему теплый и семейный новогодний проект – <a href=\"https://komnata528.space/festival/?utm_source=pepelyaevgroup\" target=\"_blank\" rel=\"noopener noreferrer\">Новогодний фестиваль сказок</a> в центре Москвы. Это камерный формат для детей и родителей с атмосферными спектаклями и настоящим новогодним чудом.<br><br>Что ждет гостей:<br> 🔘Камерные спектакли для детей от 3 до 10 лет;<br> 🔘Встреча с Дедом Морозом и подарки;<br> 🔘Уютные творческие мастер-классы для детей и родителей.<br><br>❄️ <a href=\"https://komnata528.space/festival/?utm_source=pepelyaevgroup\" target=\"_blank\" rel=\"noopener noreferrer\">Афиша / Билеты</a><br>Промокод на скидку 15% для друзей «Пепеляев Групп»: PGTAX<br><br>🗓  Даты фестиваля: с 29 декабря по 10 января.<br><br>📍 Место проведения: Театральный лофт Komnata 528 (Москва, Столешников переулок, 14).",
+      "views": 1270,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/media/posts/thumbs/1658-1-91dd72bb252d.jpg",
+          "full_url": "data/media/posts/1658-1-91dd72bb252d.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/pgp_official/1658",
+      "permalink": "posts/1658/"
+    },
     {
       "id": 1657,
       "date": "2025-12-24T06:59:54+00:00",
@@ -17,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1657-1-c6287a4d9fde.jpg",
-          "full_url": "data/media/posts/1657-1-c6287a4d9fde.jpg"
+          "thumb_url": "data/media/posts/thumbs/1657-1-89a218586913.jpg",
+          "full_url": "data/media/posts/1657-1-89a218586913.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +53,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1656-1-408ced8925f6.jpg",
-          "full_url": "data/media/posts/1656-1-408ced8925f6.jpg"
+          "thumb_url": "data/media/posts/thumbs/1656-1-87c2ec1957fc.jpg",
+          "full_url": "data/media/posts/1656-1-87c2ec1957fc.jpg"
         }
       ],
       "video_url": null,
@@ -57,8 +75,8 @@
           "full_url": "data/media/posts/1654-1-e088575a8afa.jpg"
         },
         {
-          "thumb_url": "data/media/posts/thumbs/1654-2-ec88cb963859.jpg",
-          "full_url": "data/media/posts/1654-2-ec88cb963859.jpg"
+          "thumb_url": "data/media/posts/thumbs/1654-2-375a88ed6325.jpg",
+          "full_url": "data/media/posts/1654-2-375a88ed6325.jpg"
         }
       ],
       "video_url": null,
@@ -129,16 +147,16 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1647-1-31fa5ea064f1.jpg",
-          "full_url": "data/media/posts/1647-1-31fa5ea064f1.jpg"
+          "thumb_url": "data/media/posts/thumbs/1647-1-d37fcd279ea4.jpg",
+          "full_url": "data/media/posts/1647-1-d37fcd279ea4.jpg"
         },
         {
-          "thumb_url": "data/media/posts/thumbs/1647-2-5f29997af347.jpg",
-          "full_url": "data/media/posts/1647-2-5f29997af347.jpg"
+          "thumb_url": "data/media/posts/thumbs/1647-2-0463da881349.jpg",
+          "full_url": "data/media/posts/1647-2-0463da881349.jpg"
         },
         {
-          "thumb_url": "data/media/posts/thumbs/1647-3-cdbb8c8a9037.jpg",
-          "full_url": "data/media/posts/1647-3-cdbb8c8a9037.jpg"
+          "thumb_url": "data/media/posts/thumbs/1647-3-2beef86938b7.jpg",
+          "full_url": "data/media/posts/1647-3-2beef86938b7.jpg"
         }
       ],
       "video_url": null,
@@ -155,8 +173,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1646-1-01cd2f30df43.jpg",
-          "full_url": "data/media/posts/1646-1-01cd2f30df43.jpg"
+          "thumb_url": "data/media/posts/thumbs/1646-1-8fcb4e57595b.jpg",
+          "full_url": "data/media/posts/1646-1-8fcb4e57595b.jpg"
         }
       ],
       "video_url": null,
@@ -173,8 +191,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1645-1-96d8ad9293a2.jpg",
-          "full_url": "data/media/posts/1645-1-96d8ad9293a2.jpg"
+          "thumb_url": "data/media/posts/thumbs/1645-1-636b6e12ce49.jpg",
+          "full_url": "data/media/posts/1645-1-636b6e12ce49.jpg"
         }
       ],
       "video_url": null,
@@ -191,8 +209,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1644-1-c930c7e40d33.jpg",
-          "full_url": "data/media/posts/1644-1-c930c7e40d33.jpg"
+          "thumb_url": "data/media/posts/thumbs/1644-1-2c63886a0355.jpg",
+          "full_url": "data/media/posts/1644-1-2c63886a0355.jpg"
         }
       ],
       "video_url": null,
@@ -227,8 +245,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1642-1-124c256ff9ca.jpg",
-          "full_url": "data/media/posts/1642-1-124c256ff9ca.jpg"
+          "thumb_url": "data/media/posts/thumbs/1642-1-3c8e34500c2a.jpg",
+          "full_url": "data/media/posts/1642-1-3c8e34500c2a.jpg"
         }
       ],
       "video_url": null,
@@ -245,8 +263,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1641-1-0d52dae61947.jpg",
-          "full_url": "data/media/posts/1641-1-0d52dae61947.jpg"
+          "thumb_url": "data/media/posts/thumbs/1641-1-b7f54c69a2fa.jpg",
+          "full_url": "data/media/posts/1641-1-b7f54c69a2fa.jpg"
         }
       ],
       "video_url": null,
@@ -267,8 +285,8 @@
           "full_url": "data/media/posts/1639-1-822d9a051132.jpg"
         },
         {
-          "thumb_url": "data/media/posts/thumbs/1639-2-dec5788071ac.jpg",
-          "full_url": "data/media/posts/1639-2-dec5788071ac.jpg"
+          "thumb_url": "data/media/posts/thumbs/1639-2-01010ec9ac51.jpg",
+          "full_url": "data/media/posts/1639-2-01010ec9ac51.jpg"
         }
       ],
       "video_url": null,
@@ -285,43 +303,13 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1638-1-63bbf3dd2696.jpg",
-          "full_url": "data/media/posts/1638-1-63bbf3dd2696.jpg"
+          "thumb_url": "data/media/posts/thumbs/1638-1-4fd541062581.jpg",
+          "full_url": "data/media/posts/1638-1-4fd541062581.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/pgp_official/1638",
       "permalink": "posts/1638/"
-    },
-    {
-      "id": 1634,
-      "date": "2025-12-05T14:05:41+00:00",
-      "text": "🏆 «Пепеляев Групп» расширила свое присутствие в рейтинге Право-300 в 2025 году\n\n«Пепеляев Групп» рекомендована в 36 номинациях и подноминациях рейтинга, что на две больше, чем в прошлом году. \n\nМы впервые участвовали и вошли во вторую и третью группы в двух отраслевых номинациях: \n🔴АПК и Сельское Хозяйство;\n🔴Производство и промышленность.\n\nОфис в Санкт-Петербурге числится в первой группе сразу по трем номинациям:\n🔴Налоговое консультирование и налоговые споры;\n🔴Недвижимость, земля, строительство;\n🔴Корпоративное право / слияния и поглощения.\n\n👉 Подробности – в карточках и на нашем сайте.",
-      "text_html": "🏆 «Пепеляев Групп» расширила свое присутствие в рейтинге Право-300 в 2025 году<br><br>«Пепеляев Групп» рекомендована в 36 номинациях и подноминациях рейтинга, что на две больше, чем в прошлом году. <br><br>Мы впервые участвовали и вошли во вторую и третью группы в двух отраслевых номинациях: <br>🔴АПК и Сельское Хозяйство;<br>🔴Производство и промышленность.<br><br>Офис в Санкт-Петербурге числится в первой группе сразу по трем номинациям:<br>🔴Налоговое консультирование и налоговые споры;<br>🔴Недвижимость, земля, строительство;<br>🔴Корпоративное право / слияния и поглощения.<br><br>👉 Подробности – в карточках и на <a href=\"https://www.pgplaw.ru/news/press-releases/pepelyaev-grupp-v-reytinge-pravo-300-2025/\" target=\"_blank\" rel=\"noopener noreferrer\">нашем сайте</a>.",
-      "views": 1320,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/media/posts/thumbs/1634-1-3da3071bbaba.jpg",
-          "full_url": "data/media/posts/1634-1-3da3071bbaba.jpg"
-        },
-        {
-          "thumb_url": "data/media/posts/thumbs/1634-2-7bb3a633eaf4.jpg",
-          "full_url": "data/media/posts/1634-2-7bb3a633eaf4.jpg"
-        },
-        {
-          "thumb_url": "data/media/posts/thumbs/1634-3-7f28cb5d8647.jpg",
-          "full_url": "data/media/posts/1634-3-7f28cb5d8647.jpg"
-        },
-        {
-          "thumb_url": "data/media/posts/thumbs/1634-4-327411c4f3eb.jpg",
-          "full_url": "data/media/posts/1634-4-327411c4f3eb.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/pgp_official/1634",
-      "permalink": "posts/1634/"
     }
   ]
 }

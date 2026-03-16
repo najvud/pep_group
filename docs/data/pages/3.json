@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-16T06:03:09.224685+00:00",
+  "generated_at": "2026-03-16T07:49:02.881994+00:00",
   "pagination": {
     "page": 3,
     "page_size": 16,
@@ -7,6 +7,60 @@
     "total_pages": 16
   },
   "posts": [
+    {
+      "id": 1706,
+      "date": "2026-02-06T13:04:43+00:00",
+      "text": "⚡️ФАС направила запросы о ценообразовании на рынках агропромышленного комплекса\n\nЗапросы ФАС не формальность и не переписка для галочки. Ошибки в ответе часто становятся основанием для проверки, дела и штрафа. \n\nВ карточках типовые ситуации, которые нельзя допускать, и бонус.\n\n🥇 Золотое правило: ответ на запрос ФАС – ваша первая и крайне важная возможность аргументировать свою позицию до возбуждения дела. Отнеситесь к его подготовке максимально ответственно и профессионально.",
+      "text_html": "⚡️ФАС направила запросы о ценообразовании на рынках агропромышленного комплекса<br><br>Запросы ФАС не формальность и не переписка для галочки. Ошибки в ответе часто становятся основанием для проверки, дела и штрафа. <br><br>В карточках типовые ситуации, которые нельзя допускать, и бонус.<br><br>🥇 Золотое правило: ответ на запрос ФАС – ваша первая и крайне важная возможность аргументировать свою позицию до возбуждения дела. Отнеситесь к его подготовке максимально ответственно и профессионально.",
+      "views": 1360,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/media/posts/thumbs/1706-1-0d154a2e6b4e.jpg",
+          "full_url": "data/media/posts/1706-1-0d154a2e6b4e.jpg"
+        },
+        {
+          "thumb_url": "data/media/posts/thumbs/1706-2-a0ccfffbc486.jpg",
+          "full_url": "data/media/posts/1706-2-a0ccfffbc486.jpg"
+        },
+        {
+          "thumb_url": "data/media/posts/thumbs/1706-3-0dc601ba24ae.jpg",
+          "full_url": "data/media/posts/1706-3-0dc601ba24ae.jpg"
+        },
+        {
+          "thumb_url": "data/media/posts/thumbs/1706-4-fa3d1ee2a2fa.jpg",
+          "full_url": "data/media/posts/1706-4-fa3d1ee2a2fa.jpg"
+        },
+        {
+          "thumb_url": "data/media/posts/thumbs/1706-5-11a8556a9107.jpg",
+          "full_url": "data/media/posts/1706-5-11a8556a9107.jpg"
+        },
+        {
+          "thumb_url": "data/media/posts/thumbs/1706-6-d7f10c82f921.jpg",
+          "full_url": "data/media/posts/1706-6-d7f10c82f921.jpg"
+        },
+        {
+          "thumb_url": "data/media/posts/thumbs/1706-7-668315f7ff90.jpg",
+          "full_url": "data/media/posts/1706-7-668315f7ff90.jpg"
+        },
+        {
+          "thumb_url": "data/media/posts/thumbs/1706-8-1d930d6b541d.jpg",
+          "full_url": "data/media/posts/1706-8-1d930d6b541d.jpg"
+        },
+        {
+          "thumb_url": "data/media/posts/thumbs/1706-9-a4624208a170.jpg",
+          "full_url": "data/media/posts/1706-9-a4624208a170.jpg"
+        },
+        {
+          "thumb_url": "data/media/posts/thumbs/1706-10-627a17908aed.jpg",
+          "full_url": "data/media/posts/1706-10-627a17908aed.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/pgp_official/1706",
+      "permalink": "posts/1706/"
+    },
     {
       "id": 1705,
       "date": "2026-02-06T10:02:51+00:00",
@@ -111,8 +165,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1699-1-5b6cba6f46e1.jpg",
-          "full_url": "data/media/posts/1699-1-5b6cba6f46e1.jpg"
+          "thumb_url": "data/media/posts/thumbs/1699-1-d9c35b38623e.jpg",
+          "full_url": "data/media/posts/1699-1-d9c35b38623e.jpg"
         }
       ],
       "video_url": null,
@@ -147,8 +201,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1696-1-20e5673ea4fa.jpg",
-          "full_url": "data/media/posts/1696-1-20e5673ea4fa.jpg"
+          "thumb_url": "data/media/posts/thumbs/1696-1-30c36dd2e887.jpg",
+          "full_url": "data/media/posts/1696-1-30c36dd2e887.jpg"
         }
       ],
       "video_url": null,
@@ -165,8 +219,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1695-1-2657b595fd15.jpg",
-          "full_url": "data/media/posts/1695-1-2657b595fd15.jpg"
+          "thumb_url": "data/media/posts/thumbs/1695-1-38e210681d4a.jpg",
+          "full_url": "data/media/posts/1695-1-38e210681d4a.jpg"
         }
       ],
       "video_url": null,
@@ -183,8 +237,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1694-1-9af398ca5b4b.jpg",
-          "full_url": "data/media/posts/1694-1-9af398ca5b4b.jpg"
+          "thumb_url": "data/media/posts/thumbs/1694-1-4ecbf6406991.jpg",
+          "full_url": "data/media/posts/1694-1-4ecbf6406991.jpg"
         }
       ],
       "video_url": null,
@@ -201,8 +255,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1693-1-69902ab2c623.jpg",
-          "full_url": "data/media/posts/1693-1-69902ab2c623.jpg"
+          "thumb_url": "data/media/posts/thumbs/1693-1-9d4507ecb6bb.jpg",
+          "full_url": "data/media/posts/1693-1-9d4507ecb6bb.jpg"
         }
       ],
       "video_url": null,
@@ -219,8 +273,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1692-1-f2a48cfede96.jpg",
-          "full_url": "data/media/posts/1692-1-f2a48cfede96.jpg"
+          "thumb_url": "data/media/posts/thumbs/1692-1-043d0aed760c.jpg",
+          "full_url": "data/media/posts/1692-1-043d0aed760c.jpg"
         }
       ],
       "video_url": null,
@@ -273,47 +327,13 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1689-1-ff3e8bddf508.jpg",
-          "full_url": "data/media/posts/1689-1-ff3e8bddf508.jpg"
+          "thumb_url": "data/media/posts/thumbs/1689-1-a830279f38af.jpg",
+          "full_url": "data/media/posts/1689-1-a830279f38af.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/pgp_official/1689",
       "permalink": "posts/1689/"
-    },
-    {
-      "id": 1684,
-      "date": "2026-01-21T10:02:56+00:00",
-      "text": "🏛 Юристы корпоративной практики «Пепеляев Групп» защитили интересы инвесторов – физических лиц в судебном споре об исключении участника из общества.\n\nКрупный инфраструктурный проект по строительству нефтебазы на Сахалине оказался под угрозой из-за корпоративного конфликта между участниками ООО. Один из партнеров, владеющий 50% долей, подал иск об исключении из общества трех других инвесторов (совладельцев оставшихся 50%). \n\n📎 Команде наших юристов было необходимо защитить интересы миноритарных инвесторов (физических лиц) в суде, добиться отказа в удовлетворении иска об их исключении из общества и сохранить их доли в перспективном проекте.\n\nИнтересы доверителей (ответчиков) представляли юристы корпоративной практики «Пепеляев Групп»: советник Евгений Мушта и партнер Илья Болотнов.\n\n👉 Рассказываем подробнее о деле в карточках и на сайте. \n\n#pg_победы",
-      "text_html": "🏛 Юристы корпоративной практики «Пепеляев Групп» защитили интересы инвесторов – физических лиц в судебном споре об исключении участника из общества.<br><br>Крупный инфраструктурный проект по строительству нефтебазы на Сахалине оказался под угрозой из-за корпоративного конфликта между участниками ООО. Один из партнеров, владеющий 50% долей, подал иск об исключении из общества трех других инвесторов (совладельцев оставшихся 50%). <br><br>📎 Команде наших юристов было необходимо защитить интересы миноритарных инвесторов (физических лиц) в суде, добиться отказа в удовлетворении иска об их исключении из общества и сохранить их доли в перспективном проекте.<br><br>Интересы доверителей (ответчиков) представляли юристы корпоративной практики «Пепеляев Групп»: советник <a href=\"https://www.pgplaw.ru/to-get-the-team/evgeniy-mushta/\" target=\"_blank\" rel=\"noopener noreferrer\">Евгений Мушта</a> и партнер <a href=\"https://www.pgplaw.ru/to-get-the-team/ilya-bolotnov/\" target=\"_blank\" rel=\"noopener noreferrer\">Илья Болотнов</a>.<br><br>👉 Рассказываем подробнее о деле в карточках и <a href=\"https://www.pgplaw.ru/our-experience/243602/\" target=\"_blank\" rel=\"noopener noreferrer\">на сайте</a>. <br><br>#pg_победы",
-      "views": 1220,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/media/posts/thumbs/1684-1-e77fa603b327.jpg",
-          "full_url": "data/media/posts/1684-1-e77fa603b327.jpg"
-        },
-        {
-          "thumb_url": "data/media/posts/thumbs/1684-2-87957646cfbf.jpg",
-          "full_url": "data/media/posts/1684-2-87957646cfbf.jpg"
-        },
-        {
-          "thumb_url": "data/media/posts/thumbs/1684-3-09e75231ba39.jpg",
-          "full_url": "data/media/posts/1684-3-09e75231ba39.jpg"
-        },
-        {
-          "thumb_url": "data/media/posts/thumbs/1684-4-71a2a32e86c7.jpg",
-          "full_url": "data/media/posts/1684-4-71a2a32e86c7.jpg"
-        },
-        {
-          "thumb_url": "data/media/posts/thumbs/1684-5-c82731caab83.jpg",
-          "full_url": "data/media/posts/1684-5-c82731caab83.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/pgp_official/1684",
-      "permalink": "posts/1684/"
     }
   ]
 }

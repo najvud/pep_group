@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-16T06:03:09.234731+00:00",
+  "generated_at": "2026-03-16T07:49:02.894033+00:00",
   "pagination": {
     "page": 10,
     "page_size": 16,
@@ -7,6 +7,24 @@
     "total_pages": 16
   },
   "posts": [
+    {
+      "id": 1539,
+      "date": "2025-10-03T10:30:01+00:00",
+      "text": "🔍 14 октября состоится очередное заседание Комплаенс Клуба, которое будет посвящено внутренним расследованиям в компаниях.\n\nВопросы для обсуждения:\n▫️ Ключевые правовые риски компаний при проведении внутренних расследований\n\n▫️ Как правильно привлечь сотрудника к дисциплинарной, уголовной, имущественной ответственности в случае допущенных нарушений\n\n▫️Проверка персонала на соблюдение комплаенс и этических стандартов: лучшие практики и возможности автоматизации\n\n▫️Инструменты проверки и последствия несоблюдения комплаенс-стандартов. Как избежать рисков?\n\n▫️Практика защиты заявителей горячей линии комплаенс\n\n▫️Case study\n\n📍Место: офис «Пепеляев Групп»\n\n🌐 Регистрация доступна по ссылке\n\n#pg_мероприятия",
+      "text_html": "🔍 14 октября состоится очередное заседание Комплаенс Клуба, которое будет посвящено внутренним расследованиям в компаниях.<br><br>Вопросы для обсуждения:<br>▫️ Ключевые правовые риски компаний при проведении внутренних расследований<br><br>▫️ Как правильно привлечь сотрудника к дисциплинарной, уголовной, имущественной ответственности в случае допущенных нарушений<br><br>▫️Проверка персонала на соблюдение комплаенс и этических стандартов: лучшие практики и возможности автоматизации<br><br>▫️Инструменты проверки и последствия несоблюдения комплаенс-стандартов. Как избежать рисков?<br><br>▫️Практика защиты заявителей горячей линии комплаенс<br><br>▫️Case study<br><br>📍Место: офис «Пепеляев Групп»<br><br>🌐 Регистрация доступна по <a href=\"https://www.pgplaw.ru/events/upcoming-events/vnutrennie-rassledovaniya-riski-kompaniy-i-luchshie-praktiki/\" target=\"_blank\" rel=\"noopener noreferrer\">ссылке</a><br><br>#pg_мероприятия",
+      "views": 1740,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/media/posts/thumbs/1539-1-c1d456b1e261.jpg",
+          "full_url": "data/media/posts/1539-1-c1d456b1e261.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/pgp_official/1539",
+      "permalink": "posts/1539/"
+    },
     {
       "id": 1538,
       "date": "2025-10-02T12:59:58+00:00",
@@ -71,8 +89,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1535-1-26a685de8132.jpg",
-          "full_url": "data/media/posts/1535-1-26a685de8132.jpg"
+          "thumb_url": "data/media/posts/thumbs/1535-1-d29661ac3bc8.jpg",
+          "full_url": "data/media/posts/1535-1-d29661ac3bc8.jpg"
         }
       ],
       "video_url": null,
@@ -89,8 +107,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1534-1-fcccc29f8dad.jpg",
-          "full_url": "data/media/posts/1534-1-fcccc29f8dad.jpg"
+          "thumb_url": "data/media/posts/thumbs/1534-1-4304824b889e.jpg",
+          "full_url": "data/media/posts/1534-1-4304824b889e.jpg"
         }
       ],
       "video_url": null,
@@ -107,8 +125,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1533-1-9e5d3d4c83fc.jpg",
-          "full_url": "data/media/posts/1533-1-9e5d3d4c83fc.jpg"
+          "thumb_url": "data/media/posts/thumbs/1533-1-27e2fe8639dc.jpg",
+          "full_url": "data/media/posts/1533-1-27e2fe8639dc.jpg"
         }
       ],
       "video_url": null,
@@ -125,8 +143,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1532-1-4595f6944c38.jpg",
-          "full_url": "data/media/posts/1532-1-4595f6944c38.jpg"
+          "thumb_url": "data/media/posts/thumbs/1532-1-1dbdac226ba8.jpg",
+          "full_url": "data/media/posts/1532-1-1dbdac226ba8.jpg"
         }
       ],
       "video_url": null,
@@ -143,8 +161,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1531-1-1395c0b7761d.jpg",
-          "full_url": "data/media/posts/1531-1-1395c0b7761d.jpg"
+          "thumb_url": "data/media/posts/thumbs/1531-1-371b35ac774f.jpg",
+          "full_url": "data/media/posts/1531-1-371b35ac774f.jpg"
         }
       ],
       "video_url": null,
@@ -165,8 +183,8 @@
           "full_url": "data/media/posts/1529-1-f0fdc4922a49.jpg"
         },
         {
-          "thumb_url": "data/media/posts/thumbs/1529-2-01e46c5e0dd3.jpg",
-          "full_url": "data/media/posts/1529-2-01e46c5e0dd3.jpg"
+          "thumb_url": "data/media/posts/thumbs/1529-2-c3ed03f5f312.jpg",
+          "full_url": "data/media/posts/1529-2-c3ed03f5f312.jpg"
         }
       ],
       "video_url": null,
@@ -183,12 +201,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1525-1-80fa96566cd4.jpg",
-          "full_url": "data/media/posts/1525-1-80fa96566cd4.jpg"
+          "thumb_url": "data/media/posts/thumbs/1525-1-12fb1a6ea981.jpg",
+          "full_url": "data/media/posts/1525-1-12fb1a6ea981.jpg"
         },
         {
-          "thumb_url": "data/media/posts/thumbs/1525-2-71fd99c89940.jpg",
-          "full_url": "data/media/posts/1525-2-71fd99c89940.jpg"
+          "thumb_url": "data/media/posts/thumbs/1525-2-be98143553fa.jpg",
+          "full_url": "data/media/posts/1525-2-be98143553fa.jpg"
         },
         {
           "thumb_url": "data/media/posts/thumbs/1525-3-e215a34fb252.jpg",
@@ -226,8 +244,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1523-1-76e5b8406c5d.jpg",
-          "full_url": "data/media/posts/1523-1-76e5b8406c5d.jpg"
+          "thumb_url": "data/media/posts/thumbs/1523-1-3d45dbff181f.jpg",
+          "full_url": "data/media/posts/1523-1-3d45dbff181f.jpg"
         }
       ],
       "video_url": null,
@@ -244,12 +262,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1520-1-b19c6d3380af.jpg",
-          "full_url": "data/media/posts/1520-1-b19c6d3380af.jpg"
+          "thumb_url": "data/media/posts/thumbs/1520-1-60f24c340feb.jpg",
+          "full_url": "data/media/posts/1520-1-60f24c340feb.jpg"
         },
         {
-          "thumb_url": "data/media/posts/thumbs/1520-2-b5bd20582191.jpg",
-          "full_url": "data/media/posts/1520-2-b5bd20582191.jpg"
+          "thumb_url": "data/media/posts/thumbs/1520-2-574d809eac41.jpg",
+          "full_url": "data/media/posts/1520-2-574d809eac41.jpg"
         },
         {
           "thumb_url": "data/media/posts/thumbs/1520-3-b725fabd6c4f.jpg",
@@ -270,8 +288,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1519-1-5e9c92e57c91.jpg",
-          "full_url": "data/media/posts/1519-1-5e9c92e57c91.jpg"
+          "thumb_url": "data/media/posts/thumbs/1519-1-f3376659cab8.jpg",
+          "full_url": "data/media/posts/1519-1-f3376659cab8.jpg"
         }
       ],
       "video_url": null,
@@ -295,24 +313,6 @@
       "video_url": null,
       "tg_url": "https://t.me/pgp_official/1518",
       "permalink": "posts/1518/"
-    },
-    {
-      "id": 1517,
-      "date": "2025-09-20T09:31:34+00:00",
-      "text": "▫️«Каждый пятый житель России испытывает серьезные трудности с обслуживанием кредитов»\n\nУже сегодня эту тему обсудит партнер, руководитель практики банкротства и антикризисной защиты бизнеса «Пепеляев Групп» Юлия Литовцева в рамках программы «Что Это Значит» на РБК-ТВ.\n\nКлючевые темы:\n🔼Риски и процедура банкротства для физлиц, рост числа случаев;\n🔼Особенности договоров с МФО;\n🔼Риски серого рынка займов.\n\nДата и время: 20 сентября, 15:05.\n\nСмотреть эфир на сайте РБК-ТВ.",
-      "text_html": "▫️«Каждый пятый житель России испытывает серьезные трудности с обслуживанием кредитов»<br><br>Уже сегодня эту тему обсудит партнер, руководитель практики банкротства и антикризисной защиты бизнеса «Пепеляев Групп» Юлия Литовцева в рамках программы «Что Это Значит» на РБК-ТВ.<br><br>Ключевые темы:<br>🔼Риски и процедура банкротства для физлиц, рост числа случаев;<br>🔼Особенности договоров с МФО;<br>🔼Риски серого рынка займов.<br><br>Дата и время: 20 сентября, 15:05.<br><br>Смотреть эфир <a href=\"https://tv.rbc.ru/\" target=\"_blank\" rel=\"noopener noreferrer\">на сайте РБК-ТВ</a>.",
-      "views": 1320,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/media/posts/thumbs/1517-1-e13642597ca1.jpg",
-          "full_url": "data/media/posts/1517-1-e13642597ca1.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/pgp_official/1517",
-      "permalink": "posts/1517/"
     }
   ]
 }

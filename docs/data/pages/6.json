@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-16T04:18:38.888205+00:00",
+  "generated_at": "2026-03-16T07:49:02.887379+00:00",
   "pagination": {
     "page": 6,
     "page_size": 16,
@@ -7,6 +7,36 @@
     "total_pages": 16
   },
   "posts": [
+    {
+      "id": 1634,
+      "date": "2025-12-05T14:05:41+00:00",
+      "text": "🏆 «Пепеляев Групп» расширила свое присутствие в рейтинге Право-300 в 2025 году\n\n«Пепеляев Групп» рекомендована в 36 номинациях и подноминациях рейтинга, что на две больше, чем в прошлом году. \n\nМы впервые участвовали и вошли во вторую и третью группы в двух отраслевых номинациях: \n🔴АПК и Сельское Хозяйство;\n🔴Производство и промышленность.\n\nОфис в Санкт-Петербурге числится в первой группе сразу по трем номинациям:\n🔴Налоговое консультирование и налоговые споры;\n🔴Недвижимость, земля, строительство;\n🔴Корпоративное право / слияния и поглощения.\n\n👉 Подробности – в карточках и на нашем сайте.",
+      "text_html": "🏆 «Пепеляев Групп» расширила свое присутствие в рейтинге Право-300 в 2025 году<br><br>«Пепеляев Групп» рекомендована в 36 номинациях и подноминациях рейтинга, что на две больше, чем в прошлом году. <br><br>Мы впервые участвовали и вошли во вторую и третью группы в двух отраслевых номинациях: <br>🔴АПК и Сельское Хозяйство;<br>🔴Производство и промышленность.<br><br>Офис в Санкт-Петербурге числится в первой группе сразу по трем номинациям:<br>🔴Налоговое консультирование и налоговые споры;<br>🔴Недвижимость, земля, строительство;<br>🔴Корпоративное право / слияния и поглощения.<br><br>👉 Подробности – в карточках и на <a href=\"https://www.pgplaw.ru/news/press-releases/pepelyaev-grupp-v-reytinge-pravo-300-2025/\" target=\"_blank\" rel=\"noopener noreferrer\">нашем сайте</a>.",
+      "views": 1320,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/media/posts/thumbs/1634-1-3da3071bbaba.jpg",
+          "full_url": "data/media/posts/1634-1-3da3071bbaba.jpg"
+        },
+        {
+          "thumb_url": "data/media/posts/thumbs/1634-2-6903d7e90253.jpg",
+          "full_url": "data/media/posts/1634-2-6903d7e90253.jpg"
+        },
+        {
+          "thumb_url": "data/media/posts/thumbs/1634-3-46147ed46e1a.jpg",
+          "full_url": "data/media/posts/1634-3-46147ed46e1a.jpg"
+        },
+        {
+          "thumb_url": "data/media/posts/thumbs/1634-4-4bea095d962a.jpg",
+          "full_url": "data/media/posts/1634-4-4bea095d962a.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/pgp_official/1634",
+      "permalink": "posts/1634/"
+    },
     {
       "id": 1633,
       "date": "2025-12-04T13:02:56+00:00",
@@ -35,8 +65,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1632-1-384e070216f6.jpg",
-          "full_url": "data/media/posts/1632-1-384e070216f6.jpg"
+          "thumb_url": "data/media/posts/thumbs/1632-1-44d39ad71d79.jpg",
+          "full_url": "data/media/posts/1632-1-44d39ad71d79.jpg"
         }
       ],
       "video_url": null,
@@ -57,24 +87,24 @@
           "full_url": "data/media/posts/1626-1-66198de043eb.jpg"
         },
         {
-          "thumb_url": "data/media/posts/thumbs/1626-2-4f776e2d985d.jpg",
-          "full_url": "data/media/posts/1626-2-4f776e2d985d.jpg"
+          "thumb_url": "data/media/posts/thumbs/1626-2-fcee11aa4e33.jpg",
+          "full_url": "data/media/posts/1626-2-fcee11aa4e33.jpg"
         },
         {
           "thumb_url": "data/media/posts/thumbs/1626-3-81cdb09798f0.jpg",
           "full_url": "data/media/posts/1626-3-81cdb09798f0.jpg"
         },
         {
-          "thumb_url": "data/media/posts/thumbs/1626-4-15cb8bfc593a.jpg",
-          "full_url": "data/media/posts/1626-4-15cb8bfc593a.jpg"
+          "thumb_url": "data/media/posts/thumbs/1626-4-1bb8df0847ba.jpg",
+          "full_url": "data/media/posts/1626-4-1bb8df0847ba.jpg"
         },
         {
           "thumb_url": "data/media/posts/thumbs/1626-5-4059e52b7b1c.jpg",
           "full_url": "data/media/posts/1626-5-4059e52b7b1c.jpg"
         },
         {
-          "thumb_url": "data/media/posts/thumbs/1626-6-2d4b04ff98e2.jpg",
-          "full_url": "data/media/posts/1626-6-2d4b04ff98e2.jpg"
+          "thumb_url": "data/media/posts/thumbs/1626-6-ccc657999cbc.jpg",
+          "full_url": "data/media/posts/1626-6-ccc657999cbc.jpg"
         }
       ],
       "video_url": null,
@@ -95,8 +125,8 @@
           "full_url": "data/media/posts/1623-1-c83416efcb17.jpg"
         },
         {
-          "thumb_url": "data/media/posts/thumbs/1623-2-ebf5fd56c15f.jpg",
-          "full_url": "data/media/posts/1623-2-ebf5fd56c15f.jpg"
+          "thumb_url": "data/media/posts/thumbs/1623-2-19341fd8536b.jpg",
+          "full_url": "data/media/posts/1623-2-19341fd8536b.jpg"
         },
         {
           "thumb_url": "data/media/posts/thumbs/1623-3-74e5b24b0a6c.jpg",
@@ -117,8 +147,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1622-1-ea5bbd57f7f8.jpg",
-          "full_url": "data/media/posts/1622-1-ea5bbd57f7f8.jpg"
+          "thumb_url": "data/media/posts/thumbs/1622-1-d920c0f82c77.jpg",
+          "full_url": "data/media/posts/1622-1-d920c0f82c77.jpg"
         }
       ],
       "video_url": null,
@@ -153,16 +183,16 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1618-1-236bb67a0ca7.jpg",
-          "full_url": "data/media/posts/1618-1-236bb67a0ca7.jpg"
+          "thumb_url": "data/media/posts/thumbs/1618-1-703b24259b86.jpg",
+          "full_url": "data/media/posts/1618-1-703b24259b86.jpg"
         },
         {
-          "thumb_url": "data/media/posts/thumbs/1618-2-9783d8304910.jpg",
-          "full_url": "data/media/posts/1618-2-9783d8304910.jpg"
+          "thumb_url": "data/media/posts/thumbs/1618-2-c58ce9e8ed37.jpg",
+          "full_url": "data/media/posts/1618-2-c58ce9e8ed37.jpg"
         },
         {
-          "thumb_url": "data/media/posts/thumbs/1618-3-51435ecebddf.jpg",
-          "full_url": "data/media/posts/1618-3-51435ecebddf.jpg"
+          "thumb_url": "data/media/posts/thumbs/1618-3-b81be0ced67c.jpg",
+          "full_url": "data/media/posts/1618-3-b81be0ced67c.jpg"
         }
       ],
       "video_url": null,
@@ -197,8 +227,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1616-1-15256fad09e2.jpg",
-          "full_url": "data/media/posts/1616-1-15256fad09e2.jpg"
+          "thumb_url": "data/media/posts/thumbs/1616-1-29785cafd04d.jpg",
+          "full_url": "data/media/posts/1616-1-29785cafd04d.jpg"
         }
       ],
       "video_url": null,
@@ -215,8 +245,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1615-1-49099fc0228e.jpg",
-          "full_url": "data/media/posts/1615-1-49099fc0228e.jpg"
+          "thumb_url": "data/media/posts/thumbs/1615-1-169878204d3c.jpg",
+          "full_url": "data/media/posts/1615-1-169878204d3c.jpg"
         }
       ],
       "video_url": null,
@@ -233,8 +263,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1614-1-3cdba1f61194.jpg",
-          "full_url": "data/media/posts/1614-1-3cdba1f61194.jpg"
+          "thumb_url": "data/media/posts/thumbs/1614-1-9d31dcae4688.jpg",
+          "full_url": "data/media/posts/1614-1-9d31dcae4688.jpg"
         }
       ],
       "video_url": null,
@@ -251,8 +281,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1613-1-2b49d356448a.jpg",
-          "full_url": "data/media/posts/1613-1-2b49d356448a.jpg"
+          "thumb_url": "data/media/posts/thumbs/1613-1-53d6e9d0ac65.jpg",
+          "full_url": "data/media/posts/1613-1-53d6e9d0ac65.jpg"
         }
       ],
       "video_url": null,
@@ -269,12 +299,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1611-1-658f931e69fb.jpg",
-          "full_url": "data/media/posts/1611-1-658f931e69fb.jpg"
+          "thumb_url": "data/media/posts/thumbs/1611-1-873048ab0ea5.jpg",
+          "full_url": "data/media/posts/1611-1-873048ab0ea5.jpg"
         },
         {
-          "thumb_url": "data/media/posts/thumbs/1611-2-df389c37a32c.jpg",
-          "full_url": "data/media/posts/1611-2-df389c37a32c.jpg"
+          "thumb_url": "data/media/posts/thumbs/1611-2-d7366dbc8668.jpg",
+          "full_url": "data/media/posts/1611-2-d7366dbc8668.jpg"
         }
       ],
       "video_url": null,
@@ -291,8 +321,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1610-1-1f6839a8c96e.jpg",
-          "full_url": "data/media/posts/1610-1-1f6839a8c96e.jpg"
+          "thumb_url": "data/media/posts/thumbs/1610-1-a7805e225f20.jpg",
+          "full_url": "data/media/posts/1610-1-a7805e225f20.jpg"
         }
       ],
       "video_url": null,
@@ -311,24 +341,6 @@
       "video_url": null,
       "tg_url": "https://t.me/pgp_official/1609",
       "permalink": "posts/1609/"
-    },
-    {
-      "id": 1608,
-      "date": "2025-11-20T13:02:02+00:00",
-      "text": "⚡️21 ноября вступают в силу новые требования к сайтам ИТ-компаний\n\nНаталья Коваленко, партнер «Пепеляев Групп» напоминает, что нынешние Правила ИТ-аккредитации содержат следующие требования к сайтам ИТ-компаний: \n\n🔴наличие информации о деятельности компании;\n🔴наличие информации о созданном и(или) используемом ПО, включенном в реестр отечественных ПО;\n🔴оформление сайта на русском языке.\n\nМинцифры России расширило перечень дополнительных требований к сайтам. ИТ-компании будут обязаны указать: \n\n🔴полное наименование;\n🔴адрес в пределах места нахождения;\n🔴ИНН;\n🔴основной код ОКВЭД;\n🔴адрес электронной почты (при наличии);\n🔴номер телефона организации (при наличии);\n🔴коды ОКВЭД в сфере ИТ;\n🔴информацию с описанием реализуемых товаров, и(или) выполняемых работ, и(или) оказываемых услуг;\n🔴сведения о принадлежности исключительных прав на ПО у компании/компании из ее группы (если применимо);\n🔴сведения об используемых языках программирования, ПО и(или) наборов правил и инструментов, применяемых для разработки ПО (если применимо);\n🔴идентификационные сведения о ПО, включенном в реестр отечественного ПО, а также способы предоставления прав на использования указанного ПО (если применимо);\n🔴сведения о наличии разрешения на обработку фискальных данных в случае, если компания является оператором фискальных данных.\n\nСайт должен функционировать в круглосуточном режиме. Компании обязаны предоставить доступ к указанным сведениям без необходимости регистрации или предоставления персональных данных.\n\n👉 Полный текст Приказа Министерства цифрового развития, связи и массовых коммуникаций РФ от 2 июня 2025 г. N 511\n\nℹ️  Если у вас остались вопросы по данной теме, вы можете связаться с Натальей Коваленко, партнером «Пепеляев Групп».\n\n#pg_алерты",
-      "text_html": "⚡️21 ноября вступают в силу новые требования к сайтам ИТ-компаний<br><br><a href=\"https://www.pgplaw.ru/to-get-the-team/natalya-ivashchenko/\" target=\"_blank\" rel=\"noopener noreferrer\">Наталья Коваленко</a>, партнер «Пепеляев Групп» напоминает, что <a href=\"http://publication.pravo.gov.ru/document/0001202210010005\" target=\"_blank\" rel=\"noopener noreferrer\">нынешние Правила ИТ-аккредитации</a> содержат следующие требования к сайтам ИТ-компаний: <br><br>🔴наличие информации о деятельности компании;<br>🔴наличие информации о созданном и(или) используемом ПО, включенном в реестр отечественных ПО;<br>🔴оформление сайта на русском языке.<br><br>Минцифры России расширило перечень дополнительных требований к сайтам. ИТ-компании будут обязаны указать: <br><br>🔴полное наименование;<br>🔴адрес в пределах места нахождения;<br>🔴ИНН;<br>🔴основной код ОКВЭД;<br>🔴адрес электронной почты (при наличии);<br>🔴номер телефона организации (при наличии);<br>🔴коды ОКВЭД в сфере ИТ;<br>🔴информацию с описанием реализуемых товаров, и(или) выполняемых работ, и(или) оказываемых услуг;<br>🔴сведения о принадлежности исключительных прав на ПО у компании/компании из ее группы (если применимо);<br>🔴сведения об используемых языках программирования, ПО и(или) наборов правил и инструментов, применяемых для разработки ПО (если применимо);<br>🔴идентификационные сведения о ПО, включенном в реестр отечественного ПО, а также способы предоставления прав на использования указанного ПО (если применимо);<br>🔴сведения о наличии разрешения на обработку фискальных данных в случае, если компания является оператором фискальных данных.<br><br>Сайт должен функционировать в круглосуточном режиме. Компании обязаны предоставить доступ к указанным сведениям без необходимости регистрации или предоставления персональных данных.<br><br>👉 <a href=\"http://publication.pravo.gov.ru/document/0001202511100016\" target=\"_blank\" rel=\"noopener noreferrer\">Полный текст Приказа Министерства цифрового развития, связи и массовых коммуникаций РФ от 2 июня 2025 г. N 511</a><br><br>ℹ️  Если у вас остались вопросы по данной теме, вы можете связаться с <a href=\"https://www.pgplaw.ru/to-get-the-team/natalya-ivashchenko/\" target=\"_blank\" rel=\"noopener noreferrer\">Натальей Коваленко,</a> партнером «Пепеляев Групп».<br><br>#pg_алерты",
-      "views": 1330,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/media/posts/thumbs/1608-1-7e79e4ecf57c.jpg",
-          "full_url": "data/media/posts/1608-1-7e79e4ecf57c.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/pgp_official/1608",
-      "permalink": "posts/1608/"
     }
   ]
 }

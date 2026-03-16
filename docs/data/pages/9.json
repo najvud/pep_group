@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-16T06:03:09.233072+00:00",
+  "generated_at": "2026-03-16T07:49:02.892372+00:00",
   "pagination": {
     "page": 9,
     "page_size": 16,
@@ -7,6 +7,24 @@
     "total_pages": 16
   },
   "posts": [
+    {
+      "id": 1558,
+      "date": "2025-10-17T13:00:21+00:00",
+      "text": "🔜 Уже через месяц 17-19 ноября  пройдет курс повышения квалификации «Авторский курс практического комплаенса», реализуемый «Пепеляев Групп» совместно с учебно-методическим центром ФАС России.\n\n🧐 Для руководителей и менеджеров, принимающих стратегические решения, понимание рисков и требований в области комплаенса — это не просто необходимость, а фактор конкурентного преимущества. \n\nСегодня антимонопольные претензии, коррупционные риски, санкционные ограничения и налоговые претензии способны не только подорвать финансовую стабильность, но и поставить под угрозу существование бизнеса и его бизнес-модель.\n\n🤝 Комплаенс-интенсив уже помог многим компаниям своевременно выявить и минимизировать юридические и регуляторные риски, выстроить эффективные внутренние процедуры и систему контроля. \n\n🖍 Подробнее о курсе и условиях участия по ссылке.",
+      "text_html": "🔜 Уже через месяц 17-19 ноября  пройдет курс повышения квалификации <a href=\"https://pgplaw.tilda.ws/compliance-course\" target=\"_blank\" rel=\"noopener noreferrer\">«Авторский курс практического комплаенса»,</a> реализуемый «Пепеляев Групп» совместно с учебно-методическим центром ФАС России.<br><br>🧐 Для руководителей и менеджеров, принимающих стратегические решения, понимание рисков и требований в области комплаенса — это не просто необходимость, а фактор конкурентного преимущества. <br><br>Сегодня антимонопольные претензии, коррупционные риски, санкционные ограничения и налоговые претензии способны не только подорвать финансовую стабильность, но и поставить под угрозу существование бизнеса и его бизнес-модель.<br><br>🤝 Комплаенс-интенсив уже помог многим компаниям своевременно выявить и минимизировать юридические и регуляторные риски, выстроить эффективные внутренние процедуры и систему контроля. <br><br>🖍 Подробнее о курсе и условиях участия по <a href=\"https://pgplaw.tilda.ws/compliance-course\" target=\"_blank\" rel=\"noopener noreferrer\">ссылке.</a>",
+      "views": 1190,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/media/posts/thumbs/1558-1-7ad88c151258.jpg",
+          "full_url": "data/media/posts/1558-1-7ad88c151258.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/pgp_official/1558",
+      "permalink": "posts/1558/"
+    },
     {
       "id": 1557,
       "date": "2025-10-17T10:31:00+00:00",
@@ -17,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1557-1-6590c5206c77.jpg",
-          "full_url": "data/media/posts/1557-1-6590c5206c77.jpg"
+          "thumb_url": "data/media/posts/thumbs/1557-1-7bd337ca6114.jpg",
+          "full_url": "data/media/posts/1557-1-7bd337ca6114.jpg"
         }
       ],
       "video_url": null,
@@ -89,8 +107,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1553-1-a3c9afd4b3a6.jpg",
-          "full_url": "data/media/posts/1553-1-a3c9afd4b3a6.jpg"
+          "thumb_url": "data/media/posts/thumbs/1553-1-d389a19c1f40.jpg",
+          "full_url": "data/media/posts/1553-1-d389a19c1f40.jpg"
         }
       ],
       "video_url": null,
@@ -107,8 +125,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1552-1-9c8b7f0af456.jpg",
-          "full_url": "data/media/posts/1552-1-9c8b7f0af456.jpg"
+          "thumb_url": "data/media/posts/thumbs/1552-1-015e511b1ef8.jpg",
+          "full_url": "data/media/posts/1552-1-015e511b1ef8.jpg"
         }
       ],
       "video_url": null,
@@ -125,8 +143,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1551-1-db86eef2cb3a.jpg",
-          "full_url": "data/media/posts/1551-1-db86eef2cb3a.jpg"
+          "thumb_url": "data/media/posts/thumbs/1551-1-5b7381435d7f.jpg",
+          "full_url": "data/media/posts/1551-1-5b7381435d7f.jpg"
         }
       ],
       "video_url": null,
@@ -147,8 +165,8 @@
           "full_url": "data/media/posts/1549-1-a2303240106e.jpg"
         },
         {
-          "thumb_url": "data/media/posts/thumbs/1549-2-d1766aca042a.jpg",
-          "full_url": "data/media/posts/1549-2-d1766aca042a.jpg"
+          "thumb_url": "data/media/posts/thumbs/1549-2-d3fd813bc98c.jpg",
+          "full_url": "data/media/posts/1549-2-d3fd813bc98c.jpg"
         }
       ],
       "video_url": null,
@@ -165,8 +183,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1548-1-08d248de7f20.jpg",
-          "full_url": "data/media/posts/1548-1-08d248de7f20.jpg"
+          "thumb_url": "data/media/posts/thumbs/1548-1-14bd33104c8d.jpg",
+          "full_url": "data/media/posts/1548-1-14bd33104c8d.jpg"
         }
       ],
       "video_url": null,
@@ -183,8 +201,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1547-1-97bda9ba2640.jpg",
-          "full_url": "data/media/posts/1547-1-97bda9ba2640.jpg"
+          "thumb_url": "data/media/posts/thumbs/1547-1-b0fc3224ee0d.jpg",
+          "full_url": "data/media/posts/1547-1-b0fc3224ee0d.jpg"
         }
       ],
       "video_url": null,
@@ -237,8 +255,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1544-1-07e830aa22b5.jpg",
-          "full_url": "data/media/posts/1544-1-07e830aa22b5.jpg"
+          "thumb_url": "data/media/posts/thumbs/1544-1-cb19fd6da111.jpg",
+          "full_url": "data/media/posts/1544-1-cb19fd6da111.jpg"
         }
       ],
       "video_url": null,
@@ -255,16 +273,16 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1541-1-187041f082ab.jpg",
-          "full_url": "data/media/posts/1541-1-187041f082ab.jpg"
+          "thumb_url": "data/media/posts/thumbs/1541-1-d3bb27050c2f.jpg",
+          "full_url": "data/media/posts/1541-1-d3bb27050c2f.jpg"
         },
         {
           "thumb_url": "data/media/posts/thumbs/1541-2-1c865f37c277.jpg",
           "full_url": "data/media/posts/1541-2-1c865f37c277.jpg"
         },
         {
-          "thumb_url": "data/media/posts/thumbs/1541-3-2518a404c155.jpg",
-          "full_url": "data/media/posts/1541-3-2518a404c155.jpg"
+          "thumb_url": "data/media/posts/thumbs/1541-3-6d55ba9a8f9a.jpg",
+          "full_url": "data/media/posts/1541-3-6d55ba9a8f9a.jpg"
         }
       ],
       "video_url": null,
@@ -281,31 +299,13 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1540-1-7efc5ff81930.jpg",
-          "full_url": "data/media/posts/1540-1-7efc5ff81930.jpg"
+          "thumb_url": "data/media/posts/thumbs/1540-1-47c9cc1d20ac.jpg",
+          "full_url": "data/media/posts/1540-1-47c9cc1d20ac.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/pgp_official/1540",
       "permalink": "posts/1540/"
-    },
-    {
-      "id": 1539,
-      "date": "2025-10-03T10:30:01+00:00",
-      "text": "🔍 14 октября состоится очередное заседание Комплаенс Клуба, которое будет посвящено внутренним расследованиям в компаниях.\n\nВопросы для обсуждения:\n▫️ Ключевые правовые риски компаний при проведении внутренних расследований\n\n▫️ Как правильно привлечь сотрудника к дисциплинарной, уголовной, имущественной ответственности в случае допущенных нарушений\n\n▫️Проверка персонала на соблюдение комплаенс и этических стандартов: лучшие практики и возможности автоматизации\n\n▫️Инструменты проверки и последствия несоблюдения комплаенс-стандартов. Как избежать рисков?\n\n▫️Практика защиты заявителей горячей линии комплаенс\n\n▫️Case study\n\n📍Место: офис «Пепеляев Групп»\n\n🌐 Регистрация доступна по ссылке\n\n#pg_мероприятия",
-      "text_html": "🔍 14 октября состоится очередное заседание Комплаенс Клуба, которое будет посвящено внутренним расследованиям в компаниях.<br><br>Вопросы для обсуждения:<br>▫️ Ключевые правовые риски компаний при проведении внутренних расследований<br><br>▫️ Как правильно привлечь сотрудника к дисциплинарной, уголовной, имущественной ответственности в случае допущенных нарушений<br><br>▫️Проверка персонала на соблюдение комплаенс и этических стандартов: лучшие практики и возможности автоматизации<br><br>▫️Инструменты проверки и последствия несоблюдения комплаенс-стандартов. Как избежать рисков?<br><br>▫️Практика защиты заявителей горячей линии комплаенс<br><br>▫️Case study<br><br>📍Место: офис «Пепеляев Групп»<br><br>🌐 Регистрация доступна по <a href=\"https://www.pgplaw.ru/events/upcoming-events/vnutrennie-rassledovaniya-riski-kompaniy-i-luchshie-praktiki/\" target=\"_blank\" rel=\"noopener noreferrer\">ссылке</a><br><br>#pg_мероприятия",
-      "views": 1740,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/media/posts/thumbs/1539-1-018e5987533b.jpg",
-          "full_url": "data/media/posts/1539-1-018e5987533b.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/pgp_official/1539",
-      "permalink": "posts/1539/"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-16T04:18:38.891497+00:00",
+  "generated_at": "2026-03-16T07:49:02.890638+00:00",
   "pagination": {
     "page": 8,
     "page_size": 16,
@@ -7,6 +7,24 @@
     "total_pages": 16
   },
   "posts": [
+    {
+      "id": 1587,
+      "date": "2025-11-01T09:59:58+00:00",
+      "text": "☂️  17-19 ноября пройдет курс повышения квалификации «Авторский курс практического комплаенса», реализуемый «Пепеляев Групп» совместно с учебно-методическим центром ФАС России.\n\n🎙 Для руководителей и менеджеров, принимающих стратегические решения, понимание рисков и требований в области комплаенса — это не просто необходимость, а фактор конкурентного преимущества. \n\nСегодня антимонопольные претензии, коррупционные риски, санкционные ограничения и налоговые претензии способны не только подорвать финансовую стабильность, но и поставить под угрозу существование бизнеса и его бизнес-модель.\n\n📈 Комплаенс-интенсив уже помог многим компаниям своевременно выявить и минимизировать юридические и регуляторные риски, выстроить эффективные внутренние процедуры и систему контроля. \n\n🌐 Подробнее о курсе и условиях участия по ссылке.",
+      "text_html": "☂️  17-19 ноября пройдет курс повышения квалификации <a href=\"https://pgplaw.tilda.ws/compliance-course\" target=\"_blank\" rel=\"noopener noreferrer\">«Авторский курс практического комплаенса»,</a> реализуемый «Пепеляев Групп» совместно с учебно-методическим центром ФАС России.<br><br>🎙 Для руководителей и менеджеров, принимающих стратегические решения, понимание рисков и требований в области комплаенса — это не просто необходимость, а фактор конкурентного преимущества. <br><br>Сегодня антимонопольные претензии, коррупционные риски, санкционные ограничения и налоговые претензии способны не только подорвать финансовую стабильность, но и поставить под угрозу существование бизнеса и его бизнес-модель.<br><br>📈 Комплаенс-интенсив уже помог многим компаниям своевременно выявить и минимизировать юридические и регуляторные риски, выстроить эффективные внутренние процедуры и систему контроля. <br><br>🌐 Подробнее о курсе и условиях участия по <a href=\"https://pgplaw.tilda.ws/compliance-course\" target=\"_blank\" rel=\"noopener noreferrer\">ссылке.</a>",
+      "views": 1420,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/media/posts/thumbs/1587-1-731871f35758.jpg",
+          "full_url": "data/media/posts/1587-1-731871f35758.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/pgp_official/1587",
+      "permalink": "posts/1587/"
+    },
     {
       "id": 1584,
       "date": "2025-10-31T14:09:36+00:00",
@@ -17,16 +35,16 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1584-1-96621c4c0083.jpg",
-          "full_url": "data/media/posts/1584-1-96621c4c0083.jpg"
+          "thumb_url": "data/media/posts/thumbs/1584-1-f9c5744142a7.jpg",
+          "full_url": "data/media/posts/1584-1-f9c5744142a7.jpg"
         },
         {
-          "thumb_url": "data/media/posts/thumbs/1584-2-63e073c04932.jpg",
-          "full_url": "data/media/posts/1584-2-63e073c04932.jpg"
+          "thumb_url": "data/media/posts/thumbs/1584-2-7386819dbd23.jpg",
+          "full_url": "data/media/posts/1584-2-7386819dbd23.jpg"
         },
         {
-          "thumb_url": "data/media/posts/thumbs/1584-3-0c86862d4c84.jpg",
-          "full_url": "data/media/posts/1584-3-0c86862d4c84.jpg"
+          "thumb_url": "data/media/posts/thumbs/1584-3-bebdc9376a0b.jpg",
+          "full_url": "data/media/posts/1584-3-bebdc9376a0b.jpg"
         }
       ],
       "video_url": null,
@@ -43,8 +61,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1580-1-5899ba060eac.jpg",
-          "full_url": "data/media/posts/1580-1-5899ba060eac.jpg"
+          "thumb_url": "data/media/posts/thumbs/1580-1-dbf90ae93d87.jpg",
+          "full_url": "data/media/posts/1580-1-dbf90ae93d87.jpg"
         },
         {
           "thumb_url": "data/media/posts/thumbs/1580-2-9f67510892a3.jpg",
@@ -91,8 +109,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1578-1-d3b9131a568f.jpg",
-          "full_url": "data/media/posts/1578-1-d3b9131a568f.jpg"
+          "thumb_url": "data/media/posts/thumbs/1578-1-7c716f215ea4.jpg",
+          "full_url": "data/media/posts/1578-1-7c716f215ea4.jpg"
         }
       ],
       "video_url": null,
@@ -145,8 +163,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1574-1-adfe23a1e5e1.jpg",
-          "full_url": "data/media/posts/1574-1-adfe23a1e5e1.jpg"
+          "thumb_url": "data/media/posts/thumbs/1574-1-9e3316d8ac38.jpg",
+          "full_url": "data/media/posts/1574-1-9e3316d8ac38.jpg"
         },
         {
           "thumb_url": "data/media/posts/thumbs/1574-2-ca1936200ce8.jpg",
@@ -167,8 +185,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1573-1-003ad0dd4bd4.jpg",
-          "full_url": "data/media/posts/1573-1-003ad0dd4bd4.jpg"
+          "thumb_url": "data/media/posts/thumbs/1573-1-554fb58f5098.jpg",
+          "full_url": "data/media/posts/1573-1-554fb58f5098.jpg"
         }
       ],
       "video_url": null,
@@ -185,8 +203,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1572-1-49797c146acb.jpg",
-          "full_url": "data/media/posts/1572-1-49797c146acb.jpg"
+          "thumb_url": "data/media/posts/thumbs/1572-1-be3ac2a13892.jpg",
+          "full_url": "data/media/posts/1572-1-be3ac2a13892.jpg"
         }
       ],
       "video_url": null,
@@ -252,8 +270,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1566-1-319c6303167c.jpg",
-          "full_url": "data/media/posts/1566-1-319c6303167c.jpg"
+          "thumb_url": "data/media/posts/thumbs/1566-1-a0a44870586a.jpg",
+          "full_url": "data/media/posts/1566-1-a0a44870586a.jpg"
         }
       ],
       "video_url": null,
@@ -288,51 +306,33 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1559-1-62a45c655815.jpg",
-          "full_url": "data/media/posts/1559-1-62a45c655815.jpg"
+          "thumb_url": "data/media/posts/thumbs/1559-1-ce687e68b3ed.jpg",
+          "full_url": "data/media/posts/1559-1-ce687e68b3ed.jpg"
         },
         {
-          "thumb_url": "data/media/posts/thumbs/1559-2-6f3e88acadea.jpg",
-          "full_url": "data/media/posts/1559-2-6f3e88acadea.jpg"
+          "thumb_url": "data/media/posts/thumbs/1559-2-d9b5be33082b.jpg",
+          "full_url": "data/media/posts/1559-2-d9b5be33082b.jpg"
         },
         {
-          "thumb_url": "data/media/posts/thumbs/1559-3-80a3b0d17f80.jpg",
-          "full_url": "data/media/posts/1559-3-80a3b0d17f80.jpg"
+          "thumb_url": "data/media/posts/thumbs/1559-3-3387fab3fc20.jpg",
+          "full_url": "data/media/posts/1559-3-3387fab3fc20.jpg"
         },
         {
           "thumb_url": "data/media/posts/thumbs/1559-4-46a5aec025af.jpg",
           "full_url": "data/media/posts/1559-4-46a5aec025af.jpg"
         },
         {
-          "thumb_url": "data/media/posts/thumbs/1559-5-51b5f6be6c88.jpg",
-          "full_url": "data/media/posts/1559-5-51b5f6be6c88.jpg"
+          "thumb_url": "data/media/posts/thumbs/1559-5-71ba6186d656.jpg",
+          "full_url": "data/media/posts/1559-5-71ba6186d656.jpg"
         },
         {
-          "thumb_url": "data/media/posts/thumbs/1559-6-cd39b0c66f07.jpg",
-          "full_url": "data/media/posts/1559-6-cd39b0c66f07.jpg"
+          "thumb_url": "data/media/posts/thumbs/1559-6-fe0670e1d4df.jpg",
+          "full_url": "data/media/posts/1559-6-fe0670e1d4df.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/pgp_official/1559",
       "permalink": "posts/1559/"
-    },
-    {
-      "id": 1558,
-      "date": "2025-10-17T13:00:21+00:00",
-      "text": "🔜 Уже через месяц 17-19 ноября  пройдет курс повышения квалификации «Авторский курс практического комплаенса», реализуемый «Пепеляев Групп» совместно с учебно-методическим центром ФАС России.\n\n🧐 Для руководителей и менеджеров, принимающих стратегические решения, понимание рисков и требований в области комплаенса — это не просто необходимость, а фактор конкурентного преимущества. \n\nСегодня антимонопольные претензии, коррупционные риски, санкционные ограничения и налоговые претензии способны не только подорвать финансовую стабильность, но и поставить под угрозу существование бизнеса и его бизнес-модель.\n\n🤝 Комплаенс-интенсив уже помог многим компаниям своевременно выявить и минимизировать юридические и регуляторные риски, выстроить эффективные внутренние процедуры и систему контроля. \n\n🖍 Подробнее о курсе и условиях участия по ссылке.",
-      "text_html": "🔜 Уже через месяц 17-19 ноября  пройдет курс повышения квалификации <a href=\"https://pgplaw.tilda.ws/compliance-course\" target=\"_blank\" rel=\"noopener noreferrer\">«Авторский курс практического комплаенса»,</a> реализуемый «Пепеляев Групп» совместно с учебно-методическим центром ФАС России.<br><br>🧐 Для руководителей и менеджеров, принимающих стратегические решения, понимание рисков и требований в области комплаенса — это не просто необходимость, а фактор конкурентного преимущества. <br><br>Сегодня антимонопольные претензии, коррупционные риски, санкционные ограничения и налоговые претензии способны не только подорвать финансовую стабильность, но и поставить под угрозу существование бизнеса и его бизнес-модель.<br><br>🤝 Комплаенс-интенсив уже помог многим компаниям своевременно выявить и минимизировать юридические и регуляторные риски, выстроить эффективные внутренние процедуры и систему контроля. <br><br>🖍 Подробнее о курсе и условиях участия по <a href=\"https://pgplaw.tilda.ws/compliance-course\" target=\"_blank\" rel=\"noopener noreferrer\">ссылке.</a>",
-      "views": 1190,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/media/posts/thumbs/1558-1-7ad88c151258.jpg",
-          "full_url": "data/media/posts/1558-1-7ad88c151258.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/pgp_official/1558",
-      "permalink": "posts/1558/"
     }
   ]
 }

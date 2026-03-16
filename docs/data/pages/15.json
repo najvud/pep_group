@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-16T06:03:09.242337+00:00",
+  "generated_at": "2026-03-16T07:49:02.903384+00:00",
   "pagination": {
     "page": 15,
     "page_size": 16,
@@ -7,6 +7,19 @@
     "total_pages": 16
   },
   "posts": [
+    {
+      "id": 1422,
+      "date": "2025-07-10T13:11:31+00:00",
+      "text": "🔥 🎬 Интервью с Иваном Хаменушко\n\nИван – старший партнер «Пепеляев Групп», канд. юрид. наук, заведующий кафедрой «Финансовое право» в МГУ им. М.В. Ломоносова.\n\nИскренне и с юмором о том, что повлияло на выбор карьерного пути, о важности преподавательской деятельности для практикующего юриста, в чем заключается теория позитивного дискомфотра и при чем тут дельфины.🐬\n\nСловами не передать, лучше посмотрите полную версию #видео 😉\n\n▶ VK\n▶ Rutube\n▶ YouTube",
+      "text_html": "🔥 🎬 Интервью с Иваном Хаменушко<br><br>Иван – старший партнер «Пепеляев Групп», канд. юрид. наук, заведующий кафедрой «Финансовое право» в МГУ им. М.В. Ломоносова.<br><br>Искренне и с юмором о том, что повлияло на выбор карьерного пути, о важности преподавательской деятельности для практикующего юриста, в чем заключается теория позитивного дискомфотра и при чем тут дельфины.🐬<br><br>Словами не передать, лучше посмотрите полную версию #видео 😉<br><br>▶ <a href=\"https://vkvideo.ru/video-227047542_456239316\" target=\"_blank\" rel=\"noopener noreferrer\">VK</a><br>▶ <a href=\"https://rutube.ru/video/0983b157df6e32b0a750494485bc962f/\" target=\"_blank\" rel=\"noopener noreferrer\">Rutube</a><br>▶ <a href=\"https://youtu.be/NBkzkDTsqfQ\" target=\"_blank\" rel=\"noopener noreferrer\">YouTube</a>",
+      "views": 1260,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [],
+      "video_url": null,
+      "tg_url": "https://t.me/pgp_official/1422",
+      "permalink": "posts/1422/"
+    },
     {
       "id": 1421,
       "date": "2025-07-10T10:02:44+00:00",
@@ -35,8 +48,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1420-1-5f00f9b2f9a9.jpg",
-          "full_url": "data/media/posts/1420-1-5f00f9b2f9a9.jpg"
+          "thumb_url": "data/media/posts/thumbs/1420-1-3dbb786dd669.jpg",
+          "full_url": "data/media/posts/1420-1-3dbb786dd669.jpg"
         }
       ],
       "video_url": null,
@@ -93,16 +106,16 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1413-1-f8420973ccac.jpg",
-          "full_url": "data/media/posts/1413-1-f8420973ccac.jpg"
+          "thumb_url": "data/media/posts/thumbs/1413-1-f229db4a9869.jpg",
+          "full_url": "data/media/posts/1413-1-f229db4a9869.jpg"
         },
         {
-          "thumb_url": "data/media/posts/thumbs/1413-2-ffb5eacc4b9e.jpg",
-          "full_url": "data/media/posts/1413-2-ffb5eacc4b9e.jpg"
+          "thumb_url": "data/media/posts/thumbs/1413-2-a00c86733fa7.jpg",
+          "full_url": "data/media/posts/1413-2-a00c86733fa7.jpg"
         },
         {
-          "thumb_url": "data/media/posts/thumbs/1413-3-ee40133c325e.jpg",
-          "full_url": "data/media/posts/1413-3-ee40133c325e.jpg"
+          "thumb_url": "data/media/posts/thumbs/1413-3-72debf8102ff.jpg",
+          "full_url": "data/media/posts/1413-3-72debf8102ff.jpg"
         },
         {
           "thumb_url": "data/media/posts/thumbs/1413-4-5cb0276851e4.jpg",
@@ -145,8 +158,8 @@
           "full_url": "data/media/posts/1410-1-2f8572aa0405.jpg"
         },
         {
-          "thumb_url": "data/media/posts/thumbs/1410-2-abc1f8622f0b.jpg",
-          "full_url": "data/media/posts/1410-2-abc1f8622f0b.jpg"
+          "thumb_url": "data/media/posts/thumbs/1410-2-4547090ea868.jpg",
+          "full_url": "data/media/posts/1410-2-4547090ea868.jpg"
         }
       ],
       "video_url": null,
@@ -163,8 +176,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1409-1-6d14a2d04883.jpg",
-          "full_url": "data/media/posts/1409-1-6d14a2d04883.jpg"
+          "thumb_url": "data/media/posts/thumbs/1409-1-ed993da0adcc.jpg",
+          "full_url": "data/media/posts/1409-1-ed993da0adcc.jpg"
         }
       ],
       "video_url": null,
@@ -181,8 +194,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1408-1-c053f2d739ff.jpg",
-          "full_url": "data/media/posts/1408-1-c053f2d739ff.jpg"
+          "thumb_url": "data/media/posts/thumbs/1408-1-767f4f8afa9e.jpg",
+          "full_url": "data/media/posts/1408-1-767f4f8afa9e.jpg"
         }
       ],
       "video_url": null,
@@ -199,8 +212,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1405-1-510b960d09e9.jpg",
-          "full_url": "data/media/posts/1405-1-510b960d09e9.jpg"
+          "thumb_url": "data/media/posts/thumbs/1405-1-4804f95a6074.jpg",
+          "full_url": "data/media/posts/1405-1-4804f95a6074.jpg"
         },
         {
           "thumb_url": "data/media/posts/thumbs/1405-2-33c5aa5d8c3c.jpg",
@@ -243,8 +256,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1403-1-c1d3e2963b16.jpg",
-          "full_url": "data/media/posts/1403-1-c1d3e2963b16.jpg"
+          "thumb_url": "data/media/posts/thumbs/1403-1-e39968454314.jpg",
+          "full_url": "data/media/posts/1403-1-e39968454314.jpg"
         }
       ],
       "video_url": null,
@@ -261,8 +274,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1402-1-add80658384d.jpg",
-          "full_url": "data/media/posts/1402-1-add80658384d.jpg"
+          "thumb_url": "data/media/posts/thumbs/1402-1-f298e1a40bfc.jpg",
+          "full_url": "data/media/posts/1402-1-f298e1a40bfc.jpg"
         }
       ],
       "video_url": null,
@@ -279,8 +292,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1401-1-1d818961b16c.jpg",
-          "full_url": "data/media/posts/1401-1-1d818961b16c.jpg"
+          "thumb_url": "data/media/posts/thumbs/1401-1-d2f9e7f996f5.jpg",
+          "full_url": "data/media/posts/1401-1-d2f9e7f996f5.jpg"
         }
       ],
       "video_url": null,
@@ -297,47 +310,13 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1400-1-a89fa8320590.jpg",
-          "full_url": "data/media/posts/1400-1-a89fa8320590.jpg"
+          "thumb_url": "data/media/posts/thumbs/1400-1-c829f4e820af.jpg",
+          "full_url": "data/media/posts/1400-1-c829f4e820af.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/pgp_official/1400",
       "permalink": "posts/1400/"
-    },
-    {
-      "id": 1395,
-      "date": "2025-06-27T10:45:59+00:00",
-      "text": "🏢 «Пепеляев Групп» продолжает активно развивать Китайское направление в компании не только на деловом поле, но и культурно. Помимо продуктивной работы с китайскими партнерами и клиентами, мы также сотрудничаем с Музеями Московского Кремля. \n\n🤝 В рамках официальных мероприятий «перекрестных» Годов культуры России – Китая 2024-2025 мы посетили выставку «Изысканная трапеза. История еды в древнем Китае», где вдохновились экспонатами из коллекции Национального музея Китая и познакомились с важнейшими элементами китайского ритуала, воплощавшего суть древней цивилизации.\n\n🍽 Во время программы мы прикоснулись не только к истории, но и попробовали себя в приготовлении блюд традиционной китайской кухни!\n\nВ «Пепеляев Групп» особенно любят готовить, поэтому вы всегда можете найти лучшие рецепты от наших партнеров и юристов по тегу #pg_cooking\n\n#pg_ВостокДелоТонкое",
-      "text_html": "🏢 «Пепеляев Групп» продолжает активно развивать Китайское направление в компании не только на деловом поле, но и культурно. Помимо продуктивной работы с китайскими партнерами и клиентами, мы также сотрудничаем с Музеями Московского Кремля. <br><br>🤝 В рамках официальных мероприятий «перекрестных» Годов культуры России – Китая 2024-2025 мы посетили выставку «Изысканная трапеза. История еды в древнем Китае», где вдохновились экспонатами из коллекции Национального музея Китая и познакомились с важнейшими элементами китайского ритуала, воплощавшего суть древней цивилизации.<br><br>🍽 Во время программы мы прикоснулись не только к истории, но и попробовали себя в приготовлении блюд традиционной китайской кухни!<br><br>В «Пепеляев Групп» особенно любят готовить, поэтому вы всегда можете найти лучшие рецепты от наших партнеров и юристов по тегу #pg_cooking<br><br>#pg_ВостокДелоТонкое",
-      "views": 1280,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/media/posts/thumbs/1395-1-7cc31f244bd4.jpg",
-          "full_url": "data/media/posts/1395-1-7cc31f244bd4.jpg"
-        },
-        {
-          "thumb_url": "data/media/posts/thumbs/1395-2-d3a3156c41c2.jpg",
-          "full_url": "data/media/posts/1395-2-d3a3156c41c2.jpg"
-        },
-        {
-          "thumb_url": "data/media/posts/thumbs/1395-3-fa3cc7496ace.jpg",
-          "full_url": "data/media/posts/1395-3-fa3cc7496ace.jpg"
-        },
-        {
-          "thumb_url": "data/media/posts/thumbs/1395-4-531770c6bfe1.jpg",
-          "full_url": "data/media/posts/1395-4-531770c6bfe1.jpg"
-        },
-        {
-          "thumb_url": "data/media/posts/thumbs/1395-5-ce89570f4224.jpg",
-          "full_url": "data/media/posts/1395-5-ce89570f4224.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/pgp_official/1395",
-      "permalink": "posts/1395/"
     }
   ]
 }

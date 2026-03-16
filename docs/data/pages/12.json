@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-16T06:03:09.237201+00:00",
+  "generated_at": "2026-03-16T07:49:02.897409+00:00",
   "pagination": {
     "page": 12,
     "page_size": 16,
@@ -7,6 +7,24 @@
     "total_pages": 16
   },
   "posts": [
+    {
+      "id": 1495,
+      "date": "2025-09-04T10:00:57+00:00",
+      "text": "🏢 Еженедельная подборка обзоров от практик «Пепеляев Групп»\n\nВ одном месте – обзор антикризисного законодательства, изменения в налоговом праве и в мире банкротства, самые интересные антимонопольные споры, а также свежий номер журнала «Конкуренция и право».\n\n▫️ Банкротство: MustRead за 28 августа – 3 сентября 2025 г. Выпуск № 286\n\n▫️ Антимонопольные споры. Обзор судебной практики. Выпуск № 9 за 2025 г.\n\n▫️ Конкуренция и право. Обзор за 18–31 августа 2025 г.\n\n▫️ Налоговые новости. Дайджест за 25–31 августа 2025 г.\n\n▫️ Ограничения и меры поддержки для бизнеса: дайджест за 18–31 августа 2025 г.\n\n#pg_обзоры_недели",
+      "text_html": "🏢 Еженедельная подборка обзоров от практик «Пепеляев Групп»<br><br>В одном месте – обзор антикризисного законодательства, изменения в налоговом праве и в мире банкротства, самые интересные антимонопольные споры, а также свежий номер журнала «Конкуренция и право».<br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/bankruptcy-must-read/bankruptcy-must-read-03-09-25/\" target=\"_blank\" rel=\"noopener noreferrer\">Банкротство: MustRead за 28 августа – 3 сентября 2025 г. Выпуск № 286</a><br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/antitrust-reviews/competition-and-law-digest-25-09-01/\" target=\"_blank\" rel=\"noopener noreferrer\">Антимонопольные споры. Обзор судебной практики. Выпуск № 9 за 2025 г.</a><br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/antitrust-reviews/competition-and-law-digest-25-09-01/\" target=\"_blank\" rel=\"noopener noreferrer\">Конкуренция и право. Обзор за 18–31 августа 2025 г.</a><br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/tax-reviews/tax-news-digest-01-09-25/\" target=\"_blank\" rel=\"noopener noreferrer\">Налоговые новости. Дайджест за 25–31 августа 2025 г.</a><br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/sanctions-support-digest/support-digest-02-09-25/\" target=\"_blank\" rel=\"noopener noreferrer\">Ограничения и меры поддержки для бизнеса: дайджест за 18–31 августа 2025 г.</a><br><br>#pg_обзоры_недели",
+      "views": 1240,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/media/posts/thumbs/1495-1-2ca9fe254c63.jpg",
+          "full_url": "data/media/posts/1495-1-2ca9fe254c63.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/pgp_official/1495",
+      "permalink": "posts/1495/"
+    },
     {
       "id": 1494,
       "date": "2025-09-04T07:11:37+00:00",
@@ -35,8 +53,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1493-1-12e851e5e423.jpg",
-          "full_url": "data/media/posts/1493-1-12e851e5e423.jpg"
+          "thumb_url": "data/media/posts/thumbs/1493-1-2ff044bf100b.jpg",
+          "full_url": "data/media/posts/1493-1-2ff044bf100b.jpg"
         }
       ],
       "video_url": null,
@@ -53,8 +71,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1492-1-7458df8fd962.jpg",
-          "full_url": "data/media/posts/1492-1-7458df8fd962.jpg"
+          "thumb_url": "data/media/posts/thumbs/1492-1-424cb1dc002c.jpg",
+          "full_url": "data/media/posts/1492-1-424cb1dc002c.jpg"
         }
       ],
       "video_url": null,
@@ -107,8 +125,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1487-1-19bddeae61ea.jpg",
-          "full_url": "data/media/posts/1487-1-19bddeae61ea.jpg"
+          "thumb_url": "data/media/posts/thumbs/1487-1-b76506f30eb5.jpg",
+          "full_url": "data/media/posts/1487-1-b76506f30eb5.jpg"
         },
         {
           "thumb_url": "data/media/posts/thumbs/1487-2-689f338b81a0.jpg",
@@ -133,8 +151,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1486-1-7759e000a70f.jpg",
-          "full_url": "data/media/posts/1486-1-7759e000a70f.jpg"
+          "thumb_url": "data/media/posts/thumbs/1486-1-91c0bfade15b.jpg",
+          "full_url": "data/media/posts/1486-1-91c0bfade15b.jpg"
         }
       ],
       "video_url": null,
@@ -151,8 +169,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1485-1-e589db76200e.jpg",
-          "full_url": "data/media/posts/1485-1-e589db76200e.jpg"
+          "thumb_url": "data/media/posts/thumbs/1485-1-3bd4ee369b42.jpg",
+          "full_url": "data/media/posts/1485-1-3bd4ee369b42.jpg"
         }
       ],
       "video_url": null,
@@ -169,8 +187,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1484-1-d445a5967c9b.jpg",
-          "full_url": "data/media/posts/1484-1-d445a5967c9b.jpg"
+          "thumb_url": "data/media/posts/thumbs/1484-1-7c0fffc65339.jpg",
+          "full_url": "data/media/posts/1484-1-7c0fffc65339.jpg"
         }
       ],
       "video_url": null,
@@ -205,8 +223,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1482-1-6bcbfba71542.jpg",
-          "full_url": "data/media/posts/1482-1-6bcbfba71542.jpg"
+          "thumb_url": "data/media/posts/thumbs/1482-1-3b6b64fc27fe.jpg",
+          "full_url": "data/media/posts/1482-1-3b6b64fc27fe.jpg"
         }
       ],
       "video_url": null,
@@ -223,8 +241,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1481-1-58b056233c7c.jpg",
-          "full_url": "data/media/posts/1481-1-58b056233c7c.jpg"
+          "thumb_url": "data/media/posts/thumbs/1481-1-13fd01221776.jpg",
+          "full_url": "data/media/posts/1481-1-13fd01221776.jpg"
         }
       ],
       "video_url": null,
@@ -259,8 +277,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1479-1-084ecaf3eff5.jpg",
-          "full_url": "data/media/posts/1479-1-084ecaf3eff5.jpg"
+          "thumb_url": "data/media/posts/thumbs/1479-1-d55abb2808a2.jpg",
+          "full_url": "data/media/posts/1479-1-d55abb2808a2.jpg"
         }
       ],
       "video_url": null,
@@ -277,31 +295,13 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1478-1-71c4cc2ff6ae.jpg",
-          "full_url": "data/media/posts/1478-1-71c4cc2ff6ae.jpg"
+          "thumb_url": "data/media/posts/thumbs/1478-1-823ee9235bd5.jpg",
+          "full_url": "data/media/posts/1478-1-823ee9235bd5.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/pgp_official/1478",
       "permalink": "posts/1478/"
-    },
-    {
-      "id": 1477,
-      "date": "2025-08-20T13:02:39+00:00",
-      "text": "☝️Айтишников в России могут лишить конкурентного иммунитета\n\nВладельцам товарных знаков, авторских и иных интеллектуальных прав хотят запретить злоупотреблять своим положением. Такая инициатива исходит от антимонопольного ведомства.\n\nСейчас действующее законодательство устанавливает специальный иммунитет: использование объектов интеллектуальной собственности и средств индивидуализации не может признаваться недобросовестной конкуренцией. То есть производители ПО и правообладатели могут навязывать клиентам любые условия.\n\nОднако предложенный ФАС законопроект фактически отменяет этот иммунитет. По мнению чиновников, это не помешает инновационному развитию, а позволит эффективно предупреждать и пресекать злоупотребления на рынках со стороны правообладателей, занимающих доминирующее положение.\n\n💬 Комментарий старшего юриста практики интеллектуальной собственности Антона Пчёлкина изданию «Деловой Петербург»:\n\n«Инновационные продукты или оригинальные товарные знаки априори создаются для получения конкурентного преимущества. Как ФАС будет определять, что такие действия направлены на ограничение или устранение конкуренции?» — задаётся вопросом эксперт\n\n🌐 Ознакомиться с полным текстом статьи можно ссылке.",
-      "text_html": "☝️Айтишников в России могут лишить конкурентного иммунитета<br><br>Владельцам товарных знаков, авторских и иных интеллектуальных прав хотят запретить злоупотреблять своим положением. Такая инициатива исходит от антимонопольного ведомства.<br><br>Сейчас действующее законодательство устанавливает специальный иммунитет: использование объектов интеллектуальной собственности и средств индивидуализации не может признаваться недобросовестной конкуренцией. То есть производители ПО и правообладатели могут навязывать клиентам любые условия.<br><br>Однако предложенный ФАС законопроект фактически отменяет этот иммунитет. По мнению чиновников, это не помешает инновационному развитию, а позволит эффективно предупреждать и пресекать злоупотребления на рынках со стороны правообладателей, занимающих доминирующее положение.<br><br>💬 Комментарий старшего юриста практики интеллектуальной собственности Антона Пчёлкина изданию «Деловой Петербург»:<br><br>«Инновационные продукты или оригинальные товарные знаки априори создаются для получения конкурентного преимущества. Как ФАС будет определять, что такие действия направлены на ограничение или устранение конкуренции?» — задаётся вопросом эксперт<br><br>🌐 Ознакомиться с полным текстом статьи можно <a href=\"https://www.pgplaw.ru/analytics-and-brochures/articles-comments-interviews/aytishnikov-v-rossii-mogut-lishit-konkurentnogo-immuniteta/\" target=\"_blank\" rel=\"noopener noreferrer\">ссылке</a>.",
-      "views": 1280,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/media/posts/thumbs/1477-1-e750ef46b3ca.jpg",
-          "full_url": "data/media/posts/1477-1-e750ef46b3ca.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/pgp_official/1477",
-      "permalink": "posts/1477/"
     }
   ]
 }

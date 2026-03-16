@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-16T06:03:09.240518+00:00",
+  "generated_at": "2026-03-16T07:49:02.901220+00:00",
   "pagination": {
     "page": 14,
     "page_size": 16,
@@ -7,6 +7,24 @@
     "total_pages": 16
   },
   "posts": [
+    {
+      "id": 1447,
+      "date": "2025-07-30T07:02:02+00:00",
+      "text": "📚 Сегодняшний книжный пост посвящен нашему ежегодному изданию: «Налоговое право в решениях Конституционного Суда Российской Федерации». В сборник включены материалы одноименной научно-практической конференции, которая прошла в Москве весной 2024 г.\n\nНа конференции проанализированы работа Конституционного Суда РФ в 2023 г., его ключевые решения по налогам. Авторы статей также обсуждают вопросы налогообложения и правоприменения, которые требуют разрешения Конституционным Судом РФ.\n\nСборник содержит резолюцию конференции, выработанную ее участниками по итогам работы, а также перечень решений и обзор правовых позиций Конституционного Суда РФ 2023 г.\n\n👉 Приобрести книгу можно на Ozon или на нашем сайте.",
+      "text_html": "📚 Сегодняшний книжный пост посвящен нашему ежегодному изданию: «Налоговое право в решениях Конституционного Суда Российской Федерации». В сборник включены материалы одноименной научно-практической конференции, которая прошла в Москве весной 2024 г.<br><br>На конференции проанализированы работа Конституционного Суда РФ в 2023 г., его ключевые решения по налогам. Авторы статей также обсуждают вопросы налогообложения и правоприменения, которые требуют разрешения Конституционным Судом РФ.<br><br>Сборник содержит резолюцию конференции, выработанную ее участниками по итогам работы, а также перечень решений и обзор правовых позиций Конституционного Суда РФ 2023 г.<br><br>👉 Приобрести книгу можно на <a href=\"https://www.ozon.ru/product/nalogovoe-pravo-v-resheniyah-konstitutsionnogo-suda-rossiyskoy-federatsii-2023-goda-1803720005/\" target=\"_blank\" rel=\"noopener noreferrer\">Ozon</a> или на <a href=\"https://www.pgplaw.ru/analytics-and-brochures/books/nalogovoe-pravo-v-resheniyakh-konstitutsionnogo-suda-rossiyskoy-federatsii-2023-goda-po-materialam-x/\" target=\"_blank\" rel=\"noopener noreferrer\">нашем сайте</a>.",
+      "views": 1460,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/media/posts/thumbs/1447-1-dfcd976c214a.jpg",
+          "full_url": "data/media/posts/1447-1-dfcd976c214a.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/pgp_official/1447",
+      "permalink": "posts/1447/"
+    },
     {
       "id": 1446,
       "date": "2025-07-29T07:02:56+00:00",
@@ -35,8 +53,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1445-1-0df8fd6c887f.jpg",
-          "full_url": "data/media/posts/1445-1-0df8fd6c887f.jpg"
+          "thumb_url": "data/media/posts/thumbs/1445-1-5b292d073cf2.jpg",
+          "full_url": "data/media/posts/1445-1-5b292d073cf2.jpg"
         }
       ],
       "video_url": null,
@@ -89,8 +107,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1442-1-a4570d9ce212.jpg",
-          "full_url": "data/media/posts/1442-1-a4570d9ce212.jpg"
+          "thumb_url": "data/media/posts/thumbs/1442-1-5970d5bb4563.jpg",
+          "full_url": "data/media/posts/1442-1-5970d5bb4563.jpg"
         }
       ],
       "video_url": null,
@@ -169,12 +187,12 @@
           "full_url": "data/media/posts/1434-1-729f865e233e.jpg"
         },
         {
-          "thumb_url": "data/media/posts/thumbs/1434-2-56e9d91d5487.jpg",
-          "full_url": "data/media/posts/1434-2-56e9d91d5487.jpg"
+          "thumb_url": "data/media/posts/thumbs/1434-2-c3117a30e3de.jpg",
+          "full_url": "data/media/posts/1434-2-c3117a30e3de.jpg"
         },
         {
-          "thumb_url": "data/media/posts/thumbs/1434-3-86c58975ecfc.jpg",
-          "full_url": "data/media/posts/1434-3-86c58975ecfc.jpg"
+          "thumb_url": "data/media/posts/thumbs/1434-3-b55ffe700bd4.jpg",
+          "full_url": "data/media/posts/1434-3-b55ffe700bd4.jpg"
         },
         {
           "thumb_url": "data/media/posts/thumbs/1434-4-489fe5194150.jpg",
@@ -195,8 +213,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1433-1-15a74fab7ac6.jpg",
-          "full_url": "data/media/posts/1433-1-15a74fab7ac6.jpg"
+          "thumb_url": "data/media/posts/thumbs/1433-1-9282e90fcea0.jpg",
+          "full_url": "data/media/posts/1433-1-9282e90fcea0.jpg"
         }
       ],
       "video_url": null,
@@ -213,8 +231,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1432-1-f931872b94be.jpg",
-          "full_url": "data/media/posts/1432-1-f931872b94be.jpg"
+          "thumb_url": "data/media/posts/thumbs/1432-1-b66acce835cf.jpg",
+          "full_url": "data/media/posts/1432-1-b66acce835cf.jpg"
         }
       ],
       "video_url": null,
@@ -231,8 +249,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1431-1-357da2b82f45.jpg",
-          "full_url": "data/media/posts/1431-1-357da2b82f45.jpg"
+          "thumb_url": "data/media/posts/thumbs/1431-1-e9a9202489d9.jpg",
+          "full_url": "data/media/posts/1431-1-e9a9202489d9.jpg"
         }
       ],
       "video_url": null,
@@ -249,8 +267,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1430-1-00d89e95ff66.jpg",
-          "full_url": "data/media/posts/1430-1-00d89e95ff66.jpg"
+          "thumb_url": "data/media/posts/thumbs/1430-1-0e52567aced8.jpg",
+          "full_url": "data/media/posts/1430-1-0e52567aced8.jpg"
         }
       ],
       "video_url": null,
@@ -289,12 +307,12 @@
           "full_url": "data/media/posts/1423-1-8aa2b8b1323f.jpg"
         },
         {
-          "thumb_url": "data/media/posts/thumbs/1423-2-f165f0c5613f.jpg",
-          "full_url": "data/media/posts/1423-2-f165f0c5613f.jpg"
+          "thumb_url": "data/media/posts/thumbs/1423-2-180a809923ad.jpg",
+          "full_url": "data/media/posts/1423-2-180a809923ad.jpg"
         },
         {
-          "thumb_url": "data/media/posts/thumbs/1423-3-b6492ee956fb.jpg",
-          "full_url": "data/media/posts/1423-3-b6492ee956fb.jpg"
+          "thumb_url": "data/media/posts/thumbs/1423-3-5f99e0f5980b.jpg",
+          "full_url": "data/media/posts/1423-3-5f99e0f5980b.jpg"
         },
         {
           "thumb_url": "data/media/posts/thumbs/1423-4-268a4ce52945.jpg",
@@ -305,26 +323,13 @@
           "full_url": "data/media/posts/1423-5-03e059f02443.jpg"
         },
         {
-          "thumb_url": "data/media/posts/thumbs/1423-6-03700b31425c.jpg",
-          "full_url": "data/media/posts/1423-6-03700b31425c.jpg"
+          "thumb_url": "data/media/posts/thumbs/1423-6-cc827a5f4b84.jpg",
+          "full_url": "data/media/posts/1423-6-cc827a5f4b84.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/pgp_official/1423",
       "permalink": "posts/1423/"
-    },
-    {
-      "id": 1422,
-      "date": "2025-07-10T13:11:31+00:00",
-      "text": "🔥 🎬 Интервью с Иваном Хаменушко\n\nИван – старший партнер «Пепеляев Групп», канд. юрид. наук, заведующий кафедрой «Финансовое право» в МГУ им. М.В. Ломоносова.\n\nИскренне и с юмором о том, что повлияло на выбор карьерного пути, о важности преподавательской деятельности для практикующего юриста, в чем заключается теория позитивного дискомфотра и при чем тут дельфины.🐬\n\nСловами не передать, лучше посмотрите полную версию #видео 😉\n\n▶ VK\n▶ Rutube\n▶ YouTube",
-      "text_html": "🔥 🎬 Интервью с Иваном Хаменушко<br><br>Иван – старший партнер «Пепеляев Групп», канд. юрид. наук, заведующий кафедрой «Финансовое право» в МГУ им. М.В. Ломоносова.<br><br>Искренне и с юмором о том, что повлияло на выбор карьерного пути, о важности преподавательской деятельности для практикующего юриста, в чем заключается теория позитивного дискомфотра и при чем тут дельфины.🐬<br><br>Словами не передать, лучше посмотрите полную версию #видео 😉<br><br>▶ <a href=\"https://vkvideo.ru/video-227047542_456239316\" target=\"_blank\" rel=\"noopener noreferrer\">VK</a><br>▶ <a href=\"https://rutube.ru/video/0983b157df6e32b0a750494485bc962f/\" target=\"_blank\" rel=\"noopener noreferrer\">Rutube</a><br>▶ <a href=\"https://youtu.be/NBkzkDTsqfQ\" target=\"_blank\" rel=\"noopener noreferrer\">YouTube</a>",
-      "views": 1260,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [],
-      "video_url": null,
-      "tg_url": "https://t.me/pgp_official/1422",
-      "permalink": "posts/1422/"
     }
   ]
 }
