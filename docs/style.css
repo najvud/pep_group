@@ -201,7 +201,7 @@ a {
   height: 9px;
   border-radius: 999px;
   background: rgba(255, 255, 255, 0.95);
-  box-shadow: 0 0 0 6px rgba(255, 255, 255, 0.12);
+  box-shadow: 0 0 0 4px rgba(255, 255, 255, 0.12);
   animation: active-tab-pulse 1.9s ease-in-out infinite;
 }
 
@@ -679,13 +679,13 @@ a {
   0%,
   100% {
     transform: scale(1);
-    box-shadow: 0 0 0 6px rgba(255, 255, 255, 0.12);
+    box-shadow: 0 0 0 4px rgba(255, 255, 255, 0.12);
     opacity: 0.96;
   }
 
   50% {
-    transform: scale(1.18);
-    box-shadow: 0 0 0 10px rgba(255, 255, 255, 0.06);
+    transform: scale(1.12);
+    box-shadow: 0 0 0 7px rgba(255, 255, 255, 0.06);
     opacity: 1;
   }
 }
