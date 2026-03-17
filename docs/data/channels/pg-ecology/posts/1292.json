@@ -1,0 +1,36 @@
+{
+  "generated_at": "2026-03-17T20:29:26.247468+00:00",
+  "site": {
+    "channel_username": "pgecology",
+    "channel_title": "PG Ecology | Экология",
+    "site_name": "PG Ecology | Экология",
+    "site_description": "Канал экологической практики «Пепеляев Групп»: требования, надзор, комплаенс и ключевые изменения регулирования.",
+    "language": "ru",
+    "accent_color": "#91278d",
+    "background_color": "#f5f7fa",
+    "avatar_path": "assets/channel-avatar.jpg"
+  },
+  "source": {
+    "channel_key": "pg-ecology",
+    "channel_url": "https://t.me/s/pgecology",
+    "comments_enabled": false
+  },
+  "post": {
+    "id": 1292,
+    "date": "2026-02-27T07:00:07+00:00",
+    "text": "📣 Результаты индивидуального рейтинга Право-300, 2025\n\n44 юриста «Пепеляев Групп» рекомендованы индивидуальным рейтингом Право-300 по результатам 2025 года. \nПять из них отмечены в категории «Экологическое право».\n\n📎 Полный список рекомендованных юристов на сайте.\n\nПоздравляем коллег с профессиональными успехами 🎉",
+    "text_html": "📣 Результаты индивидуального рейтинга Право-300, 2025<br><br>44 юриста «Пепеляев Групп» рекомендованы индивидуальным рейтингом Право-300 по результатам 2025 года. <br>Пять из них отмечены в категории «Экологическое право».<br><br>📎 Полный список рекомендованных юристов <a href=\"https://www.pgplaw.ru/news/press-releases/individualniy-reyting-pravo300-2025/\" target=\"_blank\" rel=\"noopener noreferrer\">на сайте</a>.<br><br>Поздравляем коллег с профессиональными успехами 🎉",
+    "views": 524,
+    "comments_count": 0,
+    "comments_url": null,
+    "photos": [
+      {
+        "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1292-1-1463a1ee1e94.jpg",
+        "full_url": "data/channels/pg-ecology/media/posts/1292-1-1463a1ee1e94.jpg"
+      }
+    ],
+    "video_url": null,
+    "tg_url": "https://t.me/pgecology/1292",
+    "permalink": "channels/pg-ecology/posts/1292/"
+  }
+}

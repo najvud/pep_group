@@ -1,0 +1,36 @@
+{
+  "generated_at": "2026-03-17T20:25:23.208071+00:00",
+  "site": {
+    "channel_username": "PG_RealEstate",
+    "channel_title": "PG Real Estate | Недвижимость",
+    "site_name": "PG Real Estate | Недвижимость",
+    "site_description": "Канал практики недвижимости «Пепеляев Групп»: сделки, регулирование, судебная практика и отраслевые обновления.",
+    "language": "ru",
+    "accent_color": "#91278d",
+    "background_color": "#f5f7fa",
+    "avatar_path": "assets/channel-avatar.jpg"
+  },
+  "source": {
+    "channel_key": "pg-real-estate",
+    "channel_url": "https://t.me/s/PG_RealEstate",
+    "comments_enabled": false
+  },
+  "post": {
+    "id": 189,
+    "date": "2025-08-18T14:33:49+00:00",
+    "text": "Уважаемые подписчики, представляем вам свежий обзор новостей в сфере  строительства и недвижимости.\n\nСреди самых важных новостей:\n\n 📌 опубликован закон, обязывающий правообладателей земельных участков бороться с  борщевиком и другими инвазивными растениями; \n\n📌 градостроительный план земельного участка будут включать в состав документации для торгов по продаже и аренде земельных участков;\n\n📌сокращен срок для признания права публичной собственности на ряд бесхозяйных линейных объектов;\n\n📌 Роскадастр получил полномочия по наполнению сведениями ЕГРН.\n \n Об этом и не только – читайте в нашем обзоре.\n\n#PG_новости",
+    "text_html": "Уважаемые подписчики, представляем вам <a href=\"https://www.pgplaw.ru/analytics-and-brochures/real-estate-must-read/Real-estate-must-read-18-08-25/\" target=\"_blank\" rel=\"noopener noreferrer\">свежий обзор новостей в сфере  строительства и недвижимости</a>.<br><br>Среди самых важных новостей:<br><br> 📌 опубликован закон, обязывающий правообладателей земельных участков бороться с  борщевиком и другими инвазивными растениями; <br><br>📌 градостроительный план земельного участка будут включать в состав документации для торгов по продаже и аренде земельных участков;<br><br>📌сокращен срок для признания права публичной собственности на ряд бесхозяйных линейных объектов;<br><br>📌 Роскадастр получил полномочия по наполнению сведениями ЕГРН.<br> <br> Об этом и не только – читайте в нашем <a href=\"https://www.pgplaw.ru/analytics-and-brochures/real-estate-must-read/Real-estate-must-read-18-08-25/\" target=\"_blank\" rel=\"noopener noreferrer\">обзоре</a>.<br><br>#PG_новости",
+    "views": 2730,
+    "comments_count": 0,
+    "comments_url": null,
+    "photos": [
+      {
+        "thumb_url": "data/channels/pg-real-estate/media/posts/thumbs/189-1-963bb035aaba.jpg",
+        "full_url": "data/channels/pg-real-estate/media/posts/189-1-963bb035aaba.jpg"
+      }
+    ],
+    "video_url": null,
+    "tg_url": "https://t.me/PG_RealEstate/189",
+    "permalink": "channels/pg-real-estate/posts/189/"
+  }
+}

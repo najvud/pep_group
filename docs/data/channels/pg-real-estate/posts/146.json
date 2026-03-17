@@ -1,0 +1,36 @@
+{
+  "generated_at": "2026-03-17T20:25:23.241987+00:00",
+  "site": {
+    "channel_username": "PG_RealEstate",
+    "channel_title": "PG Real Estate | Недвижимость",
+    "site_name": "PG Real Estate | Недвижимость",
+    "site_description": "Канал практики недвижимости «Пепеляев Групп»: сделки, регулирование, судебная практика и отраслевые обновления.",
+    "language": "ru",
+    "accent_color": "#91278d",
+    "background_color": "#f5f7fa",
+    "avatar_path": "assets/channel-avatar.jpg"
+  },
+  "source": {
+    "channel_key": "pg-real-estate",
+    "channel_url": "https://t.me/s/PG_RealEstate",
+    "comments_enabled": false
+  },
+  "post": {
+    "id": 146,
+    "date": "2024-11-06T14:48:07+00:00",
+    "text": "Уважаемые подписчики, представляем вам свежий обзор новостей в сфере  строительства и недвижимости в формате текста и видео.\n\nСреди самых важных и интересных новостей:\n\n📌  в скором времени могут появиться реестры разрешений на строительство и на ввод объектов в эксплуатацию;\n\n📌 возможность утверждения градостроительной документации без публичных обсуждений планируют отменить; \n\n📌 В Москве выросла плата за изменение вида разрешенного использования земельных участков.\n \n📹 Об этом и не только – в нашем текстовом обзоре, а также в видеоролике, который доступен: \n\n👉 На YouTube\n👉 На RuTube\n\n#PG_новости",
+    "text_html": "Уважаемые подписчики, представляем вам <a href=\"https://www.pgplaw.ru/analytics-and-brochures/real-estate-must-read/Real-estate-must-read-05-11-24/\" target=\"_blank\" rel=\"noopener noreferrer\">свежий обзор новостей в сфере  строительства и недвижимости</a> в формате текста и видео.<br><br>Среди самых важных и интересных новостей:<br><br>📌  в скором времени могут появиться реестры разрешений на строительство и на ввод объектов в эксплуатацию;<br><br>📌 возможность утверждения градостроительной документации без публичных обсуждений планируют отменить; <br><br>📌 В Москве выросла плата за изменение вида разрешенного использования земельных участков.<br> <br>📹 Об этом и не только – в нашем текстовом обзоре, а также в видеоролике, который доступен: <br><br>👉 На <a href=\"https://youtu.be/NDfou1EHRz0\" target=\"_blank\" rel=\"noopener noreferrer\">YouTube</a><br>👉 На <a href=\"https://rutube.ru/video/275beb8bc6ae358b156e0d65a431d575/\" target=\"_blank\" rel=\"noopener noreferrer\">RuTube</a><br><br>#PG_новости",
+    "views": 2880,
+    "comments_count": 0,
+    "comments_url": null,
+    "photos": [
+      {
+        "thumb_url": "data/channels/pg-real-estate/media/posts/thumbs/146-1-8fb8f4c83721.jpg",
+        "full_url": "data/channels/pg-real-estate/media/posts/146-1-8fb8f4c83721.jpg"
+      }
+    ],
+    "video_url": null,
+    "tg_url": "https://t.me/PG_RealEstate/146",
+    "permalink": "channels/pg-real-estate/posts/146/"
+  }
+}

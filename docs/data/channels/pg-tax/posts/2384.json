@@ -1,0 +1,36 @@
+{
+  "generated_at": "2026-03-17T20:23:56.505746+00:00",
+  "site": {
+    "channel_username": "PG_Tax",
+    "channel_title": "PG Tax | Налоги",
+    "site_name": "PG Tax | Налоги",
+    "site_description": "Канал налоговой практики «Пепеляев Групп»: аналитика, обзоры и комментарии по налоговым вопросам.",
+    "language": "ru",
+    "accent_color": "#91278d",
+    "background_color": "#f5f7fa",
+    "avatar_path": "assets/channel-avatar.jpg"
+  },
+  "source": {
+    "channel_key": "pg-tax",
+    "channel_url": "https://t.me/s/PG_Tax",
+    "comments_enabled": false
+  },
+  "post": {
+    "id": 2384,
+    "date": "2026-01-06T11:03:41+00:00",
+    "text": "🔥 Ответы на вопросы  #Сергей_Пепеляев_ON_AIR\n\nУправляющий партнер \"Пепеляев Групп\" Сергей Пепеляев продолжает отвечать на вопросы подписчиков.\n\nПишите в комментарии вопросы для следующих выпусков 🎤\n\nВопрос дня:\n\n❓Что Вас вдохновило на использование в учебнике налогового права не только исторических фактов, но иллюстраций?",
+    "text_html": "🔥 Ответы на вопросы  #Сергей_Пепеляев_ON_AIR<br><br>Управляющий партнер \"Пепеляев Групп\" <a href=\"https://www.pgplaw.ru/to-get-the-team/sergey-pepeliaev/\" target=\"_blank\" rel=\"noopener noreferrer\">Сергей Пепеляев</a> продолжает отвечать на вопросы подписчиков.<br><br>Пишите в комментарии вопросы для следующих выпусков 🎤<br><br>Вопрос дня:<br><br>❓Что Вас вдохновило на использование в <a href=\"https://www.pgplaw.ru/analytics-and-brochures/books/two-volumes-of-tax-law/\" target=\"_blank\" rel=\"noopener noreferrer\">учебнике налогового права</a> не только исторических фактов, но иллюстраций?",
+    "views": 2130,
+    "comments_count": 0,
+    "comments_url": null,
+    "photos": [
+      {
+        "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2384-1-f4bc2996d5e0.jpg",
+        "full_url": "data/channels/pg-tax/media/posts/2384-1-f4bc2996d5e0.jpg"
+      }
+    ],
+    "video_url": null,
+    "tg_url": "https://t.me/PG_Tax/2384",
+    "permalink": "channels/pg-tax/posts/2384/"
+  }
+}

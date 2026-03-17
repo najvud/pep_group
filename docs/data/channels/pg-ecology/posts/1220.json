@@ -1,0 +1,36 @@
+{
+  "generated_at": "2026-03-17T20:29:26.312316+00:00",
+  "site": {
+    "channel_username": "pgecology",
+    "channel_title": "PG Ecology | Экология",
+    "site_name": "PG Ecology | Экология",
+    "site_description": "Канал экологической практики «Пепеляев Групп»: требования, надзор, комплаенс и ключевые изменения регулирования.",
+    "language": "ru",
+    "accent_color": "#91278d",
+    "background_color": "#f5f7fa",
+    "avatar_path": "assets/channel-avatar.jpg"
+  },
+  "source": {
+    "channel_key": "pg-ecology",
+    "channel_url": "https://t.me/s/pgecology",
+    "comments_enabled": false
+  },
+  "post": {
+    "id": 1220,
+    "date": "2025-10-15T04:00:02+00:00",
+    "text": "🌞 Уважаемые участники канала, доброго дня!\n\nМы подготовили новый обзор судебной практики для EcoStandard.journal. \n\nВ обзоре рассмотрели судебные акты, раскрывающие позиции судов в отношении следующих спорных ситуаций, связанных с обращением с отходами недропользования:\n\n🔹взыскание платы за размещение вскрышных пород в отвалах;\n🔹доначисление НДПИ;\n🔹доначисление НДС;\n🔹перевод земель из одной категории в другую.\n\nЧитайте обзор ➡️ здесь.",
+    "text_html": "🌞 Уважаемые участники канала, доброго дня!<br><br>Мы подготовили новый обзор судебной практики для <a href=\"https://journal.ecostandard.ru/\" target=\"_blank\" rel=\"noopener noreferrer\">EcoStandard.journal</a>. <br><br>В обзоре рассмотрели судебные акты, раскрывающие позиции судов в отношении следующих спорных ситуаций, связанных с обращением с отходами недропользования:<br><br>🔹взыскание платы за размещение вскрышных пород в отвалах;<br>🔹доначисление НДПИ;<br>🔹доначисление НДС;<br>🔹перевод земель из одной категории в другую.<br><br>Читайте обзор ➡️ <a href=\"https://journal.ecostandard.ru/eco/razbor-zakonodatelstva/obzor-sudebnoy-praktiki-po-sporam-svyazannym-s-obrashcheniem-s-otkhodami-nedropolzovaniya/?lang=ru\" target=\"_blank\" rel=\"noopener noreferrer\">здесь</a>.",
+    "views": 789,
+    "comments_count": 0,
+    "comments_url": null,
+    "photos": [
+      {
+        "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1220-1-9ce17cbe1c4b.jpg",
+        "full_url": "data/channels/pg-ecology/media/posts/1220-1-9ce17cbe1c4b.jpg"
+      }
+    ],
+    "video_url": null,
+    "tg_url": "https://t.me/pgecology/1220",
+    "permalink": "channels/pg-ecology/posts/1220/"
+  }
+}

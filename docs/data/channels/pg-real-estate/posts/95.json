@@ -1,0 +1,36 @@
+{
+  "generated_at": "2026-03-17T20:25:23.281676+00:00",
+  "site": {
+    "channel_username": "PG_RealEstate",
+    "channel_title": "PG Real Estate | Недвижимость",
+    "site_name": "PG Real Estate | Недвижимость",
+    "site_description": "Канал практики недвижимости «Пепеляев Групп»: сделки, регулирование, судебная практика и отраслевые обновления.",
+    "language": "ru",
+    "accent_color": "#91278d",
+    "background_color": "#f5f7fa",
+    "avatar_path": "assets/channel-avatar.jpg"
+  },
+  "source": {
+    "channel_key": "pg-real-estate",
+    "channel_url": "https://t.me/s/PG_RealEstate",
+    "comments_enabled": false
+  },
+  "post": {
+    "id": 95,
+    "date": "2024-05-09T10:55:05+00:00",
+    "text": null,
+    "text_html": null,
+    "views": 3310,
+    "comments_count": 0,
+    "comments_url": null,
+    "photos": [
+      {
+        "thumb_url": "data/channels/pg-real-estate/media/posts/thumbs/95-1-099bb1967d53.jpg",
+        "full_url": "data/channels/pg-real-estate/media/posts/95-1-099bb1967d53.jpg"
+      }
+    ],
+    "video_url": null,
+    "tg_url": "https://t.me/PG_RealEstate/95",
+    "permalink": "channels/pg-real-estate/posts/95/"
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17T17:42:39.029789+00:00",
+  "generated_at": "2026-03-17T20:19:30.292767+00:00",
   "site": {
     "channel_username": "pgp_official",
     "channel_title": "Pepeliaev Group | Пепеляев Групп",
@@ -11,6 +11,7 @@
     "avatar_path": "assets/channel-avatar.jpg"
   },
   "source": {
+    "channel_key": "pgp-official",
     "channel_url": "https://t.me/s/pgp_official",
     "comments_enabled": false
   },
@@ -25,6 +26,6 @@
     "photos": [],
     "video_url": "https://cdn4.telesco.pe/file/f786189bc7.mp4?token=LKI_f0XQ7j0JnJgvvVHHNy_8AqSA1l0fyV6Di41XC25-tdoBddRIWr-Ma_L0tD3R1ymiIViWw_nlhH1iGzG8bfZLMw_ov5g8di7vY0uDN6RF5XHCrPReR9V0rd6xpdi7_u4QG1kzfVuOVklAfjnNlTMC5O1fI6DssZ99kLZvCl3hiFUg0BbC6fHJR1aRkIpyAUtRETkRcqQ3duVoNmaI3mg3ADO4URvAiRHC8FFm15lCFBuMxslEoM3AGwBlX6ArFIPL3a_AVr2vMdHLyVVIiumq45NRqIysNPQmAO-tJ_qsqisarjY7nbaQRWHfXcmi1WnZ-hndiwCXuocaoQGDfw",
     "tg_url": "https://t.me/pgp_official/1663",
-    "permalink": "posts/1663/"
+    "permalink": "channels/pgp-official/posts/1663/"
   }
 }

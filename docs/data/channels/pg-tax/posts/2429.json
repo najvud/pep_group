@@ -1,0 +1,36 @@
+{
+  "generated_at": "2026-03-17T20:23:56.460524+00:00",
+  "site": {
+    "channel_username": "PG_Tax",
+    "channel_title": "PG Tax | Налоги",
+    "site_name": "PG Tax | Налоги",
+    "site_description": "Канал налоговой практики «Пепеляев Групп»: аналитика, обзоры и комментарии по налоговым вопросам.",
+    "language": "ru",
+    "accent_color": "#91278d",
+    "background_color": "#f5f7fa",
+    "avatar_path": "assets/channel-avatar.jpg"
+  },
+  "source": {
+    "channel_key": "pg-tax",
+    "channel_url": "https://t.me/s/PG_Tax",
+    "comments_enabled": false
+  },
+  "post": {
+    "id": 2429,
+    "date": "2026-01-30T11:00:12+00:00",
+    "text": null,
+    "text_html": null,
+    "views": 1550,
+    "comments_count": 0,
+    "comments_url": null,
+    "photos": [
+      {
+        "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2429-1-f30f60ef11e3.jpg",
+        "full_url": "data/channels/pg-tax/media/posts/2429-1-f30f60ef11e3.jpg"
+      }
+    ],
+    "video_url": null,
+    "tg_url": "https://t.me/PG_Tax/2429",
+    "permalink": "channels/pg-tax/posts/2429/"
+  }
+}

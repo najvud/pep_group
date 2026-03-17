@@ -1,0 +1,36 @@
+{
+  "generated_at": "2026-03-17T20:23:56.615092+00:00",
+  "site": {
+    "channel_username": "PG_Tax",
+    "channel_title": "PG Tax | Налоги",
+    "site_name": "PG Tax | Налоги",
+    "site_description": "Канал налоговой практики «Пепеляев Групп»: аналитика, обзоры и комментарии по налоговым вопросам.",
+    "language": "ru",
+    "accent_color": "#91278d",
+    "background_color": "#f5f7fa",
+    "avatar_path": "assets/channel-avatar.jpg"
+  },
+  "source": {
+    "channel_key": "pg-tax",
+    "channel_url": "https://t.me/s/PG_Tax",
+    "comments_enabled": false
+  },
+  "post": {
+    "id": 2231,
+    "date": "2025-11-06T11:36:38+00:00",
+    "text": "📢 Экспресс обзор писем Минфина и ФНС. Октябрь \n\nВ фокусе \n\n◽️ НДС: возмещение при импорте и спорные вычеты.\n◽️ Прибыль: учет курсовых разниц и расходов по займам.\n◽️ НДФЛ: матвыгода от займов в у.е. \n\n👉 Читайте в обзоре\n\n#обзор_писем_Минфина_ФНС\n\nТакже коллеги готовят индивидуальные обзоры изменений налогового законодательства/практики с учетом специфики бизнеса. Подробнее об услуге.",
+    "text_html": "📢 Экспресс обзор писем Минфина и ФНС. Октябрь <br><br>В фокусе <br><br>◽️ НДС: возмещение при импорте и спорные вычеты.<br>◽️ Прибыль: учет курсовых разниц и расходов по займам.<br>◽️ НДФЛ: матвыгода от займов в у.е. <br><br>👉 <a href=\"https://www.pgplaw.ru/analytics-and-brochures/tax-reviews/pisma-minfina-i-fns-obnovleniya-oktyabrya-2025-g/\" target=\"_blank\" rel=\"noopener noreferrer\">Читайте в обзоре</a><br><br>#обзор_писем_Минфина_ФНС<br><br>Также коллеги готовят индивидуальные обзоры изменений налогового законодательства/практики с учетом специфики бизнеса. <a href=\"https://www.pgplaw.ru/practice-and-industry/practices/obzory-zakonodatelstva-i-praktiki/\" target=\"_blank\" rel=\"noopener noreferrer\">Подробнее об услуге.</a>",
+    "views": 1440,
+    "comments_count": 0,
+    "comments_url": null,
+    "photos": [
+      {
+        "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2231-1-53c471079bb4.jpg",
+        "full_url": "data/channels/pg-tax/media/posts/2231-1-53c471079bb4.jpg"
+      }
+    ],
+    "video_url": null,
+    "tg_url": "https://t.me/PG_Tax/2231",
+    "permalink": "channels/pg-tax/posts/2231/"
+  }
+}

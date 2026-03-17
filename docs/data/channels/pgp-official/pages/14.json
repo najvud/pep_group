@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17T19:41:11.372126+00:00",
+  "generated_at": "2026-03-17T20:19:30.223059+00:00",
   "pagination": {
     "page": 14,
     "page_size": 16,
@@ -17,13 +17,13 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1455-1-b4540156271c.jpg",
-          "full_url": "data/media/posts/1455-1-b4540156271c.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1455-1-b4540156271c.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1455-1-b4540156271c.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/pgp_official/1455",
-      "permalink": "posts/1455/"
+      "permalink": "channels/pgp-official/posts/1455/"
     },
     {
       "id": 1453,
@@ -35,17 +35,17 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1453-1-115dd7b0358c.jpg",
-          "full_url": "data/media/posts/1453-1-115dd7b0358c.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1453-1-115dd7b0358c.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1453-1-115dd7b0358c.jpg"
         },
         {
-          "thumb_url": "data/media/posts/thumbs/1453-2-4fbcbf42c61c.jpg",
-          "full_url": "data/media/posts/1453-2-4fbcbf42c61c.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1453-2-4fbcbf42c61c.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1453-2-4fbcbf42c61c.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/pgp_official/1453",
-      "permalink": "posts/1453/"
+      "permalink": "channels/pgp-official/posts/1453/"
     },
     {
       "id": 1448,
@@ -57,29 +57,29 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1448-1-1d234ff183c3.jpg",
-          "full_url": "data/media/posts/1448-1-1d234ff183c3.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1448-1-1d234ff183c3.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1448-1-1d234ff183c3.jpg"
         },
         {
-          "thumb_url": "data/media/posts/thumbs/1448-2-0a9576ea79bf.jpg",
-          "full_url": "data/media/posts/1448-2-0a9576ea79bf.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1448-2-0a9576ea79bf.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1448-2-0a9576ea79bf.jpg"
         },
         {
-          "thumb_url": "data/media/posts/thumbs/1448-3-468447e68b94.jpg",
-          "full_url": "data/media/posts/1448-3-468447e68b94.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1448-3-468447e68b94.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1448-3-468447e68b94.jpg"
         },
         {
-          "thumb_url": "data/media/posts/thumbs/1448-4-88966a358d9b.jpg",
-          "full_url": "data/media/posts/1448-4-88966a358d9b.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1448-4-88966a358d9b.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1448-4-88966a358d9b.jpg"
         },
         {
-          "thumb_url": "data/media/posts/thumbs/1448-5-711215d6e1be.jpg",
-          "full_url": "data/media/posts/1448-5-711215d6e1be.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1448-5-711215d6e1be.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1448-5-711215d6e1be.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/pgp_official/1448",
-      "permalink": "posts/1448/"
+      "permalink": "channels/pgp-official/posts/1448/"
     },
     {
       "id": 1447,
@@ -91,13 +91,13 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1447-1-d983f8651c77.jpg",
-          "full_url": "data/media/posts/1447-1-d983f8651c77.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1447-1-d983f8651c77.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1447-1-d983f8651c77.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/pgp_official/1447",
-      "permalink": "posts/1447/"
+      "permalink": "channels/pgp-official/posts/1447/"
     },
     {
       "id": 1446,
@@ -109,13 +109,13 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1446-1-9a1273278625.jpg",
-          "full_url": "data/media/posts/1446-1-9a1273278625.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1446-1-9a1273278625.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1446-1-9a1273278625.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/pgp_official/1446",
-      "permalink": "posts/1446/"
+      "permalink": "channels/pgp-official/posts/1446/"
     },
     {
       "id": 1445,
@@ -127,13 +127,13 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1445-1-fa8739b9da53.jpg",
-          "full_url": "data/media/posts/1445-1-fa8739b9da53.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1445-1-fa8739b9da53.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1445-1-fa8739b9da53.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/pgp_official/1445",
-      "permalink": "posts/1445/"
+      "permalink": "channels/pgp-official/posts/1445/"
     },
     {
       "id": 1444,
@@ -145,13 +145,13 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1444-1-08530bda78de.jpg",
-          "full_url": "data/media/posts/1444-1-08530bda78de.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1444-1-08530bda78de.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1444-1-08530bda78de.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/pgp_official/1444",
-      "permalink": "posts/1444/"
+      "permalink": "channels/pgp-official/posts/1444/"
     },
     {
       "id": 1443,
@@ -163,13 +163,13 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1443-1-13678dc54107.jpg",
-          "full_url": "data/media/posts/1443-1-13678dc54107.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1443-1-13678dc54107.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1443-1-13678dc54107.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/pgp_official/1443",
-      "permalink": "posts/1443/"
+      "permalink": "channels/pgp-official/posts/1443/"
     },
     {
       "id": 1442,
@@ -181,13 +181,13 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1442-1-0de1f547095c.jpg",
-          "full_url": "data/media/posts/1442-1-0de1f547095c.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1442-1-0de1f547095c.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1442-1-0de1f547095c.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/pgp_official/1442",
-      "permalink": "posts/1442/"
+      "permalink": "channels/pgp-official/posts/1442/"
     },
     {
       "id": 1441,
@@ -199,13 +199,13 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1441-1-d048b7ec67c4.jpg",
-          "full_url": "data/media/posts/1441-1-d048b7ec67c4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1441-1-d048b7ec67c4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1441-1-d048b7ec67c4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/pgp_official/1441",
-      "permalink": "posts/1441/"
+      "permalink": "channels/pgp-official/posts/1441/"
     },
     {
       "id": 1440,
@@ -217,13 +217,13 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1440-1-3adeacc007ab.jpg",
-          "full_url": "data/media/posts/1440-1-3adeacc007ab.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1440-1-3adeacc007ab.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1440-1-3adeacc007ab.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/pgp_official/1440",
-      "permalink": "posts/1440/"
+      "permalink": "channels/pgp-official/posts/1440/"
     },
     {
       "id": 1438,
@@ -235,17 +235,17 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1438-1-11a15dcce6b6.jpg",
-          "full_url": "data/media/posts/1438-1-11a15dcce6b6.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1438-1-11a15dcce6b6.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1438-1-11a15dcce6b6.jpg"
         },
         {
-          "thumb_url": "data/media/posts/thumbs/1438-2-51473eddf149.jpg",
-          "full_url": "data/media/posts/1438-2-51473eddf149.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1438-2-51473eddf149.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1438-2-51473eddf149.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/pgp_official/1438",
-      "permalink": "posts/1438/"
+      "permalink": "channels/pgp-official/posts/1438/"
     },
     {
       "id": 1434,
@@ -257,25 +257,25 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1434-1-6067a08ab08e.jpg",
-          "full_url": "data/media/posts/1434-1-6067a08ab08e.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1434-1-6067a08ab08e.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1434-1-6067a08ab08e.jpg"
         },
         {
-          "thumb_url": "data/media/posts/thumbs/1434-2-a43e965ad66c.jpg",
-          "full_url": "data/media/posts/1434-2-a43e965ad66c.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1434-2-a43e965ad66c.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1434-2-a43e965ad66c.jpg"
         },
         {
-          "thumb_url": "data/media/posts/thumbs/1434-3-7ed808a6a5ac.jpg",
-          "full_url": "data/media/posts/1434-3-7ed808a6a5ac.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1434-3-7ed808a6a5ac.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1434-3-7ed808a6a5ac.jpg"
         },
         {
-          "thumb_url": "data/media/posts/thumbs/1434-4-cf1463eab807.jpg",
-          "full_url": "data/media/posts/1434-4-cf1463eab807.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1434-4-cf1463eab807.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1434-4-cf1463eab807.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/pgp_official/1434",
-      "permalink": "posts/1434/"
+      "permalink": "channels/pgp-official/posts/1434/"
     },
     {
       "id": 1433,
@@ -287,13 +287,13 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1433-1-02aff9c412a0.jpg",
-          "full_url": "data/media/posts/1433-1-02aff9c412a0.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1433-1-02aff9c412a0.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1433-1-02aff9c412a0.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/pgp_official/1433",
-      "permalink": "posts/1433/"
+      "permalink": "channels/pgp-official/posts/1433/"
     },
     {
       "id": 1432,
@@ -305,13 +305,13 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1432-1-8faa7ebefcfa.jpg",
-          "full_url": "data/media/posts/1432-1-8faa7ebefcfa.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1432-1-8faa7ebefcfa.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1432-1-8faa7ebefcfa.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/pgp_official/1432",
-      "permalink": "posts/1432/"
+      "permalink": "channels/pgp-official/posts/1432/"
     },
     {
       "id": 1431,
@@ -323,13 +323,13 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1431-1-329c62ede8c1.jpg",
-          "full_url": "data/media/posts/1431-1-329c62ede8c1.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1431-1-329c62ede8c1.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1431-1-329c62ede8c1.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/pgp_official/1431",
-      "permalink": "posts/1431/"
+      "permalink": "channels/pgp-official/posts/1431/"
     }
   ]
 }

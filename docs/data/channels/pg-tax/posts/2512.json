@@ -1,0 +1,36 @@
+{
+  "generated_at": "2026-03-17T20:23:56.383821+00:00",
+  "site": {
+    "channel_username": "PG_Tax",
+    "channel_title": "PG Tax | Налоги",
+    "site_name": "PG Tax | Налоги",
+    "site_description": "Канал налоговой практики «Пепеляев Групп»: аналитика, обзоры и комментарии по налоговым вопросам.",
+    "language": "ru",
+    "accent_color": "#91278d",
+    "background_color": "#f5f7fa",
+    "avatar_path": "assets/channel-avatar.jpg"
+  },
+  "source": {
+    "channel_key": "pg-tax",
+    "channel_url": "https://t.me/s/PG_Tax",
+    "comments_enabled": false
+  },
+  "post": {
+    "id": 2512,
+    "date": "2026-03-05T14:21:04+00:00",
+    "text": "Сегодня в фокусе рубрики #СЕРГЕЙ_ПЕПЕЛЯЕВ_ON_AIR \n- законопроект Минцифры о поддержке Почты России за счёт обязательных отчислений операторов доставки.\n\nНапоминаем, что комментарии к этой рубрике открыты для любых Ваших вопросов Сергею Геннадьевичу ✍️",
+    "text_html": "Сегодня в фокусе рубрики #СЕРГЕЙ_ПЕПЕЛЯЕВ_ON_AIR <br>- законопроект Минцифры о поддержке Почты России за счёт обязательных отчислений операторов доставки.<br><br>Напоминаем, что комментарии к этой рубрике открыты для любых Ваших вопросов Сергею Геннадьевичу ✍️",
+    "views": 1170,
+    "comments_count": 0,
+    "comments_url": null,
+    "photos": [
+      {
+        "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2512-1-418725017ba6.jpg",
+        "full_url": "data/channels/pg-tax/media/posts/2512-1-418725017ba6.jpg"
+      }
+    ],
+    "video_url": null,
+    "tg_url": "https://t.me/PG_Tax/2512",
+    "permalink": "channels/pg-tax/posts/2512/"
+  }
+}

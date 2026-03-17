@@ -1,0 +1,36 @@
+{
+  "generated_at": "2026-03-17T20:25:23.211831+00:00",
+  "site": {
+    "channel_username": "PG_RealEstate",
+    "channel_title": "PG Real Estate | Недвижимость",
+    "site_name": "PG Real Estate | Недвижимость",
+    "site_description": "Канал практики недвижимости «Пепеляев Групп»: сделки, регулирование, судебная практика и отраслевые обновления.",
+    "language": "ru",
+    "accent_color": "#91278d",
+    "background_color": "#f5f7fa",
+    "avatar_path": "assets/channel-avatar.jpg"
+  },
+  "source": {
+    "channel_key": "pg-real-estate",
+    "channel_url": "https://t.me/s/PG_RealEstate",
+    "comments_enabled": false
+  },
+  "post": {
+    "id": 184,
+    "date": "2025-07-10T08:16:46+00:00",
+    "text": "🏠 Что нужно знать бизнесу о благоустройстве территорий\n\nО правовых аспектах благоустройства территорий – как регулируется, какая ответственность предусмотрена за нарушения – рассказала «Адвокатской газете» руководитель петербургской практики недвижимости и строительства Елена Крестьянцева. \n\nИз материала Вы узнаете: \n\n✅ что предпринимателям нужно знать о благоустройстве?\n\n✅ какими законами регулируется благоустройство, и где их найти?\n\n✅ какая ответственность предусмотрена за нарушения в сфере благоустройства?\n\n✅ рекомендации предпринимателям.",
+    "text_html": "🏠 Что нужно знать бизнесу о благоустройстве территорий<br><br>О правовых аспектах благоустройства территорий – как регулируется, какая ответственность предусмотрена за нарушения – <a href=\"https://www.pgplaw.ru/analytics-and-brochures/articles-comments-interviews/biznesu-o-blagoustroystve-territoriy-rasskazyvayut-yuristy-/\" target=\"_blank\" rel=\"noopener noreferrer\">рассказала</a> «Адвокатской газете» руководитель петербургской практики недвижимости и строительства Елена Крестьянцева. <br><br>Из материала Вы узнаете: <br><br>✅ что предпринимателям нужно знать о благоустройстве?<br><br>✅ какими законами регулируется благоустройство, и где их найти?<br><br>✅ какая ответственность предусмотрена за нарушения в сфере благоустройства?<br><br>✅ рекомендации предпринимателям.",
+    "views": 2380,
+    "comments_count": 0,
+    "comments_url": null,
+    "photos": [
+      {
+        "thumb_url": "data/channels/pg-real-estate/media/posts/thumbs/184-1-f4fd8a5cf671.jpg",
+        "full_url": "data/channels/pg-real-estate/media/posts/184-1-f4fd8a5cf671.jpg"
+      }
+    ],
+    "video_url": null,
+    "tg_url": "https://t.me/PG_RealEstate/184",
+    "permalink": "channels/pg-real-estate/posts/184/"
+  }
+}

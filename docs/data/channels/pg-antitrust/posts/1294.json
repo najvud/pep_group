@@ -1,0 +1,36 @@
+{
+  "generated_at": "2026-03-17T20:21:44.843643+00:00",
+  "site": {
+    "channel_username": "PgAntitrust",
+    "channel_title": "PG Antitrust | Антимонопольное право",
+    "site_name": "PG Antitrust | Антимонопольное право",
+    "site_description": "Канал практики антимонопольного права «Пепеляев Групп»: комментарии, обзоры и новости регулирования.",
+    "language": "ru",
+    "accent_color": "#91278d",
+    "background_color": "#f5f7fa",
+    "avatar_path": "assets/channel-avatar.jpg"
+  },
+  "source": {
+    "channel_key": "pg-antitrust",
+    "channel_url": "https://t.me/s/PgAntitrust",
+    "comments_enabled": false
+  },
+  "post": {
+    "id": 1294,
+    "date": "2025-10-31T07:27:53+00:00",
+    "text": "📣 Ряд контрсанкционных мер могут продлить\n\nПоправки в Федеральный закон от 08.03.2022 № 46-ФЗ проходят общественные обсуждения.\nПредложено продлить на 2026 г. полномочия Правительства устанавливать особенности в том числе:\n🟡организации/осуществления госконтроля (надзора);\n🟡разрешительных режимов (лицензирование, аккредитация, аттестация, госрегистрация и др.);\n🟡вступления в силу НПА с обязательными требованиями.\n\nПланируется, что закон вступит в силу 01.01.2026.\n\n#антитраст",
+    "text_html": "📣 <a href=\"https://cljournal.ru/news/27586/\" target=\"_blank\" rel=\"noopener noreferrer\">Ряд контрсанкционных мер могут продлить</a><br><br><a href=\"https://regulation.gov.ru/projects/161717/\" target=\"_blank\" rel=\"noopener noreferrer\">Поправки</a> в Федеральный закон от 08.03.2022 № 46-ФЗ проходят общественные обсуждения.<br>Предложено продлить на 2026 г. полномочия Правительства устанавливать особенности в том числе:<br>🟡организации/осуществления госконтроля (надзора);<br>🟡разрешительных режимов (лицензирование, аккредитация, аттестация, госрегистрация и др.);<br>🟡вступления в силу НПА с обязательными требованиями.<br><br>Планируется, что закон вступит в силу 01.01.2026.<br><br>#антитраст",
+    "views": 624,
+    "comments_count": 0,
+    "comments_url": null,
+    "photos": [
+      {
+        "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1294-1-2dd184fb38d1.jpg",
+        "full_url": "data/channels/pg-antitrust/media/posts/1294-1-2dd184fb38d1.jpg"
+      }
+    ],
+    "video_url": null,
+    "tg_url": "https://t.me/PgAntitrust/1294",
+    "permalink": "channels/pg-antitrust/posts/1294/"
+  }
+}

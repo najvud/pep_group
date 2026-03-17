@@ -1,0 +1,36 @@
+{
+  "generated_at": "2026-03-17T20:23:56.417567+00:00",
+  "site": {
+    "channel_username": "PG_Tax",
+    "channel_title": "PG Tax | Налоги",
+    "site_name": "PG Tax | Налоги",
+    "site_description": "Канал налоговой практики «Пепеляев Групп»: аналитика, обзоры и комментарии по налоговым вопросам.",
+    "language": "ru",
+    "accent_color": "#91278d",
+    "background_color": "#f5f7fa",
+    "avatar_path": "assets/channel-avatar.jpg"
+  },
+  "source": {
+    "channel_key": "pg-tax",
+    "channel_url": "https://t.me/s/PG_Tax",
+    "comments_enabled": false
+  },
+  "post": {
+    "id": 2472,
+    "date": "2026-02-17T10:57:01+00:00",
+    "text": "🎬 Новое видео: Добросовестная реализация имущества или злонамеренное сокрытие от взыскания налоговой задолженности? Риски приобретателя\n\nСмотрите через:\n\n📱 ВК Видео\n📱 YouTube\n\nВас ждет обсуждение рискованных сделок с имуществом при наличии налоговой задолженности, позиции Верховного суда и налоговых органов, ключевые признаки недобросовестности и многое другое.\n\n#видеоинтервью_Пепеляев_Налоговед",
+    "text_html": "🎬 Новое видео: Добросовестная реализация имущества или злонамеренное сокрытие от взыскания налоговой задолженности? Риски приобретателя<br><br>Смотрите через:<br><br>📱 <a href=\"https://vkvideo.ru/video-227047542_456239396?sh=4\" target=\"_blank\" rel=\"noopener noreferrer\">ВК Видео</a><br>📱 <a href=\"https://youtu.be/8xjSijqCei8\" target=\"_blank\" rel=\"noopener noreferrer\">YouTube</a><br><br>Вас ждет обсуждение рискованных сделок с имуществом при наличии налоговой задолженности, позиции Верховного суда и налоговых органов, ключевые признаки недобросовестности и многое другое.<br><br>#видеоинтервью_Пепеляев_Налоговед",
+    "views": 1350,
+    "comments_count": 0,
+    "comments_url": null,
+    "photos": [
+      {
+        "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2472-1-2aaacfc26b13.jpg",
+        "full_url": "data/channels/pg-tax/media/posts/2472-1-2aaacfc26b13.jpg"
+      }
+    ],
+    "video_url": null,
+    "tg_url": "https://t.me/PG_Tax/2472",
+    "permalink": "channels/pg-tax/posts/2472/"
+  }
+}

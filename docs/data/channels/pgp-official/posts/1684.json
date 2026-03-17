@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17T18:36:00.273422+00:00",
+  "generated_at": "2026-03-17T20:19:30.281841+00:00",
   "site": {
     "channel_username": "pgp_official",
     "channel_title": "Pepeliaev Group | Пепеляев Групп",
@@ -11,6 +11,7 @@
     "avatar_path": "assets/channel-avatar.jpg"
   },
   "source": {
+    "channel_key": "pgp-official",
     "channel_url": "https://t.me/s/pgp_official",
     "comments_enabled": false
   },
@@ -24,28 +25,28 @@
     "comments_url": null,
     "photos": [
       {
-        "thumb_url": "data/media/posts/thumbs/1684-1-6d1bd83e25c7.jpg",
-        "full_url": "data/media/posts/1684-1-6d1bd83e25c7.jpg"
+        "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1684-1-6d1bd83e25c7.jpg",
+        "full_url": "data/channels/pgp-official/media/posts/1684-1-6d1bd83e25c7.jpg"
       },
       {
-        "thumb_url": "data/media/posts/thumbs/1684-2-bafe1204d0ba.jpg",
-        "full_url": "data/media/posts/1684-2-bafe1204d0ba.jpg"
+        "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1684-2-bafe1204d0ba.jpg",
+        "full_url": "data/channels/pgp-official/media/posts/1684-2-bafe1204d0ba.jpg"
       },
       {
-        "thumb_url": "data/media/posts/thumbs/1684-3-12f256f97745.jpg",
-        "full_url": "data/media/posts/1684-3-12f256f97745.jpg"
+        "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1684-3-12f256f97745.jpg",
+        "full_url": "data/channels/pgp-official/media/posts/1684-3-12f256f97745.jpg"
       },
       {
-        "thumb_url": "data/media/posts/thumbs/1684-4-da62f9d31d85.jpg",
-        "full_url": "data/media/posts/1684-4-da62f9d31d85.jpg"
+        "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1684-4-da62f9d31d85.jpg",
+        "full_url": "data/channels/pgp-official/media/posts/1684-4-da62f9d31d85.jpg"
       },
       {
-        "thumb_url": "data/media/posts/thumbs/1684-5-337623638237.jpg",
-        "full_url": "data/media/posts/1684-5-337623638237.jpg"
+        "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1684-5-337623638237.jpg",
+        "full_url": "data/channels/pgp-official/media/posts/1684-5-337623638237.jpg"
       }
     ],
     "video_url": null,
     "tg_url": "https://t.me/pgp_official/1684",
-    "permalink": "posts/1684/"
+    "permalink": "channels/pgp-official/posts/1684/"
   }
 }

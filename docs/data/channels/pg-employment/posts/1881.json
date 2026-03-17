@@ -1,0 +1,36 @@
+{
+  "generated_at": "2026-03-17T20:32:16.994267+00:00",
+  "site": {
+    "channel_username": "pgEmployment",
+    "channel_title": "PG Employment | Трудовое право",
+    "site_name": "PG Employment | Трудовое право",
+    "site_description": "Канал трудовой практики «Пепеляев Групп»: кадровые изменения, споры, комплаенс и судебная практика.",
+    "language": "ru",
+    "accent_color": "#91278d",
+    "background_color": "#f5f7fa",
+    "avatar_path": "assets/channel-avatar.jpg"
+  },
+  "source": {
+    "channel_key": "pg-employment",
+    "channel_url": "https://t.me/s/pgEmployment",
+    "comments_enabled": false
+  },
+  "post": {
+    "id": 1881,
+    "date": "2025-11-07T14:21:25+00:00",
+    "text": "❗️Предлагаем небольшой блиц-опрос по теме медосмотров.\nРазбор правильных ответов будет на следующей неделе 📝",
+    "text_html": "❗️Предлагаем небольшой блиц-опрос по теме медосмотров.<br>Разбор правильных ответов будет на следующей неделе 📝",
+    "views": 2400,
+    "comments_count": 0,
+    "comments_url": null,
+    "photos": [
+      {
+        "thumb_url": "data/channels/pg-employment/media/posts/thumbs/1881-1-ba7995d10867.jpg",
+        "full_url": "data/channels/pg-employment/media/posts/1881-1-ba7995d10867.jpg"
+      }
+    ],
+    "video_url": null,
+    "tg_url": "https://t.me/pgEmployment/1881",
+    "permalink": "channels/pg-employment/posts/1881/"
+  }
+}

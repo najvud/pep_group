@@ -1,0 +1,36 @@
+{
+  "generated_at": "2026-03-17T20:23:56.468229+00:00",
+  "site": {
+    "channel_username": "PG_Tax",
+    "channel_title": "PG Tax | Налоги",
+    "site_name": "PG Tax | Налоги",
+    "site_description": "Канал налоговой практики «Пепеляев Групп»: аналитика, обзоры и комментарии по налоговым вопросам.",
+    "language": "ru",
+    "accent_color": "#91278d",
+    "background_color": "#f5f7fa",
+    "avatar_path": "assets/channel-avatar.jpg"
+  },
+  "source": {
+    "channel_key": "pg-tax",
+    "channel_url": "https://t.me/s/PG_Tax",
+    "comments_enabled": false
+  },
+  "post": {
+    "id": 2421,
+    "date": "2026-01-27T14:02:46+00:00",
+    "text": "⛳️ 12 февраля приглашаем на ежегодную налоговую конференцию, где налоги предстанут как особая форма искусства — сложная и многослойная.\n\n🧩 Вместе с экспертами «Пепеляев Групп» мы посмотрим на ключевые налоговые сюжеты сквозь призму искусства и увидим, как из отдельных штрихов складывается цельный образ налоговой реальности.\n\n👉 Подробнее о гранях налогового искусства и регистрация по ссылке.\n\n#мероприятия",
+    "text_html": "⛳️ 12 февраля приглашаем на ежегодную налоговую конференцию, где налоги предстанут как особая форма искусства — сложная и многослойная.<br><br>🧩 Вместе с экспертами «Пепеляев Групп» мы посмотрим на ключевые налоговые сюжеты сквозь призму искусства и увидим, как из отдельных штрихов складывается цельный образ налоговой реальности.<br><br>👉 Подробнее о гранях налогового искусства и регистрация по <a href=\"https://www.pgplaw.ru/events/upcoming-events/nalogi-kak-iskusstvo/\" target=\"_blank\" rel=\"noopener noreferrer\">ссылке</a>.<br><br>#мероприятия",
+    "views": 1670,
+    "comments_count": 0,
+    "comments_url": null,
+    "photos": [
+      {
+        "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2421-1-5cf1501a6cbc.jpg",
+        "full_url": "data/channels/pg-tax/media/posts/2421-1-5cf1501a6cbc.jpg"
+      }
+    ],
+    "video_url": null,
+    "tg_url": "https://t.me/PG_Tax/2421",
+    "permalink": "channels/pg-tax/posts/2421/"
+  }
+}

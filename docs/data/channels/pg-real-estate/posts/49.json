@@ -1,0 +1,31 @@
+{
+  "generated_at": "2026-03-17T20:25:23.318448+00:00",
+  "site": {
+    "channel_username": "PG_RealEstate",
+    "channel_title": "PG Real Estate | Недвижимость",
+    "site_name": "PG Real Estate | Недвижимость",
+    "site_description": "Канал практики недвижимости «Пепеляев Групп»: сделки, регулирование, судебная практика и отраслевые обновления.",
+    "language": "ru",
+    "accent_color": "#91278d",
+    "background_color": "#f5f7fa",
+    "avatar_path": "assets/channel-avatar.jpg"
+  },
+  "source": {
+    "channel_key": "pg-real-estate",
+    "channel_url": "https://t.me/s/PG_RealEstate",
+    "comments_enabled": false
+  },
+  "post": {
+    "id": 49,
+    "date": "2023-12-06T10:40:23+00:00",
+    "text": "Уважаемые читатели, приглашаем кпросмотру интервью партнера \"Пепеляев Групп\" Натальи Стениной с Павлом Барбашевым (O1 Properties) и Алексеем Ефимовым (IBC Real Estate) о рынке офисной недвижимости.\n\n@PG_RealEstate",
+    "text_html": "Уважаемые читатели, приглашаем к<a href=\"https://youtu.be/ujGvkWWd77s\" target=\"_blank\" rel=\"noopener noreferrer\">просмотру интервью</a> партнера \"Пепеляев Групп\" Натальи Стениной с Павлом Барбашевым (<a href=\"https://t.me/o1officenews\" target=\"_blank\" rel=\"noopener noreferrer\">O1 Properties</a>) и Алексеем Ефимовым (<a href=\"https://t.me/ibcrealestate\" target=\"_blank\" rel=\"noopener noreferrer\">IBC Real Estate</a>) о рынке офисной недвижимости.<br><br><a href=\"https://t.me/PG_RealEstate\" target=\"_blank\" rel=\"noopener noreferrer\">@PG_RealEstate</a>",
+    "views": 8960,
+    "comments_count": 0,
+    "comments_url": null,
+    "photos": [],
+    "video_url": null,
+    "tg_url": "https://t.me/PG_RealEstate/49",
+    "permalink": "channels/pg-real-estate/posts/49/"
+  }
+}

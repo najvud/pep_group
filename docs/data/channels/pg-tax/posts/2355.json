@@ -1,0 +1,31 @@
+{
+  "generated_at": "2026-03-17T20:23:56.529811+00:00",
+  "site": {
+    "channel_username": "PG_Tax",
+    "channel_title": "PG Tax | Налоги",
+    "site_name": "PG Tax | Налоги",
+    "site_description": "Канал налоговой практики «Пепеляев Групп»: аналитика, обзоры и комментарии по налоговым вопросам.",
+    "language": "ru",
+    "accent_color": "#91278d",
+    "background_color": "#f5f7fa",
+    "avatar_path": "assets/channel-avatar.jpg"
+  },
+  "source": {
+    "channel_key": "pg-tax",
+    "channel_url": "https://t.me/s/PG_Tax",
+    "comments_enabled": false
+  },
+  "post": {
+    "id": 2355,
+    "date": "2025-12-18T13:00:22+00:00",
+    "text": "⚡️Напоминаем, что 23 декабря 2025 года в ТПП России пройдёт обсуждение вопросов разработки законопроекта о переходных положениях с учетом позиции КС РФ.\n\nПодробнее о заседании - здесь.\n\nПрисоединиться к обсуждению в ТПП России:\n➡️ Регистрация на заседание",
+    "text_html": "⚡️Напоминаем, что 23 декабря 2025 года в ТПП России пройдёт обсуждение вопросов разработки законопроекта о переходных положениях с учетом позиции КС РФ.<br><br>Подробнее о заседании - <a href=\"https://t.me/PG_Tax/2337\" target=\"_blank\" rel=\"noopener noreferrer\">здесь</a>.<br><br>Присоединиться к обсуждению в ТПП России:<br>➡️ <a href=\"https://www.pgplaw.ru/zasedanie-tpp/\" target=\"_blank\" rel=\"noopener noreferrer\">Регистрация на заседание</a>",
+    "views": 1500,
+    "comments_count": 0,
+    "comments_url": null,
+    "photos": [],
+    "video_url": null,
+    "tg_url": "https://t.me/PG_Tax/2355",
+    "permalink": "channels/pg-tax/posts/2355/"
+  }
+}

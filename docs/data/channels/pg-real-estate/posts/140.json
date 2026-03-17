@@ -1,0 +1,36 @@
+{
+  "generated_at": "2026-03-17T20:25:23.247600+00:00",
+  "site": {
+    "channel_username": "PG_RealEstate",
+    "channel_title": "PG Real Estate | Недвижимость",
+    "site_name": "PG Real Estate | Недвижимость",
+    "site_description": "Канал практики недвижимости «Пепеляев Групп»: сделки, регулирование, судебная практика и отраслевые обновления.",
+    "language": "ru",
+    "accent_color": "#91278d",
+    "background_color": "#f5f7fa",
+    "avatar_path": "assets/channel-avatar.jpg"
+  },
+  "source": {
+    "channel_key": "pg-real-estate",
+    "channel_url": "https://t.me/s/PG_RealEstate",
+    "comments_enabled": false
+  },
+  "post": {
+    "id": 140,
+    "date": "2024-10-14T12:52:53+00:00",
+    "text": "💪 «Наши сильные стороны - честность перед клиентом и упорство, в том числе в судебных процессах»\n\nВ интервью руководитель петербургской практики недвижимости и строительства Елена Крестьянцева рассказывает о своем карьерном пути, ярких проектах практики и особенностях правового регулирования недвижимости в Санкт-Петербурге. \n\n👉 Посмотреть ролик на YouTube и Rutube \n\n #pg_интервью",
+    "text_html": "💪 «Наши сильные стороны - честность перед клиентом и упорство, в том числе в судебных процессах»<br><br>В интервью руководитель петербургской практики недвижимости и строительства Елена Крестьянцева рассказывает о своем карьерном пути, ярких проектах практики и особенностях правового регулирования недвижимости в Санкт-Петербурге. <br><br>👉 Посмотреть ролик на <a href=\"https://youtu.be/ktlfSJl0hQY\" target=\"_blank\" rel=\"noopener noreferrer\">YouTube</a> и <a href=\"https://rutube.ru/video/805c25f9c687ab4b261ae170d5005f82\" target=\"_blank\" rel=\"noopener noreferrer\">Rutube</a> <br><br> #pg_интервью",
+    "views": 2370,
+    "comments_count": 0,
+    "comments_url": null,
+    "photos": [
+      {
+        "thumb_url": "data/channels/pg-real-estate/media/posts/thumbs/140-1-27f663309c9c.jpg",
+        "full_url": "data/channels/pg-real-estate/media/posts/140-1-27f663309c9c.jpg"
+      }
+    ],
+    "video_url": null,
+    "tg_url": "https://t.me/PG_RealEstate/140",
+    "permalink": "channels/pg-real-estate/posts/140/"
+  }
+}

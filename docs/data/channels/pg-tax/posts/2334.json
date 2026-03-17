@@ -1,0 +1,36 @@
+{
+  "generated_at": "2026-03-17T20:23:56.550940+00:00",
+  "site": {
+    "channel_username": "PG_Tax",
+    "channel_title": "PG Tax | Налоги",
+    "site_name": "PG Tax | Налоги",
+    "site_description": "Канал налоговой практики «Пепеляев Групп»: аналитика, обзоры и комментарии по налоговым вопросам.",
+    "language": "ru",
+    "accent_color": "#91278d",
+    "background_color": "#f5f7fa",
+    "avatar_path": "assets/channel-avatar.jpg"
+  },
+  "source": {
+    "channel_key": "pg-tax",
+    "channel_url": "https://t.me/s/PG_Tax",
+    "comments_enabled": false
+  },
+  "post": {
+    "id": 2334,
+    "date": "2025-12-08T14:04:10+00:00",
+    "text": "🏆 «Пепеляев Групп» вновь вошла в первую группу рейтинга «Право-300» по налогам! \n\nФедеральный рейтинг: \n🔴Налоговое консультирование \n🔴Налоговые споры\n\nРегиональный рейтинг:\n🔴Налоговое консультирование и налоговые споры (Санкт-Петербург)\n\n\n🏆 А Сергей Пепеляев отмечен в налоговой номинации рейтинга «Российской газеты».\n\n#наши_победы",
+    "text_html": "🏆 «Пепеляев Групп» вновь <a href=\"https://www.pgplaw.ru/about-company/facts/rating/2025/pravo-300-2025/\" target=\"_blank\" rel=\"noopener noreferrer\">вошла</a> в первую группу рейтинга «Право-300» по налогам! <br><br>Федеральный рейтинг: <br>🔴Налоговое консультирование <br>🔴Налоговые споры<br><br>Региональный рейтинг:<br>🔴Налоговое консультирование и налоговые споры (Санкт-Петербург)<br><br><br>🏆 А Сергей Пепеляев <a href=\"https://www.pgplaw.ru/about-company/facts/rating/2025/reyting-rossiyskoy-gazety-2025/\" target=\"_blank\" rel=\"noopener noreferrer\">отмечен</a> в налоговой номинации рейтинга «Российской газеты».<br><br>#наши_победы",
+    "views": 1520,
+    "comments_count": 0,
+    "comments_url": null,
+    "photos": [
+      {
+        "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2334-1-89d1236bdda0.jpg",
+        "full_url": "data/channels/pg-tax/media/posts/2334-1-89d1236bdda0.jpg"
+      }
+    ],
+    "video_url": null,
+    "tg_url": "https://t.me/PG_Tax/2334",
+    "permalink": "channels/pg-tax/posts/2334/"
+  }
+}

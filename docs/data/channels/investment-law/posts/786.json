@@ -1,0 +1,31 @@
+{
+  "generated_at": "2026-03-17T20:28:01.469905+00:00",
+  "site": {
+    "channel_username": "InvestmentLaw",
+    "channel_title": "СпецИнвестРежимы",
+    "site_name": "СпецИнвестРежимы",
+    "site_description": "Канал о специальных инвестиционных режимах: льготы, проекты, регулирование и правоприменительная практика.",
+    "language": "ru",
+    "accent_color": "#91278d",
+    "background_color": "#f5f7fa",
+    "avatar_path": "assets/channel-avatar.jpg"
+  },
+  "source": {
+    "channel_key": "investment-law",
+    "channel_url": "https://t.me/s/InvestmentLaw",
+    "comments_enabled": false
+  },
+  "post": {
+    "id": 786,
+    "date": "2024-08-22T05:57:37+00:00",
+    "text": "СпецИнвестРежимы pinned «📲 НАВИГАЦИЯ ПО ТЕМАМ  Все наши материалы мы собрали в одном месте. Регулярным постам присвоены собственные хештеги — #. Нажав на них, вы сможете ознакомиться со всеми публикациями по интересующей вас теме.  ХЕШТЕГИ: 📌 #ИнвестДайджест — Раз в неделю публикуем…»",
+    "text_html": "<a href=\"https://t.me/InvestmentLaw\" target=\"_blank\" rel=\"noopener noreferrer\">СпецИнвестРежимы</a> pinned «📲 НАВИГАЦИЯ ПО ТЕМАМ  Все наши материалы мы собрали в одном месте. Регулярным постам присвоены собственные хештеги — #. Нажав на них, вы сможете ознакомиться со всеми публикациями по интересующей вас теме.  ХЕШТЕГИ: 📌 #ИнвестДайджест — Раз в неделю публикуем…»",
+    "views": 0,
+    "comments_count": 0,
+    "comments_url": null,
+    "photos": [],
+    "video_url": null,
+    "tg_url": "https://t.me/InvestmentLaw/786",
+    "permalink": "channels/investment-law/posts/786/"
+  }
+}

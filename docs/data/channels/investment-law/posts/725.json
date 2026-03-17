@@ -1,0 +1,56 @@
+{
+  "generated_at": "2026-03-17T20:28:01.501627+00:00",
+  "site": {
+    "channel_username": "InvestmentLaw",
+    "channel_title": "СпецИнвестРежимы",
+    "site_name": "СпецИнвестРежимы",
+    "site_description": "Канал о специальных инвестиционных режимах: льготы, проекты, регулирование и правоприменительная практика.",
+    "language": "ru",
+    "accent_color": "#91278d",
+    "background_color": "#f5f7fa",
+    "avatar_path": "assets/channel-avatar.jpg"
+  },
+  "source": {
+    "channel_key": "investment-law",
+    "channel_url": "https://t.me/s/InvestmentLaw",
+    "comments_enabled": false
+  },
+  "post": {
+    "id": 725,
+    "date": "2024-05-23T05:01:29+00:00",
+    "text": null,
+    "text_html": null,
+    "views": 285,
+    "comments_count": 0,
+    "comments_url": null,
+    "photos": [
+      {
+        "thumb_url": "data/channels/investment-law/media/posts/thumbs/725-1-84638f9bc87d.jpg",
+        "full_url": "data/channels/investment-law/media/posts/725-1-84638f9bc87d.jpg"
+      },
+      {
+        "thumb_url": "data/channels/investment-law/media/posts/thumbs/725-2-97da45435b4d.jpg",
+        "full_url": "data/channels/investment-law/media/posts/725-2-97da45435b4d.jpg"
+      },
+      {
+        "thumb_url": "data/channels/investment-law/media/posts/thumbs/725-3-d3f1e68990f4.jpg",
+        "full_url": "data/channels/investment-law/media/posts/725-3-d3f1e68990f4.jpg"
+      },
+      {
+        "thumb_url": "data/channels/investment-law/media/posts/thumbs/725-4-bb26e82949c8.jpg",
+        "full_url": "data/channels/investment-law/media/posts/725-4-bb26e82949c8.jpg"
+      },
+      {
+        "thumb_url": "data/channels/investment-law/media/posts/thumbs/725-5-d31129288306.jpg",
+        "full_url": "data/channels/investment-law/media/posts/725-5-d31129288306.jpg"
+      },
+      {
+        "thumb_url": "data/channels/investment-law/media/posts/thumbs/725-6-e16474df8e82.jpg",
+        "full_url": "data/channels/investment-law/media/posts/725-6-e16474df8e82.jpg"
+      }
+    ],
+    "video_url": null,
+    "tg_url": "https://t.me/InvestmentLaw/725",
+    "permalink": "channels/investment-law/posts/725/"
+  }
+}

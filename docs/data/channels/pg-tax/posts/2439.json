@@ -1,0 +1,31 @@
+{
+  "generated_at": "2026-03-17T20:23:56.450722+00:00",
+  "site": {
+    "channel_username": "PG_Tax",
+    "channel_title": "PG Tax | Налоги",
+    "site_name": "PG Tax | Налоги",
+    "site_description": "Канал налоговой практики «Пепеляев Групп»: аналитика, обзоры и комментарии по налоговым вопросам.",
+    "language": "ru",
+    "accent_color": "#91278d",
+    "background_color": "#f5f7fa",
+    "avatar_path": "assets/channel-avatar.jpg"
+  },
+  "source": {
+    "channel_key": "pg-tax",
+    "channel_url": "https://t.me/s/PG_Tax",
+    "comments_enabled": false
+  },
+  "post": {
+    "id": 2439,
+    "date": "2026-02-03T14:00:12+00:00",
+    "text": null,
+    "text_html": null,
+    "views": 1430,
+    "comments_count": 0,
+    "comments_url": null,
+    "photos": [],
+    "video_url": "https://cdn4.telesco.pe/file/4501c9f0fd.mp4?token=GwWZpojsjKlEoviOrsSnabWvF3EaGGJACLr5G205ILRCOiMCxozwl9XOU6WUXwksQwt11k2_8EB3a2M9OfU3jsgmgodmJyIuArm0OsM8UHTgzDPkX1vUUhw4ASGsy5rw0Oah65MUqOVSUvZhuB_rW9v8u71njzofj4VnkaosVqzcJAV49g2_OQm3sa15-UqGxZcPgalsY2LcdSHNW1Ge9LHzPGxvWD6HYBISRs3d4kTUTbrXKljqQd1EzyEQTctS7kTZ3FxaHO1DOFPUFKfKrlxNB7mJKilx66JG51xafPQAGuTGiQ29oVHmkPz9YVqlZ2FTE4KxKA763OHmoZMtqw",
+    "tg_url": "https://t.me/PG_Tax/2439",
+    "permalink": "channels/pg-tax/posts/2439/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "generated_at": "2026-03-17T20:21:45.004782+00:00",
+  "site": {
+    "channel_username": "PgAntitrust",
+    "channel_title": "PG Antitrust | Антимонопольное право",
+    "site_name": "PG Antitrust | Антимонопольное право",
+    "site_description": "Канал практики антимонопольного права «Пепеляев Групп»: комментарии, обзоры и новости регулирования.",
+    "language": "ru",
+    "accent_color": "#91278d",
+    "background_color": "#f5f7fa",
+    "avatar_path": "assets/channel-avatar.jpg"
+  },
+  "source": {
+    "channel_key": "pg-antitrust",
+    "channel_url": "https://t.me/s/PgAntitrust",
+    "comments_enabled": false
+  },
+  "post": {
+    "id": 1106,
+    "date": "2025-03-25T08:59:20+00:00",
+    "text": "☄️ Главные темы недели:\n\n📍Первое чтение прошли поправки по борьбе с киберпреступностью и законопроект об унификации торгов;\n📍как будут регулировать малые закупки;\n📍в Республике Казахстан обсуждают шестой антимонопольный пакет;\n📍регионам поручили активнее использовать инструмент соглашений о стабилизации цен.\n\n➡️ Больше информации — в традиционном обзоре.\n\n#события_недели",
+    "text_html": "☄️ Главные темы недели:<br><br>📍Первое чтение прошли поправки по борьбе с киберпреступностью и законопроект об унификации торгов;<br>📍как будут регулировать малые закупки;<br>📍в Республике Казахстан обсуждают шестой антимонопольный пакет;<br>📍регионам поручили активнее использовать инструмент соглашений о стабилизации цен.<br><br>➡️ Больше информации — в традиционном <a href=\"https://www.pgplaw.ru/analytics-and-brochures/antitrust-reviews/competition-and-law-digest-25-03-24/\" target=\"_blank\" rel=\"noopener noreferrer\">обзоре.</a><br><br>#события_недели",
+    "views": 408,
+    "comments_count": 0,
+    "comments_url": null,
+    "photos": [
+      {
+        "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1106-1-7e036ac3e25a.jpg",
+        "full_url": "data/channels/pg-antitrust/media/posts/1106-1-7e036ac3e25a.jpg"
+      }
+    ],
+    "video_url": null,
+    "tg_url": "https://t.me/PgAntitrust/1106",
+    "permalink": "channels/pg-antitrust/posts/1106/"
+  }
+}

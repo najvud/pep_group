@@ -1,0 +1,44 @@
+{
+  "generated_at": "2026-03-17T20:23:56.569533+00:00",
+  "site": {
+    "channel_username": "PG_Tax",
+    "channel_title": "PG Tax | Налоги",
+    "site_name": "PG Tax | Налоги",
+    "site_description": "Канал налоговой практики «Пепеляев Групп»: аналитика, обзоры и комментарии по налоговым вопросам.",
+    "language": "ru",
+    "accent_color": "#91278d",
+    "background_color": "#f5f7fa",
+    "avatar_path": "assets/channel-avatar.jpg"
+  },
+  "source": {
+    "channel_key": "pg-tax",
+    "channel_url": "https://t.me/s/PG_Tax",
+    "comments_enabled": false
+  },
+  "post": {
+    "id": 2303,
+    "date": "2025-12-03T05:35:18+00:00",
+    "text": "🏆 Команда «Пепеляев Групп» на досудебной стадии защитила добывающую компанию от неправомерных доначислений НДПИ.\n\nИнспекция неверно рассчитала налог, посчитав стоимость каждого драгоценного металла по цене всего концентрата, из-за чего формула была применена неправильно и итоговый налог оказался завышен в шесть раз.\n\nИнтересы налогоплательщика защищали адвокат, к.ю.н. С.Г. Пепеляев и ведущий юрист В. Воинов.\n\n👉 Подробнее в карточках и на сайте. \n\n#pg_победы",
+    "text_html": "🏆 Команда «Пепеляев Групп» на досудебной стадии защитила добывающую компанию от неправомерных доначислений НДПИ.<br><br>Инспекция неверно рассчитала налог, посчитав стоимость каждого драгоценного металла по цене всего концентрата, из-за чего формула была применена неправильно и итоговый налог оказался завышен в шесть раз.<br><br>Интересы налогоплательщика защищали адвокат, к.ю.н. <a href=\"https://www.pgplaw.ru/to-get-the-team/sergey-pepeliaev/\" target=\"_blank\" rel=\"noopener noreferrer\">С.Г. Пепеляев</a> и ведущий юрист В. Воинов.<br><br>👉 Подробнее в карточках и <a href=\"https://www.pgplaw.ru/our-experience/241852/\" target=\"_blank\" rel=\"noopener noreferrer\">на сайте</a>. <br><br>#pg_победы",
+    "views": 1210,
+    "comments_count": 0,
+    "comments_url": null,
+    "photos": [
+      {
+        "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2303-1-a3e3c39ddd44.jpg",
+        "full_url": "data/channels/pg-tax/media/posts/2303-1-a3e3c39ddd44.jpg"
+      },
+      {
+        "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2303-2-a8e1a2c21333.jpg",
+        "full_url": "data/channels/pg-tax/media/posts/2303-2-a8e1a2c21333.jpg"
+      },
+      {
+        "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2303-3-65c78a143c44.jpg",
+        "full_url": "data/channels/pg-tax/media/posts/2303-3-65c78a143c44.jpg"
+      }
+    ],
+    "video_url": null,
+    "tg_url": "https://t.me/PG_Tax/2303",
+    "permalink": "channels/pg-tax/posts/2303/"
+  }
+}

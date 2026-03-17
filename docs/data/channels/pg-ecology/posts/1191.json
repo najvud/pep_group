@@ -1,0 +1,36 @@
+{
+  "generated_at": "2026-03-17T20:29:26.338541+00:00",
+  "site": {
+    "channel_username": "pgecology",
+    "channel_title": "PG Ecology | Экология",
+    "site_name": "PG Ecology | Экология",
+    "site_description": "Канал экологической практики «Пепеляев Групп»: требования, надзор, комплаенс и ключевые изменения регулирования.",
+    "language": "ru",
+    "accent_color": "#91278d",
+    "background_color": "#f5f7fa",
+    "avatar_path": "assets/channel-avatar.jpg"
+  },
+  "source": {
+    "channel_key": "pg-ecology",
+    "channel_url": "https://t.me/s/pgecology",
+    "comments_enabled": false
+  },
+  "post": {
+    "id": 1191,
+    "date": "2025-09-03T04:00:00+00:00",
+    "text": "📣 С 01.09.2025 вступили в силу нормативные акты, предусматривающие новые требования в сфере недропользования.\n\nВ частности\n\n🔹Новые правила разработки месторождений твердых полезных ископаемых;\n\n🔹Новые правила разработки месторождений углеводородного сырья;\n\n🔹Новый Порядок рекультивации и консервации земель.\n\nОсновные положения нормативных актов и комментарии эксперта читайте ➡️ здесь.",
+    "text_html": "📣 С 01.09.2025 вступили в силу нормативные акты, предусматривающие новые требования в сфере недропользования.<br><br>В частности<br><br>🔹Новые правила разработки месторождений твердых полезных ископаемых;<br><br>🔹Новые правила разработки месторождений углеводородного сырья;<br><br>🔹Новый Порядок рекультивации и консервации земель.<br><br>Основные положения нормативных актов и комментарии эксперта читайте ➡️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/alerts/nedropolzovanie-vazhnye-izmeneniya-s-1-sentyabrya/\" target=\"_blank\" rel=\"noopener noreferrer\">здесь</a>.",
+    "views": 769,
+    "comments_count": 0,
+    "comments_url": null,
+    "photos": [
+      {
+        "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1191-1-34542fb79c4f.jpg",
+        "full_url": "data/channels/pg-ecology/media/posts/1191-1-34542fb79c4f.jpg"
+      }
+    ],
+    "video_url": null,
+    "tg_url": "https://t.me/pgecology/1191",
+    "permalink": "channels/pg-ecology/posts/1191/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "generated_at": "2026-03-17T20:25:23.235364+00:00",
+  "site": {
+    "channel_username": "PG_RealEstate",
+    "channel_title": "PG Real Estate | Недвижимость",
+    "site_name": "PG Real Estate | Недвижимость",
+    "site_description": "Канал практики недвижимости «Пепеляев Групп»: сделки, регулирование, судебная практика и отраслевые обновления.",
+    "language": "ru",
+    "accent_color": "#91278d",
+    "background_color": "#f5f7fa",
+    "avatar_path": "assets/channel-avatar.jpg"
+  },
+  "source": {
+    "channel_key": "pg-real-estate",
+    "channel_url": "https://t.me/s/PG_RealEstate",
+    "comments_enabled": false
+  },
+  "post": {
+    "id": 153,
+    "date": "2024-12-09T12:16:34+00:00",
+    "text": "МЫ В РЕЙТИНГАХ 2️⃣0️⃣2️⃣4️⃣\n\n📣 На прошлой неделе были объявлены результаты сразу двух рейтингов: Российской газеты и Право-300.\n\n🥇 Практика недвижимости и строительства «Пепеляев Групп» вошла в первые группы!\n\n👏 Благодарим наших клиентов за доверие и интересные проекты!",
+    "text_html": "МЫ В РЕЙТИНГАХ 2️⃣0️⃣2️⃣4️⃣<br><br>📣 На прошлой неделе были объявлены результаты сразу двух рейтингов: <a href=\"https://www.pgplaw.ru/about-company/facts/rating/2024/reyting-rossiyskoy-gazety-2024/\" target=\"_blank\" rel=\"noopener noreferrer\">Российской газеты</a> и <a href=\"https://www.pgplaw.ru/about-company/facts/rating/2024/pravo-300-2024/\" target=\"_blank\" rel=\"noopener noreferrer\">Право-300.</a><br><br>🥇 Практика недвижимости и строительства «Пепеляев Групп» вошла в первые группы!<br><br>👏 Благодарим наших клиентов за доверие и интересные проекты!",
+    "views": 2370,
+    "comments_count": 0,
+    "comments_url": null,
+    "photos": [
+      {
+        "thumb_url": "data/channels/pg-real-estate/media/posts/thumbs/153-1-6f152f315ce1.jpg",
+        "full_url": "data/channels/pg-real-estate/media/posts/153-1-6f152f315ce1.jpg"
+      }
+    ],
+    "video_url": null,
+    "tg_url": "https://t.me/PG_RealEstate/153",
+    "permalink": "channels/pg-real-estate/posts/153/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "generated_at": "2026-03-17T20:29:26.292854+00:00",
+  "site": {
+    "channel_username": "pgecology",
+    "channel_title": "PG Ecology | Экология",
+    "site_name": "PG Ecology | Экология",
+    "site_description": "Канал экологической практики «Пепеляев Групп»: требования, надзор, комплаенс и ключевые изменения регулирования.",
+    "language": "ru",
+    "accent_color": "#91278d",
+    "background_color": "#f5f7fa",
+    "avatar_path": "assets/channel-avatar.jpg"
+  },
+  "source": {
+    "channel_key": "pg-ecology",
+    "channel_url": "https://t.me/s/pgecology",
+    "comments_enabled": false
+  },
+  "post": {
+    "id": 1240,
+    "date": "2025-11-17T04:00:12+00:00",
+    "text": "🌞 Уважаемые участники канала, доброго дня!\n\nМы подготовили новый обзор судебной практики Значимые споры в сфере экологии за октябрь и ноябрь 2025.\n\nВ обзоре привели судебные кейсы:\n🔸о плате за негативное воздействие на окружающую среду;\n🔸об обращении с отходами;\n🔸о государственной экологической экспертизе (ГЭЭ);\n🔸о недропользовании;\n🔸о возмещении вреда окружающей среде.\n\nЧитайте обзор ➡️ здесь.",
+    "text_html": "🌞 Уважаемые участники канала, доброго дня!<br><br>Мы подготовили новый обзор судебной практики Значимые споры в сфере экологии за октябрь и ноябрь 2025.<br><br>В обзоре привели судебные кейсы:<br>🔸о плате за негативное воздействие на окружающую среду;<br>🔸об обращении с отходами;<br>🔸о государственной экологической экспертизе (ГЭЭ);<br>🔸о недропользовании;<br>🔸о возмещении вреда окружающей среде.<br><br>Читайте обзор ➡️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/ecology-digest/ecology-digest-27-10-25/\" target=\"_blank\" rel=\"noopener noreferrer\">здесь</a>.",
+    "views": 767,
+    "comments_count": 0,
+    "comments_url": null,
+    "photos": [
+      {
+        "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1240-1-dbfd90ecc465.jpg",
+        "full_url": "data/channels/pg-ecology/media/posts/1240-1-dbfd90ecc465.jpg"
+      }
+    ],
+    "video_url": null,
+    "tg_url": "https://t.me/pgecology/1240",
+    "permalink": "channels/pg-ecology/posts/1240/"
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17T16:41:12.969253+00:00",
+  "generated_at": "2026-03-17T20:19:30.317983+00:00",
   "site": {
     "channel_username": "pgp_official",
     "channel_title": "Pepeliaev Group | Пепеляев Групп",
@@ -11,6 +11,7 @@
     "avatar_path": "assets/channel-avatar.jpg"
   },
   "source": {
+    "channel_key": "pgp-official",
     "channel_url": "https://t.me/s/pgp_official",
     "comments_enabled": false
   },
@@ -24,12 +25,12 @@
     "comments_url": null,
     "photos": [
       {
-        "thumb_url": "data/media/posts/thumbs/1621-1-7a2e53262bb1.jpg",
-        "full_url": "data/media/posts/1621-1-7a2e53262bb1.jpg"
+        "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1621-1-7a2e53262bb1.jpg",
+        "full_url": "data/channels/pgp-official/media/posts/1621-1-7a2e53262bb1.jpg"
       }
     ],
     "video_url": null,
     "tg_url": "https://t.me/pgp_official/1621",
-    "permalink": "posts/1621/"
+    "permalink": "channels/pgp-official/posts/1621/"
   }
 }

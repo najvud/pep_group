@@ -1,0 +1,36 @@
+{
+  "generated_at": "2026-03-17T20:28:01.489863+00:00",
+  "site": {
+    "channel_username": "InvestmentLaw",
+    "channel_title": "СпецИнвестРежимы",
+    "site_name": "СпецИнвестРежимы",
+    "site_description": "Канал о специальных инвестиционных режимах: льготы, проекты, регулирование и правоприменительная практика.",
+    "language": "ru",
+    "accent_color": "#91278d",
+    "background_color": "#f5f7fa",
+    "avatar_path": "assets/channel-avatar.jpg"
+  },
+  "source": {
+    "channel_key": "investment-law",
+    "channel_url": "https://t.me/s/InvestmentLaw",
+    "comments_enabled": false
+  },
+  "post": {
+    "id": 750,
+    "date": "2024-06-27T07:07:41+00:00",
+    "text": "Начался ИнвестКлуб \"Cоглашения об осуществлении деятельности (ТОР, СПВ, ОЭЗ)\"",
+    "text_html": "Начался ИнвестКлуб \"Cоглашения об осуществлении деятельности (ТОР, СПВ, ОЭЗ)\"",
+    "views": 242,
+    "comments_count": 0,
+    "comments_url": null,
+    "photos": [
+      {
+        "thumb_url": "data/channels/investment-law/media/posts/thumbs/750-1-ef3c4b7f0a5a.jpg",
+        "full_url": "data/channels/investment-law/media/posts/750-1-ef3c4b7f0a5a.jpg"
+      }
+    ],
+    "video_url": null,
+    "tg_url": "https://t.me/InvestmentLaw/750",
+    "permalink": "channels/investment-law/posts/750/"
+  }
+}

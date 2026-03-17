@@ -1,0 +1,36 @@
+{
+  "generated_at": "2026-03-17T20:23:56.484930+00:00",
+  "site": {
+    "channel_username": "PG_Tax",
+    "channel_title": "PG Tax | Налоги",
+    "site_name": "PG Tax | Налоги",
+    "site_description": "Канал налоговой практики «Пепеляев Групп»: аналитика, обзоры и комментарии по налоговым вопросам.",
+    "language": "ru",
+    "accent_color": "#91278d",
+    "background_color": "#f5f7fa",
+    "avatar_path": "assets/channel-avatar.jpg"
+  },
+  "source": {
+    "channel_key": "pg-tax",
+    "channel_url": "https://t.me/s/PG_Tax",
+    "comments_enabled": false
+  },
+  "post": {
+    "id": 2406,
+    "date": "2026-01-20T13:03:26+00:00",
+    "text": "🎬 #Видео. Валютный контроль: генпрокуратура усиливает свою роль и давление на импортёров\n\nИз нового ролика старшего партнера «Пепеляев Групп» Ивана Хаменушко вы узнаете:\n🔴как Генпрокуратура усиливает валютный контроль, \n🔴какие новые полномочия она получила, \n🔴почему импортёры и компании с иностранным участием должны быть особенно внимательны. \n\nТакже разбираем смягчение правил для физлиц и историческое значение рубля как валюты международных расчётов.\n\nСмотрите:\n\n📱 на VK Видео\n📱в YouTube",
+    "text_html": "🎬 #Видео. Валютный контроль: генпрокуратура усиливает свою роль и давление на импортёров<br><br>Из нового ролика старшего партнера «Пепеляев Групп» <a href=\"https://www.pgplaw.ru/to-get-the-team/ivan-khamenushko/\" target=\"_blank\" rel=\"noopener noreferrer\">Ивана Хаменушко</a> вы узнаете:<br>🔴как Генпрокуратура усиливает валютный контроль, <br>🔴какие новые полномочия она получила, <br>🔴почему импортёры и компании с иностранным участием должны быть особенно внимательны. <br><br>Также разбираем смягчение правил для физлиц и историческое значение рубля как валюты международных расчётов.<br><br>Смотрите:<br><br>📱 на <a href=\"https://vkvideo.ru/video-227047542_456239388\" target=\"_blank\" rel=\"noopener noreferrer\">VK Видео</a><br>📱в <a href=\"https://youtu.be/f-k7Jgnw7uY\" target=\"_blank\" rel=\"noopener noreferrer\">YouTube</a>",
+    "views": 1590,
+    "comments_count": 0,
+    "comments_url": null,
+    "photos": [
+      {
+        "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2406-1-809d58d6b1a0.jpg",
+        "full_url": "data/channels/pg-tax/media/posts/2406-1-809d58d6b1a0.jpg"
+      }
+    ],
+    "video_url": null,
+    "tg_url": "https://t.me/PG_Tax/2406",
+    "permalink": "channels/pg-tax/posts/2406/"
+  }
+}

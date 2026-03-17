@@ -1,0 +1,31 @@
+{
+  "generated_at": "2026-03-17T20:25:23.352374+00:00",
+  "site": {
+    "channel_username": "PG_RealEstate",
+    "channel_title": "PG Real Estate | Недвижимость",
+    "site_name": "PG Real Estate | Недвижимость",
+    "site_description": "Канал практики недвижимости «Пепеляев Групп»: сделки, регулирование, судебная практика и отраслевые обновления.",
+    "language": "ru",
+    "accent_color": "#91278d",
+    "background_color": "#f5f7fa",
+    "avatar_path": "assets/channel-avatar.jpg"
+  },
+  "source": {
+    "channel_key": "pg-real-estate",
+    "channel_url": "https://t.me/s/PG_RealEstate",
+    "comments_enabled": false
+  },
+  "post": {
+    "id": 10,
+    "date": "2023-09-21T13:13:50+00:00",
+    "text": "Уважаемые читатели, добрый день!\n\nВ этом ролике партнер \"Пепеляев Групп\" Наталья Стенина рассказывает о важных новостях в сфере недвижимости и строительства за 5-18 сентября 2023 г. и дает практические рекомендации. \n\nПриглашаем вас к просмотру!",
+    "text_html": "Уважаемые читатели, добрый день!<br><br>В этом <a href=\"https://www.youtube.com/watch?v=vUooTifZVIw&amp;amp;ab_channel=PepeliaevGroup\" target=\"_blank\" rel=\"noopener noreferrer\">ролике</a> партнер \"Пепеляев Групп\" Наталья Стенина рассказывает о важных новостях в сфере недвижимости и строительства за 5-18 сентября 2023 г. и дает практические рекомендации. <br><br>Приглашаем вас к просмотру!",
+    "views": 1080,
+    "comments_count": 0,
+    "comments_url": null,
+    "photos": [],
+    "video_url": null,
+    "tg_url": "https://t.me/PG_RealEstate/10",
+    "permalink": "channels/pg-real-estate/posts/10/"
+  }
+}

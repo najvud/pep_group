@@ -1,0 +1,31 @@
+{
+  "generated_at": "2026-03-17T20:23:56.458787+00:00",
+  "site": {
+    "channel_username": "PG_Tax",
+    "channel_title": "PG Tax | Налоги",
+    "site_name": "PG Tax | Налоги",
+    "site_description": "Канал налоговой практики «Пепеляев Групп»: аналитика, обзоры и комментарии по налоговым вопросам.",
+    "language": "ru",
+    "accent_color": "#91278d",
+    "background_color": "#f5f7fa",
+    "avatar_path": "assets/channel-avatar.jpg"
+  },
+  "source": {
+    "channel_key": "pg-tax",
+    "channel_url": "https://t.me/s/PG_Tax",
+    "comments_enabled": false
+  },
+  "post": {
+    "id": 2431,
+    "date": "2026-01-30T11:00:44+00:00",
+    "text": "⚡️ 12 февраля, в 13 часов, приглашаем вас к нам в офис на конференцию «Налоги как искусство»\n\nБолее 10 экспертов «Пепеляев Групп» обо всех главных налоговых и околоналоговых сюжетах года - за несколько часов через призму искусства.\n\nПодробности от спикеров - всю следующую неделю в канале 📢\n\nРегистрация на конференцию уже открыта по ссылке 👉\n\n#Сергей_Пепеляев_ON_AIR",
+    "text_html": "⚡️ 12 февраля, в 13 часов, приглашаем вас к нам в офис на конференцию «Налоги как искусство»<br><br>Более 10 экспертов «Пепеляев Групп» обо всех главных налоговых и околоналоговых сюжетах года - за несколько часов через призму искусства.<br><br>Подробности от спикеров - всю следующую неделю в канале 📢<br><br>Регистрация на конференцию уже открыта по <a href=\"https://www.pgplaw.ru/events/upcoming-events/nalogi-kak-iskusstvo/\" target=\"_blank\" rel=\"noopener noreferrer\">ссылке</a> 👉<br><br>#Сергей_Пепеляев_ON_AIR",
+    "views": 1570,
+    "comments_count": 0,
+    "comments_url": null,
+    "photos": [],
+    "video_url": null,
+    "tg_url": "https://t.me/PG_Tax/2431",
+    "permalink": "channels/pg-tax/posts/2431/"
+  }
+}

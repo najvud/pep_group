@@ -1,0 +1,36 @@
+{
+  "generated_at": "2026-03-17T20:25:23.292496+00:00",
+  "site": {
+    "channel_username": "PG_RealEstate",
+    "channel_title": "PG Real Estate | Недвижимость",
+    "site_name": "PG Real Estate | Недвижимость",
+    "site_description": "Канал практики недвижимости «Пепеляев Групп»: сделки, регулирование, судебная практика и отраслевые обновления.",
+    "language": "ru",
+    "accent_color": "#91278d",
+    "background_color": "#f5f7fa",
+    "avatar_path": "assets/channel-avatar.jpg"
+  },
+  "source": {
+    "channel_key": "pg-real-estate",
+    "channel_url": "https://t.me/s/PG_RealEstate",
+    "comments_enabled": false
+  },
+  "post": {
+    "id": 78,
+    "date": "2024-03-23T16:03:29+00:00",
+    "text": "Команда «Пепеляев Групп» выражает глубочайшие соболезнования родным и близким погибших в «Крокус Сити Холле» и желает скорейшего выздоровления всем пострадавшим. Наши сердца с вами в это тяжелое время 🖤",
+    "text_html": "Команда «Пепеляев Групп» выражает глубочайшие соболезнования родным и близким погибших в «Крокус Сити Холле» и желает скорейшего выздоровления всем пострадавшим. Наши сердца с вами в это тяжелое время 🖤",
+    "views": 2960,
+    "comments_count": 0,
+    "comments_url": null,
+    "photos": [
+      {
+        "thumb_url": "data/channels/pg-real-estate/media/posts/thumbs/78-1-05aa7fdbf677.jpg",
+        "full_url": "data/channels/pg-real-estate/media/posts/78-1-05aa7fdbf677.jpg"
+      }
+    ],
+    "video_url": null,
+    "tg_url": "https://t.me/PG_RealEstate/78",
+    "permalink": "channels/pg-real-estate/posts/78/"
+  }
+}

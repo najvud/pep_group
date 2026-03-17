@@ -1,0 +1,36 @@
+{
+  "generated_at": "2026-03-17T20:23:56.620175+00:00",
+  "site": {
+    "channel_username": "PG_Tax",
+    "channel_title": "PG Tax | Налоги",
+    "site_name": "PG Tax | Налоги",
+    "site_description": "Канал налоговой практики «Пепеляев Групп»: аналитика, обзоры и комментарии по налоговым вопросам.",
+    "language": "ru",
+    "accent_color": "#91278d",
+    "background_color": "#f5f7fa",
+    "avatar_path": "assets/channel-avatar.jpg"
+  },
+  "source": {
+    "channel_key": "pg-tax",
+    "channel_url": "https://t.me/s/PG_Tax",
+    "comments_enabled": false
+  },
+  "post": {
+    "id": 2226,
+    "date": "2025-10-31T09:55:23+00:00",
+    "text": "Нормотворчество\n \n✍️ Разработан порядок информационного взаимодействия операторов посреднической цифровой платформы с налоговыми органами. Проект правительственного постановления проходит публичные обсуждения.\n \n✍️ Срок вступления в силу новых правил расчета утильсбора на легковые автомобили будет перенесен на декабрь.\n \n✍️ РСПП предлагает правительству для помощи бизнесу в текущих макроэкономических условиях доработать регулирование в сфере неналоговых платежей.\n\n#главные_налоговые_новости",
+    "text_html": "Нормотворчество<br> <br>✍️ Разработан порядок информационного взаимодействия операторов посреднической цифровой платформы с налоговыми органами. <a href=\"https://regulation.gov.ru/projects/161867/\" target=\"_blank\" rel=\"noopener noreferrer\">Проект</a> правительственного постановления проходит публичные обсуждения.<br> <br>✍️ Срок вступления в силу новых правил расчета утильсбора на легковые автомобили <a href=\"https://minpromtorg.gov.ru/press-centre/news/eb8eeff0-6076-495b-bbee-6dfb1f787a33\" target=\"_blank\" rel=\"noopener noreferrer\">будет перенесен</a> на декабрь.<br> <br>✍️ РСПП <a href=\"https://www.interfax.ru/business/1055618\" target=\"_blank\" rel=\"noopener noreferrer\">предлагает</a> правительству для помощи бизнесу в текущих макроэкономических условиях доработать регулирование в сфере неналоговых платежей.<br><br>#главные_налоговые_новости",
+    "views": 1710,
+    "comments_count": 0,
+    "comments_url": null,
+    "photos": [
+      {
+        "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2226-1-6e58c7481bc3.jpg",
+        "full_url": "data/channels/pg-tax/media/posts/2226-1-6e58c7481bc3.jpg"
+      }
+    ],
+    "video_url": null,
+    "tg_url": "https://t.me/PG_Tax/2226",
+    "permalink": "channels/pg-tax/posts/2226/"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "generated_at": "2026-03-17T20:23:56.554134+00:00",
+  "site": {
+    "channel_username": "PG_Tax",
+    "channel_title": "PG Tax | Налоги",
+    "site_name": "PG Tax | Налоги",
+    "site_description": "Канал налоговой практики «Пепеляев Групп»: аналитика, обзоры и комментарии по налоговым вопросам.",
+    "language": "ru",
+    "accent_color": "#91278d",
+    "background_color": "#f5f7fa",
+    "avatar_path": "assets/channel-avatar.jpg"
+  },
+  "source": {
+    "channel_key": "pg-tax",
+    "channel_url": "https://t.me/s/PG_Tax",
+    "comments_enabled": false
+  },
+  "post": {
+    "id": 2331,
+    "date": "2025-12-06T08:00:24+00:00",
+    "text": "📑 Статью Сергея Пепеляева об обязательных платежах и великой турбации можно прочитать на сайте \"Налоговеда\".\n\nКомментарии других экспертов \"Пепеляев Групп\" о новых сборах здесь и здесь 👉\n\n🔔 Подробности уже реализованной инициативы Минцифры о финансировании IT-компаниями образовательных проектов мы расскажем в одном из ближайших алертов.\n\nА прекрасный учебник \"Налоговое право\", который цитирует Сергей Геннадьевич, можно купить здесь.\n\n#комментарий_эксперта",
+    "text_html": "📑 Статью Сергея Пепеляева об обязательных платежах и великой турбации можно прочитать <a href=\"https://nalogoved.ru/art/15790.html\" target=\"_blank\" rel=\"noopener noreferrer\">на сайте</a> \"Налоговеда\".<br><br>Комментарии других экспертов \"Пепеляев Групп\" о новых сборах <a href=\"https://www.pgplaw.ru/analytics-and-brochures/alerts/sbor-za-reklamu-v-internete-ne-pervoaprelskaya-shutka/?ysclid=mit9f0it7d942059184\" target=\"_blank\" rel=\"noopener noreferrer\">здесь</a> и <a href=\"https://t.me/PG_Tax/2260\" target=\"_blank\" rel=\"noopener noreferrer\">здесь</a> 👉<br><br>🔔 Подробности уже реализованной инициативы Минцифры о финансировании IT-компаниями образовательных проектов мы расскажем в одном из ближайших алертов.<br><br>А прекрасный учебник \"Налоговое право\", который цитирует Сергей Геннадьевич, можно купить <a href=\"https://www.pgplaw.ru/analytics-and-brochures/books/two-volumes-of-tax-law/\" target=\"_blank\" rel=\"noopener noreferrer\">здесь.</a><br><br>#комментарий_эксперта",
+    "views": 1700,
+    "comments_count": 0,
+    "comments_url": null,
+    "photos": [],
+    "video_url": null,
+    "tg_url": "https://t.me/PG_Tax/2331",
+    "permalink": "channels/pg-tax/posts/2331/"
+  }
+}

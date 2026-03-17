@@ -1,0 +1,31 @@
+{
+  "generated_at": "2026-03-17T20:25:23.312622+00:00",
+  "site": {
+    "channel_username": "PG_RealEstate",
+    "channel_title": "PG Real Estate | Недвижимость",
+    "site_name": "PG Real Estate | Недвижимость",
+    "site_description": "Канал практики недвижимости «Пепеляев Групп»: сделки, регулирование, судебная практика и отраслевые обновления.",
+    "language": "ru",
+    "accent_color": "#91278d",
+    "background_color": "#f5f7fa",
+    "avatar_path": "assets/channel-avatar.jpg"
+  },
+  "source": {
+    "channel_key": "pg-real-estate",
+    "channel_url": "https://t.me/s/PG_RealEstate",
+    "comments_enabled": false
+  },
+  "post": {
+    "id": 56,
+    "date": "2023-12-27T07:48:27+00:00",
+    "text": "Обзор законодательства о недвижимости за 2023 год \n \n🎄 Провожаем этот год подборкой самых важных и интересных новостей: \n❄ закрытие сведений о физических лицах в ЕГРН и штрафы за перепродажу таких сведений; \n❄ определение критериев для квалификации строений и сооружений в качестве вспомогательных объектов; \n❄ отмена правил о согласовании строительства в охранных зонах объектов электросетевого хозяйства.\n \n🎬 Об этих и других новостях вы можете узнать подробнее из нового видео на нашем Youtube-канале. \n📄 Текстовая версия обзора доступна в публикации на сайте.\n\n#PG_новости",
+    "text_html": "Обзор законодательства о недвижимости за 2023 год <br> <br>🎄 Провожаем этот год подборкой самых важных и интересных новостей: <br>❄ закрытие сведений о физических лицах в ЕГРН и штрафы за перепродажу таких сведений; <br>❄ определение критериев для квалификации строений и сооружений в качестве вспомогательных объектов; <br>❄ отмена правил о согласовании строительства в охранных зонах объектов электросетевого хозяйства.<br> <br>🎬 Об этих и других новостях вы можете узнать подробнее из нового <a href=\"https://youtu.be/bd62aJHWhN8?si=uKmYLObSfABp1gk8\" target=\"_blank\" rel=\"noopener noreferrer\">видео на нашем Youtube-канале</a>. <br>📄 Текстовая версия обзора доступна в <a href=\"https://www.pgplaw.ru/analytics-and-brochures/real-estate-must-read/nedvizhimost-i-stroitelstvo-mustread-ot-25-dekarya-2023-g/\" target=\"_blank\" rel=\"noopener noreferrer\">публикации на сайте</a>.<br><br>#PG_новости",
+    "views": 3030,
+    "comments_count": 0,
+    "comments_url": null,
+    "photos": [],
+    "video_url": null,
+    "tg_url": "https://t.me/PG_RealEstate/56",
+    "permalink": "channels/pg-real-estate/posts/56/"
+  }
+}

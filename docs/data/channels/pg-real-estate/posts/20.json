@@ -1,0 +1,31 @@
+{
+  "generated_at": "2026-03-17T20:25:23.345083+00:00",
+  "site": {
+    "channel_username": "PG_RealEstate",
+    "channel_title": "PG Real Estate | Недвижимость",
+    "site_name": "PG Real Estate | Недвижимость",
+    "site_description": "Канал практики недвижимости «Пепеляев Групп»: сделки, регулирование, судебная практика и отраслевые обновления.",
+    "language": "ru",
+    "accent_color": "#91278d",
+    "background_color": "#f5f7fa",
+    "avatar_path": "assets/channel-avatar.jpg"
+  },
+  "source": {
+    "channel_key": "pg-real-estate",
+    "channel_url": "https://t.me/s/PG_RealEstate",
+    "comments_enabled": false
+  },
+  "post": {
+    "id": 20,
+    "date": "2023-10-04T14:28:57+00:00",
+    "text": "Уважаемые читатели, раз в две недели мы выпускаем обзор самых важных и интересных новостей недвижимости и строительства в формате видео – достаточно потратить всего 15 минут, чтобы быть в курсе событий.\n\nПриглашаем вас посмотреть новый выпуск новостей от партнера Пепеляев Групп Натальи Стениной.\n\n#PG_новости",
+    "text_html": "Уважаемые читатели, раз в две недели мы выпускаем обзор самых важных и интересных новостей недвижимости и строительства в формате видео – достаточно потратить всего 15 минут, чтобы быть в курсе событий.<br><br>Приглашаем вас посмотреть новый <a href=\"https://youtu.be/LzfmoXIvmdQ\" target=\"_blank\" rel=\"noopener noreferrer\">выпуск новостей</a> от партнера Пепеляев Групп <a href=\"https://www.pgplaw.ru/to-get-the-team/natalya-stenina/\" target=\"_blank\" rel=\"noopener noreferrer\">Натальи Стениной</a>.<br><br>#PG_новости",
+    "views": 1080,
+    "comments_count": 0,
+    "comments_url": null,
+    "photos": [],
+    "video_url": null,
+    "tg_url": "https://t.me/PG_RealEstate/20",
+    "permalink": "channels/pg-real-estate/posts/20/"
+  }
+}

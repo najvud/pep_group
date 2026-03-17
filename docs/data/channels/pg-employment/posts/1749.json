@@ -1,0 +1,36 @@
+{
+  "generated_at": "2026-03-17T20:32:17.106344+00:00",
+  "site": {
+    "channel_username": "pgEmployment",
+    "channel_title": "PG Employment | Трудовое право",
+    "site_name": "PG Employment | Трудовое право",
+    "site_description": "Канал трудовой практики «Пепеляев Групп»: кадровые изменения, споры, комплаенс и судебная практика.",
+    "language": "ru",
+    "accent_color": "#91278d",
+    "background_color": "#f5f7fa",
+    "avatar_path": "assets/channel-avatar.jpg"
+  },
+  "source": {
+    "channel_key": "pg-employment",
+    "channel_url": "https://t.me/s/pgEmployment",
+    "comments_enabled": false
+  },
+  "post": {
+    "id": 1749,
+    "date": "2025-04-30T11:26:34+00:00",
+    "text": "​ Дорогие друзья! 🤗\n \nМайские праздники - отличное время проверить, как хорошо вы умеете управлять не только коллективом, но и своим отдыхом! \n \nЖелаем вам провести эти дни с полным штатом прекрасного настроения и бонусом в виде крепкого сна и хорошей погоды ☀️\n \nПомните: отдых - это обязательная часть трудовых отношений!\n\nС наступающими майскими праздниками! 🎉",
+    "text_html": "<a href=\"https://telegra.ph/file/7eaa5fdb431c172554a77.png\" target=\"_blank\" rel=\"noopener noreferrer\">​</a> Дорогие друзья! 🤗<br> <br>Майские праздники - отличное время проверить, как хорошо вы умеете управлять не только коллективом, но и своим отдыхом! <br> <br>Желаем вам провести эти дни с полным штатом прекрасного настроения и бонусом в виде крепкого сна и хорошей погоды ☀️<br> <br>Помните: отдых - это обязательная часть трудовых отношений!<br><br>С наступающими майскими праздниками! 🎉",
+    "views": 2420,
+    "comments_count": 0,
+    "comments_url": null,
+    "photos": [
+      {
+        "thumb_url": "data/channels/pg-employment/media/posts/thumbs/1749-1-7af3f57d1865.jpg",
+        "full_url": "data/channels/pg-employment/media/posts/1749-1-7af3f57d1865.jpg"
+      }
+    ],
+    "video_url": null,
+    "tg_url": "https://t.me/pgEmployment/1749",
+    "permalink": "channels/pg-employment/posts/1749/"
+  }
+}

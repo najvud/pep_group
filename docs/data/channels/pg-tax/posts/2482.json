@@ -1,0 +1,36 @@
+{
+  "generated_at": "2026-03-17T20:23:56.407658+00:00",
+  "site": {
+    "channel_username": "PG_Tax",
+    "channel_title": "PG Tax | Налоги",
+    "site_name": "PG Tax | Налоги",
+    "site_description": "Канал налоговой практики «Пепеляев Групп»: аналитика, обзоры и комментарии по налоговым вопросам.",
+    "language": "ru",
+    "accent_color": "#91278d",
+    "background_color": "#f5f7fa",
+    "avatar_path": "assets/channel-avatar.jpg"
+  },
+  "source": {
+    "channel_key": "pg-tax",
+    "channel_url": "https://t.me/s/PG_Tax",
+    "comments_enabled": false
+  },
+  "post": {
+    "id": 2482,
+    "date": "2026-02-21T10:31:42+00:00",
+    "text": "\"...Отдавайте кесарево кесарю\"\n\nОткрытая лекция Партнера Санкт-Петербургской налоговой практики \"Пепеляев Групп\" Сергея Сосновского об основах налогового права.\n\n⏰ сегодня в 16 часов\n\n➡️Подключиться к трансляции",
+    "text_html": "\"...Отдавайте кесарево кесарю\"<br><br>Открытая лекция Партнера Санкт-Петербургской налоговой практики \"Пепеляев Групп\" <a href=\"https://www.pgplaw.ru/to-get-the-team/sergey-sosnovskiy/\" target=\"_blank\" rel=\"noopener noreferrer\">Сергея Сосновского</a> об основах налогового права.<br><br>⏰ сегодня в 16 часов<br><br>➡️<a href=\"https://m.vkvideo.ru/video-68636053_456239593\" target=\"_blank\" rel=\"noopener noreferrer\">Подключиться к трансляции</a>",
+    "views": 1710,
+    "comments_count": 0,
+    "comments_url": null,
+    "photos": [
+      {
+        "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2482-1-4f40a828d3c5.jpg",
+        "full_url": "data/channels/pg-tax/media/posts/2482-1-4f40a828d3c5.jpg"
+      }
+    ],
+    "video_url": null,
+    "tg_url": "https://t.me/PG_Tax/2482",
+    "permalink": "channels/pg-tax/posts/2482/"
+  }
+}

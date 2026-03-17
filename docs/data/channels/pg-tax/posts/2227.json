@@ -1,0 +1,36 @@
+{
+  "generated_at": "2026-03-17T20:23:56.619234+00:00",
+  "site": {
+    "channel_username": "PG_Tax",
+    "channel_title": "PG Tax | Налоги",
+    "site_name": "PG Tax | Налоги",
+    "site_description": "Канал налоговой практики «Пепеляев Групп»: аналитика, обзоры и комментарии по налоговым вопросам.",
+    "language": "ru",
+    "accent_color": "#91278d",
+    "background_color": "#f5f7fa",
+    "avatar_path": "assets/channel-avatar.jpg"
+  },
+  "source": {
+    "channel_key": "pg-tax",
+    "channel_url": "https://t.me/s/PG_Tax",
+    "comments_enabled": false
+  },
+  "post": {
+    "id": 2227,
+    "date": "2025-11-01T10:10:44+00:00",
+    "text": "Нормативное регулирование\n \n🖊️ ФНС России:\nскорректировала форму налогового расчета доходов, выплаченных иностранным организациям, и удержанных налогов (Приказ от 12.09.2025 № ЕД-7-3/781@);\n🖊️ обновила форму 3-НДФЛ (Приказ от 20.10.2025 № ЕД-7-11/913@).\n \n \nПрактика\n \n🛠️ УФНС по г. Москве: учитывая актуальность и социальную значимость проблемы нелегальных трудовых отношений, вопрос проведения мероприятий в отношении «неработающих граждан» будет находиться на постоянном контроле.\n\n#главные_налоговые_новости",
+    "text_html": "Нормативное регулирование<br> <br>🖊️ ФНС России:<br>скорректировала форму налогового расчета доходов, выплаченных иностранным организациям, и удержанных налогов (<a href=\"http://publication.pravo.gov.ru/document/0001202510310060\" target=\"_blank\" rel=\"noopener noreferrer\">Приказ от 12.09.2025 № ЕД-7-3/781@</a>);<br>🖊️ обновила форму 3-НДФЛ (<a href=\"http://publication.pravo.gov.ru/document/0001202510310029\" target=\"_blank\" rel=\"noopener noreferrer\">Приказ от 20.10.2025 № ЕД-7-11/913@</a>).<br> <br> <br>Практика<br> <br>🛠️ УФНС по г. Москве: учитывая актуальность и социальную значимость проблемы нелегальных трудовых отношений, вопрос проведения мероприятий в отношении «неработающих граждан» <a href=\"https://www.nalog.gov.ru/rn77/news/smi/16571444/\" target=\"_blank\" rel=\"noopener noreferrer\">будет находиться</a> <a href=\"https://www.nalog.gov.ru/rn77/news/smi/16571444/\" target=\"_blank\" rel=\"noopener noreferrer\">на</a> постоянном контроле.<br><br>#главные_налоговые_новости",
+    "views": 1830,
+    "comments_count": 0,
+    "comments_url": null,
+    "photos": [
+      {
+        "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2227-1-84a1f7830fd3.jpg",
+        "full_url": "data/channels/pg-tax/media/posts/2227-1-84a1f7830fd3.jpg"
+      }
+    ],
+    "video_url": null,
+    "tg_url": "https://t.me/PG_Tax/2227",
+    "permalink": "channels/pg-tax/posts/2227/"
+  }
+}

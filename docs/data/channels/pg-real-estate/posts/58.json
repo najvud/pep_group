@@ -1,0 +1,36 @@
+{
+  "generated_at": "2026-03-17T20:25:23.310775+00:00",
+  "site": {
+    "channel_username": "PG_RealEstate",
+    "channel_title": "PG Real Estate | Недвижимость",
+    "site_name": "PG Real Estate | Недвижимость",
+    "site_description": "Канал практики недвижимости «Пепеляев Групп»: сделки, регулирование, судебная практика и отраслевые обновления.",
+    "language": "ru",
+    "accent_color": "#91278d",
+    "background_color": "#f5f7fa",
+    "avatar_path": "assets/channel-avatar.jpg"
+  },
+  "source": {
+    "channel_key": "pg-real-estate",
+    "channel_url": "https://t.me/s/PG_RealEstate",
+    "comments_enabled": false
+  },
+  "post": {
+    "id": 58,
+    "date": "2023-12-29T12:00:09+00:00",
+    "text": "​🎄 Дорогие подписчики, глядя в светлое будущее, поздравляем вас с наступающим Новым годом! \n \n📈 Желаем роста в бизнесе, чтобы дома, объекты инфраструктуры и коммерческие площади успешно строились и развивались. \n \n🏡 Ваша личная недвижимость пусть только улучшается, наполняется уютом, теплой атмосферой и счастьем! \n\n✨ И пусть все будет в полном порядке!",
+    "text_html": "<a href=\"https://telegra.ph/file/9463ca8417ec83b2fe160.jpg\" target=\"_blank\" rel=\"noopener noreferrer\">​</a>🎄 Дорогие подписчики, глядя в светлое будущее, поздравляем вас с наступающим Новым годом! <br> <br>📈 Желаем роста в бизнесе, чтобы дома, объекты инфраструктуры и коммерческие площади успешно строились и развивались. <br> <br>🏡 Ваша личная недвижимость пусть только улучшается, наполняется уютом, теплой атмосферой и счастьем! <br><br>✨ И пусть все будет в полном порядке!",
+    "views": 3850,
+    "comments_count": 0,
+    "comments_url": null,
+    "photos": [
+      {
+        "thumb_url": "data/channels/pg-real-estate/media/posts/thumbs/58-1-68a53ad96856.jpg",
+        "full_url": "data/channels/pg-real-estate/media/posts/58-1-68a53ad96856.jpg"
+      }
+    ],
+    "video_url": null,
+    "tg_url": "https://t.me/PG_RealEstate/58",
+    "permalink": "channels/pg-real-estate/posts/58/"
+  }
+}

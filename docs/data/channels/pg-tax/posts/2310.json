@@ -1,0 +1,64 @@
+{
+  "generated_at": "2026-03-17T20:23:56.564180+00:00",
+  "site": {
+    "channel_username": "PG_Tax",
+    "channel_title": "PG Tax | Налоги",
+    "site_name": "PG Tax | Налоги",
+    "site_description": "Канал налоговой практики «Пепеляев Групп»: аналитика, обзоры и комментарии по налоговым вопросам.",
+    "language": "ru",
+    "accent_color": "#91278d",
+    "background_color": "#f5f7fa",
+    "avatar_path": "assets/channel-avatar.jpg"
+  },
+  "source": {
+    "channel_key": "pg-tax",
+    "channel_url": "https://t.me/s/PG_Tax",
+    "comments_enabled": false
+  },
+  "post": {
+    "id": 2310,
+    "date": "2025-12-04T07:41:14+00:00",
+    "text": "⚡️ Национальная модель целевых условий ведения бизнеса до 2030 года\n\nРаспоряжением Правительства РФ от 29.11.2025 №3523-р утверждена Национальная модель целевых условий ведения бизнеса, разработанная Минэкономразвития и АСИ совместно с деловым сообществом.\n\nМодель представляет собой 11 «дорожных карт», в которые включены 280 мероприятий, направленных на достижение 40 целевых показателей, направленных на поддержку и упрощение ведения предпринимательской деятельности на всех её этапах.\n\nГлавная цель реализации – совершенствовать условия ведения бизнеса во всех регионах страны.\n\n🔍 Главное из дорожной карты по направлению \"Регистрация бизнеса и налогообложение\" - в наших карточках.\n\n#главные_налоговые_новости\n#изменения_законодательства",
+    "text_html": "⚡️ Национальная модель целевых условий ведения бизнеса до 2030 года<br><br>Распоряжением Правительства РФ от 29.11.2025 №3523-р <a href=\"http://government.ru/docs/57130/\" target=\"_blank\" rel=\"noopener noreferrer\">утверждена</a> Национальная модель целевых условий ведения бизнеса, разработанная Минэкономразвития и АСИ совместно с деловым сообществом.<br><br>Модель представляет собой 11 «дорожных карт», в которые включены 280 мероприятий, направленных на достижение 40 целевых показателей, направленных на поддержку и упрощение ведения предпринимательской деятельности на всех её этапах.<br><br>Главная цель реализации – совершенствовать условия ведения бизнеса во всех регионах страны.<br><br>🔍 Главное из дорожной карты по направлению \"Регистрация бизнеса и налогообложение\" - в наших карточках.<br><br>#главные_налоговые_новости<br>#изменения_законодательства",
+    "views": 1120,
+    "comments_count": 0,
+    "comments_url": null,
+    "photos": [
+      {
+        "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2310-1-3c6f4073db41.jpg",
+        "full_url": "data/channels/pg-tax/media/posts/2310-1-3c6f4073db41.jpg"
+      },
+      {
+        "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2310-2-9801bb32f84f.jpg",
+        "full_url": "data/channels/pg-tax/media/posts/2310-2-9801bb32f84f.jpg"
+      },
+      {
+        "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2310-3-680b1958a1f2.jpg",
+        "full_url": "data/channels/pg-tax/media/posts/2310-3-680b1958a1f2.jpg"
+      },
+      {
+        "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2310-4-a172f88f619c.jpg",
+        "full_url": "data/channels/pg-tax/media/posts/2310-4-a172f88f619c.jpg"
+      },
+      {
+        "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2310-5-a4bb2c369625.jpg",
+        "full_url": "data/channels/pg-tax/media/posts/2310-5-a4bb2c369625.jpg"
+      },
+      {
+        "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2310-6-adffff8cef78.jpg",
+        "full_url": "data/channels/pg-tax/media/posts/2310-6-adffff8cef78.jpg"
+      },
+      {
+        "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2310-7-cfe282a52bd9.jpg",
+        "full_url": "data/channels/pg-tax/media/posts/2310-7-cfe282a52bd9.jpg"
+      },
+      {
+        "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2310-8-b98c212d9614.jpg",
+        "full_url": "data/channels/pg-tax/media/posts/2310-8-b98c212d9614.jpg"
+      }
+    ],
+    "video_url": null,
+    "tg_url": "https://t.me/PG_Tax/2310",
+    "permalink": "channels/pg-tax/posts/2310/"
+  }
+}
