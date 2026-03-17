@@ -1,0 +1,35 @@
+{
+  "generated_at": "2026-03-17T17:42:39.070379+00:00",
+  "site": {
+    "channel_username": "pgp_official",
+    "channel_title": "Pepeliaev Group | Пепеляев Групп",
+    "site_name": "Pepeliaev Group | Пепеляев Групп",
+    "site_description": "Официальный канал юридической компании «Пепеляев Групп». Новости компании, правовые обзоры законодательства и судебной практики, комментарии экспертов.",
+    "language": "ru",
+    "accent_color": "#91278d",
+    "background_color": "#f5f7fa",
+    "avatar_path": "assets/channel-avatar.jpg"
+  },
+  "source": {
+    "channel_url": "https://t.me/s/pgp_official",
+    "comments_enabled": false
+  },
+  "post": {
+    "id": 1605,
+    "date": "2025-11-19T07:01:28+00:00",
+    "text": "📢\n\nПроект «Пепеляев Групп» по разработке концепции налогообложения майнинга вошел в шорт-лист специальной номинации рейтинга Право-300 - «Законотворческая деятельность».\n\nОткрыто голосование.\n\nПоддержите нас своим голосом!👉 ✔️",
+    "text_html": "📢<br><br>Проект «Пепеляев Групп» по разработке концепции налогообложения майнинга вошел в шорт-лист специальной номинации рейтинга Право-300 - «Законотворческая деятельность».<br><br>Открыто голосование.<br><br><a href=\"https://300.pravo.ru/special-awards/\" target=\"_blank\" rel=\"noopener noreferrer\">Поддержите нас своим голосом!</a>👉 ✔️",
+    "views": 991,
+    "comments_count": 0,
+    "comments_url": null,
+    "photos": [
+      {
+        "thumb_url": "data/media/posts/thumbs/1605-1-dd32e24b210d.jpg",
+        "full_url": "data/media/posts/1605-1-dd32e24b210d.jpg"
+      }
+    ],
+    "video_url": null,
+    "tg_url": "https://t.me/pgp_official/1605",
+    "permalink": "posts/1605/"
+  }
+}

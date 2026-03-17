@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-03-17T16:41:12.967161+00:00",
+  "site": {
+    "channel_username": "pgp_official",
+    "channel_title": "Pepeliaev Group | Пепеляев Групп",
+    "site_name": "Pepeliaev Group | Пепеляев Групп",
+    "site_description": "Официальный канал юридической компании «Пепеляев Групп». Новости компании, правовые обзоры законодательства и судебной практики, комментарии экспертов.",
+    "language": "ru",
+    "accent_color": "#91278d",
+    "background_color": "#f5f7fa",
+    "avatar_path": "assets/channel-avatar.jpg"
+  },
+  "source": {
+    "channel_url": "https://t.me/s/pgp_official",
+    "comments_enabled": false
+  },
+  "post": {
+    "id": 1623,
+    "date": "2025-12-02T13:08:29+00:00",
+    "text": "🏆 Команда «Пепеляев Групп» на досудебной стадии защитила добывающую компанию от неправомерных доначислений НДПИ.\n\nИнспекция неверно рассчитала налог, посчитав стоимость каждого драгоценного металла по цене всего концентрата, из-за чего формула была применена неправильно и итоговый налог оказался завышен в шесть раз.\n\nИнтересы налогоплательщика защищали адвокат, к.ю.н. С.Г. Пепеляев и ведущий юрист В. Воинов.\n\n👉 Подробнее в карточках и на сайте. \n\n#pg_победы",
+    "text_html": "🏆 Команда «Пепеляев Групп» на досудебной стадии защитила добывающую компанию от неправомерных доначислений НДПИ.<br><br>Инспекция неверно рассчитала налог, посчитав стоимость каждого драгоценного металла по цене всего концентрата, из-за чего формула была применена неправильно и итоговый налог оказался завышен в шесть раз.<br><br>Интересы налогоплательщика защищали адвокат, к.ю.н. <a href=\"https://www.pgplaw.ru/to-get-the-team/sergey-pepeliaev/\" target=\"_blank\" rel=\"noopener noreferrer\">С.Г. Пепеляев</a> и ведущий юрист В. Воинов.<br><br>👉 Подробнее в карточках и <a href=\"https://www.pgplaw.ru/our-experience/241852/\" target=\"_blank\" rel=\"noopener noreferrer\">на сайте</a>. <br><br>#pg_победы",
+    "views": 2550,
+    "comments_count": 0,
+    "comments_url": null,
+    "photos": [
+      {
+        "thumb_url": "data/media/posts/thumbs/1623-1-de0d560d5837.jpg",
+        "full_url": "data/media/posts/1623-1-de0d560d5837.jpg"
+      },
+      {
+        "thumb_url": "data/media/posts/thumbs/1623-2-36472d586ce0.jpg",
+        "full_url": "data/media/posts/1623-2-36472d586ce0.jpg"
+      },
+      {
+        "thumb_url": "data/media/posts/thumbs/1623-3-79e13b39edb1.jpg",
+        "full_url": "data/media/posts/1623-3-79e13b39edb1.jpg"
+      }
+    ],
+    "video_url": null,
+    "tg_url": "https://t.me/pgp_official/1623",
+    "permalink": "posts/1623/"
+  }
+}

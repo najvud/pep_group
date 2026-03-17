@@ -1,0 +1,55 @@
+{
+  "generated_at": "2026-03-17T17:42:39.053774+00:00",
+  "site": {
+    "channel_username": "pgp_official",
+    "channel_title": "Pepeliaev Group | Пепеляев Групп",
+    "site_name": "Pepeliaev Group | Пепеляев Групп",
+    "site_description": "Официальный канал юридической компании «Пепеляев Групп». Новости компании, правовые обзоры законодательства и судебной практики, комментарии экспертов.",
+    "language": "ru",
+    "accent_color": "#91278d",
+    "background_color": "#f5f7fa",
+    "avatar_path": "assets/channel-avatar.jpg"
+  },
+  "source": {
+    "channel_url": "https://t.me/s/pgp_official",
+    "comments_enabled": false
+  },
+  "post": {
+    "id": 1626,
+    "date": "2025-12-03T12:00:09+00:00",
+    "text": "🎉Поздравляем коллег и партнеров с Днём юриста!\n\nПусть каждое решение будет точным, каждая позиция – взвешенной, а каждая задача – возможностью сделать правовую среду более прозрачной и надежной.\n\n☝️ По случаю профессионального праздника подготовили карточки, чтобы показать, как по-разному может выглядеть работа юриста: от базовых действий до глубокой и комплексной проработки. Каждый из нас ежедневно проходит этот путь и делает профессию сильнее.",
+    "text_html": "🎉Поздравляем коллег и партнеров с Днём юриста!<br><br>Пусть каждое решение будет точным, каждая позиция – взвешенной, а каждая задача – возможностью сделать правовую среду более прозрачной и надежной.<br><br>☝️ По случаю профессионального праздника подготовили карточки, чтобы показать, как по-разному может выглядеть работа юриста: от базовых действий до глубокой и комплексной проработки. Каждый из нас ежедневно проходит этот путь и делает профессию сильнее.",
+    "views": 1220,
+    "comments_count": 0,
+    "comments_url": null,
+    "photos": [
+      {
+        "thumb_url": "data/media/posts/thumbs/1626-1-4ca951b3b571.jpg",
+        "full_url": "data/media/posts/1626-1-4ca951b3b571.jpg"
+      },
+      {
+        "thumb_url": "data/media/posts/thumbs/1626-2-721ebfe5152d.jpg",
+        "full_url": "data/media/posts/1626-2-721ebfe5152d.jpg"
+      },
+      {
+        "thumb_url": "data/media/posts/thumbs/1626-3-3e4561927ccd.jpg",
+        "full_url": "data/media/posts/1626-3-3e4561927ccd.jpg"
+      },
+      {
+        "thumb_url": "data/media/posts/thumbs/1626-4-a915ee36e95b.jpg",
+        "full_url": "data/media/posts/1626-4-a915ee36e95b.jpg"
+      },
+      {
+        "thumb_url": "data/media/posts/thumbs/1626-5-3205920ca0c0.jpg",
+        "full_url": "data/media/posts/1626-5-3205920ca0c0.jpg"
+      },
+      {
+        "thumb_url": "data/media/posts/thumbs/1626-6-9585a08b2a5e.jpg",
+        "full_url": "data/media/posts/1626-6-9585a08b2a5e.jpg"
+      }
+    ],
+    "video_url": null,
+    "tg_url": "https://t.me/pgp_official/1626",
+    "permalink": "posts/1626/"
+  }
+}

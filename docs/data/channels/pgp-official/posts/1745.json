@@ -1,0 +1,51 @@
+{
+  "generated_at": "2026-03-17T19:41:11.391810+00:00",
+  "site": {
+    "channel_username": "pgp_official",
+    "channel_title": "Pepeliaev Group | Пепеляев Групп",
+    "site_name": "Pepeliaev Group | Пепеляев Групп",
+    "site_description": "Официальный канал юридической компании «Пепеляев Групп». Новости компании, правовые обзоры законодательства и судебной практики, комментарии экспертов.",
+    "language": "ru",
+    "accent_color": "#91278d",
+    "background_color": "#f5f7fa",
+    "avatar_path": "assets/channel-avatar.jpg"
+  },
+  "source": {
+    "channel_url": "https://t.me/s/pgp_official",
+    "comments_enabled": false
+  },
+  "post": {
+    "id": 1745,
+    "date": "2026-03-04T13:29:58+00:00",
+    "text": "🏆 Как мы восстановили права фармкомпании на реализацию препарата на территории РФ\n\nЮристы «Пепеляев Групп» защитили права иностранной фармацевтической компании на дизайн упаковки лекарственного препарата. Трехлетний спор потребовал глубокой экспертизы в области авторского и патентного права.\n\n👉В карточках и на сайте рассказываем, как удалось доказать авторство, аннулировать патент «лжеавтора» и восстановить импорт препарата в Россию.\n\n#pg_победы",
+    "text_html": "🏆 Как мы восстановили права фармкомпании на реализацию препарата на территории РФ<br><br>Юристы «Пепеляев Групп» защитили права иностранной фармацевтической компании на дизайн упаковки лекарственного препарата. Трехлетний спор потребовал глубокой экспертизы в области авторского и патентного права.<br><br>👉В карточках и <a href=\"https://www.pgplaw.ru/our-experience/245634/\" target=\"_blank\" rel=\"noopener noreferrer\">на сайте</a> рассказываем, как удалось доказать авторство, аннулировать патент «лжеавтора» и восстановить импорт препарата в Россию.<br><br>#pg_победы",
+    "views": 933,
+    "comments_count": 0,
+    "comments_url": null,
+    "photos": [
+      {
+        "thumb_url": "data/media/posts/thumbs/1745-1-765c8f918052.jpg",
+        "full_url": "data/media/posts/1745-1-765c8f918052.jpg"
+      },
+      {
+        "thumb_url": "data/media/posts/thumbs/1745-2-3e32c1a27b3b.jpg",
+        "full_url": "data/media/posts/1745-2-3e32c1a27b3b.jpg"
+      },
+      {
+        "thumb_url": "data/media/posts/thumbs/1745-3-ca90faa535e2.jpg",
+        "full_url": "data/media/posts/1745-3-ca90faa535e2.jpg"
+      },
+      {
+        "thumb_url": "data/media/posts/thumbs/1745-4-428c0553b84d.jpg",
+        "full_url": "data/media/posts/1745-4-428c0553b84d.jpg"
+      },
+      {
+        "thumb_url": "data/media/posts/thumbs/1745-5-39f64bece0e6.jpg",
+        "full_url": "data/media/posts/1745-5-39f64bece0e6.jpg"
+      }
+    ],
+    "video_url": null,
+    "tg_url": "https://t.me/pgp_official/1745",
+    "permalink": "posts/1745/"
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17T19:22:31.076Z",
+  "generated_at": "2026-03-17T20:06:18.688Z",
   "site": {
     "site_name": "Pepeliaev Group | Практики",
     "site_description": "Зеркало Telegram-каналов практик «Пепеляев Групп». Выберите нужное направление в верхнем меню.",
@@ -8,8 +8,21 @@
     "background_color": "#f5f7fa",
     "avatar_path": "assets/channel-avatar.jpg"
   },
-  "default_channel_key": "pg-antitrust",
+  "default_channel_key": "pgp-official",
   "channels": [
+    {
+      "key": "pgp-official",
+      "label": "Pepeliaev Group | Пепеляев Групп",
+      "channel_username": "pgp_official",
+      "channel_title": "Pepeliaev Group | Пепеляев Групп",
+      "site_description": "Официальный канал юридической компании «Пепеляев Групп». Новости компании, правовые обзоры законодательства и судебной практики, комментарии экспертов.",
+      "language": "ru",
+      "accent_color": "#91278d",
+      "background_color": "#f5f7fa",
+      "avatar_path": "assets/channel-avatar.jpg",
+      "channel_url": "https://t.me/pgp_official",
+      "feed_path": "data/channels/pgp-official/posts.json"
+    },
     {
       "key": "pg-antitrust",
       "label": "PG Antitrust | Антимонопольное право",

@@ -6,11 +6,18 @@
   "accent_color": "#91278d",
   "background_color": "#f5f7fa",
   "avatar_path": "assets/channel-avatar.jpg",
-  "default_channel_key": "pg-antitrust",
+  "default_channel_key": "pgp-official",
   "messages_limit": 250,
   "comments_posts_limit": 40,
   "comments_max_age_days": 7,
   "channels": [
+    {
+      "key": "pgp-official",
+      "label": "Pepeliaev Group | Пепеляев Групп",
+      "channel_username": "pgp_official",
+      "channel_title": "Pepeliaev Group | Пепеляев Групп",
+      "site_description": "Официальный канал юридической компании «Пепеляев Групп». Новости компании, правовые обзоры законодательства и судебной практики, комментарии экспертов."
+    },
     {
       "key": "pg-antitrust",
       "label": "PG Antitrust | Антимонопольное право",

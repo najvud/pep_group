@@ -1,0 +1,39 @@
+{
+  "generated_at": "2026-03-17T17:42:39.088322+00:00",
+  "site": {
+    "channel_username": "pgp_official",
+    "channel_title": "Pepeliaev Group | Пепеляев Групп",
+    "site_name": "Pepeliaev Group | Пепеляев Групп",
+    "site_description": "Официальный канал юридической компании «Пепеляев Групп». Новости компании, правовые обзоры законодательства и судебной практики, комментарии экспертов.",
+    "language": "ru",
+    "accent_color": "#91278d",
+    "background_color": "#f5f7fa",
+    "avatar_path": "assets/channel-avatar.jpg"
+  },
+  "source": {
+    "channel_url": "https://t.me/s/pgp_official",
+    "comments_enabled": false
+  },
+  "post": {
+    "id": 1574,
+    "date": "2025-10-27T07:04:53+00:00",
+    "text": "✍️ Начинаем рабочую неделю с рубрикой #PGГрамотность.\n\nТакже и так же. Слитно или раздельно?\n\n☝️ Читайте в карточке правописания!",
+    "text_html": "✍️ Начинаем рабочую неделю с рубрикой #PGГрамотность.<br><br>Также и так же. Слитно или раздельно?<br><br>☝️ Читайте в карточке правописания!",
+    "views": 1330,
+    "comments_count": 0,
+    "comments_url": null,
+    "photos": [
+      {
+        "thumb_url": "data/media/posts/thumbs/1574-1-23210f54482a.jpg",
+        "full_url": "data/media/posts/1574-1-23210f54482a.jpg"
+      },
+      {
+        "thumb_url": "data/media/posts/thumbs/1574-2-34b21f92f614.jpg",
+        "full_url": "data/media/posts/1574-2-34b21f92f614.jpg"
+      }
+    ],
+    "video_url": null,
+    "tg_url": "https://t.me/pgp_official/1574",
+    "permalink": "posts/1574/"
+  }
+}
