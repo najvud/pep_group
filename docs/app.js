@@ -2,6 +2,8 @@
 
 const CHANNELS_INDEX_URL = 'data/channels/index.json';
 const DEFAULT_PAGE_SIZE = 16;
+const GITHUB_SYNC_RUNS_URL = 'https://api.github.com/repos/najvud/pep_group/actions/workflows/sync.yml/runs?branch=main&per_page=5';
+const GITHUB_SYNC_POLL_INTERVAL_MS = 5 * 60 * 1000;
 
 const state = {
   catalog: null,
@@ -16,6 +18,7 @@ const state = {
   viewerItems: [],
   viewerIndex: 0,
   mediaRegistry: {},
+  syncStatusPollId: null,
 };
 
 const elements = {
@@ -205,6 +208,49 @@ function setStatus(target, message) {
   target.textContent = message;
 }
 
+function clearSyncStatusPolling() {
+  if (state.syncStatusPollId) {
+    window.clearInterval(state.syncStatusPollId);
+    state.syncStatusPollId = null;
+  }
+}
+
+async function fetchLatestSuccessfulSyncTime() {
+  const response = await fetch(`${GITHUB_SYNC_RUNS_URL}&t=${Date.now()}`, {
+    cache: 'no-store',
+    headers: {
+      Accept: 'application/vnd.github+json',
+    },
+  });
+  if (!response.ok) throw new Error(`HTTP ${response.status}`);
+
+  const payload = await response.json();
+  const runs = Array.isArray(payload.workflow_runs) ? payload.workflow_runs : [];
+  const run = runs.find((entry) => entry.status === 'completed' && entry.conclusion === 'success');
+  return run?.updated_at || run?.run_started_at || null;
+}
+
+async function updateSyncTimestamp(fallbackIso) {
+  elements.updatedText.textContent = formatDate(fallbackIso);
+
+  try {
+    const syncTime = await fetchLatestSuccessfulSyncTime();
+    if (syncTime) {
+      elements.updatedText.textContent = formatDate(syncTime);
+    }
+  } catch (error) {
+    console.warn('Failed to fetch latest sync time', error);
+  }
+}
+
+function startSyncStatusPolling(fallbackIso) {
+  clearSyncStatusPolling();
+  void updateSyncTimestamp(fallbackIso);
+  state.syncStatusPollId = window.setInterval(() => {
+    void updateSyncTimestamp(fallbackIso);
+  }, GITHUB_SYNC_POLL_INTERVAL_MS);
+}
+
 function renderChannelMenu() {
   const channels = getCatalogChannels();
   elements.channelMenu.style.setProperty('--channel-count', String(channels.length || 1));
@@ -259,7 +305,7 @@ function renderHeader(site, generatedAt) {
   elements.siteDescription.textContent = description;
   elements.channelLink.textContent = handle;
   elements.channelLink.href = site.channel_username ? `https://t.me/${site.channel_username}` : 'https://t.me';
-  elements.updatedText.textContent = formatDate(generatedAt);
+  startSyncStatusPolling(generatedAt);
   document.title = title;
 
   if (site.avatar_path) {
