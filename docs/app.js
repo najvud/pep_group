@@ -2,6 +2,7 @@
 
 const CHANNELS_INDEX_URL = 'data/channels/index.json';
 const DEFAULT_PAGE_SIZE = 16;
+const AUTO_REFRESH_INTERVAL_MINUTES = 15;
 
 const state = {
   catalog: null,
@@ -16,6 +17,7 @@ const state = {
   viewerItems: [],
   viewerIndex: 0,
   mediaRegistry: {},
+  autoRefreshTimerId: null,
 };
 
 const elements = {
@@ -199,6 +201,40 @@ function setStatus(target, message) {
 
   target.classList.remove('hidden');
   target.textContent = message;
+}
+
+function clearAutoRefreshTimer() {
+  if (state.autoRefreshTimerId) {
+    window.clearInterval(state.autoRefreshTimerId);
+    state.autoRefreshTimerId = null;
+  }
+}
+
+function formatCountdown(ms) {
+  const totalSeconds = Math.max(0, Math.ceil(ms / 1000));
+  const minutes = Math.floor(totalSeconds / 60);
+  const seconds = totalSeconds % 60;
+  return `${String(minutes).padStart(2, '0')}:${String(seconds).padStart(2, '0')}`;
+}
+
+function getNextAutoRefreshTime(reference = new Date()) {
+  const next = new Date(reference);
+  next.setSeconds(0, 0);
+  const remainder = next.getMinutes() % AUTO_REFRESH_INTERVAL_MINUTES;
+  const minutesToAdd = remainder === 0 ? AUTO_REFRESH_INTERVAL_MINUTES : AUTO_REFRESH_INTERVAL_MINUTES - remainder;
+  next.setMinutes(next.getMinutes() + minutesToAdd);
+  return next;
+}
+
+function renderAutoRefreshCountdown() {
+  const remainingMs = getNextAutoRefreshTime().getTime() - Date.now();
+  setStatus(elements.statusBanner, `До автоматического обновления ленты: ${formatCountdown(remainingMs)}`);
+}
+
+function startAutoRefreshCountdown() {
+  clearAutoRefreshTimer();
+  renderAutoRefreshCountdown();
+  state.autoRefreshTimerId = window.setInterval(renderAutoRefreshCountdown, 1000);
 }
 
 function renderChannelMenu() {
@@ -443,6 +479,7 @@ async function appendNextPage() {
       await loadPage(state.loadedPages.size + 1);
     }
   } catch (error) {
+    clearAutoRefreshTimer();
     setStatus(elements.statusBanner, `Ошибка подгрузки следующей страницы: ${error.message}`);
     elements.loadMoreButton.disabled = false;
     return;
@@ -564,6 +601,7 @@ function handleRoute() {
 async function loadFeed(channelKey, force = false) {
   state.activeChannelKey = channelKey;
   state.mediaRegistry = {};
+  clearAutoRefreshTimer();
   renderChannelMenu();
 
   elements.loadingState.classList.remove('hidden');
@@ -571,7 +609,7 @@ async function loadFeed(channelKey, force = false) {
   elements.errorState.classList.add('hidden');
   elements.postFeed.innerHTML = '';
   showFeedView();
-  setStatus(elements.statusBanner, force ? 'Принудительное обновление из браузера...' : null);
+  setStatus(elements.statusBanner, force ? 'Обновление ленты...' : null);
 
   try {
     const response = await fetch(buildFeedUrl(channelKey, force), { cache: 'no-store' });
@@ -590,19 +628,18 @@ async function loadFeed(channelKey, force = false) {
 
     if (!state.posts.length) {
       elements.emptyState.classList.remove('hidden');
+      startAutoRefreshCountdown();
       updateFeedMeta();
       updateLoadMoreVisibility();
       handleRoute();
       return;
     }
 
-    setStatus(
-      elements.statusBanner,
-      `Последнее изменение данных: ${timeAgo(state.feed.generated_at)}. Источник: https://t.me/s/${state.feed.site.channel_username || ''}`
-    );
+    startAutoRefreshCountdown();
     resetFeed();
     handleRoute();
   } catch (error) {
+    clearAutoRefreshTimer();
     elements.loadingState.classList.add('hidden');
     elements.errorState.classList.remove('hidden');
     elements.errorMessage.textContent = `Ошибка: ${error.message}`;
