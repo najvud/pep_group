@@ -395,9 +395,21 @@ function updateFeedMeta() {
   const renderedCount = Math.min(state.rendered, postsCount);
   const recentMonths = Number(state.feed?.source?.recent_posts_months) || 3;
   elements.feedMeta.innerHTML = `
-    <span>Посты за последние ${recentMonths} ${pluralizeMonths(recentMonths)}: <strong>${postsCount}</strong></span>
-    <span>Показано: <strong>${renderedCount}</strong></span>
-    <span>Страниц: <strong>${state.totalPages || 1}</strong></span>
+    <div class="feed-meta__item">
+      <span class="feed-meta__label">Посты</span>
+      <strong class="feed-meta__value">${postsCount}</strong>
+      <span class="feed-meta__hint">за последние ${recentMonths} ${pluralizeMonths(recentMonths)}</span>
+    </div>
+    <div class="feed-meta__item">
+      <span class="feed-meta__label">Показано</span>
+      <strong class="feed-meta__value">${renderedCount}</strong>
+      <span class="feed-meta__hint">в текущей ленте</span>
+    </div>
+    <div class="feed-meta__item">
+      <span class="feed-meta__label">Страниц</span>
+      <strong class="feed-meta__value">${state.totalPages || 1}</strong>
+      <span class="feed-meta__hint">в архиве периода</span>
+    </div>
   `;
   elements.feedMeta.classList.remove('hidden');
 }
