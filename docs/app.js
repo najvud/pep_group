@@ -199,6 +199,7 @@ function setStatus(target, message) {
 
 function renderChannelMenu() {
   const channels = getCatalogChannels();
+  elements.channelMenu.style.setProperty('--channel-count', String(channels.length || 1));
   elements.channelMenu.innerHTML = channels.map((channel) => {
     const isActive = channel.key === state.activeChannelKey;
     const rawLabel = channel.label || channel.channel_title || channel.channel_username || 'Channel';
@@ -214,7 +215,7 @@ function renderChannelMenu() {
         aria-label="${escapeHtml(rawLabel)}"
         title="${escapeHtml(rawLabel)}"
       >
-        <span class="channel-tab__meta">${isActive ? 'Сейчас открыт' : 'Перейти к каналу'}</span>
+        <span class="channel-tab__meta">${isActive ? 'Открыт' : 'Канал'}</span>
         <span class="channel-tab__title">${escapeHtml(title)}</span>
         <span class="channel-tab__subtitle">${escapeHtml(subtitle)}</span>
       </button>
