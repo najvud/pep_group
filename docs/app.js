@@ -93,6 +93,11 @@ function compactNumber(value) {
   return String(number);
 }
 
+function formatCount(value) {
+  const number = Number(value || 0);
+  return new Intl.NumberFormat('ru-RU').format(number);
+}
+
 function pluralizeMonths(value) {
   const number = Number(value || 0);
   const mod10 = number % 10;
@@ -394,7 +399,7 @@ function renderPostCard(post) {
     <div class="post-card__footer">
       <div class="post-card__stats">
         <span class="chip">${formatDate(post.date)}</span>
-        <span class="chip">Просмотры: ${compactNumber(post.views)}</span>
+        <span class="chip">Просмотры: ${formatCount(post.views)}</span>
       </div>
       <div class="post-card__links">
         ${shouldShowComments ? `<button class="button button--ghost comments-trigger" type="button" data-post-id="${post.id}">${commentsLabel}</button>` : ''}
