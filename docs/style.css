@@ -202,6 +202,7 @@ a {
   border-radius: 999px;
   background: rgba(255, 255, 255, 0.95);
   box-shadow: 0 0 0 6px rgba(255, 255, 255, 0.12);
+  animation: active-tab-pulse 1.9s ease-in-out infinite;
 }
 
 .hero {
@@ -671,6 +672,27 @@ a {
 @keyframes spin {
   to {
     transform: rotate(360deg);
+  }
+}
+
+@keyframes active-tab-pulse {
+  0%,
+  100% {
+    transform: scale(1);
+    box-shadow: 0 0 0 6px rgba(255, 255, 255, 0.12);
+    opacity: 0.96;
+  }
+
+  50% {
+    transform: scale(1.18);
+    box-shadow: 0 0 0 10px rgba(255, 255, 255, 0.06);
+    opacity: 1;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .channel-tab.is-active::after {
+    animation: none;
   }
 }
 
