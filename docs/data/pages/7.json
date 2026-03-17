@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17T09:07:55.437667+00:00",
+  "generated_at": "2026-03-17T10:08:05.565044+00:00",
   "pagination": {
     "page": 7,
     "page_size": 16,
@@ -7,6 +7,28 @@
     "total_pages": 16
   },
   "posts": [
+    {
+      "id": 1611,
+      "date": "2025-11-24T07:04:59+00:00",
+      "text": "🔍 Начинаем рабочую неделю с рубрикой #PGГрамотность\n\nИсходя из. Выделять запятыми или нет?\n\n☝️Читайте в карточке правописания!",
+      "text_html": "🔍 Начинаем рабочую неделю с рубрикой #PGГрамотность<br><br>Исходя из. Выделять запятыми или нет?<br><br>☝️Читайте в карточке правописания!",
+      "views": 1160,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/media/posts/thumbs/1611-1-60fff841af0a.jpg",
+          "full_url": "data/media/posts/1611-1-60fff841af0a.jpg"
+        },
+        {
+          "thumb_url": "data/media/posts/thumbs/1611-2-a8c3ca580f66.jpg",
+          "full_url": "data/media/posts/1611-2-a8c3ca580f66.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/pgp_official/1611",
+      "permalink": "posts/1611/"
+    },
     {
       "id": 1610,
       "date": "2025-11-21T11:30:06+00:00",
@@ -150,8 +172,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1600-1-508cc9d80016.jpg",
-          "full_url": "data/media/posts/1600-1-508cc9d80016.jpg"
+          "thumb_url": "data/media/posts/thumbs/1600-1-a9f044fdd77f.jpg",
+          "full_url": "data/media/posts/1600-1-a9f044fdd77f.jpg"
         }
       ],
       "video_url": null,
@@ -287,24 +309,6 @@
       "video_url": null,
       "tg_url": "https://t.me/pgp_official/1591",
       "permalink": "posts/1591/"
-    },
-    {
-      "id": 1590,
-      "date": "2025-11-07T11:03:50+00:00",
-      "text": "📚  Книги «Пепеляев Групп» на OZON\n\nИногда для вдохновения достаточно хорошей книги и чашки ароматного кофе. А если книга ещё и помогает разобраться в сложных правовых вопросах — это двойная польза.\n\nНапоминаем, что книги наших авторов — учебные пособия и сборники — доступны на Ozon.\n\n👉 Посмотреть и заказать книги можно по ссылке.",
-      "text_html": "📚  Книги «Пепеляев Групп» на OZON<br><br>Иногда для вдохновения достаточно хорошей книги и чашки ароматного кофе. А если книга ещё и помогает разобраться в сложных правовых вопросах — это двойная польза.<br><br>Напоминаем, что книги наших авторов — учебные пособия и сборники — доступны на <a href=\"https://www.ozon.ru/seller/pepelyaev-grupp-273699/\" target=\"_blank\" rel=\"noopener noreferrer\">Ozon</a>.<br><br>👉 Посмотреть и заказать книги можно <a href=\"https://www.ozon.ru/seller/pepelyaev-grupp-273699/\" target=\"_blank\" rel=\"noopener noreferrer\">по ссылке</a>.",
-      "views": 1340,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/media/posts/thumbs/1590-1-ccd3c9e88a2d.jpg",
-          "full_url": "data/media/posts/1590-1-ccd3c9e88a2d.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/pgp_official/1590",
-      "permalink": "posts/1590/"
     }
   ]
 }

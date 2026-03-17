@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17T03:44:53.982298+00:00",
+  "generated_at": "2026-03-17T10:08:05.557427+00:00",
   "pagination": {
     "page": 3,
     "page_size": 16,
@@ -7,6 +7,24 @@
     "total_pages": 16
   },
   "posts": [
+    {
+      "id": 1718,
+      "date": "2026-02-11T13:04:48+00:00",
+      "text": "☂️ Ограничения и меры поддержки для бизнеса: дайджест\n\n✔️ За нарушения при эксплуатации объектов КИИ планируют ужесточить ответственность;\n\n✔️ Правила розничной продажи товаров обновят;\n\n✔️ Определены дополнительные критерии для посреднических цифровых платформ.\n\nПодробнее – по ссылке.\n\n#антикризисная_поддержка_бизнеса",
+      "text_html": "☂️ Ограничения и меры поддержки для бизнеса: дайджест<br><br>✔️ За нарушения при эксплуатации объектов КИИ планируют ужесточить ответственность;<br><br>✔️ Правила розничной продажи товаров обновят;<br><br>✔️ Определены дополнительные критерии для посреднических цифровых платформ.<br><br>Подробнее – <a href=\"https://www.pgplaw.ru/analytics-and-brochures/sanctions-support-digest/support-digest-09-02-26/\" target=\"_blank\" rel=\"noopener noreferrer\">по ссылке.</a><br><br>#антикризисная_поддержка_бизнеса",
+      "views": 1060,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/media/posts/thumbs/1718-1-09ca1e183793.jpg",
+          "full_url": "data/media/posts/1718-1-09ca1e183793.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/pgp_official/1718",
+      "permalink": "posts/1718/"
+    },
     {
       "id": 1717,
       "date": "2026-02-11T10:06:38+00:00",
@@ -107,8 +125,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/media/posts/thumbs/1705-1-fb92dd14f03f.jpg",
-          "full_url": "data/media/posts/1705-1-fb92dd14f03f.jpg"
+          "thumb_url": "data/media/posts/thumbs/1705-1-a3360356a8bc.jpg",
+          "full_url": "data/media/posts/1705-1-a3360356a8bc.jpg"
         }
       ],
       "video_url": null,
@@ -316,24 +334,6 @@
       "video_url": null,
       "tg_url": "https://t.me/pgp_official/1692",
       "permalink": "posts/1692/"
-    },
-    {
-      "id": 1691,
-      "date": "2026-01-22T10:04:29+00:00",
-      "text": "🏢 Еженедельная подборка обзоров от практик «Пепеляев Групп»\n\nЧто изменилось за последнюю неделю, и на что стоит обратить внимание бизнесу?\n\n▫️ Банкротство: MustRead за 16 – 21 января 2026 г. Выпуск № 304\n\n▫️ СпецИнвестРежимы в Сибири и на Дальнем Востоке. Дайджест 12–18 января 2026 г.\n\n▫️ Налоговые новости. Дайджест за 12–18 января 2026 г.\n\nТакже читайте об изменениях в правовом регулировании ИТ-отрасли:\n\n🔘 3% от налоговой экономии – на вузы: опубликованы особенности заключения и реализации образовательных соглашений для ИТ-компаний\n\n🔘 Правила ведения реестра российского ПО: что изменится?\n\n#pg_обзоры_недели",
-      "text_html": "🏢 Еженедельная подборка обзоров от практик «Пепеляев Групп»<br><br>Что изменилось за последнюю неделю, и на что стоит обратить внимание бизнесу?<br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/bankruptcy-must-read/bankruptcy-must-read-21-01-26/\" target=\"_blank\" rel=\"noopener noreferrer\">Банкротство: MustRead за 16 – 21 января 2026 г. Выпуск № 304</a><br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/spec-invest-obzor/invest-news-digest-26-01-19/\" target=\"_blank\" rel=\"noopener noreferrer\">СпецИнвестРежимы в Сибири и на Дальнем Востоке. Дайджест 12–18 января 2026 г.</a><br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/tax-reviews/tax-news-digest-19-01-26/\" target=\"_blank\" rel=\"noopener noreferrer\">Налоговые новости. Дайджест за 12–18 января 2026 г.</a><br><br>Также читайте об изменениях в правовом регулировании ИТ-отрасли:<br><br>🔘 <a href=\"https://www.pgplaw.ru/analytics-and-brochures/alerts/3-ot-nalogovoy-ekonomii-na-vuzy/\" target=\"_blank\" rel=\"noopener noreferrer\">3% от налоговой экономии – на вузы: опубликованы особенности заключения и реализации образовательных соглашений для ИТ-компаний</a><br><br>🔘 <a href=\"https://www.pgplaw.ru/analytics-and-brochures/alerts/pravila-vedeniya-reestra-rossiyskogo-po/\" target=\"_blank\" rel=\"noopener noreferrer\">Правила ведения реестра российского ПО: что изменится?</a><br><br>#pg_обзоры_недели",
-      "views": 1140,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/media/posts/thumbs/1691-1-24ff1984d4f8.jpg",
-          "full_url": "data/media/posts/1691-1-24ff1984d4f8.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/pgp_official/1691",
-      "permalink": "posts/1691/"
     }
   ]
 }
