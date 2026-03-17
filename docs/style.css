@@ -396,6 +396,11 @@ a {
   background: rgba(255, 255, 255, 0.4);
 }
 
+.button:disabled {
+  cursor: default;
+  transform: none;
+}
+
 .status-banner,
 .feed-meta,
 .comments-toolbar,
@@ -547,6 +552,28 @@ a {
   display: flex;
   justify-content: center;
   margin-top: 18px;
+}
+
+#loadMoreButton {
+  min-width: 178px;
+  border-color: rgba(145, 39, 141, 0.18);
+  background: linear-gradient(180deg, rgba(145, 39, 141, 0.12), rgba(145, 39, 141, 0.06));
+  color: var(--accent-strong);
+  box-shadow: 0 14px 28px rgba(39, 44, 62, 0.08);
+}
+
+#loadMoreButton:hover:not(:disabled) {
+  border-color: rgba(145, 39, 141, 0.32);
+  background: linear-gradient(180deg, rgba(145, 39, 141, 0.18), rgba(145, 39, 141, 0.1));
+  color: var(--accent);
+}
+
+#loadMoreButton:disabled {
+  border-color: rgba(145, 39, 141, 0.14);
+  background: linear-gradient(180deg, rgba(145, 39, 141, 0.1), rgba(145, 39, 141, 0.05));
+  color: color-mix(in srgb, var(--accent-strong) 78%, white 22%);
+  opacity: 1;
+  box-shadow: none;
 }
 
 .comments-toolbar {
