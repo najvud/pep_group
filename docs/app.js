@@ -201,14 +201,22 @@ function renderChannelMenu() {
   const channels = getCatalogChannels();
   elements.channelMenu.innerHTML = channels.map((channel) => {
     const isActive = channel.key === state.activeChannelKey;
+    const rawLabel = channel.label || channel.channel_title || channel.channel_username || 'Channel';
+    const parts = rawLabel.split('|').map((part) => part.trim()).filter(Boolean);
+    const title = parts[0] || rawLabel;
+    const subtitle = parts[1] || `@${channel.channel_username || 'channel'}`;
     return `
       <button
         class="channel-tab${isActive ? ' is-active' : ''}"
         type="button"
         data-channel-key="${channel.key}"
         aria-pressed="${isActive ? 'true' : 'false'}"
+        aria-label="${escapeHtml(rawLabel)}"
+        title="${escapeHtml(rawLabel)}"
       >
-        ${escapeHtml(channel.label || channel.channel_title)}
+        <span class="channel-tab__meta">${isActive ? 'Сейчас открыт' : 'Перейти к каналу'}</span>
+        <span class="channel-tab__title">${escapeHtml(title)}</span>
+        <span class="channel-tab__subtitle">${escapeHtml(subtitle)}</span>
       </button>
     `;
   }).join('');
