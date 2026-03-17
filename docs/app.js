@@ -91,6 +91,15 @@ function compactNumber(value) {
   return String(number);
 }
 
+function pluralizeMonths(value) {
+  const number = Number(value || 0);
+  const mod10 = number % 10;
+  const mod100 = number % 100;
+  if (mod10 === 1 && mod100 !== 11) return 'месяц';
+  if (mod10 >= 2 && mod10 <= 4 && (mod100 < 12 || mod100 > 14)) return 'месяца';
+  return 'месяцев';
+}
+
 function linkifyEscaped(text) {
   return escapeHtml(text || '').replace(
     /(https?:\/\/[^\s<]+)/g,
@@ -384,8 +393,9 @@ function updateFeedMeta() {
 
   const postsCount = state.totalPosts || state.posts.length;
   const renderedCount = Math.min(state.rendered, postsCount);
+  const recentMonths = Number(state.feed?.source?.recent_posts_months) || 3;
   elements.feedMeta.innerHTML = `
-    <span>Постов в ленте: <strong>${postsCount}</strong></span>
+    <span>Посты за последние ${recentMonths} ${pluralizeMonths(recentMonths)}: <strong>${postsCount}</strong></span>
     <span>Показано: <strong>${renderedCount}</strong></span>
     <span>Страниц: <strong>${state.totalPages || 1}</strong></span>
   `;

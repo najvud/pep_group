@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17T22:04:12.275917+00:00",
+  "generated_at": "2026-03-17T22:41:40.624Z",
   "site": {
     "channel_username": "PG_Tax",
     "channel_title": "PG Tax | Налоги",
@@ -13,13 +13,14 @@
   "source": {
     "channel_key": "pg-tax",
     "channel_url": "https://t.me/s/PG_Tax",
-    "comments_enabled": false
+    "comments_enabled": false,
+    "recent_posts_months": 3
   },
   "pagination": {
     "page": 1,
     "page_size": 16,
-    "total_posts": 250,
-    "total_pages": 16
+    "total_posts": 167,
+    "total_pages": 11
   },
   "posts": [
     {

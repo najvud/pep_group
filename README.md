@@ -60,6 +60,7 @@ telegram-pages-mirror/
 - `background_color`
 - `avatar_path`
 - `messages_limit`
+- `recent_posts_months`
 - `comments_posts_limit`
 - `comments_max_age_days`
 

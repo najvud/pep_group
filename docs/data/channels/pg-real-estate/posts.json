@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17T21:49:02.895630+00:00",
+  "generated_at": "2026-03-17T22:41:40.624Z",
   "site": {
     "channel_username": "PG_RealEstate",
     "channel_title": "PG Real Estate | Недвижимость",
@@ -13,13 +13,14 @@
   "source": {
     "channel_key": "pg-real-estate",
     "channel_url": "https://t.me/s/PG_RealEstate",
-    "comments_enabled": false
+    "comments_enabled": false,
+    "recent_posts_months": 3
   },
   "pagination": {
     "page": 1,
     "page_size": 16,
-    "total_posts": 195,
-    "total_pages": 13
+    "total_posts": 23,
+    "total_pages": 2
   },
   "posts": [
     {

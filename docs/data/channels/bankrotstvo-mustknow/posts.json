@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17T22:05:49.232259+00:00",
+  "generated_at": "2026-03-17T22:41:40.624Z",
   "site": {
     "channel_username": "bankrotstvo_mustknow",
     "channel_title": "Банкротство | Взгляд эксперта",
@@ -13,13 +13,14 @@
   "source": {
     "channel_key": "bankrotstvo-mustknow",
     "channel_url": "https://t.me/s/bankrotstvo_mustknow",
-    "comments_enabled": false
+    "comments_enabled": false,
+    "recent_posts_months": 3
   },
   "pagination": {
     "page": 1,
     "page_size": 16,
-    "total_posts": 250,
-    "total_pages": 16
+    "total_posts": 62,
+    "total_pages": 4
   },
   "posts": [
     {

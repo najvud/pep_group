@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import calendar
 import asyncio
 import hashlib
 import html as html_lib
@@ -58,6 +59,7 @@ class SiteConfig:
     background_color: str
     avatar_path: str
     messages_limit: int
+    recent_posts_months: int
     comments_posts_limit: int
     comments_max_age_days: int
 
@@ -126,6 +128,7 @@ def load_config() -> SiteConfig:
         background_color=(env.get("TG_BACKGROUND_COLOR") or raw.get("background_color") or "#f7f3ea").strip(),
         avatar_path=(env.get("TG_AVATAR_PATH") or raw.get("avatar_path") or "").strip(),
         messages_limit=int(env.get("MESSAGES_LIMIT") or env.get("TG_MESSAGES_LIMIT") or raw.get("messages_limit") or 200),
+        recent_posts_months=int(env.get("RECENT_POSTS_MONTHS") or env.get("TG_RECENT_POSTS_MONTHS") or raw.get("recent_posts_months") or 3),
         comments_posts_limit=int(env.get("COMMENTS_POSTS_LIMIT") or env.get("TG_COMMENTS_POSTS_LIMIT") or raw.get("comments_posts_limit") or 40),
         comments_max_age_days=int(env.get("COMMENTS_MAX_AGE_DAYS") or env.get("TG_COMMENTS_MAX_AGE_DAYS") or raw.get("comments_max_age_days") or 7),
     )
@@ -159,6 +162,23 @@ def fetch_binary(url: str) -> bytes:
     )
     with urlopen(request, timeout=30) as response:
         return response.read()
+
+
+def parse_iso_datetime(value: str | None) -> datetime | None:
+    if not value:
+        return None
+    try:
+        return datetime.fromisoformat(value)
+    except ValueError:
+        return None
+
+
+def subtract_months(reference: datetime, months: int) -> datetime:
+    month_index = reference.month - 1 - months
+    year = reference.year + month_index // 12
+    month = month_index % 12 + 1
+    day = min(reference.day, calendar.monthrange(year, month)[1])
+    return reference.replace(year=year, month=month, day=day)
 
 
 def normalize_photo_entry(photo: Any) -> dict[str, str] | None:
@@ -413,6 +433,8 @@ def collect_posts(config: SiteConfig) -> list[dict[str, Any]]:
     posts: list[dict[str, Any]] = []
     seen_ids: set[int] = set()
     before_id: int | None = None
+    now = datetime.now(timezone.utc)
+    cutoff = subtract_months(now, config.recent_posts_months)
 
     while len(posts) < config.messages_limit:
         url = config.channel_web_url if before_id is None else f"{config.channel_web_url}?before={before_id}"
@@ -423,7 +445,12 @@ def collect_posts(config: SiteConfig) -> list[dict[str, Any]]:
             break
 
         added = 0
+        page_reached_cutoff = False
         for post in page_posts:
+            post_date = parse_iso_datetime(post.get("date"))
+            if post_date and post_date < cutoff:
+                page_reached_cutoff = True
+                continue
             if post["id"] in seen_ids:
                 continue
             posts.append(post)
@@ -432,16 +459,30 @@ def collect_posts(config: SiteConfig) -> list[dict[str, Any]]:
             if len(posts) >= config.messages_limit:
                 break
 
+        if added == 0 and page_reached_cutoff:
+            break
+
         if added == 0:
             break
 
         before_id = min(post["id"] for post in page_posts)
+        oldest_page_date = min(
+            (parse_iso_datetime(post.get("date")) for post in page_posts if parse_iso_datetime(post.get("date"))),
+            default=None,
+        )
+        if oldest_page_date and oldest_page_date < cutoff:
+            break
         if len(page_posts) < 5:
             break
         time.sleep(1)
 
+    posts = [
+        post
+        for post in posts
+        if (post_date := parse_iso_datetime(post.get("date"))) is None or post_date >= cutoff
+    ]
     posts.sort(key=lambda post: post["date"] or "", reverse=True)
-    log.info("Collected %s posts", len(posts))
+    log.info("Collected %s posts from the last %s months", len(posts), config.recent_posts_months)
     return posts[: config.messages_limit]
 
 
@@ -591,6 +632,7 @@ def build_source_payload(config: SiteConfig, comments_enabled: bool) -> dict[str
         "channel_key": CHANNEL_KEY or config.channel_username.lower(),
         "channel_url": config.channel_web_url,
         "comments_enabled": comments_enabled,
+        "recent_posts_months": config.recent_posts_months,
     }
 
 

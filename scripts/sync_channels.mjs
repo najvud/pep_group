@@ -23,6 +23,7 @@ for (const channel of config.channels) {
     TG_BACKGROUND_COLOR: channel.background_color || config.background_color,
     TG_AVATAR_PATH: channel.avatar_path || config.avatar_path,
     TG_MESSAGES_LIMIT: String(channel.messages_limit || config.messages_limit || 250),
+    TG_RECENT_POSTS_MONTHS: String(channel.recent_posts_months || config.recent_posts_months || 3),
     TG_COMMENTS_POSTS_LIMIT: String(channel.comments_posts_limit || config.comments_posts_limit || 40),
     TG_COMMENTS_MAX_AGE_DAYS: String(channel.comments_max_age_days || config.comments_max_age_days || 7),
   };

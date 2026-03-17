@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17T22:06:15.556763+00:00",
+  "generated_at": "2026-03-17T22:41:40.624Z",
   "site": {
     "channel_username": "pgEmployment",
     "channel_title": "PG Employment | Трудовое право",
@@ -13,13 +13,14 @@
   "source": {
     "channel_key": "pg-employment",
     "channel_url": "https://t.me/s/pgEmployment",
-    "comments_enabled": false
+    "comments_enabled": false,
+    "recent_posts_months": 3
   },
   "pagination": {
     "page": 1,
     "page_size": 16,
-    "total_posts": 250,
-    "total_pages": 16
+    "total_posts": 33,
+    "total_pages": 3
   },
   "posts": [
     {
