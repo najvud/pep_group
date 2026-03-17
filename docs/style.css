@@ -576,6 +576,26 @@ a {
   box-shadow: none;
 }
 
+:root[data-theme="dark"] #loadMoreButton {
+  border-color: rgba(206, 174, 226, 0.24);
+  background: linear-gradient(180deg, rgba(206, 174, 226, 0.2), rgba(39, 44, 62, 0.92));
+  color: var(--text);
+  box-shadow: 0 16px 30px rgba(0, 0, 0, 0.22);
+}
+
+:root[data-theme="dark"] #loadMoreButton:hover:not(:disabled) {
+  border-color: rgba(236, 199, 235, 0.42);
+  background: linear-gradient(180deg, rgba(236, 199, 235, 0.28), rgba(39, 44, 62, 0.96));
+  color: white;
+}
+
+:root[data-theme="dark"] #loadMoreButton:disabled {
+  border-color: rgba(206, 174, 226, 0.18);
+  background: linear-gradient(180deg, rgba(206, 174, 226, 0.14), rgba(39, 44, 62, 0.88));
+  color: rgba(253, 254, 254, 0.72);
+  box-shadow: none;
+}
+
 .comments-toolbar {
   display: flex;
   gap: 16px;
