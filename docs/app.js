@@ -3,6 +3,7 @@
 const CHANNELS_INDEX_URL = 'data/channels/index.json';
 const DEFAULT_PAGE_SIZE = 16;
 const AUTO_REFRESH_INTERVAL_MINUTES = 5;
+const AUTO_REFRESH_NOTE = `Лента актуализируется каждые ${AUTO_REFRESH_INTERVAL_MINUTES} минут.`;
 
 const state = {
   catalog: null,
@@ -17,7 +18,6 @@ const state = {
   viewerItems: [],
   viewerIndex: 0,
   mediaRegistry: {},
-  autoRefreshTimerId: null,
 };
 
 const elements = {
@@ -28,9 +28,9 @@ const elements = {
   channelAvatar: document.getElementById('channelAvatar'),
   channelLink: document.getElementById('channelLink'),
   updatedText: document.getElementById('updatedText'),
+  refreshNote: document.getElementById('refreshNote'),
   refreshButton: document.getElementById('refreshButton'),
   themeButton: document.getElementById('themeButton'),
-  statusBanner: document.getElementById('statusBanner'),
   feedMeta: document.getElementById('feedMeta'),
   feedView: document.getElementById('feedView'),
   postFeed: document.getElementById('postFeed'),
@@ -208,38 +208,9 @@ function setStatus(target, message) {
   target.textContent = message;
 }
 
-function clearAutoRefreshTimer() {
-  if (state.autoRefreshTimerId) {
-    window.clearInterval(state.autoRefreshTimerId);
-    state.autoRefreshTimerId = null;
-  }
-}
-
-function formatCountdown(ms) {
-  const totalSeconds = Math.max(0, Math.ceil(ms / 1000));
-  const minutes = Math.floor(totalSeconds / 60);
-  const seconds = totalSeconds % 60;
-  return `${String(minutes).padStart(2, '0')}:${String(seconds).padStart(2, '0')}`;
-}
-
-function getNextAutoRefreshTime(reference = new Date()) {
-  const next = new Date(reference);
-  next.setSeconds(0, 0);
-  const remainder = next.getMinutes() % AUTO_REFRESH_INTERVAL_MINUTES;
-  const minutesToAdd = remainder === 0 ? AUTO_REFRESH_INTERVAL_MINUTES : AUTO_REFRESH_INTERVAL_MINUTES - remainder;
-  next.setMinutes(next.getMinutes() + minutesToAdd);
-  return next;
-}
-
-function renderAutoRefreshCountdown() {
-  const remainingMs = getNextAutoRefreshTime().getTime() - Date.now();
-  setStatus(elements.statusBanner, `До автоматического обновления ленты: ${formatCountdown(remainingMs)}`);
-}
-
-function startAutoRefreshCountdown() {
-  clearAutoRefreshTimer();
-  renderAutoRefreshCountdown();
-  state.autoRefreshTimerId = window.setInterval(renderAutoRefreshCountdown, 1000);
+function setRefreshNote(message = AUTO_REFRESH_NOTE) {
+  if (!elements.refreshNote) return;
+  elements.refreshNote.textContent = message;
 }
 
 function renderChannelMenu() {
@@ -484,8 +455,7 @@ async function appendNextPage() {
       await loadPage(state.loadedPages.size + 1);
     }
   } catch (error) {
-    clearAutoRefreshTimer();
-    setStatus(elements.statusBanner, `Ошибка подгрузки следующей страницы: ${error.message}`);
+    setRefreshNote(AUTO_REFRESH_NOTE);
     elements.loadMoreButton.disabled = false;
     return;
   }
@@ -606,7 +576,6 @@ function handleRoute() {
 async function loadFeed(channelKey, force = false) {
   state.activeChannelKey = channelKey;
   state.mediaRegistry = {};
-  clearAutoRefreshTimer();
   renderChannelMenu();
 
   elements.loadingState.classList.remove('hidden');
@@ -614,7 +583,7 @@ async function loadFeed(channelKey, force = false) {
   elements.errorState.classList.add('hidden');
   elements.postFeed.innerHTML = '';
   showFeedView();
-  setStatus(elements.statusBanner, force ? 'Обновление ленты...' : null);
+  setRefreshNote(force ? 'Обновление ленты...' : AUTO_REFRESH_NOTE);
 
   try {
     const response = await fetch(buildFeedUrl(channelKey, force), { cache: 'no-store' });
@@ -633,18 +602,18 @@ async function loadFeed(channelKey, force = false) {
 
     if (!state.posts.length) {
       elements.emptyState.classList.remove('hidden');
-      startAutoRefreshCountdown();
+      setRefreshNote(AUTO_REFRESH_NOTE);
       updateFeedMeta();
       updateLoadMoreVisibility();
       handleRoute();
       return;
     }
 
-    startAutoRefreshCountdown();
+    setRefreshNote(AUTO_REFRESH_NOTE);
     resetFeed();
     handleRoute();
   } catch (error) {
-    clearAutoRefreshTimer();
+    setRefreshNote(AUTO_REFRESH_NOTE);
     elements.loadingState.classList.add('hidden');
     elements.errorState.classList.remove('hidden');
     elements.errorMessage.textContent = `Ошибка: ${error.message}`;

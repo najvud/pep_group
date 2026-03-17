@@ -360,6 +360,17 @@ a {
   padding-top: 4px;
 }
 
+.hero__refresh-note {
+  margin: -2px 0 0;
+  max-width: 22ch;
+  font-size: 0.84rem;
+  font-weight: 600;
+  line-height: 1.4;
+  color: var(--muted);
+  text-align: center;
+  text-wrap: balance;
+}
+
 .content {
   margin-top: 24px;
 }
