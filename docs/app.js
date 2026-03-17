@@ -166,11 +166,6 @@ function buildCommentsUrl(channelKey, postId) {
   return `${buildChannelRoot(channelKey)}/comments/${postId}.json?t=${Date.now()}`;
 }
 
-function getPostPageUrl(post) {
-  if (post?.permalink) return post.permalink;
-  return `channels/${state.activeChannelKey}/posts/${post.id}/`;
-}
-
 function getActiveChannelMeta() {
   return getChannelByKey(state.activeChannelKey);
 }
@@ -355,10 +350,8 @@ function renderPostCard(post) {
       <div class="post-card__stats">
         <span class="chip">${formatDate(post.date)}</span>
         <span class="chip">Просмотры: ${compactNumber(post.views)}</span>
-        <span class="chip">ID: ${post.id}</span>
       </div>
       <div class="post-card__links">
-        <a class="post-card__link" href="${getPostPageUrl(post)}">Открыть пост</a>
         ${shouldShowComments ? `<button class="button button--ghost comments-trigger" type="button" data-post-id="${post.id}">${commentsLabel}</button>` : ''}
         <a class="post-card__link" href="${post.tg_url}" target="_blank" rel="noopener">Открыть в Telegram</a>
       </div>
@@ -391,15 +384,10 @@ function updateFeedMeta() {
 
   const postsCount = state.totalPosts || state.posts.length;
   const renderedCount = Math.min(state.rendered, postsCount);
-  const commentsStatus = state.feed.source.comments_enabled
-    ? 'Комментарии: включены'
-    : 'Комментарии: отключены';
-
   elements.feedMeta.innerHTML = `
     <span>Постов в ленте: <strong>${postsCount}</strong></span>
     <span>Показано: <strong>${renderedCount}</strong></span>
     <span>Страниц: <strong>${state.totalPages || 1}</strong></span>
-    <span>${commentsStatus}</span>
   `;
   elements.feedMeta.classList.remove('hidden');
 }
@@ -502,7 +490,7 @@ function renderComment(comment) {
 
 async function showComments(postId) {
   const post = state.posts.find((entry) => String(entry.id) === String(postId));
-  elements.commentsTitle.textContent = post ? `Комментарии к посту #${post.id}` : 'Комментарии';
+  elements.commentsTitle.textContent = post ? 'Комментарии к посту' : 'Комментарии';
   elements.commentsList.innerHTML = '';
   elements.commentsEmpty.classList.add('hidden');
   elements.commentsLoading.classList.remove('hidden');
@@ -515,7 +503,7 @@ async function showComments(postId) {
     if (response.status === 404) {
       elements.commentsLoading.classList.add('hidden');
       elements.commentsEmpty.classList.remove('hidden');
-      setStatus(elements.commentsStatus, 'Комментарии для этого поста еще не сохранены.');
+      setStatus(elements.commentsStatus, null);
       return;
     }
     if (!response.ok) throw new Error(`HTTP ${response.status}`);

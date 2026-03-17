@@ -651,17 +651,6 @@ def shorten_text(value: str | None, limit: int) -> str:
     return f"{clipped}…" if clipped else collapsed[:limit]
 
 
-def post_permalink(post_id: int) -> str:
-    if CHANNEL_KEY:
-        return f"channels/{CHANNEL_KEY}/posts/{post_id}/"
-    return f"posts/{post_id}/"
-
-
-def enrich_posts(posts: list[dict[str, Any]]) -> None:
-    for post in posts:
-        post["permalink"] = post_permalink(post["id"])
-
-
 def render_post_page_media(post: dict[str, Any]) -> str:
     root_prefix = "../../../" if CHANNEL_KEY else "../../"
     photos = [normalize_photo_entry(photo) for photo in post.get("photos") or []]
@@ -760,7 +749,6 @@ def render_post_page_html(config: SiteConfig, post: dict[str, Any], comments_ena
         <div class="post-card__stats">
           <span class="chip">{html_lib.escape(post.get("date") or "")}</span>
           <span class="chip">Просмотры: {post.get("views") or 0}</span>
-          <span class="chip">ID: {post["id"]}</span>
         </div>
         <div class="post-card__links">
           {comments_cta}
@@ -887,7 +875,6 @@ def main() -> int:
     for post in posts:
         if post["id"] in comment_results:
             post["comments_count"] = len(comment_results[post["id"]])
-    enrich_posts(posts)
 
     changes_detected = False
     active_ids = {post["id"] for post in posts}
@@ -904,7 +891,7 @@ def main() -> int:
             changes_detected = True
 
     changes_detected = write_feed_files(config, posts, comments_enabled) or changes_detected
-    changes_detected = write_post_detail_files(config, posts, comments_enabled) or changes_detected
+    changes_detected = cleanup_removed_post_detail_files(set()) or changes_detected
 
     log.info("Done. Material changes detected: %s", "yes" if changes_detected else "no")
     return 0
