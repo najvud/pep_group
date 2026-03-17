@@ -2,7 +2,7 @@
 
 const CHANNELS_INDEX_URL = 'data/channels/index.json';
 const DEFAULT_PAGE_SIZE = 16;
-const AUTO_REFRESH_INTERVAL_MINUTES = 15;
+const AUTO_REFRESH_INTERVAL_MINUTES = 5;
 
 const state = {
   catalog: null,
