@@ -39,7 +39,7 @@ CHANNEL_AVATAR_PATH = CHANNEL_MEDIA_DIR / "channel-avatar.jpg"
 POST_PAGES_DIR = DOCS_DIR / "channels" / CHANNEL_KEY / "posts" if CHANNEL_KEY else DOCS_DIR / "posts"
 MANIFEST_PATH = DOCS_DIR / "manifest.webmanifest"
 FEED_PAGE_SIZE = 16
-IMAGE_VARIANT_VERSION = "v2"
+IMAGE_VARIANT_VERSION = "v3"
 
 BASE_HEADERS = {
     "User-Agent": "Mozilla/5.0 (compatible; TelegramPagesMirror/1.0)",
@@ -239,11 +239,12 @@ def normalize_photo_entry(photo: Any) -> dict[str, str] | None:
 def optimize_image_variants(raw_bytes: bytes, full_path: Path, thumb_path: Path) -> bool:
     changes_detected = False
     try:
-        from PIL import Image, ImageOps
+        from PIL import Image, ImageFilter, ImageOps
 
         with Image.open(io.BytesIO(raw_bytes)) as image:
             image = ImageOps.exif_transpose(image)
             image.load()
+            resampling = getattr(getattr(Image, "Resampling", Image), "LANCZOS")
 
             if image.mode not in ("RGB", "L"):
                 background = Image.new("RGB", image.size, "white")
@@ -254,15 +255,17 @@ def optimize_image_variants(raw_bytes: bytes, full_path: Path, thumb_path: Path)
                 image = image.convert("RGB")
 
             full_image = image.copy()
-            full_image.thumbnail((1800, 1800))
+            full_image.thumbnail((2400, 2400), resampling)
+            full_image = full_image.filter(ImageFilter.UnsharpMask(radius=0.8, percent=115, threshold=2))
             if not full_path.exists():
-                full_image.save(full_path, format="JPEG", quality=86, optimize=True, progressive=True)
+                full_image.save(full_path, format="JPEG", quality=92, optimize=True, progressive=True)
                 changes_detected = True
 
             thumb_image = image.copy()
-            thumb_image.thumbnail((960, 960))
+            thumb_image.thumbnail((1280, 1280), resampling)
+            thumb_image = thumb_image.filter(ImageFilter.UnsharpMask(radius=0.7, percent=135, threshold=2))
             if not thumb_path.exists():
-                thumb_image.save(thumb_path, format="JPEG", quality=78, optimize=True, progressive=True)
+                thumb_image.save(thumb_path, format="JPEG", quality=88, optimize=True, progressive=True)
                 changes_detected = True
     except Exception as error:  # pragma: no cover - runtime/image libs path
         log.warning("Image optimization fallback used: %s", error)
@@ -879,7 +882,7 @@ def render_post_page_media(post: dict[str, Any]) -> str:
             (
                 '<a class="media-trigger" href="{root_prefix}{full_url}" target="_blank" rel="noopener">'
                 '<img src="{root_prefix}{thumb_url}" '
-                'srcset="{root_prefix}{thumb_url} 640w, {root_prefix}{full_url} 1600w" '
+                'srcset="{root_prefix}{thumb_url} 1280w, {root_prefix}{full_url} 2400w" '
                 'sizes="(max-width: 860px) calc(100vw - 44px), 980px" '
                 'alt="Media {index}" loading="lazy" decoding="async"></a>'
             ).format(

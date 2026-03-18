@@ -343,7 +343,7 @@ function buildResponsiveImageTag(item, index, isGallery) {
   if (!fallbackSrc) return '';
 
   const srcSet = item.thumb_url && item.full_url && item.thumb_url !== item.full_url
-    ? `${item.thumb_url} 640w, ${item.full_url} 1600w`
+    ? `${item.thumb_url} 1280w, ${item.full_url} 2400w`
     : '';
   const sizes = isGallery
     ? '(max-width: 480px) calc(100vw - 44px), (max-width: 860px) calc(50vw - 28px), 520px'
