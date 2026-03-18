@@ -5,6 +5,7 @@ const DEFAULT_PAGE_SIZE = 16;
 const AUTO_REFRESH_INTERVAL_MINUTES = 5;
 const SYNC_STATUS_POLL_INTERVAL_MS = 30 * 1000;
 const LONG_PRESS_COPY_DELAY_MS = 650;
+const CHANNEL_CAROUSEL_ANIMATION_MS = 220;
 
 const state = {
   catalog: null,
@@ -24,6 +25,7 @@ const state = {
   copyToastTimeoutId: null,
   channelAccentCache: {},
   channelCarouselTouch: null,
+  channelCarouselAnimating: false,
 };
 
 const elements = {
@@ -574,6 +576,65 @@ function updateInstallButtonState() {
   elements.installAppButton.setAttribute('title', installed ? 'Приложение уже установлено' : 'Установить приложение');
 }
 
+function prefersReducedMotion() {
+  return window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+}
+
+function isMobileCarouselViewport() {
+  return window.matchMedia('(max-width: 860px)').matches;
+}
+
+function sleep(ms) {
+  return new Promise((resolve) => window.setTimeout(resolve, ms));
+}
+
+function cleanupChannelCarouselSurface(surface) {
+  if (!surface) return;
+  surface.style.removeProperty('transform');
+  surface.style.removeProperty('opacity');
+  surface.style.removeProperty('transition');
+}
+
+function animateChannelCarouselEntry(direction) {
+  const surface = elements.channelCarousel?.querySelector('[data-channel-carousel-surface]');
+  if (!surface || prefersReducedMotion()) return;
+
+  const className = direction === 'next' ? 'is-entering-next' : 'is-entering-prev';
+  surface.classList.add(className);
+  surface.addEventListener('animationend', () => {
+    surface.classList.remove(className);
+  }, { once: true });
+}
+
+async function moveChannelCarousel(offset) {
+  const nextChannelKey = getRelativeChannelKey(offset);
+  if (!nextChannelKey || nextChannelKey === state.activeChannelKey || state.channelCarouselAnimating) return;
+
+  const direction = offset > 0 ? 'next' : 'prev';
+  const surface = elements.channelCarousel?.querySelector('[data-channel-carousel-surface]');
+  const shouldAnimate = isMobileCarouselViewport() && !prefersReducedMotion() && surface;
+
+  state.channelCarouselAnimating = true;
+
+  try {
+    if (shouldAnimate && surface) {
+      cleanupChannelCarouselSurface(surface);
+      surface.classList.add(direction === 'next' ? 'is-exiting-next' : 'is-exiting-prev');
+      await sleep(CHANNEL_CAROUSEL_ANIMATION_MS - 25);
+    }
+
+    await switchChannel(nextChannelKey, { scrollToTop: true });
+
+    if (shouldAnimate) {
+      requestAnimationFrame(() => {
+        animateChannelCarouselEntry(direction);
+      });
+    }
+  } finally {
+    state.channelCarouselAnimating = false;
+  }
+}
+
 function isTelegramWebUrl(value) {
   try {
     const url = new URL(value, window.location.href);
@@ -701,10 +762,7 @@ function setupChannelCarouselInteractions() {
 
     const shift = Number(button.dataset.channelShift || '0');
     if (!shift) return;
-
-    const nextChannelKey = getRelativeChannelKey(shift);
-    if (!nextChannelKey || nextChannelKey === state.activeChannelKey) return;
-    void switchChannel(nextChannelKey, { scrollToTop: true });
+    void moveChannelCarousel(shift);
   });
 
   elements.channelCarousel.addEventListener('touchstart', (event) => {
@@ -715,7 +773,35 @@ function setupChannelCarouselInteractions() {
     state.channelCarouselTouch = {
       x: touch.clientX,
       y: touch.clientY,
+      deltaX: 0,
+      deltaY: 0,
+      dragging: false,
+      surface,
     };
+  }, { passive: true });
+
+  elements.channelCarousel.addEventListener('touchmove', (event) => {
+    const touchState = state.channelCarouselTouch;
+    if (!touchState || !event.touches.length) return;
+
+    const touch = event.touches[0];
+    const deltaX = touch.clientX - touchState.x;
+    const deltaY = touch.clientY - touchState.y;
+    touchState.deltaX = deltaX;
+    touchState.deltaY = deltaY;
+
+    if (!touchState.dragging) {
+      if (Math.abs(deltaX) < 10 || Math.abs(deltaX) <= Math.abs(deltaY)) {
+        return;
+      }
+      touchState.dragging = true;
+    }
+
+    const offsetX = clamp(deltaX, -72, 72);
+    const opacity = String(Math.max(0.74, 1 - Math.abs(offsetX) / 220));
+    touchState.surface.style.transition = 'none';
+    touchState.surface.style.transform = `translate3d(${offsetX}px, 0, 0)`;
+    touchState.surface.style.opacity = opacity;
   }, { passive: true });
 
   elements.channelCarousel.addEventListener('touchend', (event) => {
@@ -723,20 +809,27 @@ function setupChannelCarouselInteractions() {
     state.channelCarouselTouch = null;
     if (!touchState || !event.changedTouches.length) return;
 
-    const touch = event.changedTouches[0];
-    const deltaX = touch.clientX - touchState.x;
-    const deltaY = touch.clientY - touchState.y;
+    const deltaX = touchState.deltaX;
+    const deltaY = touchState.deltaY;
 
     if (Math.abs(deltaX) < 42 || Math.abs(deltaX) <= Math.abs(deltaY)) {
+      touchState.surface.style.transition = 'transform 180ms ease, opacity 180ms ease';
+      touchState.surface.style.transform = 'translate3d(0, 0, 0)';
+      touchState.surface.style.opacity = '1';
+      window.setTimeout(() => cleanupChannelCarouselSurface(touchState.surface), 190);
       return;
     }
 
-    const nextChannelKey = getRelativeChannelKey(deltaX < 0 ? 1 : -1);
-    if (!nextChannelKey || nextChannelKey === state.activeChannelKey) return;
-    void switchChannel(nextChannelKey, { scrollToTop: true });
+    void moveChannelCarousel(deltaX < 0 ? 1 : -1);
   }, { passive: true });
 
   elements.channelCarousel.addEventListener('touchcancel', () => {
+    if (state.channelCarouselTouch?.surface) {
+      state.channelCarouselTouch.surface.style.transition = 'transform 180ms ease, opacity 180ms ease';
+      state.channelCarouselTouch.surface.style.transform = 'translate3d(0, 0, 0)';
+      state.channelCarouselTouch.surface.style.opacity = '1';
+      window.setTimeout(() => cleanupChannelCarouselSurface(state.channelCarouselTouch?.surface), 190);
+    }
     state.channelCarouselTouch = null;
   }, { passive: true });
 }

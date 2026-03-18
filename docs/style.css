@@ -262,6 +262,8 @@ label,
     0 20px 38px var(--channel-active-glow, rgba(145, 39, 141, 0.28)),
     inset 0 1px 0 rgba(255, 255, 255, 0.14);
   color: #fff;
+  touch-action: pan-y;
+  will-change: transform, opacity;
 }
 
 .channel-carousel__content {
@@ -341,6 +343,77 @@ label,
 .channel-carousel__nav:disabled {
   opacity: 0.45;
   cursor: default;
+}
+
+.channel-carousel__surface.is-exiting-next {
+  animation: channel-carousel-out-next 220ms cubic-bezier(0.3, 0, 0.2, 1) forwards;
+}
+
+.channel-carousel__surface.is-exiting-prev {
+  animation: channel-carousel-out-prev 220ms cubic-bezier(0.3, 0, 0.2, 1) forwards;
+}
+
+.channel-carousel__surface.is-entering-next {
+  animation: channel-carousel-in-next 240ms cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+.channel-carousel__surface.is-entering-prev {
+  animation: channel-carousel-in-prev 240ms cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+@keyframes channel-carousel-out-next {
+  from {
+    transform: translate3d(0, 0, 0);
+    opacity: 1;
+  }
+  to {
+    transform: translate3d(-28px, 0, 0);
+    opacity: 0;
+  }
+}
+
+@keyframes channel-carousel-out-prev {
+  from {
+    transform: translate3d(0, 0, 0);
+    opacity: 1;
+  }
+  to {
+    transform: translate3d(28px, 0, 0);
+    opacity: 0;
+  }
+}
+
+@keyframes channel-carousel-in-next {
+  from {
+    transform: translate3d(28px, 0, 0);
+    opacity: 0;
+  }
+  to {
+    transform: translate3d(0, 0, 0);
+    opacity: 1;
+  }
+}
+
+@keyframes channel-carousel-in-prev {
+  from {
+    transform: translate3d(-28px, 0, 0);
+    opacity: 0;
+  }
+  to {
+    transform: translate3d(0, 0, 0);
+    opacity: 1;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .channel-carousel__surface,
+  .channel-carousel__surface.is-exiting-next,
+  .channel-carousel__surface.is-exiting-prev,
+  .channel-carousel__surface.is-entering-next,
+  .channel-carousel__surface.is-entering-prev {
+    animation: none !important;
+    transition: none !important;
+  }
 }
 
 .hero {
