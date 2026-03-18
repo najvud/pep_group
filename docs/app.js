@@ -102,7 +102,7 @@ function compactNumber(value) {
 
 function linkifyText(text) {
   const source = String(text || '');
-  const pattern = /((?:https?:\/\/|www\.|(?:[a-zа-яё0-9-]+\.)+[a-zа-яё]{2,})(?:\/[^\s]*)?)/giu;
+  const pattern = /(?<![@\w])((?:https?:\/\/)?(?:www\.)?(?:[a-zа-яё0-9-]+\.)+[a-zа-яё]{2,}(?:\/[^\s<]*)?)/giu;
 
   let lastIndex = 0;
   let result = '';
