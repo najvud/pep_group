@@ -367,42 +367,50 @@ a {
 
 .icon-button {
   appearance: none;
-  width: 52px;
-  height: 52px;
+  width: 50px;
+  height: 50px;
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  border: 1px solid rgba(145, 39, 141, 0.16);
+  border: 1px solid rgba(255, 255, 255, 0.08);
   border-radius: 999px;
   background: linear-gradient(135deg, #91278d 0%, #6f196c 100%);
   color: #fff;
   box-shadow:
-    0 16px 30px rgba(145, 39, 141, 0.22),
-    inset 0 1px 0 rgba(255, 255, 255, 0.12);
+    0 14px 28px rgba(145, 39, 141, 0.24),
+    inset 0 1px 0 rgba(255, 255, 255, 0.14);
   cursor: pointer;
   transition:
     transform 0.18s ease,
     box-shadow 0.18s ease,
-    filter 0.18s ease;
+    filter 0.18s ease,
+    border-color 0.18s ease;
 }
 
 .icon-button:hover {
   transform: translateY(-1px);
+  border-color: rgba(255, 255, 255, 0.16);
   box-shadow:
-    0 20px 34px rgba(145, 39, 141, 0.28),
-    inset 0 1px 0 rgba(255, 255, 255, 0.12);
+    0 18px 34px rgba(145, 39, 141, 0.3),
+    inset 0 1px 0 rgba(255, 255, 255, 0.14);
   filter: saturate(1.05);
 }
 
 .icon-button svg,
 .theme-toggle svg {
-  width: 22px;
-  height: 22px;
+  width: 20px;
+  height: 20px;
   stroke: currentColor;
-  stroke-width: 1.9;
+  stroke-width: 1.85;
   stroke-linecap: round;
   stroke-linejoin: round;
   fill: none;
+}
+
+.icon-button--refresh svg {
+  width: 21px;
+  height: 21px;
+  transform: translate(0.25px, 0.25px);
 }
 
 .theme-toggle {
@@ -420,18 +428,14 @@ a {
 
 .theme-toggle__track {
   position: relative;
-  width: 82px;
-  height: 52px;
-  display: inline-flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 10px;
-  padding: 0 12px;
+  width: 88px;
+  height: 50px;
+  display: block;
   border: 1px solid var(--border);
   border-radius: 999px;
-  background: color-mix(in srgb, var(--bg-strong) 88%, transparent 12%);
+  background: linear-gradient(180deg, color-mix(in srgb, var(--bg-strong) 96%, white 4%), color-mix(in srgb, var(--bg-strong) 88%, transparent 12%));
   box-shadow:
-    0 16px 30px rgba(39, 44, 62, 0.08),
+    0 14px 28px rgba(39, 44, 62, 0.1),
     inset 0 1px 0 rgba(255, 255, 255, 0.18);
   transition:
     border-color 0.18s ease,
@@ -442,20 +446,31 @@ a {
 .theme-toggle:hover .theme-toggle__track {
   border-color: rgba(145, 39, 141, 0.24);
   box-shadow:
-    0 18px 32px rgba(39, 44, 62, 0.1),
+    0 16px 30px rgba(39, 44, 62, 0.12),
     inset 0 1px 0 rgba(255, 255, 255, 0.18);
 }
 
 .theme-toggle__icon {
-  position: relative;
+  position: absolute;
+  top: 50%;
   z-index: 1;
   display: inline-flex;
   align-items: center;
   justify-content: center;
   width: 18px;
   height: 18px;
-  color: color-mix(in srgb, var(--muted) 78%, var(--text) 22%);
+  transform: translateY(-50%);
+  color: color-mix(in srgb, var(--muted) 80%, var(--text) 20%);
+  opacity: 0.72;
   transition: color 0.18s ease, opacity 0.18s ease;
+}
+
+.theme-toggle__icon--sun {
+  left: 14px;
+}
+
+.theme-toggle__icon--moon {
+  right: 14px;
 }
 
 .theme-toggle__thumb {
@@ -468,10 +483,10 @@ a {
   align-items: center;
   justify-content: center;
   border-radius: 999px;
-  background: linear-gradient(135deg, #fdfefe 0%, #e9e8ef 100%);
+  background: linear-gradient(135deg, #ffffff 0%, #ece9f2 100%);
   color: #91278d;
   box-shadow:
-    0 10px 18px rgba(39, 44, 62, 0.14),
+    0 10px 18px rgba(39, 44, 62, 0.16),
     inset 0 1px 0 rgba(255, 255, 255, 0.7);
   transform: translateX(0);
   transition:
@@ -481,15 +496,18 @@ a {
     box-shadow 0.22s ease;
 }
 
+.theme-toggle__thumb svg {
+  display: none;
+}
+
 .theme-toggle__input:checked + .theme-toggle__track {
-  background: color-mix(in srgb, var(--bg-strong) 94%, #111624 6%);
+  background: linear-gradient(180deg, color-mix(in srgb, var(--bg-strong) 96%, #2d3348 4%), color-mix(in srgb, var(--bg-strong) 92%, #111624 8%));
   border-color: rgba(206, 174, 226, 0.24);
 }
 
 .theme-toggle__input:checked + .theme-toggle__track .theme-toggle__thumb {
-  transform: translateX(30px);
+  transform: translateX(38px);
   background: linear-gradient(135deg, #3f4761 0%, #1f2435 100%);
-  color: #fdfefe;
   box-shadow:
     0 10px 20px rgba(0, 0, 0, 0.26),
     inset 0 1px 0 rgba(255, 255, 255, 0.06);
@@ -498,6 +516,7 @@ a {
 .theme-toggle__input:checked + .theme-toggle__track .theme-toggle__icon--moon,
 .theme-toggle__input:not(:checked) + .theme-toggle__track .theme-toggle__icon--sun {
   color: var(--accent);
+  opacity: 1;
 }
 
 .theme-toggle__input:focus-visible + .theme-toggle__track,
