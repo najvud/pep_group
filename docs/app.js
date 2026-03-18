@@ -5,6 +5,7 @@ const DEFAULT_PAGE_SIZE = 16;
 const AUTO_REFRESH_INTERVAL_MINUTES = 5;
 const SYNC_STATUS_POLL_INTERVAL_MS = 30 * 1000;
 const INSTALL_PROMPT_STORAGE_KEY = 'pep-group-install-dismissed-v1';
+const LONG_PRESS_COPY_DELAY_MS = 650;
 
 const state = {
   catalog: null,
@@ -21,6 +22,7 @@ const state = {
   mediaRegistry: {},
   syncStatusPollId: null,
   deferredInstallPrompt: null,
+  copyToastTimeoutId: null,
 };
 
 const elements = {
@@ -56,6 +58,7 @@ const elements = {
   installPrompt: document.getElementById('installPrompt'),
   installButton: document.getElementById('installButton'),
   installDismiss: document.getElementById('installDismiss'),
+  copyToast: document.getElementById('copyToast'),
 };
 
 function escapeHtml(value) {
@@ -241,6 +244,101 @@ function setStatus(target, message) {
 
   target.classList.remove('hidden');
   target.textContent = message;
+}
+
+function showCopyToast(message = 'Скопировано') {
+  if (!elements.copyToast) return;
+
+  if (state.copyToastTimeoutId) {
+    window.clearTimeout(state.copyToastTimeoutId);
+  }
+
+  elements.copyToast.textContent = message;
+  elements.copyToast.classList.remove('hidden');
+  elements.copyToast.classList.add('is-visible');
+
+  state.copyToastTimeoutId = window.setTimeout(() => {
+    elements.copyToast.classList.remove('is-visible');
+    state.copyToastTimeoutId = window.setTimeout(() => {
+      elements.copyToast.classList.add('hidden');
+    }, 180);
+  }, 1800);
+}
+
+async function copyTextToClipboard(text) {
+  const value = String(text || '').trim();
+  if (!value) return false;
+
+  try {
+    if (navigator.clipboard?.writeText) {
+      await navigator.clipboard.writeText(value);
+      return true;
+    }
+  } catch (_) {
+    // Fallback below.
+  }
+
+  const helper = document.createElement('textarea');
+  helper.value = value;
+  helper.setAttribute('readonly', '');
+  helper.style.position = 'fixed';
+  helper.style.opacity = '0';
+  helper.style.pointerEvents = 'none';
+  document.body.appendChild(helper);
+  helper.select();
+
+  let copied = false;
+  try {
+    copied = document.execCommand('copy');
+  } catch (_) {
+    copied = false;
+  }
+
+  helper.remove();
+  return copied;
+}
+
+function attachCopyInteractions() {
+  document.querySelectorAll('[data-copy-text]').forEach((target) => {
+    let longPressTimerId = null;
+
+    const clearLongPress = () => {
+      if (longPressTimerId) {
+        window.clearTimeout(longPressTimerId);
+        longPressTimerId = null;
+      }
+    };
+
+    const copyTargetValue = async () => {
+      const copied = await copyTextToClipboard(target.dataset.copyText || target.textContent || '');
+      showCopyToast(copied ? 'Скопировано' : 'Не удалось скопировать');
+    };
+
+    target.addEventListener('contextmenu', (event) => {
+      event.preventDefault();
+      void copyTargetValue();
+    });
+
+    target.addEventListener('touchstart', () => {
+      target.dataset.copySuppressClick = '0';
+      clearLongPress();
+      longPressTimerId = window.setTimeout(() => {
+        target.dataset.copySuppressClick = '1';
+        void copyTargetValue();
+      }, LONG_PRESS_COPY_DELAY_MS);
+    }, { passive: true });
+
+    target.addEventListener('touchend', clearLongPress, { passive: true });
+    target.addEventListener('touchcancel', clearLongPress, { passive: true });
+    target.addEventListener('touchmove', clearLongPress, { passive: true });
+
+    target.addEventListener('click', (event) => {
+      if (target.dataset.copySuppressClick === '1') {
+        event.preventDefault();
+        target.dataset.copySuppressClick = '0';
+      }
+    });
+  });
 }
 
 function clearSyncStatusPolling() {
@@ -947,5 +1045,6 @@ if ('serviceWorker' in navigator) {
     .catch(() => {});
 }
 
+attachCopyInteractions();
 loadCatalog();
 maybeShowInstallPrompt();
