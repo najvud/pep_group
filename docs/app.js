@@ -277,7 +277,7 @@ function renderChannelMenu() {
     const rawLabel = channel.label || channel.channel_title || channel.channel_username || 'Channel';
     const parts = rawLabel.split('|').map((part) => part.trim()).filter(Boolean);
     const title = parts[1] || channel.menu_title || channel.channel_title || rawLabel;
-    const subtitle = parts[0] || channel.menu_subtitle || `@${channel.channel_username || 'channel'}`;
+    const subtitle = channel.menu_subtitle || parts[0] || `@${channel.channel_username || 'channel'}`;
     return `
       <button
         class="channel-tab${isActive ? ' is-active' : ''}"
@@ -308,15 +308,25 @@ function renderHeroTitle(title) {
     return `<span class="hero__title-line">${formatTextWithSoftBreaks(rawTitle)}</span>`;
   }
 
-  return parts.map((part, index) => `
+  const firstPart = parts[0] || '';
+  const secondPart = parts[1] || '';
+  const latinPattern = /[A-Za-z]/;
+  const cyrillicPattern = /[А-Яа-яЁё]/;
+  const orderedParts =
+    latinPattern.test(firstPart) && cyrillicPattern.test(secondPart)
+      ? [secondPart, firstPart]
+      : parts;
+
+  return orderedParts.map((part, index) => `
     <span class="hero__title-line${index === 0 ? ' hero__title-line--lead' : ''}">${formatTextWithSoftBreaks(part)}</span>
   `).join('');
 }
 
 function renderHeader(site, generatedAt) {
   const catalogSite = getCatalogSite();
-  const title = site.channel_title || site.site_name || catalogSite.site_name || 'Telegram Channels';
-  const description = site.site_description || catalogSite.site_description || '';
+  const activeChannel = getActiveChannelMeta();
+  const title = activeChannel?.channel_title || site.channel_title || site.site_name || catalogSite.site_name || 'Telegram Channels';
+  const description = activeChannel?.site_description || site.site_description || catalogSite.site_description || '';
   const handle = site.channel_username ? `@${site.channel_username}` : '@channel';
   const avatarSrc = resolveHeroAvatar(site);
   const fallbackAvatar = catalogSite.avatar_path || 'assets/channel-avatar.jpg';

@@ -103,9 +103,9 @@ a {
   border-radius: 22px;
   background: color-mix(in srgb, var(--bg-strong) 92%, transparent 8%);
   color: var(--muted);
-  padding: 12px 12px 14px;
+  padding: 11px 10px 12px;
   font: inherit;
-  min-height: 92px;
+  min-height: 88px;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -132,30 +132,28 @@ a {
 }
 
 .channel-tab__title {
-  display: -webkit-box;
+  display: block;
   overflow: hidden;
-  font-size: 0.96rem;
+  width: 100%;
+  font-size: 0.88rem;
   font-weight: 800;
-  line-height: 1.08;
+  line-height: 1.12;
   color: var(--text);
-  overflow-wrap: anywhere;
-  word-break: break-word;
-  -webkit-box-orient: vertical;
-  -webkit-line-clamp: 2;
+  white-space: nowrap;
+  text-overflow: ellipsis;
 }
 
 .channel-tab__subtitle {
-  display: -webkit-box;
+  display: block;
   overflow: hidden;
   margin-top: auto;
-  font-size: 0.82rem;
+  width: 100%;
+  font-size: 0.76rem;
   font-weight: 600;
   line-height: 1.2;
   color: var(--muted);
-  overflow-wrap: anywhere;
-  word-break: break-word;
-  -webkit-box-orient: vertical;
-  -webkit-line-clamp: 2;
+  white-space: nowrap;
+  text-overflow: ellipsis;
 }
 
 .channel-tab:not(.is-active):hover {
