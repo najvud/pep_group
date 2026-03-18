@@ -34,6 +34,8 @@ PAGES_DIR = CHANNEL_DATA_DIR / "pages"
 POST_DETAILS_DIR = CHANNEL_DATA_DIR / "posts"
 POSTS_MEDIA_DIR = CHANNEL_DATA_DIR / "media" / "posts"
 POSTS_THUMBS_DIR = POSTS_MEDIA_DIR / "thumbs"
+CHANNEL_MEDIA_DIR = CHANNEL_DATA_DIR / "media"
+CHANNEL_AVATAR_PATH = CHANNEL_MEDIA_DIR / "channel-avatar.jpg"
 POST_PAGES_DIR = DOCS_DIR / "channels" / CHANNEL_KEY / "posts" if CHANNEL_KEY else DOCS_DIR / "posts"
 MANIFEST_PATH = DOCS_DIR / "manifest.webmanifest"
 FEED_PAGE_SIZE = 16
@@ -243,6 +245,79 @@ def optimize_image_variants(raw_bytes: bytes, full_path: Path, thumb_path: Path)
     return changes_detected
 
 
+def optimize_single_image(raw_bytes: bytes, output_path: Path, max_size: tuple[int, int], quality: int = 86) -> bool:
+    changed_detected = False
+    try:
+        from PIL import Image, ImageOps
+
+        with Image.open(io.BytesIO(raw_bytes)) as image:
+            image = ImageOps.exif_transpose(image)
+            image.load()
+
+            if image.mode not in ("RGB", "L"):
+                background = Image.new("RGB", image.size, "white")
+                alpha = image.getchannel("A") if "A" in image.getbands() else None
+                background.paste(image.convert("RGBA"), mask=alpha)
+                image = background
+            elif image.mode == "L":
+                image = image.convert("RGB")
+
+            prepared = image.copy()
+            prepared.thumbnail(max_size)
+
+            buffer = io.BytesIO()
+            prepared.save(buffer, format="JPEG", quality=quality, optimize=True, progressive=True)
+            next_bytes = buffer.getvalue()
+    except Exception as error:  # pragma: no cover - runtime/image libs path
+        log.warning("Single image optimization fallback used: %s", error)
+        next_bytes = raw_bytes
+
+    if not output_path.exists() or output_path.read_bytes() != next_bytes:
+        output_path.parent.mkdir(parents=True, exist_ok=True)
+        output_path.write_bytes(next_bytes)
+        changed_detected = True
+
+    return changed_detected
+
+
+def parse_channel_avatar_url(html_text: str, channel_web_url: str) -> str | None:
+    patterns = [
+        r'tgme_page_photo_image[^>]+style="[^"]*url\([\'"]?([^\'")]+)',
+        r'tgme_channel_info_header_photo[^>]+style="[^"]*url\([\'"]?([^\'")]+)',
+        r'tgme_page_photo_image[^>]+src="([^"]+)"',
+        r'tgme_channel_info_header_photo[^>]+src="([^"]+)"',
+        r'<meta\s+property="og:image"\s+content="([^"]+)"',
+        r'<link\s+rel="image_src"\s+href="([^"]+)"',
+    ]
+
+    for pattern in patterns:
+        match = re.search(pattern, html_text, re.IGNORECASE)
+        if match:
+            return urljoin(channel_web_url, html_lib.unescape(match.group(1)))
+
+    return None
+
+
+def mirror_channel_avatar(config: SiteConfig, html_text: str) -> bool:
+    avatar_url = parse_channel_avatar_url(html_text, config.channel_web_url)
+    if not avatar_url:
+        return False
+
+    try:
+        raw_bytes = fetch_binary(avatar_url)
+    except Exception as error:  # pragma: no cover - network/runtime path
+        log.warning("Failed to fetch channel avatar for %s: %s", config.channel_username, error)
+        return False
+
+    changed = optimize_single_image(raw_bytes, CHANNEL_AVATAR_PATH, (512, 512), quality=90)
+    relative_avatar_path = CHANNEL_AVATAR_PATH.relative_to(DOCS_DIR).as_posix()
+    if config.avatar_path != relative_avatar_path:
+        config.avatar_path = relative_avatar_path
+        changed = True
+
+    return changed
+
+
 def mirror_post_photos(posts: list[dict[str, Any]]) -> bool:
     POSTS_MEDIA_DIR.mkdir(parents=True, exist_ok=True)
     POSTS_THUMBS_DIR.mkdir(parents=True, exist_ok=True)
@@ -429,17 +504,22 @@ def parse_posts(html_text: str, config: SiteConfig) -> list[dict[str, Any]]:
     return posts
 
 
-def collect_posts(config: SiteConfig) -> list[dict[str, Any]]:
+def collect_posts(config: SiteConfig, initial_page_html: str | None = None) -> list[dict[str, Any]]:
     posts: list[dict[str, Any]] = []
     seen_ids: set[int] = set()
     before_id: int | None = None
     now = datetime.now(timezone.utc)
     cutoff = subtract_months(now, config.recent_posts_months)
+    first_iteration = True
 
     while len(posts) < config.messages_limit:
         url = config.channel_web_url if before_id is None else f"{config.channel_web_url}?before={before_id}"
-        log.info("Fetching %s", url)
-        page_html = fetch_page(url)
+        if first_iteration and initial_page_html is not None:
+            page_html = initial_page_html
+            log.info("Using prefetched channel page %s", url)
+        else:
+            log.info("Fetching %s", url)
+            page_html = fetch_page(url)
         page_posts = parse_posts(page_html, config)
         if not page_posts:
             break
@@ -474,6 +554,7 @@ def collect_posts(config: SiteConfig) -> list[dict[str, Any]]:
             break
         if len(page_posts) < 5:
             break
+        first_iteration = False
         time.sleep(1)
 
     posts = [
@@ -907,7 +988,9 @@ def main() -> int:
     if not CHANNEL_KEY:
         write_manifest(config)
 
-    posts = collect_posts(config)
+    initial_page_html = fetch_page(config.channel_web_url)
+    avatar_changed = mirror_channel_avatar(config, initial_page_html)
+    posts = collect_posts(config, initial_page_html=initial_page_html)
     existing_payload = load_json(POSTS_PATH, {})
     if not posts and existing_payload.get("posts"):
         raise SystemExit("No posts were collected. Existing mirror data was left untouched.")
@@ -918,7 +1001,7 @@ def main() -> int:
         if post["id"] in comment_results:
             post["comments_count"] = len(comment_results[post["id"]])
 
-    changes_detected = False
+    changes_detected = avatar_changed
     active_ids = {post["id"] for post in posts}
     changes_detected = mirror_post_photos(posts) or changes_detected
     changes_detected = cleanup_removed_comment_files(active_ids) or changes_detected

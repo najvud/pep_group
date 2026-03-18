@@ -24,6 +24,15 @@ function writeJson(filePath, payload) {
   fs.writeFileSync(filePath, `${JSON.stringify(payload, null, 2)}\n`, 'utf8');
 }
 
+function resolveChannelAvatarPath(channel) {
+  const mirroredAvatarPath = path.join(channelsDataDir, channel.key, 'media', 'channel-avatar.jpg');
+  if (fs.existsSync(mirroredAvatarPath)) {
+    return `data/channels/${channel.key}/media/channel-avatar.jpg`;
+  }
+
+  return channel.avatar_path || config.avatar_path;
+}
+
 function buildChannelSite(channel) {
   return {
     channel_username: channel.channel_username,
@@ -33,7 +42,7 @@ function buildChannelSite(channel) {
     language: channel.language || config.language,
     accent_color: channel.accent_color || config.accent_color,
     background_color: channel.background_color || config.background_color,
-    avatar_path: channel.avatar_path || config.avatar_path,
+    avatar_path: resolveChannelAvatarPath(channel),
   };
 }
 
@@ -112,7 +121,7 @@ const catalog = {
     language: channel.language || config.language,
     accent_color: channel.accent_color || config.accent_color,
     background_color: channel.background_color || config.background_color,
-    avatar_path: channel.avatar_path || config.avatar_path,
+    avatar_path: resolveChannelAvatarPath(channel),
     channel_url: `https://t.me/${channel.channel_username}`,
     feed_path: `data/channels/${channel.key}/posts.json`,
   })),
