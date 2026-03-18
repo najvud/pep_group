@@ -4,7 +4,6 @@ const CHANNELS_INDEX_URL = 'data/channels/index.json';
 const DEFAULT_PAGE_SIZE = 16;
 const AUTO_REFRESH_INTERVAL_MINUTES = 5;
 const SYNC_STATUS_POLL_INTERVAL_MS = 30 * 1000;
-const INSTALL_PROMPT_STORAGE_KEY = 'pep-group-install-dismissed-v1';
 const LONG_PRESS_COPY_DELAY_MS = 650;
 
 const state = {
@@ -56,9 +55,7 @@ const elements = {
   viewerPrev: document.getElementById('viewerPrev'),
   viewerNext: document.getElementById('viewerNext'),
   viewerContent: document.getElementById('viewerContent'),
-  installPrompt: document.getElementById('installPrompt'),
-  installButton: document.getElementById('installButton'),
-  installDismiss: document.getElementById('installDismiss'),
+  installAppButton: document.getElementById('installAppButton'),
   copyToast: document.getElementById('copyToast'),
 };
 
@@ -532,28 +529,65 @@ function isStandaloneMode() {
   return window.matchMedia('(display-mode: standalone)').matches || window.navigator.standalone === true;
 }
 
-function isDesktopViewport() {
-  return window.matchMedia('(min-width: 861px)').matches;
+function isIosDevice() {
+  const userAgent = window.navigator.userAgent || '';
+  return /iphone|ipad|ipod/i.test(userAgent) || (window.navigator.platform === 'MacIntel' && window.navigator.maxTouchPoints > 1);
 }
 
-function isInstallPromptDismissed() {
-  return localStorage.getItem(INSTALL_PROMPT_STORAGE_KEY) === '1';
+function isChromiumLikeBrowser() {
+  const userAgent = window.navigator.userAgent || '';
+  return /chrome|chromium|edg/i.test(userAgent) && !/opr|opera|yaBrowser/i.test(userAgent);
 }
 
-function dismissInstallPrompt({ persist = false } = {}) {
-  if (persist) {
-    localStorage.setItem(INSTALL_PROMPT_STORAGE_KEY, '1');
+function updateInstallButtonState() {
+  if (!elements.installAppButton) return;
+
+  const installed = isStandaloneMode();
+  elements.installAppButton.classList.toggle('is-installed', installed);
+  elements.installAppButton.setAttribute('aria-label', installed ? 'Приложение уже установлено' : 'Установить приложение');
+  elements.installAppButton.setAttribute('title', installed ? 'Приложение уже установлено' : 'Установить приложение');
+}
+
+function getInstallFallbackMessage() {
+  if (isStandaloneMode()) {
+    return 'Приложение уже установлено';
   }
 
-  if (elements.installPrompt) {
-    elements.installPrompt.classList.add('hidden');
+  if (isIosDevice()) {
+    return 'Safari: Поделиться -> На экран «Домой»';
   }
+
+  if (isChromiumLikeBrowser()) {
+    return 'Если prompt не появился: меню браузера -> Установить приложение';
+  }
+
+  return 'Установка доступна в Chrome или Edge';
 }
 
-function maybeShowInstallPrompt() {
-  if (!elements.installPrompt || !state.deferredInstallPrompt) return;
-  if (isStandaloneMode() || !isDesktopViewport() || isInstallPromptDismissed()) return;
-  elements.installPrompt.classList.remove('hidden');
+async function handleInstallButtonClick() {
+  if (isStandaloneMode()) {
+    showCopyToast('Приложение уже установлено');
+    return;
+  }
+
+  if (!state.deferredInstallPrompt) {
+    showCopyToast(getInstallFallbackMessage());
+    return;
+  }
+
+  const promptEvent = state.deferredInstallPrompt;
+  state.deferredInstallPrompt = null;
+
+  await promptEvent.prompt();
+  const choice = await promptEvent.userChoice;
+
+  if (choice.outcome === 'accepted') {
+    showCopyToast('Установка запущена');
+  } else {
+    showCopyToast('Установка отменена');
+  }
+
+  updateInstallButtonState();
 }
 
 function getLastScheduledSyncTime(reference = new Date()) {
@@ -1191,26 +1225,9 @@ elements.channelAvatar.addEventListener('error', () => {
   elements.channelAvatar.src = fallbackSrc;
 });
 
-if (elements.installButton) {
-  elements.installButton.addEventListener('click', async () => {
-    if (!state.deferredInstallPrompt) return;
-
-    const promptEvent = state.deferredInstallPrompt;
-    state.deferredInstallPrompt = null;
-    elements.installPrompt.classList.add('hidden');
-
-    await promptEvent.prompt();
-    const choice = await promptEvent.userChoice;
-
-    if (choice.outcome !== 'accepted') {
-      dismissInstallPrompt({ persist: true });
-    }
-  });
-}
-
-if (elements.installDismiss) {
-  elements.installDismiss.addEventListener('click', () => {
-    dismissInstallPrompt({ persist: true });
+if (elements.installAppButton) {
+  elements.installAppButton.addEventListener('click', () => {
+    void handleInstallButtonClick();
   });
 }
 
@@ -1219,13 +1236,13 @@ window.addEventListener('popstate', handleLocationChange);
 window.addEventListener('beforeinstallprompt', (event) => {
   event.preventDefault();
   state.deferredInstallPrompt = event;
-  maybeShowInstallPrompt();
+  updateInstallButtonState();
 });
 window.addEventListener('appinstalled', () => {
   state.deferredInstallPrompt = null;
-  dismissInstallPrompt({ persist: true });
+  updateInstallButtonState();
+  showCopyToast('Приложение установлено');
 });
-window.addEventListener('resize', maybeShowInstallPrompt);
 window.addEventListener('keydown', (event) => {
   if (elements.viewer.classList.contains('hidden')) return;
   if (event.key === 'Escape') closeViewer();
@@ -1241,4 +1258,4 @@ if ('serviceWorker' in navigator) {
 
 attachCopyInteractions();
 loadCatalog();
-maybeShowInstallPrompt();
+updateInstallButtonState();

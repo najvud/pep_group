@@ -58,6 +58,13 @@
               <path d="M19.83 20.5v-4.17h-4.17" />
             </svg>
           </button>
+          <button id="installAppButton" class="icon-button icon-button--install" type="button" aria-label="Установить приложение" title="Установить приложение">
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M12 3.5v9.75" />
+              <path d="m8.5 10.25 3.5 3.5 3.5-3.5" />
+              <path d="M5 15.75v1.75A2.5 2.5 0 0 0 7.5 20h9A2.5 2.5 0 0 0 19 17.5v-1.75" />
+            </svg>
+          </button>
           <label class="theme-toggle" for="themeToggle" aria-label="Переключить тему">
             <input id="themeToggle" class="theme-toggle__input" type="checkbox" aria-label="Темная тема">
             <span class="theme-toggle__track">
@@ -161,17 +168,6 @@
   </div>
 
   <div id="copyToast" class="copy-toast hidden" aria-live="polite">Скопировано</div>
-
-  <div id="installPrompt" class="install-prompt hidden" aria-live="polite">
-    <div class="install-prompt__copy">
-      <strong>Установить desktop-версию</strong>
-      <span>Открывайте ленту как отдельное приложение с рабочего стола.</span>
-    </div>
-    <div class="install-prompt__actions">
-      <button id="installButton" class="button button--primary" type="button">Установить</button>
-      <button id="installDismiss" class="install-prompt__dismiss" type="button" aria-label="Закрыть">×</button>
-    </div>
-  </div>
 
   <div id="viewer" class="viewer hidden" aria-hidden="true">
     <button id="viewerClose" class="viewer__close" type="button" aria-label="Закрыть">×</button>
