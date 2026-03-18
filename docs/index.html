@@ -125,6 +125,17 @@
     </main>
   </div>
 
+  <div id="installPrompt" class="install-prompt hidden" aria-live="polite">
+    <div class="install-prompt__copy">
+      <strong>Установить desktop-версию</strong>
+      <span>Открывайте ленту как отдельное приложение с рабочего стола.</span>
+    </div>
+    <div class="install-prompt__actions">
+      <button id="installButton" class="button button--primary" type="button">Установить</button>
+      <button id="installDismiss" class="install-prompt__dismiss" type="button" aria-label="Закрыть">×</button>
+    </div>
+  </div>
+
   <div id="viewer" class="viewer hidden" aria-hidden="true">
     <button id="viewerClose" class="viewer__close" type="button" aria-label="Закрыть">×</button>
     <button id="viewerPrev" class="viewer__nav hidden" type="button" aria-label="Назад">‹</button>

@@ -1,9 +1,15 @@
 {
+  "id": "./",
   "name": "Pepeliaev Group | Практики",
   "short_name": "PG Channels",
   "description": "Зеркало Telegram-каналов практик «Пепеляев Групп». Выберите нужное направление в верхнем меню.",
   "start_url": "./",
+  "scope": "./",
   "display": "standalone",
+  "display_override": [
+    "standalone",
+    "minimal-ui"
+  ],
   "background_color": "#f5f7fa",
   "theme_color": "#91278d",
   "lang": "ru",

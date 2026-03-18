@@ -89,11 +89,14 @@ ensureDir(channelsDataDir);
 const appIconPath = resolveAppIconPath();
 
 const manifest = {
+  id: './',
   name: config.site_name,
   short_name: config.short_name || config.site_name.slice(0, 12),
   description: config.site_description,
   start_url: './',
+  scope: './',
   display: 'standalone',
+  display_override: ['standalone', 'minimal-ui'],
   background_color: config.background_color,
   theme_color: config.accent_color,
   lang: config.language,
