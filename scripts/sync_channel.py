@@ -197,6 +197,15 @@ def resolve_avatar_path(config: SiteConfig) -> str:
     return build_telegram_avatar_url(config.channel_username)
 
 
+def get_telegram_session_credentials() -> tuple[str, str, str] | None:
+    api_id = os.environ.get("TELEGRAM_API_ID")
+    api_hash = os.environ.get("TELEGRAM_API_HASH")
+    session_string = os.environ.get("TELEGRAM_SESSION_STR")
+    if not all((api_id, api_hash, session_string)):
+        return None
+    return api_id, api_hash, session_string
+
+
 def parse_iso_datetime(value: str | None) -> datetime | None:
     if not value:
         return None
@@ -352,14 +361,16 @@ def mirror_channel_avatar(config: SiteConfig, html_text: str) -> bool:
     return changed
 
 
-def mirror_post_photos(posts: list[dict[str, Any]]) -> bool:
+def mirror_post_photos(posts: list[dict[str, Any]], photo_overrides: dict[int, list[bytes]] | None = None) -> bool:
     POSTS_MEDIA_DIR.mkdir(parents=True, exist_ok=True)
     POSTS_THUMBS_DIR.mkdir(parents=True, exist_ok=True)
     active_relative_paths: set[str] = set()
     changes_detected = False
+    photo_overrides = photo_overrides or {}
 
     for post in posts:
         mirrored_photos: list[dict[str, str]] = []
+        post_photo_overrides = photo_overrides.get(post["id"], [])
 
         for index, raw_photo in enumerate(post.get("photos") or []):
             photo = normalize_photo_entry(raw_photo)
@@ -367,20 +378,22 @@ def mirror_post_photos(posts: list[dict[str, Any]]) -> bool:
                 continue
 
             full_source = photo["full_url"]
-            if not re.match(r"^https?://", full_source):
+            override_bytes = post_photo_overrides[index] if index < len(post_photo_overrides) else None
+            if not override_bytes and not re.match(r"^https?://", full_source):
                 active_relative_paths.add(full_source)
                 active_relative_paths.add(photo["thumb_url"])
                 mirrored_photos.append(photo)
                 continue
 
-            digest = hashlib.sha256(full_source.encode("utf-8")).hexdigest()[:12]
+            digest_source = override_bytes if override_bytes else full_source.encode("utf-8")
+            digest = hashlib.sha256(digest_source).hexdigest()[:12]
             filename = f"{post['id']}-{index + 1}-{digest}-{IMAGE_VARIANT_VERSION}.jpg"
             full_path = POSTS_MEDIA_DIR / filename
             thumb_path = POSTS_THUMBS_DIR / filename
 
             try:
                 if not full_path.exists() or not thumb_path.exists():
-                    raw_bytes = fetch_binary(full_source)
+                    raw_bytes = override_bytes or fetch_binary(full_source)
                     if optimize_image_variants(raw_bytes, full_path, thumb_path):
                         log.info("Prepared image variants for post %s", post["id"])
                         changes_detected = True
@@ -680,14 +693,70 @@ def select_posts_for_comment_refresh(posts: list[dict[str, Any]], config: SiteCo
     return selected
 
 
-async def fetch_comments_for_posts(config: SiteConfig, posts: list[dict[str, Any]]) -> tuple[bool, dict[int, list[dict[str, Any]]]]:
-    api_id = os.environ.get("TELEGRAM_API_ID")
-    api_hash = os.environ.get("TELEGRAM_API_HASH")
-    session_string = os.environ.get("TELEGRAM_SESSION_STR")
+def select_posts_for_high_res_media(posts: list[dict[str, Any]]) -> list[int]:
+    selected: list[int] = []
+    for index, post in enumerate(posts):
+        if index >= FEED_PAGE_SIZE * 2:
+            break
+        if post.get("video_url"):
+            continue
+        photos = post.get("photos") or []
+        if len(photos) != 1:
+            continue
+        selected.append(post["id"])
+    return selected
 
-    if not all((api_id, api_hash, session_string)):
+
+async def fetch_high_res_photos_for_posts(config: SiteConfig, posts: list[dict[str, Any]]) -> dict[int, list[bytes]]:
+    credentials = get_telegram_session_credentials()
+    if not credentials:
+        log.info("Telegram user session is not configured. High-resolution media sync skipped.")
+        return {}
+
+    api_id, api_hash, session_string = credentials
+
+    from telethon import TelegramClient
+    from telethon.sessions import StringSession
+
+    selected_ids = select_posts_for_high_res_media(posts)
+    if not selected_ids:
+        return {}
+
+    log.info("Refreshing high-resolution media for %s posts", len(selected_ids))
+    results: dict[int, list[bytes]] = {}
+
+    async with TelegramClient(StringSession(session_string), int(api_id), api_hash) as client:
+        if not await client.is_user_authorized():
+            raise RuntimeError("TELEGRAM_SESSION_STR is not authorized.")
+
+        channel = await client.get_entity(config.channel_username)
+
+        for post_id in selected_ids:
+            try:
+                message = await client.get_messages(channel, ids=post_id)
+                if not message or not getattr(message, "photo", None):
+                    continue
+
+                raw_bytes = await client.download_media(message.photo, file=bytes)
+                if not raw_bytes:
+                    continue
+
+                results[post_id] = [raw_bytes]
+                log.info("Fetched high-resolution media for post %s", post_id)
+            except Exception as error:  # pragma: no cover - network/runtime path
+                log.warning("High-resolution media sync failed on post %s: %s", post_id, error)
+
+            await asyncio.sleep(0.15)
+
+    return results
+
+
+async def fetch_comments_for_posts(config: SiteConfig, posts: list[dict[str, Any]]) -> tuple[bool, dict[int, list[dict[str, Any]]]]:
+    credentials = get_telegram_session_credentials()
+    if not credentials:
         log.info("Telegram user session is not configured. Comment sync skipped.")
         return False, {}
+    api_id, api_hash, session_string = credentials
 
     from telethon import TelegramClient
     from telethon.errors import ChannelPrivateError, MsgIdInvalidError, RPCError
@@ -1102,6 +1171,7 @@ def main() -> int:
         log.warning("No posts were collected for @%s. Existing mirror data was left untouched.", config.channel_username)
         return 0
 
+    photo_overrides = asyncio.run(fetch_high_res_photos_for_posts(config, posts))
     comments_enabled, comment_results = asyncio.run(fetch_comments_for_posts(config, posts))
 
     for post in posts:
@@ -1110,7 +1180,7 @@ def main() -> int:
 
     changes_detected = avatar_changed
     active_ids = {post["id"] for post in posts}
-    changes_detected = mirror_post_photos(posts) or changes_detected
+    changes_detected = mirror_post_photos(posts, photo_overrides=photo_overrides) or changes_detected
     changes_detected = cleanup_removed_comment_files(active_ids) or changes_detected
 
     for post_id, comments in comment_results.items():
