@@ -10,6 +10,7 @@ on:
     paths:
       - ".github/workflows/sync.yml"
       - "config/channels.json"
+      - "ops/sync-trigger.json"
       - "scripts/**"
       - "requirements.txt"
 
