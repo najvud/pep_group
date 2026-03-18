@@ -45,6 +45,7 @@ BASE_HEADERS = {
     "User-Agent": "Mozilla/5.0 (compatible; TelegramPagesMirror/1.0)",
     "Accept-Language": "ru-RU,ru;q=0.9,en;q=0.8",
 }
+FETCH_RETRY_DELAYS = (1.0, 2.5, 5.0)
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
 log = logging.getLogger("telegram-pages-mirror")
@@ -148,22 +149,38 @@ def load_config() -> SiteConfig:
     return config
 
 
+def fetch_url(url: str, *, binary: bool = False) -> str | bytes:
+    headers = BASE_HEADERS if not binary else {
+        **BASE_HEADERS,
+        "Accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    }
+
+    last_error: Exception | None = None
+    for attempt, delay in enumerate((0.0, *FETCH_RETRY_DELAYS), start=1):
+        if delay:
+            time.sleep(delay)
+
+        try:
+            request = Request(url, headers=headers)
+            with urlopen(request, timeout=30) as response:
+                payload = response.read()
+                return payload if binary else payload.decode("utf-8", errors="replace")
+        except Exception as error:  # pragma: no cover - network/runtime path
+            last_error = error
+            log.warning("Fetch attempt %s failed for %s: %s", attempt, url, error)
+
+    if last_error:
+        raise last_error
+
+    raise RuntimeError(f"Unable to fetch {url}")
+
+
 def fetch_page(url: str) -> str:
-    request = Request(url, headers=BASE_HEADERS)
-    with urlopen(request, timeout=30) as response:
-        return response.read().decode("utf-8", errors="replace")
+    return str(fetch_url(url, binary=False))
 
 
 def fetch_binary(url: str) -> bytes:
-    request = Request(
-        url,
-        headers={
-            **BASE_HEADERS,
-            "Accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
-        },
-    )
-    with urlopen(request, timeout=30) as response:
-        return response.read()
+    return bytes(fetch_url(url, binary=True))
 
 
 def build_telegram_avatar_url(channel_username: str) -> str:
@@ -533,7 +550,11 @@ def collect_posts(config: SiteConfig, initial_page_html: str | None = None) -> l
             log.info("Using prefetched channel page %s", url)
         else:
             log.info("Fetching %s", url)
-            page_html = fetch_page(url)
+            try:
+                page_html = fetch_page(url)
+            except Exception as error:  # pragma: no cover - network/runtime path
+                log.warning("Failed to fetch paginated channel page %s: %s", url, error)
+                break
         page_posts = parse_posts(page_html, config)
         if not page_posts:
             break
@@ -1003,7 +1024,18 @@ def main() -> int:
         write_manifest(config)
 
     existing_payload = load_json(POSTS_PATH, {})
-    initial_page_html = fetch_page(config.channel_web_url)
+    try:
+        initial_page_html = fetch_page(config.channel_web_url)
+    except Exception as error:  # pragma: no cover - network/runtime path
+        if existing_payload.get("posts"):
+            log.warning(
+                "Failed to fetch initial page for @%s. Keeping existing mirror data: %s",
+                config.channel_username,
+                error,
+            )
+            return 0
+        raise
+
     avatar_changed = mirror_channel_avatar(config, initial_page_html)
     posts = collect_posts(config, initial_page_html=initial_page_html)
     if not posts and existing_payload.get("posts"):
