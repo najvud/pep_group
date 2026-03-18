@@ -1236,8 +1236,8 @@ a {
 
   .post-card__media:not(.post-card__media--gallery) img,
   .post-card__media:not(.post-card__media--gallery) video {
-    height: clamp(240px, 74vw, 420px);
-    max-height: 420px;
+    height: auto;
+    max-height: none;
   }
 
   .post-card__media--gallery {
