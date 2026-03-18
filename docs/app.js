@@ -5,7 +5,7 @@ const DEFAULT_PAGE_SIZE = 16;
 const AUTO_REFRESH_INTERVAL_MINUTES = 5;
 const SYNC_STATUS_POLL_INTERVAL_MS = 30 * 1000;
 const LONG_PRESS_COPY_DELAY_MS = 650;
-const CHANNEL_CAROUSEL_TRANSITION_MS = 420;
+const CHANNEL_CAROUSEL_TRANSITION_MS = 560;
 
 const state = {
   catalog: null,
@@ -588,7 +588,7 @@ function isMobileCarouselViewport() {
 
 function getChannelCarouselTransitionDuration() {
   const url = new URL(window.location.href);
-  return url.searchParams.get('autotest') === 'carousel' ? 820 : CHANNEL_CAROUSEL_TRANSITION_MS;
+  return url.searchParams.get('autotest') === 'carousel' ? 980 : CHANNEL_CAROUSEL_TRANSITION_MS;
 }
 
 function getChannelCarouselSlideDistance(stage) {
@@ -739,7 +739,7 @@ function scheduleChannelCarouselAutotest() {
       `animating:${animating}`,
     ].join('|');
     state.channelCarouselAutotest.running = false;
-  }, 1650);
+  }, 1900);
 }
 
 function animateChannelCarouselTransition(stage, currentSurface, nextSurface, direction) {
@@ -752,7 +752,7 @@ function animateChannelCarouselTransition(stage, currentSurface, nextSurface, di
   const transitionDuration = getChannelCarouselTransitionDuration();
   const enterOffset = direction === 'next' ? slideDistance : -slideDistance;
   const exitOffset = -enterOffset;
-  const easing = 'cubic-bezier(0.16, 1, 0.3, 1)';
+  const easing = 'cubic-bezier(0.22, 0.88, 0.24, 1)';
   const currentOffset = getChannelCarouselTransformX(currentSurface);
 
   stage.querySelectorAll('.channel-carousel__surface').forEach((surface) => {
