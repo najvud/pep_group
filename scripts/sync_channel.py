@@ -567,6 +567,11 @@ def choose_better_preview_bytes(current_bytes: bytes | None, candidate_bytes: by
     current_area = current_width * current_height
     candidate_area = candidate_width * candidate_height
 
+    if candidate_area == current_area:
+        if len(candidate_bytes) > len(current_bytes) * 1.35:
+            return candidate_bytes
+        return None
+
     if candidate_area <= current_area:
         return None
 
@@ -578,6 +583,72 @@ def choose_better_preview_bytes(current_bytes: bytes | None, candidate_bytes: by
         return None
 
     return candidate_bytes
+
+
+def build_post_media_page_urls(post: dict[str, Any]) -> list[str]:
+    tg_url = (post.get("tg_url") or "").strip()
+    if not tg_url.startswith("https://t.me/"):
+        return []
+
+    variants = [
+        tg_url,
+        f"{tg_url}?single",
+        tg_url.replace("https://t.me/", "https://t.me/s/", 1),
+        f"{tg_url.replace('https://t.me/', 'https://t.me/s/', 1)}?single",
+    ]
+
+    urls: list[str] = []
+    seen: set[str] = set()
+    for url in variants:
+        if url in seen:
+            continue
+        seen.add(url)
+        urls.append(url)
+
+    return urls
+
+
+def extract_telegram_page_photo_urls(page_html: str, page_url: str) -> list[str]:
+    urls = [
+        urljoin(page_url, html_lib.unescape(url))
+        for url in re.findall(r"tgme_widget_message_photo_wrap[^>]+url\('([^']+)'\)", page_html)
+    ]
+    if urls:
+        return urls
+
+    link_preview_match = re.search(r"link_preview_image[^>]+url\('([^']+)'\)", page_html)
+    if link_preview_match:
+        return [urljoin(page_url, html_lib.unescape(link_preview_match.group(1)))]
+
+    return []
+
+
+def fetch_telegram_post_page_override(post: dict[str, Any], current_bytes: bytes | None = None) -> bytes | None:
+    photos = post.get("photos") or []
+    if len(photos) != 1:
+        return None
+
+    for page_url in build_post_media_page_urls(post):
+        try:
+            page_html = fetch_page(page_url)
+        except Exception as error:  # pragma: no cover - network/runtime path
+            log.warning("Failed to fetch Telegram post page for post %s: %s", post.get("id"), error)
+            continue
+
+        photo_urls = extract_telegram_page_photo_urls(page_html, page_url)
+        for photo_url in photo_urls:
+            try:
+                candidate_bytes = fetch_binary(photo_url)
+            except Exception as error:  # pragma: no cover - network/runtime path
+                log.warning("Failed to fetch Telegram post media for post %s: %s", post.get("id"), error)
+                continue
+
+            preferred_bytes = choose_better_preview_bytes(current_bytes, candidate_bytes)
+            if preferred_bytes:
+                log.info("Using dedicated Telegram post media for post %s from %s", post.get("id"), page_url)
+                return preferred_bytes
+
+    return None
 
 
 def fetch_external_preview_override(post: dict[str, Any], current_bytes: bytes | None = None) -> bytes | None:
@@ -927,6 +998,11 @@ async def fetch_high_res_photos_for_posts(config: SiteConfig, posts: list[dict[s
             except Exception as error:  # pragma: no cover - network/runtime path
                 log.warning("Failed to fetch current preview for post %s: %s", post_id, error)
                 current_bytes = None
+
+        telegram_page_override = fetch_telegram_post_page_override(post, current_bytes=current_bytes)
+        if telegram_page_override:
+            results[post_id] = [telegram_page_override]
+            current_bytes = telegram_page_override
 
         external_override = fetch_external_preview_override(post, current_bytes=current_bytes)
         if external_override:
