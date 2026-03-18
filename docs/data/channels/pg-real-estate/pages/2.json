@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17T22:41:40.624Z",
+  "generated_at": "2026-03-18T10:19:34.568531+00:00",
   "pagination": {
     "page": 2,
     "page_size": 16,
@@ -17,13 +17,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-real-estate/media/posts/thumbs/205-1-a502295a63be-v2.jpg",
-          "full_url": "data/channels/pg-real-estate/media/posts/205-1-a502295a63be-v2.jpg"
+          "thumb_url": "data/channels/pg-real-estate/media/posts/thumbs/205-1-fd3f240b8aeb-v2.jpg",
+          "full_url": "data/channels/pg-real-estate/media/posts/205-1-fd3f240b8aeb-v2.jpg"
         }
       ],
       "video_url": null,
-      "tg_url": "https://t.me/PG_RealEstate/205",
-      "permalink": "channels/pg-real-estate/posts/205/"
+      "tg_url": "https://t.me/PG_RealEstate/205"
     },
     {
       "id": 203,
@@ -35,8 +34,7 @@
       "comments_url": null,
       "photos": [],
       "video_url": null,
-      "tg_url": "https://t.me/PG_RealEstate/203",
-      "permalink": "channels/pg-real-estate/posts/203/"
+      "tg_url": "https://t.me/PG_RealEstate/203"
     },
     {
       "id": 202,
@@ -48,13 +46,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-real-estate/media/posts/thumbs/202-1-1c1329fee6d0-v2.jpg",
-          "full_url": "data/channels/pg-real-estate/media/posts/202-1-1c1329fee6d0-v2.jpg"
+          "thumb_url": "data/channels/pg-real-estate/media/posts/thumbs/202-1-6df2cd9e446a-v2.jpg",
+          "full_url": "data/channels/pg-real-estate/media/posts/202-1-6df2cd9e446a-v2.jpg"
         }
       ],
       "video_url": null,
-      "tg_url": "https://t.me/PG_RealEstate/202",
-      "permalink": "channels/pg-real-estate/posts/202/"
+      "tg_url": "https://t.me/PG_RealEstate/202"
     },
     {
       "id": 201,
@@ -65,9 +62,8 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/78dea8eadf.mov?token=jNERMABTY9yPI-tTqOzN3QfplQckdRovEsJlsCgjzpdCZ0Y26Q394iqPJuUZylX0PdoSsXRmWTiDs1QQg3UGm9PoAKBg3SUTzTLCf7a032Mk3XKXeGgjtWQWv8CGrkfbh_-SfKNPNEmr34uzCJeqFdnPQkkCfgZffCPi0Ge_SlVVQr1M7LwYWrfwhstrShimumRIHpKCQLjh7jYsqchPXtyLDGtP0N8moJ4Yi4cywzt-QOVTA2I-SUyvQ5lJRJY5aZxGkvcYK_rF8dmnVi1yTnhTjWYoOk6KMaOrSvkS1E4iAJpJQhPZ0zlOPBvdvCcjZ5kG2d-Gv1de-s58jS9drklGCiwlitEXw5BTtmTwucwzSEol7Ht_g876obTUKWK69jNCiqBNLzaw4FJzgO28EFGj_5R-131-JGi7sccgr-dW1Bqq06Sx3rJoQXRD1HaMaGc2dId7sH_9HY771p-wOObeheR71_OC02UrCFHLS0tYWar3JZge29SmZSxGR1utV8x4JgGO36p1GPtnJZYZnG65AaBeQD2eJJFItCqi1TS3IjdKDpG6aggBleKzzslqjaL4vZ8toeoiXG-2hgvm5tGGYXcyUsJ0Ra_lLSBPM1_x6eSz8w-P5Z835cTiVvGHOypofDy1g4_UOvoxZEzwLwLgGaipVwioheBdhpfuV9I",
-      "tg_url": "https://t.me/PG_RealEstate/201",
-      "permalink": "channels/pg-real-estate/posts/201/"
+      "video_url": "https://cdn4.telesco.pe/file/78dea8eadf.mov?token=jNERMABTY9yPI-tTqOzN3QfplQckdRovEsJlsCgjzpdCZ0Y26Q394iqPJuUZylX0PdoSsXRmWTiDs1QQg3UGm9PoAKBg3SUTzTLCf7a032Mk3XKXeGgjtWQWv8CGrkfbh_-SfKNPNEmr34uzCJeqFdnPQkkCfgZffCPi0Ge_SlVVQr1M7LwYWrfwhstrShimumRIHpKCQLjh7jYsqchPXtyLDGtP0N8moJ4Yi4cywzt-QOVTA2I-SUyvQ5lJRJY5aZxGkvcYK_rF8dmnVi1yTnhTjWYoOk6KMaOrSvkS1E4iAJpJQhPZ0zlOPBvdvCcjZ5kG2d-Gv1de-s58jS9drjnuAJ2Rzywd40LtnQ1UBZFAGlUA7RzPYcj0YqiWm9YUHsS3JvpZxjAzbK1Byi9ve4HgSUUKsmEkWuoZRt8pZiP4xSVsOQ-jNCmE5wuo8U6PHWFqCmbFKI_0FfTiffQFpgI8Doz29eCE7taeWcMP84EfPIIpnTEMPWSf3XYQU5smjovXsW7qHAqGtgciSkp1YWqLzQrhaf9xsr8jtx8Tzakn1IlLTcC1mFyN78QLbDlSv6jU5FHGMrvsm_vCkiqMyfWvW8RCz5dJxydkXSZxtXsLgwfAL506Nj79ElxeTsMSMPTdRMwTDzmNdvcMRpc4umlvAhoXsE4fGwJ-ZVz5q_s",
+      "tg_url": "https://t.me/PG_RealEstate/201"
     },
     {
       "id": 200,
@@ -79,13 +75,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-real-estate/media/posts/thumbs/200-1-8fc4ea3b7d52-v2.jpg",
-          "full_url": "data/channels/pg-real-estate/media/posts/200-1-8fc4ea3b7d52-v2.jpg"
+          "thumb_url": "data/channels/pg-real-estate/media/posts/thumbs/200-1-086ac640c2d2-v2.jpg",
+          "full_url": "data/channels/pg-real-estate/media/posts/200-1-086ac640c2d2-v2.jpg"
         }
       ],
       "video_url": null,
-      "tg_url": "https://t.me/PG_RealEstate/200",
-      "permalink": "channels/pg-real-estate/posts/200/"
+      "tg_url": "https://t.me/PG_RealEstate/200"
     },
     {
       "id": 199,
@@ -97,13 +92,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-real-estate/media/posts/thumbs/199-1-fd6e6a61cf4e-v2.jpg",
-          "full_url": "data/channels/pg-real-estate/media/posts/199-1-fd6e6a61cf4e-v2.jpg"
+          "thumb_url": "data/channels/pg-real-estate/media/posts/thumbs/199-1-ae825f0f2d97-v2.jpg",
+          "full_url": "data/channels/pg-real-estate/media/posts/199-1-ae825f0f2d97-v2.jpg"
         }
       ],
       "video_url": null,
-      "tg_url": "https://t.me/PG_RealEstate/199",
-      "permalink": "channels/pg-real-estate/posts/199/"
+      "tg_url": "https://t.me/PG_RealEstate/199"
     },
     {
       "id": 197,
@@ -115,13 +109,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-real-estate/media/posts/thumbs/197-1-8461d07cbece-v2.jpg",
-          "full_url": "data/channels/pg-real-estate/media/posts/197-1-8461d07cbece-v2.jpg"
+          "thumb_url": "data/channels/pg-real-estate/media/posts/thumbs/197-1-455a06d42da0-v2.jpg",
+          "full_url": "data/channels/pg-real-estate/media/posts/197-1-455a06d42da0-v2.jpg"
         }
       ],
       "video_url": null,
-      "tg_url": "https://t.me/PG_RealEstate/197",
-      "permalink": "channels/pg-real-estate/posts/197/"
+      "tg_url": "https://t.me/PG_RealEstate/197"
     }
   ]
 }

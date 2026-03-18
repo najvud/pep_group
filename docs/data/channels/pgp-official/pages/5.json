@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17T22:41:40.624Z",
+  "generated_at": "2026-03-18T10:18:16.944639+00:00",
   "pagination": {
     "page": 5,
     "page_size": 16,
@@ -7,6 +7,18 @@
     "total_pages": 5
   },
   "posts": [
+    {
+      "id": 1662,
+      "date": "2025-12-31T08:59:54+00:00",
+      "text": "🎁 Дорогие друзья,\nПодходит к концу 2025 год, полный ярких событий, важных открытий, а иногда и сложных решений. \n\nЭтот год мы прошли вместе – через дела, встречи, разговоры, где было место и работе, и простому человеческому теплу.\n\nМы гордимся тем, что за профессиональными задачами сохраняем главное: отношения, в которых есть доверие, уважение и дружеская поддержка.\n\nПусть новый год принесет вам ощущение гармонии и уверенности. Пусть в доме звучит смех, в сердце живет спокойствие, а в делах – порядок и успех.\n\n ❤️ А мы, как всегда, рядом, чтобы помочь, поддержать и разделить с вами радость новых свершений.\n\nС Новым годом!\nКоманда «Пепеляев Групп» ❄️🎄",
+      "text_html": "🎁 Дорогие друзья,<br>Подходит к концу 2025 год, полный ярких событий, важных открытий, а иногда и сложных решений. <br><br>Этот год мы прошли вместе – через дела, встречи, разговоры, где было место и работе, и простому человеческому теплу.<br><br>Мы гордимся тем, что за профессиональными задачами сохраняем главное: отношения, в которых есть доверие, уважение и дружеская поддержка.<br><br>Пусть новый год принесет вам ощущение гармонии и уверенности. Пусть в доме звучит смех, в сердце живет спокойствие, а в делах – порядок и успех.<br><br> ❤️ А мы, как всегда, рядом, чтобы помочь, поддержать и разделить с вами радость новых свершений.<br><br>С Новым годом!<br>Команда «Пепеляев Групп» ❄️🎄",
+      "views": 7790,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [],
+      "video_url": "https://cdn4.telesco.pe/file/78dea8eadf.mov?token=jNERMABTY9yPI-tTqOzN3QfplQckdRovEsJlsCgjzpdCZ0Y26Q394iqPJuUZylX0PdoSsXRmWTiDs1QQg3UGm9PoAKBg3SUTzTLCf7a032Mk3XKXeGgjtWQWv8CGrkfbh_-SfKNPNEmr34uzCJeqFdnPQkkCfgZffCPi0Ge_SlVVQr1M7LwYWrfwhstrShimumRIHpKCQLjh7jYsqchPXtyLDGtP0N8moJ4Yi4cywzt-QOVTA2I-SUyvQ5lJRJY5aZxGkvcYK_rF8dmnVi1yTnhTjWYoOk6KMaOrSvkS1E4iAJpJQhPZ0zlOPBvdvCcjZ5kG2d-Gv1de-s58jS9drkxHXyt7Lyk__PdZ42McykLpYOkR0KVIOFskw2nbbV5QVDtDq7udffthxupmI-vuUGssyY4X3jTgipdE7NQfOGtxP5KmKDBbUNVvM6HvgiK3b2CXFsu3jKkTBDqfU3wLQNuRdWlwgxA1NHik99tYI0jaPUaYiqdgTzEolFS4aaW7Nmgxn3IDYt0RUy_qUOnUy47GWzPZqgZ_45HM9pXS6rY_Tzu2ZUh6N1XjyKHmPLRCR2M21FlSDsmfKGIrviZmFS2RA3XtV2naNm1-S6lT_ty-leU-OVG5Ko8Lp7-yFw2IFEcxIwRofhbqq-J4qifsgNPjMnaBjFXopLG9h9tDLvc",
+      "tg_url": "https://t.me/pgp_official/1662"
+    },
     {
       "id": 1661,
       "date": "2025-12-30T11:59:54+00:00",
@@ -17,13 +29,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1661-1-ffbd7ba32f77-v2.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1661-1-ffbd7ba32f77-v2.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1661-1-af1fee4b95ec-v2.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1661-1-af1fee4b95ec-v2.jpg"
         }
       ],
       "video_url": null,
-      "tg_url": "https://t.me/pgp_official/1661",
-      "permalink": "channels/pgp-official/posts/1661/"
+      "tg_url": "https://t.me/pgp_official/1661"
     },
     {
       "id": 1660,
@@ -35,13 +46,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1660-1-48bda2d7081f-v2.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1660-1-48bda2d7081f-v2.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1660-1-3b77180d3b2d-v2.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1660-1-3b77180d3b2d-v2.jpg"
         }
       ],
       "video_url": null,
-      "tg_url": "https://t.me/pgp_official/1660",
-      "permalink": "channels/pgp-official/posts/1660/"
+      "tg_url": "https://t.me/pgp_official/1660"
     },
     {
       "id": 1659,
@@ -53,13 +63,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1659-1-f33cb1cfc2bd-v2.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1659-1-f33cb1cfc2bd-v2.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1659-1-677524b906b9-v2.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1659-1-677524b906b9-v2.jpg"
         }
       ],
       "video_url": null,
-      "tg_url": "https://t.me/pgp_official/1659",
-      "permalink": "channels/pgp-official/posts/1659/"
+      "tg_url": "https://t.me/pgp_official/1659"
     },
     {
       "id": 1658,
@@ -71,13 +80,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1658-1-e760c8478a10-v2.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1658-1-e760c8478a10-v2.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1658-1-0252f52c58a6-v2.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1658-1-0252f52c58a6-v2.jpg"
         }
       ],
       "video_url": null,
-      "tg_url": "https://t.me/pgp_official/1658",
-      "permalink": "channels/pgp-official/posts/1658/"
+      "tg_url": "https://t.me/pgp_official/1658"
     },
     {
       "id": 1657,
@@ -89,13 +97,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1657-1-5844797a0d13-v2.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1657-1-5844797a0d13-v2.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1657-1-6f5ec8052fcc-v2.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1657-1-6f5ec8052fcc-v2.jpg"
         }
       ],
       "video_url": null,
-      "tg_url": "https://t.me/pgp_official/1657",
-      "permalink": "channels/pgp-official/posts/1657/"
+      "tg_url": "https://t.me/pgp_official/1657"
     },
     {
       "id": 1656,
@@ -107,13 +114,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1656-1-d8a304693225-v2.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1656-1-d8a304693225-v2.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1656-1-2c3305eaefc5-v2.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1656-1-2c3305eaefc5-v2.jpg"
         }
       ],
       "video_url": null,
-      "tg_url": "https://t.me/pgp_official/1656",
-      "permalink": "channels/pgp-official/posts/1656/"
+      "tg_url": "https://t.me/pgp_official/1656"
     },
     {
       "id": 1654,
@@ -125,17 +131,16 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1654-1-e3ec6e506cbd-v2.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1654-1-e3ec6e506cbd-v2.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1654-1-35d595d7464f-v2.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1654-1-35d595d7464f-v2.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1654-2-f0e04269d32c-v2.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1654-2-f0e04269d32c-v2.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1654-2-523182cddb1b-v2.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1654-2-523182cddb1b-v2.jpg"
         }
       ],
       "video_url": null,
-      "tg_url": "https://t.me/pgp_official/1654",
-      "permalink": "channels/pgp-official/posts/1654/"
+      "tg_url": "https://t.me/pgp_official/1654"
     },
     {
       "id": 1653,
@@ -147,31 +152,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1653-1-21172bc43039-v2.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1653-1-21172bc43039-v2.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1653-1-f01dca3859af-v2.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1653-1-f01dca3859af-v2.jpg"
         }
       ],
       "video_url": null,
-      "tg_url": "https://t.me/pgp_official/1653",
-      "permalink": "channels/pgp-official/posts/1653/"
-    },
-    {
-      "id": 1652,
-      "date": "2025-12-18T10:01:06+00:00",
-      "text": "🏢 Еженедельная подборка обзоров от практик «Пепеляев Групп»\n\nВ одном месте – изменения в налоговом праве и в мире банкротства, обзор законодательства и практики в сфере антимонопольного регулирования, \n\n▫️ Банкротство: MustRead за 11–18 декабря 2025 г. Выпуск № 301\n\n▫️ СпецИнвестРежимы в Сибири и на Дальнем Востоке. Дайджест 8–14 декабря 2025 г.\n\n▫️ Конкуренция и право. Обзор за 1–14 декабря 2025 г.\n\n▫️ Налоговые новости. Дайджест за 8–14 декабря 2025 г.\n\nСообщаем о принятых нововведениях в законодательстве:\n\n🔘 Новые требования аккредитации ИТ-компаний\n\n#pg_обзоры_недели",
-      "text_html": "🏢 Еженедельная подборка обзоров от практик «Пепеляев Групп»<br><br>В одном месте – изменения в налоговом праве и в мире банкротства, обзор законодательства и практики в сфере антимонопольного регулирования, <br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/bankruptcy-must-read/bankruptcy-must-read-18-12-25/\" target=\"_blank\" rel=\"noopener noreferrer\">Банкротство: MustRead за 11–18 декабря 2025 г. Выпуск № 301</a><br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/spec-invest-obzor/invest-news-digest-25-12-15/\" target=\"_blank\" rel=\"noopener noreferrer\">СпецИнвестРежимы в Сибири и на Дальнем Востоке. Дайджест 8–14 декабря 2025 г.</a><br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/antitrust-reviews/competition-and-law-digest-25-12-15/\" target=\"_blank\" rel=\"noopener noreferrer\">Конкуренция и право. Обзор за 1–14 декабря 2025 г.</a><br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/tax-reviews/tax-news-digest-15-12-25/\" target=\"_blank\" rel=\"noopener noreferrer\">Налоговые новости. Дайджест за 8–14 декабря 2025 г.</a><br><br>Сообщаем о принятых нововведениях в законодательстве:<br><br>🔘 <a href=\"https://www.pgplaw.ru/analytics-and-brochures/alerts/novye-trebovaniya-akkreditatsii-it-kompaniy/\" target=\"_blank\" rel=\"noopener noreferrer\">Новые требования аккредитации ИТ-компаний</a><br><br>#pg_обзоры_недели",
-      "views": 1480,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1652-1-0c44e1c0d3a9-v2.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1652-1-0c44e1c0d3a9-v2.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/pgp_official/1652",
-      "permalink": "channels/pgp-official/posts/1652/"
+      "tg_url": "https://t.me/pgp_official/1653"
     }
   ]
 }

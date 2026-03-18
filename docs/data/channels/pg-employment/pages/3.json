@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17T22:41:40.624Z",
+  "generated_at": "2026-03-18T10:20:56.738226+00:00",
   "pagination": {
     "page": 3,
     "page_size": 16,
@@ -17,8 +17,7 @@
       "comments_url": null,
       "photos": [],
       "video_url": null,
-      "tg_url": "https://t.me/pgEmployment/1915",
-      "permalink": "channels/pg-employment/posts/1915/"
+      "tg_url": "https://t.me/pgEmployment/1915"
     }
   ]
 }
