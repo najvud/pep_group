@@ -391,6 +391,77 @@ function buildMedia(post) {
   return `<div class="${galleryClass}" data-media-id="${mediaId}">${items}</div>`;
 }
 
+function getAverageEdgeColor(image) {
+  const width = image.naturalWidth || image.width;
+  const height = image.naturalHeight || image.height;
+  if (!width || !height) return null;
+
+  const canvas = document.createElement('canvas');
+  const context = canvas.getContext('2d', { willReadFrequently: true });
+  if (!context) return null;
+
+  canvas.width = 12;
+  canvas.height = 12;
+
+  try {
+    context.drawImage(image, 0, 0, canvas.width, canvas.height);
+    const { data } = context.getImageData(0, 0, canvas.width, canvas.height);
+    let red = 0;
+    let green = 0;
+    let blue = 0;
+    let alpha = 0;
+    let samples = 0;
+
+    for (let y = 0; y < canvas.height; y += 1) {
+      for (let x = 0; x < canvas.width; x += 1) {
+        const isEdge = x === 0 || y === 0 || x === canvas.width - 1 || y === canvas.height - 1;
+        if (!isEdge) continue;
+
+        const offset = (y * canvas.width + x) * 4;
+        const currentAlpha = data[offset + 3] / 255;
+        if (currentAlpha <= 0.02) continue;
+
+        red += data[offset];
+        green += data[offset + 1];
+        blue += data[offset + 2];
+        alpha += currentAlpha;
+        samples += 1;
+      }
+    }
+
+    if (!samples) return null;
+
+    const soften = (value) => Math.round(value / samples * 0.9 + 255 * 0.1);
+    const normalizedAlpha = Math.min(0.92, Math.max(0.42, alpha / samples));
+
+    return `rgba(${soften(red)}, ${soften(green)}, ${soften(blue)}, ${normalizedAlpha.toFixed(3)})`;
+  } catch {
+    return null;
+  }
+}
+
+function applyMediaFill(image) {
+  const trigger = image.closest('.media-trigger');
+  if (!trigger || trigger.dataset.fillReady === 'true') return;
+
+  const fillColor = getAverageEdgeColor(image);
+  if (!fillColor) return;
+
+  trigger.style.setProperty('--media-fill', fillColor);
+  trigger.dataset.fillReady = 'true';
+}
+
+function bindMediaFill(root) {
+  root.querySelectorAll('.media-trigger img').forEach((image) => {
+    if (image.complete) {
+      applyMediaFill(image);
+      return;
+    }
+
+    image.addEventListener('load', () => applyMediaFill(image), { once: true });
+  });
+}
+
 function resolveForwardedSource(post) {
   const forwarded = post.forwarded_from;
   if (!forwarded) return null;
@@ -448,6 +519,7 @@ function renderPostCard(post) {
   const mediaRoot = article.querySelector('[data-media-id]');
   if (mediaRoot) {
     const items = state.mediaRegistry[mediaRoot.dataset.mediaId] || [];
+    bindMediaFill(mediaRoot);
     mediaRoot.querySelectorAll('.media-trigger').forEach((button) => {
       button.addEventListener('click', () => openViewer(items, Number(button.dataset.index)));
     });
