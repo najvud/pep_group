@@ -67,7 +67,9 @@ a {
 }
 
 .channel-nav {
-  position: relative;
+  position: sticky;
+  top: 12px;
+  z-index: 40;
   margin-bottom: 18px;
   padding: 18px 18px 18px;
   border: 1px solid var(--border);
@@ -289,6 +291,18 @@ a {
   font-size: 1.05rem;
   line-height: 1.65;
   color: var(--muted);
+}
+
+.hero__description a {
+  color: var(--accent);
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.16em;
+  word-break: break-word;
+}
+
+.hero__description a:hover {
+  color: var(--accent-strong);
 }
 
 .hero__panel,
@@ -1057,6 +1071,7 @@ a {
   }
 
   .channel-nav {
+    top: 8px;
     margin-bottom: 14px;
     padding: 16px 16px 18px;
   }
@@ -1200,6 +1215,10 @@ a {
 
   .channel-tabs {
     padding: 0;
+  }
+
+  .channel-nav {
+    top: 6px;
   }
 
   .channel-tab {

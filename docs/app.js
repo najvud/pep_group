@@ -97,11 +97,38 @@ function compactNumber(value) {
   return String(number);
 }
 
-function linkifyEscaped(text) {
-  return escapeHtml(text || '').replace(
-    /(https?:\/\/[^\s<]+)/g,
-    '<a href="$1" target="_blank" rel="noopener noreferrer">$1</a>',
-  );
+function linkifyText(text) {
+  const source = String(text || '');
+  const pattern = /((?:https?:\/\/|www\.|(?:[a-zа-яё0-9-]+\.)+[a-zа-яё]{2,})(?:\/[^\s]*)?)/giu;
+
+  let lastIndex = 0;
+  let result = '';
+
+  for (const match of source.matchAll(pattern)) {
+    const matchedText = match[0];
+    const startIndex = match.index ?? 0;
+
+    result += escapeHtml(source.slice(lastIndex, startIndex));
+
+    let visibleText = matchedText;
+    let trailingPunctuation = '';
+
+    while (/[),.!?:;]$/.test(visibleText)) {
+      trailingPunctuation = visibleText.slice(-1) + trailingPunctuation;
+      visibleText = visibleText.slice(0, -1);
+    }
+
+    const href = /^(?:https?:)?\/\//i.test(visibleText)
+      ? visibleText
+      : `https://${visibleText}`;
+
+    result += `<a href="${escapeHtml(href)}" target="_blank" rel="noopener noreferrer">${escapeHtml(visibleText)}</a>`;
+    result += escapeHtml(trailingPunctuation);
+    lastIndex = startIndex + matchedText.length;
+  }
+
+  result += escapeHtml(source.slice(lastIndex));
+  return result.replace(/\r?\n/g, '<br>');
 }
 
 function normalizePhoto(photo) {
@@ -332,7 +359,7 @@ function renderHeader(site, generatedAt) {
   const fallbackAvatar = catalogSite.avatar_path || 'assets/channel-avatar.jpg';
 
   elements.siteTitle.innerHTML = renderHeroTitle(title);
-  elements.siteDescription.textContent = description;
+  elements.siteDescription.innerHTML = linkifyText(description);
   elements.channelLink.textContent = handle;
   elements.channelLink.href = site.channel_username ? `https://t.me/${site.channel_username}` : 'https://t.me';
   startSyncStatusPolling();
@@ -648,7 +675,7 @@ function showFeedView() {
 }
 
 function sanitizeCommentText(text) {
-  return linkifyEscaped(text || '').replace(/\n/g, '<br>');
+  return linkifyText(text || '');
 }
 
 function renderComment(comment) {
