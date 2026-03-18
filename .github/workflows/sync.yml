@@ -48,11 +48,22 @@ jobs:
         run: node scripts/build_site_index.mjs
 
       - name: Sync configured Telegram channels
+        id: sync_channels
+        shell: bash
         env:
           TELEGRAM_API_ID: ${{ secrets.TELEGRAM_API_ID }}
           TELEGRAM_API_HASH: ${{ secrets.TELEGRAM_API_HASH }}
           TELEGRAM_SESSION_STR: ${{ secrets.TELEGRAM_SESSION_STR }}
-        run: node scripts/sync_channels.mjs
+        run: |
+          set +e
+          node scripts/sync_channels.mjs 2>&1 | tee sync.log
+          status=${PIPESTATUS[0]}
+          echo "exit_code=$status" >> "$GITHUB_OUTPUT"
+          exit 0
+
+      - name: Write sync failure report
+        if: always()
+        run: node scripts/write_sync_failure_report.mjs "${{ steps.sync_channels.outputs.exit_code }}"
 
       - name: Show sync diagnostics
         if: always()
@@ -62,6 +73,7 @@ jobs:
           python scripts/print_sync_diagnostics.py
 
       - name: Commit and push if changed
+        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -76,3 +88,7 @@ jobs:
             git pull --rebase origin main
             git push
           fi
+
+      - name: Fail job if sync failed
+        if: steps.sync_channels.outputs.exit_code != '0'
+        run: exit 1
