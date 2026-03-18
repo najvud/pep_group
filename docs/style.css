@@ -97,6 +97,22 @@ a {
   display: none;
 }
 
+@media (max-width: 1180px) and (min-width: 861px) {
+  .channel-tabs {
+    display: flex;
+    gap: 10px;
+    overflow-x: auto;
+    scrollbar-width: none;
+    padding: 0 1px 2px;
+  }
+
+  .channel-tab {
+    flex: 0 0 150px;
+    min-width: 150px;
+    max-width: 150px;
+  }
+}
+
 .channel-tab {
   appearance: none;
   position: relative;

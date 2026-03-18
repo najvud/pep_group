@@ -548,6 +548,24 @@ function updateInstallButtonState() {
   elements.installAppButton.setAttribute('title', installed ? 'Приложение уже установлено' : 'Установить приложение');
 }
 
+function setupChannelMenuWheelScroll() {
+  if (!elements.channelMenu || elements.channelMenu.dataset.wheelScrollBound === 'true') return;
+
+  elements.channelMenu.dataset.wheelScrollBound = 'true';
+  elements.channelMenu.addEventListener('wheel', (event) => {
+    const isDesktopViewport = window.matchMedia('(min-width: 861px)').matches;
+    const hasHorizontalOverflow = elements.channelMenu.scrollWidth > elements.channelMenu.clientWidth + 2;
+    const hasVerticalIntent = Math.abs(event.deltaY) > Math.abs(event.deltaX);
+
+    if (!isDesktopViewport || !hasHorizontalOverflow || !hasVerticalIntent) {
+      return;
+    }
+
+    event.preventDefault();
+    elements.channelMenu.scrollLeft += event.deltaY;
+  }, { passive: false });
+}
+
 function getInstallFallbackMessage() {
   if (isStandaloneMode()) {
     return 'Приложение уже установлено';
@@ -1256,6 +1274,7 @@ if ('serviceWorker' in navigator) {
     .catch(() => {});
 }
 
+setupChannelMenuWheelScroll();
 attachCopyInteractions();
 loadCatalog();
 updateInstallButtonState();
