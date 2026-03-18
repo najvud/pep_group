@@ -657,27 +657,33 @@ function formatTextWithSoftBreaks(value) {
   return escapeHtml(String(value || '').trim()).replace(/([a-zа-яё])([A-ZА-ЯЁ])/g, '$1<wbr>$2');
 }
 
-function renderHeroTitle(title) {
+function getOrderedTitleParts(title) {
   const rawTitle = String(title || '').trim();
-  if (!rawTitle) return '';
+  if (!rawTitle) return [];
 
   const parts = rawTitle.split('|').map((part) => part.trim()).filter(Boolean);
   if (parts.length < 2) {
-    return `<span class="hero__title-line">${formatTextWithSoftBreaks(rawTitle)}</span>`;
+    return rawTitle ? [rawTitle] : [];
   }
 
   const firstPart = parts[0] || '';
   const secondPart = parts[1] || '';
   const latinPattern = /[A-Za-z]/;
   const cyrillicPattern = /[А-Яа-яЁё]/;
-  const orderedParts =
+  return (
     latinPattern.test(firstPart) && cyrillicPattern.test(secondPart)
       ? [secondPart, firstPart]
-      : parts;
+      : parts
+  );
+}
+
+function renderHeroTitle(title) {
+  const orderedParts = getOrderedTitleParts(title);
+  if (!orderedParts.length) return '';
 
   return orderedParts.map((part, index) => `
-    <span class="hero__title-line${index === 0 ? ' hero__title-line--lead' : ''}">${formatTextWithSoftBreaks(part)}</span>
-  `).join('');
+      <span class="hero__title-line${index === 0 ? ' hero__title-line--lead' : ''}">${formatTextWithSoftBreaks(part)}</span>
+    `).join('');
 }
 
 function renderHeader(site, generatedAt) {
@@ -694,7 +700,7 @@ function renderHeader(site, generatedAt) {
   elements.channelLink.textContent = handle;
   elements.channelLink.href = site.channel_username ? `https://t.me/${site.channel_username}` : 'https://t.me';
   startSyncStatusPolling();
-  document.title = title;
+  document.title = getOrderedTitleParts(title).join(' | ') || title;
 
   if (avatarSrc) {
     elements.channelAvatar.dataset.fallbackSrc = fallbackAvatar;
