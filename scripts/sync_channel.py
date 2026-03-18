@@ -662,15 +662,33 @@ def build_post_media_page_urls(post: dict[str, Any]) -> list[str]:
     return urls
 
 
-def extract_telegram_page_photo_urls(page_html: str, page_url: str) -> list[str]:
+def extract_telegram_post_block(page_html: str, post_id: int) -> str | None:
+    blocks = re.split(r'(?=<div class="tgme_widget_message_wrap)', page_html)
+
+    for block in blocks:
+        id_match = re.search(r'tgme_widget_message_date[^>]*href="[^"]+/(\d+)"', block)
+        if not id_match:
+            continue
+
+        if int(id_match.group(1)) == post_id:
+            return block
+
+    return None
+
+
+def extract_telegram_page_photo_urls(page_html: str, page_url: str, post_id: int) -> list[str]:
+    post_block = extract_telegram_post_block(page_html, post_id)
+    if not post_block:
+        return []
+
     urls = [
         urljoin(page_url, html_lib.unescape(url))
-        for url in re.findall(r"tgme_widget_message_photo_wrap[^>]+url\('([^']+)'\)", page_html)
+        for url in re.findall(r"tgme_widget_message_photo_wrap[^>]+url\('([^']+)'\)", post_block)
     ]
     if urls:
         return urls
 
-    link_preview_match = re.search(r"link_preview_image[^>]+url\('([^']+)'\)", page_html)
+    link_preview_match = re.search(r"link_preview_image[^>]+url\('([^']+)'\)", post_block)
     if link_preview_match:
         return [urljoin(page_url, html_lib.unescape(link_preview_match.group(1)))]
 
@@ -689,7 +707,7 @@ def fetch_telegram_post_page_override(post: dict[str, Any], current_bytes: bytes
             log.warning("Failed to fetch Telegram post page for post %s: %s", post.get("id"), error)
             continue
 
-        photo_urls = extract_telegram_page_photo_urls(page_html, page_url)
+        photo_urls = extract_telegram_page_photo_urls(page_html, page_url, int(post.get("id") or 0))
         for photo_url in photo_urls:
             try:
                 candidate_bytes = fetch_binary(photo_url)
