@@ -39,7 +39,7 @@ CHANNEL_AVATAR_PATH = CHANNEL_MEDIA_DIR / "channel-avatar.jpg"
 POST_PAGES_DIR = DOCS_DIR / "channels" / CHANNEL_KEY / "posts" if CHANNEL_KEY else DOCS_DIR / "posts"
 MANIFEST_PATH = DOCS_DIR / "manifest.webmanifest"
 FEED_PAGE_SIZE = 16
-IMAGE_VARIANT_VERSION = "v3"
+IMAGE_VARIANT_VERSION = "v4"
 
 BASE_HEADERS = {
     "User-Agent": "Mozilla/5.0 (compatible; TelegramPagesMirror/1.0)",
@@ -254,6 +254,8 @@ def optimize_image_variants(raw_bytes: bytes, full_path: Path, thumb_path: Path)
             image = ImageOps.exif_transpose(image)
             image.load()
             resampling = getattr(getattr(Image, "Resampling", Image), "LANCZOS")
+            original_format = (image.format or "").upper()
+            original_size = image.size
 
             if image.mode not in ("RGB", "L"):
                 background = Image.new("RGB", image.size, "white")
@@ -263,19 +265,34 @@ def optimize_image_variants(raw_bytes: bytes, full_path: Path, thumb_path: Path)
             elif image.mode == "L":
                 image = image.convert("RGB")
 
-            full_image = image.copy()
-            full_image.thumbnail((2400, 2400), resampling)
-            full_image = full_image.filter(ImageFilter.UnsharpMask(radius=0.8, percent=115, threshold=2))
-            if not full_path.exists():
-                full_image.save(full_path, format="JPEG", quality=92, optimize=True, progressive=True)
-                changes_detected = True
+            keep_original_jpeg = (
+                original_format in {"JPEG", "JPG"}
+                and max(original_size) <= 1400
+                and len(raw_bytes) <= 1_500_000
+            )
 
-            thumb_image = image.copy()
-            thumb_image.thumbnail((1280, 1280), resampling)
-            thumb_image = thumb_image.filter(ImageFilter.UnsharpMask(radius=0.7, percent=135, threshold=2))
-            if not thumb_path.exists():
-                thumb_image.save(thumb_path, format="JPEG", quality=88, optimize=True, progressive=True)
-                changes_detected = True
+            if keep_original_jpeg:
+                if not full_path.exists() or full_path.read_bytes() != raw_bytes:
+                    full_path.write_bytes(raw_bytes)
+                    changes_detected = True
+
+                if not thumb_path.exists() or thumb_path.read_bytes() != raw_bytes:
+                    thumb_path.write_bytes(raw_bytes)
+                    changes_detected = True
+            else:
+                full_image = image.copy()
+                full_image.thumbnail((2400, 2400), resampling)
+                full_image = full_image.filter(ImageFilter.UnsharpMask(radius=0.8, percent=115, threshold=2))
+                if not full_path.exists():
+                    full_image.save(full_path, format="JPEG", quality=92, optimize=True, progressive=True)
+                    changes_detected = True
+
+                thumb_image = image.copy()
+                thumb_image.thumbnail((1280, 1280), resampling)
+                thumb_image = thumb_image.filter(ImageFilter.UnsharpMask(radius=0.7, percent=135, threshold=2))
+                if not thumb_path.exists():
+                    thumb_image.save(thumb_path, format="JPEG", quality=88, optimize=True, progressive=True)
+                    changes_detected = True
     except Exception as error:  # pragma: no cover - runtime/image libs path
         log.warning("Image optimization fallback used: %s", error)
         if not full_path.exists():
