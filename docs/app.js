@@ -5,6 +5,7 @@ const DEFAULT_PAGE_SIZE = 16;
 const AUTO_REFRESH_INTERVAL_MINUTES = 5;
 const SYNC_STATUS_POLL_INTERVAL_MS = 30 * 1000;
 const LONG_PRESS_COPY_DELAY_MS = 650;
+const CHANNEL_CAROUSEL_TRANSITION_MS = 340;
 
 const state = {
   catalog: null,
@@ -584,6 +585,10 @@ function isMobileCarouselViewport() {
   return window.matchMedia('(max-width: 860px)').matches;
 }
 
+function getChannelCarouselSlideDistance() {
+  return window.matchMedia('(max-width: 480px)').matches ? 76 : 92;
+}
+
 function cleanupChannelCarouselSurface(surface) {
   if (!surface) return;
   surface.style.removeProperty('transform');
@@ -592,14 +597,35 @@ function cleanupChannelCarouselSurface(surface) {
   surface.classList.remove('is-entering-next', 'is-entering-prev', 'is-exiting-next', 'is-exiting-prev', 'channel-carousel__ghost');
 }
 
-function animateChannelCarouselEntry(direction) {
-  const surface = elements.channelCarousel?.querySelector('[data-channel-carousel-surface]');
-  if (!surface || prefersReducedMotion()) return;
+function animateChannelCarouselTransition(surface, direction) {
+  const stage = elements.channelCarousel?.querySelector('.channel-carousel__stage');
+  const ghost = stage?.querySelector('.channel-carousel__ghost');
+  if (!surface || !ghost || prefersReducedMotion()) return;
 
-  const className = direction === 'next' ? 'is-entering-next' : 'is-entering-prev';
-  surface.classList.add(className);
-  surface.addEventListener('animationend', () => {
-    surface.classList.remove(className);
+  const enterOffset = direction === 'next' ? getChannelCarouselSlideDistance() : -getChannelCarouselSlideDistance();
+  const exitOffset = -enterOffset;
+  const easing = 'cubic-bezier(0.22, 1, 0.36, 1)';
+
+  cleanupChannelCarouselSurface(surface);
+  ghost.style.transition = 'none';
+  surface.style.transition = 'none';
+  surface.style.transform = `translate3d(${enterOffset}px, 0, 0)`;
+  surface.style.opacity = '1';
+
+  requestAnimationFrame(() => {
+    ghost.style.transition = `transform ${CHANNEL_CAROUSEL_TRANSITION_MS}ms ${easing}, opacity ${CHANNEL_CAROUSEL_TRANSITION_MS}ms ease`;
+    surface.style.transition = `transform ${CHANNEL_CAROUSEL_TRANSITION_MS}ms ${easing}`;
+    ghost.style.transform = `translate3d(${exitOffset}px, 0, 0)`;
+    ghost.style.opacity = '0.92';
+    surface.style.transform = 'translate3d(0, 0, 0)';
+  });
+
+  surface.addEventListener('transitionend', () => {
+    cleanupChannelCarouselSurface(surface);
+  }, { once: true });
+
+  ghost.addEventListener('transitionend', () => {
+    ghost.remove();
   }, { once: true });
 }
 
@@ -610,7 +636,7 @@ function createChannelCarouselGhost(direction, sourceSurface) {
   if (!stage) return;
 
   const ghost = sourceSurface.cloneNode(true);
-  ghost.classList.add('channel-carousel__ghost', direction === 'next' ? 'is-exiting-next' : 'is-exiting-prev');
+  ghost.classList.add('channel-carousel__ghost');
   ghost.removeAttribute('data-channel-carousel-surface');
   ghost.querySelectorAll('[data-channel-shift]').forEach((node) => node.removeAttribute('data-channel-shift'));
   ghost.querySelectorAll('button').forEach((button) => {
@@ -627,9 +653,6 @@ function createChannelCarouselGhost(direction, sourceSurface) {
   }
 
   stage.appendChild(ghost);
-  ghost.addEventListener('animationend', () => {
-    ghost.remove();
-  }, { once: true });
 }
 
 async function moveChannelCarousel(offset) {
@@ -1005,7 +1028,7 @@ function renderMobileChannelCarousel() {
   if (pendingDirection && isMobileCarouselViewport() && !prefersReducedMotion()) {
     state.channelCarouselPendingEntryDirection = null;
     requestAnimationFrame(() => {
-      animateChannelCarouselEntry(pendingDirection);
+      animateChannelCarouselTransition(nextSurface, pendingDirection);
     });
   }
 }
