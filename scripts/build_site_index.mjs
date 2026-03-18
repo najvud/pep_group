@@ -24,13 +24,21 @@ function writeJson(filePath, payload) {
   fs.writeFileSync(filePath, `${JSON.stringify(payload, null, 2)}\n`, 'utf8');
 }
 
+function buildTelegramAvatarUrl(channelUsername) {
+  if (!channelUsername) {
+    return null;
+  }
+
+  return `https://t.me/i/userpic/320/${channelUsername}.jpg`;
+}
+
 function resolveChannelAvatarPath(channel) {
   const mirroredAvatarPath = path.join(channelsDataDir, channel.key, 'media', 'channel-avatar.jpg');
   if (fs.existsSync(mirroredAvatarPath)) {
     return `data/channels/${channel.key}/media/channel-avatar.jpg`;
   }
 
-  return channel.avatar_path || config.avatar_path;
+  return buildTelegramAvatarUrl(channel.channel_username) || channel.avatar_path || config.avatar_path;
 }
 
 function buildChannelSite(channel) {

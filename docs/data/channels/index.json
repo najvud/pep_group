@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17T22:02:41.682Z",
+  "generated_at": "2026-03-18T09:40:50.225Z",
   "site": {
     "site_name": "Pepeliaev Group | Практики",
     "site_description": "Зеркало Telegram-каналов практик «Пепеляев Групп». Выберите нужное направление в верхнем меню.",
@@ -20,7 +20,7 @@
       "language": "ru",
       "accent_color": "#91278d",
       "background_color": "#f5f7fa",
-      "avatar_path": "assets/channel-avatar.jpg",
+      "avatar_path": "https://t.me/i/userpic/320/pgp_official.jpg",
       "channel_url": "https://t.me/pgp_official",
       "feed_path": "data/channels/pgp-official/posts.json"
     },
@@ -34,7 +34,7 @@
       "language": "ru",
       "accent_color": "#91278d",
       "background_color": "#f5f7fa",
-      "avatar_path": "assets/channel-avatar.jpg",
+      "avatar_path": "https://t.me/i/userpic/320/PgAntitrust.jpg",
       "channel_url": "https://t.me/PgAntitrust",
       "feed_path": "data/channels/pg-antitrust/posts.json"
     },
@@ -48,7 +48,7 @@
       "language": "ru",
       "accent_color": "#91278d",
       "background_color": "#f5f7fa",
-      "avatar_path": "assets/channel-avatar.jpg",
+      "avatar_path": "https://t.me/i/userpic/320/PG_Tax.jpg",
       "channel_url": "https://t.me/PG_Tax",
       "feed_path": "data/channels/pg-tax/posts.json"
     },
@@ -62,7 +62,7 @@
       "language": "ru",
       "accent_color": "#91278d",
       "background_color": "#f5f7fa",
-      "avatar_path": "assets/channel-avatar.jpg",
+      "avatar_path": "https://t.me/i/userpic/320/PG_RealEstate.jpg",
       "channel_url": "https://t.me/PG_RealEstate",
       "feed_path": "data/channels/pg-real-estate/posts.json"
     },
@@ -76,7 +76,7 @@
       "language": "ru",
       "accent_color": "#91278d",
       "background_color": "#f5f7fa",
-      "avatar_path": "assets/channel-avatar.jpg",
+      "avatar_path": "https://t.me/i/userpic/320/InvestmentLaw.jpg",
       "channel_url": "https://t.me/InvestmentLaw",
       "feed_path": "data/channels/investment-law/posts.json"
     },
@@ -90,7 +90,7 @@
       "language": "ru",
       "accent_color": "#91278d",
       "background_color": "#f5f7fa",
-      "avatar_path": "assets/channel-avatar.jpg",
+      "avatar_path": "https://t.me/i/userpic/320/pgecology.jpg",
       "channel_url": "https://t.me/pgecology",
       "feed_path": "data/channels/pg-ecology/posts.json"
     },
@@ -104,7 +104,7 @@
       "language": "ru",
       "accent_color": "#91278d",
       "background_color": "#f5f7fa",
-      "avatar_path": "assets/channel-avatar.jpg",
+      "avatar_path": "https://t.me/i/userpic/320/bankrotstvo_mustknow.jpg",
       "channel_url": "https://t.me/bankrotstvo_mustknow",
       "feed_path": "data/channels/bankrotstvo-mustknow/posts.json"
     },
@@ -118,7 +118,7 @@
       "language": "ru",
       "accent_color": "#91278d",
       "background_color": "#f5f7fa",
-      "avatar_path": "assets/channel-avatar.jpg",
+      "avatar_path": "https://t.me/i/userpic/320/pgEmployment.jpg",
       "channel_url": "https://t.me/pgEmployment",
       "feed_path": "data/channels/pg-employment/posts.json"
     }

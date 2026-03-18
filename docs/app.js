@@ -186,6 +186,21 @@ function getActiveChannelMeta() {
   return getChannelByKey(state.activeChannelKey);
 }
 
+function resolveHeroAvatar(site) {
+  const catalogSite = getCatalogSite();
+  const activeChannel = getActiveChannelMeta();
+  const fallbackAvatar = catalogSite.avatar_path || 'assets/channel-avatar.jpg';
+  const siteAvatar = site?.avatar_path || '';
+  const channelAvatar = activeChannel?.avatar_path || '';
+  const usesStaticFallback = !siteAvatar || siteAvatar === fallbackAvatar || /assets\/channel-avatar\.jpg$/i.test(siteAvatar);
+
+  if (channelAvatar && usesStaticFallback) {
+    return channelAvatar;
+  }
+
+  return siteAvatar || channelAvatar || fallbackAvatar;
+}
+
 function applyTheme(theme) {
   document.documentElement.setAttribute('data-theme', theme);
   localStorage.setItem('theme', theme);
@@ -282,6 +297,8 @@ function renderHeader(site, generatedAt) {
   const title = site.channel_title || site.site_name || catalogSite.site_name || 'Telegram Channels';
   const description = site.site_description || catalogSite.site_description || '';
   const handle = site.channel_username ? `@${site.channel_username}` : '@channel';
+  const avatarSrc = resolveHeroAvatar(site);
+  const fallbackAvatar = catalogSite.avatar_path || 'assets/channel-avatar.jpg';
 
   elements.siteTitle.innerHTML = renderHeroTitle(title);
   elements.siteDescription.textContent = description;
@@ -290,8 +307,10 @@ function renderHeader(site, generatedAt) {
   startSyncStatusPolling();
   document.title = title;
 
-  if (site.avatar_path) {
-    elements.channelAvatar.src = site.avatar_path;
+  if (avatarSrc) {
+    elements.channelAvatar.dataset.fallbackSrc = fallbackAvatar;
+    elements.channelAvatar.dataset.fallbackApplied = 'false';
+    elements.channelAvatar.src = avatarSrc;
     elements.channelAvatar.alt = title;
     elements.channelAvatarWrap.classList.remove('hidden');
   } else {
@@ -316,7 +335,7 @@ function renderHeader(site, generatedAt) {
   if (descriptionMeta) descriptionMeta.setAttribute('content', description);
   if (ogTitleMeta) ogTitleMeta.setAttribute('content', title);
   if (ogDescriptionMeta) ogDescriptionMeta.setAttribute('content', description);
-  if (ogImageMeta && site.avatar_path) ogImageMeta.setAttribute('content', site.avatar_path);
+  if (ogImageMeta && avatarSrc) ogImageMeta.setAttribute('content', avatarSrc);
 }
 
 function buildResponsiveImageTag(item, index, isGallery) {
@@ -733,6 +752,16 @@ elements.viewerPrev.addEventListener('click', () => {
 elements.viewerNext.addEventListener('click', () => {
   state.viewerIndex = (state.viewerIndex + 1) % state.viewerItems.length;
   renderViewer();
+});
+
+elements.channelAvatar.addEventListener('error', () => {
+  const fallbackSrc = elements.channelAvatar.dataset.fallbackSrc || 'assets/channel-avatar.jpg';
+  if (elements.channelAvatar.dataset.fallbackApplied === 'true') {
+    return;
+  }
+
+  elements.channelAvatar.dataset.fallbackApplied = 'true';
+  elements.channelAvatar.src = fallbackSrc;
 });
 
 window.addEventListener('hashchange', handleRoute);

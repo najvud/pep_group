@@ -166,6 +166,20 @@ def fetch_binary(url: str) -> bytes:
         return response.read()
 
 
+def build_telegram_avatar_url(channel_username: str) -> str:
+    return f"https://t.me/i/userpic/320/{channel_username}.jpg"
+
+
+def resolve_avatar_path(config: SiteConfig) -> str:
+    if CHANNEL_AVATAR_PATH.exists():
+        return CHANNEL_AVATAR_PATH.relative_to(DOCS_DIR).as_posix()
+
+    if config.avatar_path and config.avatar_path != "assets/channel-avatar.jpg":
+        return config.avatar_path
+
+    return build_telegram_avatar_url(config.channel_username)
+
+
 def parse_iso_datetime(value: str | None) -> datetime | None:
     if not value:
         return None
@@ -704,7 +718,7 @@ def build_site_payload(config: SiteConfig) -> dict[str, Any]:
         "language": config.language,
         "accent_color": config.accent_color,
         "background_color": config.background_color,
-        "avatar_path": config.avatar_path,
+        "avatar_path": resolve_avatar_path(config),
     }
 
 
