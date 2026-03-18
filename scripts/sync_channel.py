@@ -17,7 +17,7 @@ from dataclasses import dataclass
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Any
-from urllib.parse import urljoin
+from urllib.parse import urljoin, urlparse
 from urllib.request import Request, urlopen
 
 
@@ -495,6 +495,125 @@ def build_text_fields(raw_html: str) -> tuple[str | None, str | None]:
     return plain, html_markup
 
 
+def extract_external_links(text_html: str | None) -> list[str]:
+    if not text_html:
+        return []
+
+    links: list[str] = []
+    seen: set[str] = set()
+
+    for href in re.findall(r'<a[^>]+href="([^"]+)"', text_html, re.IGNORECASE):
+        normalized_href = html_lib.unescape(href).strip()
+        if not normalized_href or not re.match(r"^https?://", normalized_href):
+            continue
+
+        hostname = (urlparse(normalized_href).hostname or "").lower()
+        if hostname.endswith("t.me") or hostname.endswith("telegram.me"):
+            continue
+
+        if normalized_href in seen:
+            continue
+
+        seen.add(normalized_href)
+        links.append(normalized_href)
+
+    return links
+
+
+def extract_preview_image_url(page_html: str, page_url: str) -> str | None:
+    patterns = [
+        r'<meta[^>]+property=["\']og:image:secure_url["\'][^>]+content=["\']([^"\']+)["\']',
+        r'<meta[^>]+property=["\']og:image["\'][^>]+content=["\']([^"\']+)["\']',
+        r'<meta[^>]+name=["\']twitter:image["\'][^>]+content=["\']([^"\']+)["\']',
+        r'<meta[^>]+itemprop=["\']image["\'][^>]+content=["\']([^"\']+)["\']',
+        r'<link[^>]+rel=["\']image_src["\'][^>]+href=["\']([^"\']+)["\']',
+    ]
+
+    for pattern in patterns:
+        match = re.search(pattern, page_html, re.IGNORECASE)
+        if match:
+            return urljoin(page_url, html_lib.unescape(match.group(1)))
+
+    return None
+
+
+def get_image_dimensions(raw_bytes: bytes) -> tuple[int, int] | None:
+    try:
+        from PIL import Image
+
+        with Image.open(io.BytesIO(raw_bytes)) as image:
+            return image.size
+    except Exception:
+        return None
+
+
+def choose_better_preview_bytes(current_bytes: bytes | None, candidate_bytes: bytes | None) -> bytes | None:
+    if not candidate_bytes:
+        return None
+
+    candidate_size = get_image_dimensions(candidate_bytes)
+    if not candidate_size:
+        return None
+
+    if not current_bytes:
+        return candidate_bytes
+
+    current_size = get_image_dimensions(current_bytes)
+    if not current_size:
+        return candidate_bytes
+
+    current_width, current_height = current_size
+    candidate_width, candidate_height = candidate_size
+    current_area = current_width * current_height
+    candidate_area = candidate_width * candidate_height
+
+    if candidate_area <= current_area:
+        return None
+
+    current_ratio = current_width / max(current_height, 1)
+    candidate_ratio = candidate_width / max(candidate_height, 1)
+    ratio_delta = abs(math.log(max(candidate_ratio, 0.01) / max(current_ratio, 0.01)))
+
+    if ratio_delta > 0.55 and candidate_area < current_area * 1.8:
+        return None
+
+    return candidate_bytes
+
+
+def fetch_external_preview_override(post: dict[str, Any], current_bytes: bytes | None = None) -> bytes | None:
+    photos = post.get("photos") or []
+    if len(photos) != 1:
+        return None
+
+    links = extract_external_links(post.get("text_html"))
+    if not links:
+        return None
+
+    for link_url in reversed(links):
+        try:
+            page_html = fetch_page(link_url)
+        except Exception as error:  # pragma: no cover - network/runtime path
+            log.warning("Failed to fetch external page for post %s: %s", post.get("id"), error)
+            continue
+
+        preview_url = extract_preview_image_url(page_html, link_url)
+        if not preview_url:
+            continue
+
+        try:
+            candidate_bytes = fetch_binary(preview_url)
+        except Exception as error:  # pragma: no cover - network/runtime path
+            log.warning("Failed to fetch external preview image for post %s: %s", post.get("id"), error)
+            continue
+
+        preferred_bytes = choose_better_preview_bytes(current_bytes, candidate_bytes)
+        if preferred_bytes:
+            log.info("Using external preview image for post %s from %s", post.get("id"), link_url)
+            return preferred_bytes
+
+    return None
+
+
 def extract_forwarded_source(block: str) -> dict[str, str] | None:
     if "Переслано из" not in block and "forwarded" not in block.lower():
         return None
@@ -721,67 +840,97 @@ def get_downloadable_photo_targets(message: Any) -> list[Any]:
 
 
 async def fetch_high_res_photos_for_posts(config: SiteConfig, posts: list[dict[str, Any]]) -> dict[int, list[bytes]]:
-    credentials = get_telegram_session_credentials()
-    if not credentials:
-        log.info("Telegram user session is not configured. High-resolution media sync skipped.")
-        return {}
-
-    api_id, api_hash, session_string = credentials
-
-    from telethon import TelegramClient
-    from telethon.sessions import StringSession
-
     selected_ids = select_posts_for_high_res_media(posts)
     if not selected_ids:
         return {}
 
     log.info("Refreshing high-resolution media for %s posts", len(selected_ids))
+    selected_posts = {
+        post["id"]: post
+        for post in posts
+        if post["id"] in selected_ids
+    }
     results: dict[int, list[bytes]] = {}
 
-    async with TelegramClient(StringSession(session_string), int(api_id), api_hash) as client:
-        if not await client.is_user_authorized():
-            raise RuntimeError("TELEGRAM_SESSION_STR is not authorized.")
+    credentials = get_telegram_session_credentials()
+    if credentials:
+        api_id, api_hash, session_string = credentials
 
-        channel = await client.get_entity(config.channel_username)
+        from telethon import TelegramClient
+        from telethon.sessions import StringSession
 
-        for post_id in selected_ids:
+        async with TelegramClient(StringSession(session_string), int(api_id), api_hash) as client:
+            if not await client.is_user_authorized():
+                raise RuntimeError("TELEGRAM_SESSION_STR is not authorized.")
+
+            channel = await client.get_entity(config.channel_username)
+
+            for post_id in selected_ids:
+                try:
+                    message = await client.get_messages(channel, ids=post_id)
+                    if not message:
+                        continue
+
+                    photo_targets = get_downloadable_photo_targets(message)
+                    grouped_id = getattr(message, "grouped_id", None)
+
+                    if grouped_id:
+                        ids = list(range(max(1, post_id - 10), post_id + 11))
+                        neighbours = await client.get_messages(channel, ids=ids)
+                        album_targets: list[Any] = []
+                        for neighbour in neighbours:
+                            if not neighbour or getattr(neighbour, "grouped_id", None) != grouped_id:
+                                continue
+                            album_targets.extend(get_downloadable_photo_targets(neighbour))
+                        if album_targets:
+                            photo_targets = album_targets
+
+                    if not photo_targets:
+                        continue
+
+                    downloaded: list[bytes] = []
+                    for target in photo_targets:
+                        raw_bytes = await client.download_media(target, file=bytes)
+                        if raw_bytes:
+                            downloaded.append(raw_bytes)
+
+                    if not downloaded:
+                        continue
+
+                    results[post_id] = downloaded
+                    log.info("Fetched high-resolution media for post %s (%s item(s))", post_id, len(downloaded))
+                except Exception as error:  # pragma: no cover - network/runtime path
+                    log.warning("High-resolution media sync failed on post %s: %s", post_id, error)
+
+                await asyncio.sleep(0.15)
+    else:
+        log.info("Telegram user session is not configured. Telegram media override skipped.")
+
+    for post_id in selected_ids:
+        post = selected_posts.get(post_id)
+        if not post:
+            continue
+
+        photos = post.get("photos") or []
+        if len(photos) != 1:
+            continue
+
+        photo = normalize_photo_entry(photos[0])
+        if not photo or not re.match(r"^https?://", photo["full_url"]):
+            continue
+
+        current_override = results.get(post_id, [])
+        current_bytes = current_override[0] if current_override else None
+        if current_bytes is None:
             try:
-                message = await client.get_messages(channel, ids=post_id)
-                if not message:
-                    continue
-
-                photo_targets = get_downloadable_photo_targets(message)
-                grouped_id = getattr(message, "grouped_id", None)
-
-                if grouped_id:
-                    ids = list(range(max(1, post_id - 10), post_id + 11))
-                    neighbours = await client.get_messages(channel, ids=ids)
-                    album_targets: list[Any] = []
-                    for neighbour in neighbours:
-                        if not neighbour or getattr(neighbour, "grouped_id", None) != grouped_id:
-                            continue
-                        album_targets.extend(get_downloadable_photo_targets(neighbour))
-                    if album_targets:
-                        photo_targets = album_targets
-
-                if not photo_targets:
-                    continue
-
-                downloaded: list[bytes] = []
-                for target in photo_targets:
-                    raw_bytes = await client.download_media(target, file=bytes)
-                    if raw_bytes:
-                        downloaded.append(raw_bytes)
-
-                if not downloaded:
-                    continue
-
-                results[post_id] = downloaded
-                log.info("Fetched high-resolution media for post %s (%s item(s))", post_id, len(downloaded))
+                current_bytes = fetch_binary(photo["full_url"])
             except Exception as error:  # pragma: no cover - network/runtime path
-                log.warning("High-resolution media sync failed on post %s: %s", post_id, error)
+                log.warning("Failed to fetch current preview for post %s: %s", post_id, error)
+                current_bytes = None
 
-            await asyncio.sleep(0.15)
+        external_override = fetch_external_preview_override(post, current_bytes=current_bytes)
+        if external_override:
+            results[post_id] = [external_override]
 
     return results
 
