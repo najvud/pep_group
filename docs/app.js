@@ -337,6 +337,12 @@ function getCatalogSite() {
   return state.catalog?.site || {};
 }
 
+function scrollPageToTop() {
+  window.scrollTo({ top: 0, behavior: 'auto' });
+  document.documentElement.scrollTop = 0;
+  document.body.scrollTop = 0;
+}
+
 function getChannelByKey(channelKey) {
   return getCatalogChannels().find((channel) => channel.key === channelKey) || null;
 }
@@ -1066,7 +1072,7 @@ async function loadFeed(channelKey, force = false) {
   }
 }
 
-async function switchChannel(channelKey, { replace = false, force = false } = {}) {
+async function switchChannel(channelKey, { replace = false, force = false, scrollToTop = false } = {}) {
   const resolvedChannelKey = resolveChannelKey(channelKey);
   if (!resolvedChannelKey) return;
 
@@ -1076,7 +1082,15 @@ async function switchChannel(channelKey, { replace = false, force = false } = {}
     updateChannelUrl(resolvedChannelKey, { replace, clearHash: shouldClearHash });
   }
 
+  if (scrollToTop) {
+    scrollPageToTop();
+  }
+
   await loadFeed(resolvedChannelKey, force);
+
+  if (scrollToTop) {
+    scrollPageToTop();
+  }
 }
 
 async function loadCatalog() {
@@ -1136,7 +1150,7 @@ elements.channelMenu.addEventListener('click', (event) => {
   const nextChannelKey = button.dataset.channelKey;
   if (!nextChannelKey || nextChannelKey === state.activeChannelKey) return;
 
-  void switchChannel(nextChannelKey);
+  void switchChannel(nextChannelKey, { scrollToTop: true });
 });
 
 elements.refreshButton.addEventListener('click', () => {

@@ -131,6 +131,7 @@ a {
   text-transform: uppercase;
   color: var(--accent-strong);
   opacity: 0.78;
+  text-shadow: 0 0 1px rgba(0, 0, 0, 0.22);
 }
 
 .channel-tab__title {
@@ -143,6 +144,7 @@ a {
   color: var(--text);
   white-space: nowrap;
   text-overflow: ellipsis;
+  text-shadow: 0 0 1px rgba(0, 0, 0, 0.24);
 }
 
 .channel-tab__subtitle {
@@ -156,6 +158,7 @@ a {
   color: var(--muted);
   white-space: nowrap;
   text-overflow: ellipsis;
+  text-shadow: 0 0 1px rgba(0, 0, 0, 0.18);
 }
 
 .channel-tab:not(.is-active):hover {
@@ -190,6 +193,7 @@ a {
 .channel-tab.is-active .channel-tab__title,
 .channel-tab.is-active .channel-tab__subtitle {
   color: white;
+  text-shadow: 0 0 1px rgba(0, 0, 0, 0.36);
 }
 
 .channel-tab.is-active::after {
