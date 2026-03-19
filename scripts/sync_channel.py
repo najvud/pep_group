@@ -1034,11 +1034,6 @@ async def fetch_high_res_photos_for_posts(config: SiteConfig, posts: list[dict[s
         return {}
 
     log.info("Refreshing high-resolution media for %s posts", len(selected_ids))
-    selected_posts = {
-        post["id"]: post
-        for post in posts
-        if post["id"] in selected_ids
-    }
     results: dict[int, list[bytes]] = {}
 
     credentials = get_telegram_session_credentials()
@@ -1095,34 +1090,11 @@ async def fetch_high_res_photos_for_posts(config: SiteConfig, posts: list[dict[s
     else:
         log.info("Telegram user session is not configured. Telegram media override skipped.")
 
-    for post_id in selected_ids:
-        post = selected_posts.get(post_id)
-        if not post:
-            continue
-
-        photos = post.get("photos") or []
-        if len(photos) != 1:
-            continue
-
-        photo = normalize_photo_entry(photos[0])
-        if not photo or not re.match(r"^https?://", photo["full_url"]):
-            continue
-
-        current_override = results.get(post_id, [])
-        current_bytes = current_override[0] if current_override else None
-        if current_bytes is None:
-            try:
-                current_bytes = fetch_binary(photo["full_url"])
-            except Exception as error:  # pragma: no cover - network/runtime path
-                log.warning("Failed to fetch current preview for post %s: %s", post_id, error)
-                current_bytes = None
-
-        # Telegram HTML post pages can include surrounding feed context and end up
-        # repeating the wrong preview across neighboring posts. Keep the safer
-        # sources only: direct Telegram API media and external page previews.
-        external_override = fetch_external_preview_override(post, current_bytes=current_bytes)
-        if external_override:
-            results[post_id] = [external_override]
+    # Keep the final preview source aligned with Telegram itself:
+    # - use Telegram API media when it is available;
+    # - otherwise keep the preview parsed from the Telegram web page.
+    # Do not replace previews with og:image from arbitrary external links,
+    # because that can diverge from what Telegram actually shows in-channel.
 
     return results
 
