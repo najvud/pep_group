@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-19T10:47:09.853594+00:00",
+  "generated_at": "2026-03-19T11:25:06.048787+00:00",
   "pagination": {
     "page": 3,
     "page_size": 16,
@@ -102,8 +102,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2501-1-a8011f884843-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2501-1-a8011f884843-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2501-1-ead1bfe4afeb-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2501-1-ead1bfe4afeb-v4.jpg"
         }
       ],
       "video_url": null,
@@ -174,7 +174,7 @@
       "date": "2026-02-27T10:45:38+00:00",
       "text": "📎 23 декабря прошло завершающее в 2025 году заседание рабочей группы по совершенствованию налогового администрирования при Экспертном совете ТПП РФ.  Ключевая тема — разработка законопроекта о переходных положениях при изменении размера налога.   🛑  В основу…",
       "text_html": "📎 23 декабря прошло завершающее в 2025 году заседание рабочей группы по совершенствованию налогового администрирования при Экспертном совете ТПП РФ.  Ключевая тема — разработка законопроекта о переходных положениях при изменении размера налога.   🛑  В основу…",
-      "views": 1470,
+      "views": 1480,
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
@@ -210,16 +210,16 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2491-1-70ccb7404e20-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2491-1-70ccb7404e20-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2491-1-40f1dc603e1f-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2491-1-40f1dc603e1f-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2491-2-2d56f9c11697-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2491-2-2d56f9c11697-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2491-2-514f05dc129c-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2491-2-514f05dc129c-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2491-3-94bbae27b6da-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2491-3-94bbae27b6da-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2491-3-cb9676d8cce0-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2491-3-cb9676d8cce0-v4.jpg"
         }
       ],
       "video_url": null,
