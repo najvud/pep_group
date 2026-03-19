@@ -222,7 +222,7 @@ function normalizeAccentHex(hex) {
 }
 
 function buildChannelAccentStyle(channel) {
-  const accentHex = normalizeAccentHex(state.channelAccentCache[channel.key] || channel.accent_color || '#91278d');
+  const accentHex = normalizeAccentHex(channel.accent_color || state.channelAccentCache[channel.key] || '#91278d');
   const strongHex = mixHexColors(accentHex, '#1f1934', 0.24);
   const borderColor = hexToRgba(accentHex, 0.34);
   const glowColor = hexToRgba(accentHex, 0.28);
@@ -319,7 +319,14 @@ async function extractAccentColorFromImage(src) {
 async function ensureChannelAccent(channel) {
   const channelKey = channel?.key || state.activeChannelKey;
   const avatarPath = channel?.avatar_path;
-  if (!channelKey || !avatarPath || state.channelAccentCache[channelKey]) return;
+  if (!channelKey) return;
+
+  if (channel?.accent_color) {
+    state.channelAccentCache[channelKey] = normalizeAccentHex(channel.accent_color);
+    return;
+  }
+
+  if (!avatarPath || state.channelAccentCache[channelKey]) return;
 
   const accentHex = await extractAccentColorFromImage(avatarPath);
   if (!accentHex) return;
@@ -1348,10 +1355,11 @@ function renderHeader(site, generatedAt) {
     elements.channelAvatarWrap.classList.add('hidden');
   }
 
-  if (site.accent_color) {
-    document.documentElement.style.setProperty('--accent', site.accent_color);
+  const accentColor = activeChannel?.accent_color || site.accent_color || catalogSite.accent_color;
+  if (accentColor) {
+    document.documentElement.style.setProperty('--accent', accentColor);
     const themeColorMeta = document.querySelector('meta[name="theme-color"]');
-    if (themeColorMeta) themeColorMeta.setAttribute('content', site.accent_color);
+    if (themeColorMeta) themeColorMeta.setAttribute('content', accentColor);
   }
 
   if (site.background_color) {
