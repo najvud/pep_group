@@ -1729,6 +1729,56 @@ function handleRoute() {
   showFeedView();
 }
 
+function showFeedLoadingState(clearPosts = true) {
+  elements.loadingState.classList.remove('hidden');
+  elements.emptyState.classList.add('hidden');
+  elements.errorState.classList.add('hidden');
+  if (clearPosts) {
+    elements.postFeed.innerHTML = '';
+  }
+  showFeedView();
+}
+
+async function fetchFeedPayload(channelKey, force = false) {
+  const response = await fetch(buildFeedUrl(channelKey, force), { cache: 'no-store' });
+  if (!response.ok) throw new Error(`HTTP ${response.status}`);
+  return response.json();
+}
+
+function applyFeedPayload(channelKey, feedPayload) {
+  state.activeChannelKey = channelKey;
+  state.mediaRegistry = {};
+  state.feed = feedPayload;
+  const pagination = state.feed.pagination || {};
+  state.posts = state.feed.posts || [];
+  state.totalPosts = Number(pagination.total_posts) || state.posts.length;
+  state.totalPages = Number(pagination.total_pages) || 1;
+  state.pageSize = Number(pagination.page_size) || DEFAULT_PAGE_SIZE;
+  state.loadedPages = new Set(state.posts.length ? [1] : []);
+
+  renderChannelMenu();
+  renderHeader(state.feed.site || getActiveChannelMeta() || getCatalogSite(), state.feed.generated_at);
+  void ensureChannelAccent({
+    ...getActiveChannelMeta(),
+    ...(state.feed.site || {}),
+    key: channelKey,
+  });
+  elements.loadingState.classList.add('hidden');
+
+  if (!state.posts.length) {
+    elements.emptyState.classList.remove('hidden');
+    updateFeedMeta();
+    updateLoadMoreVisibility();
+    handleRoute();
+    scheduleChannelCarouselAutotest();
+    return;
+  }
+
+  resetFeed();
+  handleRoute();
+  scheduleChannelCarouselAutotest();
+}
+
 async function loadFeed(channelKey, force = false) {
   state.activeChannelKey = channelKey;
   state.mediaRegistry = {};
@@ -1808,6 +1858,67 @@ async function switchChannel(channelKey, { replace = false, force = false, scrol
       await wait(CHANNEL_CONTENT_FADE_IN_DELAY_MS);
       setChannelContentSwitching(false);
     }
+  }
+
+  if (scrollToTop) {
+    scrollPageToTop();
+  }
+}
+
+async function loadFeed(channelKey, force = false) {
+  showFeedLoadingState(true);
+
+  try {
+    const feedPayload = await fetchFeedPayload(channelKey, force);
+    applyFeedPayload(channelKey, feedPayload);
+  } catch (error) {
+    elements.loadingState.classList.add('hidden');
+    elements.errorState.classList.remove('hidden');
+    elements.errorMessage.textContent = `РћС€РёР±РєР°: ${error.message}`;
+  }
+}
+
+async function switchChannel(channelKey, { replace = false, force = false, scrollToTop = false } = {}) {
+  const resolvedChannelKey = resolveChannelKey(channelKey);
+  if (!resolvedChannelKey) return;
+
+  const isChannelChange = Boolean(state.activeChannelKey) && resolvedChannelKey !== state.activeChannelKey;
+  const shouldClearHash = window.location.hash.startsWith('#comments-');
+  const shouldUpdateUrl = getChannelKeyFromLocation() !== resolvedChannelKey || shouldClearHash;
+
+  if (scrollToTop) {
+    scrollPageToTop();
+  }
+
+  if (!isChannelChange) {
+    if (shouldUpdateUrl) {
+      updateChannelUrl(resolvedChannelKey, { replace, clearHash: shouldClearHash });
+    }
+    await loadFeed(resolvedChannelKey, force);
+    if (scrollToTop) {
+      scrollPageToTop();
+    }
+    return;
+  }
+
+  setChannelContentSwitching(true);
+  await nextRenderFrame();
+  await wait(CHANNEL_CONTENT_FADE_OUT_MS);
+
+  try {
+    const feedPayload = await fetchFeedPayload(resolvedChannelKey, force);
+    applyFeedPayload(resolvedChannelKey, feedPayload);
+
+    if (shouldUpdateUrl) {
+      updateChannelUrl(resolvedChannelKey, { replace, clearHash: shouldClearHash });
+    }
+  } catch (error) {
+    elements.errorMessage.textContent = `РћС€РёР±РєР°: ${error.message}`;
+    showCopyToast(`Не удалось открыть канал: ${error.message}`);
+  } finally {
+    await nextRenderFrame();
+    await wait(CHANNEL_CONTENT_FADE_IN_DELAY_MS);
+    setChannelContentSwitching(false);
   }
 
   if (scrollToTop) {
