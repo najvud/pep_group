@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-19T04:42:54.242163+00:00",
+  "generated_at": "2026-03-19T08:13:13.040710+00:00",
   "pagination": {
     "page": 9,
     "page_size": 16,
@@ -7,6 +7,19 @@
     "total_pages": 11
   },
   "posts": [
+    {
+      "id": 2402,
+      "date": "2026-01-19T09:55:35+00:00",
+      "text": "🔥 Голосование за ТОП налоговых событий 2025 года!  В начале года предлагаем составить рейтинг значимых налоговых событий 2025 года, которые могли остаться в тени известных изменений.  🛑 Мы не включили в рейтинг масштабные поправки в НК РФ и прочие очевидные…",
+      "text_html": "🔥 Голосование за ТОП налоговых событий 2025 года!  В начале года предлагаем составить рейтинг значимых налоговых событий 2025 года, которые могли остаться в тени известных изменений.  🛑 Мы не включили в рейтинг масштабные поправки в НК РФ и прочие очевидные…",
+      "views": 1400,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [],
+      "video_url": null,
+      "tg_url": "https://t.me/PG_Tax/2402",
+      "forwarded_from": null
+    },
     {
       "id": 2400,
       "date": "2026-01-19T07:04:41+00:00",
@@ -265,24 +278,6 @@
       "photos": [],
       "video_url": "https://cdn4.telesco.pe/file/36796dff64.mp4?token=vCjiSMoqT1-akdjLVKBllJk_S3jV8AxDCwDeOIOt67r-8Ci3173K0OkVUFLluynqww3vYwsL79fCB0WQqnqJBQZsRs2hIWVKxHT0CRWSrVeWe1xYfqLI1dXYYmxlEQzQbj07qeF94PqU_hR9SRTLkYQuKYrACKxigQbHtMTPwUhO6LmXn4B2q3NGXwtjozWn8gqSHB52QOAxxyuN5RdWw0E9MlI2_N_bCfZLwWOu_-kXKaQMxqYS6P1iNC6hOCQN2ppxtTVyFkRq-1IxcxpYRAvKpzPDXdGhxCIIhmhOohROPhPZAIC_EQWKq--fjpQEw51ANqPFZNZH6BVZ1RBcJA",
       "tg_url": "https://t.me/PG_Tax/2385",
-      "forwarded_from": null
-    },
-    {
-      "id": 2384,
-      "date": "2026-01-06T11:03:41+00:00",
-      "text": "🔥 Ответы на вопросы  #Сергей_Пепеляев_ON_AIR\n\nУправляющий партнер \"Пепеляев Групп\" Сергей Пепеляев продолжает отвечать на вопросы подписчиков.\n\nПишите в комментарии вопросы для следующих выпусков 🎤\n\nВопрос дня:\n\n❓Что Вас вдохновило на использование в учебнике налогового права не только исторических фактов, но иллюстраций?",
-      "text_html": "🔥 Ответы на вопросы  #Сергей_Пепеляев_ON_AIR<br><br>Управляющий партнер \"Пепеляев Групп\" <a href=\"https://www.pgplaw.ru/to-get-the-team/sergey-pepeliaev/\" target=\"_blank\" rel=\"noopener noreferrer\">Сергей Пепеляев</a> продолжает отвечать на вопросы подписчиков.<br><br>Пишите в комментарии вопросы для следующих выпусков 🎤<br><br>Вопрос дня:<br><br>❓Что Вас вдохновило на использование в <a href=\"https://www.pgplaw.ru/analytics-and-brochures/books/two-volumes-of-tax-law/\" target=\"_blank\" rel=\"noopener noreferrer\">учебнике налогового права</a> не только исторических фактов, но иллюстраций?",
-      "views": 2130,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2384-1-11b6a404c876-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2384-1-11b6a404c876-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2384",
       "forwarded_from": null
     }
   ]
