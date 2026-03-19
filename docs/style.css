@@ -85,6 +85,24 @@ label,
   padding: 28px 0 36px;
 }
 
+.hero,
+.content,
+.site-footer {
+  transition:
+    opacity 220ms ease,
+    transform 220ms ease,
+    filter 220ms ease;
+}
+
+.site-shell.is-channel-switching .hero,
+.site-shell.is-channel-switching .content,
+.site-shell.is-channel-switching .site-footer {
+  opacity: 0;
+  transform: translateY(8px);
+  filter: blur(3px);
+  pointer-events: none;
+}
+
 .channel-nav {
   position: sticky;
   top: 12px;

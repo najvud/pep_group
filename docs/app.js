@@ -33,6 +33,7 @@ const state = {
 const elements = {
   channelMenu: document.getElementById('channelMenu'),
   channelCarousel: document.getElementById('channelCarousel'),
+  siteShell: document.querySelector('.site-shell'),
   siteTitle: document.getElementById('siteTitle'),
   siteDescription: document.getElementById('siteDescription'),
   channelAvatarWrap: document.getElementById('channelAvatarWrap'),
@@ -344,6 +345,18 @@ function scrollPageToTop() {
   window.scrollTo({ top: 0, behavior: 'auto' });
   document.documentElement.scrollTop = 0;
   document.body.scrollTop = 0;
+}
+
+function nextRenderFrame() {
+  return new Promise((resolve) => {
+    requestAnimationFrame(() => {
+      requestAnimationFrame(resolve);
+    });
+  });
+}
+
+function setChannelContentSwitching(active) {
+  elements.siteShell?.classList.toggle('is-channel-switching', Boolean(active));
 }
 
 function getChannelByKey(channelKey) {
@@ -688,8 +701,7 @@ function scheduleChannelCarouselAutotest() {
   };
 
   window.setTimeout(() => {
-    const nextButton = elements.channelCarousel?.querySelector('.channel-carousel__surface--current .channel-carousel__nav--next');
-    nextButton?.click();
+    void moveChannelCarousel(1);
   }, 250);
 
   window.setTimeout(() => {
@@ -708,7 +720,7 @@ function scheduleChannelCarouselAutotest() {
       `animating:${Boolean(state.channelCarouselAnimating)}`,
     ].join('|');
     state.channelCarouselAutotest.running = false;
-  }, 1900);
+  }, 2600);
 }
 
 function animateChannelCarouselShift(track, targetShift, { duration = getChannelCarouselTransitionDuration() } = {}) {
@@ -1169,6 +1181,89 @@ function renderMobileChannelCarousel() {
       state.channelCarouselTransition?.direction || 'next',
     );
   });
+}
+
+function buildMobileChannelCarouselSurface(channel, index, total, { current = false } = {}) {
+  const safeChannel = channel || getActiveChannelMeta() || {};
+  const { title, subtitle, rawLabel } = getChannelMenuLabels(safeChannel);
+  const hasMultiple = total > 1;
+
+  return `
+    <article
+      class="channel-carousel__surface${current ? ' channel-carousel__surface--current' : ''}"
+      style="${escapeHtml(buildChannelAccentStyle(safeChannel))}"
+      data-channel-carousel-surface="true"
+      data-channel-key="${escapeHtml(safeChannel.key || '')}"
+      aria-label="${escapeHtml(rawLabel)}"
+      ${current ? 'aria-current="true"' : 'aria-hidden="true"'}
+    >
+      <button
+        class="channel-carousel__nav channel-carousel__nav--prev"
+        type="button"
+        data-channel-shift="-1"
+        aria-label="Предыдущий канал"
+        ${hasMultiple ? '' : 'disabled'}
+      >
+        <svg viewBox="0 0 24 24" aria-hidden="true">
+          <path d="m14.5 6.5-5.5 5.5 5.5 5.5" />
+        </svg>
+      </button>
+      <div class="channel-carousel__content">
+        <span class="channel-carousel__meta">Канал ${index + 1} из ${total}</span>
+        <span class="channel-carousel__title">${formatTextWithSoftBreaks(title)}</span>
+        <span class="channel-carousel__subtitle">${formatTextWithSoftBreaks(subtitle)}</span>
+      </div>
+      <button
+        class="channel-carousel__nav channel-carousel__nav--next"
+        type="button"
+        data-channel-shift="1"
+        aria-label="Следующий канал"
+        ${hasMultiple ? '' : 'disabled'}
+      >
+        <svg viewBox="0 0 24 24" aria-hidden="true">
+          <path d="m9.5 6.5 5.5 5.5-5.5 5.5" />
+        </svg>
+      </button>
+    </article>
+  `;
+}
+
+function renderMobileChannelCarousel() {
+  if (!elements.channelCarousel) return;
+
+  const channels = getCatalogChannels();
+  if (!channels.length) {
+    elements.channelCarousel.innerHTML = '';
+    return;
+  }
+
+  const activeIndex = Math.max(0, getChannelIndex(state.activeChannelKey));
+  const activeChannel = channels[activeIndex] || channels[0];
+  const previousChannel = getRelativeChannel(-1) || activeChannel;
+  const nextChannel = getRelativeChannel(1) || activeChannel;
+
+  let carouselStage = elements.channelCarousel.querySelector('.channel-carousel__stage');
+  if (!carouselStage) {
+    elements.channelCarousel.innerHTML = '<div class="channel-carousel__stage"></div>';
+    carouselStage = elements.channelCarousel.querySelector('.channel-carousel__stage');
+  }
+
+  carouselStage.classList.remove('channel-carousel__stage--animating');
+  carouselStage.innerHTML = `
+    <div class="channel-carousel__track" data-channel-carousel-track>
+      ${buildMobileChannelCarouselSurface(previousChannel, (activeIndex - 1 + channels.length) % channels.length, channels.length)}
+      ${buildMobileChannelCarouselSurface(activeChannel, activeIndex, channels.length, { current: true })}
+      ${buildMobileChannelCarouselSurface(nextChannel, (activeIndex + 1) % channels.length, channels.length)}
+    </div>
+  `;
+
+  const track = carouselStage.querySelector('[data-channel-carousel-track]');
+  if (track) {
+    track.style.removeProperty('transition');
+    setChannelCarouselShift(track, 0);
+  }
+
+  finishChannelCarouselTransition();
 }
 
 function formatTextWithSoftBreaks(value) {
@@ -1639,11 +1734,13 @@ async function loadFeed(channelKey, force = false) {
       updateFeedMeta();
       updateLoadMoreVisibility();
       handleRoute();
+      scheduleChannelCarouselAutotest();
       return;
     }
 
     resetFeed();
     handleRoute();
+    scheduleChannelCarouselAutotest();
   } catch (error) {
     elements.loadingState.classList.add('hidden');
     elements.errorState.classList.remove('hidden');
@@ -1654,6 +1751,7 @@ async function loadFeed(channelKey, force = false) {
 async function switchChannel(channelKey, { replace = false, force = false, scrollToTop = false } = {}) {
   const resolvedChannelKey = resolveChannelKey(channelKey);
   if (!resolvedChannelKey) return;
+  const isChannelChange = Boolean(state.activeChannelKey) && resolvedChannelKey !== state.activeChannelKey;
 
   const shouldClearHash = window.location.hash.startsWith('#comments-');
   const shouldUpdateUrl = getChannelKeyFromLocation() !== resolvedChannelKey || shouldClearHash;
@@ -1665,7 +1763,19 @@ async function switchChannel(channelKey, { replace = false, force = false, scrol
     scrollPageToTop();
   }
 
-  await loadFeed(resolvedChannelKey, force);
+  if (isChannelChange) {
+    setChannelContentSwitching(true);
+    await nextRenderFrame();
+  }
+
+  try {
+    await loadFeed(resolvedChannelKey, force);
+  } finally {
+    if (isChannelChange) {
+      await nextRenderFrame();
+      setChannelContentSwitching(false);
+    }
+  }
 
   if (scrollToTop) {
     scrollPageToTop();
