@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-03-20T10:24:18.345919+00:00",
+  "generated_at": "2026-03-20T13:22:33.892398+00:00",
   "pagination": {
     "page": 6,
     "page_size": 16,
-    "total_posts": 167,
+    "total_posts": 168,
     "total_pages": 11
   },
   "posts": [
+    {
+      "id": 2456,
+      "date": "2026-02-10T13:35:02+00:00",
+      "text": null,
+      "text_html": null,
+      "views": 1430,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2456-1-7d6a6d24f25a-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2456-1-7d6a6d24f25a-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/PG_Tax/2456",
+      "forwarded_from": null
+    },
     {
       "id": 2455,
       "date": "2026-02-10T10:06:45+00:00",
@@ -119,7 +137,7 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/a9db42e7e0.mp4?token=S0yUwD_hieR5L4slL-XGUyqHjQeL9j7gimDCrjKvMfCsbH-_ghjR1azV-HjzNnaimTQuDrRqWZRtQUy0R4R5_vINgRxmoB0_q1RRsRBHV6m0-NWDlmGdE6YqE-7lfadd3l-DDYI5JLIfNEphhwzcKkFuDqTxQN_VzSMfYH_NsnufNkCj-jLUf95RbV_mFUNSPcNVznUIOhfwgt9eQCUK0kQ9Mb7idHER5CO5v-pInYQ2qb1toPMGjBHfC4AU7jth0inISaVOztjEqN941BiBgVta_GnSchSOTyYxMldk8rp8pBBmUi35E9JjWowbtWD6V7P0mWX2QUil8XHHuxWPFw",
+      "video_url": "https://cdn4.telesco.pe/file/a9db42e7e0.mp4?token=vnwkXLxzo4rk67lR4T8TlSoih4GZ9YNhPqy5U0S9xGZbSCcMLPvdpMGtgaGdiDASVPZUbcz5Nd9Zocfspq_fti9RdFBdEHj1oiONj1HcFXMHnqZPw-OxKFA5oa_0rangVbIcpb4FU-YB16eYCLLB6lJ18_uF90Jwn67XdYs_joRjloYsDQS5RKYbJNiuY5PtHGQek9_Nnv2qV7ic8vLq8CZ9VwgHf6oL6edRtMhphkwCuAyL20eS3sm65NhYCrNfztLZu50vxp33DcTC0PD34Rqv_0pFJkzMcPkA3Bxv-zjqLoMMvNdT5IEzQ619nPojgBlZXzlr5VUlisjydLgtEg",
       "tg_url": "https://t.me/PG_Tax/2449",
       "forwarded_from": null
     },
@@ -151,8 +169,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2447-1-181538c2e52d-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2447-1-181538c2e52d-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2447-1-a66872f8cc88-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2447-1-a66872f8cc88-v4.jpg"
         }
       ],
       "video_url": null,
@@ -169,8 +187,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2446-1-ba97f8a112c0-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2446-1-ba97f8a112c0-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2446-1-832cc35fc3dc-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2446-1-832cc35fc3dc-v4.jpg"
         }
       ],
       "video_url": null,
@@ -187,8 +205,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2445-1-caf87f1a1dcf-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2445-1-caf87f1a1dcf-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2445-1-ee63cf9d12c7-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2445-1-ee63cf9d12c7-v4.jpg"
         }
       ],
       "video_url": null,
@@ -205,8 +223,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2444-1-85b51d975bee-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2444-1-85b51d975bee-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2444-1-96da95a8f065-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2444-1-96da95a8f065-v4.jpg"
         }
       ],
       "video_url": null,
@@ -222,7 +240,7 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/63e6f20f02.mp4?token=j6DuaurXYmFV_Wq-PYICDDxcC3qGePpMtGKltj6--ZGA1MjPkzNdnuIALjW8SiHYBkH60tLa5MWK-XmaEKCP0manPcfwPbcOzJlKsQAI8vx-Y0euRVo2cSnfYGNpj46Osp2sm7iQW0_K8LVJY6Bta9ROWcnHFZda-Z4h3qhwGj2A-fl4_NFDBQ_jn8UcmRABAHQSwE4dWQhATGNNLbpo3lHc_Y2jCpaZdxaMP4QWF04QXCUXOT8eYQyjJqWXqbi_v8ufkytHvTOW1u5KebVWl7HlGY_aEFodpMSt8tGi8TFFUhAXa24HoDIHhlzw_LT6csWZ0DoKB_s3ukS9X6sqxA",
+      "video_url": "https://cdn4.telesco.pe/file/63e6f20f02.mp4?token=PKc93OGyInsrh5-W2UVEsXn5QTxFzdtTDvgWj4GoHx8egLXYHjgIsHBkiEkzeN6Pp1qT2Ib1E_ELjNqadGjhlJoT1TE4fM2htF77oKKb57uPdZJ2NC15xgTi7b_iioN5egcuyZrCRgQHiG1stQE_-NvbEFOICsniDCrqcR51bnOL7nX3rKBSvrgK7g7nU9-AsLYbf6oh8yRGGkruYk3VRQABEAecTnW8gfx3eSNeAg7ZdBhPOTnd48AeaQz10Arw-iUxqlExbjApDobaae-z3uOZSVRPhoiYSoKi6f274xGi4B-qN8rJLM9cBmOgNpu5MaXcYbadW9yCXtiCcgN91A",
       "tg_url": "https://t.me/PG_Tax/2443",
       "forwarded_from": null
     },
@@ -236,8 +254,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2442-1-cbf5157651a7-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2442-1-cbf5157651a7-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2442-1-078689cf1793-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2442-1-078689cf1793-v4.jpg"
         }
       ],
       "video_url": null,
@@ -254,30 +272,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2441-1-742943586d00-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2441-1-742943586d00-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2441-1-96a859022e9c-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2441-1-96a859022e9c-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/PG_Tax/2441",
-      "forwarded_from": null
-    },
-    {
-      "id": 2440,
-      "date": "2026-02-04T07:15:02+00:00",
-      "text": "✍️ Нормотворчество\n \nМинфин России рассмотрит возможность корректировки НДД от добычи углеводородного сырья. \n«Сейчас компании вышли с инициативой, учитывая усложнение добычи, рост издержек, больше в структуре добычи у нас доля трудноизвлекаемых запасов», – объяснил свое поручение вице-премьер Александр Новак.\n \n⚙️ Практика\n \nК началу февраля Реестр недобросовестных работодателей разросся до 656 лиц, большинство — это ИП, но есть и организации.\n🛑 Критерием для включения работодателя в реестр выступает нарушение трудового законодательства, связанное с нелегальной занятостью.\n \n⚖️ Судебные дела\n \nКонституционный Суд РФ разрешил гражданам регистрироваться по месту пребывания в нежилых помещениях, включая апартаменты гостиничного типа (Постановление от 03.02.2026 № 4-П). \n🛑 При этом Суд подчеркнул, что его выводы не распространяются на регистрацию по месту жительства и не отменяют более высокие ставки налога на имущество и коммунальные платежи для владельцев нежилых помещений.\n \n#главные_налоговые_новости",
-      "text_html": "✍️ Нормотворчество<br> <br>Минфин России <a href=\"https://www.vedomosti.ru/economics/news/2026/02/03/1173653-novak-poruchil\" target=\"_blank\" rel=\"noopener noreferrer\">рассмотрит</a> возможность корректировки НДД от добычи углеводородного сырья. <br>«Сейчас компании вышли с инициативой, учитывая усложнение добычи, рост издержек, больше в структуре добычи у нас доля трудноизвлекаемых запасов», – объяснил свое поручение вице-премьер Александр Новак.<br> <br>⚙️ Практика<br> <br>К началу февраля Реестр недобросовестных работодателей <a href=\"https://iz.ru/2036547/olga-anaseva/serym-sero-svyshe-650-kompanij-popali-v-reestr-nedobrosovestnyh-rabotodatelej\" target=\"_blank\" rel=\"noopener noreferrer\">разросся</a> до 656 лиц, большинство — это ИП, но есть и организации.<br>🛑 Критерием для включения работодателя в реестр выступает нарушение трудового законодательства, связанное с нелегальной занятостью.<br> <br>⚖️ Судебные дела<br> <br>Конституционный Суд РФ <a href=\"https://iz.ru/2036382/2026-02-03/konstitutcionnyi-sud-rossii-razreshil-registratciiu-v-apartamentakh\" target=\"_blank\" rel=\"noopener noreferrer\">разрешил</a> гражданам регистрироваться по месту пребывания в нежилых помещениях, включая апартаменты гостиничного типа (Постановление от 03.02.2026 № <a href=\"https://www.ksrf.ru/doc/KSRFDecision885638.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">4-П</a>). <br>🛑 При этом Суд подчеркнул, что его выводы не распространяются на регистрацию по месту жительства и не отменяют более высокие ставки налога на имущество и коммунальные платежи для владельцев нежилых помещений.<br> <br>#главные_налоговые_новости",
-      "views": 1480,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2440-1-afb8502e9930-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2440-1-afb8502e9930-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2440",
       "forwarded_from": null
     }
   ]
