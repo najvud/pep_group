@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-03-20T13:22:33.886573+00:00",
+  "generated_at": "2026-03-20T15:02:10.152103+00:00",
   "pagination": {
     "page": 3,
     "page_size": 16,
-    "total_posts": 168,
+    "total_posts": 169,
     "total_pages": 11
   },
   "posts": [
+    {
+      "id": 2513,
+      "date": "2026-03-05T14:21:30+00:00",
+      "text": null,
+      "text_html": null,
+      "views": 1180,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [],
+      "video_url": "https://cdn4.telesco.pe/file/52aac8a07b.mp4?token=vW8Zgn0sRe8_Xw0XKNFVVrZLQsKZAmMCKu7JdtOUow2fFA1EuF4sGL8T2aehbiKgjaUIAfJg6ewDoDCokFvoWuw1xaqBS_RbnalZw6N47EjsLN0UzmDq23m2zml7wd4EYQEbFWzt9jk-cT8JGsI_UsDLL-fuBqJoC-7KpO6KYWmtBPnhZJnvsBa46wGuJB3MpXk7MTpVbTau4_ouKPMQtHScbcfFLcrcTD6zsBWZTN2QIMecoydrnE9vo8agxPXttLC6Jb-q9OhloTc4PYO_DfcHFfakQjrDmVrsNl7i784zRY6pFfSTESleLy3INr4gspChPh6R9LdP1fY9FoDJBg",
+      "tg_url": "https://t.me/PG_Tax/2513",
+      "forwarded_from": null
+    },
     {
       "id": 2512,
       "date": "2026-03-05T14:21:04+00:00",
@@ -265,32 +278,6 @@
       ],
       "video_url": null,
       "tg_url": "https://t.me/PG_Tax/2494",
-      "forwarded_from": null
-    },
-    {
-      "id": 2491,
-      "date": "2026-02-26T13:27:50+00:00",
-      "text": "🏆 Делимся результатами индивидуального рейтинга Право-300 за 2025 год по налогам и валютному регулированию!\n\nРекомендованы: \n\n1️⃣1️⃣ юристов в налоговых номинациях\n4️⃣ юриста в категории «Валютное регулирование»\n\n4️⃣4️⃣ эксперта «Пепеляев Групп» отмечены в общей сложности. \n\nС полными результатами можно ознакомиться на сайте.\n\n🎉 Благодарим Право ру за проделанную работу и поздравляем коллег с профессиональными успехами!",
-      "text_html": "🏆 Делимся результатами индивидуального рейтинга Право-300 за 2025 год по налогам и валютному регулированию!<br><br>Рекомендованы: <br><br>1️⃣1️⃣ юристов в налоговых номинациях<br>4️⃣ юриста в категории «Валютное регулирование»<br><br>4️⃣4️⃣ эксперта «Пепеляев Групп» отмечены в общей сложности. <br><br>С полными результатами можно ознакомиться <a href=\"https://www.pgplaw.ru/news/press-releases/individualniy-reyting-pravo300-2025/\" target=\"_blank\" rel=\"noopener noreferrer\">на сайте</a>.<br><br>🎉 Благодарим Право ру за проделанную работу и поздравляем коллег с профессиональными успехами!",
-      "views": 1410,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2491-1-f4db576ce5c2-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2491-1-f4db576ce5c2-v4.jpg"
-        },
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2491-2-68b93e8ec9ed-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2491-2-68b93e8ec9ed-v4.jpg"
-        },
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2491-3-a2dc5d9601bd-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2491-3-a2dc5d9601bd-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2491",
       "forwarded_from": null
     }
   ]
