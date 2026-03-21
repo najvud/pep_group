@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-21T22:28:33.620563+00:00",
+  "generated_at": "2026-03-21T22:53:20.339139+00:00",
   "site": {
     "channel_username": "InvestmentLaw",
     "channel_title": "СпецИнвестРежимы",
@@ -19,7 +19,7 @@
   "pagination": {
     "page": 1,
     "page_size": 16,
-    "total_posts": 39,
+    "total_posts": 38,
     "total_pages": 3
   },
   "posts": [
@@ -215,8 +215,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/investment-law/media/posts/thumbs/1054-1-815e2e9dc10c-v4.jpg",
-          "full_url": "data/channels/investment-law/media/posts/1054-1-815e2e9dc10c-v4.jpg"
+          "thumb_url": "data/channels/investment-law/media/posts/thumbs/1054-1-6141d0f69e99-v4.jpg",
+          "full_url": "data/channels/investment-law/media/posts/1054-1-6141d0f69e99-v4.jpg"
         }
       ],
       "video_url": null,
