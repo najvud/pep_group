@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-03-23T13:46:24.671733+00:00",
+  "generated_at": "2026-03-23T14:44:47.077363+00:00",
   "pagination": {
     "page": 5,
     "page_size": 16,
-    "total_posts": 72,
+    "total_posts": 73,
     "total_pages": 5
   },
   "posts": [
+    {
+      "id": 1665,
+      "date": "2026-01-14T07:31:03+00:00",
+      "text": "🧩 Коммерсантъ: IT-госкомпаниям вернут льготы для общего блага\n\nМинцифры подготовило проект постановления правительства, который позволит IT-компаниям с госучастием получить льготы при уплате соцвзносов и налогов, которыми сегодня пользуются аккредитованные частные IT-разработчики.\n\n🔘По словам партнера «Пепеляев Групп» Натальи Коваленко, «возврат» льгот IT-госкомпаниям объясняется тем, что проекты, работа над которыми открывает доступ к послаблениям, приоритетны для государства, но недостаточно прибыльны.\n\n💬 «Вне реализации приоритетных задач получить налоговые льготы IT-компаниям с госучастием по-прежнему будет невозможно. Также льготы останутся недоступны для IT-компаний с участием регионов и муниципалитетов, что “создает определенное неравенство между IT-компаниями”», – обращает внимание Наталья.\n\n👉 Комментарий доступен по ссылке.",
+      "text_html": "🧩 Коммерсантъ: IT-госкомпаниям вернут льготы для общего блага<br><br>Минцифры подготовило проект постановления правительства, который позволит IT-компаниям с госучастием получить льготы при уплате соцвзносов и налогов, которыми сегодня пользуются аккредитованные частные IT-разработчики.<br><br>🔘По словам партнера «Пепеляев Групп» <a href=\"https://www.pgplaw.ru/to-get-the-team/natalya-ivashchenko/\" target=\"_blank\" rel=\"noopener noreferrer\">Натальи Коваленко</a>, «возврат» льгот IT-госкомпаниям объясняется тем, что проекты, работа над которыми открывает доступ к послаблениям, приоритетны для государства, но недостаточно прибыльны.<br><br>💬 «Вне реализации приоритетных задач получить налоговые льготы IT-компаниям с госучастием по-прежнему будет невозможно. Также льготы останутся недоступны для IT-компаний с участием регионов и муниципалитетов, что “создает определенное неравенство между IT-компаниями”», – обращает внимание Наталья.<br><br>👉 Комментарий доступен <a href=\"https://www.pgplaw.ru/analytics-and-brochures/articles-comments-interviews/it-goskompaniyam-vernut-lgoty-dlya-obshchego-blaga/\" target=\"_blank\" rel=\"noopener noreferrer\">по ссылке</a>.",
+      "views": 1260,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1665-1-0f2e5b164aae-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1665-1-0f2e5b164aae-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/pgp_official/1665",
+      "forwarded_from": null
+    },
     {
       "id": 1664,
       "date": "2026-01-13T10:00:17+00:00",
@@ -34,7 +52,7 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/f786189bc7.mp4?token=uR-vF_r_x3ZrVSoDYMlWMwT8lHh1T-cdm43F8M3DVQyD6WXT-9pnZZSYx-SacBsyN4wuQ9_gxJoEKV7FNek0RVN_mEpxM70IOtNpoNMOHx3g4TP64dPp6wh3b08JhrNZRHiZJRe2vvi9sv3hS459-PFURLBwxKDzKYHuvqPE7om_6jF-jk39qhC5YfloWhNw5U0Bsv976z3BPypqHInKP00VjYR47hIX5mAhCjGKlo0bXQ6rIkvHfr5y8srPVX62Z7juijpi1LvwW4q5cflxV7wR77j5CiTtPbaP2mV4dOCKVkza0W9bFfZkZ_gWeEvw1-2FVeBpm3dB71maJrDkCQ",
+      "video_url": "https://cdn4.telesco.pe/file/f786189bc7.mp4?token=EPbyIOs70Rrvs6zVeR-A0GEvN-dKVbpTphDJkUeN7ZYdVi6xWq8Shwp3a8UqPHT_ITmXr28fNhJ6kRKWUaJpjc7dcykGYrzbAPwCsXqqpAhpkoHrJznwFUuilHQdV8yL4QVsFjLAqZsoazNDpHZNfua1Vh8rqVibx6c_1TicPwSlNO0sW85lz9cbMdLXLlHXIJ2G-W-fdVScYrUF6SJ9yT2rBzhOUE8ESoglWE_S66vmlc1AdGQWM5u3y_qVLP4Zg0UWVCQWm19KWLOnLVoXFhYBWDWnP_4hpzUOFF6TDSv7JDb33w2GqfpbNCAM71IaSMv46hK5WLwBrmcu9SOl5g",
       "tg_url": "https://t.me/pgp_official/1663",
       "forwarded_from": {
         "source_url": "https://t.me/PG_Tax/2381",
@@ -66,8 +84,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1661-1-fa437e5f4622-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1661-1-fa437e5f4622-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1661-1-74068ce0ec33-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1661-1-74068ce0ec33-v4.jpg"
         }
       ],
       "video_url": null,
@@ -84,8 +102,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1660-1-48011d831cfd-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1660-1-48011d831cfd-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1660-1-6abb5dd1e265-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1660-1-6abb5dd1e265-v4.jpg"
         }
       ],
       "video_url": null,

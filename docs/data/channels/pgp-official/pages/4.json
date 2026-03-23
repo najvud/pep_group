@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-03-23T13:46:24.670025+00:00",
+  "generated_at": "2026-03-23T14:44:47.075658+00:00",
   "pagination": {
     "page": 4,
     "page_size": 16,
-    "total_posts": 72,
+    "total_posts": 73,
     "total_pages": 5
   },
   "posts": [
+    {
+      "id": 1695,
+      "date": "2026-01-26T13:03:09+00:00",
+      "text": "⚡️ Новые правила доступа инвесторов к цифровым финансовым активам\n\nС 1 января 2026 г. меняется порядок допуска инвесторов к цифровым финансовым активам, а также вводится обновленная классификация ЦФА по уровню риска. Эти изменения обусловлены вступлением в силу Указания Банка России от 23.09.2025 № 7176-У.\n\n❓ Что изменилось\n\nУстановлены категории ЦФА, которые разделяются в зависимости от:\n\n▫️ наличия статуса квалифицированного инвестора;\n▫️ привязки стоимости или дохода к рыночным и иным показателям;\n▫️ уровня кредитного рейтинга ЦФА или их эмитента.\n\n❗️ Важно\n\nРекомендуем инвесторам и эмитентам проанализировать новые возможности и ограничения на проведение операций с различными ЦФА, отслеживать установление рейтингов ЦФА и(или) эмитентов, а также контролировать совокупный объем вложений в пределах установленного лимита.\n\nПолный текст алерта доступен по ссылке 👉\n\nℹ️  Если у вас остались вопросы по данной теме, вы можете связаться с Лидией Горшковой, партнером «Пепеляев Групп».\n\n#pg_алерты",
+      "text_html": "⚡️ Новые правила доступа инвесторов к цифровым финансовым активам<br><br>С 1 января 2026 г. меняется порядок допуска инвесторов к цифровым финансовым активам, а также вводится обновленная классификация ЦФА по уровню риска. Эти изменения обусловлены вступлением в силу Указания Банка России от 23.09.2025 № 7176-У.<br><br>❓ Что изменилось<br><br>Установлены категории ЦФА, которые разделяются в зависимости от:<br><br>▫️ наличия статуса квалифицированного инвестора;<br>▫️ привязки стоимости или дохода к рыночным и иным показателям;<br>▫️ уровня кредитного рейтинга ЦФА или их эмитента.<br><br>❗️ Важно<br><br>Рекомендуем инвесторам и эмитентам проанализировать новые возможности и ограничения на проведение операций с различными ЦФА, отслеживать установление рейтингов ЦФА и(или) эмитентов, а также контролировать совокупный объем вложений в пределах установленного лимита.<br><br>Полный текст алерта доступен <a href=\"https://www.pgplaw.ru/analytics-and-brochures/alerts/novye-pravila-dostupa-investorov-k-tsifrovym-finansovym-aktivam/\" target=\"_blank\" rel=\"noopener noreferrer\">по ссылке</a> 👉<br><br>ℹ️  Если у вас остались вопросы по данной теме, вы можете связаться с <a href=\"https://www.pgplaw.ru/to-get-the-team/lidiya-gorshkova/\" target=\"_blank\" rel=\"noopener noreferrer\">Лидией Горшковой</a>, партнером «Пепеляев Групп».<br><br>#pg_алерты",
+      "views": 1070,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1695-1-49a0841fce01-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1695-1-49a0841fce01-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/pgp_official/1695",
+      "forwarded_from": null
+    },
     {
       "id": 1694,
       "date": "2026-01-26T09:59:58+00:00",
@@ -107,8 +125,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1689-1-74c6b4c73791-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1689-1-74c6b4c73791-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1689-1-e9ea1945ce80-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1689-1-e9ea1945ce80-v4.jpg"
         }
       ],
       "video_url": null,
@@ -130,8 +148,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1684-1-cdbe4403211c-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1684-1-cdbe4403211c-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1684-1-ae13057f46bc-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1684-1-ae13057f46bc-v4.jpg"
         },
         {
           "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1684-2-03235f1b1696-v4.jpg",
@@ -142,12 +160,12 @@
           "full_url": "data/channels/pgp-official/media/posts/1684-3-fc6fe397e084-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1684-4-214b8ab0ae89-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1684-4-214b8ab0ae89-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1684-4-5b195428eb59-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1684-4-5b195428eb59-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1684-5-9b8ede8e2bfc-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1684-5-9b8ede8e2bfc-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1684-5-d27560bbfe71-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1684-5-d27560bbfe71-v4.jpg"
         }
       ],
       "video_url": null,
@@ -182,8 +200,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1678-1-06dfc48d02e4-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1678-1-06dfc48d02e4-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1678-1-35085d2c5b77-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1678-1-35085d2c5b77-v4.jpg"
         },
         {
           "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1678-2-1cb609f55d40-v4.jpg",
@@ -194,8 +212,8 @@
           "full_url": "data/channels/pgp-official/media/posts/1678-3-fc6743ce7e1e-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1678-4-d889d166edaa-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1678-4-d889d166edaa-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1678-4-100143d30523-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1678-4-100143d30523-v4.jpg"
         },
         {
           "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1678-5-2833fe64e392-v4.jpg",
@@ -211,7 +229,7 @@
       "date": "2026-01-19T10:02:48+00:00",
       "text": "🗓 Начался деловой сезон-2026 – впереди новые бизнес-задачи и планы.\n\nА значит, важно оставаться в курсе изменений законодательства и практики, чтобы учитывать все риски.\n\nМы продолжаем регулярно отслеживать весь массив обновлений и отбирать для вас ключевые законодательные инициативы, разъяснения регуляторов и кейсы, которые влияют на работу бизнеса.\n\n📣 Сегодня рассказываем о том, какие важные законы в сфере антимонопольного регулирования и закупок подписаны накануне Нового года.\n\nСледите за нашими публикациями – PG Antitrust для тех, кто ценит время и кому важно оперативно узнавать новости.\n\n💬 А если нужно пояснить детали по изменениям и помочь адаптироваться к ним, эксперты антимонопольной практики всегда на связи.\n\n#антитраст #госзаказ",
       "text_html": "🗓 Начался деловой сезон-2026 – впереди новые бизнес-задачи и планы.<br><br>А значит, важно оставаться в курсе изменений законодательства и практики, чтобы учитывать все риски.<br><br>Мы продолжаем регулярно отслеживать весь массив обновлений и отбирать для вас ключевые законодательные инициативы, разъяснения регуляторов и кейсы, которые влияют на работу бизнеса.<br><br>📣 Сегодня <a href=\"https://cljournal.ru/news/27650/\" target=\"_blank\" rel=\"noopener noreferrer\">рассказываем</a> о том, какие важные законы в сфере антимонопольного регулирования и закупок подписаны накануне Нового года.<br><br>Следите за нашими публикациями – <a href=\"https://t.me/PgAntitrust\" target=\"_blank\" rel=\"noopener noreferrer\">PG Antitrust</a> для тех, кто ценит время и кому важно оперативно узнавать новости.<br><br>💬 А если нужно пояснить детали по изменениям и помочь адаптироваться к ним, <a href=\"https://www.pgplaw.ru/practice-and-industry/practices/antitrust-regulation/\" target=\"_blank\" rel=\"noopener noreferrer\">эксперты антимонопольной практики</a> всегда на связи.<br><br>#антитраст #госзаказ",
-      "views": 998,
+      "views": 999,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
@@ -234,7 +252,7 @@
       "date": "2026-01-19T07:00:23+00:00",
       "text": "🔍 Открываем новую рабочую неделю с рубрикой #PGГрамотность\n\nСчет-фактура. Мужской или женский род?\n\n☝️ Читайте в карточке правописания!",
       "text_html": "🔍 Открываем новую рабочую неделю с рубрикой #PGГрамотность<br><br>Счет-фактура. Мужской или женский род?<br><br>☝️ Читайте в карточке правописания!",
-      "views": 887,
+      "views": 888,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
@@ -243,8 +261,8 @@
           "full_url": "data/channels/pgp-official/media/posts/1674-1-6e778c6e1ac1-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1674-2-3ec6ae926019-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1674-2-3ec6ae926019-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1674-2-dedbf239b24a-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1674-2-dedbf239b24a-v4.jpg"
         }
       ],
       "video_url": null,
@@ -265,8 +283,8 @@
           "full_url": "data/channels/pgp-official/media/posts/1669-1-e1872ea9b2be-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1669-2-a8ec3ad9ccdf-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1669-2-a8ec3ad9ccdf-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1669-2-343b1214ae81-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1669-2-343b1214ae81-v4.jpg"
         },
         {
           "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1669-3-c2dc38faaec0-v4.jpg",
@@ -295,8 +313,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1668-1-41272f4748a4-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1668-1-41272f4748a4-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1668-1-93018fb02074-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1668-1-93018fb02074-v4.jpg"
         }
       ],
       "video_url": null,
@@ -336,30 +354,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1666-1-40774cf758e9-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1666-1-40774cf758e9-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1666-1-f8785c85d2aa-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1666-1-f8785c85d2aa-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/pgp_official/1666",
-      "forwarded_from": null
-    },
-    {
-      "id": 1665,
-      "date": "2026-01-14T07:31:03+00:00",
-      "text": "🧩 Коммерсантъ: IT-госкомпаниям вернут льготы для общего блага\n\nМинцифры подготовило проект постановления правительства, который позволит IT-компаниям с госучастием получить льготы при уплате соцвзносов и налогов, которыми сегодня пользуются аккредитованные частные IT-разработчики.\n\n🔘По словам партнера «Пепеляев Групп» Натальи Коваленко, «возврат» льгот IT-госкомпаниям объясняется тем, что проекты, работа над которыми открывает доступ к послаблениям, приоритетны для государства, но недостаточно прибыльны.\n\n💬 «Вне реализации приоритетных задач получить налоговые льготы IT-компаниям с госучастием по-прежнему будет невозможно. Также льготы останутся недоступны для IT-компаний с участием регионов и муниципалитетов, что “создает определенное неравенство между IT-компаниями”», – обращает внимание Наталья.\n\n👉 Комментарий доступен по ссылке.",
-      "text_html": "🧩 Коммерсантъ: IT-госкомпаниям вернут льготы для общего блага<br><br>Минцифры подготовило проект постановления правительства, который позволит IT-компаниям с госучастием получить льготы при уплате соцвзносов и налогов, которыми сегодня пользуются аккредитованные частные IT-разработчики.<br><br>🔘По словам партнера «Пепеляев Групп» <a href=\"https://www.pgplaw.ru/to-get-the-team/natalya-ivashchenko/\" target=\"_blank\" rel=\"noopener noreferrer\">Натальи Коваленко</a>, «возврат» льгот IT-госкомпаниям объясняется тем, что проекты, работа над которыми открывает доступ к послаблениям, приоритетны для государства, но недостаточно прибыльны.<br><br>💬 «Вне реализации приоритетных задач получить налоговые льготы IT-компаниям с госучастием по-прежнему будет невозможно. Также льготы останутся недоступны для IT-компаний с участием регионов и муниципалитетов, что “создает определенное неравенство между IT-компаниями”», – обращает внимание Наталья.<br><br>👉 Комментарий доступен <a href=\"https://www.pgplaw.ru/analytics-and-brochures/articles-comments-interviews/it-goskompaniyam-vernut-lgoty-dlya-obshchego-blaga/\" target=\"_blank\" rel=\"noopener noreferrer\">по ссылке</a>.",
-      "views": 1260,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1665-1-53ef935cb08d-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1665-1-53ef935cb08d-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/pgp_official/1665",
       "forwarded_from": null
     }
   ]
