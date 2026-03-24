@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-03-24T07:44:07.687130+00:00",
+  "generated_at": "2026-03-24T10:31:28.194901+00:00",
   "pagination": {
     "page": 5,
     "page_size": 16,
-    "total_posts": 72,
+    "total_posts": 71,
     "total_pages": 5
   },
   "posts": [
@@ -17,8 +17,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1665-1-b140dbced247-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1665-1-b140dbced247-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1665-1-623a224e49b8-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1665-1-623a224e49b8-v4.jpg"
         }
       ],
       "video_url": null,
@@ -52,7 +52,7 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/f786189bc7.mp4?token=QraoT7G1xNRM2Ol47y3W8cX51W519QfWSX_cbegW6gWuTWZUi3X4Nb-oZ5_0rBHM1fksRr7beCFP4qoscBNU2cCU37dijYA-cziDSngRgpXxz43hlxe9ZmS6uB4FpTE1khpxdeno4AycnBJhDhPXQXLIZEv9-adcHcJPcIp0ed-uyFnk-CFGuiOGd_KbYjYGzUGB5_3I6lvqPiuxoXS80CIztVhXsVavh_BvSTHsRYF5AphRXDnpxfXWWF4wqMcGwCjP-5h90uLEChMT1nT79Qc4YLu8TTt49HNxPM4VmnThGv2L3EJ23DQyEw3k-TIhMcRDXCgwtqhWJVkwOINzHw",
+      "video_url": "https://cdn4.telesco.pe/file/f786189bc7.mp4?token=NhXH9ZIOqQrYFfBaJu5Af5P0iWFBNB8ZX8n-_fYd8xJiAi9-ZNZ8a5JasUydZ7bP6ogTng2IcSK6jc_RKUougl0c5vTzz5fhzEGLMXQo-FelCw2vq2fEDlcqiiSWRbSI1hfCY9zFZN0mCH-IsBxfcarCzXpw175GhBXMhtk1sfeJvM2kJ-mEDp3gnB91H8-3rA5eUbwcme4JxJB8meHCbRCXalGeH_-6UiAIvcKZNPZexpCVDwk-oCZNtlEMEmpv_XiWNUBaFRvUJ9DRJlrDL7J07GeZRRpjfekC1ZaWFPWWJlBsrvBYFiBjK5VqYtrI2UoKPH2n0uk6DT2gRnPEZA",
       "tg_url": "https://t.me/pgp_official/1663",
       "forwarded_from": {
         "source_url": "https://t.me/PG_Tax/2381",
@@ -66,7 +66,7 @@
       "date": "2025-12-31T08:59:54+00:00",
       "text": "🎁 Дорогие друзья,\nПодходит к концу 2025 год, полный ярких событий, важных открытий, а иногда и сложных решений. \n\nЭтот год мы прошли вместе – через дела, встречи, разговоры, где было место и работе, и простому человеческому теплу.\n\nМы гордимся тем, что за профессиональными задачами сохраняем главное: отношения, в которых есть доверие, уважение и дружеская поддержка.\n\nПусть новый год принесет вам ощущение гармонии и уверенности. Пусть в доме звучит смех, в сердце живет спокойствие, а в делах – порядок и успех.\n\n ❤️ А мы, как всегда, рядом, чтобы помочь, поддержать и разделить с вами радость новых свершений.\n\nС Новым годом!\nКоманда «Пепеляев Групп» ❄️🎄",
       "text_html": "🎁 Дорогие друзья,<br>Подходит к концу 2025 год, полный ярких событий, важных открытий, а иногда и сложных решений. <br><br>Этот год мы прошли вместе – через дела, встречи, разговоры, где было место и работе, и простому человеческому теплу.<br><br>Мы гордимся тем, что за профессиональными задачами сохраняем главное: отношения, в которых есть доверие, уважение и дружеская поддержка.<br><br>Пусть новый год принесет вам ощущение гармонии и уверенности. Пусть в доме звучит смех, в сердце живет спокойствие, а в делах – порядок и успех.<br><br> ❤️ А мы, как всегда, рядом, чтобы помочь, поддержать и разделить с вами радость новых свершений.<br><br>С Новым годом!<br>Команда «Пепеляев Групп» ❄️🎄",
-      "views": 7800,
+      "views": 7810,
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
@@ -126,24 +126,6 @@
       ],
       "video_url": null,
       "tg_url": "https://t.me/pgp_official/1659",
-      "forwarded_from": null
-    },
-    {
-      "id": 1658,
-      "date": "2025-12-24T09:59:54+00:00",
-      "text": "🎄 «Пепеляев Групп» – партнер Новогоднего фестиваля сказок\n\nВ этом году мы поддерживаем по-настоящему теплый и семейный новогодний проект – Новогодний фестиваль сказок в центре Москвы. Это камерный формат для детей и родителей с атмосферными спектаклями и настоящим новогодним чудом.\n\nЧто ждет гостей:\n 🔘Камерные спектакли для детей от 3 до 10 лет;\n 🔘Встреча с Дедом Морозом и подарки;\n 🔘Уютные творческие мастер-классы для детей и родителей.\n\n❄️ Афиша / Билеты\nПромокод на скидку 15% для друзей «Пепеляев Групп»: PGTAX\n\n🗓  Даты фестиваля: с 29 декабря по 10 января.\n\n📍 Место проведения: Театральный лофт Komnata 528 (Москва, Столешников переулок, 14).",
-      "text_html": "🎄 «Пепеляев Групп» – партнер Новогоднего фестиваля сказок<br><br>В этом году мы поддерживаем по-настоящему теплый и семейный новогодний проект – <a href=\"https://komnata528.space/festival/?utm_source=pepelyaevgroup\" target=\"_blank\" rel=\"noopener noreferrer\">Новогодний фестиваль сказок</a> в центре Москвы. Это камерный формат для детей и родителей с атмосферными спектаклями и настоящим новогодним чудом.<br><br>Что ждет гостей:<br> 🔘Камерные спектакли для детей от 3 до 10 лет;<br> 🔘Встреча с Дедом Морозом и подарки;<br> 🔘Уютные творческие мастер-классы для детей и родителей.<br><br>❄️ <a href=\"https://komnata528.space/festival/?utm_source=pepelyaevgroup\" target=\"_blank\" rel=\"noopener noreferrer\">Афиша / Билеты</a><br>Промокод на скидку 15% для друзей «Пепеляев Групп»: PGTAX<br><br>🗓  Даты фестиваля: с 29 декабря по 10 января.<br><br>📍 Место проведения: Театральный лофт Komnata 528 (Москва, Столешников переулок, 14).",
-      "views": 1280,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1658-1-af74f6c7c2b1-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1658-1-af74f6c7c2b1-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/pgp_official/1658",
       "forwarded_from": null
     }
   ]
