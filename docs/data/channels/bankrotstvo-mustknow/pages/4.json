@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-03-24T14:48:47.159402+00:00",
+  "generated_at": "2026-03-24T15:53:52.228251+00:00",
   "pagination": {
     "page": 4,
     "page_size": 16,
-    "total_posts": 66,
+    "total_posts": 67,
     "total_pages": 5
   },
   "posts": [
+    {
+      "id": 390,
+      "date": "2026-01-29T06:06:58+00:00",
+      "text": "📢 Не жди, пока управляющий напомнит!\n\nАлина Газизова, юрист практики банкротства и антикризисной защиты бизнеса, на примере дела о взыскании процентов за просрочку возврата денежных средств показывает: ссылка на отсутствие денег и ожидание инициативы от взыскателя не освобождают от финансовой ответственности.\n\n📄 Краткая предыстория:\n\nВ деле о банкротстве конкурсный управляющий обратился в суд с требованием к обществу о взыскании процентов за пользование чужими денежными средствами. Основанием послужила просрочка в возврате суммы, которую суд ранее взыскал с ответчика в связи с недействительностью сделки с предпочтением.\n\n📎 Суды трёх инстанций отказали во взыскании, приняв доводы ответчика об отсутствии у него средств и несвоевременном предоставлении реквизитов управляющим.\n\n⚡️ ВС РФ взыскал с ответчика проценты в пользу должника, т. к.:\n🔵 отсутствие денег – не основание для освобождения от уплаты процентов по ст. 395 ГК РФ (п. 45 Постановления Пленума ВС РФ № 7);\n🔵 управляющий предоставил реквизиты на следующий день после запроса – его действия нельзя считать просрочкой;\n🔵 бремя исполнения судебного акта лежит на должнике – именно ответчик должен был проявить инициативу и выяснить реквизиты для возврата средств;\n🔵 ответчик частично признал требование, указав в отзыве, что проценты начисляются, но за другой период; значит, оснований для полного отказа управляющему не было.\n\n⚠️ Выводы:\n\nЕсли вы проиграли управляющему в денежном споре, сразу после вступления акта в законную силу направьте ему официальный запрос о предоставлении реквизитов для платежа. Лучше – и электронной почтой, и почтой России с детальной описью вложения.\n\n#Арбитражный_управляющий\n#Недействительность_сделок",
+      "text_html": "📢 Не жди, пока управляющий напомнит!<br><br>Алина Газизова, юрист <a href=\"https://www.pgplaw.ru/practice-and-industry/practices/bankruptcy/\" target=\"_blank\" rel=\"noopener noreferrer\">практики банкротства и антикризисной защиты бизнеса,</a> <a href=\"https://mkad.arbitr.ru/Document/Pdf/1b6d3e2d-ef4c-4b4f-8763-47a43e9594bb/daa45902-58cc-45da-8338-c59f5ab7dad1/A40-107430-2017_20260126_Opredelenie.pdf?isAddStamp=True\" target=\"_blank\" rel=\"noopener noreferrer\">на примере дела о взыскании процентов за просрочку возврата денежных средств</a> показывает: ссылка на отсутствие денег и ожидание инициативы от взыскателя не освобождают от финансовой ответственности.<br><br>📄 Краткая предыстория:<br><br>В деле о банкротстве конкурсный управляющий обратился в суд с требованием к обществу о взыскании процентов за пользование чужими денежными средствами. Основанием послужила просрочка в возврате суммы, которую суд ранее взыскал с ответчика в связи с недействительностью сделки с предпочтением.<br><br>📎 Суды трёх инстанций отказали во взыскании, приняв доводы ответчика об отсутствии у него средств и несвоевременном предоставлении реквизитов управляющим.<br><br>⚡️ ВС РФ взыскал с ответчика проценты в пользу должника, т. к.:<br>🔵 отсутствие денег – не основание для освобождения от уплаты процентов по ст. 395 ГК РФ (п. 45 Постановления Пленума ВС РФ № 7);<br>🔵 управляющий предоставил реквизиты на следующий день после запроса – его действия нельзя считать просрочкой;<br>🔵 бремя исполнения судебного акта лежит на должнике – именно ответчик должен был проявить инициативу и выяснить реквизиты для возврата средств;<br>🔵 ответчик частично признал требование, указав в отзыве, что проценты начисляются, но за другой период; значит, оснований для полного отказа управляющему не было.<br><br>⚠️ Выводы:<br><br>Если вы проиграли управляющему в денежном споре, сразу после вступления акта в законную силу направьте ему официальный запрос о предоставлении реквизитов для платежа. Лучше – и электронной почтой, и почтой России с детальной описью вложения.<br><br>#Арбитражный_управляющий<br>#Недействительность_сделок",
+      "views": 476,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/390-1-809ec26bab0e-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/390-1-809ec26bab0e-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/bankrotstvo_mustknow/390",
+      "forwarded_from": null
+    },
     {
       "id": 389,
       "date": "2026-01-28T07:19:43+00:00",
@@ -17,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/389-1-b1f95c2b029a-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/389-1-b1f95c2b029a-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/389-1-95fb5c6576a4-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/389-1-95fb5c6576a4-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +53,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/388-1-dd3f7d8e2f51-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/388-1-dd3f7d8e2f51-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/388-1-be586b658f82-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/388-1-be586b658f82-v4.jpg"
         }
       ],
       "video_url": null,
@@ -53,8 +71,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/387-1-b9d12cb6311a-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/387-1-b9d12cb6311a-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/387-1-60fe97f1af9f-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/387-1-60fe97f1af9f-v4.jpg"
         }
       ],
       "video_url": null,
@@ -71,8 +89,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/386-1-00bce478fd2e-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/386-1-00bce478fd2e-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/386-1-15d928a71f50-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/386-1-15d928a71f50-v4.jpg"
         }
       ],
       "video_url": null,
@@ -94,8 +112,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/385-1-2b6a6cb672a6-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/385-1-2b6a6cb672a6-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/385-1-66293c3e16cc-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/385-1-66293c3e16cc-v4.jpg"
         }
       ],
       "video_url": null,
@@ -112,8 +130,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/383-1-67bc163c180c-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/383-1-67bc163c180c-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/383-1-4db75e429a04-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/383-1-4db75e429a04-v4.jpg"
         }
       ],
       "video_url": null,
@@ -148,8 +166,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/381-1-d728b9744ae2-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/381-1-d728b9744ae2-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/381-1-b5a5ecaa9e0e-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/381-1-b5a5ecaa9e0e-v4.jpg"
         }
       ],
       "video_url": null,
@@ -184,8 +202,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/378-1-a422c4213622-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/378-1-a422c4213622-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/378-1-0cd799633d44-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/378-1-0cd799633d44-v4.jpg"
         }
       ],
       "video_url": null,
@@ -220,8 +238,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/375-1-774b900d8685-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/375-1-774b900d8685-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/375-1-1b824aeded7b-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/375-1-1b824aeded7b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -238,8 +256,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/374-1-e5de310b73c9-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/374-1-e5de310b73c9-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/374-1-5142e117076e-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/374-1-5142e117076e-v4.jpg"
         }
       ],
       "video_url": null,
@@ -274,30 +292,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/372-1-636b658a8456-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/372-1-636b658a8456-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/372-1-5b120a5ea3a7-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/372-1-5b120a5ea3a7-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/bankrotstvo_mustknow/372",
-      "forwarded_from": null
-    },
-    {
-      "id": 371,
-      "date": "2025-12-29T06:36:23+00:00",
-      "text": "🖇️ Новое постановление Пленума ВС РФ о субординации требований\n\nЮлия Литовцева, партнер, и Владимир Гоппе, специалист практики банкротства и антикризисной защиты бизнеса, о случаях, когда очерёдность удовлетворения требований контролирующих лиц может быть понижена, с учетом п.п. 11-12 Постановления Пленума ВС РФ.\n\n📌 При компенсационном финансировании контролирующее лицо осуществляет финансовую помощь, например, с помощью приобретения у независимых кредиторов требований к должнику с целью предотвращения их предъявления к взысканию. Это может происходить путем приобретения у независимого кредитора права требования, исполнения обязательств должника перед третьими лицамии т. п.\n\n🔎 Уже сформировалась определенная практика, при которой очередность таких требований, перешедших от независимых кредиторов, понижается, а их удовлетворение происходит после расчетов с независимыми кредиторами (см. п. 17 Обзора ВС РФ).\n\n➡️ Тем не менее, новое постановление Пленума ВС РФ закрепило, что требования к должнику «уходят за реестр», если они приобретены:\n\n🔵 после появления у должника признаков имущественного кризиса и\n🔵 до введения первой процедуры банкротства.\n\n❗️ Суд также отметил, что очередность удовлетворения требований, приобретенных после введения первой процедуры банкротства, понижается, если будет доказано, что цель приобретения контролирующим лицом отдельных требований заключалась в установлении контроля над процедурой банкротства.\n\n📌 Вывод:\n\nКонтролирующим лицам необходимо учитывать, что оказание финансовой поддержки своей компании остается высоко рискованным с точки зрения возможности последующего влияния на банкротство, если его не удастся предотвратить. Кроме того, поддержка в кризисной ситуации в случае наступления банкротства может стать подтверждением осведомленности о наличии у компании признаков банкротства и наступления субсидиарной ответственности.\n\nТакие риски необходимо взвесить и либо их принять, либо рассмотреть иные варианты действий. Например, внесудебную реструктуризацию долгов или инициирование банкротства.  \n\n#Требования_кредиторов\n#Субординация_требований",
-      "text_html": "🖇️ Новое постановление Пленума ВС РФ о субординации требований<br><br>Юлия Литовцева, партнер, и Владимир Гоппе, специалист <a href=\"https://www.pgplaw.ru/practice-and-industry/practices/bankruptcy/\" target=\"_blank\" rel=\"noopener noreferrer\">практики банкротства и антикризисной защиты бизнеса,</a> о случаях, когда очерёдность удовлетворения требований контролирующих лиц может быть понижена, с учетом п.п. 11-12 <a href=\"https://vsrf.ru/documents/own/35292/\" target=\"_blank\" rel=\"noopener noreferrer\">Постановления Пленума ВС РФ</a><a href=\"https://vsrf.ru/documents/own/35292/\" target=\"_blank\" rel=\"noopener noreferrer\">.</a><br><br>📌 При компенсационном финансировании контролирующее лицо осуществляет финансовую помощь, например, с помощью приобретения у независимых кредиторов требований к должнику с целью предотвращения их предъявления к взысканию. Это может происходить путем приобретения у независимого кредитора права требования, исполнения обязательств должника перед третьими лицамии т. п.<br><br>🔎 Уже сформировалась определенная практика, при которой очередность таких требований, перешедших от независимых кредиторов, понижается, а их удовлетворение происходит после расчетов с независимыми кредиторами (см. п. 17 <a href=\"https://cloud.consultant.ru/cloud/cgi/online.cgi?req=doc&amp;amp;base=LAW&amp;amp;n=368947&amp;amp;cacheid=30821F674490CB2430A6F2157C70C534&amp;amp;mode=splus&amp;amp;rnd=sYTA\" target=\"_blank\" rel=\"noopener noreferrer\">Обзора ВС РФ</a>).<br><br>➡️ Тем не менее, новое постановление Пленума ВС РФ закрепило, что требования к должнику «уходят за реестр», если они приобретены:<br><br>🔵 после появления у должника признаков имущественного кризиса и<br>🔵 до введения первой процедуры банкротства.<br><br>❗️ Суд также отметил, что очередность удовлетворения требований, приобретенных после введения первой процедуры банкротства, понижается, если будет доказано, что цель приобретения контролирующим лицом отдельных требований заключалась в установлении контроля над процедурой банкротства.<br><br>📌 Вывод:<br><br>Контролирующим лицам необходимо учитывать, что оказание финансовой поддержки своей компании остается высоко рискованным с точки зрения возможности последующего влияния на банкротство, если его не удастся предотвратить. Кроме того, поддержка в кризисной ситуации в случае наступления банкротства может стать подтверждением осведомленности о наличии у компании признаков банкротства и наступления субсидиарной ответственности.<br><br>Такие риски необходимо взвесить и либо их принять, либо рассмотреть иные варианты действий. Например, внесудебную реструктуризацию долгов или инициирование банкротства.  <br><br>#Требования_кредиторов<br>#Субординация_требований",
-      "views": 598,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/371-1-7ebd404cef12-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/371-1-7ebd404cef12-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/bankrotstvo_mustknow/371",
       "forwarded_from": null
     }
   ]
