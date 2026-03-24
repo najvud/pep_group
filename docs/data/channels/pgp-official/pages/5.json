@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-03-24T04:49:44.950183+00:00",
+  "generated_at": "2026-03-24T07:44:07.687130+00:00",
   "pagination": {
     "page": 5,
     "page_size": 16,
-    "total_posts": 73,
+    "total_posts": 72,
     "total_pages": 5
   },
   "posts": [
@@ -17,8 +17,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1665-1-6cd4f95facdd-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1665-1-6cd4f95facdd-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1665-1-b140dbced247-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1665-1-b140dbced247-v4.jpg"
         }
       ],
       "video_url": null,
@@ -144,24 +144,6 @@
       ],
       "video_url": null,
       "tg_url": "https://t.me/pgp_official/1658",
-      "forwarded_from": null
-    },
-    {
-      "id": 1657,
-      "date": "2025-12-24T06:59:54+00:00",
-      "text": "☂️ Ограничения и меры поддержки для бизнеса: дайджест\n\n✔️ Контроль за трансграничной передачей персональных данных усилят;\n\n✔️ Продлен запрет на оплату долей в иностранных компаниях без разрешения ЦБ;\n\n✔️ Продлены ограничения по совершению ряда сделок.\n\nПодробнее – по ссылке.\n\n#антикризисная_поддержка_бизнеса",
-      "text_html": "☂️ Ограничения и меры поддержки для бизнеса: дайджест<br><br>✔️ Контроль за трансграничной передачей персональных данных усилят;<br><br>✔️ Продлен запрет на оплату долей в иностранных компаниях без разрешения ЦБ;<br><br>✔️ Продлены ограничения по совершению ряда сделок.<br><br>Подробнее – <a href=\"https://www.pgplaw.ru/analytics-and-brochures/sanctions-support-digest/support-digest-22-12-25/\" target=\"_blank\" rel=\"noopener noreferrer\">по ссылке.</a><br><br>#антикризисная_поддержка_бизнеса",
-      "views": 1240,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1657-1-be327111110c-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1657-1-be327111110c-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/pgp_official/1657",
       "forwarded_from": null
     }
   ]
