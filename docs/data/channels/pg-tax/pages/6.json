@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-03-24T19:43:17.070298+00:00",
+  "generated_at": "2026-03-25T07:42:28.846126+00:00",
   "pagination": {
     "page": 6,
     "page_size": 16,
-    "total_posts": 168,
+    "total_posts": 169,
     "total_pages": 11
   },
   "posts": [
+    {
+      "id": 2464,
+      "date": "2026-02-12T13:05:43+00:00",
+      "text": "📢 Позиции Минфина и ФНС за январь\n\nВ фокусе внимания ведомств в начале года:\n     🔴ограничения ФИНВ при приобретении имущества за счёт субсидий,\n     🔴НДС в связи с обслуживанием банковских карт,\n     🔴НДС при оказании услуг платёжных агентов,\n     🔴НДФЛ от источников в Казахстане,\n     🔴вопросы применения УПД.\n\nЭкспресс-обзор писем Минфина и ФНС России за январь читайте на сайте ПГ 👉\n\n#обзор_писем_Минфина_ФНС\n\n➖➖\n💡 Индивидуальные обзоры изменений налогового законодательства и практики, учитывающие специфику Вашего бизнеса, по расписанию в Ваш почтовый ящик можно оформить здесь.",
+      "text_html": "📢 Позиции Минфина и ФНС за январь<br><br>В фокусе внимания ведомств в начале года:<br>     🔴ограничения ФИНВ при приобретении имущества за счёт субсидий,<br>     🔴НДС в связи с обслуживанием банковских карт,<br>     🔴НДС при оказании услуг платёжных агентов,<br>     🔴НДФЛ от источников в Казахстане,<br>     🔴вопросы применения УПД.<br><br>Экспресс-обзор писем Минфина и ФНС России за январь читайте <a href=\"https://www.pgplaw.ru/analytics-and-brochures/tax-reviews/pisma-minfina-i-fns-obnovleniya-yanvarya-2026-g/\" target=\"_blank\" rel=\"noopener noreferrer\">на сайте</a> ПГ 👉<br><br>#обзор_писем_Минфина_ФНС<br><br>➖➖<br>💡 Индивидуальные обзоры изменений налогового законодательства и практики, учитывающие специфику Вашего бизнеса, по расписанию в Ваш почтовый ящик можно оформить <a href=\"https://www.pgplaw.ru/practice-and-industry/practices/obzory-zakonodatelstva-i-praktiki/\" target=\"_blank\" rel=\"noopener noreferrer\">здесь.</a>",
+      "views": 1550,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2464-1-59696cac287a-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2464-1-59696cac287a-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/PG_Tax/2464",
+      "forwarded_from": null
+    },
     {
       "id": 2463,
       "date": "2026-02-12T11:07:55+00:00",
@@ -255,24 +273,6 @@
       "photos": [],
       "video_url": "https://cdn4.telesco.pe/file/a9db42e7e0.mp4?token=e8kIvtrtbtNFVD7YXOdx42RmRK2wgxnvvLvBCgApoJaLfBqJbtG3O1GSS6EEs1DMUEguKOdzIJK4BDHng2LcLwFKikbwweuHo8Rbc6AscY4XYpLa1NFGmmiLbHfy2tXj8qgQVhON7IAmZ3flNPtjKR9m01Ury1KlXcS5uCyJ0eQsHmXhzCxBQipkSoe279t465YAUn9Fhww0JpPOTCfsYkPkOjkBQgXDRGyqvMBWFvR5ELYHCR8ZOcWiAqINdeB43y0ShmvI4F-Ww3F6e4Rc3UvpZPvGHnxwJWENVIROuWBzuwwr8yNukhV1TX73aXaT4TIl9_dKSMlsWu8yyO-jOA",
       "tg_url": "https://t.me/PG_Tax/2449",
-      "forwarded_from": null
-    },
-    {
-      "id": 2448,
-      "date": "2026-02-06T13:01:45+00:00",
-      "text": null,
-      "text_html": null,
-      "views": 1490,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2448-1-27eee47a9654-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2448-1-27eee47a9654-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2448",
       "forwarded_from": null
     }
   ]

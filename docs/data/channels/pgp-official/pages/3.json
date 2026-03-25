@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-25T04:17:00.746973+00:00",
+  "generated_at": "2026-03-25T07:41:51.364979+00:00",
   "pagination": {
     "page": 3,
     "page_size": 16,
@@ -7,6 +7,24 @@
     "total_pages": 5
   },
   "posts": [
+    {
+      "id": 1725,
+      "date": "2026-02-19T10:34:38+00:00",
+      "text": "🏢 Еженедельная подборка обзоров от практик «Пепеляев Групп»\n\nЧто изменилось за последнюю неделю, и на что стоит обратить внимание бизнесу?\n\n▫️ Налоговые новости. Дайджест за 9–15 февраля 2026 г.\n\n▫️ СпецИнвестРежимы в Сибири и на Дальнем Востоке. Дайджест 9–15 февраля 2026 г.\n\n▫️ Антимонопольные новости. Дайджест за 12 января – 11 февраля 2026 г.\n\n▫️ Банкротство: MustRead за 12–18 февраля 2026 г. Выпуск № 308\n\n#pg_обзоры_недели",
+      "text_html": "🏢 Еженедельная подборка обзоров от практик «Пепеляев Групп»<br><br>Что изменилось за последнюю неделю, и на что стоит обратить внимание бизнесу?<br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/tax-reviews/tax-news-digest-16-02-26/\" target=\"_blank\" rel=\"noopener noreferrer\">Налоговые новости. Дайджест за 9–15 февраля 2026 г.</a><br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/spec-invest-obzor/invest-news-digest-26-02-16/\" target=\"_blank\" rel=\"noopener noreferrer\">СпецИнвестРежимы в Сибири и на Дальнем Востоке. Дайджест 9–15 февраля 2026 г.</a><br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/antitrust-reviews/antitrust-digest-26-02-17/\" target=\"_blank\" rel=\"noopener noreferrer\">Антимонопольные новости. Дайджест за 12 января – 11 февраля 2026 г.</a><br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/bankruptcy-must-read/bankruptcy-must-read-18-02-26/\" target=\"_blank\" rel=\"noopener noreferrer\">Банкротство: MustRead за 12–18 февраля 2026 г. Выпуск № 308</a><br><br>#pg_обзоры_недели",
+      "views": 952,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1725-1-da2481316935-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1725-1-da2481316935-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/pgp_official/1725",
+      "forwarded_from": null
+    },
     {
       "id": 1724,
       "date": "2026-02-18T12:03:36+00:00",
@@ -17,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1724-1-6a68174e153b-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1724-1-6a68174e153b-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1724-1-5d3ed3c96834-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1724-1-5d3ed3c96834-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +53,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1723-1-299a9989cce2-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1723-1-299a9989cce2-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1723-1-a0c4ba891624-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1723-1-a0c4ba891624-v4.jpg"
         }
       ],
       "video_url": null,
@@ -53,12 +71,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1721-1-37aeeb978ab5-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1721-1-37aeeb978ab5-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1721-1-9ccf7a626006-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1721-1-9ccf7a626006-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1721-2-3bb488dbd1c0-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1721-2-3bb488dbd1c0-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1721-2-0ee92563baa1-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1721-2-0ee92563baa1-v4.jpg"
         }
       ],
       "video_url": null,
@@ -75,8 +93,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1720-1-7b9cd969f2ac-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1720-1-7b9cd969f2ac-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1720-1-124ebc7e1447-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1720-1-124ebc7e1447-v4.jpg"
         }
       ],
       "video_url": null,
@@ -219,7 +237,7 @@
       "date": "2026-02-06T10:02:51+00:00",
       "text": "⚡️ Регистрация в апартаментах\n\nВладельцы апартаментов не могли в них зарегистрироваться по месту пребывания – правила предусматривали регистрацию только для жилья или гостиниц.\n\n🔘 КС РФ принял Постановление, которым разрешена временная регистрация граждан в апартаментах, сходных с квартирами и не входящих в номерной фонд гостиниц или иных средств размещения.\n\n\n❗️ Важно\n\nВажно учитывать Постановление КС РФ при проектировании апартаментов, поскольку акцент сделан на характеристиках, «сходных с квартирой» (изолированность, планировка, мини-кухня, санузел), которые будут проверять для регистрации. \n\nНеобходимо сформировать для каждого объекта и передавать покупателям пакет документов, подтверждающих пригодность здания и конкретного помещения для пребывания граждан (проектная декларация, особенности планировки), – они понадобятся для регистрации.\n\nПолный текст алерта доступен по ссылке 👉\n\nℹ️ Если у вас остались вопросы по данной теме, вы можете связаться с Сергеем Сосновским, партнером «Пепеляев Групп».\n\n#pg_алерты",
       "text_html": "⚡️ Регистрация в апартаментах<br><br>Владельцы апартаментов не могли в них зарегистрироваться по месту пребывания – правила предусматривали регистрацию только для жилья или гостиниц.<br><br>🔘 КС РФ принял Постановление, которым разрешена временная регистрация граждан в апартаментах, сходных с квартирами и не входящих в номерной фонд гостиниц или иных средств размещения.<br><br><br>❗️ Важно<br><br>Важно учитывать Постановление КС РФ при проектировании апартаментов, поскольку акцент сделан на характеристиках, «сходных с квартирой» (изолированность, планировка, мини-кухня, санузел), которые будут проверять для регистрации. <br><br>Необходимо сформировать для каждого объекта и передавать покупателям пакет документов, подтверждающих пригодность здания и конкретного помещения для пребывания граждан (проектная декларация, особенности планировки), – они понадобятся для регистрации.<br><br>Полный текст алерта доступен <a href=\"https://www.pgplaw.ru/analytics-and-brochures/alerts/registratsiya-v-apartamentakh/\" target=\"_blank\" rel=\"noopener noreferrer\">по ссылке</a> 👉<br><br>ℹ️ Если у вас остались вопросы по данной теме, вы можете связаться с <a href=\"https://www.pgplaw.ru/to-get-the-team/sergey-sosnovskiy/\" target=\"_blank\" rel=\"noopener noreferrer\">Сергеем Сосновским</a>, партнером «Пепеляев Групп».<br><br>#pg_алерты",
-      "views": 2940,
+      "views": 2950,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
@@ -324,24 +342,6 @@
       ],
       "video_url": null,
       "tg_url": "https://t.me/pgp_official/1699",
-      "forwarded_from": null
-    },
-    {
-      "id": 1697,
-      "date": "2026-01-28T07:03:51+00:00",
-      "text": "☂️ Ограничения и меры поддержки для бизнеса: дайджест\n\n✔️ Планируют повысить штрафы по 36 составам экономических преступлений;\n\n✔️ В первом чтении принят законопроект, расширяющий перечень требований при контроле за иностранными инвестициями в стратегические хозобщества.\n\nПодробнее – по ссылке.\n\n#антикризисная_поддержка_бизнеса",
-      "text_html": "☂️ Ограничения и меры поддержки для бизнеса: дайджест<br><br>✔️ Планируют повысить штрафы по 36 составам экономических преступлений;<br><br>✔️ В первом чтении принят законопроект, расширяющий перечень требований при контроле за иностранными инвестициями в стратегические хозобщества.<br><br>Подробнее – <a href=\"https://www.pgplaw.ru/analytics-and-brochures/sanctions-support-digest/support-digest-26-01-26/\" target=\"_blank\" rel=\"noopener noreferrer\">по ссылке.</a><br><br>#антикризисная_поддержка_бизнеса",
-      "views": 1110,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1697-1-2d866b4ecea9-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1697-1-2d866b4ecea9-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/pgp_official/1697",
       "forwarded_from": null
     }
   ]
