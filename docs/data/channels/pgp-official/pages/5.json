@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-03-25T09:32:17.133785+00:00",
+  "generated_at": "2026-03-25T10:29:26.678839+00:00",
   "pagination": {
     "page": 5,
     "page_size": 16,
-    "total_posts": 72,
+    "total_posts": 71,
     "total_pages": 5
   },
   "posts": [
@@ -58,8 +58,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1665-1-46f55b257e59-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1665-1-46f55b257e59-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1665-1-b5d4134b3b17-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1665-1-b5d4134b3b17-v4.jpg"
         }
       ],
       "video_url": null,
@@ -131,24 +131,6 @@
       ],
       "video_url": null,
       "tg_url": "https://t.me/pgp_official/1661",
-      "forwarded_from": null
-    },
-    {
-      "id": 1660,
-      "date": "2025-12-25T10:05:33+00:00",
-      "text": "🏢 Еженедельная подборка обзоров от практик «Пепеляев Групп»\n\nВ одном месте – изменения в налоговом праве и в мире банкротства, актуальные новости для инвесторов в Сибири и на Дальнем Востоке, обзор законодательства и практики в сфере антикризисного регулирования, а также значимые споры в сфере экологии.\n\n▫️ Налоговые новости. Дайджест за 15–21 декабря 2025 г.\n\n▫️ Значимые споры в сфере экологии за ноябрь и декабрь 2025 г.\n\n▫️ СпецИнвестРежимы в Сибири и на Дальнем Востоке. Дайджест 15–21 декабря 2025 г.\n\n▫️ Ограничения и меры поддержки для бизнеса: дайджест за 8–21 декабря 2025 г.\n\n▫️ Банкротство: MustRead за 19–24 декабря 2025 г. Выпуск № 302\n\n#pg_обзоры_недели",
-      "text_html": "🏢 Еженедельная подборка обзоров от практик «Пепеляев Групп»<br><br>В одном месте – изменения в налоговом праве и в мире банкротства, актуальные новости для инвесторов в Сибири и на Дальнем Востоке, обзор законодательства и практики в сфере антикризисного регулирования, а также значимые споры в сфере экологии.<br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/tax-reviews/tax-news-digest-22-12-25/\" target=\"_blank\" rel=\"noopener noreferrer\">Налоговые новости. Дайджест за 15–21 декабря 2025 г.</a><br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/ecology-digest/ecology-digest-22-12-25/\" target=\"_blank\" rel=\"noopener noreferrer\">Значимые споры в сфере экологии за ноябрь и декабрь 2025 г.</a><br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/spec-invest-obzor/invest-news-digest-25-12-22/\" target=\"_blank\" rel=\"noopener noreferrer\">СпецИнвестРежимы в Сибири и на Дальнем Востоке. Дайджест 15–21 декабря 2025 г.</a><br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/sanctions-support-digest/support-digest-22-12-25/\" target=\"_blank\" rel=\"noopener noreferrer\">Ограничения и меры поддержки для бизнеса: дайджест за 8–21 декабря 2025 г.</a><br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/bankruptcy-must-read/bankruptcy-must-read-24-12-25/\" target=\"_blank\" rel=\"noopener noreferrer\">Банкротство: MustRead за 19–24 декабря 2025 г. Выпуск № 302</a><br><br>#pg_обзоры_недели",
-      "views": 1500,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1660-1-99ef05242954-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1660-1-99ef05242954-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/pgp_official/1660",
       "forwarded_from": null
     }
   ]
