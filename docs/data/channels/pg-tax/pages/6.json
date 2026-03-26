@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-03-26T12:37:59.057464+00:00",
+  "generated_at": "2026-03-26T14:11:04.391779+00:00",
   "pagination": {
     "page": 6,
     "page_size": 16,
-    "total_posts": 168,
+    "total_posts": 169,
     "total_pages": 11
   },
   "posts": [
+    {
+      "id": 2469,
+      "date": "2026-02-16T10:02:34+00:00",
+      "text": "🔍 Роль экспертизы в налоговой реконструкции\n\nПостановление АС СЗО по делу ООО «МК Промстройметалл» комментирует ведущий юрист Рустам Галияхметов Санкт-Петербургской налоговой практики «Пепеляев Групп»\n\n📑 Суть спора\n\nНалоговый орган признал «техническими» (отсутствие персонала, активов, транзитные платежи, обналичка, массовые руководители) поставщиков налогоплательщика (трейдер металлопродукции).\n\nВывод: сделки нереальные, документооборот формальный, налоговая выгода необоснованна.\nДоначислен НДС 134,7 млн руб., налог на прибыль 139,6 млн руб., пени, штраф по п. 3 ст. 122 НК РФ 69,7 млн руб.\n\n🛑 Инспекция в ходе проверки выявила, что товар фактически поставлен (напрямую производителями), и располагала сведениями о реальных исполнителях, но при расчете недоимки полностью исключила расходы и вычеты по НДС, не учтя стоимость поставки от действительных поставщиков.\n\n⚖️ Позиция судов\n\nПолный отказ в расходах и вычетах при доказанности факта поставки товара (пусть через иных лиц) превращает налоговую проверку в инструмент штрафа, что недопустимо:\nПротиводействие злоупотреблениям в сфере налогообложения не должно приводить к определению налоговой обязанности в относительно более высоком размере — превышающем потери казны от неуплаты налогов… Иное означало бы применение санкции.\n\nСуды, применив позиции ВС РФ (Определение от 15.12.2021 г. № 305-ЭС21-18005, п. 5, 6 Обзора практики применения арбитражными судами положений законодательства о налогах и сборах, связанных с оценкой обоснованности налоговой выгоды), указали:\n     ✔️если налоговый орган установил реального исполнителя сделки, он обязан определить обязательства налогоплательщика так, как если бы тот работал напрямую с этим исполнителем;\n     ✔️учету подлежат параметры реального исполнения (цена, номенклатура, объемы);\n     ✔️необоснованная налоговая выгода — это только наценка, добавленная «техническими» звеньями, а не вся стоимость товара.\n\n💡 Экспертиза\n\nНеобычным в деле явилось то, что налогоплательщик в ходе судебного разбирательства обратился в Российский федеральный центр судебной экспертизы при Минюсте РФ с запросом о проведении экспертного исследования и получил соответствующий акт, который был принят судами в качестве надлежащего доказательства.\n\n💰 Из него следовало, что с учетом поставки товаров, оформленных от «технических» организаций, но полученных от реальных поставщиков, занижен НДС в сумме 20 млн руб., налог на прибыль в сумме 24 млн руб. (при расчете спорные сделки с техническими компаниями заменены на сделки с реальными поставщиками).\nДоначисления снижены более чем в 6 раз.\n\nЦенно, что эксперт был опрошен в судебном заседании - дал пояснения по методике, расчетам, сопоставлению номенклатур, а налоговый орган не заявил ходатайство о назначении судебной экспертизы, не представил контррасчет, ограничился только критикой акта экспертного исследования.\n\n☝️ Ключевой правовой вывод для бизнеса\n\nБез своевременной реконструкции налоговые органы доначисляют суммы, кратно превышающие потери бюджета.\n\nСуды готовы снижать доначисления до реального ущерба бюджету и принимать сложные экономические расчеты в качестве доказательств, в том числе признавать право на учет затрат даже при умышленном искажении, если товар реально поступил и использован.\n\nДля этого стратегия защиты при «технических» контрагентах должна быть такой:\n     📎 не имеет смысла отрицать очевидное. Если контрагент — «техническая» организация, это будет скорее всего доказано налоговым органом. Надо переводить спор в плоскость реальности поставки и размера обязательств;\n     📎 надо раскрывать реального поставщика. Чем раньше налоговому органу представят документы о действительном исполнителе, тем сложнее ему будет отказать в налоговой реконструкции;\n     📎 надо заказывать экспертизу (досудебную или во время суда). Суд примет такие расчеты в качестве доказательств, если методика обоснована. А стоимость экспертизы окупится снижением претензий.\n\n#питер_на_связи\n\n➖➖\nЗа консультацией по построению позиции в спорах о налоговой реконструкции можно обратиться к Рустаму Галияхметову: r.galiyahmetov@pgplaw.ru",
+      "text_html": "🔍 Роль экспертизы в налоговой реконструкции<br><br>Постановление АС СЗО <a href=\"https://kad.arbitr.ru/Document/Pdf/665fb11a-005f-439d-ba49-a9f1888047e8/bb7d39f3-9036-490a-a0ff-de55857c4cf7/A56-93740-2023_20251225_Postanovlenie_kassacionnoj_instancii.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">по делу ООО «МК Промстройметалл»</a> комментирует ведущий юрист <a href=\"https://www.stqr.ru/64193-164-353\" target=\"_blank\" rel=\"noopener noreferrer\">Рустам Галияхметов</a> Санкт-Петербургской налоговой практики «Пепеляев Групп»<br><br>📑 Суть спора<br><br>Налоговый орган признал «техническими» (отсутствие персонала, активов, транзитные платежи, обналичка, массовые руководители) поставщиков налогоплательщика (трейдер металлопродукции).<br><br>Вывод: сделки нереальные, документооборот формальный, налоговая выгода необоснованна.<br>Доначислен НДС 134,7 млн руб., налог на прибыль 139,6 млн руб., пени, штраф по п. 3 ст. 122 НК РФ 69,7 млн руб.<br><br>🛑 Инспекция в ходе проверки выявила, что товар фактически поставлен (напрямую производителями), и располагала сведениями о реальных исполнителях, но при расчете недоимки полностью исключила расходы и вычеты по НДС, не учтя стоимость поставки от действительных поставщиков.<br><br>⚖️ Позиция судов<br><br>Полный отказ в расходах и вычетах при доказанности факта поставки товара (пусть через иных лиц) превращает налоговую проверку в инструмент штрафа, что недопустимо:<br>Противодействие злоупотреблениям в сфере налогообложения не должно приводить к определению налоговой обязанности в относительно более высоком размере — превышающем потери казны от неуплаты налогов… Иное означало бы применение санкции.<br><br>Суды, применив позиции ВС РФ (Определение от 15.12.2021 г. № 305-ЭС21-18005, п. 5, 6 <a href=\"https://www.vsrf.ru/documents/all/33229/\" target=\"_blank\" rel=\"noopener noreferrer\">Обзора практики применения арбитражными судами положений законодательства о налогах и сборах, связанных с оценкой обоснованности налоговой выгоды</a>), указали:<br>     ✔️если налоговый орган установил реального исполнителя сделки, он обязан определить обязательства налогоплательщика так, как если бы тот работал напрямую с этим исполнителем;<br>     ✔️учету подлежат параметры реального исполнения (цена, номенклатура, объемы);<br>     ✔️необоснованная налоговая выгода — это только наценка, добавленная «техническими» звеньями, а не вся стоимость товара.<br><br>💡 Экспертиза<br><br>Необычным в деле явилось то, что налогоплательщик в ходе судебного разбирательства обратился в Российский федеральный центр судебной экспертизы при Минюсте РФ с запросом о проведении экспертного исследования и получил соответствующий акт, который был принят судами в качестве надлежащего доказательства.<br><br>💰 Из него следовало, что с учетом поставки товаров, оформленных от «технических» организаций, но полученных от реальных поставщиков, занижен НДС в сумме 20 млн руб., налог на прибыль в сумме 24 млн руб. (при расчете спорные сделки с техническими компаниями заменены на сделки с реальными поставщиками).<br>Доначисления снижены более чем в 6 раз.<br><br>Ценно, что эксперт был опрошен в судебном заседании - дал пояснения по методике, расчетам, сопоставлению номенклатур, а налоговый орган не заявил ходатайство о назначении судебной экспертизы, не представил контррасчет, ограничился только критикой акта экспертного исследования.<br><br>☝️ Ключевой правовой вывод для бизнеса<br><br>Без своевременной реконструкции налоговые органы доначисляют суммы, кратно превышающие потери бюджета.<br><br>Суды готовы снижать доначисления до реального ущерба бюджету и принимать сложные экономические расчеты в качестве доказательств, в том числе признавать право на учет затрат даже при умышленном искажении, если товар реально поступил и использован.<br><br>Для этого стратегия защиты при «технических» контрагентах должна быть такой:<br>     📎 не имеет смысла отрицать очевидное. Если контрагент — «техническая» организация, это будет скорее всего доказано налоговым органом. Надо переводить спор в плоскость реальности поставки и размера обязательств;<br>     📎 надо раскрывать реального поставщика. Чем раньше налоговому органу представят документы о действительном исполнителе, тем сложнее ему будет отказать в налоговой реконструкции;<br>     📎 надо заказывать экспертизу (досудебную или во время суда). Суд примет такие расчеты в качестве доказательств, если методика обоснована. А стоимость экспертизы окупится снижением претензий.<br><br>#питер_на_связи<br><br>➖➖<br>За консультацией по построению позиции в спорах о налоговой реконструкции можно обратиться к Рустаму Галияхметову: r.galiyahmetov@pgplaw.ru",
+      "views": 1510,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2469-1-f670e3be05a5-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2469-1-f670e3be05a5-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/PG_Tax/2469",
+      "forwarded_from": null
+    },
     {
       "id": 2468,
       "date": "2026-02-16T07:54:18+00:00",
@@ -17,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2468-1-a89cbe8142df-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2468-1-a89cbe8142df-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2468-1-81e237c26955-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2468-1-81e237c26955-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +53,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2467-1-0fc94fdc3674-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2467-1-0fc94fdc3674-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2467-1-b10bce009ee8-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2467-1-b10bce009ee8-v4.jpg"
         }
       ],
       "video_url": null,
@@ -58,8 +76,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2466-1-903505a7284d-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2466-1-903505a7284d-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2466-1-e5f78f9fe0b3-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2466-1-e5f78f9fe0b3-v4.jpg"
         }
       ],
       "video_url": null,
@@ -76,8 +94,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2465-1-8b3c64975179-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2465-1-8b3c64975179-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2465-1-73c873dbf05b-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2465-1-73c873dbf05b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -94,8 +112,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2464-1-46aeb5f0dda8-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2464-1-46aeb5f0dda8-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2464-1-be41baa9d1ed-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2464-1-be41baa9d1ed-v4.jpg"
         }
       ],
       "video_url": null,
@@ -112,8 +130,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2463-1-33754643a11a-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2463-1-33754643a11a-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2463-1-02030ab9c7c5-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2463-1-02030ab9c7c5-v4.jpg"
         }
       ],
       "video_url": null,
@@ -130,8 +148,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2462-1-f9ea366abb69-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2462-1-f9ea366abb69-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2462-1-ca93f2c61a73-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2462-1-ca93f2c61a73-v4.jpg"
         }
       ],
       "video_url": null,
@@ -147,7 +165,7 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/bddec2768e.mp4?token=bg0TJ9gcIZrKseMCw32zOLP8XEpEShioQ_-OttpCPvRmoxOvCp1g3ZombBAVxSIhYsPNEQPcqww5UQtSqLU5wlUFanN-MMsD1v8M-zR5gsB6JpiB8AvTPgk4LIgj29oRCaOM9-DUQORyRMqnMIh8oM08XhnuxOe521KAsBDmeY6Yep0d72Vj2G2jZeT36AElhTOftzM9VWNcipAOwDnPJDCGvmnoV-3F4EWy-MNypVkZyJtCJv8QnGoJwxQ0N_2zzBaJ3kff4NxSEny8FGyh9SOxd4Q94w_6V8ycNC-4_TtTYgKT3_MHS3uJ3zgYfM64-c_9vahAffb86JjsG8Vl8g",
+      "video_url": "https://cdn4.telesco.pe/file/bddec2768e.mp4?token=K5UAI8Pc6NuVZgboMweK7dEc3Eqn-znUQT3CB19uzkCFXtL_sNMqZ9HdlWc5PxrnmmaA64zhKvO4wcijgtFuky-JybYHjWk8TCF23WksECtipoklIC7X8-Q-NbkV680TSTd6OLFNNsNanciF4UlYRF8LjfJ6oKMf8i_roq_-MamchwiGDhxQuHx2XtyQuQKzAlXicj_Un4w_u1B1RkxLgRuZ69ly2fNa-5obzsmesNoKl-vTzxrMqIIl7NoO6GNrQjGBlhy0-XMu7ArxrenUz_LaM-YkpiJ6Uti98_zGG9nd7HxnL6PnbrCpzNKu9FSdzfjPZGnKrZq4gN8-ktnFig",
       "tg_url": "https://t.me/PG_Tax/2461",
       "forwarded_from": null
     },
@@ -161,8 +179,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2460-1-37f70dbeb9fd-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2460-1-37f70dbeb9fd-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2460-1-85336eadc85e-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2460-1-85336eadc85e-v4.jpg"
         }
       ],
       "video_url": null,
@@ -179,8 +197,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2459-1-70cc6b67f379-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2459-1-70cc6b67f379-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2459-1-793839d42471-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2459-1-793839d42471-v4.jpg"
         }
       ],
       "video_url": null,
@@ -197,8 +215,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2458-1-0481567fcf09-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2458-1-0481567fcf09-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2458-1-a4e1a3b55c67-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2458-1-a4e1a3b55c67-v4.jpg"
         }
       ],
       "video_url": null,
@@ -214,7 +232,7 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/9c54e3d766.mp4?token=rj2vQNIHTo0FiRlcBtjYTGZHk_R-pPM8yjRH6DBYQpFSztN57pbYnknngKCIHqWrCgBmKXychVyH3oVJmm4Qo5CPIYCVnL7ZCeKLjDvgCslHDp5Pdr1QPxTctUaqezit5d_eXyV4--v5jAzpvE9wgO9c23CAj5Q0sSS7VkfQykiOzEKS2-UGxnft3WVl9CGfX4ovk5ziWKZocx1g9Gx8u5YubhFIsqh2sKuR30cMMl2GNCn7ecOyhTKj5HAYcobXuLQenmP_cdcPseP8qo4AmCnPpEQqyqXrUQmb39x5VWYKzDbRnA2bFhe47uhSEmPI8p981Sop0qSF4Dzo5mE9pg",
+      "video_url": "https://cdn4.telesco.pe/file/9c54e3d766.mp4?token=lrC9bHRkE8iWEX3IFIqSMMxqsnr84Iy9D15t9oPlXWrMikejD1BstU32wnv-YRzUHJfzmSH_JgovZio6-3I92HsAxCDbDZfXj5awRFkUEr-Ypz0vuVef8hxM-3theaCmVFLRUWhc7fwg7NDWZlnZVmritu5YPpvUVBcptWhAn-mHdzyz8pfNvgXcQP4y0x5EprYqiiqnC3mSxjQ8fQ58schNMtHmbuZf65B-1XTX40AtTilleMvvVF_zL4Ex2prcXVAJYnyjx5QGsQODXsEi_0sq-VAV5oGKFzKtLTMixqpsFDd5Mo6e64TaV83m7XEgvSSjB81kO-hrslG-PMGmvA",
       "tg_url": "https://t.me/PG_Tax/2457",
       "forwarded_from": null
     },
@@ -228,8 +246,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2456-1-5e03a75e5a2e-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2456-1-5e03a75e5a2e-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2456-1-528860ede231-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2456-1-528860ede231-v4.jpg"
         }
       ],
       "video_url": null,
@@ -246,8 +264,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2455-1-639e41bda038-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2455-1-639e41bda038-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2455-1-73804b9b48f2-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2455-1-73804b9b48f2-v4.jpg"
         }
       ],
       "video_url": null,
@@ -264,25 +282,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2454-1-a745832d80fc-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2454-1-a745832d80fc-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2454-1-f32244b15d48-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2454-1-f32244b15d48-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/PG_Tax/2454",
-      "forwarded_from": null
-    },
-    {
-      "id": 2453,
-      "date": "2026-02-09T13:35:29+00:00",
-      "text": null,
-      "text_html": null,
-      "views": 1380,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/90a830aa1a.mp4?token=lVLU8p_U-XLv0TGL4sJkCwliuA9QWHwCxGFCZYaoPI4kO8Rwjb2Q4jvTlBqsCDuEfhnqR9zkK6IKQz2PhAuWle59KZi2n3JLc0RLTe-aT6s6rruotGpVkwSqWVNroC0tTBFOvo_H1zj9PlTHEhY6MFssj6eFJrrWIf1OwOtEec8RVnsa-awBL-L8T6DeM9lra8BhEIu33AkCPd7-5FdZPiDy8TAvQiIbDb9GCR3a2W-so-fb23NBiAmQ5oTHFkSY1StovnX4q_22UiVd1v4TcO0nuoftTvy7rJ5xn1XqT1MCmDOAtEq9b47IQPiLxYoNKQ_9mYtzvD2YVxU23Phzlw",
-      "tg_url": "https://t.me/PG_Tax/2453",
       "forwarded_from": null
     }
   ]
