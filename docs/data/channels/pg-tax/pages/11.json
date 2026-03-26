@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-03-26T09:44:30.600390+00:00",
+  "generated_at": "2026-03-26T11:34:36.287736+00:00",
   "pagination": {
     "page": 11,
     "page_size": 16,
-    "total_posts": 169,
+    "total_posts": 168,
     "total_pages": 11
   },
   "posts": [
+    {
+      "id": 2385,
+      "date": "2026-01-06T11:04:03+00:00",
+      "text": null,
+      "text_html": null,
+      "views": 2080,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [],
+      "video_url": "https://cdn4.telesco.pe/file/36796dff64.mp4?token=H41XIY3mgiC7xj1jIz22egfXSWyst1-H7uIAfbAGsvh0WsUXWw74LZNdz9mZURJiB5h8YeNLAXJTvQGIdBw0ZZ4lkkZZ3xzjJ8KeCSv4hQ7kDxTIaOg-IzrgGIHd1wGYxOqRKQggGhRc1lWsTC5crqTEnW_YVQI1_XF761w0u_O7MIVRiV2kfJ80yTlpLzEttSNAmk3Et6SyB8sJBlOKuXHnJrlUli-0ZEBTsBPE-qFhwcRkvqS8ZNzF4VciR0gQQPArUgb5bWFCuyBecN8oiegJlsUeDBk8YQwSmMIpVLb1xJZwyNLjWrZP4JEWOPHNvJKeCHki3PpEUn6hj-Cszg",
+      "tg_url": "https://t.me/PG_Tax/2385",
+      "forwarded_from": null
+    },
     {
       "id": 2384,
       "date": "2026-01-06T11:03:41+00:00",
@@ -107,8 +120,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2378-1-6623e11e078a-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2378-1-6623e11e078a-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2378-1-9de9126ed248-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2378-1-9de9126ed248-v4.jpg"
         }
       ],
       "video_url": null,
@@ -131,37 +144,6 @@
       ],
       "video_url": null,
       "tg_url": "https://t.me/PG_Tax/2377",
-      "forwarded_from": null
-    },
-    {
-      "id": 2375,
-      "date": "2025-12-26T11:04:15+00:00",
-      "text": null,
-      "text_html": null,
-      "views": 1840,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/5b95f9c303.mp4?token=IgI2K7oYZG7ER522Y-IW_aKTIVfs6TuDYLPE7NCNvaYjw99TR4w03Vc2xa1IfF8c7Ulpi4VSEQcxkrL88BchF5Q1ijkVXRAqcVDcyJd6iEARnhZqGKscNkQNLvTinlEfU1Fjd3ZJax2Bp_EyVwDLwfyGa5uTWxyu1H1Lt8bSiTCV2VKbYPptqM6qDmUMchtGduw1iHdMFCIu8chlhMFOc5d_wDG8RAwu5RHYpxvcoWNY2U6VZp660JdPJLQvOUP-HxuGSDHpwTrjhUzVmtsXk6fXRyhhoB-7PpmQD_vyah_gywLO5kDkWPKQf9zhHmKXDZD9eGf8oZP93Lt-AVRung",
-      "tg_url": "https://t.me/PG_Tax/2375",
-      "forwarded_from": null
-    },
-    {
-      "id": 2374,
-      "date": "2025-12-26T11:03:57+00:00",
-      "text": "🔥 Ответы на вопросы  #Сергей_Пепеляев_ON_AIR\n\nУправляющий партнер \"Пепеляев Групп\" Сергей Пепеляев продолжает отвечать на вопросы подписчиков, заданные в комментариях к рубрике 🎤\n\nВопрос дня:\n\n❓ Скажите, пожалуйста, ИИ заменит нас, юристов, или будет нам в помощь?",
-      "text_html": "🔥 Ответы на вопросы  #Сергей_Пепеляев_ON_AIR<br><br>Управляющий партнер \"Пепеляев Групп\" <a href=\"https://www.pgplaw.ru/to-get-the-team/sergey-pepeliaev/\" target=\"_blank\" rel=\"noopener noreferrer\">Сергей Пепеляев</a> продолжает отвечать на вопросы подписчиков, заданные в комментариях к рубрике 🎤<br><br>Вопрос дня:<br><br>❓ Скажите, пожалуйста, ИИ заменит нас, юристов, или будет нам в помощь?",
-      "views": 1770,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2374-1-90d9143e15e0-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2374-1-90d9143e15e0-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2374",
       "forwarded_from": null
     }
   ]
