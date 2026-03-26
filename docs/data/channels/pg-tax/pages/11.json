@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-03-26T05:30:36.508212+00:00",
+  "generated_at": "2026-03-26T07:50:53.188780+00:00",
   "pagination": {
     "page": 11,
     "page_size": 16,
-    "total_posts": 169,
+    "total_posts": 170,
     "total_pages": 11
   },
   "posts": [
+    {
+      "id": 2384,
+      "date": "2026-01-06T11:03:41+00:00",
+      "text": "🔥 Ответы на вопросы  #Сергей_Пепеляев_ON_AIR\n\nУправляющий партнер \"Пепеляев Групп\" Сергей Пепеляев продолжает отвечать на вопросы подписчиков.\n\nПишите в комментарии вопросы для следующих выпусков 🎤\n\nВопрос дня:\n\n❓Что Вас вдохновило на использование в учебнике налогового права не только исторических фактов, но иллюстраций?",
+      "text_html": "🔥 Ответы на вопросы  #Сергей_Пепеляев_ON_AIR<br><br>Управляющий партнер \"Пепеляев Групп\" <a href=\"https://www.pgplaw.ru/to-get-the-team/sergey-pepeliaev/\" target=\"_blank\" rel=\"noopener noreferrer\">Сергей Пепеляев</a> продолжает отвечать на вопросы подписчиков.<br><br>Пишите в комментарии вопросы для следующих выпусков 🎤<br><br>Вопрос дня:<br><br>❓Что Вас вдохновило на использование в <a href=\"https://www.pgplaw.ru/analytics-and-brochures/books/two-volumes-of-tax-law/\" target=\"_blank\" rel=\"noopener noreferrer\">учебнике налогового права</a> не только исторических фактов, но иллюстраций?",
+      "views": 2130,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2384-1-668d4afb91c7-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2384-1-668d4afb91c7-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/PG_Tax/2384",
+      "forwarded_from": null
+    },
     {
       "id": 2382,
       "date": "2026-01-05T09:09:45+00:00",
@@ -89,8 +107,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2378-1-e286f0725014-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2378-1-e286f0725014-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2378-1-8b7fa5660a6e-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2378-1-8b7fa5660a6e-v4.jpg"
         }
       ],
       "video_url": null,
@@ -138,8 +156,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2374-1-f5ce03ea9a07-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2374-1-f5ce03ea9a07-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2374-1-59902844eeb8-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2374-1-59902844eeb8-v4.jpg"
         }
       ],
       "video_url": null,
