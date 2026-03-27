@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-03-27T13:39:19.599162+00:00",
+  "generated_at": "2026-03-27T14:36:09.596110+00:00",
   "pagination": {
     "page": 5,
     "page_size": 16,
-    "total_posts": 73,
+    "total_posts": 74,
     "total_pages": 5
   },
   "posts": [
+    {
+      "id": 1674,
+      "date": "2026-01-19T07:00:23+00:00",
+      "text": "🔍 Открываем новую рабочую неделю с рубрикой #PGГрамотность\n\nСчет-фактура. Мужской или женский род?\n\n☝️ Читайте в карточке правописания!",
+      "text_html": "🔍 Открываем новую рабочую неделю с рубрикой #PGГрамотность<br><br>Счет-фактура. Мужской или женский род?<br><br>☝️ Читайте в карточке правописания!",
+      "views": 889,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1674-1-ca70c901f55a-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1674-1-ca70c901f55a-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1674-2-8940d3c3c137-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1674-2-8940d3c3c137-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/pgp_official/1674",
+      "forwarded_from": null
+    },
     {
       "id": 1669,
       "date": "2026-01-16T13:01:42+00:00",
@@ -110,8 +132,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1665-1-8dd547b3bb6d-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1665-1-8dd547b3bb6d-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1665-1-922a82c8f7c4-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1665-1-922a82c8f7c4-v4.jpg"
         }
       ],
       "video_url": null,
