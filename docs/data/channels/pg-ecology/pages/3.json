@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-03-29T03:32:33.517447+00:00",
+  "generated_at": "2026-03-29T05:27:02.080660+00:00",
   "pagination": {
     "page": 3,
     "page_size": 16,
-    "total_posts": 43,
+    "total_posts": 42,
     "total_pages": 3
   },
   "posts": [
@@ -171,24 +171,6 @@
         "channel_username": "pgp_official",
         "channel_title": "Pepeliaev Group | Пепеляев Групп"
       }
-    },
-    {
-      "id": 1264,
-      "date": "2025-12-29T04:00:13+00:00",
-      "text": "🎄Уважаемые участники канала, доброго дня!\n\nМы подготовили новый обзор судебной практики Значимые споры в сфере экологии за ноябрь и декабрь 2025 г., включая судебные кейсы по темам\n\n🔸плата за негативное воздействие на окружающую среду;\n\n🔸возмещение вреда окружающей среде;\n\n🔸обращение с отходами \n\n🥂 Приятного чтения.",
-      "text_html": "🎄Уважаемые участники канала, доброго дня!<br><br>Мы подготовили <a href=\"https://www.pgplaw.ru/analytics-and-brochures/ecology-digest/ecology-digest-22-12-25/\" target=\"_blank\" rel=\"noopener noreferrer\">новый обзор судебной практики</a> Значимые споры в сфере экологии за ноябрь и декабрь 2025 г., включая судебные кейсы по темам<br><br>🔸плата за негативное воздействие на окружающую среду;<br><br>🔸возмещение вреда окружающей среде;<br><br>🔸обращение с отходами <br><br>🥂 Приятного чтения.",
-      "views": 924,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1264-1-4f6c71b72565-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1264-1-4f6c71b72565-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/pgecology/1264",
-      "forwarded_from": null
     }
   ]
 }
