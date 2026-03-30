@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-03-30T07:01:58.956795+00:00",
+  "generated_at": "2026-03-30T08:26:22.107523+00:00",
   "pagination": {
     "page": 3,
     "page_size": 16,
-    "total_posts": 74,
+    "total_posts": 75,
     "total_pages": 5
   },
   "posts": [
+    {
+      "id": 1734,
+      "date": "2026-02-25T13:00:13+00:00",
+      "text": "☂️ Ограничения и меры поддержки для бизнеса: дайджест\n\n🔘Подготовлены поправки в ГК о плате за отказ от договора; \n\n🔘Разработаны правила, по которым будут проверять маркетплейсы.\n\nПодробнее – по ссылке.\n\n#антикризисная_поддержка_бизнеса",
+      "text_html": "☂️ Ограничения и меры поддержки для бизнеса: дайджест<br><br>🔘Подготовлены поправки в ГК о плате за отказ от договора; <br><br>🔘Разработаны правила, по которым будут проверять маркетплейсы.<br><br>Подробнее – <a href=\"https://www.pgplaw.ru/analytics-and-brochures/sanctions-support-digest/support-digest-23-02-26/\" target=\"_blank\" rel=\"noopener noreferrer\">по ссылке.</a><br><br>#антикризисная_поддержка_бизнеса",
+      "views": 930,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1734-1-71dea4cd3669-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1734-1-71dea4cd3669-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/pgp_official/1734",
+      "forwarded_from": null
+    },
     {
       "id": 1733,
       "date": "2026-02-25T07:35:14+00:00",
@@ -141,7 +159,7 @@
       "date": "2026-02-16T07:04:14+00:00",
       "text": "🔍 Начинаем рабочую неделю с рубрикой #PG_Грамотность\n\nTelegram-канал или телеграм-канал, Т-канал или ТГ-канал. Как правильно?\n\n☝️ Читайте в карточке правописания!",
       "text_html": "🔍 Начинаем рабочую неделю с рубрикой #PG_Грамотность<br><br>Telegram-канал или телеграм-канал, Т-канал или ТГ-канал. Как правильно?<br><br>☝️ Читайте в карточке правописания!",
-      "views": 1090,
+      "views": 1100,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
@@ -168,8 +186,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1720-1-cecb29d0124a-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1720-1-cecb29d0124a-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1720-1-f7d6c758ff04-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1720-1-f7d6c758ff04-v4.jpg"
         }
       ],
       "video_url": null,
@@ -341,28 +359,6 @@
       ],
       "video_url": null,
       "tg_url": "https://t.me/pgp_official/1704",
-      "forwarded_from": null
-    },
-    {
-      "id": 1702,
-      "date": "2026-02-02T07:02:29+00:00",
-      "text": "🔍 Входим в рабочий ритм с рубрикой #PG_Грамотность\n\nВнесение корректив или внесение коррективов. Как правильно?\n\n☝️ Читайте в карточке правописания!",
-      "text_html": "🔍 Входим в рабочий ритм с рубрикой #PG_Грамотность<br><br>Внесение корректив или внесение коррективов. Как правильно?<br><br>☝️ Читайте в карточке правописания!",
-      "views": 1400,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1702-1-39eb808ebd93-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1702-1-39eb808ebd93-v4.jpg"
-        },
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1702-2-1c5969bf1b8c-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1702-2-1c5969bf1b8c-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/pgp_official/1702",
       "forwarded_from": null
     }
   ]

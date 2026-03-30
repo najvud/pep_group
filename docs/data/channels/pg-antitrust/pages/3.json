@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-03-30T05:12:10.652708+00:00",
+  "generated_at": "2026-03-30T08:26:39.140510+00:00",
   "pagination": {
     "page": 3,
     "page_size": 16,
-    "total_posts": 36,
+    "total_posts": 35,
     "total_pages": 3
   },
   "posts": [
@@ -64,24 +64,6 @@
       ],
       "video_url": null,
       "tg_url": "https://t.me/PgAntitrust/1323",
-      "forwarded_from": null
-    },
-    {
-      "id": 1322,
-      "date": "2025-12-30T07:44:15+00:00",
-      "text": "🖥 Главные темы недели:\n\n🟡Ряд спецполномочий Правительства продлили;\n🟡Имущественные торги – по единым правилам;\n🟡Контрсанкционные меры в сфере закупок продлили;\n🟡В ФАС обсудили вопросы регулирования электронной коммерции.\n \nБольше информации — в традиционном обзоре.",
-      "text_html": "🖥 Главные темы недели:<br><br>🟡Ряд спецполномочий Правительства продлили;<br>🟡Имущественные торги – по единым правилам;<br>🟡Контрсанкционные меры в сфере закупок продлили;<br>🟡В ФАС обсудили вопросы регулирования электронной коммерции.<br> <br>Больше информации — в традиционном <a href=\"https://www.pgplaw.ru/analytics-and-brochures/antitrust-reviews/competition-and-law-digest-25-12-29/\" target=\"_blank\" rel=\"noopener noreferrer\">обзоре.</a>",
-      "views": 541,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1322-1-1501661136b8-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1322-1-1501661136b8-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PgAntitrust/1322",
       "forwarded_from": null
     }
   ]
