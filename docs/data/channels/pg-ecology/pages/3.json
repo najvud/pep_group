@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-03-31T09:19:48.473805+00:00",
+  "generated_at": "2026-03-31T10:18:13.954397+00:00",
   "pagination": {
     "page": 3,
     "page_size": 16,
-    "total_posts": 43,
+    "total_posts": 42,
     "total_pages": 3
   },
   "posts": [
@@ -115,8 +115,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1269-1-cda6422fd4a1-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1269-1-cda6422fd4a1-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1269-1-3669545d0f71-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1269-1-3669545d0f71-v4.jpg"
         }
       ],
       "video_url": null,
@@ -171,24 +171,6 @@
       "video_url": null,
       "tg_url": "https://t.me/pgecology/1266",
       "forwarded_from": null
-    },
-    {
-      "id": 1265,
-      "date": "2025-12-31T09:53:15+00:00",
-      "text": "🎁 Дорогие друзья,\nПодходит к концу 2025 год, полный ярких событий, важных открытий, а иногда и сложных решений. \n\nЭтот год мы прошли вместе – через дела, встречи, разговоры, где было место и работе, и простому человеческому теплу.\n\nМы гордимся тем, что за профессиональными задачами сохраняем главное: отношения, в которых есть доверие, уважение и дружеская поддержка.\n\nПусть новый год принесет вам ощущение гармонии и уверенности. Пусть в доме звучит смех, в сердце живет спокойствие, а в делах – порядок и успех.\n\n ❤️ А мы, как всегда, рядом, чтобы помочь, поддержать и разделить с вами радость новых свершений.\n\nС Новым годом!\nКоманда «Пепеляев Групп» ❄️🎄",
-      "text_html": "🎁 Дорогие друзья,<br>Подходит к концу 2025 год, полный ярких событий, важных открытий, а иногда и сложных решений. <br><br>Этот год мы прошли вместе – через дела, встречи, разговоры, где было место и работе, и простому человеческому теплу.<br><br>Мы гордимся тем, что за профессиональными задачами сохраняем главное: отношения, в которых есть доверие, уважение и дружеская поддержка.<br><br>Пусть новый год принесет вам ощущение гармонии и уверенности. Пусть в доме звучит смех, в сердце живет спокойствие, а в делах – порядок и успех.<br><br> ❤️ А мы, как всегда, рядом, чтобы помочь, поддержать и разделить с вами радость новых свершений.<br><br>С Новым годом!<br>Команда «Пепеляев Групп» ❄️🎄",
-      "views": 818,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/78dea8eadf.mov?token=vSMfcloFUt7zW6hylyCfuCiU9W0zYHo2sVCIEq3BtkVgF9yFcu2bhTfaltaT4u-yRjiFyl0q2G1jqMasV0gu9pijfwzl1gSJiXp1noV6mmi-g923ffVMs_zjzD2gzgTV69Ip85PxJsLuh0J4CQvTEXfd89CVfM8VH9PW0uwoQo-dw1hLGCp2gecQaRh4XqGSfHznfqKTajdKhE7QPu6TPbM6C7bxp2ZLxMRycsUJaD_gtVQxNQbPQICpO9OQlzXBa5GZZ8hFVU9HKROhi9DRxRS194POUsyi6FChGqKT_-6PfbD3Uo6yAkBt3VqHHpvWXpKc0OnzfAZbxs_XUrlC3r2kUAX90G9McB85YaSE57MPHm99xRSw_q0pDXmMUY4D9sMEK89Dq4Pk7-_m8ZuIw5wQFVc4ZDG3ZAc6RaMrMAWNqwGDpimRczpertrqRJ1XJZO7OCwdMfMEEIQh_kleKzeQOQDT_DyWBzt1TmZP9oJbUiOxzbhVXyq2DpjsTNhwxO72I8cF7I_lCHsjIUQuoelZWaIUJyJa1tRHBbUuZ_u_tUBYa7sUBBFzZO1w5kMzxFTQ6dXPJfCnHcv7ZqNpZOt4TzqyN_CQS1mtz4hE-FcCE5gqBhDClnxFV2vP6vQmGJ58KmACYdMCLjOzXhjvVacr0zS4LKFJSeNlj8VNCTU",
-      "tg_url": "https://t.me/pgecology/1265",
-      "forwarded_from": {
-        "source_url": "https://t.me/pgp_official/1662",
-        "channel_url": "https://t.me/s/pgp_official",
-        "channel_username": "pgp_official",
-        "channel_title": "Pepeliaev Group | Пепеляев Групп"
-      }
     }
   ]
 }
