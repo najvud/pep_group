@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-03-31T05:51:44.618310+00:00",
+  "generated_at": "2026-03-31T08:13:04.662031+00:00",
   "pagination": {
     "page": 11,
     "page_size": 16,
-    "total_posts": 167,
+    "total_posts": 168,
     "total_pages": 11
   },
   "posts": [
+    {
+      "id": 2389,
+      "date": "2026-01-13T11:10:20+00:00",
+      "text": "🔥 Старший партнер «Пепеляев Групп» Сергей Савсерис подготовил обзор статистики рассмотрения налоговых споров Верховным Судом РФ за 2025 год и предшествующие периоды.\n\n❗️2025 год стал рекордным: исторический минимум дел, переданных в СКЭС ВС РФ, и при этом стопроцентный пересмотр всех принятых к рассмотрению налоговых споров в пользу заявителей. \n\nЧто это говорит о судебном фильтре Верховного Суда, какие категории дел всё-таки «доходят» до экономколлегии и по каким вопросам формируются ключевые позиции — в нашем аналитическом материале. \n\n📎 Цифры, тренды и практические выводы для налогоплательщиков и консультантов ➡️ по ссылке или в pdf ниже.",
+      "text_html": "🔥 Старший партнер «Пепеляев Групп» <a href=\"https://www.pgplaw.ru/to-get-the-team/sergey-savseris/\" target=\"_blank\" rel=\"noopener noreferrer\">Сергей Савсерис</a> подготовил обзор статистики рассмотрения налоговых споров Верховным Судом РФ за 2025 год и предшествующие периоды.<br><br>❗️2025 год стал рекордным: исторический минимум дел, переданных в СКЭС ВС РФ, и при этом стопроцентный пересмотр всех принятых к рассмотрению налоговых споров в пользу заявителей. <br><br>Что это говорит о судебном фильтре Верховного Суда, какие категории дел всё-таки «доходят» до экономколлегии и по каким вопросам формируются ключевые позиции — в нашем аналитическом материале. <br><br>📎 Цифры, тренды и практические выводы для налогоплательщиков и консультантов ➡️ <a href=\"https://www.pgplaw.ru/upload/iblock/379/2xhy2m8deiy8vlay1erb1pzz1yqpg9t6/PG_Tax_disputes_VS_2025.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">по ссылке</a> или в pdf ниже.",
+      "views": 1850,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2389-1-1c3198b41b11-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2389-1-1c3198b41b11-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/PG_Tax/2389",
+      "forwarded_from": null
+    },
     {
       "id": 2388,
       "date": "2026-01-13T07:33:34+00:00",
@@ -70,7 +88,7 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/36796dff64.mp4?token=UnutPbxGmD7xOZJqq1BqpS86ofaSoja5eBI4OikN34mGHqst8fV1JFtGcYv9nsD_XAm_j21AuXwsMOcpsUPRbiMmlM88Qu19KTygoOnoifc5bUGcteYngKUwkq7arct_qH8TINXwkBQGW6yXXtNpEN61wevV2Ynqb9OREM5pI5Hk-c_htCU18t2eNCFoU4-qKXLsjZ4LYTsKZjcfMBQA9STI1bEQvRWrIWHH00L4dnXn00JVkMbUWtX1R7WgGjmsaU4VJsm-14gwwYprnHg60A0_jo7I5YTx_NOGKGjdURJ_eNj3PT_I25qxZA3DYbxrgMYP2ipMQgimEdPOoaF07w",
+      "video_url": "https://cdn4.telesco.pe/file/36796dff64.mp4?token=V_ySLXVsKLEymTQqxaAM00cDbXY-f1NXHdzjfTstoS_ObTGGv589IWNt6oN1IbmNI8f9iq-Tus2LbSEtlgYDKrCp9WaUOBiRRZ2lam-wMiVK-YAVmV_c9Erk7mUH5FIBWedpoQ2D88jbZGYiS4oGCfEpZCNGhyVSxfizjFn2JzLMX8SEC1GAsplgemASryRF4G14fhHq_lPJIPFmYrAEiE-Xv6PMCQ_JDlawHn1iDJdeQ5uM_2XQ5pHOy4zt4Op5hakNwV9VgIr65Ycjrh-1brK3NJVR0kXaZrVyFrKeBWWJ8SYQag-iUeq89SLZqTypYkiDtn5d0AflydO0c8QNYA",
       "tg_url": "https://t.me/PG_Tax/2385",
       "forwarded_from": null
     },

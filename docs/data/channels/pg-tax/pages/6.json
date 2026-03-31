@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-03-31T05:51:44.610170+00:00",
+  "generated_at": "2026-03-31T08:13:04.652647+00:00",
   "pagination": {
     "page": 6,
     "page_size": 16,
-    "total_posts": 167,
+    "total_posts": 168,
     "total_pages": 11
   },
   "posts": [
+    {
+      "id": 2472,
+      "date": "2026-02-17T10:57:01+00:00",
+      "text": "🎬 Новое видео: Добросовестная реализация имущества или злонамеренное сокрытие от взыскания налоговой задолженности? Риски приобретателя\n\nСмотрите через:\n\n📱 ВК Видео\n📱 YouTube\n\nВас ждет обсуждение рискованных сделок с имуществом при наличии налоговой задолженности, позиции Верховного суда и налоговых органов, ключевые признаки недобросовестности и многое другое.\n\n#видеоинтервью_Пепеляев_Налоговед",
+      "text_html": "🎬 Новое видео: Добросовестная реализация имущества или злонамеренное сокрытие от взыскания налоговой задолженности? Риски приобретателя<br><br>Смотрите через:<br><br>📱 <a href=\"https://vkvideo.ru/video-227047542_456239396?sh=4\" target=\"_blank\" rel=\"noopener noreferrer\">ВК Видео</a><br>📱 <a href=\"https://youtu.be/8xjSijqCei8\" target=\"_blank\" rel=\"noopener noreferrer\">YouTube</a><br><br>Вас ждет обсуждение рискованных сделок с имуществом при наличии налоговой задолженности, позиции Верховного суда и налоговых органов, ключевые признаки недобросовестности и многое другое.<br><br>#видеоинтервью_Пепеляев_Налоговед",
+      "views": 1370,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2472-1-7192efd97e2e-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2472-1-7192efd97e2e-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/PG_Tax/2472",
+      "forwarded_from": null
+    },
     {
       "id": 2471,
       "date": "2026-02-17T07:10:06+00:00",
@@ -201,7 +219,7 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/bddec2768e.mp4?token=acxS_2UHfOoCuyK_Le7X_yNL5sdH-djPTxkYvOSvBM1GQ0VlDhRv6pUU1-97KwfEbYI4nCqsk8-nfUoEYqRVZSR2RS3WDp9N3I3vPdmRxq1Q8ZHSBs_7ibmpT6WDwG0h8A6tzPi67pqCXsBpgRba5OTfTV0oayx1bLLzJ_X213e7MkEH9txD-3kQw4vHh7HK6w54LEs1nu0bl1o_cCk-n5TKOOJcie0oE7kLThu-ElK1vjDvEAdWqJwRMLnF8IRrr7gOoQK3l35Sl1vIbUhiVhjjP0GVolMDd-w_WD9zJF_r7UkxxV4VWlyxiegbEKK-aRjJgtI7InKkxL9-a4PvBQ",
+      "video_url": "https://cdn4.telesco.pe/file/bddec2768e.mp4?token=WaVCWl8khCVLKqo1aj2gdoC8hSJS7-X3zuiItJpt1TtZ7v51uhQtS-AAnGFaunmr4F6F5Id7RAC8iqI2Dlu-KKmeeU9354DGTyePpn35QbErCQQUW8UcqAQQytOAkn-6_brJW4a2MXP96WTpancssm62nfD17YYTZHFGiC4txeAPi9KfqJIke4qX7nsrWqkF-vJIUGwR1E8WY-C2Xk6pIx-V2h6GQq4aOv42BI-qxe10pNc6QgcX5EgV59VuUzXnvZQbKvatN5P0xP7AUL8rvX8WXAqnufveOxFw3K146JMcP0CX5z-mVsNvwkUBkjCvF6YojVx1Mxk7iwQZUPKGiA",
       "tg_url": "https://t.me/PG_Tax/2461",
       "forwarded_from": null
     },
@@ -215,8 +233,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2460-1-5b768fa5d8da-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2460-1-5b768fa5d8da-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2460-1-6cc92bfb31a9-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2460-1-6cc92bfb31a9-v4.jpg"
         }
       ],
       "video_url": null,
@@ -270,24 +288,6 @@
       "photos": [],
       "video_url": "https://cdn4.telesco.pe/file/9c54e3d766.mp4?token=nPCv1GGYjqeTfeJp2MS95kb2jgVvBR6WodXYb3L0o2xod70Rzy1COKSDEce0PvG4MXLRXkqT66_jCOiRT8NFhIAq21cIFTZ4_9NdeY3YYWvgMPLI18a7wq3K3R70yiSaMuPf_DmvMdbba86xlYJVYRF6ZV1GTgnJrn2T7MyhQUyBHMyoGUZH3H0kd3kwAjSI9H_eqO2fNofbnr1ASRY7KwgDnnolMMq5m6YqaybptrK4xmKzxGGEuEG83PK74xT3Sz2NGlacMXPbSUKR9q2TVEemTwX3HH6GvxaCozzWLkbuRHp2IUiS_CRQ99YWFtm_CDc8BxJMDBFowMqvVk1aZA",
       "tg_url": "https://t.me/PG_Tax/2457",
-      "forwarded_from": null
-    },
-    {
-      "id": 2456,
-      "date": "2026-02-10T13:35:02+00:00",
-      "text": null,
-      "text_html": null,
-      "views": 1440,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2456-1-dfbab2a0b017-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2456-1-dfbab2a0b017-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2456",
       "forwarded_from": null
     }
   ]
