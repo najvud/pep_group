@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-03-31T15:07:50.337724+00:00",
+  "generated_at": "2026-03-31T16:14:58.868928+00:00",
   "pagination": {
     "page": 5,
     "page_size": 16,
-    "total_posts": 74,
+    "total_posts": 73,
     "total_pages": 5
   },
   "posts": [
@@ -214,24 +214,6 @@
       "video_url": null,
       "tg_url": "https://t.me/pgp_official/1664",
       "forwarded_from": null
-    },
-    {
-      "id": 1663,
-      "date": "2025-12-31T16:13:07+00:00",
-      "text": null,
-      "text_html": null,
-      "views": 1610,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/f786189bc7.mp4?token=ebRfsa5E7Y-SLRYPEdMaAciWESYbN0p022zXMO1l1iBCqXe06jt40zo3HsupcxwN6LBtrRzlsT5fVdkyCLujFt0SYx__pqtfOAlfDpFzuxhWvG86GIN3_WNm4vIwLrrAFlXsNxBsFFK3r5aDAUFzmhn6VBMzZfh3dyTMWA4EHEdpMZG5IbxhQ53xAsVzKccdYV48vz_HZPv5nSKui4RUgWSuzFLH0hHKhxqZEvzsbTZ9aFF-rm9uMfhU997ftdxk7nHVFA858A8ZnYdsbKTi9pUTlKhdafMGDoP-LqjfGIT74SSvqec865T7nQulLJSDEoePX_7iYxL_TCyAyTa5Lg",
-      "tg_url": "https://t.me/pgp_official/1663",
-      "forwarded_from": {
-        "source_url": "https://t.me/PG_Tax/2381",
-        "channel_url": "https://t.me/s/PG_Tax",
-        "channel_username": "PG_Tax",
-        "channel_title": "PG Tax | Налоги"
-      }
     }
   ]
 }
