@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-03-31T20:55:27.324695+00:00",
+  "generated_at": "2026-04-01T05:14:27.403798+00:00",
   "pagination": {
     "page": 3,
     "page_size": 16,
-    "total_posts": 42,
+    "total_posts": 43,
     "total_pages": 3
   },
   "posts": [
+    {
+      "id": 1277,
+      "date": "2026-01-28T04:00:01+00:00",
+      "text": "📣 29.12.2025 опубликован Федеральный закон от 29.12.2025 № 558-ФЗ \"О внесении изменений в статью 65 Водного кодекса Российской Федерации и статью 38 Федерального закона \"Об особо охраняемых природных территориях\"\n\n⏱️ Действует с 09.01.20206.\n\n#ИзмененияЗаконодательства",
+      "text_html": "📣 29.12.2025 опубликован <a href=\"http://publication.pravo.gov.ru/document/0001202512290046?index=1\" target=\"_blank\" rel=\"noopener noreferrer\">Федеральный закон от 29.12.2025 № 558-ФЗ</a> \"О внесении изменений в статью 65 Водного кодекса Российской Федерации и статью 38 Федерального закона \"Об особо охраняемых природных территориях\"<br><br>⏱️ Действует с 09.01.20206.<br><br>#ИзмененияЗаконодательства",
+      "views": 724,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1277-1-9e8eeb8e939f-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1277-1-9e8eeb8e939f-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/pgecology/1277",
+      "forwarded_from": null
+    },
     {
       "id": 1276,
       "date": "2026-01-26T04:00:02+00:00",
@@ -133,8 +151,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1268-1-d1191f7058fb-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1268-1-d1191f7058fb-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1268-1-610eef181329-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1268-1-610eef181329-v4.jpg"
         }
       ],
       "video_url": null,
