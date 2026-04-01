@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-04-01T08:15:31.738630+00:00",
+  "generated_at": "2026-04-01T09:39:00.334045+00:00",
   "pagination": {
     "page": 5,
     "page_size": 16,
-    "total_posts": 73,
+    "total_posts": 74,
     "total_pages": 5
   },
   "posts": [
+    {
+      "id": 1683,
+      "date": "2026-01-21T07:04:16+00:00",
+      "text": "⚡️ Правила ведения реестра российского ПО: что изменится?\n\n28 ноября 2025 г. Правительство РФ приняло комплекс поправок в ИТ-законодательство, утвердивших новые правила ведения реестра отечественного ПО, а также новые перечни – перечень доверенного ПО и перечень ПО для собственных нужд.\n\n🗓 Нововведения вступят в силу 1 марта 2026 г.\n\nРанее мы уже писали о готовящихся изменениях, когда они были на стадии проектов. В этом алерте выделяем ключевые различия между принятыми актами и их предварительными вариантами.\n\n❗️ Важно\n\nКомпаниям следует подготовиться к выполнению новых требований реестра отечественного ПО. Среди прочего, чтобы соблюсти требования, нужно в установленные сроки обеспечить совместимость ПО с двумя доверенными ОС, проанализировать корпоративную структуру на предмет иностранного/государственного участия.\nВ целях включения ПО в перечень доверенного либо для собственных нужд необходимо провести аудит соответствия ПО требованиям Закона № 325-ФЗ.\n\nПолный текст алерта доступен по ссылке👉\n\nℹ️ Если у вас остались вопросы по данной теме, вы можете связаться с Натальей Коваленко, партнером, и Евгением Леоновым, ведущим юристом «Пепеляев Групп».\n\n#pg_алерты",
+      "text_html": "⚡️ Правила ведения реестра российского ПО: что изменится?<br><br>28 ноября 2025 г. Правительство РФ приняло комплекс поправок в ИТ-законодательство, утвердивших новые правила ведения реестра отечественного ПО, а также новые перечни – перечень доверенного ПО и перечень ПО для собственных нужд.<br><br>🗓 Нововведения вступят в силу 1 марта 2026 г.<br><br>Ранее мы уже <a href=\"https://www.pgplaw.ru/analytics-and-brochures/alerts/planiruyutsya-masshtabnye-popravki-v-regulirovanii-it-otrasli/\" target=\"_blank\" rel=\"noopener noreferrer\">писали</a> о готовящихся изменениях, когда они были на стадии проектов. В этом алерте выделяем ключевые различия между принятыми актами и их предварительными вариантами.<br><br>❗️ Важно<br><br>Компаниям следует подготовиться к выполнению новых требований реестра отечественного ПО. Среди прочего, чтобы соблюсти требования, нужно в установленные сроки обеспечить совместимость ПО с двумя доверенными ОС, проанализировать корпоративную структуру на предмет иностранного/государственного участия.<br>В целях включения ПО в перечень доверенного либо для собственных нужд необходимо провести аудит соответствия ПО требованиям Закона № 325-ФЗ.<br><br>Полный текст алерта доступен <a href=\"https://www.pgplaw.ru/analytics-and-brochures/alerts/pravila-vedeniya-reestra-rossiyskogo-po/\" target=\"_blank\" rel=\"noopener noreferrer\">по ссылке</a>👉<br><br>ℹ️ Если у вас остались вопросы по данной теме, вы можете связаться с <a href=\"https://www.pgplaw.ru/to-get-the-team/natalya-ivashchenko/\" target=\"_blank\" rel=\"noopener noreferrer\">Натальей Коваленко,</a> партнером, и Евгением Леоновым, ведущим юристом «Пепеляев Групп».<br><br>#pg_алерты",
+      "views": 1010,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1683-1-d87af9745c10-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1683-1-d87af9745c10-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/pgp_official/1683",
+      "forwarded_from": null
+    },
     {
       "id": 1678,
       "date": "2026-01-19T13:02:02+00:00",
@@ -17,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1678-1-5cee81d92ba7-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1678-1-5cee81d92ba7-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1678-1-4678f2658d3f-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1678-1-4678f2658d3f-v4.jpg"
         },
         {
           "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1678-2-dfde5dfedd95-v4.jpg",
@@ -29,12 +47,12 @@
           "full_url": "data/channels/pgp-official/media/posts/1678-3-5f4d9dc439ed-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1678-4-8179bb1711a1-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1678-4-8179bb1711a1-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1678-4-829a32257310-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1678-4-829a32257310-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1678-5-adfbc8cacf0e-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1678-5-adfbc8cacf0e-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1678-5-3d7559b31a16-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1678-5-3d7559b31a16-v4.jpg"
         }
       ],
       "video_url": null,
@@ -51,8 +69,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1677-1-304f27cc8e49-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1677-1-304f27cc8e49-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1677-1-c56edf84e49b-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1677-1-c56edf84e49b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -78,8 +96,8 @@
           "full_url": "data/channels/pgp-official/media/posts/1674-1-afea73332b84-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1674-2-821581e9f680-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1674-2-821581e9f680-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1674-2-ba56653b58b5-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1674-2-ba56653b58b5-v4.jpg"
         }
       ],
       "video_url": null,
@@ -96,24 +114,24 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1669-1-6545204a1bc8-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1669-1-6545204a1bc8-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1669-1-0282eccee2f0-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1669-1-0282eccee2f0-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1669-2-914b55a0f74b-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1669-2-914b55a0f74b-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1669-2-08c840da7693-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1669-2-08c840da7693-v4.jpg"
         },
         {
           "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1669-3-1f48e2e4bb18-v4.jpg",
           "full_url": "data/channels/pgp-official/media/posts/1669-3-1f48e2e4bb18-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1669-4-e25af9cf8402-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1669-4-e25af9cf8402-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1669-4-25fe9fb4a592-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1669-4-25fe9fb4a592-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1669-5-684d868c93ce-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1669-5-684d868c93ce-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1669-5-e68cdd55876d-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1669-5-e68cdd55876d-v4.jpg"
         }
       ],
       "video_url": null,
@@ -130,8 +148,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1668-1-bf98129166a9-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1668-1-bf98129166a9-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1668-1-89c8bf653ee5-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1668-1-89c8bf653ee5-v4.jpg"
         }
       ],
       "video_url": null,
@@ -143,7 +161,7 @@
       "date": "2026-01-16T07:00:56+00:00",
       "text": "📢  Продолжаем зимнюю серию вебинаров «Пепеляев Групп» для компаний розничной торговли.\n\n🎤 Очередной вебинар пройдет 28 января 2026 года в 11-00 и будет посвящён одной из самых «проблемных» зон в торговле — премиям, скидкам, маркетинговым услугам и подарочным картам.\n\nВ повестке:\n🔴как отличать премию от скидки и оплаты услуг — и почему ошибка в квалификации часто заканчивается доначислениями по НДС; \n🔴в каких ситуациях выплаты поставщиков магазинам переквалифицируются в оплату услуг и стоимость товара; \n🔴какие формулировки в договорах и KPI сегодня наиболее рискованные; \n🔴как налоговые органы и суды подходят к бонусам и ретро-скидкам; \n🔴подарочные карты: аванс, доход, безвозмездное получение, восстановление НДС — где чаще всего ошибаются торговые сети и их партнеры; \n🔴актуальные позиции Минфина, ФНС и Верховного суда, которые важно учитывать при построении моделей работы на 2026 год.\n🔍 Все эти и иные часто возникающие в практике торговых компаний вопросы с Вами обсудит старший партнер «Пепеляев Групп» Сергей Савсерис.\n\n🌐 При регистрации обязательно оставляйте ваши вопросы и кейсы — постараемся разобрать их в ходе вебинара.\n\nПоследующие вебинары серии пройдут в феврале. Следите за анонсами и подписывайтесь на новости «Пепеляев Групп».\n\n#мероприятия",
       "text_html": "📢  Продолжаем зимнюю серию вебинаров «Пепеляев Групп» для компаний розничной торговли.<br><br>🎤 Очередной вебинар пройдет 28 января 2026 года в 11-00 и будет посвящён одной из самых «проблемных» зон в торговле — премиям, скидкам, маркетинговым услугам и подарочным картам.<br><br>В повестке:<br>🔴как отличать премию от скидки и оплаты услуг — и почему ошибка в квалификации часто заканчивается доначислениями по НДС; <br>🔴в каких ситуациях выплаты поставщиков магазинам переквалифицируются в оплату услуг и стоимость товара; <br>🔴какие формулировки в договорах и KPI сегодня наиболее рискованные; <br>🔴как налоговые органы и суды подходят к бонусам и ретро-скидкам; <br>🔴подарочные карты: аванс, доход, безвозмездное получение, восстановление НДС — где чаще всего ошибаются торговые сети и их партнеры; <br>🔴актуальные позиции Минфина, ФНС и Верховного суда, которые важно учитывать при построении моделей работы на 2026 год.<br>🔍 Все эти и иные часто возникающие в практике торговых компаний вопросы с Вами обсудит старший партнер «Пепеляев Групп» Сергей Савсерис.<br><br>🌐 При <a href=\"https://www.pgplaw.ru/events/upcoming-events/premii-skidki-uslugi-podarochnye-karty/\" target=\"_blank\" rel=\"noopener noreferrer\">регистрации</a> обязательно оставляйте ваши вопросы и кейсы — постараемся разобрать их в ходе вебинара.<br><br>Последующие вебинары серии пройдут в феврале. Следите за анонсами и подписывайтесь на новости «Пепеляев Групп».<br><br>#мероприятия",
-      "views": 854,
+      "views": 855,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
@@ -171,8 +189,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1666-1-c8473f3709f9-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1666-1-c8473f3709f9-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1666-1-44b525de8829-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1666-1-44b525de8829-v4.jpg"
         }
       ],
       "video_url": null,
@@ -189,8 +207,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1665-1-2b54545caa9c-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1665-1-2b54545caa9c-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1665-1-5319abd65c55-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1665-1-5319abd65c55-v4.jpg"
         }
       ],
       "video_url": null,
@@ -207,8 +225,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1664-1-cf7638a47902-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1664-1-cf7638a47902-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1664-1-4bbd0382dd8a-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1664-1-4bbd0382dd8a-v4.jpg"
         }
       ],
       "video_url": null,
