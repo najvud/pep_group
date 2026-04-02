@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-04-02T11:11:42.370755+00:00",
+  "generated_at": "2026-04-02T13:43:15.616343+00:00",
   "pagination": {
     "page": 11,
     "page_size": 16,
-    "total_posts": 170,
+    "total_posts": 171,
     "total_pages": 11
   },
   "posts": [
+    {
+      "id": 2394,
+      "date": "2026-01-15T07:26:24+00:00",
+      "text": "✍️ Нормативное регулирование\n \nГосдума:\n✔️ приняла закон с изменением условий для нулевой ставки НДФЛ при продаже ценных бумаг: срок владения теперь не будет прерываться, если инвестор временно передаст бумаги в качества займа или для сделок РЕПО;\n\n✔️приняла в первом чтении законопроект, устанавливающий порядок распоряжения средствами, которые находятся на ЕНС умершего физлица.\n \n⚙️ Практика\n \nФНС России напомнила: с 15 января применяются новая форма запроса выписки из Единого государственного реестра налогоплательщиков (ЕГРН) и формат его электронной подачи. В зависимости от целей налогоплательщик может выбрать тот набор информации, который ему нужен. Можно запросить документ в разрезе одного или нескольких субъектов РФ, выбрать конкретные основания постановки на учет в налоговых органах, например, отдельно по имуществу или по транспортным средствам. Форма запроса стала универсальной как для физических, так и юрлиц и позволяет определять, о ком (о себе или о третьем лице) запрашивается выписка.\n \n#главные_налоговые_новости",
+      "text_html": "✍️ Нормативное регулирование<br> <br>Госдума:<br>✔️ <a href=\"https://www.rbc.ru/quote/news/article/6967749c9a7947c7c5430431\" target=\"_blank\" rel=\"noopener noreferrer\">приняла</a> закон с изменением условий для нулевой ставки НДФЛ при продаже ценных бумаг: срок владения теперь не будет прерываться, если инвестор временно передаст бумаги в качества займа или для сделок РЕПО;<br><br>✔️<a href=\"https://tass.ru/ekonomika/26145453\" target=\"_blank\" rel=\"noopener noreferrer\">приняла</a> в первом чтении законопроект, устанавливающий порядок распоряжения средствами, которые находятся на ЕНС умершего физлица.<br> <br>⚙️ Практика<br> <br>ФНС России <a href=\"https://www.nalog.gov.ru/rn77/news/activities_fts/16595000/\" target=\"_blank\" rel=\"noopener noreferrer\">напомнила:</a> с 15 января применяются новая форма запроса выписки из Единого государственного реестра налогоплательщиков (ЕГРН) и формат его электронной подачи. В зависимости от целей налогоплательщик может выбрать тот набор информации, который ему нужен. Можно запросить документ в разрезе одного или нескольких субъектов РФ, выбрать конкретные основания постановки на учет в налоговых органах, например, отдельно по имуществу или по транспортным средствам. Форма запроса стала универсальной как для физических, так и юрлиц и позволяет определять, о ком (о себе или о третьем лице) запрашивается выписка.<br> <br>#главные_налоговые_новости",
+      "views": 1640,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2394-1-d2af0bf6a8f8-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2394-1-d2af0bf6a8f8-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/PG_Tax/2394",
+      "forwarded_from": null
+    },
     {
       "id": 2392,
       "date": "2026-01-14T11:02:46+00:00",
@@ -17,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2392-1-89e1027ed577-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2392-1-89e1027ed577-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2392-1-ec1be54e3cbd-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2392-1-ec1be54e3cbd-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +53,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2391-1-1796b992c304-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2391-1-1796b992c304-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2391-1-e736bae2f1aa-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2391-1-e736bae2f1aa-v4.jpg"
         }
       ],
       "video_url": null,
@@ -66,8 +84,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2389-1-05d875a35ba9-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2389-1-05d875a35ba9-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2389-1-7f8d52189053-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2389-1-7f8d52189053-v4.jpg"
         }
       ],
       "video_url": null,
@@ -84,8 +102,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2388-1-f2c858bf9f6c-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2388-1-f2c858bf9f6c-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2388-1-6567993f6d10-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2388-1-6567993f6d10-v4.jpg"
         }
       ],
       "video_url": null,
@@ -102,8 +120,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2387-1-eb744d905079-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2387-1-eb744d905079-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2387-1-0d064ea67108-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2387-1-0d064ea67108-v4.jpg"
         }
       ],
       "video_url": null,
@@ -120,8 +138,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2386-1-7ff6b0a7eff6-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2386-1-7ff6b0a7eff6-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2386-1-1696ebceaaff-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2386-1-1696ebceaaff-v4.jpg"
         }
       ],
       "video_url": null,
@@ -137,7 +155,7 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/36796dff64.mp4?token=joMbwmrBRYDK2J0VGo6FGWz4xpsWTTKx489oEcMhiN-jPvhnI0nDKK5YKy4QGciNDgKwwCaly-8jQwCJ8sDSe0Q0M01tvRoOzyJ3DxwjVMebokrU-bafJ6yZ602ZgnhUjWpmYGf7pNd8rPYBuEV57VYRcWmdxdBy-rVGew8ExL_dFcCKAHW0c-5ltLGEbhtvPkstuqJkkptqP_my87rr8jIN0R4TJ3gqlXBmIC9-YjpnNXixdnAtAR_xLtUF1oIRmbfL8DNUOFeDriyy2nU3_OqiF94Z1SXprENNEraP7lkYaEH_WAbFCIDGKJNw-FIyDZEUWU3cHGVbiJ-Q-8Mp_A",
+      "video_url": "https://cdn4.telesco.pe/file/36796dff64.mp4?token=m7orndgPa7TQvIGB6o8bLPjIB0M43b8XeJoDhNMmzyt1lMvOcYRkpwjncy2ltyyUa9Ikg3ugiX6peyvvLlkEsMqL89Je4OABjzDVosH1XOOAJBEV2C9TmGhjJri2aglmohe2VkJmGn0oNseaRzMrWtWw37Or3qLWrojteHf3FMQrqIY9SMNsEx1fwYPt46HAa5InYwJ2pZOq7pgOPuWoQmryH3u-eV-5xQDaJWh228gtmlykRNxJRw_e3kpOgSXEWXnClRnEbWLVETwqeG1NTPG7dUFvndumswxTszwap0y_2z42u4ifr0u7DBaCXROJyhLEdaZeqRnj7QM8vY9qkw",
       "tg_url": "https://t.me/PG_Tax/2385",
       "forwarded_from": null
     },
@@ -151,8 +169,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2384-1-5b84605abf2c-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2384-1-5b84605abf2c-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2384-1-decce2eb051c-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2384-1-decce2eb051c-v4.jpg"
         }
       ],
       "video_url": null,
@@ -169,8 +187,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2382-1-da654419c346-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2382-1-da654419c346-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2382-1-5ddefac1065a-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2382-1-5ddefac1065a-v4.jpg"
         }
       ],
       "video_url": null,
