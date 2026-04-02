@@ -1,12 +1,71 @@
 {
-  "generated_at": "2026-04-02T05:51:57.681368+00:00",
+  "generated_at": "2026-04-02T08:11:04.063281+00:00",
   "pagination": {
     "page": 4,
     "page_size": 16,
-    "total_posts": 74,
+    "total_posts": 75,
     "total_pages": 5
   },
   "posts": [
+    {
+      "id": 1706,
+      "date": "2026-02-06T13:04:43+00:00",
+      "text": "⚡️ФАС направила запросы о ценообразовании на рынках агропромышленного комплекса\n\nЗапросы ФАС не формальность и не переписка для галочки. Ошибки в ответе часто становятся основанием для проверки, дела и штрафа. \n\nВ карточках типовые ситуации, которые нельзя допускать, и бонус.\n\n🥇 Золотое правило: ответ на запрос ФАС – ваша первая и крайне важная возможность аргументировать свою позицию до возбуждения дела. Отнеситесь к его подготовке максимально ответственно и профессионально.",
+      "text_html": "⚡️ФАС направила запросы о ценообразовании на рынках агропромышленного комплекса<br><br>Запросы ФАС не формальность и не переписка для галочки. Ошибки в ответе часто становятся основанием для проверки, дела и штрафа. <br><br>В карточках типовые ситуации, которые нельзя допускать, и бонус.<br><br>🥇 Золотое правило: ответ на запрос ФАС – ваша первая и крайне важная возможность аргументировать свою позицию до возбуждения дела. Отнеситесь к его подготовке максимально ответственно и профессионально.",
+      "views": 1390,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-1-007be90decdb-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1706-1-007be90decdb-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-2-14f2e9368aee-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1706-2-14f2e9368aee-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-3-f40306cacbb6-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1706-3-f40306cacbb6-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-4-a73a765337f5-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1706-4-a73a765337f5-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-5-c4b88539403c-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1706-5-c4b88539403c-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-6-98739478f7ce-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1706-6-98739478f7ce-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-7-6b0025f6a4b9-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1706-7-6b0025f6a4b9-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-8-d2d0f74ba492-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1706-8-d2d0f74ba492-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-9-8a74f4a45550-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1706-9-8a74f4a45550-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-10-905473af7cf4-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1706-10-905473af7cf4-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/pgp_official/1706",
+      "forwarded_from": {
+        "source_url": "https://t.me/PgAntitrust/1339",
+        "channel_url": "https://t.me/s/PgAntitrust",
+        "channel_username": "PgAntitrust",
+        "channel_title": "PG Antitrust | Антимонопольное право"
+      }
+    },
     {
       "id": 1705,
       "date": "2026-02-06T10:02:51+00:00",
@@ -290,40 +349,6 @@
         "channel_username": "bankrotstvo_mustknow",
         "channel_title": "Банкротство | Взгляд эксперта"
       }
-    },
-    {
-      "id": 1684,
-      "date": "2026-01-21T10:02:56+00:00",
-      "text": "🏛 Юристы корпоративной практики «Пепеляев Групп» защитили интересы инвесторов – физических лиц в судебном споре об исключении участника из общества.\n\nКрупный инфраструктурный проект по строительству нефтебазы на Сахалине оказался под угрозой из-за корпоративного конфликта между участниками ООО. Один из партнеров, владеющий 50% долей, подал иск об исключении из общества трех других инвесторов (совладельцев оставшихся 50%). \n\n📎 Команде наших юристов было необходимо защитить интересы миноритарных инвесторов (физических лиц) в суде, добиться отказа в удовлетворении иска об их исключении из общества и сохранить их доли в перспективном проекте.\n\nИнтересы доверителей (ответчиков) представляли юристы корпоративной практики «Пепеляев Групп»: советник Евгений Мушта и партнер Илья Болотнов.\n\n👉 Рассказываем подробнее о деле в карточках и на сайте. \n\n#pg_победы",
-      "text_html": "🏛 Юристы корпоративной практики «Пепеляев Групп» защитили интересы инвесторов – физических лиц в судебном споре об исключении участника из общества.<br><br>Крупный инфраструктурный проект по строительству нефтебазы на Сахалине оказался под угрозой из-за корпоративного конфликта между участниками ООО. Один из партнеров, владеющий 50% долей, подал иск об исключении из общества трех других инвесторов (совладельцев оставшихся 50%). <br><br>📎 Команде наших юристов было необходимо защитить интересы миноритарных инвесторов (физических лиц) в суде, добиться отказа в удовлетворении иска об их исключении из общества и сохранить их доли в перспективном проекте.<br><br>Интересы доверителей (ответчиков) представляли юристы корпоративной практики «Пепеляев Групп»: советник <a href=\"https://www.pgplaw.ru/to-get-the-team/evgeniy-mushta/\" target=\"_blank\" rel=\"noopener noreferrer\">Евгений Мушта</a> и партнер <a href=\"https://www.pgplaw.ru/to-get-the-team/ilya-bolotnov/\" target=\"_blank\" rel=\"noopener noreferrer\">Илья Болотнов</a>.<br><br>👉 Рассказываем подробнее о деле в карточках и <a href=\"https://www.pgplaw.ru/our-experience/243602/\" target=\"_blank\" rel=\"noopener noreferrer\">на сайте</a>. <br><br>#pg_победы",
-      "views": 1240,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1684-1-66a9e1d9cbaa-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1684-1-66a9e1d9cbaa-v4.jpg"
-        },
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1684-2-4dee04bce1b1-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1684-2-4dee04bce1b1-v4.jpg"
-        },
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1684-3-3a8135c2840f-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1684-3-3a8135c2840f-v4.jpg"
-        },
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1684-4-8221cc101a76-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1684-4-8221cc101a76-v4.jpg"
-        },
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1684-5-9a3c1c6d1b76-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1684-5-9a3c1c6d1b76-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/pgp_official/1684",
-      "forwarded_from": null
     }
   ]
 }
