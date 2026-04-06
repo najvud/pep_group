@@ -1,12 +1,46 @@
 {
-  "generated_at": "2026-04-06T11:49:21.113911+00:00",
+  "generated_at": "2026-04-06T13:58:48.287577+00:00",
   "pagination": {
     "page": 3,
     "page_size": 16,
-    "total_posts": 77,
+    "total_posts": 78,
     "total_pages": 5
   },
   "posts": [
+    {
+      "id": 1745,
+      "date": "2026-03-04T13:29:58+00:00",
+      "text": "🏆 Как мы восстановили права фармкомпании на реализацию препарата на территории РФ\n\nЮристы «Пепеляев Групп» защитили права иностранной фармацевтической компании на дизайн упаковки лекарственного препарата. Трехлетний спор потребовал глубокой экспертизы в области авторского и патентного права.\n\n👉В карточках и на сайте рассказываем, как удалось доказать авторство, аннулировать патент «лжеавтора» и восстановить импорт препарата в Россию.\n\n#pg_победы",
+      "text_html": "🏆 Как мы восстановили права фармкомпании на реализацию препарата на территории РФ<br><br>Юристы «Пепеляев Групп» защитили права иностранной фармацевтической компании на дизайн упаковки лекарственного препарата. Трехлетний спор потребовал глубокой экспертизы в области авторского и патентного права.<br><br>👉В карточках и <a href=\"https://www.pgplaw.ru/our-experience/245634/\" target=\"_blank\" rel=\"noopener noreferrer\">на сайте</a> рассказываем, как удалось доказать авторство, аннулировать патент «лжеавтора» и восстановить импорт препарата в Россию.<br><br>#pg_победы",
+      "views": 1030,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1745-1-e6056d5c0ec5-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1745-1-e6056d5c0ec5-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1745-2-fd2411678baf-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1745-2-fd2411678baf-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1745-3-8f633eed94f5-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1745-3-8f633eed94f5-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1745-4-b01e12fe21e2-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1745-4-b01e12fe21e2-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1745-5-89222f39dcc9-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1745-5-89222f39dcc9-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/pgp_official/1745",
+      "forwarded_from": null
+    },
     {
       "id": 1744,
       "date": "2026-03-04T07:00:54+00:00",
@@ -211,7 +245,7 @@
       "date": "2026-02-19T10:34:38+00:00",
       "text": "🏢 Еженедельная подборка обзоров от практик «Пепеляев Групп»\n\nЧто изменилось за последнюю неделю, и на что стоит обратить внимание бизнесу?\n\n▫️ Налоговые новости. Дайджест за 9–15 февраля 2026 г.\n\n▫️ СпецИнвестРежимы в Сибири и на Дальнем Востоке. Дайджест 9–15 февраля 2026 г.\n\n▫️ Антимонопольные новости. Дайджест за 12 января – 11 февраля 2026 г.\n\n▫️ Банкротство: MustRead за 12–18 февраля 2026 г. Выпуск № 308\n\n#pg_обзоры_недели",
       "text_html": "🏢 Еженедельная подборка обзоров от практик «Пепеляев Групп»<br><br>Что изменилось за последнюю неделю, и на что стоит обратить внимание бизнесу?<br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/tax-reviews/tax-news-digest-16-02-26/\" target=\"_blank\" rel=\"noopener noreferrer\">Налоговые новости. Дайджест за 9–15 февраля 2026 г.</a><br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/spec-invest-obzor/invest-news-digest-26-02-16/\" target=\"_blank\" rel=\"noopener noreferrer\">СпецИнвестРежимы в Сибири и на Дальнем Востоке. Дайджест 9–15 февраля 2026 г.</a><br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/antitrust-reviews/antitrust-digest-26-02-17/\" target=\"_blank\" rel=\"noopener noreferrer\">Антимонопольные новости. Дайджест за 12 января – 11 февраля 2026 г.</a><br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/bankruptcy-must-read/bankruptcy-must-read-18-02-26/\" target=\"_blank\" rel=\"noopener noreferrer\">Банкротство: MustRead за 12–18 февраля 2026 г. Выпуск № 308</a><br><br>#pg_обзоры_недели",
-      "views": 965,
+      "views": 966,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
@@ -316,24 +350,6 @@
       ],
       "video_url": null,
       "tg_url": "https://t.me/pgp_official/1719",
-      "forwarded_from": null
-    },
-    {
-      "id": 1718,
-      "date": "2026-02-11T13:04:48+00:00",
-      "text": "☂️ Ограничения и меры поддержки для бизнеса: дайджест\n\n✔️ За нарушения при эксплуатации объектов КИИ планируют ужесточить ответственность;\n\n✔️ Правила розничной продажи товаров обновят;\n\n✔️ Определены дополнительные критерии для посреднических цифровых платформ.\n\nПодробнее – по ссылке.\n\n#антикризисная_поддержка_бизнеса",
-      "text_html": "☂️ Ограничения и меры поддержки для бизнеса: дайджест<br><br>✔️ За нарушения при эксплуатации объектов КИИ планируют ужесточить ответственность;<br><br>✔️ Правила розничной продажи товаров обновят;<br><br>✔️ Определены дополнительные критерии для посреднических цифровых платформ.<br><br>Подробнее – <a href=\"https://www.pgplaw.ru/analytics-and-brochures/sanctions-support-digest/support-digest-09-02-26/\" target=\"_blank\" rel=\"noopener noreferrer\">по ссылке.</a><br><br>#антикризисная_поддержка_бизнеса",
-      "views": 1100,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1718-1-94ccaeaec0c4-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1718-1-94ccaeaec0c4-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/pgp_official/1718",
       "forwarded_from": null
     }
   ]
