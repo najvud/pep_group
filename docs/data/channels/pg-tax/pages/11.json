@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-04-05T14:04:04.106192+00:00",
+  "generated_at": "2026-04-06T08:49:38.120626+00:00",
   "pagination": {
     "page": 11,
     "page_size": 16,
-    "total_posts": 173,
+    "total_posts": 174,
     "total_pages": 11
   },
   "posts": [
+    {
+      "id": 2398,
+      "date": "2026-01-16T10:06:09+00:00",
+      "text": "🔍 На сайте «Пепеляев Групп» опубликован свежий обзор 👉 наиболее значимых, на наш взгляд, налоговых нормативно-правовых актов за четвертый квартал 2025 г. \n\nБудьте в курсе изменений налогового законодательства!\n\n☝️Также мы готовим индивидуальные обзоры изменений налогового законодательства/практики с учетом специфики бизнеса. Подробнее об услуге. \n\n#изменения_законодательства",
+      "text_html": "🔍 На сайте «Пепеляев Групп» опубликован <a href=\"https://www.pgplaw.ru/analytics-and-brochures/tax-reviews/taxes-legal-overview-04-25/\" target=\"_blank\" rel=\"noopener noreferrer\">свежий обзор</a> 👉 наиболее значимых, на наш взгляд, налоговых нормативно-правовых актов за четвертый квартал 2025 г. <br><br>Будьте в курсе изменений налогового законодательства!<br><br>☝️Также мы готовим индивидуальные обзоры изменений налогового законодательства/практики с учетом специфики бизнеса. <a href=\"https://www.pgplaw.ru/practice-and-industry/practices/obzory-zakonodatelstva-i-praktiki/\" target=\"_blank\" rel=\"noopener noreferrer\">Подробнее об услуге</a>. <br><br>#изменения_законодательства",
+      "views": 1550,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2398-1-d7856f57d876-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2398-1-d7856f57d876-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/PG_Tax/2398",
+      "forwarded_from": null
+    },
     {
       "id": 2397,
       "date": "2026-01-16T07:28:42+00:00",
