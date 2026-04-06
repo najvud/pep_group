@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-04-06T11:49:49.440154+00:00",
+  "generated_at": "2026-04-06T12:40:00.933124+00:00",
   "pagination": {
     "page": 4,
     "page_size": 16,
-    "total_posts": 172,
+    "total_posts": 173,
     "total_pages": 11
   },
   "posts": [
+    {
+      "id": 2522,
+      "date": "2026-03-10T13:41:22+00:00",
+      "text": "⚡️ ФАС фактически объявила рекламу в Telegram незаконной. Налоговые последствия могут оказаться куда болезненнее штрафов.  Федеральная антимонопольная служба заявила, что размещение рекламы в Telegram незаконно, поскольку Роскомнадзор уже принимает меры по…",
+      "text_html": "⚡️ ФАС фактически объявила рекламу в Telegram незаконной. Налоговые последствия могут оказаться куда болезненнее штрафов.  Федеральная антимонопольная служба заявила, что размещение рекламы в Telegram незаконно, поскольку Роскомнадзор уже принимает меры по…",
+      "views": 1320,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [],
+      "video_url": null,
+      "tg_url": "https://t.me/PG_Tax/2522",
+      "forwarded_from": null
+    },
     {
       "id": 2521,
       "date": "2026-03-10T10:05:38+00:00",
@@ -250,24 +263,6 @@
       "photos": [],
       "video_url": "https://cdn4.telesco.pe/file/f8fa9e0a04.mp4?token=n5ePLEefJb3m35jepPWOmNnR0w1hJSRhCtH-jIdJ-HjAwcFMcRKPN7uCH0XXz5Lci1x__h4zu85X-Wxb1uF-mPq73e8F6HgZ_n55I8I9s42jCghJZaVG3EWKTfq6ZhQPp0F9vJaIW2AE1exuXILa563H4cq8LHBoANJ8qUqPLD5EGKpgWyWiqLuzObG9uyMcbPIbNKkmPfKZy4rZBdenZUNGV4TDzaXF_XAWBbQVIjt49oUokbB1BaoA6FA7yWB4Ffgfu8TmZb2DeQrl7DEomxxeqDqsC5UKFHCNTbomYq3VFcP-tRI--uzZs_HZ3kdRvXUcFfbNUZpb0MNKSpINnw",
       "tg_url": "https://t.me/PG_Tax/2505",
-      "forwarded_from": null
-    },
-    {
-      "id": 2504,
-      "date": "2026-03-03T10:06:46+00:00",
-      "text": null,
-      "text_html": null,
-      "views": 1160,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2504-1-b514bcd6c0b9-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2504-1-b514bcd6c0b9-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2504",
       "forwarded_from": null
     }
   ]
