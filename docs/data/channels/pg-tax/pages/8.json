@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-04-07T04:14:32.102889+00:00",
+  "generated_at": "2026-04-07T08:21:17.597054+00:00",
   "pagination": {
     "page": 8,
     "page_size": 16,
-    "total_posts": 173,
+    "total_posts": 174,
     "total_pages": 11
   },
   "posts": [
+    {
+      "id": 2450,
+      "date": "2026-02-09T08:15:08+00:00",
+      "text": "⚖️ Судебные дела\n \n🔴Суд ЕАЭС принял к производству заявление о разъяснении норм права, связанных с налогообложением экспортно-импортных и транзитных операций между хозяйствующими субъектами государств – членов Союза (заседание назначено на 12 марта).\nЗаявитель – Национальная палата предпринимателей Казахстана «Атамекен».\n\nℹ️ Палата просит разъяснить вопрос касательно избежания двойного налогообложения при уплате НДС в рамках доставки товаров: должен ли он уплачиваться в государстве – члене Союза, где подается декларация на товары в соответствии с таможенной процедурой выпуска для внутреннего потребления и где товар вводится в гражданский оборот в качестве товара Союза, либо же местом реализации товара должно считаться транзитное государство – член ЕАЭС. \n \n🔴ВС РФ: недействительность сделки не снимает бремя уплаты налогов и страховых взносов (дело № А40-105473/2014о банкротстве компании «Мосстроймеханизация-5»).\n \n🔴ФНС России пытается обанкротить экс-главу российских офисов двух крупных американских фармкомпаний Pfizer и Eli Lilly, гражданина Франции Эрика Патруйярда. \nℹ️ Сумма долга — 35 млн руб., и взыскать её будет непросто: ответчик находится вне территории России. \nЗаявление оставлено судом без движения, так как налоговая служба не предоставила документы, подтверждающие регистрацию ответчика в Москве, а также наличие у него имущества здесь.\n \n#главные_налоговые_новости\n\nНовости прошлой недели читайте на сайте ПГ 👉",
+      "text_html": "⚖️ Судебные дела<br> <br>🔴Суд ЕАЭС <a href=\"https://rapsinews.ru/international_news/20260206/311577576.html\" target=\"_blank\" rel=\"noopener noreferrer\">принял</a> к производству заявление о разъяснении норм права, связанных с налогообложением экспортно-импортных и транзитных операций между хозяйствующими субъектами государств – членов Союза (заседание назначено на 12 марта).<br>Заявитель – Национальная палата предпринимателей Казахстана «Атамекен».<br><br>ℹ️ Палата просит разъяснить вопрос касательно избежания двойного налогообложения при уплате НДС в рамках доставки товаров: должен ли он уплачиваться в государстве – члене Союза, где подается декларация на товары в соответствии с таможенной процедурой выпуска для внутреннего потребления и где товар вводится в гражданский оборот в качестве товара Союза, либо же местом реализации товара должно считаться транзитное государство – член ЕАЭС. <br> <br>🔴ВС РФ: недействительность сделки не снимает бремя уплаты налогов и страховых взносов (дело № <a href=\"https://kad.arbitr.ru/Kad/Card?number=%D0%9040-105473%2F2014\" target=\"_blank\" rel=\"noopener noreferrer\">А40-105473/2014</a>о банкротстве компании «Мосстроймеханизация-5»).<br> <br>🔴ФНС России <a href=\"https://www.kommersant.ru/doc/8418848?query=%D1%84%D0%BD%D1%81\" target=\"_blank\" rel=\"noopener noreferrer\">пытается обанкротить</a> экс-главу российских офисов двух крупных американских фармкомпаний Pfizer и Eli Lilly, гражданина Франции Эрика Патруйярда. <br>ℹ️ Сумма долга — 35 млн руб., и взыскать её будет непросто: ответчик находится вне территории России. <br>Заявление оставлено судом без движения, так как налоговая служба не предоставила документы, подтверждающие регистрацию ответчика в Москве, а также наличие у него имущества здесь.<br> <br>#главные_налоговые_новости<br><br>Новости прошлой недели читайте <a href=\"https://www.pgplaw.ru/analytics-and-brochures/tax-reviews/tax-news-digest-09-02-26/\" target=\"_blank\" rel=\"noopener noreferrer\">на сайте</a> ПГ 👉",
+      "views": 1460,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2450-1-604dea1385f6-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2450-1-604dea1385f6-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/PG_Tax/2450",
+      "forwarded_from": null
+    },
     {
       "id": 2449,
       "date": "2026-02-06T13:01:50+00:00",
@@ -84,8 +102,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2445-1-0835bef0e5e0-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2445-1-0835bef0e5e0-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2445-1-4f125f71f243-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2445-1-4f125f71f243-v4.jpg"
         }
       ],
       "video_url": null,
@@ -102,8 +120,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2444-1-ac2f1bce4bfc-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2444-1-ac2f1bce4bfc-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2444-1-620bf089a383-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2444-1-620bf089a383-v4.jpg"
         }
       ],
       "video_url": null,
@@ -186,7 +204,7 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/4501c9f0fd.mp4?token=CmE-AesP1Bki07yJB7fn28yfLR77t7kfPwMLPDwwo-Dx3u9NLKEmSN9KsZ7wLCUU8eANvzGGAFisNmMiumj3OQY3gAm9RVbGc-Iay4yn39Oj9SzpxNGaIpE2k-rh697ma6H12CchDgw-Y9oZz-q4jY08QDKHiG0brZ3ecxUKbNsYUFiEM4aqF-xaLKVl3B7A5K-xEo2CHKxzVTUkOWGqhWNFLNWl9TuhkszfXhf5U027UrJU-a5GPISIzPaCKqwdoK26QhnbnZwcTZi0Hk2sRDbKE8G1m-cqZBKDtZWwQanUiHA4pIt6z01KIOkBU6iqCOe_wJYpJ-lDTkraAP8-YA",
+      "video_url": "https://cdn4.telesco.pe/file/4501c9f0fd.mp4?token=WWw7GdR1QWu48zcAewBhl9mC129hf760rclOLcmZVgWcD71MHZRwWvsBnkufpqf3QlMQ68favOoIhhtxbJ-cB8uMAaBBePROAXHi1cY6w-FTKQBjJnMObyMrLwHqNu8VlkC3YE1TvhK-BMqGum0gUHgu4dRXRhVqiTIP9PpagY61IUYD1TdCNg9pYQ4Nt9Nd3GfTFVeX5WT0UJRnXIDWIOf0QSt2RD3N8l5xS3D1aKf1zupoX2X-Vi78v7DMwx4v3Vljr_a2tp3iyszpQ682yCW6Tzy78Gt_ONScXF9GTDpkQRR0gQObcuGZGw-q0mgRtf3cdUu-VhJyTZtUIY9EIA",
       "tg_url": "https://t.me/PG_Tax/2439",
       "forwarded_from": null
     },
@@ -255,24 +273,6 @@
       "photos": [],
       "video_url": "https://cdn4.telesco.pe/file/67cfd21769.mp4?token=lI3IVj_rQKhRVgos4QcwFdhKEsPGOMaAIg0I4KcGntJ0u5KA3jRvhfcjNC8rInpY4t7q2rlG_Jkcdam1VGqjM6AN0vPvdhBSsZmN_BB7P3ibrH_1_HKkgdC4uDISqUo8jNJ7LV8EjQS-Llxa7IYYHxQWzOSXQibnV4EW4cjkWtHlICTYAlg79ulVBYruoi1UgGB7La8-jqCCdGIf2RyEs83wcpEe2VkyIkiJ_qXPxw-B0P2MMV4XF-ZSI0UhDK5wZMTJSWxUvvhNlq645mLX1NryuqvSpE0rspX25oPRrQWv5bdFK3cNDiRcW6kiYBFx6aREGlFvkgwhA4_P72YNGQ",
       "tg_url": "https://t.me/PG_Tax/2435",
-      "forwarded_from": null
-    },
-    {
-      "id": 2434,
-      "date": "2026-02-02T13:31:50+00:00",
-      "text": null,
-      "text_html": null,
-      "views": 1520,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2434-1-b9945ba6ef93-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2434-1-b9945ba6ef93-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2434",
       "forwarded_from": null
     }
   ]

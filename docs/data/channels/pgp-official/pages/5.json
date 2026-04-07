@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-04-07T07:07:37.244916+00:00",
+  "generated_at": "2026-04-07T08:20:17.758171+00:00",
   "pagination": {
     "page": 5,
     "page_size": 16,
-    "total_posts": 78,
+    "total_posts": 79,
     "total_pages": 5
   },
   "posts": [
+    {
+      "id": 1692,
+      "date": "2026-01-23T09:59:58+00:00",
+      "text": "⚙️ Обзор изменений ИТ-отрасли за 2025 год \n\nВ 2025 году ИТ-отрасль столкнулась с рядом существенных регуляторных изменений: требования к ИТ-аккредитации и включению ПО в реестр российского ПО становятся строже, формируется нормативная база для дата-центров и не только. \n\nРассказываем ниже о ключевых нововведениях. \n\n📑 Поправки в Правила ИТ-аккредитации\n28 ноября 2025 года было принято Постановление Правительства РФ № 1949. К ключевым изменениям можно отнести: ограничение на иностранное участие и участие компаний госсектора, обязанность по заключению образовательных соглашений для крупных ИТ-компаний (подробнее в Алерте), обязанность по раскрытию дополнительной информации и т.д. \n\nСтоит также отметить расширение дополнительных требований к сайтам ИТ-компаний, несоблюдение которых повлечет аннулирование аккредитации.\n\n👉 Подробнее – в нашем Алерте. \n\n🧩 Поправки в Правила ведения реестра отечественного ПО\nАналогично 28 ноября 2025 года Правительство РФ приняло Постановление № 1937. Среди прочего, вводятся обязанность по поэтапному обеспечению совместимости с российскими операционными системами, ограничение на получение выручки в рамках группы лиц для компаний госсектора, изменяется подход к оценке доли участия российских лиц, отменяются дополнительные требования к офисному ПО и сопровождению ПО. \n\nОбращаем Ваше внимание также на Постановление Правительства от 09.12.2025 № 2001, которым введены требования к ПО/ПАК в сфере ИИ. \n\n👉 Подробнее – в нашемАлерте. \n\n💻 Перечень доверенных ПО и перечень ПО для собственных нужд\nВведены Законом № 325-ФЗ от 31.07.2025. Первый нужен для того, чтобы ПО, отвечающее определенным требованиям, имело преимущество перед иными ПО при участии в госзакупках. Последний необходим, в свою очередь, для использования ПО на значимых объектах КИИ.\n\n👉 Подробнее – в нашем Алерте.  \n\n☝️Статус особо значимого разработчика\nВ целях ускоренного импортозамещения вводится перечень особо значимых разработчиков – российских лиц, заключивших соглашение на разработку и импортозамещение российского ПО.\n\n🔑 Регулирование деятельности ЦОД\n23.07.2025 был принят Федеральный закон № 244-ФЗ, урегулировавший деятельность центров обработки данных (ЦОД). Закон вводит понятие ЦОД, возможность его признания объектом концессионного и ГЧП-соглашения, а также реестр ЦОД, формированием которого займется Минцифры России. \n\n👉 Подробнее об изменениях вАлерте.\n\n💰 Изменения в налоговом регулировании ИТ-отрасли\n28.11.2025 был принят Федеральный закон № 425-ФЗ, который внес поправки в налогообложение ИТ-компаний. Среди прочего, тариф страховых взносов повышен с 7,6% до 15%, введен запрет на применение пониженных ставок по налогу на прибыль и СВ ИТ-компаниями – участниками «Сколково» или других ИНТЦ, а также введен запрет на применение коэффициента 2 к расходам на ПО в случае, если договором не предусмотрен запрет на перепродажу этого ПО.\n\nФедеральный закон № 425-ФЗ также предусмотрел возможность применения пониженных ставок по налогу на прибыль и СВ ИТ-компаниями с госучастием, критерии для которых установит Правительство РФ. На общественном обсуждении находится проект Постановления Правительства РФ.\n\n📧 Если у вас остались вопросы по данным темам, вы можете связаться с Натальей Коваленко, партнером «Пепеляев Групп».",
+      "text_html": "⚙️ Обзор изменений ИТ-отрасли за 2025 год <br><br>В 2025 году ИТ-отрасль столкнулась с рядом существенных регуляторных изменений: требования к ИТ-аккредитации и включению ПО в реестр российского ПО становятся строже, формируется нормативная база для дата-центров и не только. <br><br>Рассказываем ниже о ключевых нововведениях. <br><br>📑 Поправки в Правила ИТ-аккредитации<br>28 ноября 2025 года было <a href=\"http://publication.pravo.gov.ru/document/0001202511290031\" target=\"_blank\" rel=\"noopener noreferrer\">принято</a> Постановление Правительства РФ № 1949. К ключевым изменениям можно отнести: ограничение на иностранное участие и участие компаний госсектора, обязанность по заключению образовательных соглашений для крупных ИТ-компаний (<a href=\"https://www.pgplaw.ru/analytics-and-brochures/alerts/3-ot-nalogovoy-ekonomii-na-vuzy/\" target=\"_blank\" rel=\"noopener noreferrer\">подробнее в Алерте</a>), обязанность по раскрытию дополнительной информации и т.д. <br><br>Стоит также отметить <a href=\"https://www.consultant.ru/document/cons_doc_LAW_518463/\" target=\"_blank\" rel=\"noopener noreferrer\">расширение</a> дополнительных требований к сайтам ИТ-компаний, несоблюдение которых повлечет аннулирование аккредитации.<br><br>👉 Подробнее – в нашем <a href=\"https://www.pgplaw.ru/analytics-and-brochures/alerts/novye-trebovaniya-akkreditatsii-it-kompaniy/\" target=\"_blank\" rel=\"noopener noreferrer\">Алерте</a>. <br><br>🧩 Поправки в Правила ведения реестра отечественного ПО<br>Аналогично 28 ноября 2025 года Правительство РФ <a href=\"http://publication.pravo.gov.ru/document/0001202512080042\" target=\"_blank\" rel=\"noopener noreferrer\">приняло</a> Постановление № 1937. Среди прочего, вводятся обязанность по поэтапному обеспечению совместимости с российскими операционными системами, ограничение на получение выручки в рамках группы лиц для компаний госсектора, изменяется подход к оценке доли участия российских лиц, отменяются дополнительные требования к офисному ПО и сопровождению ПО. <br><br>Обращаем Ваше внимание также на Постановление Правительства от 09.12.2025 № 2001, которым <a href=\"http://publication.pravo.gov.ru/document/0001202512100023\" target=\"_blank\" rel=\"noopener noreferrer\">введены</a> требования к ПО/ПАК в сфере ИИ. <br><br>👉 Подробнее – в нашем<a href=\"https://www.pgplaw.ru/analytics-and-brochures/alerts/pravila-vedeniya-reestra-rossiyskogo-po/\" target=\"_blank\" rel=\"noopener noreferrer\">Алерте</a>. <br><br>💻 Перечень доверенных ПО и перечень ПО для собственных нужд<br><a href=\"http://publication.pravo.gov.ru/document/0001202507310069\" target=\"_blank\" rel=\"noopener noreferrer\">Введены</a> Законом № 325-ФЗ от 31.07.2025. Первый нужен для того, чтобы ПО, отвечающее определенным требованиям, имело преимущество перед иными ПО при участии в госзакупках. Последний необходим, в свою очередь, для использования ПО на значимых объектах КИИ.<br><br>👉 Подробнее – в нашем <a href=\"https://www.pgplaw.ru/analytics-and-brochures/alerts/pravila-vedeniya-reestra-rossiyskogo-po/\" target=\"_blank\" rel=\"noopener noreferrer\">Алерте</a>.  <br><br>☝️Статус особо значимого разработчика<br>В целях ускоренного импортозамещения <a href=\"http://publication.pravo.gov.ru/document/0001202507310069\" target=\"_blank\" rel=\"noopener noreferrer\">вводится</a> перечень особо значимых разработчиков – российских лиц, заключивших соглашение на разработку и импортозамещение российского ПО.<br><br>🔑 Регулирование деятельности ЦОД<br>23.07.2025 был <a href=\"http://publication.pravo.gov.ru/Document/View/0001202507230046\" target=\"_blank\" rel=\"noopener noreferrer\">принят</a> Федеральный закон № 244-ФЗ, урегулировавший деятельность центров обработки данных (ЦОД). Закон вводит понятие ЦОД, возможность его признания объектом концессионного и ГЧП-соглашения, а также реестр ЦОД, формированием которого займется Минцифры России. <br><br>👉 Подробнее об изменениях в<a href=\"https://www.pgplaw.ru/analytics-and-brochures/alerts/prinyat-zakon-reguliruyushchiy-deyatelnost-data-tsentrov/\" target=\"_blank\" rel=\"noopener noreferrer\">Алерте</a>.<br><br>💰 Изменения в налоговом регулировании ИТ-отрасли<br>28.11.2025 был <a href=\"http://publication.pravo.gov.ru/Document/View/0001202511280017\" target=\"_blank\" rel=\"noopener noreferrer\">принят</a> Федеральный закон № 425-ФЗ, который внес поправки в налогообложение ИТ-компаний. Среди прочего, тариф страховых взносов повышен с 7,6% до 15%, введен запрет на применение пониженных ставок по налогу на прибыль и СВ ИТ-компаниями – участниками «Сколково» или других ИНТЦ, а также введен запрет на применение коэффициента 2 к расходам на ПО в случае, если договором не предусмотрен запрет на перепродажу этого ПО.<br><br>Федеральный закон № 425-ФЗ также предусмотрел возможность применения пониженных ставок по налогу на прибыль и СВ ИТ-компаниями с госучастием, критерии для которых установит Правительство РФ. На общественном обсуждении <a href=\"https://regulation.gov.ru/projects/163922/\" target=\"_blank\" rel=\"noopener noreferrer\">находится</a> проект Постановления Правительства РФ.<br><br>📧 Если у вас остались вопросы по данным темам, вы можете связаться с <a href=\"https://www.pgplaw.ru/to-get-the-team/natalya-ivashchenko/\" target=\"_blank\" rel=\"noopener noreferrer\">Натальей Коваленко</a>, партнером «Пепеляев Групп».",
+      "views": 1210,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1692-1-929c6c467e24-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1692-1-929c6c467e24-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/pgp_official/1692",
+      "forwarded_from": null
+    },
     {
       "id": 1691,
       "date": "2026-01-22T10:04:29+00:00",
@@ -53,8 +71,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1689-1-0775a3e81546-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1689-1-0775a3e81546-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1689-1-6107e4811f7b-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1689-1-6107e4811f7b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -76,24 +94,24 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1684-1-c07dd00b07f3-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1684-1-c07dd00b07f3-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1684-1-35b01cd6038d-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1684-1-35b01cd6038d-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1684-2-99915942a608-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1684-2-99915942a608-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1684-2-3cde4da8a458-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1684-2-3cde4da8a458-v4.jpg"
         },
         {
           "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1684-3-9d17b758bbd5-v4.jpg",
           "full_url": "data/channels/pgp-official/media/posts/1684-3-9d17b758bbd5-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1684-4-0766bd7d7bb7-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1684-4-0766bd7d7bb7-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1684-4-3e50638baa2e-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1684-4-3e50638baa2e-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1684-5-764d81d99f80-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1684-5-764d81d99f80-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1684-5-01fb2f0a7e9d-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1684-5-01fb2f0a7e9d-v4.jpg"
         }
       ],
       "video_url": null,
@@ -128,8 +146,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1678-1-de3685692d4a-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1678-1-de3685692d4a-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1678-1-369a7e1106e4-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1678-1-369a7e1106e4-v4.jpg"
         },
         {
           "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1678-2-4f13d71c0914-v4.jpg",
@@ -140,12 +158,12 @@
           "full_url": "data/channels/pgp-official/media/posts/1678-3-eea1cea72198-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1678-4-374dd106c719-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1678-4-374dd106c719-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1678-4-efb94fbebf68-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1678-4-efb94fbebf68-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1678-5-a27e612f37c0-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1678-5-a27e612f37c0-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1678-5-9a85ed6b6438-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1678-5-9a85ed6b6438-v4.jpg"
         }
       ],
       "video_url": null,
@@ -162,8 +180,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1677-1-22f3a7f11a76-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1677-1-22f3a7f11a76-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1677-1-0b0fcd183189-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1677-1-0b0fcd183189-v4.jpg"
         }
       ],
       "video_url": null,
@@ -189,8 +207,8 @@
           "full_url": "data/channels/pgp-official/media/posts/1674-1-f1b6173b98c5-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1674-2-cd782716e3e0-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1674-2-cd782716e3e0-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1674-2-b118fe0ebd22-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1674-2-b118fe0ebd22-v4.jpg"
         }
       ],
       "video_url": null,
@@ -207,24 +225,24 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1669-1-1957038b8836-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1669-1-1957038b8836-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1669-1-fa9bf38cfc97-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1669-1-fa9bf38cfc97-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1669-2-feb48bdb69bb-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1669-2-feb48bdb69bb-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1669-2-07c3866458b2-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1669-2-07c3866458b2-v4.jpg"
         },
         {
           "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1669-3-94cd8aa742cd-v4.jpg",
           "full_url": "data/channels/pgp-official/media/posts/1669-3-94cd8aa742cd-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1669-4-91c308c153b7-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1669-4-91c308c153b7-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1669-4-e55b30ca7b62-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1669-4-e55b30ca7b62-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1669-5-6d34ab0963aa-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1669-5-6d34ab0963aa-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1669-5-c8978e71c4d7-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1669-5-c8978e71c4d7-v4.jpg"
         }
       ],
       "video_url": null,
@@ -241,8 +259,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1668-1-1723223abf1c-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1668-1-1723223abf1c-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1668-1-3f2b70717529-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1668-1-3f2b70717529-v4.jpg"
         }
       ],
       "video_url": null,
@@ -282,8 +300,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1666-1-9ea9c9de7e5d-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1666-1-9ea9c9de7e5d-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1666-1-7fdffc36d0a1-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1666-1-7fdffc36d0a1-v4.jpg"
         }
       ],
       "video_url": null,
@@ -300,8 +318,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1665-1-1b3abeadc25b-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1665-1-1b3abeadc25b-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1665-1-4545fd3c0bc9-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1665-1-4545fd3c0bc9-v4.jpg"
         }
       ],
       "video_url": null,
@@ -318,8 +336,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1664-1-4cb1351d7f7d-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1664-1-4cb1351d7f7d-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1664-1-fd6959c1c8c5-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1664-1-fd6959c1c8c5-v4.jpg"
         }
       ],
       "video_url": null,
