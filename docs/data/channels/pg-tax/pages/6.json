@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-04-08T03:30:14.888135+00:00",
+  "generated_at": "2026-04-08T08:13:17.014928+00:00",
   "pagination": {
     "page": 6,
     "page_size": 16,
-    "total_posts": 175,
+    "total_posts": 176,
     "total_pages": 11
   },
   "posts": [
+    {
+      "id": 2485,
+      "date": "2026-02-24T13:04:13+00:00",
+      "text": "Наша постоянная рубрика #от_редактора_Налоговед\n\nМаргарита Завязочникова обращает внимание на четыре статьи свежего № 2:\n \n✍️ Изменения в камеральном налоговом контроле - о практике взаимодействия налоговых органов и налогоплательщиков в ходе камеральной налоговой проверки. Учтены и проанализированы изменения в НК РФ с 2026 г.!\n\n✍️ Судебная практика по преференциальным налоговым режимам – автор статьи подводит итоги 2025 г.\n\n✍️ Инспекция пересчитала и взыскала пени по «старой» недоимке. Законно ли - задается вопросом автор и в итоге приводит аргументы о незаконности таких действий.\n\n✍️ Неочевидные препятствия при получении рассрочки или отсрочки по уплате налогов - возвращаемся к обсуждению проблем, с которыми сталкиваются налогоплательщики на всех этапах взаимодействия с налоговыми органами по этому вопросу.\n \nЕсть и другие не менее интересные статьи в номере. Они доступны подписчикам, но чтобы почитать их, можно оформить демо-доступ 👉\n \nНапоминаем, что в электронном виде открыт архив журнала вплоть до 2023 г. \n\n📑 Полезного чтения!",
+      "text_html": "Наша постоянная рубрика #от_редактора_Налоговед<br><br>Маргарита Завязочникова обращает внимание на четыре статьи свежего <a href=\"https://e.nalogoved.ru/\" target=\"_blank\" rel=\"noopener noreferrer\">№ 2</a>:<br> <br>✍️ <a href=\"https://e.nalogoved.ru/1174269\" target=\"_blank\" rel=\"noopener noreferrer\">Изменения в камеральном налоговом контроле</a> - о практике взаимодействия налоговых органов и налогоплательщиков в ходе камеральной налоговой проверки. Учтены и проанализированы изменения в НК РФ с 2026 г.!<br><br>✍️ <a href=\"https://e.nalogoved.ru/1174272\" target=\"_blank\" rel=\"noopener noreferrer\">Судебная практика по преференциальным налоговым режимам</a> – автор статьи подводит итоги 2025 г.<br><br>✍️ <a href=\"https://e.nalogoved.ru/1174274\" target=\"_blank\" rel=\"noopener noreferrer\">Инспекция пересчитала и взыскала пени по «старой» недоимке</a>. Законно ли - задается вопросом автор и в итоге приводит аргументы о незаконности таких действий.<br><br>✍️ <a href=\"https://e.nalogoved.ru/1174275\" target=\"_blank\" rel=\"noopener noreferrer\">Неочевидные препятствия при получении рассрочки или отсрочки по уплате налогов</a> - возвращаемся к обсуждению проблем, с которыми сталкиваются налогоплательщики на всех этапах взаимодействия с налоговыми органами по этому вопросу.<br> <br>Есть и другие не менее интересные статьи в номере. Они доступны подписчикам, но чтобы почитать их, можно оформить <a href=\"https://e.nalogoved.ru/\" target=\"_blank\" rel=\"noopener noreferrer\">демо-доступ</a> 👉<br> <br>Напоминаем, что в электронном виде открыт <a href=\"https://e.nalogoved.ru/\" target=\"_blank\" rel=\"noopener noreferrer\">архив журнала</a> вплоть до 2023 г. <br><br>📑 Полезного чтения!",
+      "views": 1250,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2485-1-bf7fb5ea59c2-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2485-1-bf7fb5ea59c2-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/PG_Tax/2485",
+      "forwarded_from": null
+    },
     {
       "id": 2484,
       "date": "2026-02-24T10:02:30+00:00",
@@ -17,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2484-1-2f28f48a6259-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2484-1-2f28f48a6259-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2484-1-957a40769744-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2484-1-957a40769744-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +53,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2483-1-bf066b7d1f3e-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2483-1-bf066b7d1f3e-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2483-1-11da513ab1ab-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2483-1-11da513ab1ab-v4.jpg"
         }
       ],
       "video_url": null,
@@ -53,8 +71,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2482-1-b2ad8b03bd60-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2482-1-b2ad8b03bd60-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2482-1-35de55f799bf-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2482-1-35de55f799bf-v4.jpg"
         }
       ],
       "video_url": null,
@@ -71,8 +89,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2481-1-b966292f6f0b-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2481-1-b966292f6f0b-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2481-1-3feb8b67e0de-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2481-1-3feb8b67e0de-v4.jpg"
         }
       ],
       "video_url": null,
@@ -89,8 +107,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2480-1-bc066b32da35-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2480-1-bc066b32da35-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2480-1-b7fe50eb9ca7-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2480-1-b7fe50eb9ca7-v4.jpg"
         }
       ],
       "video_url": null,
@@ -107,8 +125,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2479-1-79a964216882-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2479-1-79a964216882-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2479-1-55e99ffa5d82-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2479-1-55e99ffa5d82-v4.jpg"
         }
       ],
       "video_url": null,
@@ -143,8 +161,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2476-1-50cd27e8a982-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2476-1-50cd27e8a982-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2476-1-81dbeb2035d7-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2476-1-81dbeb2035d7-v4.jpg"
         }
       ],
       "video_url": null,
@@ -161,8 +179,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2475-1-4d5f0bf7766b-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2475-1-4d5f0bf7766b-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2475-1-c239e9da4b92-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2475-1-c239e9da4b92-v4.jpg"
         }
       ],
       "video_url": null,
@@ -179,8 +197,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2474-1-97b846ef5a41-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2474-1-97b846ef5a41-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2474-1-13500fdf1e29-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2474-1-13500fdf1e29-v4.jpg"
         }
       ],
       "video_url": null,
@@ -197,8 +215,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2473-1-c3ab44d87358-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2473-1-c3ab44d87358-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2473-1-2b8a51e606ce-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2473-1-2b8a51e606ce-v4.jpg"
         }
       ],
       "video_url": null,
@@ -215,8 +233,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2472-1-1a85fa2e6efe-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2472-1-1a85fa2e6efe-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2472-1-6bbfd857b214-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2472-1-6bbfd857b214-v4.jpg"
         }
       ],
       "video_url": null,
@@ -233,8 +251,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2471-1-8afb814a136e-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2471-1-8afb814a136e-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2471-1-6e11199750c6-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2471-1-6e11199750c6-v4.jpg"
         }
       ],
       "video_url": null,
@@ -251,8 +269,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2470-1-4441bdade57d-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2470-1-4441bdade57d-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2470-1-9aa45169f90a-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2470-1-9aa45169f90a-v4.jpg"
         }
       ],
       "video_url": null,
@@ -275,24 +293,6 @@
       ],
       "video_url": null,
       "tg_url": "https://t.me/PG_Tax/2469",
-      "forwarded_from": null
-    },
-    {
-      "id": 2468,
-      "date": "2026-02-16T07:54:18+00:00",
-      "text": "⚙️ Практика\n \nУбытки российских компаний за 11 месяцев 2025 г. составили 7,5 трлн руб. — это рекорд за все время наблюдения. \n\nℹ️ В 2024 г. потери бизнеса были меньше 7 трлн, а в 2023 г. — 4 трлн, следует из данных Росстата. \nСильнее прочих просели обрабатывающие производства, добыча полезных ископаемых и торговля. Среди причин — дорогие кредиты, слабый спрос, санкции и рост издержек.\n \n⚖️ Судебные дела\n \nКС РФ принял к рассмотрению жалобу ООО «Терра Групп» на нарушение его конституционных прав нормами Постановления Правительства РФ, увеличивающими размеры утилизационного сбора к отношениям, возникшим до даты его вступления в силу. \n\nℹ️ Компания – заявитель заплатила в 4 раза больше из-за пропуска срока в 21 день с момента вступления новых правил.\n\n#главные_налоговые_новости\n\nНовости прошлой недели читайте в обзоре на сайте ПГ 👉",
-      "text_html": "⚙️ Практика<br> <br>Убытки российских компаний за 11 месяцев 2025 г. <a href=\"https://iz.ru/2041828/olga-anaseva/nevospolnimaya-rastrata-ubytki-rossijskogo-biznesa-dostigli-rekordnyh-7-5-trln\" target=\"_blank\" rel=\"noopener noreferrer\">составили</a> 7,5 трлн руб. — это рекорд за все время наблюдения. <br><br>ℹ️ В 2024 г. потери бизнеса были меньше 7 трлн, а в 2023 г. — 4 трлн, следует из данных Росстата. <br>Сильнее прочих просели обрабатывающие производства, добыча полезных ископаемых и торговля. Среди причин — дорогие кредиты, слабый спрос, санкции и рост издержек.<br> <br>⚖️ Судебные дела<br> <br>КС РФ <a href=\"https://www.ksrf.ru/news/37777/\" target=\"_blank\" rel=\"noopener noreferrer\">принял</a> к рассмотрению жалобу ООО «Терра Групп» на нарушение его конституционных прав нормами Постановления Правительства РФ, увеличивающими размеры утилизационного сбора к отношениям, возникшим до даты его вступления в силу. <br><br>ℹ️ Компания – заявитель <a href=\"https://www.vedomosti.ru/society/articles/2026/02/16/1176534-konstitutsionnii-sud-razberetsya-v-srokah-primeneniya-povishennih-koeffitsientov-utilsbora\" target=\"_blank\" rel=\"noopener noreferrer\">заплатила</a> в 4 раза больше из-за пропуска срока в 21 день с момента вступления новых правил.<br><br>#главные_налоговые_новости<br><br>Новости прошлой недели читайте в обзоре <a href=\"https://www.pgplaw.ru/analytics-and-brochures/tax-reviews/tax-news-digest-16-02-26/\" target=\"_blank\" rel=\"noopener noreferrer\">на сайте</a> ПГ 👉",
-      "views": 1470,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2468-1-68eca7b81414-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2468-1-68eca7b81414-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2468",
       "forwarded_from": null
     }
   ]
