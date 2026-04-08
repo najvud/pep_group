@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-04-08T11:35:56.559501+00:00",
+  "generated_at": "2026-04-08T12:41:09.828849+00:00",
   "pagination": {
     "page": 10,
     "page_size": 16,
-    "total_posts": 176,
-    "total_pages": 11
+    "total_posts": 177,
+    "total_pages": 12
   },
   "posts": [
+    {
+      "id": 2420,
+      "date": "2026-01-27T11:25:21+00:00",
+      "text": "🛡 «Пепеляев Групп» защитила физических лиц в спорах о зачёте налога, уплаченного в Казахстане  Команда «Пепеляев Групп» успешно защитила интересы физических лиц в спорах с налоговыми органами о зачёте индивидуального подоходного налога, уплаченного в Республике…",
+      "text_html": "🛡 «Пепеляев Групп» защитила физических лиц в спорах о зачёте налога, уплаченного в Казахстане  Команда «Пепеляев Групп» успешно защитила интересы физических лиц в спорах с налоговыми органами о зачёте индивидуального подоходного налога, уплаченного в Республике…",
+      "views": 1580,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [],
+      "video_url": null,
+      "tg_url": "https://t.me/PG_Tax/2420",
+      "forwarded_from": null
+    },
     {
       "id": 2419,
       "date": "2026-01-27T10:30:08+00:00",
@@ -17,8 +30,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2419-1-35d47e82c891-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2419-1-35d47e82c891-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2419-1-eeddd7efad80-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2419-1-eeddd7efad80-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +48,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2418-1-93a96f24a0e2-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2418-1-93a96f24a0e2-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2418-1-63708f2425a8-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2418-1-63708f2425a8-v4.jpg"
         }
       ],
       "video_url": null,
@@ -53,8 +66,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2417-1-174da587ba51-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2417-1-174da587ba51-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2417-1-30e09ce99a1f-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2417-1-30e09ce99a1f-v4.jpg"
         }
       ],
       "video_url": null,
@@ -71,8 +84,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2416-1-1e7501e49a47-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2416-1-1e7501e49a47-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2416-1-6119daa14cae-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2416-1-6119daa14cae-v4.jpg"
         }
       ],
       "video_url": null,
@@ -89,8 +102,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2415-1-859c60700d35-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2415-1-859c60700d35-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2415-1-9c330b3f1e5c-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2415-1-9c330b3f1e5c-v4.jpg"
         }
       ],
       "video_url": null,
@@ -130,8 +143,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2413-1-d69c5d2ef073-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2413-1-d69c5d2ef073-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2413-1-16f10945a97c-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2413-1-16f10945a97c-v4.jpg"
         }
       ],
       "video_url": null,
@@ -148,8 +161,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2412-1-90b4cd94517a-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2412-1-90b4cd94517a-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2412-1-43b87e5a3544-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2412-1-43b87e5a3544-v4.jpg"
         }
       ],
       "video_url": null,
@@ -184,8 +197,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2410-1-a95e978ce4df-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2410-1-a95e978ce4df-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2410-1-e7fe327d817b-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2410-1-e7fe327d817b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -215,8 +228,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2408-1-86a6b43a833a-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2408-1-86a6b43a833a-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2408-1-8b03470cd169-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2408-1-8b03470cd169-v4.jpg"
         }
       ],
       "video_url": null,
@@ -233,8 +246,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2407-1-ce45fce0122e-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2407-1-ce45fce0122e-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2407-1-4a7255b0c842-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2407-1-4a7255b0c842-v4.jpg"
         }
       ],
       "video_url": null,
@@ -251,8 +264,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2406-1-086762c33a36-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2406-1-086762c33a36-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2406-1-9ab1ae53e5b8-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2406-1-9ab1ae53e5b8-v4.jpg"
         }
       ],
       "video_url": null,
@@ -269,30 +282,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2405-1-4e60904023bd-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2405-1-4e60904023bd-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2405-1-ba8e7a840c96-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2405-1-ba8e7a840c96-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/PG_Tax/2405",
-      "forwarded_from": null
-    },
-    {
-      "id": 2404,
-      "date": "2026-01-20T07:50:59+00:00",
-      "text": "✍️ Нормативное регулирование\n \n🔴Власти возобновили обсуждение законопроекта об очередности уплаты налога в процедурах банкротства бизнеса (внесен в Госдуму в 2024 году).\nℹ️ ФНС России предложила разграничить налог на прибыль от реализации банкротного имущества и налог на прибыль от продолжения деятельности, отнеся их к третьей очереди реестровых требований и к пятой очереди текущих платежей соответственно.\n \n🔴В IT-отрасли раскритиковали предложения Минцифры России по изменению правил аккредитации IT-компаний. Больше всего вопросов вызвала инициатива о возможности получать аккредитацию госорганами.\n💬 Отмечают риск «появления соблазна «безнаказанно» заводить под льготный режим налогообложения не только IT-деятельность госкомпании, формально отчитываться о повышении финансовой эффективности, без реальной демонстрации такого эффекта, выраженной в создании конкурентных высокотехнологичных IT-продуктов».\n \n⚙️ Практика\n \n🔴Национальное объединение строителей (НОСТРОЙ) обратилось в Минфин России с просьбой разъяснить применение новой ставки НДС в 22% и налога на прибыль для «переходящих» контрактов с 2025 на 2026 и последующие годы. Основной вопрос: обязан ли заказчик пересмотреть стоимость договора и заключить допсоглашение с подрядчиком в связи с изменением ставки налога. \n🛑 В настоящий момент в рамках камеральных проверок при возмещении НДС налоговые органы руководствуются датой фактического выполнения работ и покупки материалов (2025 г.), но при начислении НДС к уплате формально требуют ориентироваться на дату постановки на налоговый учет, т.е. на дату подписания акта (2026 г.).\n \n🔴С 1 января 2026 г. налоговый мониторинг проводится в отношении 870 компаний из более чем 20 отраслей экономики (к мониторингу присоединились 144 участника). Новые участники преимущественно из промышленных отраслей, но также из рекламы, сельского хозяйства, логистики и IT. Среди них 17 компаний по соглашениям СЗПК, для которых участие обязательно.\n \n#главные_налоговые_новости\n \nНовости прошлой недели читайте на сайте ПГ 👉",
-      "text_html": "✍️ Нормативное регулирование<br> <br>🔴Власти <a href=\"https://www.forbes.ru/finansy/553820-rbk-uznal-o-predlozenii-fns-izmenit-ocerednost-platezej-pri-bankrotstve%22%20%5Co%20%22https://www.forbes.ru/finansy/553820-rbk-uznal-o-predlozenii-fns-izmenit-ocerednost-platezej-pri-bankrotstve\" target=\"_blank\" rel=\"noopener noreferrer\">возобновили</a> обсуждение законопроекта об очередности уплаты налога в процедурах банкротства бизнеса (внесен в Госдуму в 2024 году).<br>ℹ️ ФНС России предложила разграничить налог на прибыль от реализации банкротного имущества и налог на прибыль от продолжения деятельности, отнеся их к третьей очереди реестровых требований и к пятой очереди текущих платежей соответственно.<br> <br>🔴В IT-отрасли <a href=\"https://rg.ru/2026/01/17/it-otrasl-raskritikovala-ideiu-polucheniia-akkreditacii-pri-mincifry-gosorganami.html%22%20%5Co%20%22https://rg.ru/2026/01/17/it-otrasl-raskritikovala-ideiu-polucheniia-akkreditacii-pri-mincifry-gosorganami.html\" target=\"_blank\" rel=\"noopener noreferrer\">раскритиковали</a> предложения Минцифры России по изменению правил аккредитации IT-компаний. Больше всего вопросов вызвала инициатива о возможности получать аккредитацию госорганами.<br>💬 Отмечают риск «появления соблазна «безнаказанно» заводить под льготный режим налогообложения не только IT-деятельность госкомпании, формально отчитываться о повышении финансовой эффективности, без реальной демонстрации такого эффекта, выраженной в создании конкурентных высокотехнологичных IT-продуктов».<br> <br>⚙️ Практика<br> <br>🔴Национальное объединение строителей (НОСТРОЙ) <a href=\"https://www.vedomosti.ru/press_releases/2026/01/19/nostroi-obratilsya-v-minfin-rossii-s-prosboi-ustranit-pravovuyu-kolliziyu-v-svyazi-s-povisheniem-nds%22%20%5Co%20%22https://www.vedomosti.ru/press_releases/2026/01/19/nostroi-obratilsya-v-minfin-rossii-s-prosboi-ustranit-pravovuyu-kolliziyu-v-svyazi-s-povisheniem-nds\" target=\"_blank\" rel=\"noopener noreferrer\">обратилось</a> в Минфин России с просьбой разъяснить применение новой ставки НДС в 22% и налога на прибыль для «переходящих» контрактов с 2025 на 2026 и последующие годы. Основной вопрос: обязан ли заказчик пересмотреть стоимость договора и заключить допсоглашение с подрядчиком в связи с изменением ставки налога. <br>🛑 В настоящий момент в рамках камеральных проверок при возмещении НДС налоговые органы руководствуются датой фактического выполнения работ и покупки материалов (2025 г.), но при начислении НДС к уплате формально требуют ориентироваться на дату постановки на налоговый учет, т.е. на дату подписания акта (2026 г.).<br> <br>🔴С 1 января 2026 г. налоговый мониторинг <a href=\"https://xn--80aecbyafnmegcfbdc8a8a7m.xn--p1ai/novosti/nalogovyy-monitoring-2026-kolichestvo-uchastnikov-vyroslo-na-20/%22%20%5Co%20%22https://xn--80aecbyafnmegcfbdc8a8a7m.xn--p1ai/novosti/nalogovyy-monitoring-2026-kolichestvo-uchastnikov-vyroslo-na-20/\" target=\"_blank\" rel=\"noopener noreferrer\">проводится</a> в отношении 870 компаний из более чем 20 отраслей экономики (к мониторингу присоединились 144 участника). Новые участники преимущественно из промышленных отраслей, но также из рекламы, сельского хозяйства, логистики и IT. Среди них 17 компаний по соглашениям СЗПК, для которых участие обязательно.<br> <br>#главные_налоговые_новости<br> <br>Новости прошлой недели читайте <a href=\"https://www.pgplaw.ru/analytics-and-brochures/tax-reviews/tax-news-digest-19-01-26/\" target=\"_blank\" rel=\"noopener noreferrer\">на сайте</a> ПГ 👉",
-      "views": 1490,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2404-1-819a0f43fdfa-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2404-1-819a0f43fdfa-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2404",
       "forwarded_from": null
     }
   ]
