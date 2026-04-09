@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-04-09T09:22:02.015203+00:00",
+  "generated_at": "2026-04-09T10:38:08.934762+00:00",
   "pagination": {
     "page": 4,
     "page_size": 16,
-    "total_posts": 80,
-    "total_pages": 5
+    "total_posts": 81,
+    "total_pages": 6
   },
   "posts": [
+    {
+      "id": 1721,
+      "date": "2026-02-16T07:04:14+00:00",
+      "text": "🔍 Начинаем рабочую неделю с рубрикой #PG_Грамотность\n\nTelegram-канал или телеграм-канал, Т-канал или ТГ-канал. Как правильно?\n\n☝️ Читайте в карточке правописания!",
+      "text_html": "🔍 Начинаем рабочую неделю с рубрикой #PG_Грамотность<br><br>Telegram-канал или телеграм-канал, Т-канал или ТГ-канал. Как правильно?<br><br>☝️ Читайте в карточке правописания!",
+      "views": 1110,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1721-1-3f1b88481d6f-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1721-1-3f1b88481d6f-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1721-2-b19a1517ff0e-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1721-2-b19a1517ff0e-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/pgp_official/1721",
+      "forwarded_from": null
+    },
     {
       "id": 1720,
       "date": "2026-02-12T13:04:27+00:00",
@@ -17,8 +39,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1720-1-8ca1388c5188-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1720-1-8ca1388c5188-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1720-1-12fdf0022513-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1720-1-12fdf0022513-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +57,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1719-1-4bd84f96b587-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1719-1-4bd84f96b587-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1719-1-003bca272aac-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1719-1-003bca272aac-v4.jpg"
         }
       ],
       "video_url": null,
@@ -53,8 +75,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1718-1-af33e229755f-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1718-1-af33e229755f-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1718-1-309139bb42db-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1718-1-309139bb42db-v4.jpg"
         }
       ],
       "video_url": null,
@@ -71,8 +93,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1717-1-1aa6b64278ca-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1717-1-1aa6b64278ca-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1717-1-bff9a4558787-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1717-1-bff9a4558787-v4.jpg"
         }
       ],
       "video_url": null,
@@ -89,8 +111,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1716-1-a4204f6cd882-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1716-1-a4204f6cd882-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1716-1-876c49a27d90-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1716-1-876c49a27d90-v4.jpg"
         }
       ],
       "video_url": null,
@@ -107,44 +129,44 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-1-a80f0be24f79-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1706-1-a80f0be24f79-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-1-9c4598f101a7-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1706-1-9c4598f101a7-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-2-0539d02d6a51-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1706-2-0539d02d6a51-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-2-0beedd954837-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1706-2-0beedd954837-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-3-8d6eb28aad38-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1706-3-8d6eb28aad38-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-3-8567c77d81dd-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1706-3-8567c77d81dd-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-4-698da4d9e19c-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1706-4-698da4d9e19c-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-4-24988964e9c5-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1706-4-24988964e9c5-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-5-a27552fd135a-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1706-5-a27552fd135a-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-5-06248788e5ea-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1706-5-06248788e5ea-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-6-1bb00d9ff836-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1706-6-1bb00d9ff836-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-6-accd4750f949-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1706-6-accd4750f949-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-7-81027cf97774-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1706-7-81027cf97774-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-7-9e88e0d4063c-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1706-7-9e88e0d4063c-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-8-9edb81172d75-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1706-8-9edb81172d75-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-8-634da249277d-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1706-8-634da249277d-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-9-406814772426-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1706-9-406814772426-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-9-520643c8bb39-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1706-9-520643c8bb39-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-10-0345af6001e4-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1706-10-0345af6001e4-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-10-8bdd0fc2d620-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1706-10-8bdd0fc2d620-v4.jpg"
         }
       ],
       "video_url": null,
@@ -166,8 +188,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1705-1-e6c16b434b35-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1705-1-e6c16b434b35-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1705-1-395bd03dea39-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1705-1-395bd03dea39-v4.jpg"
         }
       ],
       "video_url": null,
@@ -184,8 +206,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1704-1-05d9c32b6395-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1704-1-05d9c32b6395-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1704-1-7464fc049b50-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1704-1-7464fc049b50-v4.jpg"
         }
       ],
       "video_url": null,
@@ -202,12 +224,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1702-1-f96cd82c02d1-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1702-1-f96cd82c02d1-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1702-1-2cb77beda37e-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1702-1-2cb77beda37e-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1702-2-4e4ebbf7126f-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1702-2-4e4ebbf7126f-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1702-2-3e989e519653-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1702-2-3e989e519653-v4.jpg"
         }
       ],
       "video_url": null,
@@ -224,8 +246,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1701-1-b75450514763-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1701-1-b75450514763-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1701-1-aaa882d34d3e-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1701-1-aaa882d34d3e-v4.jpg"
         }
       ],
       "video_url": null,
@@ -237,13 +259,13 @@
       "date": "2026-01-29T13:02:45+00:00",
       "text": "🏢 Еженедельная подборка обзоров от практик «Пепеляев Групп»\n\nВ одном месте – изменения в налоговом праве и в мире банкротства, актуальные новости для инвесторов в Сибири и на Дальнем Востоке, а также обзор законодательства и практики в сфере антикризисного регулирования.\n\n▫️ Банкротство: MustRead за 22–28 января 2026 г. Выпуск № 305\n\n▫️ Ограничения и меры поддержки для бизнеса: дайджест за 12–25 января 2026 г.\n\n▫️ СпецИнвестРежимы в Сибири и на Дальнем Востоке. Дайджест 19–25 января 2026 г.\n\n▫️ Налоговые новости. Дайджест за 19–25 января 2026 г.\n\nЧитайте о нововведениях в законодательстве:\n\n🔘 Новые правила доступа инвесторов к цифровым финансовым активам\n\n🔘 С 1 февраля 2026 г. вносятся изменения в Закон о защите прав потребителей\n\n#pg_обзоры_недели",
       "text_html": "🏢 Еженедельная подборка обзоров от практик «Пепеляев Групп»<br><br>В одном месте – изменения в налоговом праве и в мире банкротства, актуальные новости для инвесторов в Сибири и на Дальнем Востоке, а также обзор законодательства и практики в сфере антикризисного регулирования.<br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/bankruptcy-must-read/bankruptcy-must-read-28-01-26/\" target=\"_blank\" rel=\"noopener noreferrer\">Банкротство: MustRead за 22–28 января 2026 г. Выпуск № 305</a><br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/sanctions-support-digest/support-digest-26-01-26/\" target=\"_blank\" rel=\"noopener noreferrer\">Ограничения и меры поддержки для бизнеса: дайджест за 12–25 января 2026 г.</a><br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/spec-invest-obzor/invest-news-digest-26-01-26/\" target=\"_blank\" rel=\"noopener noreferrer\">СпецИнвестРежимы в Сибири и на Дальнем Востоке. Дайджест 19–25 января 2026 г.</a><br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/tax-reviews/tax-news-digest-26-01-26/\" target=\"_blank\" rel=\"noopener noreferrer\">Налоговые новости. Дайджест за 19–25 января 2026 г.</a><br><br>Читайте о нововведениях в законодательстве:<br><br>🔘 <a href=\"https://www.pgplaw.ru/analytics-and-brochures/alerts/novye-pravila-dostupa-investorov-k-tsifrovym-finansovym-aktivam/\" target=\"_blank\" rel=\"noopener noreferrer\">Новые правила доступа инвесторов к цифровым финансовым активам</a><br><br>🔘 <a href=\"https://www.pgplaw.ru/analytics-and-brochures/alerts/izmeneniya-v-zakon-o-zashchite-prav-potrebiteley/\" target=\"_blank\" rel=\"noopener noreferrer\">С 1 февраля 2026 г. вносятся изменения в Закон о защите прав потребителей</a><br><br>#pg_обзоры_недели",
-      "views": 1240,
+      "views": 1250,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1700-1-1d87a1d2af0a-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1700-1-1d87a1d2af0a-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1700-1-2159742419c1-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1700-1-2159742419c1-v4.jpg"
         }
       ],
       "video_url": null,
@@ -260,8 +282,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1699-1-7904809c3f24-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1699-1-7904809c3f24-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1699-1-57183000fea4-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1699-1-57183000fea4-v4.jpg"
         }
       ],
       "video_url": null,
@@ -278,8 +300,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1697-1-eb45490e37f4-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1697-1-eb45490e37f4-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1697-1-9dd0ee32abde-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1697-1-9dd0ee32abde-v4.jpg"
         }
       ],
       "video_url": null,
@@ -296,8 +318,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1696-1-99c65445f7e4-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1696-1-99c65445f7e4-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1696-1-0cb235bf386d-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1696-1-0cb235bf386d-v4.jpg"
         }
       ],
       "video_url": null,
@@ -319,30 +341,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1695-1-d042c1637eff-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1695-1-d042c1637eff-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1695-1-145a4514d346-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1695-1-145a4514d346-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/pgp_official/1695",
-      "forwarded_from": null
-    },
-    {
-      "id": 1694,
-      "date": "2026-01-26T09:59:58+00:00",
-      "text": "💰  Конституционный Суд признал стейблкоины, такие как USDT, объектом гражданских прав\n\nКонституционный Суд РФ вынес знаковое постановление по делу о проверке конституционности положений закона «О цифровых финансовых активах». \n\n🔑 По мнению Лидии Горшковой, партнера, руководителя банковской и финансовой практики «Пепеляев Групп», основная задача законодательной инициативы заключается в устранении выявленных КС РФ нарушений при применении судами положений ч. 6 ст. 14 Закона о цифровых финансовых активах, которые приводили к формальному отказу в судебной защите по требованиям, связанным с цифровой валютой, если лицом не осуществлялось информирование о факте обладания и совершения гражданско-правовых сделок с цифровой валютой в порядке, установленном налоговым законодательством. \n\n☝️Лидия полагает, что потенциальная законодательная инициатива может заключаться в установлении обязанности и порядка информирования о фактах владения и сделках с цифровыми валютами (и возможно, иными цифровыми ценностями, статус которых до настоящего времени до конца не определен). В этом случае ситуация вернется к прежнему состоянию, когда лица, не исполнившие такую обязанность, не смогут в судебном порядке защищать свои права, возникающие из правоотношений по поводу цифровых валют, пояснила она.\n\n💬 «Квалификация стейблкоинов, согласно позиции КС РФ, должна осуществляться на основании закона и с учетом их конкретных характеристик, а не исходя из используемой сторонами в договоре терминологии. Полагаем, что данное высказывание Конституционного Суда продиктовано дискуссией о правовой природе стейблкоинов вообще и USDT – в частности. Таким образом, определение затрагивает исключительно цифровую валюту и не решает вопрос о правовом режиме стейблкоинов. До внесения соответствующих изменений в законодательство правовая неопределенность будет сохраняться, а судам предстоит самостоятельно разграничивать цифровую валюту и иные цифровые активы при рассмотрении конкретных споров. В любом случае, постановление будет способствовать предсказуемости и стабильности гражданского оборота цифровых инструментов, а также судебной защите прав лиц, осуществляющих сделки с ними».\n\n👉 Читать полную версию комментария по ссылке.",
-      "text_html": "💰  Конституционный Суд признал стейблкоины, такие как USDT, объектом гражданских прав<br><br>Конституционный Суд РФ вынес знаковое <a href=\"https://www.ksrf.ru/doc/KSRFDecision882237.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">постановление</a> по делу о проверке конституционности положений закона «О цифровых финансовых активах». <br><br>🔑 По мнению <a href=\"https://www.pgplaw.ru/to-get-the-team/lidiya-gorshkova/\" target=\"_blank\" rel=\"noopener noreferrer\">Лидии Горшковой</a>, партнера, руководителя банковской и финансовой практики «Пепеляев Групп», основная задача законодательной инициативы заключается в устранении выявленных КС РФ нарушений при применении судами положений ч. 6 ст. 14 Закона о цифровых финансовых активах, которые приводили к формальному отказу в судебной защите по требованиям, связанным с цифровой валютой, если лицом не осуществлялось информирование о факте обладания и совершения гражданско-правовых сделок с цифровой валютой в порядке, установленном налоговым законодательством. <br><br>☝️Лидия полагает, что потенциальная законодательная инициатива может заключаться в установлении обязанности и порядка информирования о фактах владения и сделках с цифровыми валютами (и возможно, иными цифровыми ценностями, статус которых до настоящего времени до конца не определен). В этом случае ситуация вернется к прежнему состоянию, когда лица, не исполнившие такую обязанность, не смогут в судебном порядке защищать свои права, возникающие из правоотношений по поводу цифровых валют, пояснила она.<br><br>💬 «Квалификация стейблкоинов, согласно позиции КС РФ, должна осуществляться на основании закона и с учетом их конкретных характеристик, а не исходя из используемой сторонами в договоре терминологии. Полагаем, что данное высказывание Конституционного Суда продиктовано дискуссией о правовой природе стейблкоинов вообще и USDT – в частности. Таким образом, определение затрагивает исключительно цифровую валюту и не решает вопрос о правовом режиме стейблкоинов. До внесения соответствующих изменений в законодательство правовая неопределенность будет сохраняться, а судам предстоит самостоятельно разграничивать цифровую валюту и иные цифровые активы при рассмотрении конкретных споров. В любом случае, постановление будет способствовать предсказуемости и стабильности гражданского оборота цифровых инструментов, а также судебной защите прав лиц, осуществляющих сделки с ними».<br><br>👉 Читать полную версию комментария <a href=\"https://www.pgplaw.ru/analytics-and-brochures/articles-comments-interviews/konstitutsionnyy-sud-priznal-steyblkoiny-obektom-grazhdanskikh-prav/\" target=\"_blank\" rel=\"noopener noreferrer\">по ссылке</a>.",
-      "views": 1270,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1694-1-115bf88eb73a-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1694-1-115bf88eb73a-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/pgp_official/1694",
       "forwarded_from": null
     }
   ]
