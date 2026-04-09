@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-04-08T19:16:02.435206+00:00",
+  "generated_at": "2026-04-09T08:00:50.536771+00:00",
   "pagination": {
     "page": 9,
     "page_size": 16,
-    "total_posts": 177,
+    "total_posts": 178,
     "total_pages": 12
   },
   "posts": [
+    {
+      "id": 2438,
+      "date": "2026-02-03T14:00:04+00:00",
+      "text": null,
+      "text_html": null,
+      "views": 1540,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2438-1-629c8720f7fb-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2438-1-629c8720f7fb-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/PG_Tax/2438",
+      "forwarded_from": null
+    },
     {
       "id": 2437,
       "date": "2026-02-03T10:00:01+00:00",
@@ -260,24 +278,6 @@
       ],
       "video_url": null,
       "tg_url": "https://t.me/PG_Tax/2423",
-      "forwarded_from": null
-    },
-    {
-      "id": 2421,
-      "date": "2026-01-27T14:02:46+00:00",
-      "text": "⛳️ 12 февраля приглашаем на ежегодную налоговую конференцию, где налоги предстанут как особая форма искусства — сложная и многослойная.\n\n🧩 Вместе с экспертами «Пепеляев Групп» мы посмотрим на ключевые налоговые сюжеты сквозь призму искусства и увидим, как из отдельных штрихов складывается цельный образ налоговой реальности.\n\n👉 Подробнее о гранях налогового искусства и регистрация по ссылке.\n\n#мероприятия",
-      "text_html": "⛳️ 12 февраля приглашаем на ежегодную налоговую конференцию, где налоги предстанут как особая форма искусства — сложная и многослойная.<br><br>🧩 Вместе с экспертами «Пепеляев Групп» мы посмотрим на ключевые налоговые сюжеты сквозь призму искусства и увидим, как из отдельных штрихов складывается цельный образ налоговой реальности.<br><br>👉 Подробнее о гранях налогового искусства и регистрация по <a href=\"https://www.pgplaw.ru/events/upcoming-events/nalogi-kak-iskusstvo/\" target=\"_blank\" rel=\"noopener noreferrer\">ссылке</a>.<br><br>#мероприятия",
-      "views": 1690,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2421-1-b162dee8dfa0-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2421-1-b162dee8dfa0-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2421",
       "forwarded_from": null
     }
   ]
