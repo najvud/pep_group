@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-04-13T10:12:42.183169+00:00",
+  "generated_at": "2026-04-13T11:44:14.540042+00:00",
   "pagination": {
     "page": 10,
     "page_size": 16,
-    "total_posts": 181,
+    "total_posts": 180,
     "total_pages": 12
   },
   "posts": [
+    {
+      "id": 2429,
+      "date": "2026-01-30T11:00:12+00:00",
+      "text": null,
+      "text_html": null,
+      "views": 1560,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2429-1-17a5a41b8489-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2429-1-17a5a41b8489-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/PG_Tax/2429",
+      "forwarded_from": null
+    },
     {
       "id": 2428,
       "date": "2026-01-30T07:22:58+00:00",
@@ -17,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2428-1-bf3a0ff9c1eb-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2428-1-bf3a0ff9c1eb-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2428-1-5892dcbc6eca-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2428-1-5892dcbc6eca-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +53,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2427-1-ffaac180a0ce-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2427-1-ffaac180a0ce-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2427-1-372e19e77028-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2427-1-372e19e77028-v4.jpg"
         }
       ],
       "video_url": null,
@@ -53,8 +71,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2426-1-5b90df715c04-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2426-1-5b90df715c04-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2426-1-bf439f8e7ea7-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2426-1-bf439f8e7ea7-v4.jpg"
         }
       ],
       "video_url": null,
@@ -71,8 +89,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2425-1-ade2c9aee6d0-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2425-1-ade2c9aee6d0-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2425-1-4a87a556dcee-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2425-1-4a87a556dcee-v4.jpg"
         }
       ],
       "video_url": null,
@@ -89,8 +107,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2424-1-18c9b85c99eb-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2424-1-18c9b85c99eb-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2424-1-f1c18324dab4-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2424-1-f1c18324dab4-v4.jpg"
         }
       ],
       "video_url": null,
@@ -107,8 +125,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2423-1-d274ce44e809-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2423-1-d274ce44e809-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2423-1-9a63ec01ddaa-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2423-1-9a63ec01ddaa-v4.jpg"
         }
       ],
       "video_url": null,
@@ -125,8 +143,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2421-1-2c1f5c37341e-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2421-1-2c1f5c37341e-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2421-1-c45ac3dc78d6-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2421-1-c45ac3dc78d6-v4.jpg"
         }
       ],
       "video_url": null,
@@ -156,8 +174,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2419-1-7c24e8d14413-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2419-1-7c24e8d14413-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2419-1-6ceb41139f2d-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2419-1-6ceb41139f2d-v4.jpg"
         }
       ],
       "video_url": null,
@@ -174,8 +192,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2418-1-861511f371a1-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2418-1-861511f371a1-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2418-1-e8c5ce400a9b-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2418-1-e8c5ce400a9b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -192,8 +210,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2417-1-b0776616155f-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2417-1-b0776616155f-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2417-1-2c07f7330d78-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2417-1-2c07f7330d78-v4.jpg"
         }
       ],
       "video_url": null,
@@ -210,8 +228,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2416-1-7df3d08cd737-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2416-1-7df3d08cd737-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2416-1-aba5fd732b43-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2416-1-aba5fd732b43-v4.jpg"
         }
       ],
       "video_url": null,
@@ -228,8 +246,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2415-1-88652335ad95-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2415-1-88652335ad95-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2415-1-621c67ace8f3-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2415-1-621c67ace8f3-v4.jpg"
         }
       ],
       "video_url": null,
@@ -251,8 +269,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2414-1-ac79a4f07e15-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2414-1-ac79a4f07e15-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2414-1-6ae6487e6b67-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2414-1-6ae6487e6b67-v4.jpg"
         }
       ],
       "video_url": null,
@@ -269,30 +287,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2413-1-da31eaaa7b10-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2413-1-da31eaaa7b10-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2413-1-d2d537a84ad8-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2413-1-d2d537a84ad8-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/PG_Tax/2413",
-      "forwarded_from": null
-    },
-    {
-      "id": 2412,
-      "date": "2026-01-22T11:03:19+00:00",
-      "text": "Начинаем серию постов Сергея Савсериса «Рейтинг налоговых правовых позиций Конституционного суда РФ».\n\n📈 Место № 10 \n\nОпределение Конституционного Суда РФ от 16 октября 2003 г. № 329-О по ООО «Экспорт-Сервис»\n\n💬 Цитируемость\n\n6 479 упоминаний в судебных решениях за весь период (2-е место);\n69 упоминаний за последние 4 года (40-е место).\nПо совокупности этих показателей Определение № 329-О заняло 10-е место в итоговом рейтинге.\n\n🔍 О чём было дело\n\nОпределение касается спора о возмещении НДС при экспорте и попытки налогового органа (и судов) «переложить» на экспортёра риск неуплаты НДС его поставщиками через категорию «недобросовестный налогоплательщик».\n\n⚖️ Ключевая правовая позиция\n\nКонституционный Суд указал, что:\n     🔴налогоплательщик не несёт ответственности за действия всех организаций, участвующих в многостадийном процессе уплаты и перечисления НДС;\n     🔴правоприменительные органы не вправе расширять обязанности налогоплательщика сверх прямо установленных законом.\n\n🛑 Эта позиция основана на презумпции добросовестности налогоплательщика, вытекающей из ст. 57 Конституции РФ и закреплённой в Налоговом кодексе.\n\n🎓 Как это применялось в практике\n\nБлагодаря этой позиции КС:\n     ✔️налогоплательщики получали защиту, если подтверждали реальность хозяйственных операций и свою добросовестность;\n     ✔️бремя доказывания недобросовестности возлагалось на налоговый орган, а не на плательщика.\n\nЭта позиция была особенно значима в спорах, где:\n     🔴инспекция ссылалась на «цепочки контрагентов» или формальные нарушения у поставщиков;\n     🔴при этом у налогоплательщика имелся полный комплект документов и операции были реально исполнены.\n\n🛑 Данная позиция никогда не освобождала налогоплательщика от обязанности проявлять должную осмотрительность — доказанная осведомлённость о недобросовестности контрагента лишала такой защиты.\n\n❓ Низкая позиция в рейтинге последних 4 лет\n\nНизкая позиция в рейтинге последних 4 лет связана с эволюцией судебной практики по НДС.\n\nОпределение № 329-О формировалось в период, когда налоговые органы массово отказывали в вычетах НДС исключительно из-за формальных нарушений контрагентов, не доказывая вину самого налогоплательщика.\n\nСегодня подход принципиально иной:\n     ✔️споры сосредоточены на доказывании отсутствия реального исполнения со стороны контрагента; \n     ✔️налоговые органы, как правило, устанавливают контроль цепочки, взаимозависимость и отсутствие деловой цели;\n     ✔️суды применяют иные правовые конструкции, при которых ссылка на «неответственность за третьих лиц» перестала быть ключевым аргументом.\n\nВ результате позиция Определения № 329-О в значительной степени утратила прикладное значение для современных споров по НДС — не потому, что она опровергнута, а потому, что практика ушла от ситуаций, для которых она формировалась.\n\n☝️ Вывод\n\nОпределение № 329-О — фундаментальная правовая позиция о пределах ответственности налогоплательщика за действия контрагентов.\n\nСегодня её значение скорее доктринальное, чем практическое, но именно с неё начиналось формирование современной модели защиты добросовестных налогоплательщиков в спорах по НДС.\n\n#рейтинг_позиций_КС\n\n📧 Если налоговые органы предъявляют претензии по НДС в связи с действиями контрагентов, напишите Сергею Савсерису: s.savseris@pgplaw.ru",
-      "text_html": "Начинаем серию постов <a href=\"https://www.pgplaw.ru/to-get-the-team/sergey-savseris/\" target=\"_blank\" rel=\"noopener noreferrer\">Сергея Савсериса</a> «Рейтинг налоговых правовых позиций Конституционного суда РФ».<br><br>📈 Место № 10 <br><br>Определение Конституционного Суда РФ от 16 октября 2003 г. № 329-О по ООО «Экспорт-Сервис»<br><br>💬 Цитируемость<br><br>6 479 упоминаний в судебных решениях за весь период (2-е место);<br>69 упоминаний за последние 4 года (40-е место).<br>По совокупности этих показателей Определение № 329-О заняло 10-е место в итоговом рейтинге.<br><br>🔍 О чём было дело<br><br>Определение касается спора о возмещении НДС при экспорте и попытки налогового органа (и судов) «переложить» на экспортёра риск неуплаты НДС его поставщиками через категорию «недобросовестный налогоплательщик».<br><br>⚖️ Ключевая правовая позиция<br><br>Конституционный Суд указал, что:<br>     🔴налогоплательщик не несёт ответственности за действия всех организаций, участвующих в многостадийном процессе уплаты и перечисления НДС;<br>     🔴правоприменительные органы не вправе расширять обязанности налогоплательщика сверх прямо установленных законом.<br><br>🛑 Эта позиция основана на презумпции добросовестности налогоплательщика, вытекающей из ст. 57 Конституции РФ и закреплённой в Налоговом кодексе.<br><br>🎓 Как это применялось в практике<br><br>Благодаря этой позиции КС:<br>     ✔️налогоплательщики получали защиту, если подтверждали реальность хозяйственных операций и свою добросовестность;<br>     ✔️бремя доказывания недобросовестности возлагалось на налоговый орган, а не на плательщика.<br><br>Эта позиция была особенно значима в спорах, где:<br>     🔴инспекция ссылалась на «цепочки контрагентов» или формальные нарушения у поставщиков;<br>     🔴при этом у налогоплательщика имелся полный комплект документов и операции были реально исполнены.<br><br>🛑 Данная позиция никогда не освобождала налогоплательщика от обязанности проявлять должную осмотрительность — доказанная осведомлённость о недобросовестности контрагента лишала такой защиты.<br><br>❓ Низкая позиция в рейтинге последних 4 лет<br><br>Низкая позиция в рейтинге последних 4 лет связана с эволюцией судебной практики по НДС.<br><br>Определение № 329-О формировалось в период, когда налоговые органы массово отказывали в вычетах НДС исключительно из-за формальных нарушений контрагентов, не доказывая вину самого налогоплательщика.<br><br>Сегодня подход принципиально иной:<br>     ✔️споры сосредоточены на доказывании отсутствия реального исполнения со стороны контрагента; <br>     ✔️налоговые органы, как правило, устанавливают контроль цепочки, взаимозависимость и отсутствие деловой цели;<br>     ✔️суды применяют иные правовые конструкции, при которых ссылка на «неответственность за третьих лиц» перестала быть ключевым аргументом.<br><br>В результате позиция Определения № 329-О в значительной степени утратила прикладное значение для современных споров по НДС — не потому, что она опровергнута, а потому, что практика ушла от ситуаций, для которых она формировалась.<br><br>☝️ Вывод<br><br>Определение № 329-О — фундаментальная правовая позиция о пределах ответственности налогоплательщика за действия контрагентов.<br><br>Сегодня её значение скорее доктринальное, чем практическое, но именно с неё начиналось формирование современной модели защиты добросовестных налогоплательщиков в спорах по НДС.<br><br>#рейтинг_позиций_КС<br><br>📧 Если налоговые органы предъявляют претензии по НДС в связи с действиями контрагентов, напишите Сергею Савсерису: s.savseris@pgplaw.ru",
-      "views": 1510,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2412-1-ce9f007f8785-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2412-1-ce9f007f8785-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2412",
       "forwarded_from": null
     }
   ]
