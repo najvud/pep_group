@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-13T06:03:17.130489+00:00",
+  "generated_at": "2026-04-13T08:22:39.198836+00:00",
   "pagination": {
     "page": 6,
     "page_size": 16,
@@ -7,6 +7,29 @@
     "total_pages": 12
   },
   "posts": [
+    {
+      "id": 2496,
+      "date": "2026-02-27T15:10:25+00:00",
+      "text": "🏆 Управляющий партнер «Пепеляев Групп» Сергей Пепеляев награжден медалью Федеральной палаты адвокатов РФ «За профессионализм».\n\nНаграда присуждается за особые, выдающиеся результаты и достижения в профессиональной деятельности и безупречную деловую репутацию.\n\n🔘Сергей Пепеляев более 35 лет углубленно занимается вопросами налогообложения компаний и граждан, а также проблемами инвестиционной деятельности, судопроизводства.\n\nКак практик он защищал права и интересы компаний в самых масштабных и значимых судебных спорах в Конституционном Суде РФ, Верховном Суде РФ, арбитражных судах о законности доначислений налогов и платежей, отмене не соответствующих законам актов Правительства РФ, министерств и ведомств, неконституционных положений законов, консультировал по вопросам налогообложения инвестиционной и текущей деятельности и др.\n\n👉Читать новость на сайте.",
+      "text_html": "🏆 Управляющий партнер «Пепеляев Групп» Сергей Пепеляев награжден медалью Федеральной палаты адвокатов РФ «За профессионализм».<br><br>Награда присуждается за особые, выдающиеся результаты и достижения в профессиональной деятельности и безупречную деловую репутацию.<br><br>🔘Сергей Пепеляев более 35 лет углубленно занимается вопросами налогообложения компаний и граждан, а также проблемами инвестиционной деятельности, судопроизводства.<br><br>Как практик он защищал права и интересы компаний в самых масштабных и значимых судебных спорах в Конституционном Суде РФ, Верховном Суде РФ, арбитражных судах о законности доначислений налогов и платежей, отмене не соответствующих законам актов Правительства РФ, министерств и ведомств, неконституционных положений законов, консультировал по вопросам налогообложения инвестиционной и текущей деятельности и др.<br><br>👉Читать новость <a href=\"https://www.pgplaw.ru/news/press-releases/sergey-pepelyaev-nagrazhden-medalyu-federalnoy-palaty-advokatov-rossiyskoy-federatsii-za-professiona/\" target=\"_blank\" rel=\"noopener noreferrer\">на сайте.</a>",
+      "views": 1310,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2496-1-09f9dd37f9d6-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2496-1-09f9dd37f9d6-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/PG_Tax/2496",
+      "forwarded_from": {
+        "source_url": "https://t.me/pgp_official/1741",
+        "channel_url": "https://t.me/s/pgp_official",
+        "channel_username": "pgp_official",
+        "channel_title": "Pepeliaev Group | Пепеляев Групп"
+      }
+    },
     {
       "id": 2495,
       "date": "2026-02-27T10:45:38+00:00",
@@ -30,8 +53,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2494-1-b1b58624ed62-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2494-1-b1b58624ed62-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2494-1-a286ac01f1e7-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2494-1-a286ac01f1e7-v4.jpg"
         }
       ],
       "video_url": null,
@@ -48,16 +71,16 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2491-1-74fb7e258798-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2491-1-74fb7e258798-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2491-1-7b88a2276563-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2491-1-7b88a2276563-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2491-2-2aef60e0b386-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2491-2-2aef60e0b386-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2491-2-301c2c691670-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2491-2-301c2c691670-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2491-3-592ff4bd630d-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2491-3-592ff4bd630d-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2491-3-e01b9cb9d254-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2491-3-e01b9cb9d254-v4.jpg"
         }
       ],
       "video_url": null,
@@ -74,8 +97,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2489-1-4b161174d637-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2489-1-4b161174d637-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2489-1-aea44ce361ec-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2489-1-aea44ce361ec-v4.jpg"
         }
       ],
       "video_url": null,
@@ -92,8 +115,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2488-1-19e7063bf206-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2488-1-19e7063bf206-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2488-1-20fe9c2d0f52-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2488-1-20fe9c2d0f52-v4.jpg"
         }
       ],
       "video_url": null,
@@ -110,8 +133,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2487-1-24c62a45c576-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2487-1-24c62a45c576-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2487-1-7565e463b03c-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2487-1-7565e463b03c-v4.jpg"
         }
       ],
       "video_url": null,
@@ -128,8 +151,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2486-1-e9f76cad94a5-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2486-1-e9f76cad94a5-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2486-1-3b4ff84a1c7b-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2486-1-3b4ff84a1c7b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -146,8 +169,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2485-1-f515f337c726-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2485-1-f515f337c726-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2485-1-f3c2ca2f6a3d-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2485-1-f3c2ca2f6a3d-v4.jpg"
         }
       ],
       "video_url": null,
@@ -164,8 +187,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2484-1-844fddd515e7-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2484-1-844fddd515e7-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2484-1-a5d11ad9caf4-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2484-1-a5d11ad9caf4-v4.jpg"
         }
       ],
       "video_url": null,
@@ -182,8 +205,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2483-1-51bbe460b49e-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2483-1-51bbe460b49e-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2483-1-db3e8c45548e-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2483-1-db3e8c45548e-v4.jpg"
         }
       ],
       "video_url": null,
@@ -200,8 +223,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2482-1-6ce618f461aa-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2482-1-6ce618f461aa-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2482-1-bd478bf4826e-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2482-1-bd478bf4826e-v4.jpg"
         }
       ],
       "video_url": null,
@@ -218,8 +241,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2481-1-69ed78af6d8e-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2481-1-69ed78af6d8e-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2481-1-c35376ce70f9-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2481-1-c35376ce70f9-v4.jpg"
         }
       ],
       "video_url": null,
@@ -236,8 +259,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2480-1-601c42f943f7-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2480-1-601c42f943f7-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2480-1-26e15b4ff6f0-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2480-1-26e15b4ff6f0-v4.jpg"
         }
       ],
       "video_url": null,
@@ -254,8 +277,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2479-1-53a8de48dd20-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2479-1-53a8de48dd20-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2479-1-1c43a448fa6e-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2479-1-1c43a448fa6e-v4.jpg"
         }
       ],
       "video_url": null,
@@ -279,24 +302,6 @@
         "channel_username": "InvestmentLaw",
         "channel_title": "СпецИнвестРежимы"
       }
-    },
-    {
-      "id": 2476,
-      "date": "2026-02-19T10:02:14+00:00",
-      "text": "🔥 Налоговый форум РСПП - в фокусе внимания бизнеса и власти\n\n17 февраля в Москве состоялся Налоговый форум РСПП с участием бизнеса и представителей ФНС России. \n\nВ фокусе внимания участников:\n\n     📎 массовые выездные налоговые проверки участников налогового мониторинга\n\n     📎 пилотный проект ФНС о распространении налогового мониторинга на ТЦО\n\n     📎 экстерриториальность налоговых проверок на практике\n \n     📎 проблема применения льготного коэффициента к расходам на НИОКР\n\nПодробнее об этих и других ключевых событиях форума читайте на сайте \"Налоговеда\" 👉\n\n#налоговые_новости",
-      "text_html": "🔥 Налоговый форум РСПП - в фокусе внимания бизнеса и власти<br><br>17 февраля в Москве состоялся Налоговый форум РСПП с участием бизнеса и представителей ФНС России. <br><br>В фокусе внимания участников:<br><br>     📎 <a href=\"https://nalogoved.ru/news/16307.html\" target=\"_blank\" rel=\"noopener noreferrer\">массовые выездные налоговые проверки участников налогового мониторинга</a><br><br>     📎 <a href=\"https://nalogoved.ru/news/16310.html\" target=\"_blank\" rel=\"noopener noreferrer\">пилотный проект ФНС о распространении налогового мониторинга на ТЦО</a><br><br>     📎 <a href=\"https://nalogoved.ru/news/16308.html\" target=\"_blank\" rel=\"noopener noreferrer\">экстерриториальность налоговых проверок на практике</a><br> <br>     📎 <a href=\"https://nalogoved.ru/news/16312.html\" target=\"_blank\" rel=\"noopener noreferrer\">проблема применения льготного коэффициента к расходам на НИОКР</a><br><br>Подробнее об этих и других ключевых событиях форума читайте <a href=\"https://nalogoved.ru/news/\" target=\"_blank\" rel=\"noopener noreferrer\">на сайте</a> \"Налоговеда\" 👉<br><br>#налоговые_новости",
-      "views": 1250,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2476-1-149c2c54bd8c-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2476-1-149c2c54bd8c-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2476",
-      "forwarded_from": null
     }
   ]
 }
