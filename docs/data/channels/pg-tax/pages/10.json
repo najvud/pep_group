@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-04-14T08:53:19.320369+00:00",
+  "generated_at": "2026-04-14T10:05:22.935326+00:00",
   "pagination": {
     "page": 10,
     "page_size": 16,
-    "total_posts": 180,
+    "total_posts": 181,
     "total_pages": 12
   },
   "posts": [
+    {
+      "id": 2431,
+      "date": "2026-01-30T11:00:44+00:00",
+      "text": "⚡️ 12 февраля, в 13 часов, приглашаем вас к нам в офис на конференцию «Налоги как искусство»\n\nБолее 10 экспертов «Пепеляев Групп» обо всех главных налоговых и околоналоговых сюжетах года - за несколько часов через призму искусства.\n\nПодробности от спикеров - всю следующую неделю в канале 📢\n\nРегистрация на конференцию уже открыта по ссылке 👉\n\n#Сергей_Пепеляев_ON_AIR",
+      "text_html": "⚡️ 12 февраля, в 13 часов, приглашаем вас к нам в офис на конференцию «Налоги как искусство»<br><br>Более 10 экспертов «Пепеляев Групп» обо всех главных налоговых и околоналоговых сюжетах года - за несколько часов через призму искусства.<br><br>Подробности от спикеров - всю следующую неделю в канале 📢<br><br>Регистрация на конференцию уже открыта по <a href=\"https://www.pgplaw.ru/events/upcoming-events/nalogi-kak-iskusstvo/\" target=\"_blank\" rel=\"noopener noreferrer\">ссылке</a> 👉<br><br>#Сергей_Пепеляев_ON_AIR",
+      "views": 1600,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [],
+      "video_url": null,
+      "tg_url": "https://t.me/PG_Tax/2431",
+      "forwarded_from": null
+    },
     {
       "id": 2430,
       "date": "2026-01-30T11:00:39+00:00",
@@ -16,7 +29,7 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/dcb807eb9d.mp4?token=Z4PN4vvBPnDbQplqL42CApSk_xZYMiVR5XZAr7cne-zBDFtwBdM70s-ovkqON3qJP5ZreeEHxySnkmcDrM9Qa_GW0K8Nk7-Dqi0fT0KcAR5ScLk1GiHZmtHGbXWRFxlEBpA1aie0zjcoANJmNZ1s05YtZLiRBYAxLAShFXVxJMwoo-OyGESAmQJDl96vlU4VVqFW4aYN4hWsdJ88t5FKpnhmlUamUMtPx51YnmlDW3tnyRAeXwsuVhg-OdgTy2i6d0H_CNOfCz1Dj4xlZRb4YUyJHwygzfQKcWKMgjbDhuQJ7wXYRwhbZxGu0UPscCUplZrL-rA2Xbm6-vTMCIpz5g",
+      "video_url": "https://cdn4.telesco.pe/file/dcb807eb9d.mp4?token=mv6agQVykqHoUH7q1jEjXueWQ-3aTsMGp-D4EZ-6P8cAz8fHXhk7IqD_3Pz6IG32RtChRBdxecJz4VcpbY0FOrrC_v1upAWPUNquymeMMRjsRGxp7A8PISc2lJFqWRTvwzMHmRRzWJQv4KCjpIpiR1J6rkOngUVPwREofOWkHk3irpjyOvFSXyF6pZZ2FdRoFA4Fs_HZhxy3IE_Q70L5Epc4W64qbw5w-du5HN_PeqvC49lG3BL3CSbYYnyWlNGG5hRrEeHWy0kBFmq36Maw-aThqxtK5fQGqHjPoMEdJQZDWtT8AzZBWSEr93QjWkegPNgXxnVCnj8ukvvK4UKrMA",
       "tg_url": "https://t.me/PG_Tax/2430",
       "forwarded_from": null
     },
@@ -30,8 +43,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2429-1-f9e46b5198a5-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2429-1-f9e46b5198a5-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2429-1-2c6c40309eb0-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2429-1-2c6c40309eb0-v4.jpg"
         }
       ],
       "video_url": null,
@@ -48,8 +61,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2428-1-773b0e6deafc-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2428-1-773b0e6deafc-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2428-1-b89327565380-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2428-1-b89327565380-v4.jpg"
         }
       ],
       "video_url": null,
@@ -66,8 +79,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2427-1-6fd848527ec8-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2427-1-6fd848527ec8-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2427-1-5649859d9103-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2427-1-5649859d9103-v4.jpg"
         }
       ],
       "video_url": null,
@@ -84,8 +97,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2426-1-37cd4cab1090-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2426-1-37cd4cab1090-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2426-1-db5b443a3fa1-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2426-1-db5b443a3fa1-v4.jpg"
         }
       ],
       "video_url": null,
@@ -102,8 +115,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2425-1-70190f502284-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2425-1-70190f502284-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2425-1-13771f0bc40f-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2425-1-13771f0bc40f-v4.jpg"
         }
       ],
       "video_url": null,
@@ -120,8 +133,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2424-1-ba173c843640-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2424-1-ba173c843640-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2424-1-e214411ce873-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2424-1-e214411ce873-v4.jpg"
         }
       ],
       "video_url": null,
@@ -138,8 +151,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2423-1-1f501b8a585b-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2423-1-1f501b8a585b-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2423-1-53653a0cd6c5-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2423-1-53653a0cd6c5-v4.jpg"
         }
       ],
       "video_url": null,
@@ -156,8 +169,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2421-1-4066b35a97cc-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2421-1-4066b35a97cc-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2421-1-b574819e4028-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2421-1-b574819e4028-v4.jpg"
         }
       ],
       "video_url": null,
@@ -187,8 +200,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2419-1-cd3c5df39b84-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2419-1-cd3c5df39b84-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2419-1-5f257578a086-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2419-1-5f257578a086-v4.jpg"
         }
       ],
       "video_url": null,
@@ -205,8 +218,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2418-1-c3befce00027-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2418-1-c3befce00027-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2418-1-1eee16895d36-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2418-1-1eee16895d36-v4.jpg"
         }
       ],
       "video_url": null,
@@ -223,8 +236,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2417-1-9fc64fda679e-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2417-1-9fc64fda679e-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2417-1-f576b4a3da37-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2417-1-f576b4a3da37-v4.jpg"
         }
       ],
       "video_url": null,
@@ -241,8 +254,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2416-1-5184a97ec369-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2416-1-5184a97ec369-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2416-1-392c01e26d37-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2416-1-392c01e26d37-v4.jpg"
         }
       ],
       "video_url": null,
@@ -259,8 +272,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2415-1-3952dbb3930d-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2415-1-3952dbb3930d-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2415-1-89583bc316b1-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2415-1-89583bc316b1-v4.jpg"
         }
       ],
       "video_url": null,
@@ -271,24 +284,6 @@
         "channel_username": "pgp_official",
         "channel_title": "Pepeliaev Group | Пепеляев Групп"
       }
-    },
-    {
-      "id": 2414,
-      "date": "2026-01-23T10:04:36+00:00",
-      "text": "📎 Новости региональных УФНС \n\nНа сайте \"Налоговеда\" опубликован обзор новостей региональных УФНС за декабрь 2025 года.\n\nВ фокусе внимания Службы:\n🔴контроль за маркетплейсами,\n🔴применение НПД и риски самозанятости,\n🔴взыскание налоговой задолженности, \n🔴медиация как новый инструмент урегулирования налоговых споров.\n\n➖➖➖\n\nПилотный проект по налоговой медиации комментирует Старший партнёр \"Пепеляев Групп\" Сергей Савсерис.\n\n💬 В конце прошлого года стали появляться сообщения о подключении регионов к пилотному проекту ФНС России по привлечению медиаторов в спорах с налогоплательщиками (сообщения УФНС по Республике Марий Эл и Пермскому краю). \n\nФактически запущен дополнительный инструмент урегулирования налоговых разногласий: вводится фигура медиатора, призванного сопровождать процесс обсуждения спорных вопросов между налоговым органом и налогоплательщиком.\n\n✔️ Потенциальные плюсы\n\nМедиатор способствует диалогу сторон, что может означать более высокий уровень профессиональной дискуссии, попытку посмотреть на ситуацию не только через призму доначислений, но и с учетом фактических обстоятельств, экономической сути операций и правил налоговой реконструкции. \n\n☝️ Для бизнеса это может стать сигналом, что налоговые органы готовы искать компромиссные решения, не доводя до стадии жесткого административного или судебного конфликта.\n\n❓ Возникающие вопросы\n\n     🔴Неясность границ применения\nМожет ли медиатор привлекаться на допроверочной стадии, например при вызове налогоплательщика на комиссию, в рамках предпроверочного анализа? \nВозможна ли медиация уже после вынесения решения либо даже на судебной стадии? \nБез четкого ответа на эти вопросы налогоплательщику трудно понять, когда и с какой целью имеет смысл инициировать такую процедуру.\n\n     🔴Рекомендательный характер протокола\nЕсли инспекция не обязана учитывать выводы медиатора, может их проигнорировать, то в чем практическая ценность процедуры для налогоплательщика? \nМедиация в отсутствие минимальных гарантий, что ее результаты будут иметь «процессуальный вес», рискует остаться лишь консультационным обсуждением, не влияющим на позицию налогового органа.\n\n     🔴Проблема независимости и статуса медиатора\n Установлено, что медиатора выбирает координатор рабочей группы, состав которой утвержден ФНС России. То есть его определяет сам налоговый орган. \nВ такой конструкции можно ли говорить о независимом посреднике в классическом понимании медиации? \nК тому же нет понятных и открытых критериев, по которым будет отбираться медиатор.\n\n     🔴Риск формализации процедуры\nПерерождение процедуры в обязательный, но малоэффективный этап перед вынесением уже сформированной позиции инспекции.\n\n☝️ Вывод\n\nПроект заслуживает внимания и может рассматриваться как попытка движения в сторону более цивилизованных и диалоговых форм налогового администрирования. \n\n📣 Но чтобы медиация действительно начала работать как механизм соблюдения баланса интересов, потребуется донастроить процедуру, прежде всего в части статуса медиатора и практической значимости достигнутых договоренностей.\n\n#обзор_новостей_УФНС\n#комментарий_эксперта",
-      "text_html": "📎 Новости региональных УФНС <br><br>На сайте \"Налоговеда\" <a href=\"https://nalogoved.ru/docs/16176.html\" target=\"_blank\" rel=\"noopener noreferrer\">опубликован</a> обзор новостей региональных УФНС за декабрь 2025 года.<br><br>В фокусе внимания Службы:<br>🔴контроль за маркетплейсами,<br>🔴применение НПД и риски самозанятости,<br>🔴взыскание налоговой задолженности, <br>🔴медиация как новый инструмент урегулирования налоговых споров.<br><br>➖➖➖<br><br>Пилотный проект по налоговой медиации комментирует Старший партнёр \"Пепеляев Групп\" <a href=\"https://www.pgplaw.ru/to-get-the-team/sergey-savseris/\" target=\"_blank\" rel=\"noopener noreferrer\">Сергей Савсерис.</a><br><br>💬 В конце прошлого года стали появляться сообщения о <a href=\"https://www.nalog.gov.ru/html/sites/www.rn63.nalog.ru/Dokum/Pamatka.pdf?ysclid=mkpifbrryy467073627\" target=\"_blank\" rel=\"noopener noreferrer\">подключении регионов к</a> пилотному проекту ФНС России по привлечению медиаторов в спорах с налогоплательщиками (сообщения УФНС по <a href=\"https://www.nalog.gov.ru/rn12/news/activities_fts/16589229/\" target=\"_blank\" rel=\"noopener noreferrer\">Республике Марий Эл</a> и <a href=\"https://www.nalog.gov.ru/rn59/news/activities_fts/16587726/\" target=\"_blank\" rel=\"noopener noreferrer\">Пермскому краю</a>). <br><br>Фактически запущен дополнительный инструмент урегулирования налоговых разногласий: вводится фигура медиатора, призванного сопровождать процесс обсуждения спорных вопросов между налоговым органом и налогоплательщиком.<br><br>✔️ Потенциальные плюсы<br><br>Медиатор способствует диалогу сторон, что может означать более высокий уровень профессиональной дискуссии, попытку посмотреть на ситуацию не только через призму доначислений, но и с учетом фактических обстоятельств, экономической сути операций и правил налоговой реконструкции. <br><br>☝️ Для бизнеса это может стать сигналом, что налоговые органы готовы искать компромиссные решения, не доводя до стадии жесткого административного или судебного конфликта.<br><br>❓ Возникающие вопросы<br><br>     🔴Неясность границ применения<br>Может ли медиатор привлекаться на допроверочной стадии, например при вызове налогоплательщика на комиссию, в рамках предпроверочного анализа? <br>Возможна ли медиация уже после вынесения решения либо даже на судебной стадии? <br>Без четкого ответа на эти вопросы налогоплательщику трудно понять, когда и с какой целью имеет смысл инициировать такую процедуру.<br><br>     🔴Рекомендательный характер протокола<br>Если инспекция не обязана учитывать выводы медиатора, может их проигнорировать, то в чем практическая ценность процедуры для налогоплательщика? <br>Медиация в отсутствие минимальных гарантий, что ее результаты будут иметь «процессуальный вес», рискует остаться лишь консультационным обсуждением, не влияющим на позицию налогового органа.<br><br>     🔴Проблема независимости и статуса медиатора<br> Установлено, что медиатора выбирает координатор рабочей группы, состав которой утвержден ФНС России. То есть его определяет сам налоговый орган. <br>В такой конструкции можно ли говорить о независимом посреднике в классическом понимании медиации? <br>К тому же нет понятных и открытых критериев, по которым будет отбираться медиатор.<br><br>     🔴Риск формализации процедуры<br>Перерождение процедуры в обязательный, но малоэффективный этап перед вынесением уже сформированной позиции инспекции.<br><br>☝️ Вывод<br><br>Проект заслуживает внимания и может рассматриваться как попытка движения в сторону более цивилизованных и диалоговых форм налогового администрирования. <br><br>📣 Но чтобы медиация действительно начала работать как механизм соблюдения баланса интересов, потребуется донастроить процедуру, прежде всего в части статуса медиатора и практической значимости достигнутых договоренностей.<br><br>#обзор_новостей_УФНС<br>#комментарий_эксперта",
-      "views": 1560,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2414-1-c543aac24dda-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2414-1-c543aac24dda-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2414",
-      "forwarded_from": null
     }
   ]
 }

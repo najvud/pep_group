@@ -1,24 +1,42 @@
 {
-  "generated_at": "2026-04-14T08:53:19.316443+00:00",
+  "generated_at": "2026-04-14T10:05:22.931539+00:00",
   "pagination": {
     "page": 8,
     "page_size": 16,
-    "total_posts": 180,
+    "total_posts": 181,
     "total_pages": 12
   },
   "posts": [
+    {
+      "id": 2463,
+      "date": "2026-02-12T11:07:55+00:00",
+      "text": "⚡️ Постановление КС РФ о судебной защите криптоактивов\n\nКонституционный суд принял Постановление от 20 января 2026 г. № 2-П, которым:\n\n     ⚖️ признал соответствующими Конституции РФ положения ч. 6 ст. 14 ФЗ «О цифровых финансовых активах, цифровой валюте и о внесении изменений в отдельные законодательные акты РФ», которыми установлена обязанность уведомления ФНС России о фактах обладания цифровой валютой как условие судебной защиты прав;\n\n     ⚖️ указал, что для цифровой валюты, полученной вне связи с майнингом, действующее правовое регулирование не может считаться препятствующим судебной защите имущественных требований, если в суд представлены сведения, подтверждающие её получение и использование на допустимых законом основаниях;\n\n     ⚖️ предписал законодателю внести необходимые изменения в правовое регулирование.\n\n🏢 Постановление КС РФ комментирует управляющий партнер «Пепеляев Групп» Сергей Пепеляев.\n\nКС РФ в Постановлении от 20 января 2026 г. № 2-П необоснованно поддержал законодателя, который ранее ограничил права владельцев криптоактивов.\n\nЗакон о цифровых финансовых активах, принятый в России в 2020 году, установил, что судебная защита предоставляется только тем лицам, совершающим операции и сделки с цифровой валютой, которые в установленном порядке проинформировали о них налоговые органы. \n\n📣 Этой нормой по сути введен налоговый ценз для возможности реализовать одно из фундаментальных гражданских прав. \n\nИ хотя КС РФ удовлетворил жалобу по другим основаниям, признав несовершенство правового регулирования виртуальных активов, перспектива дальнейшего развития идеи ограничить право на судебную защиту чрезвычайно тревожит.\n\n#изменения_законодательства\n#комментарий_эксперта",
+      "text_html": "⚡️ Постановление КС РФ о судебной защите криптоактивов<br><br>Конституционный суд принял <a href=\"https://www.ksrf.ru/doc/KSRFDecision882237.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Постановление от 20 января 2026 г. № 2-П,</a> которым:<br><br>     ⚖️ признал соответствующими Конституции РФ положения ч. 6 ст. 14 ФЗ «О цифровых финансовых активах, цифровой валюте и о внесении изменений в отдельные законодательные акты РФ», которыми установлена обязанность уведомления ФНС России о фактах обладания цифровой валютой как условие судебной защиты прав;<br><br>     ⚖️ указал, что для цифровой валюты, полученной вне связи с майнингом, действующее правовое регулирование не может считаться препятствующим судебной защите имущественных требований, если в суд представлены сведения, подтверждающие её получение и использование на допустимых законом основаниях;<br><br>     ⚖️ предписал законодателю внести необходимые изменения в правовое регулирование.<br><br>🏢 Постановление КС РФ комментирует управляющий партнер «Пепеляев Групп» <a href=\"https://www.pgplaw.ru/to-get-the-team/sergey-pepeliaev/\" target=\"_blank\" rel=\"noopener noreferrer\">Сергей Пепеляев.</a><br><br>КС РФ в Постановлении от 20 января 2026 г. № 2-П <a href=\"https://www.forbes.ru/mneniya/555157-fiskal-nyj-bar-er-kak-ks-istolkoval-pravo-sobstvennosti-na-cifrovye-aktivy\" target=\"_blank\" rel=\"noopener noreferrer\">необоснованно поддержал законодателя,</a> который ранее ограничил права владельцев криптоактивов.<br><br>Закон о цифровых финансовых активах, принятый в России в 2020 году, установил, что судебная защита предоставляется только тем лицам, совершающим операции и сделки с цифровой валютой, которые в установленном порядке проинформировали о них налоговые органы. <br><br>📣 Этой нормой по сути введен налоговый ценз для возможности реализовать одно из фундаментальных гражданских прав. <br><br>И хотя КС РФ удовлетворил жалобу по другим основаниям, признав несовершенство правового регулирования виртуальных активов, перспектива дальнейшего развития идеи ограничить право на судебную защиту чрезвычайно тревожит.<br><br>#изменения_законодательства<br>#комментарий_эксперта",
+      "views": 1520,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2463-1-28a7064694c5-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2463-1-28a7064694c5-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/PG_Tax/2463",
+      "forwarded_from": null
+    },
     {
       "id": 2462,
       "date": "2026-02-12T07:55:49+00:00",
       "text": "✍️ Нормотворчество\n \n🔘Госдума приняла в первом чтении законопроект № 1110069-8 (инициатор – Правительство РФ) о передаче нескольких налоговых полномочий от правительства РФ к министерствам:\n     🔴Минфин получит право утверждать список товаров и услуг, освобожденных от налогов, устанавливать нормы расходов на служебный транспорт, определять виды бытовых услуг с нулевой ставкой; \n     🔴Минтруд будет самостоятельно утверждать перечень социальных услуг, для которых действуют нулевые налоговые ставки;\n     🔴Минпромторг будет утверждать список товаров, работ и услуг с производственным циклом более шести месяцев (компании смогут определять налоговую базу в день отгрузки таких товаров);\n     🔴несколько полномочий получат Минспорт, Минэкономразвития (в части туризма) и Минобрнауки.\n\n🔘Госдума приняла в первом чтении законопроект № 1081963-8 (инициатор - Правительство РФ) о возобновлении доступа к закрытым сведениям в ЕГРЮЛ о юрлицах, если оснований для ограничения доступа к таким данным больше нет (риск санкций или иные причины). Доступ к чувствительной информации будет автоматически восстанавливаться ФНС России, но не ранее 3-х месяцев с момента соответствующего уведомления ФНС.\n\n🔘Госдума приняла в первом чтении законопроект № 1096244-8 (инициатор – Правительство РФ), предусматривающий резкое — в пять раз — повышение штрафов за неприменение ККТ. Также вводится повышающий коэффициент для повторных нарушений.\n \n🔘Минэкономразвития России предложило повысить размер ФИНВ с 3 до 12% с возможностью обнуления федеральной части налога на прибыль. В числе предложений: включение логистики и транспорта в перечень отраслей, которые могут претендовать на вычет, а также возможность сочетания с другими льготами, в т.ч. с СЗПК.\n \n🔘Минпромторг России прорабатывает ряд мер поддержки компаний, работающих в отрасли черной металлургии. \n🛑 Одной из мер является перенос на конец 2026 г. уплаты компаниями НДПИ при добыче железной руды и акциза на жидкую сталь. Еще одной инициативой является освобождение на три года от уплаты акциза на сталь для стратегических инвестпроектов в отрасли после окончания их инвестиционной фазы. Министерство проработает и дополнительные меры ограничения импорта в Россию металлопродукции.\n\n🔘Минпромторг России  предложил ввести полный НДС на иностранные товары с 2027 г., Минфин ранее предлагал поэтапное повышение ставки: до 5% в 2027 г., 10% в 2028 г., 15% в 2029 г. и 20% с 2030 г.\n \n🔘Минстрой России поддерживает освобождение от НДС управляющих жилыми домами компаний.\n\n#главные_налоговые_новости",
       "text_html": "✍️ Нормотворчество<br> <br>🔘Госдума приняла в первом чтении законопроект № <a href=\"https://sozd.duma.gov.ru/bill/1110069-8\" target=\"_blank\" rel=\"noopener noreferrer\">1110069-8</a> (инициатор – Правительство РФ) о <a href=\"https://tass.ru/ekonomika/26418423\" target=\"_blank\" rel=\"noopener noreferrer\">передаче</a> нескольких налоговых полномочий от правительства РФ к министерствам:<br>     🔴Минфин получит право утверждать список товаров и услуг, освобожденных от налогов, устанавливать нормы расходов на служебный транспорт, определять виды бытовых услуг с нулевой ставкой; <br>     🔴Минтруд будет самостоятельно утверждать перечень социальных услуг, для которых действуют нулевые налоговые ставки;<br>     🔴Минпромторг будет утверждать список товаров, работ и услуг с производственным циклом более шести месяцев (компании смогут определять налоговую базу в день отгрузки таких товаров);<br>     🔴несколько полномочий получат Минспорт, Минэкономразвития (в части туризма) и Минобрнауки.<br><br>🔘Госдума приняла в первом чтении законопроект № <a href=\"https://sozd.duma.gov.ru/bill/1081963-8\" target=\"_blank\" rel=\"noopener noreferrer\">1081963-8</a> (инициатор - Правительство РФ) о <a href=\"https://minfin.gov.ru/ru/press-center/?id_4=40189-mekhanizm_snyatiya_ogranichenii_na_raskrytie_svedenii_iz_egryul_dlya_yurlits_uprostyat\" target=\"_blank\" rel=\"noopener noreferrer\">возобновлении</a> доступа к закрытым сведениям в ЕГРЮЛ о юрлицах, если оснований для ограничения доступа к таким данным больше нет (риск санкций или иные причины). Доступ к чувствительной информации будет автоматически восстанавливаться ФНС России, но не ранее 3-х месяцев с момента соответствующего уведомления ФНС.<br><br>🔘Госдума приняла в первом чтении законопроект № <a href=\"https://sozd.duma.gov.ru/bill/1096244-8\" target=\"_blank\" rel=\"noopener noreferrer\">1096244-8</a> (инициатор – Правительство РФ), <a href=\"https://www.kommersant.ru/doc/8421838?query=%D0%BD%D0%B0%D0%BB%D0%BE%D0%B3\" target=\"_blank\" rel=\"noopener noreferrer\">предусматривающий</a> резкое — в пять раз — повышение штрафов за неприменение ККТ. Также вводится повышающий коэффициент для повторных нарушений.<br> <br>🔘Минэкономразвития России <a href=\"https://www.vedomosti.ru/economics/articles/2026/02/12/1175725-minek-predlozhil-povisit-federalnii-investvichet\" target=\"_blank\" rel=\"noopener noreferrer\">предложило</a> повысить размер ФИНВ с 3 до 12% с возможностью обнуления федеральной части налога на прибыль. В числе предложений: включение логистики и транспорта в перечень отраслей, которые могут претендовать на вычет, а также возможность сочетания с другими льготами, в т.ч. с СЗПК.<br> <br>🔘Минпромторг России <a href=\"https://www.vedomosti.ru/business/articles/2026/02/12/1175731-minpromtorg-gotovit-meri-podderzhki-metallurgov\" target=\"_blank\" rel=\"noopener noreferrer\">прорабатывает</a> ряд мер поддержки компаний, работающих в отрасли черной металлургии. <br>🛑 Одной из мер является перенос на конец 2026 г. уплаты компаниями НДПИ при добыче железной руды и акциза на жидкую сталь. Еще одной инициативой является освобождение на три года от уплаты акциза на сталь для стратегических инвестпроектов в отрасли после окончания их инвестиционной фазы. Министерство проработает и дополнительные меры ограничения импорта в Россию металлопродукции.<br><br>🔘Минпромторг России  <a href=\"https://www.vedomosti.ru/economics/news/2026/02/11/1175503-minpromtorg-predlozhil\" target=\"_blank\" rel=\"noopener noreferrer\">предложил</a> ввести полный НДС <a href=\"https://www.forbes.ru/biznes/555301-minpromtorg-predlozil-vvesti-polnyj-nds-na-zarubeznye-tovary-s-marketplejsov\" target=\"_blank\" rel=\"noopener noreferrer\">на иностранные товары</a> с 2027 г., Минфин ранее предлагал поэтапное повышение ставки: до 5% в 2027 г., 10% в 2028 г., 15% в 2029 г. и 20% с 2030 г.<br> <br>🔘Минстрой России <a href=\"https://rg.ru/2026/02/11/dogovor-dorozhe-deneg.html\" target=\"_blank\" rel=\"noopener noreferrer\">поддерживает</a> освобождение от НДС управляющих жилыми домами компаний.<br><br>#главные_налоговые_новости",
-      "views": 1430,
+      "views": 1440,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2462-1-17bdfedc7402-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2462-1-17bdfedc7402-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2462-1-bc8390b7373f-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2462-1-bc8390b7373f-v4.jpg"
         }
       ],
       "video_url": null,
@@ -34,7 +52,7 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/bddec2768e.mp4?token=ejA9mXkQxnoII8ofeimnxzfh-oKvePxzjQnvXNu1r_F2vR1_iVIHGg96RGADWYGJQv6w-g7QIHOJNadf1liNGkLZQbKlVUhVeYhj_d-5urhY_3v_p5lnMsceDByaO5t1UHrgsSLl7eDDHE-eOVWPiMtF9oJyOobCXI2nif9K5jjCDQZ4pM8IWPjUTMkyIm-JsCts4Mq5biERBt3JnPMuS329SRTN4lAiJueO5ClQA_mqSYh0hNWqDrlIV43pYUYXjb1EnT7KAW3ap3hBx1JUEt6eMZVvaykNQlE2wk4P775nECHX7bUmKDaRj5wPjhVUjeMY4KeRSqtVZVfFGOo67g",
+      "video_url": "https://cdn4.telesco.pe/file/bddec2768e.mp4?token=fSN251sFTcZQxhmlOx5WqkFXCwvdSWZdbn4XGjMVbjzx1Cwl54D-NxdsoXICgs8IbdaCrAtfobpJzgnobb5dewQDq5fWWkn8VXXdlTIYixlg_AqiBI-w7vd2p8Morq2EXkP3DectDSzRdqZIIT__2GtbN3ZCa-MUeZfJdIauGiirgYu00vp71IS6ajvv_dgiEOZkdKSeM4qg9HqH6M2IHNbhykfAoGjfw0hdngeOuvJC7D_Xk-hSDMhHkMTUiy3wLeMBfXn9Tjg5u1Wjy0Z9eHzcJI1XsmiAglSpRsn07Svx4XKzbleuDm9S89etrfq_xSdgLfWhqkm2XMOQ5KO4zg",
       "tg_url": "https://t.me/PG_Tax/2461",
       "forwarded_from": null
     },
@@ -48,8 +66,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2460-1-4e9727d9b916-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2460-1-4e9727d9b916-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2460-1-6a56acfff93f-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2460-1-6a56acfff93f-v4.jpg"
         }
       ],
       "video_url": null,
@@ -66,8 +84,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2459-1-ea2c2b947318-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2459-1-ea2c2b947318-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2459-1-4228fc4bd1b9-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2459-1-4228fc4bd1b9-v4.jpg"
         }
       ],
       "video_url": null,
@@ -84,8 +102,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2458-1-c5640081097f-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2458-1-c5640081097f-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2458-1-5e9240e3d634-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2458-1-5e9240e3d634-v4.jpg"
         }
       ],
       "video_url": null,
@@ -97,11 +115,11 @@
       "date": "2026-02-10T13:35:37+00:00",
       "text": null,
       "text_html": null,
-      "views": 1310,
+      "views": 1320,
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/9c54e3d766.mp4?token=fwuBPW9BBf0eHYfW4b_b6cXK4DvjkAG2KTnHnlw0dlCj0Zr-1H0zKMIEkewX1d6hKnuIQxIHMStb6c8TQDrQZBHdvnTF3MHhJfxPxN0weD-o6DSMo6WHsPtd2No76nN021T1LoF5Lcnara08TWnrC2CMbNKrFXv9B6BEmg1Bc5BDKNTrB0oiYvXu-O5E8m3yctFlP2qyZbDwnyTNVPoCpJz8pmGVA1ElPJap4jLx8DRMGbZ8jLrUjd22tfUT7UXMchrSfX8RnWfwbQGsu5TQWRgxU7v1X3bYeKwHLdrqikA9X3rVxbXofRzzODbxZ1hIR5QantRqvG_kOtCg95nr4A",
+      "video_url": "https://cdn4.telesco.pe/file/9c54e3d766.mp4?token=IV-1V6lUXuDDDkO8pmZQ9CCh5WGfQwjKeqit4tBC3f7arUqxxz3h7ldRPck-r9NPYYE-Isus5XQ2YlU0Vf3slU4PbBrGtGzum_NKcHuLSdQan1EUgT-_b1wXFN8TJeSfPnXl13zo-jeNymgNnYZJjboXIItnVuQ5l5RSTDbEq0qTCfehYoMz9U3Px0ml0jwANIqac-REu9vR_TPo6q0K1lnEJlG8KxVbcZMr-s4WdS5iTj9njmNk2BTadD67S-uzfbqaKxPR9dOr8mTDtQHQ1JFXsHeJ334L4F6XYiGXnpckwtbXEVjUZtS-u3JCcbmnXUGIFMhMmzDP8gGsYImSvw",
       "tg_url": "https://t.me/PG_Tax/2457",
       "forwarded_from": null
     },
@@ -115,8 +133,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2456-1-17d9221de824-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2456-1-17d9221de824-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2456-1-6e81e321a9c2-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2456-1-6e81e321a9c2-v4.jpg"
         }
       ],
       "video_url": null,
@@ -133,8 +151,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2455-1-7dab2b1924e7-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2455-1-7dab2b1924e7-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2455-1-149f27f0019a-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2455-1-149f27f0019a-v4.jpg"
         }
       ],
       "video_url": null,
@@ -151,8 +169,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2454-1-52f7930fb723-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2454-1-52f7930fb723-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2454-1-c2e089e23057-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2454-1-c2e089e23057-v4.jpg"
         }
       ],
       "video_url": null,
@@ -168,7 +186,7 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/90a830aa1a.mp4?token=O8Sd_WbpfrvAp511fZMecvmYEjg_49SbuN6AtTdc5gVppZEKPlMaXXOeRMi_Ll3ffmJo25VK4eh5CaeENejBapISnepeYUv4NjNPNoodXBr57Stw7cNcOI411nZFbGdTmYccIFvK92TWRh9RU2WVRZfOyfRlq7t3tDhZqxhMWxxPjEcVuQM69f696-1LPFG1CFjKz3q_b34ai7cO-42t9aeEENNNORUfKrMKfEzEq7xV8Fv7S_xLFtrfvDoIlihZwMPvG8yY77kCDZr_dErbPGZF_pz1U_fedBwvFBKw_80yxaOhQzYbn2kVb-pdKeJ2dAgNrwAX_IVoxsmDaN2PVw",
+      "video_url": "https://cdn4.telesco.pe/file/90a830aa1a.mp4?token=aaohyEa4CrFrbJEMtzVAqDQ4FFPMVa6rdNrpbLi9zHrrncoXmfq2aSqwp6Y2Fqn8mtK9utUUSeGFbjtuE9umX2nAXkAP7qAmryDOztI0-NEBWMab1Ntquog3YUwvtLkZFZ5GnUbvUja8BnVv-i4mWeBlOpJTLZTUg7wi3vID5165qpJwrdPM_ttxI-yEQQ4n6r4OM_MNpbaWZ8BC9K86PEkxiVtItvt-Gc0EgIDwRa9piT14yKXE4kVuAYEOKA_-GDLfV1p6hdQrIjz6paI30XFZ0xkBHpeW7ZukNeQL9v-Jav8E9c-RZAzqR3e9hRBraDplu_ZL0rFoOuCu-3-l-g",
       "tg_url": "https://t.me/PG_Tax/2453",
       "forwarded_from": null
     },
@@ -182,8 +200,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2452-1-45a9cfc8ca64-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2452-1-45a9cfc8ca64-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2452-1-00cf7d6b5ac2-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2452-1-00cf7d6b5ac2-v4.jpg"
         }
       ],
       "video_url": null,
@@ -195,13 +213,13 @@
       "date": "2026-02-09T10:02:32+00:00",
       "text": "⚡️ Постановление КС РФ по вопросу регистрации в апартаментах\n\nКонституционный Суд РФ принял Постановление от 03.02.2026 № 4-П, которым разрешена временная регистрация граждан в апартаментах, сходных с квартирами и не входящих в номерной фонд гостиниц или иных средств размещения.\n\nОбращаем внимание на то, что позиция КС РФ не уравнивает апартаменты с жильем в вопросах налогообложения:\n\n⚖️ Экономия в момент покупки таких нежилых помещений отчасти нивелируется тем, что их владельцы обязаны...  уплачивать налог на имущество физических лиц... по более высоким ставкам по сравнению со ставками данного налога в отношении жилых помещений, в том числе квартир (п. 2 ст. 406 НК РФ). Кроме того, для данного вида имущества не предусмотрен ряд федеральных налоговых льгот, установленных для жилья..\n\n⚖️ Выраженные в настоящем Постановлении правовые позиции в любом случае не могут пониматься как свидетельствующие о необходимости устранения дифференциации в вопросах налогообложения... между жилыми и рассматриваемыми нежилыми помещениями.\n\nПодробный комментарий к Постановлению КС РФ читайте в алерте Санкт-Петербургского офиса «Пепеляев Групп» 👉\n\n#изменения_законодательства\n#алерты_статьи",
       "text_html": "⚡️ Постановление КС РФ по вопросу регистрации в апартаментах<br><br>Конституционный Суд РФ принял <a href=\"https://www.ksrf.ru/doc/KSRFDecision885638.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Постановление от 03.02.2026 № 4-П,</a> которым разрешена временная регистрация граждан в апартаментах, сходных с квартирами и не входящих в номерной фонд гостиниц или иных средств размещения.<br><br>Обращаем внимание на то, что позиция КС РФ не уравнивает апартаменты с жильем в вопросах налогообложения:<br><br>⚖️ Экономия в момент покупки таких нежилых помещений отчасти нивелируется тем, что их владельцы обязаны...  уплачивать налог на имущество физических лиц... по более высоким ставкам по сравнению со ставками данного налога в отношении жилых помещений, в том числе квартир (п. 2 ст. 406 НК РФ). Кроме того, для данного вида имущества не предусмотрен ряд федеральных налоговых льгот, установленных для жилья..<br><br>⚖️ Выраженные в настоящем Постановлении правовые позиции в любом случае не могут пониматься как свидетельствующие о необходимости устранения дифференциации в вопросах налогообложения... между жилыми и рассматриваемыми нежилыми помещениями.<br><br>Подробный комментарий к Постановлению КС РФ читайте в <a href=\"https://www.pgplaw.ru/analytics-and-brochures/alerts/registratsiya-v-apartamentakh/\" target=\"_blank\" rel=\"noopener noreferrer\">алерте</a> Санкт-Петербургского офиса «Пепеляев Групп» 👉<br><br>#изменения_законодательства<br>#алерты_статьи",
-      "views": 1520,
+      "views": 1530,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2451-1-e818442928c4-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2451-1-e818442928c4-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2451-1-694bc7f6ba64-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2451-1-694bc7f6ba64-v4.jpg"
         }
       ],
       "video_url": null,
@@ -218,8 +236,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2450-1-56951e61577d-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2450-1-56951e61577d-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2450-1-c38d06d0aa1a-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2450-1-c38d06d0aa1a-v4.jpg"
         }
       ],
       "video_url": null,
@@ -235,7 +253,7 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/a9db42e7e0.mp4?token=dFJZLA6IvmZ0h18OqfSDF-IOjAwxPUYSTlLP8aZiVbEBW7_0zZh-pfiWnl6CwxfbdBjCEwSm_DYKeW4JGEh2l3Yb3s-qiO9oZTryaI9SLkQ35Wlg6guXMNttfhLC4w669XsmX3Qml1x2lXa6t4tZhmAs00MlLfgZgvO0A6CGrt4ECsOx0R7Q56M0eoxQ4CG0_H6mMYVDMXfA3PiI0R39j2qhuzSuDh2Dw51EI3Aly0_1keGlRc2Tiz7AElkwWNmnuvc1zHaBJmvt0hkATktBdjB7duMuE35YUrxNt9c5uhKC6gERjYnvozP1M6m9FaqxrItrHkicO8j9Pf4DLJYL6w",
+      "video_url": "https://cdn4.telesco.pe/file/a9db42e7e0.mp4?token=ZHQHEdjwJ6pfZAWnsVsbxLXI6MFqK0vAdZUHiUqsrI5WvgOPp3-e1Qc5Ef14PVOxgMpzzrUKsR1YM5F0_goObxg6jeEdKCd4CtTa7IaOLSOOg0zvIE0dmTpnX59H-KGcKCkNruN2DxNADpkVbUKvePLhsFLIgsnEY-rpWVBCGmBNW_pPTpeN69X4NKU9aTDxIcpCazpAdiKdIeFul1SrE0a7TetiW0cl9STnCVGjIMgbt5qWoV7d2QFvHXdIQJQZ5ZAsccZvH5hUOdm2c8C5WQ-HpS5cmRVby2PZnbbpYxEx98c8BUaNbZLYlHqQ3GGb9TwH4j9J9k8osmE881sXmg",
       "tg_url": "https://t.me/PG_Tax/2449",
       "forwarded_from": null
     },
@@ -249,30 +267,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2448-1-4a95c4f03b98-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2448-1-4a95c4f03b98-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2448-1-b576af982b44-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2448-1-b576af982b44-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/PG_Tax/2448",
-      "forwarded_from": null
-    },
-    {
-      "id": 2447,
-      "date": "2026-02-06T11:00:07+00:00",
-      "text": "🏛 Заседание рабочей группы ТПП РФ \n\n19 февраля в ТПП России обсудим изменения налогового регулирования и их влияние на бизнес.\n\nКлючевые темы заседания\n\n🔴отсрочка (рассрочка) уплаты налогов и налоговой задолженности: практика, риски, предложения законодателю;\n🔴вопросы влияния налоговых отсрочек на сроки давности уголовного преследования;\n🔴специнвестрежимы и налоговые инвестиционные льготы;\n🔴перенос показателей между налоговыми периодами (ст. 54 НК РФ).\n\n➖➖\n\n🏢 Среди спикеров ПГ: партнер «Пепеляев Групп» Леонид Кравчинский, руководитель Сибирского офиса Егор Лысенко, советник Пётр Попов.\n\n🔴Дата и время: 19 февраля 2026 года, в 14:00\n🔴Место: Москва, ул. Ильинка, д. 6/1с1, ТПП России, зал Библиотека\n\n➡️ Регистрация на заседание",
-      "text_html": "🏛 Заседание рабочей группы ТПП РФ <br><br>19 февраля в ТПП России обсудим изменения налогового регулирования и их влияние на бизнес.<br><br>Ключевые темы заседания<br><br>🔴отсрочка (рассрочка) уплаты налогов и налоговой задолженности: практика, риски, предложения законодателю;<br>🔴вопросы влияния налоговых отсрочек на сроки давности уголовного преследования;<br>🔴специнвестрежимы и налоговые инвестиционные льготы;<br>🔴перенос показателей между налоговыми периодами (ст. 54 НК РФ).<br><br>➖➖<br><br>🏢 Среди спикеров ПГ: партнер «Пепеляев Групп» Леонид Кравчинский, руководитель Сибирского офиса Егор Лысенко, советник Пётр Попов.<br><br>🔴Дата и время: 19 февраля 2026 года, в 14:00<br>🔴Место: Москва, ул. Ильинка, д. 6/1с1, ТПП России, зал Библиотека<br><br>➡️ <a href=\"https://www.pgplaw.ru/zasedanie-tpp/\" target=\"_blank\" rel=\"noopener noreferrer\">Регистрация на заседание</a>",
-      "views": 1620,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2447-1-ed80e0c41692-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2447-1-ed80e0c41692-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2447",
       "forwarded_from": null
     }
   ]
