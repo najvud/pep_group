@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-04-14T07:02:43.718785+00:00",
+  "generated_at": "2026-04-14T08:54:45.676882+00:00",
   "pagination": {
     "page": 5,
     "page_size": 16,
-    "total_posts": 76,
+    "total_posts": 77,
     "total_pages": 5
   },
   "posts": [
+    {
+      "id": 390,
+      "date": "2026-01-29T06:06:58+00:00",
+      "text": "📢 Не жди, пока управляющий напомнит!\n\nАлина Газизова, юрист практики банкротства и антикризисной защиты бизнеса, на примере дела о взыскании процентов за просрочку возврата денежных средств показывает: ссылка на отсутствие денег и ожидание инициативы от взыскателя не освобождают от финансовой ответственности.\n\n📄 Краткая предыстория:\n\nВ деле о банкротстве конкурсный управляющий обратился в суд с требованием к обществу о взыскании процентов за пользование чужими денежными средствами. Основанием послужила просрочка в возврате суммы, которую суд ранее взыскал с ответчика в связи с недействительностью сделки с предпочтением.\n\n📎 Суды трёх инстанций отказали во взыскании, приняв доводы ответчика об отсутствии у него средств и несвоевременном предоставлении реквизитов управляющим.\n\n⚡️ ВС РФ взыскал с ответчика проценты в пользу должника, т. к.:\n🔵 отсутствие денег – не основание для освобождения от уплаты процентов по ст. 395 ГК РФ (п. 45 Постановления Пленума ВС РФ № 7);\n🔵 управляющий предоставил реквизиты на следующий день после запроса – его действия нельзя считать просрочкой;\n🔵 бремя исполнения судебного акта лежит на должнике – именно ответчик должен был проявить инициативу и выяснить реквизиты для возврата средств;\n🔵 ответчик частично признал требование, указав в отзыве, что проценты начисляются, но за другой период; значит, оснований для полного отказа управляющему не было.\n\n⚠️ Выводы:\n\nЕсли вы проиграли управляющему в денежном споре, сразу после вступления акта в законную силу направьте ему официальный запрос о предоставлении реквизитов для платежа. Лучше – и электронной почтой, и почтой России с детальной описью вложения.\n\n#Арбитражный_управляющий\n#Недействительность_сделок",
+      "text_html": "📢 Не жди, пока управляющий напомнит!<br><br>Алина Газизова, юрист <a href=\"https://www.pgplaw.ru/practice-and-industry/practices/bankruptcy/\" target=\"_blank\" rel=\"noopener noreferrer\">практики банкротства и антикризисной защиты бизнеса,</a> <a href=\"https://mkad.arbitr.ru/Document/Pdf/1b6d3e2d-ef4c-4b4f-8763-47a43e9594bb/daa45902-58cc-45da-8338-c59f5ab7dad1/A40-107430-2017_20260126_Opredelenie.pdf?isAddStamp=True\" target=\"_blank\" rel=\"noopener noreferrer\">на примере дела о взыскании процентов за просрочку возврата денежных средств</a> показывает: ссылка на отсутствие денег и ожидание инициативы от взыскателя не освобождают от финансовой ответственности.<br><br>📄 Краткая предыстория:<br><br>В деле о банкротстве конкурсный управляющий обратился в суд с требованием к обществу о взыскании процентов за пользование чужими денежными средствами. Основанием послужила просрочка в возврате суммы, которую суд ранее взыскал с ответчика в связи с недействительностью сделки с предпочтением.<br><br>📎 Суды трёх инстанций отказали во взыскании, приняв доводы ответчика об отсутствии у него средств и несвоевременном предоставлении реквизитов управляющим.<br><br>⚡️ ВС РФ взыскал с ответчика проценты в пользу должника, т. к.:<br>🔵 отсутствие денег – не основание для освобождения от уплаты процентов по ст. 395 ГК РФ (п. 45 Постановления Пленума ВС РФ № 7);<br>🔵 управляющий предоставил реквизиты на следующий день после запроса – его действия нельзя считать просрочкой;<br>🔵 бремя исполнения судебного акта лежит на должнике – именно ответчик должен был проявить инициативу и выяснить реквизиты для возврата средств;<br>🔵 ответчик частично признал требование, указав в отзыве, что проценты начисляются, но за другой период; значит, оснований для полного отказа управляющему не было.<br><br>⚠️ Выводы:<br><br>Если вы проиграли управляющему в денежном споре, сразу после вступления акта в законную силу направьте ему официальный запрос о предоставлении реквизитов для платежа. Лучше – и электронной почтой, и почтой России с детальной описью вложения.<br><br>#Арбитражный_управляющий<br>#Недействительность_сделок",
+      "views": 483,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/390-1-53fc402e7008-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/390-1-53fc402e7008-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/bankrotstvo_mustknow/390",
+      "forwarded_from": null
+    },
     {
       "id": 389,
       "date": "2026-01-28T07:19:43+00:00",
@@ -17,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/389-1-0f0677deba94-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/389-1-0f0677deba94-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/389-1-6feee07690fd-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/389-1-6feee07690fd-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +53,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/388-1-8766badc2dac-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/388-1-8766badc2dac-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/388-1-b05196057a5f-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/388-1-b05196057a5f-v4.jpg"
         }
       ],
       "video_url": null,
@@ -53,8 +71,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/387-1-b0ce87f1e989-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/387-1-b0ce87f1e989-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/387-1-9336eb30fb91-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/387-1-9336eb30fb91-v4.jpg"
         }
       ],
       "video_url": null,
@@ -71,8 +89,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/386-1-f647dec01528-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/386-1-f647dec01528-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/386-1-1abef2ef0370-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/386-1-1abef2ef0370-v4.jpg"
         }
       ],
       "video_url": null,
@@ -94,8 +112,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/385-1-0987fcd634c9-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/385-1-0987fcd634c9-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/385-1-0fc7b5c2b10e-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/385-1-0fc7b5c2b10e-v4.jpg"
         }
       ],
       "video_url": null,
@@ -112,8 +130,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/383-1-6f1a96fa745b-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/383-1-6f1a96fa745b-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/383-1-d344bf71663a-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/383-1-d344bf71663a-v4.jpg"
         }
       ],
       "video_url": null,
@@ -130,8 +148,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/382-1-92ad2c43fbfe-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/382-1-92ad2c43fbfe-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/382-1-c4869c909f8b-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/382-1-c4869c909f8b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -148,8 +166,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/381-1-421409b6f175-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/381-1-421409b6f175-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/381-1-8fdde7603895-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/381-1-8fdde7603895-v4.jpg"
         }
       ],
       "video_url": null,
@@ -166,8 +184,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/379-1-03a9f8e38d6d-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/379-1-03a9f8e38d6d-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/379-1-29cad6663945-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/379-1-29cad6663945-v4.jpg"
         }
       ],
       "video_url": null,
@@ -184,8 +202,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/378-1-db13c4e1bffb-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/378-1-db13c4e1bffb-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/378-1-389043de6151-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/378-1-389043de6151-v4.jpg"
         }
       ],
       "video_url": null,
@@ -202,8 +220,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/376-1-58a67cb3bae5-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/376-1-58a67cb3bae5-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/376-1-f604c58d4fee-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/376-1-f604c58d4fee-v4.jpg"
         }
       ],
       "video_url": null,
@@ -220,8 +238,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/375-1-4600c9b36bbc-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/375-1-4600c9b36bbc-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/375-1-6c1c90c63ff6-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/375-1-6c1c90c63ff6-v4.jpg"
         }
       ],
       "video_url": null,

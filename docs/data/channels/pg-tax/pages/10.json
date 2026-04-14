@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-14T05:12:25.907024+00:00",
+  "generated_at": "2026-04-14T08:53:19.320369+00:00",
   "pagination": {
     "page": 10,
     "page_size": 16,
@@ -7,6 +7,19 @@
     "total_pages": 12
   },
   "posts": [
+    {
+      "id": 2430,
+      "date": "2026-01-30T11:00:39+00:00",
+      "text": null,
+      "text_html": null,
+      "views": 1560,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [],
+      "video_url": "https://cdn4.telesco.pe/file/dcb807eb9d.mp4?token=Z4PN4vvBPnDbQplqL42CApSk_xZYMiVR5XZAr7cne-zBDFtwBdM70s-ovkqON3qJP5ZreeEHxySnkmcDrM9Qa_GW0K8Nk7-Dqi0fT0KcAR5ScLk1GiHZmtHGbXWRFxlEBpA1aie0zjcoANJmNZ1s05YtZLiRBYAxLAShFXVxJMwoo-OyGESAmQJDl96vlU4VVqFW4aYN4hWsdJ88t5FKpnhmlUamUMtPx51YnmlDW3tnyRAeXwsuVhg-OdgTy2i6d0H_CNOfCz1Dj4xlZRb4YUyJHwygzfQKcWKMgjbDhuQJ7wXYRwhbZxGu0UPscCUplZrL-rA2Xbm6-vTMCIpz5g",
+      "tg_url": "https://t.me/PG_Tax/2430",
+      "forwarded_from": null
+    },
     {
       "id": 2429,
       "date": "2026-01-30T11:00:12+00:00",
@@ -17,8 +30,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2429-1-1182708e3227-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2429-1-1182708e3227-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2429-1-f9e46b5198a5-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2429-1-f9e46b5198a5-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +48,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2428-1-8ce9bd61dba5-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2428-1-8ce9bd61dba5-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2428-1-773b0e6deafc-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2428-1-773b0e6deafc-v4.jpg"
         }
       ],
       "video_url": null,
@@ -53,8 +66,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2427-1-7ab7523e15b0-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2427-1-7ab7523e15b0-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2427-1-6fd848527ec8-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2427-1-6fd848527ec8-v4.jpg"
         }
       ],
       "video_url": null,
@@ -71,8 +84,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2426-1-c6438cd66d26-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2426-1-c6438cd66d26-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2426-1-37cd4cab1090-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2426-1-37cd4cab1090-v4.jpg"
         }
       ],
       "video_url": null,
@@ -89,8 +102,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2425-1-0a3747f12ea2-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2425-1-0a3747f12ea2-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2425-1-70190f502284-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2425-1-70190f502284-v4.jpg"
         }
       ],
       "video_url": null,
@@ -107,8 +120,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2424-1-657a12f606f1-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2424-1-657a12f606f1-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2424-1-ba173c843640-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2424-1-ba173c843640-v4.jpg"
         }
       ],
       "video_url": null,
@@ -125,8 +138,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2423-1-b772a90c957f-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2423-1-b772a90c957f-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2423-1-1f501b8a585b-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2423-1-1f501b8a585b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -143,8 +156,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2421-1-abb96d8800df-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2421-1-abb96d8800df-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2421-1-4066b35a97cc-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2421-1-4066b35a97cc-v4.jpg"
         }
       ],
       "video_url": null,
@@ -169,13 +182,13 @@
       "date": "2026-01-27T10:30:08+00:00",
       "text": "🛡 «Пепеляев Групп» защитила физических лиц в спорах о зачёте налога, уплаченного в Казахстане\n\nКоманда «Пепеляев Групп» успешно защитила интересы физических лиц в спорах с налоговыми органами о зачёте индивидуального подоходного налога, уплаченного в Республике Казахстан, в счёт НДФЛ в России.\n\n📣 Ранее Forbes сообщал о массовых проверках по НДФЛ в отношении граждан РФ, переехавших в Казахстан: налоговые инспекции начали направлять требования об уточнении налоговых деклараций за прошлые периоды и отказывать в зачёте налога, уплаченного за рубежом.\n\nИменно с этой проблемой к нам обратился клиент — требовалась поддержка его сотрудников во взаимоотношениях с налоговыми органами, которые отказывались засчитывать ИПН, уплаченный в Казахстане в 2022–2024 гг., в счёт российского НДФЛ в порядке, предусмотренном СИДН между Россией и Республикой Казахстан.\n\n🏆 Юристы «Пепеляев Групп» добились отмены доначислений на общую сумму около 1 млн. руб. на досудебной стадии споров (возражений по акту проверки или по итогам обжалования решения налогового органа). \n\nВ ряде ситуаций налоговые органы отказались от претензий ещё до составления актов проверок на основании грамотно подготовленных пакетов документов, обосновывающих право налогоплательщиков на зачёт налога.\n\n💰 Всего удалось избежать потенциальных доначислений в общем размере около 2,5 млн. руб. в отношении 20 сотрудников компании.\n\nВ обоснование претензий инспекции, как правило, положена ссылка на письмо Минфина России от 14 марта 2024 г. № 03-08-09/22765. \n☝️ Юристы «Пепеляев Групп» обосновали, что позиция ведомства касается лишь отдельных случаев применения норм Налогового кодекса и не позволяет автоматически отказывать в зачёте налога.\n\nПроект вели старший партнёр «Пепеляев Групп» Сергей Савсерис и юрист Юлия Булдакова.\n\n#наши_победы",
       "text_html": "🛡 «Пепеляев Групп» защитила физических лиц в спорах о зачёте налога, уплаченного в Казахстане<br><br>Команда «Пепеляев Групп» успешно защитила интересы физических лиц в спорах с налоговыми органами о зачёте индивидуального подоходного налога, уплаченного в Республике Казахстан, в счёт НДФЛ в России.<br><br>📣 Ранее Forbes <a href=\"https://www.forbes.ru/finansy/541356-nalogovaa-potrebovala-ot-rabotavsih-na-kazahstanskie-firmy-rossian-zaplatit-ndfl\" target=\"_blank\" rel=\"noopener noreferrer\">сообщал</a> о массовых проверках по НДФЛ в отношении граждан РФ, переехавших в Казахстан: налоговые инспекции начали направлять требования об уточнении налоговых деклараций за прошлые периоды и отказывать в зачёте налога, уплаченного за рубежом.<br><br>Именно с этой проблемой к нам обратился клиент — требовалась поддержка его сотрудников во взаимоотношениях с налоговыми органами, которые отказывались засчитывать ИПН, уплаченный в Казахстане в 2022–2024 гг., в счёт российского НДФЛ в порядке, предусмотренном СИДН между Россией и Республикой Казахстан.<br><br>🏆 Юристы «Пепеляев Групп» добились отмены доначислений на общую сумму около 1 млн. руб. на досудебной стадии споров (возражений по акту проверки или по итогам обжалования решения налогового органа). <br><br>В ряде ситуаций налоговые органы отказались от претензий ещё до составления актов проверок на основании грамотно подготовленных пакетов документов, обосновывающих право налогоплательщиков на зачёт налога.<br><br>💰 Всего удалось избежать потенциальных доначислений в общем размере около 2,5 млн. руб. в отношении 20 сотрудников компании.<br><br>В обоснование претензий инспекции, как правило, положена ссылка на письмо Минфина России от 14 марта 2024 г. <a href=\"https://normativ.kontur.ru/document?moduleId=8&amp;amp;documentId=472654\" target=\"_blank\" rel=\"noopener noreferrer\">№ 03-08-09/22765</a>. <br>☝️ Юристы «Пепеляев Групп» обосновали, что позиция ведомства касается лишь отдельных случаев применения норм Налогового кодекса и не позволяет автоматически отказывать в зачёте налога.<br><br>Проект вели старший партнёр «Пепеляев Групп» <a href=\"https://www.pgplaw.ru/to-get-the-team/sergey-savseris/\" target=\"_blank\" rel=\"noopener noreferrer\">Сергей Савсерис</a> и юрист Юлия Булдакова.<br><br>#наши_победы",
-      "views": 2780,
+      "views": 2790,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2419-1-b73d45f42845-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2419-1-b73d45f42845-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2419-1-cd3c5df39b84-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2419-1-cd3c5df39b84-v4.jpg"
         }
       ],
       "video_url": null,
@@ -192,8 +205,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2418-1-7c7e7c153fc1-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2418-1-7c7e7c153fc1-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2418-1-c3befce00027-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2418-1-c3befce00027-v4.jpg"
         }
       ],
       "video_url": null,
@@ -210,8 +223,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2417-1-57587ff20b4a-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2417-1-57587ff20b4a-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2417-1-9fc64fda679e-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2417-1-9fc64fda679e-v4.jpg"
         }
       ],
       "video_url": null,
@@ -228,8 +241,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2416-1-84dcb4937e16-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2416-1-84dcb4937e16-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2416-1-5184a97ec369-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2416-1-5184a97ec369-v4.jpg"
         }
       ],
       "video_url": null,
@@ -246,8 +259,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2415-1-c3a4ff81504c-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2415-1-c3a4ff81504c-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2415-1-3952dbb3930d-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2415-1-3952dbb3930d-v4.jpg"
         }
       ],
       "video_url": null,
@@ -269,30 +282,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2414-1-07c7a9076a5a-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2414-1-07c7a9076a5a-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2414-1-c543aac24dda-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2414-1-c543aac24dda-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/PG_Tax/2414",
-      "forwarded_from": null
-    },
-    {
-      "id": 2413,
-      "date": "2026-01-23T07:21:18+00:00",
-      "text": "✍️ Нормативное регулирование\n \n🔴Госдума приняла в первом чтении законопроект об увеличении размеров штрафов за совершение преступлений экономической направленности. \nНапример, штраф за уклонение организации от уплаты налогов в особо крупном размере предлагается увеличить с 200-500 тыс. руб. до 1 - 2,5 млн. руб.\n🛑 Подробнее о законопроекте эксперты ПГ писали здесь.\n \n🔴Минфин России разместил для общественного обсуждения проект постановления Правительства РФ о предоставлении налоговой рассрочки по уплате НДПИ и страховых взносов для предприятий угольной отрасли.\nРассрочка будет предоставлена с марта по декабрь 2026 г. включительно при условии внесения платежей в течение этого периода равными частями. \nВ случае нарушения условий рассрочки предусмотрена ее отмена с соответствующим начислением пеней. \nНа получение рассрочки имеют право предприятия, которые включены в специальный перечень организаций и в отношении которых утверждена программа финансового оздоровления.\n \n⚙️ Практика\n \nВ Госдуме на следующей неделе начнется серия встреч премьер-министра Михаила Мишустина с представителями фракций Госдумы. «Единая Россия» планирует обсудить налоговые изменения 2025: \n«Мы приняли решение об организации парламентского мониторинга адаптации бизнеса к новым налоговым условиям. В связи с этим будем предметно обсуждать механизмы своевременной поддержки тех, кто нуждается в помощи, тех, кто вкладывается в высокотехнологичное оборудование, и тех, кто демонстрирует рост».\n \n📍 В регионах \n\n🔴В 2025 г. в специальные административные районы (САР) переехали 135 организаций: 103 компании зарегистрированы на острове Октябрьском, 32 — на острове Русском. \nВ 2024 г. в «российских офшорах» числилось 190 новых предприятий.\n\n🔴Стало известно, что в пилотном проекте ФНС России по привлечению медиаторов при урегулировании разногласий, возникающих в налоговых правоотношениях, участвуют 8 УФНС и 3 МИ ФНС:\nВ состав рабочей группы вошли УФНС России по Республике Марий Эл, по Удмуртской и Чувашской республикам, по Московской, Пензенской, Самарской и Саратовской областям, по Пермскому краю, а также МИ ФНС России по Северо-Западному, Центральному и Приволжскому федеральным округам. \n❗️Новости УФНС и комментарий эксперта ПГ о налоговой медиации — сегодня позже.\n\n#главные_налоговые_новости",
-      "text_html": "✍️ Нормативное регулирование<br> <br>🔴Госдума <a href=\"https://rg.ru/2026/01/21/gosduma-odobrila-rost-shtrafov-za-nekotorye-ekonomicheskie-prestupleniia.html%22%20%5Co%20%22https://rg.ru/2026/01/21/gosduma-odobrila-rost-shtrafov-za-nekotorye-ekonomicheskie-prestupleniia.html\" target=\"_blank\" rel=\"noopener noreferrer\">приняла</a> в первом чтении <a href=\"https://sozd.duma.gov.ru/bill/1069534-8\" target=\"_blank\" rel=\"noopener noreferrer\">законопроект</a> об увеличении размеров штрафов за совершение преступлений экономической направленности. <br>Например, штраф за уклонение организации от уплаты налогов в особо крупном размере <a href=\"http://duma.gov.ru/news/62876/\" target=\"_blank\" rel=\"noopener noreferrer\">предлагается</a> увеличить с 200-500 тыс. руб. до 1 - 2,5 млн. руб.<br>🛑 Подробнее о законопроекте эксперты ПГ писали <a href=\"https://www.pgplaw.ru/analytics-and-brochures/alerts/minyust-rossii-predlozhil-uvelichit-razmery-shtrafov-po-36-statyam-uk-rf-po-ekonomicheskim-prestuple/\" target=\"_blank\" rel=\"noopener noreferrer\">здесь.</a><br> <br>🔴Минфин России <a href=\"https://www.rbc.ru/rbcfreenews/6972c3939a79476f72b137b5%22%20%5Co%20%22https://www.rbc.ru/rbcfreenews/6972c3939a79476f72b137b5\" target=\"_blank\" rel=\"noopener noreferrer\">разместил</a> для общественного обсуждения <a href=\"https://minfin.gov.ru/ru/om/obs/?id_57=9772-o_vnesenii_izmenenii_v_postanovlenie_pravitelstva_rossiiskoi_federatsii_ot_25_iyulya_2025_g.__1105%22%20%5Co%20%22https://minfin.gov.ru/ru/om/obs/?id_57=9772-o_vnesenii_izmenenii_v_postanovlenie_pravitelstva_rossiiskoi_federatsii_ot_25_iyulya_2025_g.__1105\" target=\"_blank\" rel=\"noopener noreferrer\">проект</a> постановления Правительства РФ <a href=\"https://minfin.gov.ru/ru/press-center/?id_4=40171-minfin_rossii_podgotovil_postanovlenie_pravitelstva_dlya_dopolnitelnoi_podderzhki_ugolnoi_otrasli%22%20%5Co%20%22https://minfin.gov.ru/ru/press-center/?id_4=40171-minfin_rossii_podgotovil_postanovlenie_pravitelstva_dlya_dopolnitelnoi_podderzhki_ugolnoi_otrasli\" target=\"_blank\" rel=\"noopener noreferrer\">о</a> <a href=\"https://minfin.gov.ru/ru/press-center/?id_4=40171-minfin_rossii_podgotovil_postanovlenie_pravitelstva_dlya_dopolnitelnoi_podderzhki_ugolnoi_otrasli%22%20%5Co%20%22https://minfin.gov.ru/ru/press-center/?id_4=40171-minfin_rossii_podgotovil_postanovlenie_pravitelstva_dlya_dopolnitelnoi_podderzhki_ugolnoi_otrasli\" target=\"_blank\" rel=\"noopener noreferrer\">предоставлении</a> налоговой рассрочки по уплате НДПИ и страховых взносов для предприятий угольной отрасли.<br>Рассрочка <a href=\"https://tass.ru/ekonomika/26227011%22%20%5Co%20%22https://tass.ru/ekonomika/26227011\" target=\"_blank\" rel=\"noopener noreferrer\">будет предоставлена</a> с марта по декабрь 2026 г. включительно при условии внесения платежей в течение этого периода равными частями. <br>В случае нарушения условий рассрочки предусмотрена ее отмена с соответствующим начислением пеней. <br>На получение рассрочки имеют право предприятия, которые включены в специальный перечень организаций и в отношении которых утверждена программа финансового оздоровления.<br> <br>⚙️ Практика<br> <br>В Госдуме на следующей неделе начнется серия встреч премьер-министра Михаила Мишустина с представителями фракций Госдумы. «Единая Россия» <a href=\"https://www.vedomosti.ru/politics/articles/2026/01/22/1171216-o-chem-parlamentskie%22%20%5Co%20%22https://www.vedomosti.ru/politics/articles/2026/01/22/1171216-o-chem-parlamentskie\" target=\"_blank\" rel=\"noopener noreferrer\">планирует</a> <a href=\"https://www.vedomosti.ru/politics/articles/2026/01/22/1171216-o-chem-parlamentskie%22%20%5Co%20%22https://www.vedomosti.ru/politics/articles/2026/01/22/1171216-o-chem-parlamentskie\" target=\"_blank\" rel=\"noopener noreferrer\">обсудить</a> налоговые изменения 2025: <br>«Мы приняли решение об организации парламентского мониторинга адаптации бизнеса к новым налоговым условиям. В связи с этим будем предметно обсуждать механизмы своевременной поддержки тех, кто нуждается в помощи, тех, кто вкладывается в высокотехнологичное оборудование, и тех, кто демонстрирует рост».<br> <br>📍 В регионах <br><br>🔴В 2025 г. в специальные административные районы (САР) <a href=\"https://iz.ru/2029680/2026-01-23/v-2025-godu-v-sar-pereekhali-135-kompanii%22%20%5Co%20%22https://iz.ru/2029680/2026-01-23/v-2025-godu-v-sar-pereekhali-135-kompanii\" target=\"_blank\" rel=\"noopener noreferrer\">переехали</a> 135 организаций: 103 компании зарегистрированы на острове Октябрьском, 32 — на острове Русском. <br>В 2024 г. в «российских офшорах» числилось 190 новых предприятий.<br><br>🔴Стало известно, что в <a href=\"https://www.nalog.gov.ru/html/sites/www.rn63.nalog.ru/Dokum/Pamatka.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">пилотном проекте ФНС России по привлечению медиаторов</a> при урегулировании разногласий, возникающих в налоговых правоотношениях, участвуют 8 УФНС и 3 МИ ФНС:<br>В состав рабочей группы вошли УФНС России по Республике Марий Эл, по Удмуртской и Чувашской республикам, по Московской, Пензенской, Самарской и Саратовской областям, по Пермскому краю, а также МИ ФНС России по Северо-Западному, Центральному и Приволжскому федеральным округам. <br>❗️Новости УФНС и комментарий эксперта ПГ о налоговой медиации — сегодня позже.<br><br>#главные_налоговые_новости",
-      "views": 1430,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2413-1-263ebe836008-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2413-1-263ebe836008-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2413",
       "forwarded_from": null
     }
   ]
