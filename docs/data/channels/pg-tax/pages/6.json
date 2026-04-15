@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-15T06:25:04.083513+00:00",
+  "generated_at": "2026-04-15T08:15:04.427381+00:00",
   "pagination": {
     "page": 6,
     "page_size": 16,
@@ -7,6 +7,24 @@
     "total_pages": 12
   },
   "posts": [
+    {
+      "id": 2502,
+      "date": "2026-03-03T07:45:10+00:00",
+      "text": "✍️ Нормативное регулирование\n \nМинфин России внес в Правительство РФ поправки в НК РФ, которые позволят сохранить доступ к отдельным мерам поддержки МСП для плавной адаптации бизнеса к изменениям 2026 г. \n\nСреди предложений:\n     🔴освобождение от НДС услуг общественного питания (с 1 апреля по 31 декабря 2026 г.);\n     🔴право на вычеты НДС по товарам, работам, услугам и имущественным правам, не использованные при применении ПСН – для предпринимателей, утративших с 2026 г. право на применение «патента»;\n     🔴право уменьшить на сумму уплаченного НДС доходы по УСН, полученные в виде предварительной оплаты в период, когда еще не был плательщиком НДС – для «упрощенцев», которые с 2026 г. стали плательщиками НДС;\n     🔴право не учитывать доходы в виде процентов по вкладам и остатков на счетах в банках в РФ предпринимателями с доходами за 2025 год не выше 60 млн руб., утратившими с 2026 г. освобождение от НДС на УСН (такое же право – для ИП, утративших с 2026 г. право на ПСН);\n     🔴выбор системы налогообложения для предпринимателей, совмещавших ПСН с ОСНО, и совмещавших ПСН с УСН;\n     🔴упрощение порядка применения пониженных страховых взносов.\n \n⚙️ Практика\n \nМайнинг: обеление рынка продолжается.\nСмотрите видео по теме на сайте ФНС 👉\n\n#главные_налоговые_новости",
+      "text_html": "✍️ Нормативное регулирование<br> <br>Минфин России <a href=\"https://minfin.gov.ru/ru/press-center/?id_4=40208-predlozheno_smyagchit_perekhod_k_nalogovym_izmeneniyam_dlya_msp\" target=\"_blank\" rel=\"noopener noreferrer\">внес</a> в Правительство РФ поправки в НК РФ, которые <a href=\"https://www.vedomosti.ru/economics/articles/2026/03/02/1180087-minfin-predlozhil-popravki\" target=\"_blank\" rel=\"noopener noreferrer\">позволят</a> сохранить доступ к отдельным мерам поддержки МСП для плавной адаптации бизнеса к изменениям 2026 г. <br><br>Среди <a href=\"https://www.kommersant.ru/doc/8478469?query=%D0%BD%D0%B0%D0%BB%D0%BE%D0%B3\" target=\"_blank\" rel=\"noopener noreferrer\">предложений</a><a href=\"https://www.kommersant.ru/doc/8478469?query=%D0%BD%D0%B0%D0%BB%D0%BE%D0%B3\" target=\"_blank\" rel=\"noopener noreferrer\">:</a><br>     🔴<a href=\"https://rg.ru/2026/03/02/ekspert-ulianova-ob-idee-osvobodit-obshchepit-ot-nds-sohranit-zaniatost-v-otrasli.html\" target=\"_blank\" rel=\"noopener noreferrer\">освобождение</a> от НДС услуг общественного <a href=\"https://www.forbes.ru/finansy/556387-minfin-predlozil-vremenno-osvobodit-ot-uplaty-nds-restorany-i-kafe\" target=\"_blank\" rel=\"noopener noreferrer\">питания</a> (с 1 апреля по 31 декабря 2026 г.);<br>     🔴право на вычеты НДС по товарам, работам, услугам и имущественным правам, не использованные при применении ПСН – для предпринимателей, утративших с 2026 г. право на применение «патента»;<br>     🔴право уменьшить на сумму уплаченного НДС доходы по УСН, полученные в виде предварительной оплаты в период, когда еще не был плательщиком НДС – для «упрощенцев», которые с 2026 г. стали плательщиками НДС;<br>     🔴право не учитывать доходы в виде процентов по вкладам и остатков на счетах в банках в РФ предпринимателями с доходами за 2025 год не выше 60 млн руб., утратившими с 2026 г. освобождение от НДС на УСН (такое же право – для ИП, утративших с 2026 г. право на ПСН);<br>     🔴выбор системы налогообложения для предпринимателей, совмещавших ПСН с ОСНО, и совмещавших ПСН с УСН;<br>     🔴упрощение порядка применения пониженных страховых взносов.<br> <br>⚙️ Практика<br> <br>Майнинг: обеление рынка продолжается.<br>Смотрите <a href=\"https://www.nalog.gov.ru/rn77/news/smi/16605646/\" target=\"_blank\" rel=\"noopener noreferrer\">видео</a> по теме на сайте ФНС 👉<br><br>#главные_налоговые_новости",
+      "views": 1350,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2502-1-d4895fc81d32-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2502-1-d4895fc81d32-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/PG_Tax/2502",
+      "forwarded_from": null
+    },
     {
       "id": 2501,
       "date": "2026-03-02T13:05:47+00:00",
@@ -17,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2501-1-4c37fce3ed19-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2501-1-4c37fce3ed19-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2501-1-24275f80b5c9-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2501-1-24275f80b5c9-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +53,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2498-1-99b1c5ccc560-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2498-1-99b1c5ccc560-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2498-1-9afe9c10c1bf-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2498-1-9afe9c10c1bf-v4.jpg"
         }
       ],
       "video_url": null,
@@ -53,8 +71,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2497-1-9d62e4462ca5-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2497-1-9d62e4462ca5-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2497-1-022ffd0ad7e3-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2497-1-022ffd0ad7e3-v4.jpg"
         }
       ],
       "video_url": null,
@@ -71,8 +89,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2496-1-5a1c7b493afe-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2496-1-5a1c7b493afe-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2496-1-ada9e2a4efa6-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2496-1-ada9e2a4efa6-v4.jpg"
         }
       ],
       "video_url": null,
@@ -107,8 +125,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2494-1-f2aee8b842c4-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2494-1-f2aee8b842c4-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2494-1-9ea36153fe2b-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2494-1-9ea36153fe2b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -125,16 +143,16 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2491-1-59318509604c-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2491-1-59318509604c-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2491-1-c5b8c47689ab-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2491-1-c5b8c47689ab-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2491-2-d7114c0db39e-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2491-2-d7114c0db39e-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2491-2-3975b5e73d9d-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2491-2-3975b5e73d9d-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2491-3-1f14a2dd8fd7-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2491-3-1f14a2dd8fd7-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2491-3-e658d351555e-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2491-3-e658d351555e-v4.jpg"
         }
       ],
       "video_url": null,
@@ -151,8 +169,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2489-1-b805d3a6a85f-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2489-1-b805d3a6a85f-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2489-1-a5a5f4146bb3-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2489-1-a5a5f4146bb3-v4.jpg"
         }
       ],
       "video_url": null,
@@ -169,8 +187,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2488-1-24b9eec6f9df-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2488-1-24b9eec6f9df-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2488-1-443eb7b2c04c-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2488-1-443eb7b2c04c-v4.jpg"
         }
       ],
       "video_url": null,
@@ -187,8 +205,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2487-1-66dd881a9881-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2487-1-66dd881a9881-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2487-1-91c230ce6587-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2487-1-91c230ce6587-v4.jpg"
         }
       ],
       "video_url": null,
@@ -205,8 +223,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2486-1-ab98831748e5-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2486-1-ab98831748e5-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2486-1-37ff4b685335-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2486-1-37ff4b685335-v4.jpg"
         }
       ],
       "video_url": null,
@@ -223,8 +241,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2485-1-837839577f52-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2485-1-837839577f52-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2485-1-687cc75355a6-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2485-1-687cc75355a6-v4.jpg"
         }
       ],
       "video_url": null,
@@ -241,8 +259,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2484-1-9132925e4d41-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2484-1-9132925e4d41-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2484-1-f913f331565c-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2484-1-f913f331565c-v4.jpg"
         }
       ],
       "video_url": null,
@@ -259,8 +277,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2483-1-c2053d863d30-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2483-1-c2053d863d30-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2483-1-74269845a0da-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2483-1-74269845a0da-v4.jpg"
         }
       ],
       "video_url": null,
@@ -277,30 +295,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2482-1-a2e1e3758fad-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2482-1-a2e1e3758fad-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2482-1-5318c4ecec1c-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2482-1-5318c4ecec1c-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/PG_Tax/2482",
-      "forwarded_from": null
-    },
-    {
-      "id": 2481,
-      "date": "2026-02-20T13:06:02+00:00",
-      "text": "В нашей рубрике #обновление_сайта_Налоговед редактор журнала Маргарита Завязочникова рассказывает о материалах журнала, размещенных на сайте в открытом доступе.\n\n     ✔️ Опубликована информация о новых постановлениях и определениях КС РФ о налогах.\n\n     ✔️ В раздел сайта «Правовые позиции Верховного Суда РФ» добавлен материал по делу ООО «Стар Транс». \nℹ️ Налогоплательщик получил субсидию, когда недружественное государство изъяло у него имущество. Должна ли в такой ситуации сумма компенсации включаться во внереализационный доход в целях налогообложения? \nЭксперты «Пепеляев Групп» комментируют позицию Суда по этому вопросу.\n\n     ✔️ Обновилась информация о решениях судов ЕС по налогам 2025 года:\n🔴когда льгота по налогу на недвижимость может быть признана незаконной государственной помощью?\n🔴влияет ли сумма студенческого гранта на расчет вычета на иждивенца при исчислении подоходного налога?\n🔴можно ли квалифицировать налоговый вычет финансового гудвилла, возникающего при косвенном приобретении долей, как новую схему госпомощи и каковы последствия такой квалификации?\n🔴обязательно ли для целей освобождения дивидендов от налогообложения упоминание конкретного налога в Директиве о налогообложении материнских и дочерних компаний?\n\n📑 Полезного чтения!",
-      "text_html": "В нашей рубрике #обновление_сайта_Налоговед редактор журнала Маргарита Завязочникова рассказывает о материалах журнала, размещенных на сайте в открытом доступе.<br><br>     ✔️ <a href=\"https://nalogoved.ru/ks-rf-o/\" target=\"_blank\" rel=\"noopener noreferrer\">Опубликована</a> информация о новых постановлениях и определениях КС РФ о налогах.<br><br>     ✔️ В раздел сайта «Правовые позиции Верховного Суда РФ» <a href=\"https://nalogoved.ru/pravovie-pozitsii-vs/16115.html\" target=\"_blank\" rel=\"noopener noreferrer\">добавлен</a> материал по делу ООО «Стар Транс». <br>ℹ️ Налогоплательщик получил субсидию, когда недружественное государство изъяло у него имущество. Должна ли в такой ситуации сумма компенсации включаться во внереализационный доход в целях налогообложения? <br>Эксперты «Пепеляев Групп» комментируют позицию Суда по этому вопросу.<br><br>     ✔️ <a href=\"https://nalogoved.ru/resheniya-suda-es/\" target=\"_blank\" rel=\"noopener noreferrer\">Обновилась</a> информация о решениях судов ЕС по налогам 2025 года:<br>🔴когда льгота по налогу на недвижимость может быть признана незаконной государственной помощью?<br>🔴влияет ли сумма студенческого гранта на расчет вычета на иждивенца при исчислении подоходного налога?<br>🔴можно ли квалифицировать налоговый вычет финансового гудвилла, возникающего при косвенном приобретении долей, как новую схему госпомощи и каковы последствия такой квалификации?<br>🔴обязательно ли для целей освобождения дивидендов от налогообложения упоминание конкретного налога в Директиве о налогообложении материнских и дочерних компаний?<br><br>📑 Полезного чтения!",
-      "views": 1630,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2481-1-cb03655166aa-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2481-1-cb03655166aa-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2481",
       "forwarded_from": null
     }
   ]

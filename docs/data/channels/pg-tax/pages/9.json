@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-15T06:25:04.089862+00:00",
+  "generated_at": "2026-04-15T08:15:04.433169+00:00",
   "pagination": {
     "page": 9,
     "page_size": 16,
@@ -7,6 +7,24 @@
     "total_pages": 12
   },
   "posts": [
+    {
+      "id": 2448,
+      "date": "2026-02-06T13:01:45+00:00",
+      "text": null,
+      "text_html": null,
+      "views": 1510,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2448-1-8677e57d18cc-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2448-1-8677e57d18cc-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/PG_Tax/2448",
+      "forwarded_from": null
+    },
     {
       "id": 2447,
       "date": "2026-02-06T11:00:07+00:00",
@@ -17,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2447-1-ac7c69c94b42-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2447-1-ac7c69c94b42-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2447-1-cf3c260a94dd-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2447-1-cf3c260a94dd-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +53,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2446-1-68b57b386e36-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2446-1-68b57b386e36-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2446-1-617defcc58ea-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2446-1-617defcc58ea-v4.jpg"
         }
       ],
       "video_url": null,
@@ -53,8 +71,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2445-1-fb3b6fecb41a-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2445-1-fb3b6fecb41a-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2445-1-b8be232bf3b3-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2445-1-b8be232bf3b3-v4.jpg"
         }
       ],
       "video_url": null,
@@ -71,8 +89,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2444-1-cf73708bd1b6-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2444-1-cf73708bd1b6-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2444-1-63dfe4b4af0c-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2444-1-63dfe4b4af0c-v4.jpg"
         }
       ],
       "video_url": null,
@@ -88,7 +106,7 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/63e6f20f02.mp4?token=lNyZYTB0nA2Hmtm4kH5zyEm77E_uet97VBmjDbQLQgmtQS6UqUxLoU19QwylzHmyCpB3auKLNM1qPCrQan1AkDLXONZ0kskNhroV40Rjr02JF6WOLe9ZUzC8UxNoy98J3A3_Glss_88UCquQjGURKD3ISK4zuXn2MqeQQbv4Zo82v6b9RS_Rd83b2FAsv35cTL-s_RVIMdNi_ZOCl2gI2HTdrJwIqABu0bd3N9DK57YiNZg2je26UvhzhgZz52z7qYK1SKNYUshOnGEXcnYAPwolzAA1IOUO7WpIhYJcrpo90ddXsHo98Lon-N_v2FxJobiZxuMui2bSAbttrQaOQA",
+      "video_url": "https://cdn4.telesco.pe/file/63e6f20f02.mp4?token=L9Ixtsz6GTR2dDvR89ZDZu2X7cR-omXmS5t1yXfI4b-mA0q302aNnSIG3sMirBjH1kPQggozZg4XIDDZt5LzFtdDCTnuvsbvpZPmOM3RNUiaKtfjlp7uL0UCGBkC8BL4hLYGZ8mICXYqO-TI_sLuuyu7ke_cyP8foGg-eRQcA9JC2xSnJluRJ9s-AfNjJjEcG8oO-Qiwrr5tM9Y1Cp4CCzx04CkwYTIepNr6YqUNhL80lyEOIjbOq69fgT5lgmFAQJaWwfd3ECgH7oOtBGuaUDUyj_4DNfQX5eM3Rr_Y-KyV9DwCjTu1stND8P_1UcdtCoFgPOwFydNdaARmemObRQ",
       "tg_url": "https://t.me/PG_Tax/2443",
       "forwarded_from": null
     },
@@ -102,8 +120,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2442-1-683b6cb0bed2-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2442-1-683b6cb0bed2-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2442-1-bf2ce1c0ecd8-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2442-1-bf2ce1c0ecd8-v4.jpg"
         }
       ],
       "video_url": null,
@@ -120,8 +138,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2441-1-1330f016afdd-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2441-1-1330f016afdd-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2441-1-5b094b4ef895-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2441-1-5b094b4ef895-v4.jpg"
         }
       ],
       "video_url": null,
@@ -138,8 +156,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2440-1-02fdde5be72f-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2440-1-02fdde5be72f-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2440-1-37802addc7ff-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2440-1-37802addc7ff-v4.jpg"
         }
       ],
       "video_url": null,
@@ -155,7 +173,7 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/4501c9f0fd.mp4?token=vwiNRJBfs0q8IWn02tCySslgKm_IImGilasUQ1OY9LMI2a_c4RhzrbuWJiSzI5xPbcFa-CWcgcAV1axha82siVpLmB7SQhA3Zb1S36brlV6sM_98Pt8QucffJ_3mqLsl9833Yan5SYCUshXIE7pfkCzVrVbfGLcttEeij3JIw3Lkvb7DhY2GX8mll-fzOHqFLhBEo-zMEls-Op8UN96zuSx89lOZpOABGLHi9fyt8yrEBozf7q0yty7t3zASUo0yCAWXOt0OL-5BNdChIx-XHn7oRi6b-Sn4WLhGIznms1htamyQbchk8uj1yBUtruRNtz-s9J-lDAs6PxJZ10XJYQ",
+      "video_url": "https://cdn4.telesco.pe/file/4501c9f0fd.mp4?token=bYsV6HVO-gr072g0oYWsC5E5tzovIRsNuInC5ny6ybPlZrht36WsnPCdpuNq0koEkGb1Len-2Am92FfbM4HdvlCLlPtKmNFAfkiaPyUPG8IfhvkJLikvsbuUzxLRnJKE_F0tXyp2PqoEfgqHIM-m4LEJg7wXwJUkZJ5ht6vKTRLzk3E-sxD-OTJGp3GgRUyBbWcZJ9HSI0Y-TXRZaPFSkajgybsF77yGvkmyd1YH1rpR4cmcrAQkAiGIG1eGiW21jw32T4TGi584ClIKKiBcsT8zwXaaNj6deetpWINAS0c1GNImaKXt0QQAz1rjVFvBDJ0P1I4GffoE4aSklZ6DkQ",
       "tg_url": "https://t.me/PG_Tax/2439",
       "forwarded_from": null
     },
@@ -169,8 +187,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2438-1-14f52b58cf9a-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2438-1-14f52b58cf9a-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2438-1-6bcbe2189f45-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2438-1-6bcbe2189f45-v4.jpg"
         }
       ],
       "video_url": null,
@@ -187,8 +205,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2437-1-d210e514eac6-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2437-1-d210e514eac6-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2437-1-331457a7e452-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2437-1-331457a7e452-v4.jpg"
         }
       ],
       "video_url": null,
@@ -205,8 +223,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2436-1-7d6a4a9e14e2-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2436-1-7d6a4a9e14e2-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2436-1-108e432ef309-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2436-1-108e432ef309-v4.jpg"
         }
       ],
       "video_url": null,
@@ -222,7 +240,7 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/67cfd21769.mp4?token=GMGQqKyFxhkI37TGV-_zj_KhUddynxoAofKGXCPkvMFl4p4jWHw0v-qE9y5Z3D8d4Jd2hYryAVtQRND9xgKedB6CaDZF7975G8G6N00vPLMgx0u18mAKMBbZovxhRfWKfVwE3Waror_XYFNVh6E40uXg7YscehNU0JOqNytmdT0jAm7_7MHJtawqNIhwmWzAM4asipZzAhIMhNZaQNVoZdq-m5-F13EjdkQ_DZXmCap-fCNHmCd_OOam7J3ybILGnm9wJeoaA8Bxi5dFjQeoAGCXSGZhcOwe-FzHnnULZUcyemS4RWs2CmasTnKZHqpw9cvAr0atGuBgfRWbir4XFw",
+      "video_url": "https://cdn4.telesco.pe/file/67cfd21769.mp4?token=bMzVaBl1m6NlN9w1VmtsuaLGvLj-3O5XsiPBiAEdW8KC-E6ifhVYkjmk2g01DMJTd9rYHzs17rdcQTEWlnWSL6igYKi7Ie3XdFjhJo0mzAZBNjJXwgojIuQS_gFnT2nmeYRcw67A1gvM00iDWcujOLLixfWg6_XkVKtYvLuq87U7nMrJZsQZYJQh5RFFqce8Wgnoao5BDDl0lbg5qETTrKikXktrE3tk0kBDpzpvQRkFI1tSBPEb3HlYopAWj7cN3H-7Bl7J8ElZwyLUJI7SLudKr4o1EVUVaDa2H4yf80uZQqLnC43VcZAPLi9H2ipT-k3zr1cc8QmcUKgfcFdEiA",
       "tg_url": "https://t.me/PG_Tax/2435",
       "forwarded_from": null
     },
@@ -236,8 +254,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2434-1-57bb9d29a85f-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2434-1-57bb9d29a85f-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2434-1-b9c019398515-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2434-1-b9c019398515-v4.jpg"
         }
       ],
       "video_url": null,
@@ -254,30 +272,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2433-1-2cfeb12e88a6-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2433-1-2cfeb12e88a6-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2433-1-00aa90c16a92-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2433-1-00aa90c16a92-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/PG_Tax/2433",
-      "forwarded_from": null
-    },
-    {
-      "id": 2432,
-      "date": "2026-02-02T08:09:00+00:00",
-      "text": "⚙️ Практика\n \n🔴Союз электронной торговли фиксирует обращения селлеров по поводу расхождений в налоговой отчетности. Ключевая проблема: отсутствие единообразного подхода отражения бонусных механик в налоговом учете. \n🛑 Напомним, что на прошлой неделе в СМИ сообщалось, что налоговые органы с 2025 г. доначисляют продавцам с маркетплейсов налоги на бонусные баллы, которые они получают от платформ  за участие в программах скидок.\n \n🔴Предприниматели, перешедшие на АУСН, сталкиваются с проблемой расчета налога.\nВ отличие от классической УСН, по которой предприниматель сам рассчитывает размер взносов, при АУСН показатель определяется автоматически — по данным, которые в налоговую передают банки, операторы фискальных данных и онлайн-кассы. А в этом и основная сложность: информация поступает с ошибками.\n \n🔴С 1 января российский бизнес перешел на новую ставку НДС, о том, что изменилось – в видео от ФНС России.\n \n🔴На начало 2025 г. численность участников ЭКГ-рейтинга составляла 6,85 млн пользователей, сегодня их количество увеличилось до 7,21 млн. \n«Такая тенденция отражает позитивные изменения в деловой среде и рост прозрачности рынка», - заявил зам. руководителя ФНС России Тимур Шиналиев. Он рассказал о новых показателях, которые должны дополнить ЭКГ-рейтинг в 2026 г. «…на первый план выходят не столько экономические или формально-бухгалтерские результаты, сколько реальные демографические, социальные и управленческие эффекты», - подчеркнул он.\n\n#главные_налоговые_новости\n\nНовости прошлой недели читайте на сайте ПГ 👉",
-      "text_html": "⚙️ Практика<br> <br>🔴Союз электронной торговли <a href=\"https://www.vedomosti.ru/business/news/2026/01/30/1172812-prodavtsi-marketpleisov-osparivayut\" target=\"_blank\" rel=\"noopener noreferrer\">фиксирует</a> обращения селлеров по поводу расхождений в налоговой отчетности. Ключевая проблема: отсутствие единообразного подхода отражения бонусных механик в налоговом учете. <br>🛑 Напомним, что на прошлой неделе в СМИ сообщалось, что налоговые органы с 2025 г. <a href=\"https://www.vedomosti.ru/economics/articles/2026/01/30/1172777-bonusnie-balli-prodavtsov-na-marketpleisah-nachali-oblagatsya-nalogom?utm_source=yxnews&amp;amp;utm_medium=desktop&amp;amp;utm_referrer=https%3A%2F%2Fdzen.ru%2Fnews%2Fstory%2F59238a1b-4b25-5eeb-a71a-cedc336997f9\" target=\"_blank\" rel=\"noopener noreferrer\">доначисляют</a> продавцам с маркетплейсов налоги на бонусные баллы, которые они получают от платформ  за участие в программах скидок.<br> <br>🔴Предприниматели, перешедшие на АУСН, <a href=\"https://www.forbes.ru/finansy/554530-biznes-stal-case-perehodit-na-ausn-s-kakimi-problemami-mozno-stolknut-sa\" target=\"_blank\" rel=\"noopener noreferrer\">сталкиваются</a> с проблемой расчета налога.<br>В отличие от классической УСН, по которой предприниматель сам рассчитывает размер взносов, при АУСН показатель определяется автоматически — по данным, которые в налоговую передают банки, операторы фискальных данных и онлайн-кассы. А в этом и основная сложность: информация поступает с ошибками.<br> <br>🔴С 1 января российский бизнес перешел на новую ставку НДС, о том, что изменилось – в <a href=\"https://www.nalog.gov.ru/rn77/news/activities_fts/16599483/\" target=\"_blank\" rel=\"noopener noreferrer\">видео</a> от ФНС России.<br> <br>🔴На начало 2025 г. численность участников ЭКГ-рейтинга составляла 6,85 млн пользователей, сегодня их количество увеличилось до 7,21 млн. <br>«Такая тенденция отражает позитивные изменения в деловой среде и рост прозрачности рынка», - <a href=\"https://www.nalog.gov.ru/rn77/news/activities_fts/16599349/\" target=\"_blank\" rel=\"noopener noreferrer\">заявил</a> зам. руководителя ФНС России Тимур Шиналиев. Он рассказал о новых показателях, которые должны дополнить ЭКГ-рейтинг в 2026 г. «…на первый план выходят не столько экономические или формально-бухгалтерские результаты, сколько реальные демографические, социальные и управленческие эффекты», - подчеркнул он.<br><br>#главные_налоговые_новости<br><br>Новости прошлой недели читайте <a href=\"https://www.pgplaw.ru/analytics-and-brochures/tax-reviews/tax-news-digest-02-02-26/\" target=\"_blank\" rel=\"noopener noreferrer\">на сайте</a> ПГ 👉",
-      "views": 1460,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2432-1-7c4840c18b1a-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2432-1-7c4840c18b1a-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2432",
       "forwarded_from": null
     }
   ]
