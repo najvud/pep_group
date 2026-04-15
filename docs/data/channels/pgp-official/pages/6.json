@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-15T09:52:32.819638+00:00",
+  "generated_at": "2026-04-15T10:50:05.455733+00:00",
   "pagination": {
     "page": 6,
     "page_size": 16,
-    "total_posts": 83,
+    "total_posts": 82,
     "total_pages": 6
   },
   "posts": [
@@ -47,24 +47,6 @@
         "channel_username": "PG_Tax",
         "channel_title": "PG Tax | Налоги"
       }
-    },
-    {
-      "id": 1666,
-      "date": "2026-01-15T10:02:27+00:00",
-      "text": "🏢 Еженедельная подборка обзоров от практик «Пепеляев Групп»\n\nВ одном месте – изменения в налоговом праве и в мире банкротства, актуальные новости для инвесторов в Сибири и на Дальнем Востоке, обзор законодательства и практики в сфере антикризисного регулирования, а также значимые новости телекоммуникаций.\n\n▫️ Банкротство: MustRead за 25 декабря 2025 г.  – 15 января 2026 г. Выпуск № 303\n\n▫️ Налоговые новости. Дайджест за 5–11 января 2026 г.\n\n▫️ Ограничения и меры поддержки для бизнеса: дайджест за 22 декабря 2025 г. – 11 января 2026 г.\n\n▫️ Телекоммуникации, медиа, IT, personal data. Дайджест за 25 ноября – 31 декабря 2025 г.\n\n▫️ СпецИнвестРежимы в Сибири и на Дальнем Востоке. Дайджест 1–11 января 2026 г.\n\nЧитайте также обзоры налоговой практики:\n\n🔘 Обзор статистики рассмотрения налоговых споров Верховным Судом РФ за 2025 год\n\n🔘 Налоговые НПА: обзор за 4 квартал 2025 г.\n\n#pg_обзоры_недели",
-      "text_html": "🏢 Еженедельная подборка обзоров от практик «Пепеляев Групп»<br><br>В одном месте – изменения в налоговом праве и в мире банкротства, актуальные новости для инвесторов в Сибири и на Дальнем Востоке, обзор законодательства и практики в сфере антикризисного регулирования, а также значимые новости телекоммуникаций.<br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/bankruptcy-must-read/bankruptcy-must-read-15-01-26/\" target=\"_blank\" rel=\"noopener noreferrer\">Банкротство: MustRead за 25 декабря 2025 г.  – 15 января 2026 г. Выпуск № 303</a><br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/tax-reviews/tax-news-digest-12-01-26/\" target=\"_blank\" rel=\"noopener noreferrer\">Налоговые новости. Дайджест за 5–11 января 2026 г.</a><br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/sanctions-support-digest/support-digest-12-01-26/\" target=\"_blank\" rel=\"noopener noreferrer\">Ограничения и меры поддержки для бизнеса: дайджест за 22 декабря 2025 г. – 11 января 2026 г.</a><br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/telecom-digest/telecom-digest-12-01-26/\" target=\"_blank\" rel=\"noopener noreferrer\">Телекоммуникации, медиа, IT, personal data. Дайджест за 25 ноября – 31 декабря 2025 г.</a><br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/spec-invest-obzor/invest-news-digest-26-01-12/\" target=\"_blank\" rel=\"noopener noreferrer\">СпецИнвестРежимы в Сибири и на Дальнем Востоке. Дайджест 1–11 января 2026 г.</a><br><br>Читайте также обзоры налоговой практики:<br><br>🔘 <a href=\"https://www.pgplaw.ru/analytics-and-brochures/tax-reviews/obzor-statistiki-rassmotreniya-nalogovykh-sporov-verkhovnym-sudom-rf-za-2025-god/\" target=\"_blank\" rel=\"noopener noreferrer\">Обзор статистики рассмотрения налоговых споров Верховным Судом РФ за 2025 год</a><br><br>🔘 <a href=\"https://www.pgplaw.ru/analytics-and-brochures/tax-reviews/taxes-legal-overview-04-25/\" target=\"_blank\" rel=\"noopener noreferrer\">Налоговые НПА: обзор за 4 квартал 2025 г.</a><br><br>#pg_обзоры_недели",
-      "views": 1090,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1666-1-32989247c284-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1666-1-32989247c284-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/pgp_official/1666",
-      "forwarded_from": null
     }
   ]
 }
