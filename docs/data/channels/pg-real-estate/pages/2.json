@@ -1,12 +1,35 @@
 {
-  "generated_at": "2026-04-15T11:44:30.073168+00:00",
+  "generated_at": "2026-04-15T12:51:38.318095+00:00",
   "pagination": {
     "page": 2,
     "page_size": 16,
-    "total_posts": 23,
+    "total_posts": 24,
     "total_pages": 2
   },
   "posts": [
+    {
+      "id": 211,
+      "date": "2026-02-09T14:50:01+00:00",
+      "text": "⚡️ Регистрация в апартаментах\n\nВладельцы апартаментов не могли в них зарегистрироваться по месту пребывания – правила предусматривали регистрацию только для жилья или гостиниц.\n\n🔘 КС РФ принял Постановление, которым разрешена временная регистрация граждан в апартаментах, сходных с квартирами и не входящих в номерной фонд гостиниц или иных средств размещения.\n\n\n❗️ Важно\n\nВажно учитывать Постановление КС РФ при проектировании апартаментов, поскольку акцент сделан на характеристиках, «сходных с квартирой» (изолированность, планировка, мини-кухня, санузел), которые будут проверять для регистрации. \n\nНеобходимо сформировать для каждого объекта и передавать покупателям пакет документов, подтверждающих пригодность здания и конкретного помещения для пребывания граждан (проектная декларация, особенности планировки), – они понадобятся для регистрации.\n\nПолный текст алерта доступен по ссылке 👉\n\nℹ️ Если у вас остались вопросы по данной теме, вы можете связаться с Сергеем Сосновским, партнером «Пепеляев Групп».\n\n#pg_алерты",
+      "text_html": "⚡️ Регистрация в апартаментах<br><br>Владельцы апартаментов не могли в них зарегистрироваться по месту пребывания – правила предусматривали регистрацию только для жилья или гостиниц.<br><br>🔘 КС РФ принял Постановление, которым разрешена временная регистрация граждан в апартаментах, сходных с квартирами и не входящих в номерной фонд гостиниц или иных средств размещения.<br><br><br>❗️ Важно<br><br>Важно учитывать Постановление КС РФ при проектировании апартаментов, поскольку акцент сделан на характеристиках, «сходных с квартирой» (изолированность, планировка, мини-кухня, санузел), которые будут проверять для регистрации. <br><br>Необходимо сформировать для каждого объекта и передавать покупателям пакет документов, подтверждающих пригодность здания и конкретного помещения для пребывания граждан (проектная декларация, особенности планировки), – они понадобятся для регистрации.<br><br>Полный текст алерта доступен <a href=\"https://www.pgplaw.ru/analytics-and-brochures/alerts/registratsiya-v-apartamentakh/\" target=\"_blank\" rel=\"noopener noreferrer\">по ссылке</a> 👉<br><br>ℹ️ Если у вас остались вопросы по данной теме, вы можете связаться с <a href=\"https://www.pgplaw.ru/to-get-the-team/sergey-sosnovskiy/\" target=\"_blank\" rel=\"noopener noreferrer\">Сергеем Сосновским</a>, партнером «Пепеляев Групп».<br><br>#pg_алерты",
+      "views": 1710,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-real-estate/media/posts/thumbs/211-1-bdedff08baeb-v4.jpg",
+          "full_url": "data/channels/pg-real-estate/media/posts/211-1-bdedff08baeb-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/PG_RealEstate/211",
+      "forwarded_from": {
+        "source_url": "https://t.me/pgp_official/1705",
+        "channel_url": "https://t.me/s/pgp_official",
+        "channel_username": "pgp_official",
+        "channel_title": "Pepeliaev Group | Пепеляев Групп"
+      }
+    },
     {
       "id": 210,
       "date": "2026-02-05T15:06:13+00:00",
@@ -17,8 +40,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-real-estate/media/posts/thumbs/210-1-4623691f5f9d-v4.jpg",
-          "full_url": "data/channels/pg-real-estate/media/posts/210-1-4623691f5f9d-v4.jpg"
+          "thumb_url": "data/channels/pg-real-estate/media/posts/thumbs/210-1-301d188c55ac-v4.jpg",
+          "full_url": "data/channels/pg-real-estate/media/posts/210-1-301d188c55ac-v4.jpg"
         }
       ],
       "video_url": null,
@@ -40,8 +63,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-real-estate/media/posts/thumbs/209-1-76f5d8a0ee05-v4.jpg",
-          "full_url": "data/channels/pg-real-estate/media/posts/209-1-76f5d8a0ee05-v4.jpg"
+          "thumb_url": "data/channels/pg-real-estate/media/posts/thumbs/209-1-c75e072fc5fe-v4.jpg",
+          "full_url": "data/channels/pg-real-estate/media/posts/209-1-c75e072fc5fe-v4.jpg"
         }
       ],
       "video_url": null,
@@ -58,8 +81,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-real-estate/media/posts/thumbs/208-1-11f0e0d8cc8a-v4.jpg",
-          "full_url": "data/channels/pg-real-estate/media/posts/208-1-11f0e0d8cc8a-v4.jpg"
+          "thumb_url": "data/channels/pg-real-estate/media/posts/thumbs/208-1-2dabecf858b5-v4.jpg",
+          "full_url": "data/channels/pg-real-estate/media/posts/208-1-2dabecf858b5-v4.jpg"
         }
       ],
       "video_url": null,
@@ -81,8 +104,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-real-estate/media/posts/thumbs/207-1-895588053923-v4.jpg",
-          "full_url": "data/channels/pg-real-estate/media/posts/207-1-895588053923-v4.jpg"
+          "thumb_url": "data/channels/pg-real-estate/media/posts/thumbs/207-1-ffb3bf16235c-v4.jpg",
+          "full_url": "data/channels/pg-real-estate/media/posts/207-1-ffb3bf16235c-v4.jpg"
         }
       ],
       "video_url": null,
@@ -99,8 +122,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-real-estate/media/posts/thumbs/206-1-58b9777ac0d6-v4.jpg",
-          "full_url": "data/channels/pg-real-estate/media/posts/206-1-58b9777ac0d6-v4.jpg"
+          "thumb_url": "data/channels/pg-real-estate/media/posts/thumbs/206-1-92754f4c2401-v4.jpg",
+          "full_url": "data/channels/pg-real-estate/media/posts/206-1-92754f4c2401-v4.jpg"
         }
       ],
       "video_url": null,
@@ -122,8 +145,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-real-estate/media/posts/thumbs/205-1-8b6096cd4ed9-v4.jpg",
-          "full_url": "data/channels/pg-real-estate/media/posts/205-1-8b6096cd4ed9-v4.jpg"
+          "thumb_url": "data/channels/pg-real-estate/media/posts/thumbs/205-1-eb8e7a61d09d-v4.jpg",
+          "full_url": "data/channels/pg-real-estate/media/posts/205-1-eb8e7a61d09d-v4.jpg"
         }
       ],
       "video_url": null,
