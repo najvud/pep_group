@@ -1,12 +1,66 @@
 {
-  "generated_at": "2026-04-16T06:19:10.259541+00:00",
+  "generated_at": "2026-04-16T08:10:36.602095+00:00",
   "pagination": {
     "page": 3,
     "page_size": 16,
-    "total_posts": 41,
+    "total_posts": 42,
     "total_pages": 3
   },
   "posts": [
+    {
+      "id": 1339,
+      "date": "2026-02-06T08:51:11+00:00",
+      "text": "⚡️ФАС направила запросы о ценообразовании на рынках агропромышленного комплекса\n\nЗапросы ФАС не формальность и не переписка для галочки. Ошибки в ответе часто становятся основанием для проверки, дела и штрафа. \n\nВ карточках типовые ситуации, которые нельзя допускать, и бонус.\n\n🥇 Золотое правило: ответ на запрос ФАС – ваша первая и крайне важная возможность аргументировать свою позицию до возбуждения дела. Отнеситесь к его подготовке максимально ответственно и профессионально.",
+      "text_html": "⚡️ФАС направила запросы о ценообразовании на рынках агропромышленного комплекса<br><br>Запросы ФАС не формальность и не переписка для галочки. Ошибки в ответе часто становятся основанием для проверки, дела и штрафа. <br><br>В карточках типовые ситуации, которые нельзя допускать, и бонус.<br><br>🥇 Золотое правило: ответ на запрос ФАС – ваша первая и крайне важная возможность аргументировать свою позицию до возбуждения дела. Отнеситесь к его подготовке максимально ответственно и профессионально.",
+      "views": 2280,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1339-1-dd8d056916e0-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1339-1-dd8d056916e0-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1339-2-d8109a4e123e-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1339-2-d8109a4e123e-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1339-3-a26341ec27d9-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1339-3-a26341ec27d9-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1339-4-a2c47f2d0c27-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1339-4-a2c47f2d0c27-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1339-5-f91e81e12d83-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1339-5-f91e81e12d83-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1339-6-c9cd537cc6f0-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1339-6-c9cd537cc6f0-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1339-7-ad3af74513d4-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1339-7-ad3af74513d4-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1339-8-5829260fe117-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1339-8-5829260fe117-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1339-9-a3472592d939-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1339-9-a3472592d939-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1339-10-5dabcd1666e0-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1339-10-5dabcd1666e0-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/PgAntitrust/1339",
+      "forwarded_from": null
+    },
     {
       "id": 1338,
       "date": "2026-02-03T08:00:02+00:00",
@@ -30,8 +84,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1337-1-4eaa080cd885-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1337-1-4eaa080cd885-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1337-1-d67563a7e907-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1337-1-d67563a7e907-v4.jpg"
         }
       ],
       "video_url": null,
@@ -48,8 +102,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1336-1-6cae6b87ae80-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1336-1-6cae6b87ae80-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1336-1-adce292148a2-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1336-1-adce292148a2-v4.jpg"
         }
       ],
       "video_url": null,
@@ -66,8 +120,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1335-1-9241e9e54ccc-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1335-1-9241e9e54ccc-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1335-1-4fe69b70b423-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1335-1-4fe69b70b423-v4.jpg"
         }
       ],
       "video_url": null,
@@ -84,8 +138,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1334-1-76d805121ece-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1334-1-76d805121ece-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1334-1-7f9ea31327b4-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1334-1-7f9ea31327b4-v4.jpg"
         }
       ],
       "video_url": null,
@@ -102,8 +156,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1333-1-1f2696551509-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1333-1-1f2696551509-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1333-1-90980afdbcd6-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1333-1-90980afdbcd6-v4.jpg"
         }
       ],
       "video_url": null,
@@ -119,7 +173,7 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/63c4eb44f3.mp4?token=omssGTy2gwYcJUm9hC3Wn-nn0jajMyWOPH0-jVV4iNEpR_Oh93R0WnTeKc9kCr6JemaQI_vScNx2ACh4M3dQRcjJQIm2WIRszLB2L2W6sZqczTJF3OHcckRfDjjhrzl_SvLqRuWn8gpLbvTwF6xNl0WFMwxTxLuJ0kS6w4lBC2q4idYCBeJs8ApEpQRsYo2_alX19-a5EpgIjKMADMOzG1tMRM3yro3afJ5FwafMF9JeFz_OqQd0ltAVQVHb1847eE31uN3EvlaJ-lxVS-Az3Lz6wXQ4-ug2zGkiJzivtop6FZz2QU2V02pWTI_x_E8S-1I3kUteWV3EF76Wdo4OJA",
+      "video_url": "https://cdn4.telesco.pe/file/63c4eb44f3.mp4?token=DGxQo6Y49dTyOY81MZsfjOH2lqfd3ZQSVN-6UnqRzxYpHPrTzcCDjO4I-Lftd3NwHodc6mRUAwvCXDNxPPtIev0qayRQzbmCxz3KPMhNmHxk8zQBlspi6IToarEPZ8vxefxnZDRGlBMLeTN3uEBZuoTHGV7Mf8q2f1JstuC5INzu7x1V-z7NGMDH7WdptMzGYpRxZ2pOag7F_Wg61-UoKW-eCSXlm4Djo8eTpb9XNU6WiUHRy2b9JqF2TUkmL18khwgKjdEPsC1LWz94KQ4JNSo1_3Ezb8tQvqGPT_BhpYQZWPkPhkbfFWrUEPsRJPbnDp_dRoQOTGcJP-eV6K3k_Q",
       "tg_url": "https://t.me/PgAntitrust/1329",
       "forwarded_from": null
     },
@@ -133,8 +187,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1328-1-8d89af03fb49-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1328-1-8d89af03fb49-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1328-1-6bdca2755c7c-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1328-1-6bdca2755c7c-v4.jpg"
         }
       ],
       "video_url": null,
@@ -151,8 +205,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1326-1-17e26a144159-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1326-1-17e26a144159-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1326-1-82be97112ebe-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1326-1-82be97112ebe-v4.jpg"
         }
       ],
       "video_url": null,
