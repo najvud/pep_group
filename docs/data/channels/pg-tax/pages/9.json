@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-04-16T11:51:45.430827+00:00",
+  "generated_at": "2026-04-16T12:58:11.215503+00:00",
   "pagination": {
     "page": 9,
     "page_size": 16,
-    "total_posts": 180,
+    "total_posts": 181,
     "total_pages": 12
   },
   "posts": [
+    {
+      "id": 2453,
+      "date": "2026-02-09T13:35:29+00:00",
+      "text": null,
+      "text_html": null,
+      "views": 1390,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [],
+      "video_url": "https://cdn4.telesco.pe/file/90a830aa1a.mp4?token=sX_aZhtMz4aH2sY9MYa5_cxkCCAN9L1UHecJJ_626XOuWTtFfKP36TwiED8iJztbgcWUhzY6bRcj4qwnecsinykK2aGldU4GtD7z1COLtd94x29E3Vi8oEFBYY2GjXlBuVANIz77AZhfHaf6eH59CDLsX9K1xOG5Z6NyRsrYbx1rjfaDIBkPyRqUVS19y6Ys3pOQ1cIpPq3pTw6vf3N_OpsHcRlxhZGB8eKhCgeWTg33C1z9Ge0tqGVKfYrx2CcnUqXg4GL1XScUcgFWiUZmfWv3LLavlcGn2cLhELA2D8C1oIN6cAD36fgdPHYlVDKNGZV3mLxoL07QTRe4fzjO_Q",
+      "tg_url": "https://t.me/PG_Tax/2453",
+      "forwarded_from": null
+    },
     {
       "id": 2452,
       "date": "2026-02-09T13:33:53+00:00",
@@ -17,8 +30,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2452-1-6b2408f1af57-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2452-1-6b2408f1af57-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2452-1-e6f470f8d923-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2452-1-e6f470f8d923-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +48,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2451-1-73b3b16bb546-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2451-1-73b3b16bb546-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2451-1-2dafdd7d4259-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2451-1-2dafdd7d4259-v4.jpg"
         }
       ],
       "video_url": null,
@@ -70,7 +83,7 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/a9db42e7e0.mp4?token=Zmf1EliIQTLxc6gJPF2LbNeIAng7P0LgzvLczwekFX14ENFGsYL28omecD38khDyhgmEPpXGq4Jqaas60NbybfEsD54yGeX9R19oWyba55OmNsJzJmy1suQBcZ8vC8p7Z3Cdsr1u2zTkb8ZxAkeCODhaqGNaQp3GbYV3k_B8Vcl3DGWJDkv4UxQwSJiClyVAQUV2s62Spa7yuXlk_-QZUSK-UyPQCi0TlFntDZcZHtmpCW778zRtndwFP2vxD0BOwLUYU9heQKzovEU1yzQGZ8MAV58klG2h8ftBXmY73N8R3z1k7cC9kn2PZI0cVmM3kdP1lmx5x7orziliV_doTA",
+      "video_url": "https://cdn4.telesco.pe/file/a9db42e7e0.mp4?token=kOdCYnEaYSjcyw6gmpOFoNCLYaBjAdPnk4J0JBPcggrY5aLZYuZ-88H5m9oWEBLxxnw4zJFnVwWDotsryVRCPI2DG-KCW9YbeVhdvqtmnk_YgPgOE6Y1qK2f3T0oA_jKA5uSNmBGURWVX0n0QqNxs2zTObGHrlszgMgnGJEpbN2KnrCkwQqLzHqmGv5rdKVdmCuSsZTA_UsGdqhNU_pJ2lRqSXfn3CytqSFhw4fUBdwLhyNLiiQR7DvRvYnFux0vaz9lFSzpbs5JUlLF8r1AypY1eJTsfQkkELRfybF86FUswgdMFSiF7PyLYE-L1-fWa17VHq0fF4BobNpKeV4sSw",
       "tg_url": "https://t.me/PG_Tax/2449",
       "forwarded_from": null
     },
@@ -84,8 +97,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2448-1-00808a3c48e9-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2448-1-00808a3c48e9-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2448-1-87489d8d0cfd-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2448-1-87489d8d0cfd-v4.jpg"
         }
       ],
       "video_url": null,
@@ -138,8 +151,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2445-1-550e0b3a57fa-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2445-1-550e0b3a57fa-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2445-1-aa8a33c34637-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2445-1-aa8a33c34637-v4.jpg"
         }
       ],
       "video_url": null,
@@ -156,8 +169,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2444-1-b89776186b1d-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2444-1-b89776186b1d-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2444-1-02df94af3ac0-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2444-1-02df94af3ac0-v4.jpg"
         }
       ],
       "video_url": null,
@@ -173,7 +186,7 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/63e6f20f02.mp4?token=Y06lHObr0PE88SUhx8fK5VN1uXNq5acIU6wN4_NCFXIrkWkqjPcBZm_upEqj7DKP5E3LnuZNSbWfWBKsq2-3_GOmY8_-aCxGE9cJ4-g-9lwpC6lC0ioPFq3ZhY8o7kEcJWnTZJDmqXZstnRnen3l2wOBHqmC5-tNsXBsllwiRztdJ-T2L2l5Wo1wjvWNFAwX9Pyam0vo_r_FnMchG-L4XmEqICrh8xLNaDSxfBGbONjDj_xpcoE46U8BmLrOBB0qWAB_iBl0F3wRNvjpGxH8C3cisBXHq_aBmZ1h-tu0ubgMCNUQGlAU7bDSZrynwQ-NwmlGmckuobLivYmMimp05g",
+      "video_url": "https://cdn4.telesco.pe/file/63e6f20f02.mp4?token=iw6X4_ZtZ3lJYtB9byEXooBhyLwmK3JUhJPUE-uRduimKbM3E7CEpNo-PGqJRrhLLsKtchMRot4J4n5usVcoXi-N5lWrKBp3TaQnNNPz6EfzT_QvBFmDNqXRZMCpcowPLtld511wZdimhWctAQIjPEq81PFtd6kB6COFZVXj5O3px3yUPGHWWZoFE71E8irvTWkhprbvvMHfS2wFQTQPSFLy1LrRBR3eTjCE3taESLCuYhXvPTO-vchw-4MRvtf40ltReGzFetLzw3p6ZLbxN1B_a-3bhXG7HBY-ZWFUrImkeD2tdWqwsSdce-Dd_Ku2J4WHMWiAnldtCaG1gYe88w",
       "tg_url": "https://t.me/PG_Tax/2443",
       "forwarded_from": null
     },
@@ -187,8 +200,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2442-1-00714b6ff197-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2442-1-00714b6ff197-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2442-1-ef5636f16dbd-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2442-1-ef5636f16dbd-v4.jpg"
         }
       ],
       "video_url": null,
@@ -205,8 +218,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2441-1-87bb53ff9564-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2441-1-87bb53ff9564-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2441-1-1b97439ee0c5-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2441-1-1b97439ee0c5-v4.jpg"
         }
       ],
       "video_url": null,
@@ -223,8 +236,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2440-1-829f195ee381-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2440-1-829f195ee381-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2440-1-213ca7d21031-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2440-1-213ca7d21031-v4.jpg"
         }
       ],
       "video_url": null,
@@ -240,7 +253,7 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/4501c9f0fd.mp4?token=nl4j55scziEaQL6kFXEKGyP4ABT_h4hTdpS5SmwabhU5ooFlxzSLEDI52DCzS2tNtFdmX887oh9J56GVMWB-6MknTTQ7q9Ac44Jx9aNLFC3RGvFFeT3zY2rwvGZEYlwMp5pyWyBoe_5XM2Gp4vqxsqKoRFw0PZNefCy8CEMKQGXKqbA7QBL0b-1zoojagiHSdLcCFjXXqzujUVWCnlmwDMcm6q4kKDEt7zEYFzFkFYvOf1xMxp6pbq6huvI9GHxM1UzMIDUyMJviU25pFWUWZ0d3GOQR6FVpC2_0ZisOqstiSBFdMT7Wm0p2FY20KAjg2lugeQ8n_Nz5k1-82TNkZA",
+      "video_url": "https://cdn4.telesco.pe/file/4501c9f0fd.mp4?token=gObEhOB0O1ExWJgnEvcmnv4Hf_1mbV49BSazQxi59MED8UNtUiv-Ff4ZBPQvZ0PIorhJDPgO6TQkqTi8GGq-z82SH2QdV1sSOPolokiIhbuAXccRpUwmwOwVEK3lcWOTmUAQthiNp8zUKF4cowVY1BylVp-_qb5RsjCu8EhsIrS8b1OOHPtNC2hVWkIMXTNKfy-92RhimJtpY_J1VlhUf7RGyf-8e52vykfnKx_TWcXIU2aNWG_Y3ZIP-mLaDAE8hmELgFWm3tVK3iyqyK5tS9QJFaftQHccV9JgSqmDleIdD0UB9vQhYrvQBAlmaiCY-TzoOCV28hVsJyhEtoAZXw",
       "tg_url": "https://t.me/PG_Tax/2439",
       "forwarded_from": null
     },
@@ -254,30 +267,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2438-1-f2ea32947512-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2438-1-f2ea32947512-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2438-1-7b58793d7e10-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2438-1-7b58793d7e10-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/PG_Tax/2438",
-      "forwarded_from": null
-    },
-    {
-      "id": 2437,
-      "date": "2026-02-03T10:00:01+00:00",
-      "text": "⚡️ Исключение ст. 199.2 УК из сферы действия особого порядка\n\nВ продолжение предыдущего поста рубрики партнер «Пепеляев Групп» Леонид Кравчинский комментирует законопроект Минфина.\n\n💬 Минфин предложил исключить статью 199.2 «сокрытие денежных средств либо имущества …, за счет которых должно производиться взыскание налогов» (сокрытие имущества) из сферы действия особого порядка возбуждения дел по налоговым преступлениям (особый порядок). \n\n🔍 Особый порядок\n\nОсобый порядок означает, что следователь может возбудить дело о налоговом преступлении (сейчас это статьи 198, 199, 199.1 и 199.2):\n✔️ только на основании переданных налоговым органом материалов и\n✔️ только если в течение 75 рабочих дней после вступления в силу решения налогового органа обязанность по уплате недоимки, пени и штрафов не исполнена согласно НК РФ.\n\n✍️ Обоснование законопроекта\n\nВ качестве причины исключения авторы законопроекта пишут, что «налогового правонарушения, аналогичного деянию, ответственность за которое предусмотрена статьей 199.2 УК РФ, в НК РФ не содержится».\n\nНо действительно ли это так?\n\n❓ А если найду?\n\nКак оно вообще совершается – это «сокрытие денежных средств либо имущества …, за счет которых должно производиться взыскание налогов»?\n\nИзвестный способ его совершения - распорядительные письма об уплате.\nНалогоплательщик ничего не искажает в своих декларациях, но налоги не платит. \nСвоим должникам он направляет распорядительные письма, в которых просит их уплатить задолженность не ему на расчётный счёт (с которого она была бы списана в уплату налогов!), а напрямую его кредиторам.\n\n📣 В этом случае:\n     1️⃣налоговый орган в процессе взыскания налогов может наложить арест на дебиторскую задолженность (за счёт дебиторской задолженности может быть погашена налоговая задолженность);\n     2️⃣если налогоплательщик распорядится этой дебиторской задолженностью посредством распорядительных писем, он совершит правонарушение, предусмотренное статьей 125 НК РФ; \n     3️⃣в порядке статьи 101.4 НК РФ налоговый орган составит акт о выявленном правонарушении, в котором будет указана сумма сокрытых денежных средств, рассмотрит возражения налогоплательщика и вынесет решение;\n     4️⃣если налогоплательщик не исполнит обязанность по решению, налоговый орган передаст в следственные органы материалы в установленном ст. 32 НК РФ порядке, и \n     ▫️особый порядок соблюдён.\n\n☝️ Как видим, в НК есть правонарушение, после совершения которого налогоплательщика можно подозревать именно в сокрытии имущества. \n\n❓ А если не найду?\n\nПричина введения законодателем особого порядка состоит не в наличии в НК правонарушений, аналогичных деяниям, ответственность за которые предусмотрена в УК.\n\n⚖️ Конституционный Суд неоднократно указывал, что уголовное законодательство является по своей природе крайним (исключительным) средством, с помощью которого государство реагирует на факты противоправного поведения в целях охраны общественных отношений, если она не может быть обеспечена должным образом с помощью правовых норм иной отраслевой принадлежности. \n\nЗаконодатель ввёл особый порядок, желая дать налогоплательщику возможность урегулировать спорные вопросы с налоговым органом до передачи спора в сферу уголовной юстиции. \n\n☝️ По тяжести деяния, общественной опасности, причинению вреда статья 199.2 УК не отличается от иных налоговых составов УК, и отсутствуют основания для лишения при её применении гарантий, предоставленных законодателем для случаев совершения налоговых преступлений (тем более, что ст. 199.2 «выросла» в 2003 году из ст. 199 УК).\n\n🛡 Вывод\n\nДаже если в НК РФ, как полагают разработчики, отсутствует состав налогового правонарушения, способный обеспечить соблюдение особого порядка при квалификации по статье 199.2 УК РФ, решение может быть найдено в разработке нового налогового состава.\n\nНо решение никак не в прекращении действия особого порядка для статьи 199.2 УК РФ.\n\n#изменения_законодательства\n#заметки_защитника\n\n➖➖\n📧 Если Вы столкнулись с обвинением в сокрытии, или налоговая проверка грозит уголовным делом, обратитесь к Леониду Кравчинскому: l.kravchinsky@pgplaw.ru",
-      "text_html": "⚡️ Исключение ст. 199.2 УК из сферы действия особого порядка<br><br>В продолжение предыдущего <a href=\"https://t.me/PG_Tax/2427\" target=\"_blank\" rel=\"noopener noreferrer\">поста</a> рубрики партнер «Пепеляев Групп» <a href=\"https://www.pgplaw.ru/to-get-the-team/leonid-kravchinskiy/\" target=\"_blank\" rel=\"noopener noreferrer\">Леонид Кравчинский</a> комментирует <a href=\"https://minfin.gov.ru/ru/om/obs/npa_projects/?id_57=9749-o_vnesenii_izmenenii_v_statyu_78_ugolovnogo_kodeksa_rossiiskoi_federatsii_i_statyu_140_ugolovno-protsessualnogo_kodeksa_rossiiskoi_federatsii\" target=\"_blank\" rel=\"noopener noreferrer\">законопроект</a> Минфина.<br><br>💬 Минфин предложил исключить статью 199.2 «сокрытие денежных средств либо имущества …, за счет которых должно производиться взыскание налогов» (сокрытие имущества) из сферы действия особого порядка возбуждения дел по налоговым преступлениям (особый порядок). <br><br>🔍 Особый порядок<br><br>Особый порядок означает, что следователь может возбудить дело о налоговом преступлении (сейчас это статьи 198, 199, 199.1 и 199.2):<br>✔️ только на основании переданных налоговым органом материалов и<br>✔️ только если в течение 75 рабочих дней после вступления в силу решения налогового органа обязанность по уплате недоимки, пени и штрафов не исполнена согласно НК РФ.<br><br>✍️ Обоснование законопроекта<br><br>В качестве причины исключения авторы законопроекта пишут, что «налогового правонарушения, аналогичного деянию, ответственность за которое предусмотрена статьей 199.2 УК РФ, в НК РФ не содержится».<br><br>Но действительно ли это так?<br><br>❓ А если найду?<br><br>Как оно вообще совершается – это «сокрытие денежных средств либо имущества …, за счет которых должно производиться взыскание налогов»?<br><br>Известный способ его совершения - распорядительные письма об уплате.<br>Налогоплательщик ничего не искажает в своих декларациях, но налоги не платит. <br>Своим должникам он направляет распорядительные письма, в которых просит их уплатить задолженность не ему на расчётный счёт (с которого она была бы списана в уплату налогов!), а напрямую его кредиторам.<br><br>📣 В этом случае:<br>     1️⃣налоговый орган в процессе взыскания налогов может наложить арест на дебиторскую задолженность (за счёт дебиторской задолженности может быть погашена налоговая задолженность);<br>     2️⃣если налогоплательщик распорядится этой дебиторской задолженностью посредством распорядительных писем, он совершит правонарушение, предусмотренное статьей 125 НК РФ; <br>     3️⃣в порядке статьи 101.4 НК РФ налоговый орган составит акт о выявленном правонарушении, в котором будет указана сумма сокрытых денежных средств, рассмотрит возражения налогоплательщика и вынесет решение;<br>     4️⃣если налогоплательщик не исполнит обязанность по решению, налоговый орган передаст в следственные органы материалы в установленном ст. 32 НК РФ порядке, и <br>     ▫️особый порядок соблюдён.<br><br>☝️ Как видим, в НК есть правонарушение, после совершения которого налогоплательщика можно подозревать именно в сокрытии имущества. <br><br>❓ А если не найду?<br><br>Причина введения законодателем особого порядка состоит не в наличии в НК правонарушений, аналогичных деяниям, ответственность за которые предусмотрена в УК.<br><br>⚖️ Конституционный Суд неоднократно указывал, что уголовное законодательство является по своей природе крайним (исключительным) средством, с помощью которого государство реагирует на факты противоправного поведения в целях охраны общественных отношений, если она не может быть обеспечена должным образом с помощью правовых норм иной отраслевой принадлежности. <br><br>Законодатель ввёл особый порядок, желая дать налогоплательщику возможность урегулировать спорные вопросы с налоговым органом до передачи спора в сферу уголовной юстиции. <br><br>☝️ По тяжести деяния, общественной опасности, причинению вреда статья 199.2 УК не отличается от иных налоговых составов УК, и отсутствуют основания для лишения при её применении гарантий, предоставленных законодателем для случаев совершения налоговых преступлений (тем более, что ст. 199.2 «выросла» в 2003 году из ст. 199 УК).<br><br>🛡 Вывод<br><br>Даже если в НК РФ, как полагают разработчики, отсутствует состав налогового правонарушения, способный обеспечить соблюдение особого порядка при квалификации по статье 199.2 УК РФ, решение может быть найдено в разработке нового налогового состава.<br><br>Но решение никак не в прекращении действия особого порядка для статьи 199.2 УК РФ.<br><br>#изменения_законодательства<br>#заметки_защитника<br><br>➖➖<br>📧 Если Вы столкнулись с обвинением в сокрытии, или налоговая проверка грозит уголовным делом, обратитесь к Леониду Кравчинскому: l.kravchinsky@pgplaw.ru",
-      "views": 1660,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2437-1-9cb5e57fa3ec-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2437-1-9cb5e57fa3ec-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2437",
       "forwarded_from": null
     }
   ]
