@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-16T12:58:18.526815+00:00",
+  "generated_at": "2026-04-16T14:59:58.507026+00:00",
   "pagination": {
     "page": 2,
     "page_size": 16,
-    "total_posts": 25,
+    "total_posts": 24,
     "total_pages": 2
   },
   "posts": [
@@ -17,8 +17,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-real-estate/media/posts/thumbs/212-1-a9ab4b3fc94b-v4.jpg",
-          "full_url": "data/channels/pg-real-estate/media/posts/212-1-a9ab4b3fc94b-v4.jpg"
+          "thumb_url": "data/channels/pg-real-estate/media/posts/thumbs/212-1-8e977a44b6a5-v4.jpg",
+          "full_url": "data/channels/pg-real-estate/media/posts/212-1-8e977a44b6a5-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-real-estate/media/posts/thumbs/211-1-d63e26680d72-v4.jpg",
-          "full_url": "data/channels/pg-real-estate/media/posts/211-1-d63e26680d72-v4.jpg"
+          "thumb_url": "data/channels/pg-real-estate/media/posts/thumbs/211-1-97894be3008c-v4.jpg",
+          "full_url": "data/channels/pg-real-estate/media/posts/211-1-97894be3008c-v4.jpg"
         }
       ],
       "video_url": null,
@@ -58,8 +58,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-real-estate/media/posts/thumbs/210-1-c984c658428e-v4.jpg",
-          "full_url": "data/channels/pg-real-estate/media/posts/210-1-c984c658428e-v4.jpg"
+          "thumb_url": "data/channels/pg-real-estate/media/posts/thumbs/210-1-d324eedd47f4-v4.jpg",
+          "full_url": "data/channels/pg-real-estate/media/posts/210-1-d324eedd47f4-v4.jpg"
         }
       ],
       "video_url": null,
@@ -81,8 +81,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-real-estate/media/posts/thumbs/209-1-a66ae52d710b-v4.jpg",
-          "full_url": "data/channels/pg-real-estate/media/posts/209-1-a66ae52d710b-v4.jpg"
+          "thumb_url": "data/channels/pg-real-estate/media/posts/thumbs/209-1-e4e47898ee69-v4.jpg",
+          "full_url": "data/channels/pg-real-estate/media/posts/209-1-e4e47898ee69-v4.jpg"
         }
       ],
       "video_url": null,
@@ -99,8 +99,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-real-estate/media/posts/thumbs/208-1-b59bdeeba972-v4.jpg",
-          "full_url": "data/channels/pg-real-estate/media/posts/208-1-b59bdeeba972-v4.jpg"
+          "thumb_url": "data/channels/pg-real-estate/media/posts/thumbs/208-1-35916be1d3aa-v4.jpg",
+          "full_url": "data/channels/pg-real-estate/media/posts/208-1-35916be1d3aa-v4.jpg"
         }
       ],
       "video_url": null,
@@ -122,8 +122,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-real-estate/media/posts/thumbs/207-1-12790bd2bed3-v4.jpg",
-          "full_url": "data/channels/pg-real-estate/media/posts/207-1-12790bd2bed3-v4.jpg"
+          "thumb_url": "data/channels/pg-real-estate/media/posts/thumbs/207-1-93732fe4b79b-v4.jpg",
+          "full_url": "data/channels/pg-real-estate/media/posts/207-1-93732fe4b79b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -140,8 +140,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-real-estate/media/posts/thumbs/206-1-88432d4fd4bd-v4.jpg",
-          "full_url": "data/channels/pg-real-estate/media/posts/206-1-88432d4fd4bd-v4.jpg"
+          "thumb_url": "data/channels/pg-real-estate/media/posts/thumbs/206-1-69feafd57acd-v4.jpg",
+          "full_url": "data/channels/pg-real-estate/media/posts/206-1-69feafd57acd-v4.jpg"
         }
       ],
       "video_url": null,
@@ -163,25 +163,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-real-estate/media/posts/thumbs/205-1-0d66eee87ae5-v4.jpg",
-          "full_url": "data/channels/pg-real-estate/media/posts/205-1-0d66eee87ae5-v4.jpg"
+          "thumb_url": "data/channels/pg-real-estate/media/posts/thumbs/205-1-26e571ea8e97-v4.jpg",
+          "full_url": "data/channels/pg-real-estate/media/posts/205-1-26e571ea8e97-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/PG_RealEstate/205",
-      "forwarded_from": null
-    },
-    {
-      "id": 203,
-      "date": "2026-01-16T14:07:02+00:00",
-      "text": "🏭 Дело «Boomer vs. Cement Co.»: Нужно ли остановить цементный завод, если он мешает соседям жить?\n\nСегодня хотели бы рассказать про любопытный американский кейс 1970 года, который иллюстрирует, как суд может находить баланс между восстановлением прав отдельных лиц  и экономической целесообразностью для общества.\n\n📜 Фабула дела:\n\nГруппа владельцев недвижимости во главе с Оскаром Бумером подала в суд иск к собственнику расположенного по соседству цементного завода Atlantic Cement Company. Они доказали, что выбросы цементной пыли, дыма и вибрация от завода создают частное неудобство (private nuisance), нанося ущерб их собственности и ухудшая качество жизни.\n\n⚖️ Решение суда:\n\nСуд признал факт причинения вреда владельцам недвижимости.\n\nНо вместо того, чтобы принять решение о полном запрете деятельности цементного завода (что привело бы к его закрытию), суд поступил иначе.\n\nСуд постановил, что завод должен выплатить истцам «постоянные  убытки» (permanent damages) — единовременную сумму, покрывающую весь прошлый и будущий ущерб их имуществу. После выплаты этих денег судебный запрет снимался, и завод мог продолжить работу.\n\n💡 Правовая логика:\n\nСуд провёл «анализ затрат и выгод» (cost-benefit analysis):\n\nУщерб истцам был оценён в $185 000.\n\nИнвестиции в завод составляли $45+ миллионов, на нём работало более 350 человек.\n\nСуд счёл, что общественные издержки от закрытия завода (потеря инвестиций и рабочих мест) несопоставимо выше частного ущерба истцов. Поэтому справедливее обязать нарушителя полностью компенсировать вред, но не останавливать производство.\n\n📌 Почему это важно?\n\nЭто классический пример экономического подхода к праву (Law & Economics). Суд не стал применять «абсолютную» справедливость («если нарушаешь права — прекрати»), а нашёл компромисс, взвесив интересы всех сторон, включая общественные.\n\n🔍 А в России?\n\nТакого механизма, как постоянные убытки «permanent damages» нет. Однако в российском праве есть схожие инструменты.\n\nМожно взыскать убытки (ст. 15 ГК РФ) и потребовать прекращения деятельности, нарушающей право собственности (ст. 304, 1065 ГК РФ).\n\nПри этом нам неизвестно о случаях, когда российский суд, удовлетворив иск о прекращении  деятельности, нарушающей права истца, позволил бы ответчику «откупиться», уплатив убытки за прошлый и будущий период, и продолжить такую деятельность. \n\nХотя есть ситуации, в которых такое решение выглядело бы уместно. Например, при точечной застройке жители соседних домов часто страдают от шума, и вибрации, а в их доме могут появляться трещины. Но, суды чаще всего отклоняют иски жителей к застройщику под различными предлогами.",
-      "text_html": "🏭 Дело «Boomer vs. Cement Co.»: Нужно ли остановить цементный завод, если он мешает соседям жить?<br><br>Сегодня хотели бы рассказать про любопытный американский кейс 1970 года, который иллюстрирует, как суд может находить баланс между восстановлением прав отдельных лиц  и экономической целесообразностью для общества.<br><br>📜 Фабула дела:<br><br>Группа владельцев недвижимости во главе с Оскаром Бумером подала в суд иск к собственнику расположенного по соседству цементного завода Atlantic Cement Company. Они доказали, что выбросы цементной пыли, дыма и вибрация от завода создают частное неудобство (private nuisance), нанося ущерб их собственности и ухудшая качество жизни.<br><br>⚖️ Решение суда:<br><br>Суд признал факт причинения вреда владельцам недвижимости.<br><br>Но вместо того, чтобы принять решение о полном запрете деятельности цементного завода (что привело бы к его закрытию), суд поступил иначе.<br><br>Суд постановил, что завод должен выплатить истцам «постоянные  убытки» (permanent damages) — единовременную сумму, покрывающую весь прошлый и будущий ущерб их имуществу. После выплаты этих денег судебный запрет снимался, и завод мог продолжить работу.<br><br>💡 Правовая логика:<br><br>Суд провёл «анализ затрат и выгод» (cost-benefit analysis):<br><br>Ущерб истцам был оценён в $185 000.<br><br>Инвестиции в завод составляли $45+ миллионов, на нём работало более 350 человек.<br><br>Суд счёл, что общественные издержки от закрытия завода (потеря инвестиций и рабочих мест) несопоставимо выше частного ущерба истцов. Поэтому справедливее обязать нарушителя полностью компенсировать вред, но не останавливать производство.<br><br>📌 Почему это важно?<br><br>Это классический пример экономического подхода к праву (Law & Economics). Суд не стал применять «абсолютную» справедливость («если нарушаешь права — прекрати»), а нашёл компромисс, взвесив интересы всех сторон, включая общественные.<br><br>🔍 А в России?<br><br>Такого механизма, как постоянные убытки «permanent damages» нет. Однако в российском праве есть схожие инструменты.<br><br>Можно взыскать убытки (ст. 15 ГК РФ) и потребовать прекращения деятельности, нарушающей право собственности (ст. 304, 1065 ГК РФ).<br><br>При этом нам неизвестно о случаях, когда российский суд, удовлетворив иск о прекращении  деятельности, нарушающей права истца, позволил бы ответчику «откупиться», уплатив убытки за прошлый и будущий период, и продолжить такую деятельность. <br><br>Хотя есть ситуации, в которых такое решение выглядело бы уместно. Например, при точечной застройке жители соседних домов часто страдают от шума, и вибрации, а в их доме могут появляться трещины. Но, суды чаще всего отклоняют иски жителей к застройщику под различными предлогами.",
-      "views": 1840,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_RealEstate/203",
       "forwarded_from": null
     }
   ]

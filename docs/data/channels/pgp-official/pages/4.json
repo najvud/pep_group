@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-16T12:56:38.790703+00:00",
+  "generated_at": "2026-04-16T14:57:13.113124+00:00",
   "pagination": {
     "page": 4,
     "page_size": 16,
@@ -7,6 +7,29 @@
     "total_pages": 6
   },
   "posts": [
+    {
+      "id": 1733,
+      "date": "2026-02-25T07:35:14+00:00",
+      "text": "📌Юлия Литовцева, партнер и руководитель практики банкротства и антикризисной защиты бизнеса «Пепеляев Групп» примет участие в прямом эфире программы «ДЕНЬ» на РБК-ТВ, где обсудит тему раздела бизнеса.\n\nКлючевые тезисы:\n🔵Риски раздела бизнеса;\n🔵Фиктивные разводы как способ разделить бизнес и уйти от налогов;\n🔵Как защитить честно нажитый в браке бизнес.\n\nДата и время: сегодня, 11:10.\n\nСмотреть эфир на сайте РБК-ТВ.",
+      "text_html": "📌Юлия Литовцева, партнер и руководитель практики банкротства и антикризисной защиты бизнеса «Пепеляев Групп» примет участие в прямом эфире программы «ДЕНЬ» на РБК-ТВ, где обсудит тему раздела бизнеса.<br><br>Ключевые тезисы:<br>🔵Риски раздела бизнеса;<br>🔵Фиктивные разводы как способ разделить бизнес и уйти от налогов;<br>🔵Как защитить честно нажитый в браке бизнес.<br><br>Дата и время: сегодня, 11:10.<br><br>Смотреть эфир <a href=\"https://tv.rbc.ru/\" target=\"_blank\" rel=\"noopener noreferrer\">на сайте РБК-ТВ</a>.",
+      "views": 875,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1733-1-b29807e4933c-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1733-1-b29807e4933c-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/pgp_official/1733",
+      "forwarded_from": {
+        "source_url": "https://t.me/bankrotstvo_mustknow/411",
+        "channel_url": "https://t.me/s/bankrotstvo_mustknow",
+        "channel_username": "bankrotstvo_mustknow",
+        "channel_title": "Банкротство | Взгляд эксперта"
+      }
+    },
     {
       "id": 1727,
       "date": "2026-02-20T14:40:55+00:00",
@@ -17,24 +40,24 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1727-1-1fa2d3ad45a8-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1727-1-1fa2d3ad45a8-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1727-1-9da0e4291d0c-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1727-1-9da0e4291d0c-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1727-2-3f85b5e0fb50-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1727-2-3f85b5e0fb50-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1727-2-5b0b7494d206-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1727-2-5b0b7494d206-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1727-3-5d85577631b3-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1727-3-5d85577631b3-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1727-3-737c7e25f742-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1727-3-737c7e25f742-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1727-4-eb0f0b4b98c3-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1727-4-eb0f0b4b98c3-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1727-4-8e3fc5f3fb7b-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1727-4-8e3fc5f3fb7b-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1727-5-eefcaa9440d9-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1727-5-eefcaa9440d9-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1727-5-824001127de5-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1727-5-824001127de5-v4.jpg"
         }
       ],
       "video_url": null,
@@ -51,8 +74,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1726-1-f52113efef4d-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1726-1-f52113efef4d-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1726-1-994358840b07-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1726-1-994358840b07-v4.jpg"
         }
       ],
       "video_url": null,
@@ -64,13 +87,13 @@
       "date": "2026-02-19T10:34:38+00:00",
       "text": "🏢 Еженедельная подборка обзоров от практик «Пепеляев Групп»\n\nЧто изменилось за последнюю неделю, и на что стоит обратить внимание бизнесу?\n\n▫️ Налоговые новости. Дайджест за 9–15 февраля 2026 г.\n\n▫️ СпецИнвестРежимы в Сибири и на Дальнем Востоке. Дайджест 9–15 февраля 2026 г.\n\n▫️ Антимонопольные новости. Дайджест за 12 января – 11 февраля 2026 г.\n\n▫️ Банкротство: MustRead за 12–18 февраля 2026 г. Выпуск № 308\n\n#pg_обзоры_недели",
       "text_html": "🏢 Еженедельная подборка обзоров от практик «Пепеляев Групп»<br><br>Что изменилось за последнюю неделю, и на что стоит обратить внимание бизнесу?<br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/tax-reviews/tax-news-digest-16-02-26/\" target=\"_blank\" rel=\"noopener noreferrer\">Налоговые новости. Дайджест за 9–15 февраля 2026 г.</a><br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/spec-invest-obzor/invest-news-digest-26-02-16/\" target=\"_blank\" rel=\"noopener noreferrer\">СпецИнвестРежимы в Сибири и на Дальнем Востоке. Дайджест 9–15 февраля 2026 г.</a><br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/antitrust-reviews/antitrust-digest-26-02-17/\" target=\"_blank\" rel=\"noopener noreferrer\">Антимонопольные новости. Дайджест за 12 января – 11 февраля 2026 г.</a><br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/bankruptcy-must-read/bankruptcy-must-read-18-02-26/\" target=\"_blank\" rel=\"noopener noreferrer\">Банкротство: MustRead за 12–18 февраля 2026 г. Выпуск № 308</a><br><br>#pg_обзоры_недели",
-      "views": 986,
+      "views": 987,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1725-1-316dfff6a71e-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1725-1-316dfff6a71e-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1725-1-6b075ad260b2-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1725-1-6b075ad260b2-v4.jpg"
         }
       ],
       "video_url": null,
@@ -87,8 +110,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1724-1-c98526d14eb7-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1724-1-c98526d14eb7-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1724-1-0ecd6ed5f4d9-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1724-1-0ecd6ed5f4d9-v4.jpg"
         }
       ],
       "video_url": null,
@@ -105,8 +128,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1723-1-8613ebfa5e49-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1723-1-8613ebfa5e49-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1723-1-88f2ed91826e-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1723-1-88f2ed91826e-v4.jpg"
         }
       ],
       "video_url": null,
@@ -123,12 +146,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1721-1-bae65023c868-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1721-1-bae65023c868-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1721-1-e1ee1cbe0b93-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1721-1-e1ee1cbe0b93-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1721-2-13141849ceaa-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1721-2-13141849ceaa-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1721-2-18758b1375c9-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1721-2-18758b1375c9-v4.jpg"
         }
       ],
       "video_url": null,
@@ -145,8 +168,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1720-1-525f67840c27-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1720-1-525f67840c27-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1720-1-60dc8f31a785-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1720-1-60dc8f31a785-v4.jpg"
         }
       ],
       "video_url": null,
@@ -163,8 +186,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1719-1-db2a47557762-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1719-1-db2a47557762-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1719-1-8e9bd7ef0fbd-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1719-1-8e9bd7ef0fbd-v4.jpg"
         }
       ],
       "video_url": null,
@@ -181,8 +204,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1718-1-f0ea0caa3d12-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1718-1-f0ea0caa3d12-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1718-1-d6b94d6fcabe-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1718-1-d6b94d6fcabe-v4.jpg"
         }
       ],
       "video_url": null,
@@ -199,8 +222,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1717-1-3745319d2f8d-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1717-1-3745319d2f8d-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1717-1-db74e2ee4b51-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1717-1-db74e2ee4b51-v4.jpg"
         }
       ],
       "video_url": null,
@@ -217,8 +240,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1716-1-e7837f673650-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1716-1-e7837f673650-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1716-1-015346d3569b-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1716-1-015346d3569b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -235,44 +258,44 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-1-112f9b040f96-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1706-1-112f9b040f96-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-1-3763cf4f276f-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1706-1-3763cf4f276f-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-2-69c72406263a-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1706-2-69c72406263a-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-2-4fa97bed3de2-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1706-2-4fa97bed3de2-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-3-09fdfe252d09-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1706-3-09fdfe252d09-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-3-b4f19220d9d6-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1706-3-b4f19220d9d6-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-4-f35a0e4998ba-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1706-4-f35a0e4998ba-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-4-65079c7653e2-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1706-4-65079c7653e2-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-5-557d55316fc5-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1706-5-557d55316fc5-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-5-3a0a22400b45-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1706-5-3a0a22400b45-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-6-9c332d72798f-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1706-6-9c332d72798f-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-6-41f751cf322f-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1706-6-41f751cf322f-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-7-1c023f5765f5-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1706-7-1c023f5765f5-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-7-fb422630b2eb-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1706-7-fb422630b2eb-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-8-64cd71b7b1e4-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1706-8-64cd71b7b1e4-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-8-ce8f22a8067b-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1706-8-ce8f22a8067b-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-9-fb377952adab-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1706-9-fb377952adab-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-9-5ef29971ccc0-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1706-9-5ef29971ccc0-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-10-6d0725072ad4-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1706-10-6d0725072ad4-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-10-fe9487cfa07b-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1706-10-fe9487cfa07b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -294,8 +317,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1705-1-5fef650dbb5f-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1705-1-5fef650dbb5f-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1705-1-3a3e55648ab7-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1705-1-3a3e55648ab7-v4.jpg"
         }
       ],
       "video_url": null,
@@ -312,8 +335,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1704-1-9f6cc58c9790-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1704-1-9f6cc58c9790-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1704-1-0b7dd3ee19b3-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1704-1-0b7dd3ee19b3-v4.jpg"
         }
       ],
       "video_url": null,
@@ -330,34 +353,16 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1702-1-a589ba236d2f-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1702-1-a589ba236d2f-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1702-1-bff696caad01-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1702-1-bff696caad01-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1702-2-64cb4260f65d-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1702-2-64cb4260f65d-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1702-2-db3bf99438b7-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1702-2-db3bf99438b7-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/pgp_official/1702",
-      "forwarded_from": null
-    },
-    {
-      "id": 1701,
-      "date": "2026-01-30T11:23:23+00:00",
-      "text": "⚡️Вниманию крупных ИТ-компаний\n\nСегодня, 30 января истекает срок раскрытия дополнительной информации в пользу Минцифры России.\n\nСогласно п. 25(2) Положения об ИТ-аккредитации организации, получившие выручку более 800 млн руб. в одном из последних двух лет (или в каждом году) и применяющие ИТ-льготы по страховым взносам и налогу на прибыль, обязаны раскрыть следующую информацию:\n\n🔘о применении ИТ-льгот по страховым взносам и налогу на прибыль;\n🔘численности физлиц, с выплат которым были исчислены страховые взносы;\n🔘объеме сэкономленных средств в результате применения ИТ-льгот;\n🔘доходах от реализации в соответствии со ст. 249 НК РФ.\n\nСведения необходимо раскрыть за 2024 и 2025 гг. посредством подачи в налоговый орган согласия на раскрытие налоговой тайны. Код представления согласия – 20047.\n\n❌ В случае непредоставления согласия аккредитация будет аннулирована. \n\nГосуслуги напомнили о необходимости предоставления согласия на раскрытие налоговой тайны как ИТ-компаниям, подпадающим под критерии, так и тем, кто под них не подходит. \n▫️Если компания не соответствует условиям аккредитации, подавать согласие не нужно. Для подтверждения своей позиции можно направить обращение в Минцифры, объяснив, почему требование не исполняется.\n\n📧  Если у вас остались вопросы по данной теме, вы можете связаться с Натальей Коваленко, партнером «Пепеляев Групп».",
-      "text_html": "⚡️Вниманию крупных ИТ-компаний<br><br>Сегодня, 30 января истекает срок раскрытия дополнительной информации в пользу Минцифры России.<br><br>Согласно п. 25(2) <a href=\"https://base.garant.ru/405366137/\" target=\"_blank\" rel=\"noopener noreferrer\">Положения об ИТ-аккредитации</a> организации, получившие выручку более 800 млн руб. в одном из последних двух лет (или в каждом году) и применяющие ИТ-льготы по страховым взносам и налогу на прибыль, обязаны раскрыть следующую информацию:<br><br>🔘о применении ИТ-льгот по страховым взносам и налогу на прибыль;<br>🔘численности физлиц, с выплат которым были исчислены страховые взносы;<br>🔘объеме сэкономленных средств в результате применения ИТ-льгот;<br>🔘доходах от реализации в соответствии со ст. 249 НК РФ.<br><br>Сведения необходимо раскрыть за 2024 и 2025 гг. посредством подачи в налоговый орган согласия на раскрытие налоговой тайны. Код представления согласия – 20047.<br><br>❌ В случае непредоставления согласия аккредитация будет аннулирована. <br><br>Госуслуги напомнили о необходимости предоставления согласия на раскрытие налоговой тайны как ИТ-компаниям, подпадающим под критерии, так и тем, кто под них не подходит. <br>▫️Если компания не соответствует условиям аккредитации, подавать согласие не нужно. Для подтверждения своей позиции можно направить обращение в Минцифры, объяснив, почему требование не исполняется.<br><br>📧  Если у вас остались вопросы по данной теме, вы можете связаться с <a href=\"https://www.pgplaw.ru/to-get-the-team/natalya-ivashchenko/\" target=\"_blank\" rel=\"noopener noreferrer\">Натальей Коваленко,</a> партнером «Пепеляев Групп».",
-      "views": 1540,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1701-1-92a24caf1042-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1701-1-92a24caf1042-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/pgp_official/1701",
       "forwarded_from": null
     }
   ]
