@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T09:01:48.739278+00:00",
+  "generated_at": "2026-04-20T10:58:54.317056+00:00",
   "pagination": {
     "page": 6,
     "page_size": 16,
@@ -7,6 +7,19 @@
     "total_pages": 12
   },
   "posts": [
+    {
+      "id": 2513,
+      "date": "2026-03-05T14:21:30+00:00",
+      "text": null,
+      "text_html": null,
+      "views": 1250,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [],
+      "video_url": "https://cdn4.telesco.pe/file/52aac8a07b.mp4?token=V0vNZ-gsirep3ilLrWEAKdwXZ4y_3GaJKPPyWmkGhZOsEqbzLQb5H3mdg4Gck2eUflkkIcdGVWZ4G_NGF7dxfXBXgGjDrva323Qiwv8dCsO08n0YvNHZNUIrUCURY0GP8uqmJ8Zsi17or1L0tilHfRsGxAS8iI7FW8lnHcxMaLkYEBcTmUThUVL0i89BnedZxEEZRrW0HbN35L7Y2bRHQZCCLULN2lyje3VwrjQDZb71-4hEezwaYZtxPath9D28f6mH7k1plceycLohbvnVvc2-Vp06KK_2KDB-tjk4RFqeDmqzvnzYopeask__R0ZxWkg_M8w2hbmX58G_bjbVGQ",
+      "tg_url": "https://t.me/PG_Tax/2513",
+      "forwarded_from": null
+    },
     {
       "id": 2512,
       "date": "2026-03-05T14:21:04+00:00",
@@ -17,8 +30,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2512-1-629b645eddab-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2512-1-629b645eddab-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2512-1-834c242dc680-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2512-1-834c242dc680-v4.jpg"
         }
       ],
       "video_url": null,
@@ -48,8 +61,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2510-1-a63ec19306b0-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2510-1-a63ec19306b0-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2510-1-4cf96b33b89e-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2510-1-4cf96b33b89e-v4.jpg"
         }
       ],
       "video_url": null,
@@ -66,8 +79,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2509-1-0a31fb1ca0b2-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2509-1-0a31fb1ca0b2-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2509-1-69a516c09019-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2509-1-69a516c09019-v4.jpg"
         }
       ],
       "video_url": null,
@@ -84,8 +97,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2508-1-5cdf39ac231e-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2508-1-5cdf39ac231e-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2508-1-e79d105c4041-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2508-1-e79d105c4041-v4.jpg"
         }
       ],
       "video_url": null,
@@ -102,8 +115,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2507-1-22ad63359501-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2507-1-22ad63359501-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2507-1-185a7b8eaf15-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2507-1-185a7b8eaf15-v4.jpg"
         }
       ],
       "video_url": null,
@@ -119,7 +132,7 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/f8fa9e0a04.mp4?token=NhHjVeEhzo-ljAthw_gHkiVIiB8vhhpy3kHp7D5YbOfwXc4bD4hgV9ne1jjk40xVc7HdUnj3QcytmYcHLTtyOEQY0RigfNhJolJrMw13_XPB1ML50QbxJXA1HEzPdMDfa4G9H0OeQaKpMVn7TWZmQpQ5GTOMAUV69EO6LfD16cXll2rY9wQXNOR2ShVwNdmC-JjgUrTdcYXn-tQv_Ww2gA_9RskJm4UWX1CNnnb8uoCUreBaB48Lrf9sBZ9xQQ_SLM9IB2yF9BXTLTcY6Rpkh1kUf-2AoIanKpAVUL7G0gfYRo-TCsisXZJdcpo3Xp6P_lbZW9t3xAM9d0Ou-ZDvlw",
+      "video_url": "https://cdn4.telesco.pe/file/f8fa9e0a04.mp4?token=s87Y04DRHCWEwhG_4xvuFe4cx2qMoU7myB34aglXVsTpMp9AEEKnPM-3Tx1JoekeTg1L2q1RJzb8yJjlHAI7jrB7qWb7VpRpuiBlnJH4T15NjYE52NcVk3OdoyO2xPj2_NV436zLJBE89aXt2VUc0PepVu3xibji0BtLU5N0nCaRGWpXx3qLSGFnZCv5EDbkS2eyTELaTZDwwYJw9JZbJ5-zYo1EA2oMPwkNstpoPlSEZ6cEJtuu7IKtbRpWzgKo-7Y0K9kmHzaq3zIAX4pyRChomBlTfHmjXoXgkXjGmH1QNA8mrT0VZj3Q2GFu_VwyAD1FjPckSBe8ecVymLKM5Q",
       "tg_url": "https://t.me/PG_Tax/2505",
       "forwarded_from": null
     },
@@ -133,8 +146,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2504-1-bc3eb28126bc-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2504-1-bc3eb28126bc-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2504-1-bcadeea7a3b4-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2504-1-bcadeea7a3b4-v4.jpg"
         }
       ],
       "video_url": null,
@@ -151,8 +164,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2502-1-bf2e1742e584-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2502-1-bf2e1742e584-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2502-1-28c068d5263b-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2502-1-28c068d5263b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -169,8 +182,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2501-1-271f9d5c7622-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2501-1-271f9d5c7622-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2501-1-60132fc29967-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2501-1-60132fc29967-v4.jpg"
         }
       ],
       "video_url": null,
@@ -187,8 +200,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2498-1-f3b18c75c701-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2498-1-f3b18c75c701-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2498-1-8277da93c6b3-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2498-1-8277da93c6b3-v4.jpg"
         }
       ],
       "video_url": null,
@@ -205,8 +218,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2497-1-f940b104586e-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2497-1-f940b104586e-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2497-1-5c15a8be64e9-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2497-1-5c15a8be64e9-v4.jpg"
         }
       ],
       "video_url": null,
@@ -223,8 +236,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2496-1-ef33e2586e1c-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2496-1-ef33e2586e1c-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2496-1-536b3093aba3-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2496-1-536b3093aba3-v4.jpg"
         }
       ],
       "video_url": null,
@@ -259,38 +272,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2494-1-cbf6e6b50ace-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2494-1-cbf6e6b50ace-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2494-1-9c912b40a817-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2494-1-9c912b40a817-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/PG_Tax/2494",
-      "forwarded_from": null
-    },
-    {
-      "id": 2491,
-      "date": "2026-02-26T13:27:50+00:00",
-      "text": "🏆 Делимся результатами индивидуального рейтинга Право-300 за 2025 год по налогам и валютному регулированию!\n\nРекомендованы: \n\n1️⃣1️⃣ юристов в налоговых номинациях\n4️⃣ юриста в категории «Валютное регулирование»\n\n4️⃣4️⃣ эксперта «Пепеляев Групп» отмечены в общей сложности. \n\nС полными результатами можно ознакомиться на сайте.\n\n🎉 Благодарим Право ру за проделанную работу и поздравляем коллег с профессиональными успехами!",
-      "text_html": "🏆 Делимся результатами индивидуального рейтинга Право-300 за 2025 год по налогам и валютному регулированию!<br><br>Рекомендованы: <br><br>1️⃣1️⃣ юристов в налоговых номинациях<br>4️⃣ юриста в категории «Валютное регулирование»<br><br>4️⃣4️⃣ эксперта «Пепеляев Групп» отмечены в общей сложности. <br><br>С полными результатами можно ознакомиться <a href=\"https://www.pgplaw.ru/news/press-releases/individualniy-reyting-pravo300-2025/\" target=\"_blank\" rel=\"noopener noreferrer\">на сайте</a>.<br><br>🎉 Благодарим Право ру за проделанную работу и поздравляем коллег с профессиональными успехами!",
-      "views": 1460,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2491-1-aeef793319d1-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2491-1-aeef793319d1-v4.jpg"
-        },
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2491-2-6db6f423cef7-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2491-2-6db6f423cef7-v4.jpg"
-        },
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2491-3-0b591de5dd8d-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2491-3-0b591de5dd8d-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2491",
       "forwarded_from": null
     }
   ]
