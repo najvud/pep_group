@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T12:04:22.836960+00:00",
+  "generated_at": "2026-04-20T14:10:07.456054+00:00",
   "pagination": {
     "page": 10,
     "page_size": 16,
@@ -7,6 +7,24 @@
     "total_pages": 12
   },
   "posts": [
+    {
+      "id": 2442,
+      "date": "2026-02-04T14:02:56+00:00",
+      "text": null,
+      "text_html": null,
+      "views": 1530,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2442-1-c6e132ad080d-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2442-1-c6e132ad080d-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/PG_Tax/2442",
+      "forwarded_from": null
+    },
     {
       "id": 2441,
       "date": "2026-02-04T10:03:39+00:00",
@@ -17,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2441-1-684c4f78a8f5-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2441-1-684c4f78a8f5-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2441-1-d8e94879a4f7-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2441-1-d8e94879a4f7-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +53,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2440-1-8b7be7e42129-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2440-1-8b7be7e42129-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2440-1-e92886f96b96-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2440-1-e92886f96b96-v4.jpg"
         }
       ],
       "video_url": null,
@@ -52,7 +70,7 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/4501c9f0fd.mp4?token=d4SZmNgUpbpiz84QAO4SCOsJZP2FV1Hv8z35jh5GNBtluoWNokOmQRB4pqdLCieN9TdksEN_4dD9ssPZCuZz_vxZ349Qj5lwRgvlp79E3BOYsgCsJWvWUkVXvxIMrGZE5UrtvY3W-Boi6_OatWrOkrkM_x8yo6eBLmnNlYKj4jR9aKum0e0JboyQugGgJsJofnkUfyTcbOEe2VRSlh-u_BZT28Mcy44xw7D-811MvgDJtU6hEoaMvnSeLF4EB_djgovZyoXcEbhj4pX-jJjjyjqPu1ywYuL4rYLdT6o7IhJxTycbB5dJ1kporBiVwLWM3LBNzVlKCpKB528Om2_qcw",
+      "video_url": "https://cdn4.telesco.pe/file/4501c9f0fd.mp4?token=IxlUg2QOhBpe1d1flbktf3lfXYbISJXjzv6X5_BFDeoHILKZFXkUDqF_lPmrT596itCDT6ev3AhQTHLKE-LdpK_X5ULiSuZR_1XkqdB_Qr5oKQVr7ye91cVbmw1Kp8okuu477Hcn2AwNSQSoM3pFBg_104XUGfq7faXCkX1I3CqLmm44B-38MOy3AWfB6_9mc0LafGb_1p1RsNn1G8jZt57qZCK1Q3goY2iM3aa9H5kWjU8_-UZdleTqJuPZNIYQ6Rx1NGu7UQJeMOKHfXpEcejCQy52j30R6wwpGgw4AI9x2VcjZQ0ervI4ILjRNj_OKZ_6etqqIgtTBT7PYtjdXQ",
       "tg_url": "https://t.me/PG_Tax/2439",
       "forwarded_from": null
     },
@@ -66,8 +84,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2438-1-460a69f06d34-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2438-1-460a69f06d34-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2438-1-8f29c51259a1-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2438-1-8f29c51259a1-v4.jpg"
         }
       ],
       "video_url": null,
@@ -84,8 +102,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2437-1-cc7afca40537-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2437-1-cc7afca40537-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2437-1-416ae18d6368-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2437-1-416ae18d6368-v4.jpg"
         }
       ],
       "video_url": null,
@@ -102,8 +120,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2436-1-29acbaeab5d9-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2436-1-29acbaeab5d9-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2436-1-ac872790b842-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2436-1-ac872790b842-v4.jpg"
         }
       ],
       "video_url": null,
@@ -119,7 +137,7 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/67cfd21769.mp4?token=BoJHSTwp5FSI44exlMXuQulB8ez7FsLftv9yUK4SRrN19fH5dgvBl_jQMRrNyXkSjBD6yJScpQRe4iUji3yx53lNwCvglB4zVJez6ue9nYqqe81e_I9_nNSSl11M3cXQrBEfoj7zPV32z9vPieaM3j5oHnvOpF52JCPXvlT5FFe7bJpHUvRTLV9bYDU5nnqs9D7lPFF6N7dZZVearwNoZLnxM2vPvZkCp3ilWMXB5J5bnoF9koSbQ-rcxvz9kqb-wLfOJGOYb-ixEdr4SOCf4WFht2tc4NEW8NfgB5WOmc0S98ykwhKImjW26bNAEVSi5K2oMK1epvQglYYd9BZ4dw",
+      "video_url": "https://cdn4.telesco.pe/file/67cfd21769.mp4?token=dPUP6JIoEdhYHHL3mNRY_HssDWLlwrf7yWxr1r-1kq5NW3iD-i_jyXp6pzssIQ1LhClhPNQ_aXgEaJk_Er705PiBjIdOlV7Lz39Sm8GhLixqbrYIRyUTLZveaAxx22mgu6SnmzEVZMnIQRh6WA3Zr69BO1JFfxBTFIAn5Nt-ajxUFoNI1f9nwF5xXb8xx21HKAivYsxkESKsIv500jVgsKNU-Ir9Q23IYTZIaPNv9hiNKiNthjdGwv5zCmiEtRsvwIAgUW6GcIUvOhDWtZArXXkakclgeVSELCcKriQ7-328uRkfFBvbMyCzyLMtXzvis_PE5Clpoe86AiuFdQE4rg",
       "tg_url": "https://t.me/PG_Tax/2435",
       "forwarded_from": null
     },
@@ -133,8 +151,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2434-1-a8730acae7a7-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2434-1-a8730acae7a7-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2434-1-716a9b930441-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2434-1-716a9b930441-v4.jpg"
         }
       ],
       "video_url": null,
@@ -151,8 +169,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2433-1-73c8e4efd86f-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2433-1-73c8e4efd86f-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2433-1-2f326c3fb8b2-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2433-1-2f326c3fb8b2-v4.jpg"
         }
       ],
       "video_url": null,
@@ -169,8 +187,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2432-1-932f842d93c0-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2432-1-932f842d93c0-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2432-1-386c9ce95142-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2432-1-386c9ce95142-v4.jpg"
         }
       ],
       "video_url": null,
@@ -199,7 +217,7 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/dcb807eb9d.mp4?token=YOEGoms9L6SX_MSdTVmAO1z53YecrFnJJHw_kRuUT_30Xtg86oOCzzPR5g_KLJiAcf8Frr2mRA7A5YPt6IKOJZstlz2N__0Odo4sAq3soBuKvXGB8AmpHiby9X91Mfq2Oe0lzINrnV9dErFW8K5Zb5xGkdWOZw0XBfw2nvQBU_V9qrpM_-mmRJGqAbGFRATrbvk7QWuqZznga_HUbaUt0I2H4RqW5rrJ7Ia8gpepX26AUt6P8PxHOSNxK3E8R3OCorJPmD-QDMENKfJUaDI-0FhAxBou5egsp3ytqWRDVKnDB9B39J5mEH6eLFYZkH6pM6kVLoQr_WzMPnLsyMkUwQ",
+      "video_url": "https://cdn4.telesco.pe/file/dcb807eb9d.mp4?token=oUUuEW5biyjEb6SirGF3Xqvy4CdscN7NrhkKpTT6dQaqCL4sdCij6yFmk9Uml693jYpTvYl3m68CApsKBn4O6fqXQqLbXkWS37Q7CaAtxubC90aKvW16HCsB6VbkX8lgvLJ384NEcv7EhPD_TBESbq3ZrTwe_F35NIz4bR42QVe2_emYLzMYXJKxRezDLk-kJVVTogBEB0g1y8Kb1XGrH6UFFIlFxZDMEPwcuGFaOLaJb5dFsmFqhXQ_cbkgxgMJBXtqs2bjc81y-cbrHAFqr-rxtBvTgNPEpIizo3nKzwx1jNkzkJ1B2xJC0RLeh0dFmADgiGhs5J1A08DnjuIcbA",
       "tg_url": "https://t.me/PG_Tax/2430",
       "forwarded_from": null
     },
@@ -208,13 +226,13 @@
       "date": "2026-01-30T11:00:12+00:00",
       "text": null,
       "text_html": null,
-      "views": 1560,
+      "views": 1570,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2429-1-7776783c859b-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2429-1-7776783c859b-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2429-1-439b421dc738-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2429-1-439b421dc738-v4.jpg"
         }
       ],
       "video_url": null,
@@ -231,8 +249,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2428-1-44cc985f3722-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2428-1-44cc985f3722-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2428-1-9e600ada11d5-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2428-1-9e600ada11d5-v4.jpg"
         }
       ],
       "video_url": null,
@@ -249,30 +267,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2427-1-6e5ef395207c-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2427-1-6e5ef395207c-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2427-1-da24733cb98d-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2427-1-da24733cb98d-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/PG_Tax/2427",
-      "forwarded_from": null
-    },
-    {
-      "id": 2426,
-      "date": "2026-01-29T08:10:46+00:00",
-      "text": "✍️ Нормотворчество\n \n🔴Госдума вместе с Минэкономразвития России, регионами и экспертами прорабатывает возможность сделать более эффективным туристический налог. \nПредставители отрасли говорят о необходимости сохранения ставки налога на уровне 2%, не повышая ее до 5% к 2029 г. \nПоднимается вопрос об отмене минимальной суточной таксы в 100 руб. и делегировании регионам права самостоятельно устанавливать минимальную сумму налога. \nСреди обсуждаемых проблем - отсутствие целевого характера налога, а отельеры жалуются на чрезмерную отчетность и контроль.\n 💰 Сборы от введенного в 2025 г. туристического налога по результатам трех кварталов составили 5,5 млрд руб., превысив прогноз ФНС России в 5 млрд руб. 63% обеспечивают Краснодарский, Ставропольский и Алтайский края, Санкт-Петербург.\n \n🔴Минприроды, Госдума и промышленники договорились о ставках платы за негативное воздействие на окружающую среду на 2026–2030 гг. \nДля выбросов ставки изменены по 9, а для сбросов — по 24 загрязняющим веществам. \n💰 В 2026 г. ставки вырастут только на 5%, а в дальнейшем они будут расти интенсивнее: в 2027 г. — на 15% к уровню базового 2025 г., в 2028 г. — на 25%, в 2029 г. — на 50%, в 2030 г. — на 100% к 2025 г.\n \n🔴Как считает глава ТПП России Сергей Катырин, именно стабильность налоговых правил, а не абсолютный уровень нагрузки, остается ключевой проблемой для семейных предприятий. \n💬 Семейный бизнес в России целесообразно поддержать закреплением налоговых условий без ухудшения как минимум на 10 лет. Такой подход, по аналогии с профессиональным налогом для самозанятых, может повысить устойчивость сектора и стимулировать его развитие.\n \n⚙️ Практика\n \n🔴В последнее время бизнес стал все чаще получать информационные письма от налоговых органов с предложением уточнить данные по уплате НДС и НДФЛ за периоды более трех лет назад. Письма носят рекомендательный характер.\n \n🔴Forbes опубликовал подробную инструкцию по оформлению налогового вычета по НДФЛ за медицинские услуги.\n\n#главные_налоговые_новости",
-      "text_html": "✍️ Нормотворчество<br> <br>🔴Госдума вместе с Минэкономразвития России, регионами и экспертами <a href=\"https://tass.ru/ekonomika/26274561\" target=\"_blank\" rel=\"noopener noreferrer\">прорабатывает</a> возможность сделать более эффективным туристический налог. <br>Представители отрасли говорят о необходимости сохранения ставки налога на уровне 2%, не повышая ее до 5% к 2029 г. <br>Поднимается вопрос об отмене минимальной суточной таксы в 100 руб. и делегировании регионам права самостоятельно устанавливать минимальную сумму налога. <br>Среди обсуждаемых проблем - отсутствие целевого характера налога, а отельеры жалуются на чрезмерную отчетность и контроль.<br> 💰 Сборы от введенного в 2025 г. туристического налога по результатам трех кварталов <a href=\"https://www.vedomosti.ru/economics/articles/2026/01/29/1172465-sbori-ot-turnaloga-previsili-godovoi-prognoz\" target=\"_blank\" rel=\"noopener noreferrer\">составили</a> 5,5 млрд руб., превысив прогноз ФНС России в 5 млрд руб. 63% обеспечивают Краснодарский, Ставропольский и Алтайский края, Санкт-Петербург.<br> <br>🔴Минприроды, Госдума и промышленники <a href=\"https://www.kommersant.ru/doc/8380200?query=%D0%BD%D0%B0%D0%BB%D0%BE%D0%B3\" target=\"_blank\" rel=\"noopener noreferrer\">договорились</a> о ставках платы за негативное воздействие на окружающую среду на 2026–2030 гг. <br>Для выбросов ставки изменены по 9, а для сбросов — по 24 загрязняющим веществам. <br>💰 В 2026 г. ставки вырастут только на 5%, а в дальнейшем они будут расти интенсивнее: в 2027 г. — на 15% к уровню базового 2025 г., в 2028 г. — на 25%, в 2029 г. — на 50%, в 2030 г. — на 100% к 2025 г.<br> <br>🔴Как <a href=\"https://www.kommersant.ru/doc/8380379?query=%D0%BD%D0%B0%D0%BB%D0%BE%D0%B3\" target=\"_blank\" rel=\"noopener noreferrer\">считает</a> глава ТПП России Сергей Катырин, именно стабильность налоговых правил, а не абсолютный уровень нагрузки, остается ключевой проблемой для семейных предприятий. <br>💬 Семейный бизнес в России целесообразно поддержать закреплением налоговых условий без ухудшения как минимум на 10 лет. Такой подход, по аналогии с профессиональным налогом для самозанятых, может повысить устойчивость сектора и стимулировать его развитие.<br> <br>⚙️ Практика<br> <br>🔴В последнее время бизнес стал все чаще <a href=\"https://www.forbes.ru/finansy/554213-nalogoviki-stali-case-predlagat-biznesu-oplatit-starye-dolgi?utm_source=forbes&amp;amp;utm_campaign=lnews\" target=\"_blank\" rel=\"noopener noreferrer\">получать</a> информационные письма от налоговых органов с предложением уточнить данные по уплате НДС и НДФЛ за периоды более трех лет назад. Письма носят рекомендательный характер.<br> <br>🔴Forbes <a href=\"https://www.forbes.ru/finansy/554286-kak-oformit-nalogovyj-vycet-vozvrasaem-ndfl-za-medicinskie-uslugi\" target=\"_blank\" rel=\"noopener noreferrer\">опубликовал</a> подробную инструкцию по оформлению налогового вычета по НДФЛ за медицинские услуги.<br><br>#главные_налоговые_новости",
-      "views": 1420,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2426-1-37ac92b8e5d4-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2426-1-37ac92b8e5d4-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2426",
       "forwarded_from": null
     }
   ]

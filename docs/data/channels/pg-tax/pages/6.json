@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T12:04:22.829719+00:00",
+  "generated_at": "2026-04-20T14:10:07.447889+00:00",
   "pagination": {
     "page": 6,
     "page_size": 16,
@@ -7,6 +7,19 @@
     "total_pages": 12
   },
   "posts": [
+    {
+      "id": 2514,
+      "date": "2026-03-05T14:22:02+00:00",
+      "text": "⚡️3% отчисления с операторов доставки\n\nМинцифры России разработало новый неналоговый платеж - обязательные отчисления операторов доставки и организаций почтовой связи, направленные на поддержку Почты России.\n\nПланируется, что операторы ежеквартально будут пополнять фонд, который будет специально создан, 3 процентами своих доходов за транспортировку междугородних посылок.\n\n💰 Ассоциация цифровых платформ, объединяющая крупнейшие маркетплейсы России, уже посчитала, что расходы маркетплейсов на предложенный сбор превысят 90 млрд руб. в год.  \n\nО тренде на фискальные платежи мы писали здесь, а в Налоговеде открыта для чтения статья С.Г. Пепеляева по теме 👉\n\n#комментарий_эксперта",
+      "text_html": "⚡️3% отчисления с операторов доставки<br><br>Минцифры России разработало новый неналоговый платеж - обязательные отчисления операторов доставки и организаций почтовой связи, направленные на поддержку Почты России.<br><br>Планируется, что операторы ежеквартально будут пополнять фонд, который будет специально создан, 3 процентами своих доходов за транспортировку междугородних посылок.<br><br>💰 Ассоциация цифровых платформ, объединяющая крупнейшие маркетплейсы России, уже <a href=\"https://www.kommersant.ru/doc/8462524\" target=\"_blank\" rel=\"noopener noreferrer\">посчитала</a>, что расходы маркетплейсов на предложенный сбор превысят 90 млрд руб. в год.  <br><br>О тренде на фискальные платежи мы писали <a href=\"https://t.me/PG_Tax/2331\" target=\"_blank\" rel=\"noopener noreferrer\">здесь</a>, а в Налоговеде открыта для чтения <a href=\"https://nalogoved.ru/art/15790.html\" target=\"_blank\" rel=\"noopener noreferrer\">статья С.Г. Пепеляева</a> по теме 👉<br><br>#комментарий_эксперта",
+      "views": 1390,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [],
+      "video_url": null,
+      "tg_url": "https://t.me/PG_Tax/2514",
+      "forwarded_from": null
+    },
     {
       "id": 2513,
       "date": "2026-03-05T14:21:30+00:00",
@@ -16,7 +29,7 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/52aac8a07b.mp4?token=V0vNZ-gsirep3ilLrWEAKdwXZ4y_3GaJKPPyWmkGhZOsEqbzLQb5H3mdg4Gck2eUflkkIcdGVWZ4G_NGF7dxfXBXgGjDrva323Qiwv8dCsO08n0YvNHZNUIrUCURY0GP8uqmJ8Zsi17or1L0tilHfRsGxAS8iI7FW8lnHcxMaLkYEBcTmUThUVL0i89BnedZxEEZRrW0HbN35L7Y2bRHQZCCLULN2lyje3VwrjQDZb71-4hEezwaYZtxPath9D28f6mH7k1plceycLohbvnVvc2-Vp06KK_2KDB-tjk4RFqeDmqzvnzYopeask__R0ZxWkg_M8w2hbmX58G_bjbVGQ",
+      "video_url": "https://cdn4.telesco.pe/file/52aac8a07b.mp4?token=UvPFTJEgnhl6vEFGU2sPqezKd7q2WJ8H321mA4yX5_bQE6ec3A8Kl8Q85fUQ5coKuI7HYmwynBjlkZ42osijOv-kdzKlJuAH0M3o2gidMvKAEY9J6zZEIacRrbbXOhg5NMg209bm6X3WslQdjCWx5WjNSETL0Aq-P2ARBO58B48NSHUcKTfAIYWB9WzXhQZcP6Kc1MOOwFGGds6o8uqD2XcNqeMe3ChHhfrOdErHhSjdvQ0MXnA_iPQy-xmVre9WZeoLMSLK2483Yg4Ka27_4Do4LL0r0t9znPCksMVbH5AkeOC0D7Kk7LmGck-V90lhHIoR3a4zXBKorrPa5_GHiw",
       "tg_url": "https://t.me/PG_Tax/2513",
       "forwarded_from": null
     },
@@ -30,8 +43,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2512-1-834c242dc680-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2512-1-834c242dc680-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2512-1-b235fe9abf73-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2512-1-b235fe9abf73-v4.jpg"
         }
       ],
       "video_url": null,
@@ -61,8 +74,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2510-1-4cf96b33b89e-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2510-1-4cf96b33b89e-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2510-1-7f56b04cdd1d-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2510-1-7f56b04cdd1d-v4.jpg"
         }
       ],
       "video_url": null,
@@ -79,8 +92,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2509-1-69a516c09019-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2509-1-69a516c09019-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2509-1-e8364a5f6e4b-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2509-1-e8364a5f6e4b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -97,8 +110,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2508-1-e79d105c4041-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2508-1-e79d105c4041-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2508-1-41f31abaa536-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2508-1-41f31abaa536-v4.jpg"
         }
       ],
       "video_url": null,
@@ -115,8 +128,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2507-1-185a7b8eaf15-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2507-1-185a7b8eaf15-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2507-1-1c9742053776-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2507-1-1c9742053776-v4.jpg"
         }
       ],
       "video_url": null,
@@ -132,7 +145,7 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/f8fa9e0a04.mp4?token=s87Y04DRHCWEwhG_4xvuFe4cx2qMoU7myB34aglXVsTpMp9AEEKnPM-3Tx1JoekeTg1L2q1RJzb8yJjlHAI7jrB7qWb7VpRpuiBlnJH4T15NjYE52NcVk3OdoyO2xPj2_NV436zLJBE89aXt2VUc0PepVu3xibji0BtLU5N0nCaRGWpXx3qLSGFnZCv5EDbkS2eyTELaTZDwwYJw9JZbJ5-zYo1EA2oMPwkNstpoPlSEZ6cEJtuu7IKtbRpWzgKo-7Y0K9kmHzaq3zIAX4pyRChomBlTfHmjXoXgkXjGmH1QNA8mrT0VZj3Q2GFu_VwyAD1FjPckSBe8ecVymLKM5Q",
+      "video_url": "https://cdn4.telesco.pe/file/f8fa9e0a04.mp4?token=p7omJ18ayiYjVjbBsILX7tUXgQUsvSVESnw0_0am9A_mZbTEENwdTWkig4tDdyNoF24tb5g8-_VQM1sgeZ8qQ7wzfJCOCCIh75lemo2dllniJZmLZ33X9LNDxiZaGz12d3MEiM0orNEnexNBWKAHlFlFgMaX8fRppOHmzERaQATva9lelPNf2DyFRxSX1IpfuLQqlBQFbe7fIGsIu5J3O8dnln0c0-i6QeXq7YKwToPl8V8ogVaDIUMdyTKUvFYDVd_BF4iA1bOKTQXbCWrNcBI_BFiI90CUDg7UuUqDfqA6AdyEse4TkHTb8tseCXDqaohGvyu0XqZuloUkYzPXFg",
       "tg_url": "https://t.me/PG_Tax/2505",
       "forwarded_from": null
     },
@@ -146,8 +159,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2504-1-bcadeea7a3b4-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2504-1-bcadeea7a3b4-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2504-1-94795ce94490-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2504-1-94795ce94490-v4.jpg"
         }
       ],
       "video_url": null,
@@ -164,8 +177,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2502-1-beea7e37f43a-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2502-1-beea7e37f43a-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2502-1-d79a8515f927-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2502-1-d79a8515f927-v4.jpg"
         }
       ],
       "video_url": null,
@@ -182,8 +195,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2501-1-60132fc29967-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2501-1-60132fc29967-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2501-1-e64963ca5120-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2501-1-e64963ca5120-v4.jpg"
         }
       ],
       "video_url": null,
@@ -200,8 +213,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2498-1-8277da93c6b3-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2498-1-8277da93c6b3-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2498-1-e8e2460368ef-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2498-1-e8e2460368ef-v4.jpg"
         }
       ],
       "video_url": null,
@@ -213,13 +226,13 @@
       "date": "2026-03-02T08:00:07+00:00",
       "text": "✍️ Нормативное регулирование\n \nПрезидент РФ поручил предусмотреть в этом году переходный период, чтобы малый бизнес мог выбрать себе оптимальный налоговый режим. Также предстоит рассмотреть вопрос о предоставлении таким предприятиям возможности формирования и представления налоговой отчетности в упрощенном порядке. \nДо 1 мая Правительству РФ совместно с региональными властями нужно обеспечить информационное и методическое сопровождение деятельности таких предприятий по этому вопросу.\n \n⚙️ Практика\n \n🔴Налоговые органы стали чаще запрещать компаниям-должникам продавать имущество и пользоваться банковскими счетами после проверок. Ограничения часто распространяются не только на компании-должники, но и на связанные с ними структуры, бенефициаров и даже бывших гендиректоров.\n \n🔴С 28 февраля действуют новые особенности учета иностранных граждан в налоговых органах. \nДополнены категории иностранцев, подлежащих постановке на учет: зарегистрированные в качестве ИП по законодательству ЕАЭС, оказывающие услуги физлицам в электронной форме, осуществляющие расчеты или реализующие товары. Кроме того, особенности учета приведены в соответствие с нормами налогового законодательства в части правил направления документа, подтверждающего постановку на учет или снятие с учета (свидетельства и уведомления заменены на выписку из ЕГРН).\n\n#главные_налоговые_новости\n\nНовости прошлой недели читайте в обзоре на сайте ПГ 👉",
       "text_html": "✍️ Нормативное регулирование<br> <br>Президент РФ <a href=\"https://rg.ru/2026/02/27/putin-ukazal-vvesti-perehodnyj-period-malomu-biznesu-po-vyboru-nalogovogo-rezhima.html\" target=\"_blank\" rel=\"noopener noreferrer\">поручил</a> предусмотреть в этом году переходный период, чтобы малый бизнес мог выбрать себе оптимальный налоговый режим. Также <a href=\"https://rspp.ru/events/news/vladimir-putin-poruchil-ustanovit-perekhodnyy-period-dlya-msp-dlya-vybora-nalogovogo-rezhima-69a153597339e/\" target=\"_blank\" rel=\"noopener noreferrer\">предстоит</a> рассмотреть вопрос о предоставлении таким предприятиям возможности формирования и представления налоговой отчетности в упрощенном порядке. <br>До 1 мая Правительству РФ совместно с региональными властями нужно обеспечить информационное и методическое сопровождение деятельности таких предприятий по этому вопросу.<br> <br>⚙️ Практика<br> <br>🔴Налоговые органы <a href=\"https://www.forbes.ru/finansy/556303-nalogoviki-stali-case-zamorazivat-imusestvo-i-sceta-dolznikov-po-itogam-proverok\" target=\"_blank\" rel=\"noopener noreferrer\">стали чаще</a> запрещать компаниям-должникам продавать имущество и пользоваться банковскими счетами после проверок. Ограничения часто распространяются не только на компании-должники, но и на связанные с ними структуры, бенефициаров и даже бывших гендиректоров.<br> <br>🔴С 28 февраля <a href=\"https://tass.ru/ekonomika/26579217\" target=\"_blank\" rel=\"noopener noreferrer\">действуют</a> новые особенности учета иностранных граждан в налоговых органах. <br>Дополнены категории иностранцев, подлежащих постановке на учет: зарегистрированные в качестве ИП по законодательству ЕАЭС, оказывающие услуги физлицам в электронной форме, осуществляющие расчеты или реализующие товары. Кроме того, особенности учета приведены в соответствие с нормами налогового законодательства в части правил направления документа, подтверждающего постановку на учет или снятие с учета (свидетельства и уведомления заменены на выписку из ЕГРН).<br><br>#главные_налоговые_новости<br><br>Новости прошлой недели читайте в обзоре <a href=\"https://www.pgplaw.ru/analytics-and-brochures/tax-reviews/tax-news-digest-02-03-26/\" target=\"_blank\" rel=\"noopener noreferrer\">на сайте</a> ПГ 👉",
-      "views": 1340,
+      "views": 1350,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2497-1-5c15a8be64e9-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2497-1-5c15a8be64e9-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2497-1-89e3ac43e6c3-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2497-1-89e3ac43e6c3-v4.jpg"
         }
       ],
       "video_url": null,
@@ -236,8 +249,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2496-1-536b3093aba3-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2496-1-536b3093aba3-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2496-1-1042e82bd1ce-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2496-1-1042e82bd1ce-v4.jpg"
         }
       ],
       "video_url": null,
@@ -260,24 +273,6 @@
       "photos": [],
       "video_url": null,
       "tg_url": "https://t.me/PG_Tax/2495",
-      "forwarded_from": null
-    },
-    {
-      "id": 2494,
-      "date": "2026-02-27T07:00:04+00:00",
-      "text": "✍️ Нормотворчество\n \nМинцифры России предложило взимать сбор в размере 3% от доходов операторов доставки при перевозке межгородских посылок. Участников рынка обяжут получать статус оператора доставки и разрешение на услуги почтовой связи. \n❌ Ассоциация цифровых платформ в ответ заявила, что сбор не повысит эффективность «Почты России», но приведет к недобросовестной конкуренции. Увеличатся и расходы, которые лягут на продавцов, что приведет к росту цен на товары.\n \n⚙️ Практика\n \nНалоговый комитет Узбекистана заинтересовался российским опытом внедрения Единого налогового счета. Благодаря такому механизму возврат средств осуществляется в шесть раз быстрее. \nℹ️ За три года число должников снизилось в два раза, удалось также добиться снижения суммы невыясненных поступлений в 32,5 раза с 908 млрд руб. в 2022 г. до 28 млрд руб. в 2025 г.\n \n✈️ За рубежом\n \nКитайские политики обсуждают введение налога на напитки с высоким содержанием сахара. Китай остается одной из немногих крупных экономик без национального налога на напитки с сахаром, тогда как более 116 стран уже ввели подобные меры.\n\n#главные_налоговые_новости",
-      "text_html": "✍️ Нормотворчество<br> <br>Минцифры России <a href=\"https://www.forbes.ru/biznes/556111-mincifry-predlozilo-vzimat-sbor-s-operatorov-dostavki-dla-podderzki-pocty-rossii?utm_source=forbes&amp;amp;utm_campaign=lnews\" target=\"_blank\" rel=\"noopener noreferrer\">предложило</a> взимать сбор в размере 3% от доходов операторов доставки при перевозке межгородских посылок. Участников рынка обяжут получать статус оператора доставки и разрешение на услуги почтовой связи. <br>❌ Ассоциация цифровых платформ в ответ заявила, что сбор не повысит эффективность «Почты России», но приведет к недобросовестной конкуренции. Увеличатся и расходы, которые лягут на продавцов, что приведет к росту цен на товары.<br> <br>⚙️ Практика<br> <br>Налоговый комитет Узбекистана <a href=\"https://tass.ru/ekonomika/26565157\" target=\"_blank\" rel=\"noopener noreferrer\">заинтересовался</a> российским опытом внедрения Единого налогового счета. Благодаря такому механизму возврат средств <a href=\"https://www.nalog.gov.ru/rn77/news/international_activities/16605657/\" target=\"_blank\" rel=\"noopener noreferrer\">осуществляется</a> в шесть раз быстрее. <br>ℹ️ За три года число должников <a href=\"https://ria.ru/20260226/nalogi-2076967282.html\" target=\"_blank\" rel=\"noopener noreferrer\">снизилось</a> в два раза, удалось также добиться снижения суммы невыясненных поступлений в 32,5 раза с 908 млрд руб. в 2022 г. до 28 млрд руб. в 2025 г.<br> <br>✈️ За рубежом<br> <br>Китайские политики <a href=\"https://www.rbc.ru/rbcfreenews/69a04a339a7947589e4d79f5\" target=\"_blank\" rel=\"noopener noreferrer\">обсуждают</a> введение налога на напитки с высоким содержанием сахара. Китай остается одной из немногих крупных экономик без национального налога на напитки с сахаром, тогда как более 116 стран уже ввели подобные меры.<br><br>#главные_налоговые_новости",
-      "views": 1390,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2494-1-9c912b40a817-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2494-1-9c912b40a817-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2494",
       "forwarded_from": null
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T10:58:54.328511+00:00",
+  "generated_at": "2026-04-20T14:10:07.459736+00:00",
   "pagination": {
     "page": 12,
     "page_size": 16,
@@ -7,6 +7,19 @@
     "total_pages": 12
   },
   "posts": [
+    {
+      "id": 2409,
+      "date": "2026-01-21T10:11:36+00:00",
+      "text": "Должник моего должника - мой должник  ФНС России территориальным налоговым органам сообщено о прекращении действия положений письма ФНС России от 20.07.2023 №КЧ-4-18/9261@ (имеется в правовых системах) по вопросу неприменения обеспечительных мер по пункту…",
+      "text_html": "Должник моего должника - мой должник  ФНС России территориальным налоговым органам сообщено о прекращении действия положений письма ФНС России от 20.07.2023 №КЧ-4-18/9261@ (имеется в правовых системах) по вопросу неприменения обеспечительных мер по пункту…",
+      "views": 1410,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [],
+      "video_url": null,
+      "tg_url": "https://t.me/PG_Tax/2409",
+      "forwarded_from": null
+    },
     {
       "id": 2408,
       "date": "2026-01-21T10:05:19+00:00",
@@ -17,8 +30,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2408-1-0c93d3e78223-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2408-1-0c93d3e78223-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2408-1-91543c771940-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2408-1-91543c771940-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,30 +48,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2407-1-60352f90504f-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2407-1-60352f90504f-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2407-1-4292761bab36-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2407-1-4292761bab36-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/PG_Tax/2407",
-      "forwarded_from": null
-    },
-    {
-      "id": 2406,
-      "date": "2026-01-20T13:03:26+00:00",
-      "text": "🎬 #Видео. Валютный контроль: генпрокуратура усиливает свою роль и давление на импортёров\n\nИз нового ролика старшего партнера «Пепеляев Групп» Ивана Хаменушко вы узнаете:\n🔴как Генпрокуратура усиливает валютный контроль, \n🔴какие новые полномочия она получила, \n🔴почему импортёры и компании с иностранным участием должны быть особенно внимательны. \n\nТакже разбираем смягчение правил для физлиц и историческое значение рубля как валюты международных расчётов.\n\nСмотрите:\n\n📱 на VK Видео\n📱в YouTube",
-      "text_html": "🎬 #Видео. Валютный контроль: генпрокуратура усиливает свою роль и давление на импортёров<br><br>Из нового ролика старшего партнера «Пепеляев Групп» <a href=\"https://www.pgplaw.ru/to-get-the-team/ivan-khamenushko/\" target=\"_blank\" rel=\"noopener noreferrer\">Ивана Хаменушко</a> вы узнаете:<br>🔴как Генпрокуратура усиливает валютный контроль, <br>🔴какие новые полномочия она получила, <br>🔴почему импортёры и компании с иностранным участием должны быть особенно внимательны. <br><br>Также разбираем смягчение правил для физлиц и историческое значение рубля как валюты международных расчётов.<br><br>Смотрите:<br><br>📱 на <a href=\"https://vkvideo.ru/video-227047542_456239388\" target=\"_blank\" rel=\"noopener noreferrer\">VK Видео</a><br>📱в <a href=\"https://youtu.be/f-k7Jgnw7uY\" target=\"_blank\" rel=\"noopener noreferrer\">YouTube</a>",
-      "views": 1610,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2406-1-a3004bee0fac-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2406-1-a3004bee0fac-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2406",
       "forwarded_from": null
     }
   ]
