@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-04-21T07:07:07.407055+00:00",
+  "generated_at": "2026-04-21T09:00:05.458098+00:00",
   "pagination": {
     "page": 4,
     "page_size": 16,
-    "total_posts": 77,
+    "total_posts": 78,
     "total_pages": 5
   },
   "posts": [
+    {
+      "id": 1734,
+      "date": "2026-02-25T13:00:13+00:00",
+      "text": "☂️ Ограничения и меры поддержки для бизнеса: дайджест\n\n🔘Подготовлены поправки в ГК о плате за отказ от договора; \n\n🔘Разработаны правила, по которым будут проверять маркетплейсы.\n\nПодробнее – по ссылке.\n\n#антикризисная_поддержка_бизнеса",
+      "text_html": "☂️ Ограничения и меры поддержки для бизнеса: дайджест<br><br>🔘Подготовлены поправки в ГК о плате за отказ от договора; <br><br>🔘Разработаны правила, по которым будут проверять маркетплейсы.<br><br>Подробнее – <a href=\"https://www.pgplaw.ru/analytics-and-brochures/sanctions-support-digest/support-digest-23-02-26/\" target=\"_blank\" rel=\"noopener noreferrer\">по ссылке.</a><br><br>#антикризисная_поддержка_бизнеса",
+      "views": 960,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1734-1-2f309de40ec7-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1734-1-2f309de40ec7-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/pgp_official/1734",
+      "forwarded_from": null
+    },
     {
       "id": 1733,
       "date": "2026-02-25T07:35:14+00:00",
@@ -17,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1733-1-906dec74fd6d-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1733-1-906dec74fd6d-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1733-1-b8aa393cf0fd-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1733-1-b8aa393cf0fd-v4.jpg"
         }
       ],
       "video_url": null,
@@ -48,8 +66,8 @@
           "full_url": "data/channels/pgp-official/media/posts/1727-2-1c0e52a576db-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1727-3-131f894b61f1-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1727-3-131f894b61f1-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1727-3-118574a0844e-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1727-3-118574a0844e-v4.jpg"
         },
         {
           "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1727-4-15541927a2da-v4.jpg",
@@ -74,8 +92,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1726-1-46786b9420b6-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1726-1-46786b9420b6-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1726-1-05e530eb0220-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1726-1-05e530eb0220-v4.jpg"
         }
       ],
       "video_url": null,
@@ -110,8 +128,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1724-1-ac54119a6688-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1724-1-ac54119a6688-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1724-1-164e5c7bd581-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1724-1-164e5c7bd581-v4.jpg"
         }
       ],
       "video_url": null,
@@ -204,8 +222,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1718-1-7dd51f444b9c-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1718-1-7dd51f444b9c-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1718-1-9a8cab44783b-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1718-1-9a8cab44783b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -270,12 +288,12 @@
           "full_url": "data/channels/pgp-official/media/posts/1706-3-7d86855383cf-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-4-d4d51052ea94-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1706-4-d4d51052ea94-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-4-d1b7fa40a0d6-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1706-4-d1b7fa40a0d6-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-5-7475d08205be-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1706-5-7475d08205be-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-5-d04653270395-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1706-5-d04653270395-v4.jpg"
         },
         {
           "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-6-f63e9cf341b2-v4.jpg",
@@ -294,8 +312,8 @@
           "full_url": "data/channels/pgp-official/media/posts/1706-9-301022b1e3e1-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-10-9c1dc08ce44d-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1706-10-9c1dc08ce44d-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-10-60274f8747d5-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1706-10-60274f8747d5-v4.jpg"
         }
       ],
       "video_url": null,
@@ -341,28 +359,6 @@
       ],
       "video_url": null,
       "tg_url": "https://t.me/pgp_official/1704",
-      "forwarded_from": null
-    },
-    {
-      "id": 1702,
-      "date": "2026-02-02T07:02:29+00:00",
-      "text": "🔍 Входим в рабочий ритм с рубрикой #PG_Грамотность\n\nВнесение корректив или внесение коррективов. Как правильно?\n\n☝️ Читайте в карточке правописания!",
-      "text_html": "🔍 Входим в рабочий ритм с рубрикой #PG_Грамотность<br><br>Внесение корректив или внесение коррективов. Как правильно?<br><br>☝️ Читайте в карточке правописания!",
-      "views": 1420,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1702-1-a63b92a4a3b4-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1702-1-a63b92a4a3b4-v4.jpg"
-        },
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1702-2-0b19dbae06a0-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1702-2-0b19dbae06a0-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/pgp_official/1702",
       "forwarded_from": null
     }
   ]
