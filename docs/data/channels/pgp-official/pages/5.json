@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-21T05:13:45.204815+00:00",
+  "generated_at": "2026-04-21T07:07:07.409038+00:00",
   "pagination": {
     "page": 5,
     "page_size": 16,
-    "total_posts": 78,
+    "total_posts": 77,
     "total_pages": 5
   },
   "posts": [
@@ -17,8 +17,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1701-1-5000fb0afccb-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1701-1-5000fb0afccb-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1701-1-d8516a02f763-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1701-1-d8516a02f763-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1700-1-069c25cd5a70-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1700-1-069c25cd5a70-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1700-1-15c863aeeffe-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1700-1-15c863aeeffe-v4.jpg"
         }
       ],
       "video_url": null,
@@ -89,8 +89,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1696-1-0a3b87982b7a-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1696-1-0a3b87982b7a-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1696-1-29b0c53a3193-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1696-1-29b0c53a3193-v4.jpg"
         }
       ],
       "video_url": null,
@@ -112,8 +112,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1695-1-baa2fd448006-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1695-1-baa2fd448006-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1695-1-7ad2cfc432fa-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1695-1-7ad2cfc432fa-v4.jpg"
         }
       ],
       "video_url": null,
@@ -220,8 +220,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1689-1-26cb9b28b6a2-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1689-1-26cb9b28b6a2-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1689-1-015bdbc05ef5-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1689-1-015bdbc05ef5-v4.jpg"
         }
       ],
       "video_url": null,
@@ -243,8 +243,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1684-1-7d4a0d49a8db-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1684-1-7d4a0d49a8db-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1684-1-1104fe4de537-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1684-1-1104fe4de537-v4.jpg"
         },
         {
           "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1684-2-2912881c39b5-v4.jpg",
@@ -255,34 +255,16 @@
           "full_url": "data/channels/pgp-official/media/posts/1684-3-795d059d8625-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1684-4-8ca502c7a733-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1684-4-8ca502c7a733-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1684-4-00fe826ba33b-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1684-4-00fe826ba33b-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1684-5-9fe2abb06ecc-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1684-5-9fe2abb06ecc-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1684-5-704ab44b66df-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1684-5-704ab44b66df-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/pgp_official/1684",
-      "forwarded_from": null
-    },
-    {
-      "id": 1683,
-      "date": "2026-01-21T07:04:16+00:00",
-      "text": "⚡️ Правила ведения реестра российского ПО: что изменится?\n\n28 ноября 2025 г. Правительство РФ приняло комплекс поправок в ИТ-законодательство, утвердивших новые правила ведения реестра отечественного ПО, а также новые перечни – перечень доверенного ПО и перечень ПО для собственных нужд.\n\n🗓 Нововведения вступят в силу 1 марта 2026 г.\n\nРанее мы уже писали о готовящихся изменениях, когда они были на стадии проектов. В этом алерте выделяем ключевые различия между принятыми актами и их предварительными вариантами.\n\n❗️ Важно\n\nКомпаниям следует подготовиться к выполнению новых требований реестра отечественного ПО. Среди прочего, чтобы соблюсти требования, нужно в установленные сроки обеспечить совместимость ПО с двумя доверенными ОС, проанализировать корпоративную структуру на предмет иностранного/государственного участия.\nВ целях включения ПО в перечень доверенного либо для собственных нужд необходимо провести аудит соответствия ПО требованиям Закона № 325-ФЗ.\n\nПолный текст алерта доступен по ссылке👉\n\nℹ️ Если у вас остались вопросы по данной теме, вы можете связаться с Натальей Коваленко, партнером, и Евгением Леоновым, ведущим юристом «Пепеляев Групп».\n\n#pg_алерты",
-      "text_html": "⚡️ Правила ведения реестра российского ПО: что изменится?<br><br>28 ноября 2025 г. Правительство РФ приняло комплекс поправок в ИТ-законодательство, утвердивших новые правила ведения реестра отечественного ПО, а также новые перечни – перечень доверенного ПО и перечень ПО для собственных нужд.<br><br>🗓 Нововведения вступят в силу 1 марта 2026 г.<br><br>Ранее мы уже <a href=\"https://www.pgplaw.ru/analytics-and-brochures/alerts/planiruyutsya-masshtabnye-popravki-v-regulirovanii-it-otrasli/\" target=\"_blank\" rel=\"noopener noreferrer\">писали</a> о готовящихся изменениях, когда они были на стадии проектов. В этом алерте выделяем ключевые различия между принятыми актами и их предварительными вариантами.<br><br>❗️ Важно<br><br>Компаниям следует подготовиться к выполнению новых требований реестра отечественного ПО. Среди прочего, чтобы соблюсти требования, нужно в установленные сроки обеспечить совместимость ПО с двумя доверенными ОС, проанализировать корпоративную структуру на предмет иностранного/государственного участия.<br>В целях включения ПО в перечень доверенного либо для собственных нужд необходимо провести аудит соответствия ПО требованиям Закона № 325-ФЗ.<br><br>Полный текст алерта доступен <a href=\"https://www.pgplaw.ru/analytics-and-brochures/alerts/pravila-vedeniya-reestra-rossiyskogo-po/\" target=\"_blank\" rel=\"noopener noreferrer\">по ссылке</a>👉<br><br>ℹ️ Если у вас остались вопросы по данной теме, вы можете связаться с <a href=\"https://www.pgplaw.ru/to-get-the-team/natalya-ivashchenko/\" target=\"_blank\" rel=\"noopener noreferrer\">Натальей Коваленко,</a> партнером, и Евгением Леоновым, ведущим юристом «Пепеляев Групп».<br><br>#pg_алерты",
-      "views": 1020,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1683-1-a0bbc2be120d-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1683-1-a0bbc2be120d-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/pgp_official/1683",
       "forwarded_from": null
     }
   ]
