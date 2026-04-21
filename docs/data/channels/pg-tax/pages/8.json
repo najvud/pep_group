@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-04-21T10:26:16.613472+00:00",
+  "generated_at": "2026-04-21T12:45:34.846740+00:00",
   "pagination": {
     "page": 8,
     "page_size": 16,
-    "total_posts": 177,
+    "total_posts": 178,
     "total_pages": 12
   },
   "posts": [
+    {
+      "id": 2476,
+      "date": "2026-02-19T10:02:14+00:00",
+      "text": "🔥 Налоговый форум РСПП - в фокусе внимания бизнеса и власти\n\n17 февраля в Москве состоялся Налоговый форум РСПП с участием бизнеса и представителей ФНС России. \n\nВ фокусе внимания участников:\n\n     📎 массовые выездные налоговые проверки участников налогового мониторинга\n\n     📎 пилотный проект ФНС о распространении налогового мониторинга на ТЦО\n\n     📎 экстерриториальность налоговых проверок на практике\n \n     📎 проблема применения льготного коэффициента к расходам на НИОКР\n\nПодробнее об этих и других ключевых событиях форума читайте на сайте \"Налоговеда\" 👉\n\n#налоговые_новости",
+      "text_html": "🔥 Налоговый форум РСПП - в фокусе внимания бизнеса и власти<br><br>17 февраля в Москве состоялся Налоговый форум РСПП с участием бизнеса и представителей ФНС России. <br><br>В фокусе внимания участников:<br><br>     📎 <a href=\"https://nalogoved.ru/news/16307.html\" target=\"_blank\" rel=\"noopener noreferrer\">массовые выездные налоговые проверки участников налогового мониторинга</a><br><br>     📎 <a href=\"https://nalogoved.ru/news/16310.html\" target=\"_blank\" rel=\"noopener noreferrer\">пилотный проект ФНС о распространении налогового мониторинга на ТЦО</a><br><br>     📎 <a href=\"https://nalogoved.ru/news/16308.html\" target=\"_blank\" rel=\"noopener noreferrer\">экстерриториальность налоговых проверок на практике</a><br> <br>     📎 <a href=\"https://nalogoved.ru/news/16312.html\" target=\"_blank\" rel=\"noopener noreferrer\">проблема применения льготного коэффициента к расходам на НИОКР</a><br><br>Подробнее об этих и других ключевых событиях форума читайте <a href=\"https://nalogoved.ru/news/\" target=\"_blank\" rel=\"noopener noreferrer\">на сайте</a> \"Налоговеда\" 👉<br><br>#налоговые_новости",
+      "views": 1260,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2476-1-82a93484c772-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2476-1-82a93484c772-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/PG_Tax/2476",
+      "forwarded_from": null
+    },
     {
       "id": 2475,
       "date": "2026-02-19T07:51:37+00:00",
@@ -275,24 +293,6 @@
       "photos": [],
       "video_url": "https://cdn4.telesco.pe/file/bddec2768e.mp4?token=SflSo9wsKOS3G9Qpjw-lAf6hOtFzpi7glgoOB28orl-EGS5T7ljB1H8gW1hH25k66WX5o06C1BchWZlfL5hG6wZf3JqujmsXr_aess4syrH9QHGMDzb1OFZCzERxbXM4ar8QY3qQh5Uf_5B1DVlbR2P7y039qKZ6D3GT1j8tWY2Y9Ygug4Jc5Xi1wkS5-cWrrHztymp5p6k52ih9WgcS0MIy609kcv5WJOOl6HP5TCxm2OrBK_hJ-m8UiGwo5DGFiC4ZBL1Fw0M2gPRLGg0EdqY42Ahdb2rCQHD3IyxE2l50OvzSimwIEYv1gpmWp_-eHFe0O_8IvIopLVp-pLVjmg",
       "tg_url": "https://t.me/PG_Tax/2461",
-      "forwarded_from": null
-    },
-    {
-      "id": 2460,
-      "date": "2026-02-11T13:45:09+00:00",
-      "text": null,
-      "text_html": null,
-      "views": 1460,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2460-1-3a7cef64f2cc-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2460-1-3a7cef64f2cc-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2460",
       "forwarded_from": null
     }
   ]
