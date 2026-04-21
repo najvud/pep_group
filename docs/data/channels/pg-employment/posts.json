@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-21T15:51:33.419186+00:00",
+  "generated_at": "2026-04-21T16:45:32.241896+00:00",
   "site": {
     "channel_username": "pgEmployment",
     "channel_title": "PG Employment | Трудовое право",
@@ -19,7 +19,7 @@
   "pagination": {
     "page": 1,
     "page_size": 16,
-    "total_posts": 37,
+    "total_posts": 36,
     "total_pages": 3
   },
   "posts": [
