@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-21T12:45:09.988165+00:00",
+  "generated_at": "2026-04-21T14:24:17.929183+00:00",
   "pagination": {
     "page": 2,
     "page_size": 16,
-    "total_posts": 77,
+    "total_posts": 76,
     "total_pages": 5
   },
   "posts": [
@@ -39,8 +39,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1780-1-884483fed1d1-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1780-1-884483fed1d1-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1780-1-6c150d335373-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1780-1-6c150d335373-v4.jpg"
         }
       ],
       "video_url": null,
@@ -110,8 +110,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1774-1-ace8dee06c3d-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1774-1-ace8dee06c3d-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1774-1-6933af5fd19a-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1774-1-6933af5fd19a-v4.jpg"
         }
       ],
       "video_url": null,
@@ -146,8 +146,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1772-1-b2d38881a1f0-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1772-1-b2d38881a1f0-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1772-1-5119a4a93639-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1772-1-5119a4a93639-v4.jpg"
         }
       ],
       "video_url": null,
@@ -164,21 +164,21 @@
       "date": "2026-03-20T14:05:01+00:00",
       "text": "🧩 Продолжаем делиться сервисами, которые помогают нам оставаться с вами на связи\n\nПоскольку Telegram работает нестабильно, мы сделали приложение, в котором можно без ограничений читать все наши каналы. Его можно скачать на телефон или компьютер и продолжать следить за нашими публикациями в удобном формате.\n\n▫️Чтобы установить приложение, перейдите по ссылке и сохраните его на главный экран своего устройства. В карточке к посту подготовили пошаговую инструкцию, как это сделать на IOS и Android. \n\nУстановить приложение 👉",
       "text_html": "🧩 Продолжаем делиться сервисами, которые помогают нам оставаться с вами на связи<br><br>Поскольку Telegram работает нестабильно, мы сделали приложение, в котором можно без ограничений читать все наши каналы. Его можно скачать на телефон или компьютер и продолжать следить за нашими публикациями в удобном формате.<br><br>▫️Чтобы установить приложение, перейдите <a href=\"https://pgplaw.github.io/pgp_official/\" target=\"_blank\" rel=\"noopener noreferrer\">по ссылке</a> и сохраните его на главный экран своего устройства. В карточке к посту подготовили пошаговую инструкцию, как это сделать на IOS и Android. <br><br><a href=\"https://pgplaw.github.io/pgp_official/\" target=\"_blank\" rel=\"noopener noreferrer\">Установить приложение</a> 👉",
-      "views": 6790,
+      "views": 6800,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1769-1-cb15d0d7105e-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1769-1-cb15d0d7105e-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1769-1-5b3a7033dd51-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1769-1-5b3a7033dd51-v4.jpg"
         },
         {
           "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1769-2-09797580cee0-v4.jpg",
           "full_url": "data/channels/pgp-official/media/posts/1769-2-09797580cee0-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1769-3-2b7705ae664d-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1769-3-2b7705ae664d-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1769-3-f07f5bb646ca-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1769-3-f07f5bb646ca-v4.jpg"
         }
       ],
       "video_url": null,
@@ -254,8 +254,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1765-1-93553cf948c0-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1765-1-93553cf948c0-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1765-1-839ce2d752e6-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1765-1-839ce2d752e6-v4.jpg"
         }
       ],
       "video_url": null,
@@ -317,8 +317,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1761-1-68934d390799-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1761-1-68934d390799-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1761-1-01b63139f7ce-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1761-1-01b63139f7ce-v4.jpg"
         }
       ],
       "video_url": null,

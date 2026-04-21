@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-21T10:24:41.317429+00:00",
+  "generated_at": "2026-04-21T14:24:17.934601+00:00",
   "pagination": {
     "page": 5,
     "page_size": 16,
-    "total_posts": 77,
+    "total_posts": 76,
     "total_pages": 5
   },
   "posts": [
@@ -17,12 +17,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1702-1-a63b92a4a3b4-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1702-1-a63b92a4a3b4-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1702-1-b0ed9b3f2fe2-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1702-1-b0ed9b3f2fe2-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1702-2-0b19dbae06a0-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1702-2-0b19dbae06a0-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1702-2-cb440a908579-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1702-2-cb440a908579-v4.jpg"
         }
       ],
       "video_url": null,
@@ -39,8 +39,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1701-1-8105fd5954a2-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1701-1-8105fd5954a2-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1701-1-19490bf1b575-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1701-1-19490bf1b575-v4.jpg"
         }
       ],
       "video_url": null,
@@ -57,8 +57,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1700-1-7d4e4cdc7d72-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1700-1-7d4e4cdc7d72-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1700-1-4a65cb939dd2-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1700-1-4a65cb939dd2-v4.jpg"
         }
       ],
       "video_url": null,
@@ -75,8 +75,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1699-1-2de5f850966d-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1699-1-2de5f850966d-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1699-1-4c50e8c748ce-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1699-1-4c50e8c748ce-v4.jpg"
         }
       ],
       "video_url": null,
@@ -93,8 +93,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1697-1-bda9dccb8925-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1697-1-bda9dccb8925-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1697-1-cc286c2335d7-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1697-1-cc286c2335d7-v4.jpg"
         }
       ],
       "video_url": null,
@@ -111,8 +111,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1696-1-5dd776f6f704-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1696-1-5dd776f6f704-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1696-1-630a5241439f-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1696-1-630a5241439f-v4.jpg"
         }
       ],
       "video_url": null,
@@ -134,8 +134,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1695-1-25a0af36c9e2-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1695-1-25a0af36c9e2-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1695-1-0d117a755388-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1695-1-0d117a755388-v4.jpg"
         }
       ],
       "video_url": null,
@@ -152,8 +152,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1694-1-ef76eeaabc23-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1694-1-ef76eeaabc23-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1694-1-0587c0e3f7dc-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1694-1-0587c0e3f7dc-v4.jpg"
         }
       ],
       "video_url": null,
@@ -170,8 +170,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1693-1-226b9f985603-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1693-1-226b9f985603-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1693-1-4d1d292912de-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1693-1-4d1d292912de-v4.jpg"
         }
       ],
       "video_url": null,
@@ -188,8 +188,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1692-1-8a18bb32b0c2-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1692-1-8a18bb32b0c2-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1692-1-be3a909c010f-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1692-1-be3a909c010f-v4.jpg"
         }
       ],
       "video_url": null,
@@ -206,8 +206,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1691-1-01f192142fd5-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1691-1-01f192142fd5-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1691-1-f2b1813717ac-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1691-1-f2b1813717ac-v4.jpg"
         }
       ],
       "video_url": null,
@@ -224,36 +224,13 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1690-1-777e029137a9-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1690-1-777e029137a9-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1690-1-8fb3f2b5c6fe-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1690-1-8fb3f2b5c6fe-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/pgp_official/1690",
       "forwarded_from": null
-    },
-    {
-      "id": 1689,
-      "date": "2026-01-21T13:02:27+00:00",
-      "text": "​​🔇 6 ключевых изменений для руководителей и собственников компании\n\nАнна Никитина, юрист практики банкротства и антикризисной защиты бизнеса, рассматривает новеллы ВС РФ о привлечении контролирующих должника лиц (КДЛ) к субсидиарной ответственности.\n\n⚖️ 23.12.2025 года Верховный Суд утвердил изменения в постановление Пленума ВС РФ от 21.12.2017 № 53 «О некоторых вопросах, связанных с привлечением контролирующих должника лиц к ответственности при банкротстве».\n\n❗️ На что обратить внимание руководителям и собственникам бизнеса?\n\n1️⃣ Предпринимательский риск – не основание для привлечения к ответственности.\nСубсидиарная ответственность возможна только при доказанном недобросовестном и неразумном поведении, не обусловленном рыночными или иными объективными факторами (абз. 2 п. 1 ПП ВС № 53 в новой редакции).\n\n2️⃣ Переквалификация убытков в субсидиарную ответственность.\nЕсли при рассмотрении иска об убытках суд установит, что действия КДЛ фактически привели к невозможности расчетов с кредиторами, он может предложить сторонам изменить требование и перейти к вопросу о привлечении к субсидиарной ответственности. \nВзыскание убытков по ГК РФ не исключает последующего заявления о субсидиарной ответственности - в непокрытой части. Но только если при рассмотрении убытков суд не оценивал, было ли существенное влияние контролирующего лица на должника (п. 20 (1) и 20 (2) ПП ВС № 53).\n\n3️⃣ Личная ответственность членов коллегиального органа управления.\n\nВыводы о недобросовестности не могут быть основаны исключительно на принадлежности к одной группе контролирующих лиц - необходимо установить вклад каждого конкретного лица в причинение вреда кредиторам (п. 22 (1) и 22 (2) ПП ВС № 53).\n\n4️⃣ Расчет размера субсидиарной ответственности.\nВ размер субсидиарной ответственности включаются требования (п. 26 (1) ПП ВС № 53):\n📎 по текущим платежам;\n📎 реестровые и заявленные после закрытия реестра;\n📎 о выплате финансовых санкций, за исключением        штрафов за налоговые правонарушения;\n📎 требования об уплате мораторных процентов.\n\n❗️ Не подлежат включению в размер субсидиарной ответственности требования, по которым доказано отсутствие причинно-следственной связи между поведением КДЛ и вменяемым размером ответственности (п. 26 (6) ПП ВС № 53).\n\n5️⃣ Процессуальная пассивность усиливает позицию кредиторов.\n\nЕсли КДЛ не представляет отзыв и уклоняется от пояснений о причинах банкротства и особенностей осуществления им хозяйственной деятельности, суд вправе расценить такое поведение как косвенное подтверждение доводов заявителя (п. 56¹ ПП ВС № 53). О том, почему молчание не всегда золото, мы писали тут.\n\n6️⃣ Усиление роли прокуратуры.\nПрокурор вправе инициировать привлечение к субсидиарной ответственности и вступить в процесс на любой стадии (п. 31 (1) ПП ВС № 53). Подробнее о новых рисках тут.\n\n💡 Выводы: Изменение практики сместило акценты при оценке рисков принятия конкретных управленческих решений. Главный рецепт защиты от рисков персональной ответственности – их профилактика. Но если уж дело дошло до банкротства, для успешной защиты ответчику требуется максимально активная, доказательная и процессуально выверенная позиция на самых ранних стадиях.\n\n#Субсидиарная_ответственность\n#Убытки",
-      "text_html": "<a href=\"http://telegraph.controller.bot/files/7064224270/AgACAgIAAxkBAAIME2ltdTfriIR11LDh2ZK3M8By4U4cAAIlC2sbXBJwS4XjqK0QvQABgwEAAwIAA3gAAzgE\" target=\"_blank\" rel=\"noopener noreferrer\">​​</a>🔇 6 ключевых изменений для руководителей и собственников компании<br><br>Анна Никитина, юрист практики банкротства и антикризисной защиты бизнеса, рассматривает новеллы ВС РФ о привлечении контролирующих должника лиц (КДЛ) к субсидиарной ответственности.<br><br>⚖️ 23.12.2025 года Верховный Суд утвердил изменения в постановление Пленума ВС РФ от 21.12.2017 № 53 «О некоторых вопросах, связанных с привлечением контролирующих должника лиц к ответственности при банкротстве».<br><br>❗️ На что обратить внимание руководителям и собственникам бизнеса?<br><br>1️⃣ Предпринимательский риск – не основание для привлечения к ответственности.<br>Субсидиарная ответственность возможна только при доказанном недобросовестном и неразумном поведении, не обусловленном рыночными или иными объективными факторами (абз. 2 п. 1 ПП ВС № 53 в новой редакции).<br><br>2️⃣ Переквалификация убытков в субсидиарную ответственность.<br>Если при рассмотрении иска об убытках суд установит, что действия КДЛ фактически привели к невозможности расчетов с кредиторами, он может предложить сторонам изменить требование и перейти к вопросу о привлечении к субсидиарной ответственности. <br>Взыскание убытков по ГК РФ не исключает последующего заявления о субсидиарной ответственности - в непокрытой части. Но только если при рассмотрении убытков суд не оценивал, было ли существенное влияние контролирующего лица на должника (п. 20 (1) и 20 (2) ПП ВС № 53).<br><br>3️⃣ Личная ответственность членов коллегиального органа управления.<br><br>Выводы о недобросовестности не могут быть основаны исключительно на принадлежности к одной группе контролирующих лиц - необходимо установить вклад каждого конкретного лица в причинение вреда кредиторам (п. 22 (1) и 22 (2) ПП ВС № 53).<br><br>4️⃣ Расчет размера субсидиарной ответственности.<br>В размер субсидиарной ответственности включаются требования (п. 26 (1) ПП ВС № 53):<br>📎 по текущим платежам;<br>📎 реестровые и заявленные после закрытия реестра;<br>📎 о выплате финансовых санкций, за исключением        штрафов за налоговые правонарушения;<br>📎 требования об уплате мораторных процентов.<br><br>❗️ Не подлежат включению в размер субсидиарной ответственности требования, по которым доказано отсутствие причинно-следственной связи между поведением КДЛ и вменяемым размером ответственности (п. 26 (6) ПП ВС № 53).<br><br>5️⃣ Процессуальная пассивность усиливает позицию кредиторов.<br><br>Если КДЛ не представляет отзыв и уклоняется от пояснений о причинах банкротства и особенностей осуществления им хозяйственной деятельности, суд вправе расценить такое поведение как косвенное подтверждение доводов заявителя (п. 56¹ ПП ВС № 53). О том, почему молчание не всегда золото, мы писали <a href=\"https://t.me/bankrotstvo_mustknow/356\" target=\"_blank\" rel=\"noopener noreferrer\">тут.</a><br><br>6️⃣ Усиление роли прокуратуры.<br>Прокурор вправе инициировать привлечение к субсидиарной ответственности и вступить в процесс на любой стадии (п. 31 (1) ПП ВС № 53). Подробнее о новых рисках <a href=\"https://t.me/bankrotstvo_mustknow/347\" target=\"_blank\" rel=\"noopener noreferrer\">тут.</a><br><br>💡 Выводы: Изменение практики сместило акценты при оценке рисков принятия конкретных управленческих решений. Главный рецепт защиты от рисков персональной ответственности – их профилактика. Но если уж дело дошло до банкротства, для успешной защиты ответчику требуется максимально активная, доказательная и процессуально выверенная позиция на самых ранних стадиях.<br><br>#Субсидиарная_ответственность<br>#Убытки",
-      "views": 1050,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1689-1-44abd4753bba-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1689-1-44abd4753bba-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/pgp_official/1689",
-      "forwarded_from": {
-        "source_url": "https://t.me/bankrotstvo_mustknow/379",
-        "channel_url": "https://t.me/s/bankrotstvo_mustknow",
-        "channel_username": "bankrotstvo_mustknow",
-        "channel_title": "Банкротство | Взгляд эксперта"
-      }
     }
   ]
 }
