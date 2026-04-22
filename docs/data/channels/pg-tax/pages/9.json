@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T08:09:45.198193+00:00",
+  "generated_at": "2026-04-22T09:51:51.228665+00:00",
   "pagination": {
     "page": 9,
     "page_size": 16,
@@ -7,6 +7,19 @@
     "total_pages": 12
   },
   "posts": [
+    {
+      "id": 2461,
+      "date": "2026-02-11T13:45:16+00:00",
+      "text": null,
+      "text_html": null,
+      "views": 1400,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [],
+      "video_url": "https://cdn4.telesco.pe/file/bddec2768e.mp4?token=XBaM60xpqRDCIXWDtVLw_h5rPOLAq3LZCtK7bRMgP5uUOIKo_58FF-B8w9yGv2iPisZ_YqIi8a1QM2RgmMRMRBcyCzKFdBGsSybek3dSxBu-qR_uGPY0IUpIyCsmvQ0l3y0S4ZmDba33F21D18um79vp_f5A7pitsLImZgFLmPWtKRK6kjt6XdfYJEVIdFjD4DgdN0jPN0pcEkXw7TQmL0puLy80teiReFRbsIjypckLyy9bIqu5C2lLfTFuiZalMNKQ1WQvXIN4B6ptCZ1l6SR-rJDrW5J7u6PjBAJokTZJyW5kqG2_wvnaC-4-7BZ9yjF5xkgF5B5FEeYVGkpsng",
+      "tg_url": "https://t.me/PG_Tax/2461",
+      "forwarded_from": null
+    },
     {
       "id": 2460,
       "date": "2026-02-11T13:45:09+00:00",
@@ -17,8 +30,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2460-1-d5ebaa64f003-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2460-1-d5ebaa64f003-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2460-1-1780aab47da1-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2460-1-1780aab47da1-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +48,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2459-1-d5abd866174f-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2459-1-d5abd866174f-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2459-1-c78184ce3170-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2459-1-c78184ce3170-v4.jpg"
         }
       ],
       "video_url": null,
@@ -53,8 +66,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2458-1-2e852e62df92-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2458-1-2e852e62df92-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2458-1-29eea87e69d6-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2458-1-29eea87e69d6-v4.jpg"
         }
       ],
       "video_url": null,
@@ -70,7 +83,7 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/9c54e3d766.mp4?token=gwIeGkxkjEDqcuPmeP8RABn-T8g2Wmmw6m-mIWDLHp5m2r8MFEeDONlsg8lmtgilGw-mq3db2ucqo29ZYvsTtdGT2DenlXrOXYc1Iv7wfx3wQTqPL12i_koKJuQGJdGJhFxpP_-d3gtPSb_aDp4LOezHJUpYQmLs6ULHZdHJFdXE2VRGioiUdGJ3Q9NE3cSJG1DCXjegmUrTYTKv0TAcB4Atx8_nLjMX-y8eJen0FofLUw-qI-0XgcU-Cf_Tlqh1Fuo7uz52l-7PV3upQB2laZvV8R51PaNKaSwQHsIoScR5RO-pcWOA2S-WLzA8hM90YWIHhVAAVIh_KbaUPQgDeQ",
+      "video_url": "https://cdn4.telesco.pe/file/9c54e3d766.mp4?token=fnG6mFd01EaLcrU_rROnK2V-1PpiAkmVdeMYKLj9DEXm2ZC3BXXy3LU-j7rS9CszGliH32xU1C5DAPRGogTTEpF2cCuFtKOYZ_r2vlq9LS6qrs2oIorYr5gL2nEGjyvHs5WbOt7BDdlgNbICogjcbw7juLR_g69wj1DbrfyZb52fW93lsxRUqPKxMDCVMSoFV6NUkwF4lVbJ5jinlAr0c1TjDudR-vW8epsUEbowwoSh1Jzf2TkwIDdt9fpbxok91rZFactXfP76WhkRQE3RT5MbvrIwrwo3AoI06keMM7cTcTJZw85yMpwT_rKNl_rnYlZsJjRG0pdhblqdYgS89A",
       "tg_url": "https://t.me/PG_Tax/2457",
       "forwarded_from": null
     },
@@ -84,8 +97,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2456-1-48a95166434e-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2456-1-48a95166434e-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2456-1-81098eedc580-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2456-1-81098eedc580-v4.jpg"
         }
       ],
       "video_url": null,
@@ -102,8 +115,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2455-1-cdaa3ba63837-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2455-1-cdaa3ba63837-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2455-1-a197639d06d4-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2455-1-a197639d06d4-v4.jpg"
         }
       ],
       "video_url": null,
@@ -120,8 +133,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2454-1-a57927e9fad9-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2454-1-a57927e9fad9-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2454-1-5178f8e6894b-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2454-1-5178f8e6894b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -137,7 +150,7 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/90a830aa1a.mp4?token=dxPLQxeJcoTFAH5bQtAIPTk6Gl3NpcLgoRe9kShP8-tAd3H5tB8EMi5Uxr_Gen8lQM0pQR6VSFcPTsusoz0Z6gHXF7HNiJmMdFwDGxTBnOnwQ8_YsmL4k6Lpg1-OozRSM7UHjDRr6_ad7egpyFvTxiaJHk18cFUxpVZQ9e7KDRzxAduv_1acfW6MliccssTnNcOcedDPDVLuaKPNNf6Qcoue_-ZlKKOJzbjn57cIwYCWwgATFg2cBf_r7LPKjlB4FsLebG7Tl6KgcPgJnVEpal4Zxno9c2boir7P-8W3jJ79regEoJPcmE7xj2mJ2Z3A137hmAuMgkGqZIRaZYNqBQ",
+      "video_url": "https://cdn4.telesco.pe/file/90a830aa1a.mp4?token=ret0hlKRZVKIXG5f4odIGnmxS6EsRJnATtGfCI4k6pusf0n2-bF_CNaMPLLI7B_329KrnhJGU-SwfRMRhoC7bJ9spjderNqMRpjSYA8iLnPswLQUNraUJhgIBHRm1MbYOb-C-F5GtxYeF-xKSr4Ho5sfgDtMM-CuWHR2aaZBdkD7XGHcJU5XKZLStIQ5vYvFJpLEvg4YMfkoJ_gFP03XPFHNLkCpzdwaSQZ4gVYzjjeUbt4jEjdjWqOo9uGmxYm0_DCKCPaYefeBqiSQepAUNiSl0RvB5JubvEB-FwcidrhDFxSwddtClbiJpuWvfRq-Gc2Ry_WzAo1SbLP-6aXyOA",
       "tg_url": "https://t.me/PG_Tax/2453",
       "forwarded_from": null
     },
@@ -151,8 +164,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2452-1-a1a74931387c-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2452-1-a1a74931387c-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2452-1-9f183bcd58b2-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2452-1-9f183bcd58b2-v4.jpg"
         }
       ],
       "video_url": null,
@@ -169,8 +182,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2451-1-420d1a2c8044-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2451-1-420d1a2c8044-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2451-1-a1337fc2e235-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2451-1-a1337fc2e235-v4.jpg"
         }
       ],
       "video_url": null,
@@ -187,8 +200,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2450-1-1558ea71aaad-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2450-1-1558ea71aaad-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2450-1-46ce26c36aff-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2450-1-46ce26c36aff-v4.jpg"
         }
       ],
       "video_url": null,
@@ -204,7 +217,7 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/a9db42e7e0.mp4?token=aHHWn7wZbbd2zjzxzpz0pDm9ViZ0_9makfNDrZ32ekbhfpMf269u3wkMGdrwx9KneDl8_2_C39VnJyf-o50rHMcJV84aqj-YXEHaX_BUNMl80o8MRjnE_hrQiGZjMwpLWcuH-iuEmSpb6l9W1a4ez-Tizgr_6MCSI_55jM9EH57e1cEgT4_BU4GYHuiL3MZmB-7hSyT-W_de9S6rfQcWCm9r3ucgJ2BkJ0ExqRrDeGsYsmCbSH1wOdrMRonwJEBt1ONAQ8OvcXoODoCELbJHEVixD_gdP0rLKaXZU69bqbNJNJYKLNK2kB22ZshJjRrtjvoKIzHMN9SwLrYDuXBvzA",
+      "video_url": "https://cdn4.telesco.pe/file/a9db42e7e0.mp4?token=BVs8SUhRZhajuhOi0q3uP3Xk9afaApiDtaApCA1Ot1COydzRWYpJ1JMC2FR4Zidx4vN6OOimtz2sCxIPiIEnLKy-h53tJTfAjLVUeNYa4oxCNGSmj057DxcTAkflcOcE206aXX-m4gZze4WU8ncmaBBxZTG8znlRbMWk9ZFA42YuHymZSHS5lV1IZtiEz62a8NcZyy9kmNKmCKjwRZMd051Jl0cgqA23BKh_LO0zcoVRZosl4ch3IWeSTnSP5EKIXgdTWL2eFSpXMkuL50oVO1qlduBbJ_Wb4gd92TB_HXaJ2fVUasDqYF_Ji_KDyll4FpSEpHBvFko8wve3MU6leQ",
       "tg_url": "https://t.me/PG_Tax/2449",
       "forwarded_from": null
     },
@@ -218,8 +231,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2448-1-10a0f7d42759-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2448-1-10a0f7d42759-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2448-1-9b82026c5d6f-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2448-1-9b82026c5d6f-v4.jpg"
         }
       ],
       "video_url": null,
@@ -254,30 +267,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2446-1-effeeffecd2b-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2446-1-effeeffecd2b-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2446-1-b26d44c0228e-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2446-1-b26d44c0228e-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/PG_Tax/2446",
-      "forwarded_from": null
-    },
-    {
-      "id": 2445,
-      "date": "2026-02-05T10:06:44+00:00",
-      "text": "💰 Обложение земельным налогом участков для жилищного строительства\n\nМы писали, что ВС РФ может сформировать позицию о применении повышающих коэффициентов земельного налога для ускорения застройки. Не сложилось.\nℹ️ Отказано в передаче в СКЭС и дела в пользу налогоплательщика, и дела в пользу инспекции. Как в анекдоте, «и ты прав, и ты прав». Ждем развития сюжета – они же не могут быть правы одновременно. \nКогда-нибудь вопрос, надеемся, попадет на рассмотрение коллегии.\n\nПока прокомментируем дело ООО «Монастырка 5» об иной грани налогообложения участка, приобретенного для жилищного строительства.\n\n🔍 Фабула дела \n\nОрганизация в 2016 купила участок в центральной, но довольно запущенной части Петербурга. Вид разрешенного использования «для размещения МКД (жилых домов)», на участке 6 нежилых зданий. Время шло, стройка не начиналась.\n\nКакова ставка земельного налога за 2022 – льготные 0,05% для «земельных участков, приобретенных (предоставленных) для жилищного строительства», или общие 1,5%?\n\n📄 Позиции сторон\n\n🔘Инспекция подтвердила льготную ставку, а потом пересчитала налог. Основание – письмо городского Комитета по контролю за имуществом о несоответствии фактического использования объектов недвижимости ВРИ участка: в зданиях размещены производства экранов для ванн, стекольный, дилерский центры по обслуживанию строительной техники, склад, реставрационная мастерская, автосервис и офисы.\n\n🔘Плательщик указывал, что законодательство предусмотрело право на применение пониженной ставки в отношении участков, предоставленных (приобретенных) с намерением их использования для жилищного строительства, а не только фактически используемых для жилищного строительства, не ограничило период освоения участков для целей жилищного строительства, в качестве меры стимулирования скорейшего использования установило повышающие коэффициенты, применяемые до регистрации права на построенный МКД. \nУчасток предоставлен для жилищного строительства, его освоение для этих целей начал еще предыдущий собственник.\n\n⚖️ Позиция суда \n\nСо ссылкой на определение СКЭС ВС РФ от 26.06.2025 № 309-ЭС25-172, кассация сослалась на презумпцию:\n1️⃣Если использование участка отвечает его ВРИ, ставка применяется исходя из вида целевого использования, указанного в правоустанавливающих (кадастровых) документах. \n 2️⃣ Но в случае спора плательщику необходимо доказать фактическое использование участка по целевому назначению.\n\nЭто у организации не получилось:\n     🔴участок не занят жилищным фондом - на нем расположены нежилые здания, используемые в целях, отличных от ВРИ;\n     🔴освоение участка для реализации проекта по строительству жилья не доказано;\n     🔴предыдущий собственник в 2011-12 заключил договоры на разработку проектов планировки и межевания территории, но они не актуальны из-за изменения в требованиях градостроительного проектирования, землепользования и застройки;\n     🔴с момента перехода права собственности к Обществу не заключены договоры, подтверждающие реализацию проекта жилищной застройки участка;\n     🔴доказательства, что с 2016 по 2022 Общество фактически принимало меры для строительства на участке МКД, не представлены.\n\n❓ Справедливо ли решение?\n\nЗадумаемся, нет ли противоречия с позицией Пленума ВАС РФ о том, что неосвоение земельного участка, приобретенного (предоставленного) для жилищного строительства, не является основанием для отказа в применении пониженной ставки земельного налога (пункт 8)? \n\nСуды не в первый раз не видят коллизии.\n\nКлючевой тезис – надо различать неосвоение участка и использование его для целей, противоречащих ВРИ:\n✔️если участок простаивает, риск вроде бы «отбивается» позицией Пленума ВАС РФ;\n❌а вот если собственник получает с участка доход и одновременно готовит его к застройке, возможны претензии.\n\n☝️ Вывод\n\nЧтобы иметь шансы отстоять льготную ставку, необходимо тщательно документировать активность, направленную на реализацию строительного проекта.\n\n #налоги_у_застройщиков\n\n➖➖\n📧 Столкнулись со сложными вопросами налогообложения строительной деятельности? Напишите партнеру Сергею Сосновскому: s.sosnovsky@pgplaw.ru",
-      "text_html": "💰 Обложение земельным налогом участков для жилищного строительства<br><br>Мы <a href=\"https://t.me/PG_Tax/2336\" target=\"_blank\" rel=\"noopener noreferrer\">писали,</a> что ВС РФ может сформировать позицию о применении повышающих коэффициентов земельного налога для ускорения застройки. Не сложилось.<br>ℹ️ Отказано в передаче в СКЭС и дела в пользу налогоплательщика, и дела в пользу инспекции. Как в анекдоте, «и ты прав, и ты прав». Ждем развития сюжета – они же не могут быть правы одновременно. <br>Когда-нибудь вопрос, надеемся, попадет на рассмотрение коллегии.<br><br>Пока прокомментируем <a href=\"https://kad.arbitr.ru/Card/32d146f5-2eff-4dfe-9233-b7b591007bc1\" target=\"_blank\" rel=\"noopener noreferrer\">дело ООО «Монастырка 5»</a> об иной грани налогообложения участка, приобретенного для жилищного строительства.<br><br>🔍 Фабула дела <br><br>Организация в 2016 купила <a href=\"https://yandex.ru/maps/-/CPAijGLI\" target=\"_blank\" rel=\"noopener noreferrer\">участок</a> в центральной, но довольно запущенной части Петербурга. Вид разрешенного использования «для размещения МКД (жилых домов)», на участке 6 нежилых зданий. Время шло, стройка не начиналась.<br><br>Какова ставка земельного налога за 2022 – льготные 0,05% для «земельных участков, приобретенных (предоставленных) для жилищного строительства», или общие 1,5%?<br><br>📄 Позиции сторон<br><br>🔘Инспекция подтвердила льготную ставку, а потом пересчитала налог. Основание – письмо городского Комитета по контролю за имуществом о несоответствии фактического использования объектов недвижимости ВРИ участка: в зданиях размещены производства экранов для ванн, стекольный, дилерский центры по обслуживанию строительной техники, склад, реставрационная мастерская, автосервис и офисы.<br><br>🔘Плательщик указывал, что законодательство предусмотрело право на применение пониженной ставки в отношении участков, предоставленных (приобретенных) с намерением их использования для жилищного строительства, а не только фактически используемых для жилищного строительства, не ограничило период освоения участков для целей жилищного строительства, в качестве меры стимулирования скорейшего использования установило повышающие коэффициенты, применяемые до регистрации права на построенный МКД. <br>Участок предоставлен для жилищного строительства, его освоение для этих целей начал еще предыдущий собственник.<br><br>⚖️ Позиция суда <br><br>Со ссылкой на <a href=\"https://kad.arbitr.ru/Document/Pdf/dd039c0e-c806-4be1-abe0-81a20e7df90d/9e9bc581-0ee2-486e-af90-0984e9c7573f/A76-36990-2023_20250626_Opredelenie.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">определение СКЭС</a> ВС РФ от 26.06.2025 № 309-ЭС25-172, <a href=\"https://kad.arbitr.ru/Document/Pdf/32d146f5-2eff-4dfe-9233-b7b591007bc1/69fe1ace-6359-4a0d-bc7d-87112966a8fe/A56-89856-2024_20251210_Postanovlenie_kassacionnoj_instancii.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">кассация</a> сослалась на презумпцию:<br>1️⃣Если использование участка отвечает его ВРИ, ставка применяется исходя из вида целевого использования, указанного в правоустанавливающих (кадастровых) документах. <br> 2️⃣ Но в случае спора плательщику необходимо доказать фактическое использование участка по целевому назначению.<br><br>Это у организации не получилось:<br>     🔴участок не занят жилищным фондом - на нем расположены нежилые здания, используемые в целях, отличных от ВРИ;<br>     🔴освоение участка для реализации проекта по строительству жилья не доказано;<br>     🔴предыдущий собственник в 2011-12 заключил договоры на разработку проектов планировки и межевания территории, но они не актуальны из-за изменения в требованиях градостроительного проектирования, землепользования и застройки;<br>     🔴с момента перехода права собственности к Обществу не заключены договоры, подтверждающие реализацию проекта жилищной застройки участка;<br>     🔴доказательства, что с 2016 по 2022 Общество фактически принимало меры для строительства на участке МКД, не представлены.<br><br>❓ Справедливо ли решение?<br><br>Задумаемся, нет ли противоречия с <a href=\"https://www.vsrf.ru/documents/arbitration/18537/?ysclid=ml29kduh5e479429430\" target=\"_blank\" rel=\"noopener noreferrer\">позицией Пленума ВАС РФ</a> о том, что неосвоение земельного участка, приобретенного (предоставленного) для жилищного строительства, не является основанием для отказа в применении пониженной ставки земельного налога (пункт 8)? <br><br>Суды <a href=\"https://kad.arbitr.ru/Document/Pdf/73d68f5e-9936-4f2d-a01e-c06c349a3085/e408ee8e-eea4-4ff4-be4c-7d726bf39c83/A56-57288-2024_20250826_Postanovlenie_kassacionnoj_instancii.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">не в первый раз</a> не видят коллизии.<br><br>Ключевой тезис – надо различать неосвоение участка и использование его для целей, противоречащих ВРИ:<br>✔️если участок простаивает, риск вроде бы «отбивается» позицией Пленума ВАС РФ;<br>❌а вот если собственник получает с участка доход и одновременно готовит его к застройке, возможны претензии.<br><br>☝️ Вывод<br><br>Чтобы иметь шансы отстоять льготную ставку, необходимо тщательно документировать активность, направленную на реализацию строительного проекта.<br><br> #налоги_у_застройщиков<br><br>➖➖<br>📧 Столкнулись со сложными вопросами налогообложения строительной деятельности? Напишите партнеру Сергею Сосновскому: s.sosnovsky@pgplaw.ru",
-      "views": 3290,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2445-1-f94b53386ac6-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2445-1-f94b53386ac6-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2445",
       "forwarded_from": null
     }
   ]
