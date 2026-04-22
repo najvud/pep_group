@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T13:58:45.164785+00:00",
+  "generated_at": "2026-04-22T15:10:49.406294+00:00",
   "pagination": {
     "page": 10,
     "page_size": 16,
@@ -35,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2445-1-e0eda6634ccb-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2445-1-e0eda6634ccb-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2445-1-9bec611b3358-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2445-1-9bec611b3358-v4.jpg"
         }
       ],
       "video_url": null,
@@ -137,7 +137,7 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/4501c9f0fd.mp4?token=seu30nSf4LVDSVgOSiBgCU096XFHm4BtsOeuP25VN1L0C29LHtOKoMiPr-MiABkobi70xlma8YNIT3ueG4ONV0DhKETRky3Yl9srrCZZr0Tf4xLzXa5JGK1Oeu8BavhW7ijKdN7eTysen4sF8-slz-AB_QZ7jGLzxq8mzQMg0mvKcNT3pYJRnj9WEMCpCntOmfJVPFCIdeIWrcctbm6KvIc7BfNQCzqB0khvpXIPvE_0iR0cMUlGMYsocsVXM9WDyTFDPYKGYufL9KB2AmZOhsjJbbac-lwxSCYa6TQpvyAdfdWRCk4Z6ULIO-UpcheY8eevn7a5Lp1fPD7x_HzVnQ",
+      "video_url": "https://cdn4.telesco.pe/file/4501c9f0fd.mp4?token=ougk5dLXQ05UtQXNS7GEQHU0mUiLl1-aUTPmIMUS5N5KutvDqoPzy8XKF9UwjHC7ZVSph-7YEPWom2XWEnpeXQUrbWAslmW_LzuQNQ0QsjGAVGHyZOs9ahob0Amw9XiQJKy4QaMwLPL3ndRFJU_9RhhgScoYZ3lJvMfD8S_Z2fJThm7zPB5JIlqhWZCJNc9rBbIUhbOAMKNW8zKRwUyad6C6O5-Cfn5DcOVukHFkjPcMGy6QxHV_A0OyL-DH8p8_m_LfzdFMHZQZNPCRGb4jo7p_2fPzZP3zLumFpV0ETnKLNZcrbyle1z5ZVynn9V9XIRYtCm2_YsZAaD2lIrj67A",
       "tg_url": "https://t.me/PG_Tax/2439",
       "forwarded_from": null
     },
@@ -236,8 +236,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2433-1-9b2ce01f05fe-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2433-1-9b2ce01f05fe-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2433-1-e5810830ff60-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2433-1-e5810830ff60-v4.jpg"
         }
       ],
       "video_url": null,
