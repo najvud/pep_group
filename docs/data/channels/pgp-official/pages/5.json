@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-22T06:14:12.780796+00:00",
+  "generated_at": "2026-04-22T08:08:22.267717+00:00",
   "pagination": {
     "page": 5,
     "page_size": 16,
-    "total_posts": 76,
+    "total_posts": 75,
     "total_pages": 5
   },
   "posts": [
@@ -17,12 +17,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1702-1-f7e269f7c9a4-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1702-1-f7e269f7c9a4-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1702-1-e2547204405e-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1702-1-e2547204405e-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1702-2-cb440a908579-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1702-2-cb440a908579-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1702-2-cea84bcfb7c5-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1702-2-cea84bcfb7c5-v4.jpg"
         }
       ],
       "video_url": null,
@@ -39,8 +39,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1701-1-7560bc83550a-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1701-1-7560bc83550a-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1701-1-dd792b1dd8d7-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1701-1-dd792b1dd8d7-v4.jpg"
         }
       ],
       "video_url": null,
@@ -57,8 +57,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1700-1-047c72db807d-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1700-1-047c72db807d-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1700-1-ca2acb138e42-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1700-1-ca2acb138e42-v4.jpg"
         }
       ],
       "video_url": null,
@@ -75,8 +75,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1699-1-d6a6aac15c29-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1699-1-d6a6aac15c29-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1699-1-1b880cb3ff66-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1699-1-1b880cb3ff66-v4.jpg"
         }
       ],
       "video_url": null,
@@ -93,8 +93,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1697-1-2f2d2c994015-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1697-1-2f2d2c994015-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1697-1-36b97940a822-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1697-1-36b97940a822-v4.jpg"
         }
       ],
       "video_url": null,
@@ -111,8 +111,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1696-1-ab43e8150499-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1696-1-ab43e8150499-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1696-1-7bcf482665a1-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1696-1-7bcf482665a1-v4.jpg"
         }
       ],
       "video_url": null,
@@ -134,8 +134,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1695-1-502cee14553d-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1695-1-502cee14553d-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1695-1-5c825a9f78e1-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1695-1-5c825a9f78e1-v4.jpg"
         }
       ],
       "video_url": null,
@@ -152,8 +152,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1694-1-be5eb7f88d64-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1694-1-be5eb7f88d64-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1694-1-87604d6bfea1-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1694-1-87604d6bfea1-v4.jpg"
         }
       ],
       "video_url": null,
@@ -170,8 +170,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1693-1-67f1707b396c-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1693-1-67f1707b396c-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1693-1-7f8fd9b92a93-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1693-1-7f8fd9b92a93-v4.jpg"
         }
       ],
       "video_url": null,
@@ -188,8 +188,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1692-1-2ba5727121de-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1692-1-2ba5727121de-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1692-1-7d487fc3e0dc-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1692-1-7d487fc3e0dc-v4.jpg"
         }
       ],
       "video_url": null,
@@ -206,30 +206,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1691-1-3a622b221727-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1691-1-3a622b221727-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1691-1-786d1784f8d7-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1691-1-786d1784f8d7-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/pgp_official/1691",
-      "forwarded_from": null
-    },
-    {
-      "id": 1690,
-      "date": "2026-01-22T07:01:16+00:00",
-      "text": "⛓️‍💥  Коммерсантъ: Суд просят не отделять общее от частного\n\nКонституционный суд решит, законно ли ужесточать уголовную ответственность за мошенничество, если в капитале пострадавшей компании участвует государство. Бизнесмен пожаловался в КС на то, что суды отказались применить к нему специальную «предпринимательскую» статью Уголовного кодекса (УК). Эксперты согласны, что на практике разделение существует, но не из-за особого режима защиты госсобственности, а из-за послаблений, которые сделаны для предпринимателей.\n\n☝️ Действительно, на практике существует разделение по объекту покушения, подтверждает эксперт «Пепеляев Групп» Сергей Таут:  если потерпевшей стороной является государство в лице МУП или ФГУП или в целом считается, что пострадала госказна, то суды это квалифицируют как «классическое» мошенничество, и предпринимательские составы, по мнению правоохранителей, тут неприменимы. \n\n💬 Хотя речь, по сути, идет о нарушении договора, а по Конституции у нас государственная и частная собственность защищаются равным образом. «На мой взгляд, имеет место перекос в правоприменительной практике», — заключает эксперт.\n\n👉 Комментарий доступен по ссылке.",
-      "text_html": "⛓️‍💥  Коммерсантъ: Суд просят не отделять общее от частного<br><br>Конституционный суд решит, законно ли ужесточать уголовную ответственность за мошенничество, если в капитале пострадавшей компании участвует государство. Бизнесмен пожаловался в КС на то, что суды отказались применить к нему специальную «предпринимательскую» статью Уголовного кодекса (УК). Эксперты согласны, что на практике разделение существует, но не из-за особого режима защиты госсобственности, а из-за послаблений, которые сделаны для предпринимателей.<br><br>☝️ Действительно, на практике существует разделение по объекту покушения, подтверждает эксперт «Пепеляев Групп» <a href=\"https://www.pgplaw.ru/to-get-the-team/taut/\" target=\"_blank\" rel=\"noopener noreferrer\">Сергей Таут</a>:  если потерпевшей стороной является государство в лице МУП или ФГУП или в целом считается, что пострадала госказна, то суды это квалифицируют как «классическое» мошенничество, и предпринимательские составы, по мнению правоохранителей, тут неприменимы. <br><br>💬 Хотя речь, по сути, идет о нарушении договора, а по Конституции у нас государственная и частная собственность защищаются равным образом. «На мой взгляд, имеет место перекос в правоприменительной практике», — заключает эксперт.<br><br>👉 Комментарий доступен <a href=\"https://www.pgplaw.ru/analytics-and-brochures/articles-comments-interviews/sud-prosyat-ne-otdelyat-obshchee-ot-chastnogo/\" target=\"_blank\" rel=\"noopener noreferrer\">по ссылке</a>.",
-      "views": 1040,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1690-1-8fb3f2b5c6fe-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1690-1-8fb3f2b5c6fe-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/pgp_official/1690",
       "forwarded_from": null
     }
   ]
