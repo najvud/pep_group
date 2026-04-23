@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-04-23T10:58:19.510598+00:00",
+  "generated_at": "2026-04-23T11:58:09.907102+00:00",
   "pagination": {
     "page": 10,
     "page_size": 16,
-    "total_posts": 176,
-    "total_pages": 11
+    "total_posts": 177,
+    "total_pages": 12
   },
   "posts": [
+    {
+      "id": 2448,
+      "date": "2026-02-06T13:01:45+00:00",
+      "text": null,
+      "text_html": null,
+      "views": 1510,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2448-1-416b98162b91-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2448-1-416b98162b91-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/PG_Tax/2448",
+      "forwarded_from": null
+    },
     {
       "id": 2447,
       "date": "2026-02-06T11:00:07+00:00",
@@ -53,8 +71,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2445-1-daef267fd311-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2445-1-daef267fd311-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2445-1-83d6d595cd10-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2445-1-83d6d595cd10-v4.jpg"
         }
       ],
       "video_url": null,
@@ -71,8 +89,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2444-1-03774b8a3a12-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2444-1-03774b8a3a12-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2444-1-9040ffeb1ec6-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2444-1-9040ffeb1ec6-v4.jpg"
         }
       ],
       "video_url": null,
@@ -155,7 +173,7 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/4501c9f0fd.mp4?token=Qx-wGU8IZQNwWQb4kiK7PAc2JbvnvurYgSbuqq-alo-jwkBcKrxDJXpjk83iCcJwazJGgL1NSEeBNK7SF270zWKGArE23ZQI6tX5G6h0dv53vzUQ0DYsCnhfi4nQv2S_Nd9cxOtAVlmYziUPgcbrdwTCQIvCCiyszfjFgw10FEI9pkNqcILO1G2FUemtJ7FyhkJugtiN4fX8QIrALfo56DrnkI3bGww6rzz-tYV_VXH7xqBQDInp4P0AN8FwtCS-4W5qub1T51zdH6oLho1PWMOOCD1Wdi7WuO0zWfOPWVZrU3CEjukMlkMJl-yVAyVquVi05VxMoQBwspijeNW5cQ",
+      "video_url": "https://cdn4.telesco.pe/file/4501c9f0fd.mp4?token=WKzNHt2BjbIz2fSqhMq83mVSqFMavuusD6QYbikT7U_g0uT0c683hmOEsHGrSBBANaBfHBh1I-CiKOupGyRlvTBbssQQXxbxscdmv77SFMSQhddFGTeiWdm8uZHAKFU31SLxkD-Qzx5lpihQ8ZC72AcpNb3QtjqjZ1hkVU26nbc8nWrijkE3OocPJolRs5Mla1vwZdQ6cR-dyHICZrqJeyJzint4CT1ebD7M3WM95xdBSkEZDE74BDctTr7Yga1dqWxVXv-_8Om6UYUeYpTehTT0MBGPaLsEVQWB8baGWPeJN5LU894OzWeBODcyF-YLXOfPs2GFa3trmQCq-bYCBg",
       "tg_url": "https://t.me/PG_Tax/2439",
       "forwarded_from": null
     },
@@ -164,7 +182,7 @@
       "date": "2026-02-03T14:00:04+00:00",
       "text": null,
       "text_html": null,
-      "views": 1540,
+      "views": 1550,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
@@ -254,30 +272,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2433-1-768eb5352b4b-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2433-1-768eb5352b4b-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2433-1-392a3effa531-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2433-1-392a3effa531-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/PG_Tax/2433",
-      "forwarded_from": null
-    },
-    {
-      "id": 2432,
-      "date": "2026-02-02T08:09:00+00:00",
-      "text": "⚙️ Практика\n \n🔴Союз электронной торговли фиксирует обращения селлеров по поводу расхождений в налоговой отчетности. Ключевая проблема: отсутствие единообразного подхода отражения бонусных механик в налоговом учете. \n🛑 Напомним, что на прошлой неделе в СМИ сообщалось, что налоговые органы с 2025 г. доначисляют продавцам с маркетплейсов налоги на бонусные баллы, которые они получают от платформ  за участие в программах скидок.\n \n🔴Предприниматели, перешедшие на АУСН, сталкиваются с проблемой расчета налога.\nВ отличие от классической УСН, по которой предприниматель сам рассчитывает размер взносов, при АУСН показатель определяется автоматически — по данным, которые в налоговую передают банки, операторы фискальных данных и онлайн-кассы. А в этом и основная сложность: информация поступает с ошибками.\n \n🔴С 1 января российский бизнес перешел на новую ставку НДС, о том, что изменилось – в видео от ФНС России.\n \n🔴На начало 2025 г. численность участников ЭКГ-рейтинга составляла 6,85 млн пользователей, сегодня их количество увеличилось до 7,21 млн. \n«Такая тенденция отражает позитивные изменения в деловой среде и рост прозрачности рынка», - заявил зам. руководителя ФНС России Тимур Шиналиев. Он рассказал о новых показателях, которые должны дополнить ЭКГ-рейтинг в 2026 г. «…на первый план выходят не столько экономические или формально-бухгалтерские результаты, сколько реальные демографические, социальные и управленческие эффекты», - подчеркнул он.\n\n#главные_налоговые_новости\n\nНовости прошлой недели читайте на сайте ПГ 👉",
-      "text_html": "⚙️ Практика<br> <br>🔴Союз электронной торговли <a href=\"https://www.vedomosti.ru/business/news/2026/01/30/1172812-prodavtsi-marketpleisov-osparivayut\" target=\"_blank\" rel=\"noopener noreferrer\">фиксирует</a> обращения селлеров по поводу расхождений в налоговой отчетности. Ключевая проблема: отсутствие единообразного подхода отражения бонусных механик в налоговом учете. <br>🛑 Напомним, что на прошлой неделе в СМИ сообщалось, что налоговые органы с 2025 г. <a href=\"https://www.vedomosti.ru/economics/articles/2026/01/30/1172777-bonusnie-balli-prodavtsov-na-marketpleisah-nachali-oblagatsya-nalogom?utm_source=yxnews&amp;amp;utm_medium=desktop&amp;amp;utm_referrer=https%3A%2F%2Fdzen.ru%2Fnews%2Fstory%2F59238a1b-4b25-5eeb-a71a-cedc336997f9\" target=\"_blank\" rel=\"noopener noreferrer\">доначисляют</a> продавцам с маркетплейсов налоги на бонусные баллы, которые они получают от платформ  за участие в программах скидок.<br> <br>🔴Предприниматели, перешедшие на АУСН, <a href=\"https://www.forbes.ru/finansy/554530-biznes-stal-case-perehodit-na-ausn-s-kakimi-problemami-mozno-stolknut-sa\" target=\"_blank\" rel=\"noopener noreferrer\">сталкиваются</a> с проблемой расчета налога.<br>В отличие от классической УСН, по которой предприниматель сам рассчитывает размер взносов, при АУСН показатель определяется автоматически — по данным, которые в налоговую передают банки, операторы фискальных данных и онлайн-кассы. А в этом и основная сложность: информация поступает с ошибками.<br> <br>🔴С 1 января российский бизнес перешел на новую ставку НДС, о том, что изменилось – в <a href=\"https://www.nalog.gov.ru/rn77/news/activities_fts/16599483/\" target=\"_blank\" rel=\"noopener noreferrer\">видео</a> от ФНС России.<br> <br>🔴На начало 2025 г. численность участников ЭКГ-рейтинга составляла 6,85 млн пользователей, сегодня их количество увеличилось до 7,21 млн. <br>«Такая тенденция отражает позитивные изменения в деловой среде и рост прозрачности рынка», - <a href=\"https://www.nalog.gov.ru/rn77/news/activities_fts/16599349/\" target=\"_blank\" rel=\"noopener noreferrer\">заявил</a> зам. руководителя ФНС России Тимур Шиналиев. Он рассказал о новых показателях, которые должны дополнить ЭКГ-рейтинг в 2026 г. «…на первый план выходят не столько экономические или формально-бухгалтерские результаты, сколько реальные демографические, социальные и управленческие эффекты», - подчеркнул он.<br><br>#главные_налоговые_новости<br><br>Новости прошлой недели читайте <a href=\"https://www.pgplaw.ru/analytics-and-brochures/tax-reviews/tax-news-digest-02-02-26/\" target=\"_blank\" rel=\"noopener noreferrer\">на сайте</a> ПГ 👉",
-      "views": 1470,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2432-1-a8470a3027f9-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2432-1-a8470a3027f9-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2432",
       "forwarded_from": null
     }
   ]

@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-04-23T10:58:19.506793+00:00",
+  "generated_at": "2026-04-23T11:58:09.903248+00:00",
   "pagination": {
     "page": 8,
     "page_size": 16,
-    "total_posts": 176,
-    "total_pages": 11
+    "total_posts": 177,
+    "total_pages": 12
   },
   "posts": [
+    {
+      "id": 2481,
+      "date": "2026-02-20T13:06:02+00:00",
+      "text": "В нашей рубрике #обновление_сайта_Налоговед редактор журнала Маргарита Завязочникова рассказывает о материалах журнала, размещенных на сайте в открытом доступе.\n\n     ✔️ Опубликована информация о новых постановлениях и определениях КС РФ о налогах.\n\n     ✔️ В раздел сайта «Правовые позиции Верховного Суда РФ» добавлен материал по делу ООО «Стар Транс». \nℹ️ Налогоплательщик получил субсидию, когда недружественное государство изъяло у него имущество. Должна ли в такой ситуации сумма компенсации включаться во внереализационный доход в целях налогообложения? \nЭксперты «Пепеляев Групп» комментируют позицию Суда по этому вопросу.\n\n     ✔️ Обновилась информация о решениях судов ЕС по налогам 2025 года:\n🔴когда льгота по налогу на недвижимость может быть признана незаконной государственной помощью?\n🔴влияет ли сумма студенческого гранта на расчет вычета на иждивенца при исчислении подоходного налога?\n🔴можно ли квалифицировать налоговый вычет финансового гудвилла, возникающего при косвенном приобретении долей, как новую схему госпомощи и каковы последствия такой квалификации?\n🔴обязательно ли для целей освобождения дивидендов от налогообложения упоминание конкретного налога в Директиве о налогообложении материнских и дочерних компаний?\n\n📑 Полезного чтения!",
+      "text_html": "В нашей рубрике #обновление_сайта_Налоговед редактор журнала Маргарита Завязочникова рассказывает о материалах журнала, размещенных на сайте в открытом доступе.<br><br>     ✔️ <a href=\"https://nalogoved.ru/ks-rf-o/\" target=\"_blank\" rel=\"noopener noreferrer\">Опубликована</a> информация о новых постановлениях и определениях КС РФ о налогах.<br><br>     ✔️ В раздел сайта «Правовые позиции Верховного Суда РФ» <a href=\"https://nalogoved.ru/pravovie-pozitsii-vs/16115.html\" target=\"_blank\" rel=\"noopener noreferrer\">добавлен</a> материал по делу ООО «Стар Транс». <br>ℹ️ Налогоплательщик получил субсидию, когда недружественное государство изъяло у него имущество. Должна ли в такой ситуации сумма компенсации включаться во внереализационный доход в целях налогообложения? <br>Эксперты «Пепеляев Групп» комментируют позицию Суда по этому вопросу.<br><br>     ✔️ <a href=\"https://nalogoved.ru/resheniya-suda-es/\" target=\"_blank\" rel=\"noopener noreferrer\">Обновилась</a> информация о решениях судов ЕС по налогам 2025 года:<br>🔴когда льгота по налогу на недвижимость может быть признана незаконной государственной помощью?<br>🔴влияет ли сумма студенческого гранта на расчет вычета на иждивенца при исчислении подоходного налога?<br>🔴можно ли квалифицировать налоговый вычет финансового гудвилла, возникающего при косвенном приобретении долей, как новую схему госпомощи и каковы последствия такой квалификации?<br>🔴обязательно ли для целей освобождения дивидендов от налогообложения упоминание конкретного налога в Директиве о налогообложении материнских и дочерних компаний?<br><br>📑 Полезного чтения!",
+      "views": 1630,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2481-1-ca90fa406283-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2481-1-ca90fa406283-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/PG_Tax/2481",
+      "forwarded_from": null
+    },
     {
       "id": 2480,
       "date": "2026-02-20T10:03:40+00:00",
@@ -17,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2480-1-9bbe66f0ecdf-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2480-1-9bbe66f0ecdf-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2480-1-b9624e8b3791-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2480-1-b9624e8b3791-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +53,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2479-1-5273a11d83f1-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2479-1-5273a11d83f1-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2479-1-9cdb6d07fe1d-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2479-1-9cdb6d07fe1d-v4.jpg"
         }
       ],
       "video_url": null,
@@ -71,8 +89,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2476-1-5d26eb44c261-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2476-1-5d26eb44c261-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2476-1-a9c77b69af91-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2476-1-a9c77b69af91-v4.jpg"
         }
       ],
       "video_url": null,
@@ -89,8 +107,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2475-1-6b946fd8d976-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2475-1-6b946fd8d976-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2475-1-06d3631dc438-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2475-1-06d3631dc438-v4.jpg"
         }
       ],
       "video_url": null,
@@ -107,8 +125,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2474-1-6d01157485bf-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2474-1-6d01157485bf-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2474-1-46785db1a7b3-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2474-1-46785db1a7b3-v4.jpg"
         }
       ],
       "video_url": null,
@@ -143,8 +161,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2472-1-806106808900-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2472-1-806106808900-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2472-1-6f80a4ea4ed6-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2472-1-6f80a4ea4ed6-v4.jpg"
         }
       ],
       "video_url": null,
@@ -161,8 +179,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2471-1-314ebfb4e798-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2471-1-314ebfb4e798-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2471-1-93cc7f303ce7-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2471-1-93cc7f303ce7-v4.jpg"
         }
       ],
       "video_url": null,
@@ -179,8 +197,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2470-1-69b4ee3dc764-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2470-1-69b4ee3dc764-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2470-1-b58960370da4-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2470-1-b58960370da4-v4.jpg"
         }
       ],
       "video_url": null,
@@ -274,30 +292,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2465-1-518cd2a5aaf0-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2465-1-518cd2a5aaf0-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2465-1-b6f926f85ddc-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2465-1-b6f926f85ddc-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/PG_Tax/2465",
-      "forwarded_from": null
-    },
-    {
-      "id": 2464,
-      "date": "2026-02-12T13:05:43+00:00",
-      "text": "📢 Позиции Минфина и ФНС за январь\n\nВ фокусе внимания ведомств в начале года:\n     🔴ограничения ФИНВ при приобретении имущества за счёт субсидий,\n     🔴НДС в связи с обслуживанием банковских карт,\n     🔴НДС при оказании услуг платёжных агентов,\n     🔴НДФЛ от источников в Казахстане,\n     🔴вопросы применения УПД.\n\nЭкспресс-обзор писем Минфина и ФНС России за январь читайте на сайте ПГ 👉\n\n#обзор_писем_Минфина_ФНС\n\n➖➖\n💡 Индивидуальные обзоры изменений налогового законодательства и практики, учитывающие специфику Вашего бизнеса, по расписанию в Ваш почтовый ящик можно оформить здесь.",
-      "text_html": "📢 Позиции Минфина и ФНС за январь<br><br>В фокусе внимания ведомств в начале года:<br>     🔴ограничения ФИНВ при приобретении имущества за счёт субсидий,<br>     🔴НДС в связи с обслуживанием банковских карт,<br>     🔴НДС при оказании услуг платёжных агентов,<br>     🔴НДФЛ от источников в Казахстане,<br>     🔴вопросы применения УПД.<br><br>Экспресс-обзор писем Минфина и ФНС России за январь читайте <a href=\"https://www.pgplaw.ru/analytics-and-brochures/tax-reviews/pisma-minfina-i-fns-obnovleniya-yanvarya-2026-g/\" target=\"_blank\" rel=\"noopener noreferrer\">на сайте</a> ПГ 👉<br><br>#обзор_писем_Минфина_ФНС<br><br>➖➖<br>💡 Индивидуальные обзоры изменений налогового законодательства и практики, учитывающие специфику Вашего бизнеса, по расписанию в Ваш почтовый ящик можно оформить <a href=\"https://www.pgplaw.ru/practice-and-industry/practices/obzory-zakonodatelstva-i-praktiki/\" target=\"_blank\" rel=\"noopener noreferrer\">здесь.</a>",
-      "views": 1580,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2464-1-1d6d39dc4ea3-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2464-1-1d6d39dc4ea3-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2464",
       "forwarded_from": null
     }
   ]
