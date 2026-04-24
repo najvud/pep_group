@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-04-24T09:57:15.716026+00:00",
+  "generated_at": "2026-04-24T11:05:57.362427+00:00",
   "pagination": {
     "page": 5,
     "page_size": 16,
-    "total_posts": 77,
+    "total_posts": 78,
     "total_pages": 5
   },
   "posts": [
+    {
+      "id": 401,
+      "date": "2026-02-11T08:10:45+00:00",
+      "text": "📪 Еженедельный обзор MustRead    \n\nСамые интересные новости в сфере банкротства с авторскими рекомендациями от Юлии Литовцевой ⚡️ в новом обзоре MustRead от команды практики банкротства и антикризисной защиты бизнеса.\n\nВ этом выпуске 🗞:  \n\n👥 КС РФ разъяснил, как индексировать требования к банкроту\n\n💰 Зарплаты нет, а налоги есть: позиция ВС РФ\n\n🚗 Кругооборот авто в деле о банкротстве\n\n💸 Неустойка за невозможное\n\n☕️ Желаем приятного чтения по ссылке 🔎 MustRead#Банкротство_mustread\n#Арбитражный_управляющий\n#Недействительность_сделок\n#Процессуальные вопросы",
+      "text_html": "📪 Еженедельный обзор MustRead    <br><br>Самые интересные новости в сфере банкротства с авторскими рекомендациями от Юлии Литовцевой ⚡️ в новом обзоре MustRead от команды <a href=\"https://www.pgplaw.ru/practice-and-industry/practices/bankruptcy/\" target=\"_blank\" rel=\"noopener noreferrer\">практики банкротства и антикризисной защиты бизнеса.</a><br><br>В этом выпуске 🗞:  <br><br>👥 КС РФ разъяснил, как индексировать требования к банкроту<br><br>💰 Зарплаты нет, а налоги есть: позиция ВС РФ<br><br>🚗 Кругооборот авто в деле о банкротстве<br><br>💸 Неустойка за невозможное<br><br>☕️ Желаем приятного чтения по ссылке 🔎 <a href=\"https://www.pgplaw.ru/analytics-and-brochures/bankruptcy-must-read/bankruptcy-must-read-11-02-26/\" target=\"_blank\" rel=\"noopener noreferrer\">MustRead</a>#Банкротство_mustread<br>#Арбитражный_управляющий<br>#Недействительность_сделок<br>#Процессуальные вопросы",
+      "views": 441,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/401-1-f03c5e231fef-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/401-1-f03c5e231fef-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/bankrotstvo_mustknow/401",
+      "forwarded_from": null
+    },
     {
       "id": 400,
       "date": "2026-02-10T07:28:41+00:00",
@@ -210,8 +228,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/388-1-95e22493d7f6-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/388-1-95e22493d7f6-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/388-1-bbd0cad321f7-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/388-1-bbd0cad321f7-v4.jpg"
         }
       ],
       "video_url": null,
@@ -228,8 +246,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/387-1-21666b7f4db2-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/387-1-21666b7f4db2-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/387-1-9b4ebc49d99c-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/387-1-9b4ebc49d99c-v4.jpg"
         }
       ],
       "video_url": null,
