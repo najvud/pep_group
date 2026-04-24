@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-04-24T05:58:45.500609+00:00",
+  "generated_at": "2026-04-24T08:11:19.719653+00:00",
   "pagination": {
     "page": 10,
     "page_size": 16,
-    "total_posts": 176,
-    "total_pages": 11
+    "total_posts": 177,
+    "total_pages": 12
   },
   "posts": [
+    {
+      "id": 2449,
+      "date": "2026-02-06T13:01:50+00:00",
+      "text": null,
+      "text_html": null,
+      "views": 1460,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [],
+      "video_url": "https://cdn4.telesco.pe/file/a9db42e7e0.mp4?token=TqpbcBsm9phsTia6ZabhZ070JcrL6_k8rgGuLaaMMVP2sMdZ_1ILgG_h_rSjiXtGef28q4GUiEJ70hpVK3lQoUB3afDfxEP3MmBJzLUEENmRIFTmITnVTX6ACpIaWcqLUtDOlARIINDq60G091683HFIx9z8FqKImadKjKIjnDAIYYkB_9eyb0XGCVbJlWTde4BRk1F_kOzmEGmc0Ji3P6mqPvC9k_neGHcc9pYidSoNInT74AKyeJqMrZ6uMOTEkHovFdMR-a4cS0v3SzzU4QNK8agDVQa6MzsRQwLWKSRq0PsRLthlpeM9xNeyWucHaFHZDRbBKxAwSRFYRxFgqA",
+      "tg_url": "https://t.me/PG_Tax/2449",
+      "forwarded_from": null
+    },
     {
       "id": 2448,
       "date": "2026-02-06T13:01:45+00:00",
@@ -17,8 +30,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2448-1-d72b4626291b-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2448-1-d72b4626291b-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2448-1-bc6a7cea8bbf-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2448-1-bc6a7cea8bbf-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +48,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2447-1-0dcffe8b0821-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2447-1-0dcffe8b0821-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2447-1-a8025d572f0e-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2447-1-a8025d572f0e-v4.jpg"
         }
       ],
       "video_url": null,
@@ -53,8 +66,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2446-1-861b8ca47fd8-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2446-1-861b8ca47fd8-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2446-1-876fbb08b349-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2446-1-876fbb08b349-v4.jpg"
         }
       ],
       "video_url": null,
@@ -71,8 +84,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2445-1-130d0d92995e-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2445-1-130d0d92995e-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2445-1-33cc37bd9af8-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2445-1-33cc37bd9af8-v4.jpg"
         }
       ],
       "video_url": null,
@@ -89,8 +102,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2444-1-4567849bf029-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2444-1-4567849bf029-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2444-1-550bde4faee8-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2444-1-550bde4faee8-v4.jpg"
         }
       ],
       "video_url": null,
@@ -106,7 +119,7 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/63e6f20f02.mp4?token=Hylvz0-s9KLa0wNNHooY1Ad2dbljpvU1UvFGFXG9WG2_9-tNwd4fxb2nxwdYPP5E6vf2IEkaLuZ5DDonPA0UEl2X_yu9ABXsOO5BUjKWKYd565_dsu2F0mE2ntsX5AV2w4qmbMgsrOtrWX-kMOcy2lXCgOMAGs7tBCShTHjeniJcrmxIgvqn0o4U_90-ALjiOvckOMgfM1X15XS8K6Zpsox-Q5E3XHZmP-k7TF0fUKLjnQKbMctkP-LLUFwi4GxeSFTu58Jxq1M7pw8ip0a1gHC97JDY2d5eefFESi5_aAsH5TtriIAcst8H0vpYGjXLT6FeJyr0jpLOWkEHZn-Wbg",
+      "video_url": "https://cdn4.telesco.pe/file/63e6f20f02.mp4?token=dWrkHmvJYOxaqdCQIvfZW3bGWqXWMCKSb5V-x2soK9adxNe0uw-8g4tjfhRF7iDfWNTOK2ac-7dL-e-kv1ginnRVHUrly1tQiIFvqS-4mgeg2HQKqfJ5SlhJ-pLK2-kYSztTlCFJvBvYG2vonf1BlxMf2IZXzMTv0VUPm9OCjDkUrbYRgClT9Mo1RHX0s02HXOcDFCW9TMhbm-NVxaG7RHm_2ZnTTT0iPbayfAfaAj1ZWzWNqDBvBKVz-D5N9YTof6dGaTBfazjTfWNQniSUasICynkp20c9XocPvQQR6Lg0YnaGXabQRG9pVENz4OvHYGac9xqe7HEU5BKIAZHsig",
       "tg_url": "https://t.me/PG_Tax/2443",
       "forwarded_from": null
     },
@@ -120,8 +133,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2442-1-ad0f2b9d2d59-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2442-1-ad0f2b9d2d59-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2442-1-d918db2ce2c4-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2442-1-d918db2ce2c4-v4.jpg"
         }
       ],
       "video_url": null,
@@ -138,8 +151,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2441-1-b73f62d75b48-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2441-1-b73f62d75b48-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2441-1-47e389b79c07-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2441-1-47e389b79c07-v4.jpg"
         }
       ],
       "video_url": null,
@@ -156,8 +169,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2440-1-dc4fd0308411-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2440-1-dc4fd0308411-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2440-1-9f53f75f169f-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2440-1-9f53f75f169f-v4.jpg"
         }
       ],
       "video_url": null,
@@ -173,7 +186,7 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/4501c9f0fd.mp4?token=fXKWs26k5Dt2MM_bPmAxaez3ap-jp3le1WqaTzq-9X7_Bm8VSrs0PT_hWPSSuklR9-sJ9yZSVDzPH0oP-E3bWK_aazHGfh8ILw8N6dKhcZeItTwnGVD2gvQqZ2FLiqOXdjM81v_8abEzEZcu4wvo3h_iyB-tFDsHZjD8i4ZcBEuJQd2PufZ4Qy2Y_HKPitAIIeFvNRThPzYASlogR0LOeBeU0-a3lpRBnThtMmGYvg04Gct2rhtToJdiUViQcjZwvLwGzfFdCUb-lDbfDW_1fQcozyaTkHpnPcS59k2UsZFeM1ZJhWQ955KL_d2tc8QAy6NRG8Q85QN1Us5B7jSo5w",
+      "video_url": "https://cdn4.telesco.pe/file/4501c9f0fd.mp4?token=Tt8o4MQVv8giJ-TgF4mR7DiibLmnEaOh_hIHeIvwtJ9f3YnMLre1wYZgYnnWiAizAqSWdtLnsn0Rf9gygrUq7l9B4FLCYAXjtKMZymD-bFVGgBsi0cReW_jn2REzDfaOKN0hhO9GZqTeBWqxj9cNCf5Tqy7T4J-KnJW6PreiKOwYu7Y5Tabz-9nfRt60bmZtvtOGDPNiv6J4WlmSFGYCyD_XqKAgNXWVXYuxnMfwzumu94tpthLtI4G1YrzVLm4Ve03SgXyBZ7au5JEUVwMdFnu3HRZvkk6QMMfYNnujeBriLRj0RPQPXjfYDBBSL5DjrciJ9pAJ2ogEjSf4-WFl9g",
       "tg_url": "https://t.me/PG_Tax/2439",
       "forwarded_from": null
     },
@@ -187,8 +200,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2438-1-d3b9eaa3189a-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2438-1-d3b9eaa3189a-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2438-1-0b0898896c8a-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2438-1-0b0898896c8a-v4.jpg"
         }
       ],
       "video_url": null,
@@ -205,8 +218,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2437-1-3bcdfaa9a141-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2437-1-3bcdfaa9a141-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2437-1-5899bd50ce32-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2437-1-5899bd50ce32-v4.jpg"
         }
       ],
       "video_url": null,
@@ -223,8 +236,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2436-1-2bb27f85c10c-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2436-1-2bb27f85c10c-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2436-1-b61c0d196e84-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2436-1-b61c0d196e84-v4.jpg"
         }
       ],
       "video_url": null,
@@ -240,7 +253,7 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/67cfd21769.mp4?token=uffpTPZcnSmuUfBkEoaJi77xZH4isS-NY1_QXPYmZqcaOmsdtJOWXdX7--k0SFMAoliN4FZzxiS8mNNmXPMipYvVPIM6uacPFzJb39f4q0oQWEXYaRSgwNstj7DyKB_u3llYRsuZk_3EpOvIw-L3stshGpOigvVn7C_zCvZWWZNZa38ToLib-XZdwEOHu_6ZiPWuyInhzPpN5HokTqFjw5L199e-r8o249FZ4F9kbQUbEUjhJUTyinNUNPa_JFqfd0uTkrrT8AkCK7DT117uQGhUmNLxeGJkmH1mKlxnMwS_PvpNZBHWBb9DjmtIwoMdehGWycuKhmYcGtRotJmsqw",
+      "video_url": "https://cdn4.telesco.pe/file/67cfd21769.mp4?token=c-dnACu2enJ5NkmX0XavtXAovDUQsFx5CkCZAd9zP4UtGCYlBNtFOKafXI1S7XBFxZc5sOPCNdUZ8epA5yRJnQJjYz2S6Pr2CdLanczs5ed1xYYrxtq5AkUnXSkiidRPf2SmVM6Su1ZqIMuNgCUu_hL5U_5Uy2Itkb1KhoKvO1Xc4TQ1--x2TZSOxy-1uUSlAfYf_3lfjWGtoLmLlKmxK2x3s0ibP_eHRDKYVuhTOfMFZURRCSegCteemtb6wj84GZ7GdgRmmRAs1K0lPqe20_82wMjIemyPKYrs__Au6eLXrNgdfBqzedP5lBUrL0r9erH10bVlqt73QSXoLbWiuA",
       "tg_url": "https://t.me/PG_Tax/2435",
       "forwarded_from": null
     },
@@ -254,30 +267,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2434-1-e3ee47bc84f8-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2434-1-e3ee47bc84f8-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2434-1-e546d1e8b023-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2434-1-e546d1e8b023-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/PG_Tax/2434",
-      "forwarded_from": null
-    },
-    {
-      "id": 2433,
-      "date": "2026-02-02T10:00:37+00:00",
-      "text": "🔥 Новая статья 56.1 НК РФ: льготы для резидентов ТОР, СПВ, ОЭЗ теперь \"на привязи\"\n\n27 января Госдума приняла в третьем чтении Законопроект № 960752-8, который кардинально меняет правила игры для инвесторов в преференциальных режимах.\n\n💰 Главное нововведение: право на налоговые льготы теперь напрямую зависит от объема капитальных вложений.\n\n🔍 Суть реформы\n\nАнализ Минфина и ФНС за 2017-2023 гг. показал: у значительной части резидентов льготы формировали \"сверхдоходность\" при низкой инвестиционной активности (от 79,3% в Арктической зоне до 12,3% в ОЭЗ Калининград).\n\nНовая ст. 56.1 НК РФ вводит формулу:\n\nКапитальные вложения + НИОКР ≥ ТВмакс\n\nгде ТВмакс - совокупная экономия по налогу на прибыль, НДПИ, страховым взносам, налогу на имущество и земельному налогу.\n\nЕсли соотношение меньше 1, льготы приостанавливаются на весь следующий год.\n\n🎙 На кого распространяется\n\nНововведения распространяются только на новых резидентов со статусом после 1 апреля 2026. \n\n🛑 Действующие резиденты работают по старым правилам.\n\nПод действие попадают: ТОР, МТОР, СПВ, АЗ РФ, ОЭЗ, ОЭЗ Калининград, СЭЗ Крым и Севастополь.\n\n☝️ Ключевые условия\n\nДля применения льгот резидент обязан:\n     📎 Не нарушать отчетность (ст. 19.7 КоАП) более 2 раз за 3 года\n     📎 Выполнять обязательства по инвестсоглашению (KPI определяет регион)\n     📎 Механизм работает с третьего года после получения статуса\n\n🛑 Региональная гибкость: субъекты РФ могут устанавливать коэффициент менее 1 или даже 0, делая льготу безусловной, а также определять конкретные KPI.\n\nНе учитываются в капвложениях:\n     ❌ Легковые автомобили, мотоциклы, строительство жилья\n     ❌ Покупка б/у оборудования у взаимозависимых лиц\n\n🛑 Контроль: управляющие компании обязаны до 15 мая ежегодно информировать ФНС о выполнении обязательств. Отсутствие информации = автоматическая блокировка льгот.\n\n💰 Финансовые риски\n\nПри нарушении условий резидент теряет льготы на весь следующий год:\n\n     🔴Налог на прибыль: вместо 0-10% - 25%\n     🔴Страховые взносы: вместо 7,6% -30%\n     🔴Налог на имущество: вместо 0% - до 2,2%\n     🔴Земельный налог: вместо освобождения - до 1,5%\n\nДля трудоемких проектов риск потери льготы по взносам - критический.\n\n🛡 Что делать бизнесу\n\n     ✔️ Новым инвесторам: пересчитать финмодели с учетом \"инвестиционной привязки\" и регионального коэффициента.\n\n     ✔️ Юрслужбам и бухгалтерии: внедрить контроль своевременности отчетности, выполнения KPI, раздельный учет для расчета ТВмакс и сверку с УК до 15 мая.\n\n     ✔️ Планирование: схемы по \"накрутке\" инвестиций через непрофильные активы или б/у оборудование внутри холдинга не работают. Резервировать средства на случай применения общих ставок.\n\n🗓 Вступление в силу\n\n1 апреля 2026 года - для резидентов, получивших статус с этой даты.\n\n#изменения_законодательства \n#комментарий_эксперта\n#CпецИнвестРежимы\n\n➖➖\n📧 Если Вы планируете получить статус после 1 апреля 2026 или у Вас есть вопросы по применению специнвестрежимов, напишите Егору Лысенко: e.lysenko@pgplaw.ru",
-      "text_html": "🔥 Новая статья 56.1 НК РФ: льготы для резидентов ТОР, СПВ, ОЭЗ теперь \"на привязи\"<br><br>27 января Госдума приняла в третьем чтении <a href=\"https://sozd.duma.gov.ru/bill/960752-8\" target=\"_blank\" rel=\"noopener noreferrer\">Законопроект № 960752-8</a>, который кардинально меняет правила игры для инвесторов в преференциальных режимах.<br><br>💰 Главное нововведение: право на налоговые льготы теперь напрямую зависит от объема капитальных вложений.<br><br>🔍 Суть реформы<br><br>Анализ Минфина и ФНС за 2017-2023 гг. показал: у значительной части резидентов льготы формировали \"сверхдоходность\" при низкой инвестиционной активности (от 79,3% в Арктической зоне до 12,3% в ОЭЗ Калининград).<br><br>Новая ст. 56.1 НК РФ вводит формулу:<br><br>Капитальные вложения + НИОКР ≥ ТВмакс<br><br>где ТВмакс - совокупная экономия по налогу на прибыль, НДПИ, страховым взносам, налогу на имущество и земельному налогу.<br><br>Если соотношение меньше 1, льготы приостанавливаются на весь следующий год.<br><br>🎙 На кого распространяется<br><br>Нововведения распространяются только на новых резидентов со статусом после 1 апреля 2026. <br><br>🛑 Действующие резиденты работают по старым правилам.<br><br>Под действие попадают: ТОР, МТОР, СПВ, АЗ РФ, ОЭЗ, ОЭЗ Калининград, СЭЗ Крым и Севастополь.<br><br>☝️ Ключевые условия<br><br>Для применения льгот резидент обязан:<br>     📎 Не нарушать отчетность (ст. 19.7 КоАП) более 2 раз за 3 года<br>     📎 Выполнять обязательства по инвестсоглашению (KPI определяет регион)<br>     📎 Механизм работает с третьего года после получения статуса<br><br>🛑 Региональная гибкость: субъекты РФ могут устанавливать коэффициент менее 1 или даже 0, делая льготу безусловной, а также определять конкретные KPI.<br><br>Не учитываются в капвложениях:<br>     ❌ Легковые автомобили, мотоциклы, строительство жилья<br>     ❌ Покупка б/у оборудования у взаимозависимых лиц<br><br>🛑 Контроль: управляющие компании обязаны до 15 мая ежегодно информировать ФНС о выполнении обязательств. Отсутствие информации = автоматическая блокировка льгот.<br><br>💰 Финансовые риски<br><br>При нарушении условий резидент теряет льготы на весь следующий год:<br><br>     🔴Налог на прибыль: вместо 0-10% - 25%<br>     🔴Страховые взносы: вместо 7,6% -30%<br>     🔴Налог на имущество: вместо 0% - до 2,2%<br>     🔴Земельный налог: вместо освобождения - до 1,5%<br><br>Для трудоемких проектов риск потери льготы по взносам - критический.<br><br>🛡 Что делать бизнесу<br><br>     ✔️ Новым инвесторам: пересчитать финмодели с учетом \"инвестиционной привязки\" и регионального коэффициента.<br><br>     ✔️ Юрслужбам и бухгалтерии: внедрить контроль своевременности отчетности, выполнения KPI, раздельный учет для расчета ТВмакс и сверку с УК до 15 мая.<br><br>     ✔️ Планирование: схемы по \"накрутке\" инвестиций через непрофильные активы или б/у оборудование внутри холдинга не работают. Резервировать средства на случай применения общих ставок.<br><br>🗓 Вступление в силу<br><br>1 апреля 2026 года - для резидентов, получивших статус с этой даты.<br><br>#изменения_законодательства <br>#комментарий_эксперта<br>#CпецИнвестРежимы<br><br>➖➖<br>📧 Если Вы планируете получить статус после 1 апреля 2026 или у Вас есть вопросы по применению специнвестрежимов, напишите <a href=\"https://www.pgplaw.ru/to-get-the-team/egor-lysenko/\" target=\"_blank\" rel=\"noopener noreferrer\">Егору Лысенко</a>: e.lysenko@pgplaw.ru",
-      "views": 1780,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2433-1-78df81ec8d2d-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2433-1-78df81ec8d2d-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2433",
       "forwarded_from": null
     }
   ]

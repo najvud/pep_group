@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-04-24T05:57:49.776831+00:00",
+  "generated_at": "2026-04-24T08:09:54.589782+00:00",
   "pagination": {
     "page": 3,
     "page_size": 16,
-    "total_posts": 39,
+    "total_posts": 40,
     "total_pages": 3
   },
   "posts": [
+    {
+      "id": 1350,
+      "date": "2026-02-13T14:06:36+00:00",
+      "text": "✉️ На этой неделе ФАС направила в Государственную Думу письмо с просьбой снять с рассмотрения законопроект, который ранее уже был принят в первом чтении. \n\nОснованием стали сохранившиеся разногласия по законопроекту с ГПУ Президента РФ и комиссией при Президенте по ТЭК и экологической безопасности.\n\nКлючевой новеллой снятого законопроекта была возможность не только корректировать предписания, но и ужесточать их требования уже после завершения дела. Сейчас закон прямо запрещает ухудшать положение компании при пересмотре предписания, однако законопроект делал для этого исключение. \n\nИными словами, уже после принятого решения и выданного предписания ФАС могла бы пересмотреть предписание и ухудшить его для компании.\n\nОтказ от таких новелл стоит приветствовать. При этом проблема неактуальных предписаний решена на уровне ВС РФ без каких-либо изъятий из «неухудшения». Компания вправе исполнить предписание в соответствии с изменившимися обстоятельствами, и это не является нарушением.\n\n#антитраст",
+      "text_html": "✉️ На этой неделе ФАС направила в Государственную Думу письмо с просьбой снять с рассмотрения законопроект, который ранее уже был принят в первом чтении. <br><br>Основанием стали сохранившиеся разногласия по законопроекту с ГПУ Президента РФ и комиссией при Президенте по ТЭК и экологической безопасности.<br><br>Ключевой новеллой снятого законопроекта была возможность не только корректировать предписания, но и ужесточать их требования уже после завершения дела. Сейчас закон прямо запрещает ухудшать положение компании при пересмотре предписания, однако законопроект делал для этого исключение. <br><br>Иными словами, уже после принятого решения и выданного предписания ФАС могла бы пересмотреть предписание и ухудшить его для компании.<br><br>Отказ от таких новелл стоит приветствовать. При этом проблема неактуальных предписаний решена на уровне ВС РФ без каких-либо изъятий из «неухудшения». Компания вправе исполнить предписание в соответствии с изменившимися обстоятельствами, и это не является нарушением.<br><br>#антитраст",
+      "views": 855,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1350-1-72c7aef1ed73-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1350-1-72c7aef1ed73-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/PgAntitrust/1350",
+      "forwarded_from": null
+    },
     {
       "id": 1349,
       "date": "2026-02-09T09:54:30+00:00",
@@ -35,44 +53,44 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1339-1-c02ba898692d-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1339-1-c02ba898692d-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1339-1-b6007d902efe-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1339-1-b6007d902efe-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1339-2-2a90b8013a62-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1339-2-2a90b8013a62-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1339-2-1d9270ff8cce-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1339-2-1d9270ff8cce-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1339-3-e0c22cd85d9e-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1339-3-e0c22cd85d9e-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1339-3-e1cda3da6a4a-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1339-3-e1cda3da6a4a-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1339-4-07a0ef3ff0ac-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1339-4-07a0ef3ff0ac-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1339-4-5d8838fbf3bf-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1339-4-5d8838fbf3bf-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1339-5-57f642f3a1a7-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1339-5-57f642f3a1a7-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1339-5-45d6073924ea-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1339-5-45d6073924ea-v4.jpg"
         },
         {
           "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1339-6-7349edaefbc8-v4.jpg",
           "full_url": "data/channels/pg-antitrust/media/posts/1339-6-7349edaefbc8-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1339-7-dab25af0f671-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1339-7-dab25af0f671-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1339-7-016b35e0e357-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1339-7-016b35e0e357-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1339-8-4d295a17161b-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1339-8-4d295a17161b-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1339-8-95765e37066d-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1339-8-95765e37066d-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1339-9-c6f80e74f94f-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1339-9-c6f80e74f94f-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1339-9-4429585cd24e-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1339-9-4429585cd24e-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1339-10-c89bafde4877-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1339-10-c89bafde4877-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1339-10-44db085f6348-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1339-10-44db085f6348-v4.jpg"
         }
       ],
       "video_url": null,
@@ -102,8 +120,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1337-1-cf0c969bddce-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1337-1-cf0c969bddce-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1337-1-d165eb6d6734-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1337-1-d165eb6d6734-v4.jpg"
         }
       ],
       "video_url": null,
@@ -120,8 +138,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1336-1-5be7a3582de1-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1336-1-5be7a3582de1-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1336-1-ed094175a278-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1336-1-ed094175a278-v4.jpg"
         }
       ],
       "video_url": null,
@@ -138,8 +156,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1335-1-f44411b3043e-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1335-1-f44411b3043e-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1335-1-77aa2e00d319-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1335-1-77aa2e00d319-v4.jpg"
         }
       ],
       "video_url": null,
@@ -156,8 +174,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1334-1-8c80eb65c7d1-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1334-1-8c80eb65c7d1-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1334-1-679fd207123c-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1334-1-679fd207123c-v4.jpg"
         }
       ],
       "video_url": null,

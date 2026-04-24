@@ -1,12 +1,71 @@
 {
-  "generated_at": "2026-04-24T05:57:43.939041+00:00",
+  "generated_at": "2026-04-24T08:09:38.815675+00:00",
   "pagination": {
     "page": 5,
     "page_size": 16,
-    "total_posts": 74,
+    "total_posts": 75,
     "total_pages": 5
   },
   "posts": [
+    {
+      "id": 1706,
+      "date": "2026-02-06T13:04:43+00:00",
+      "text": "⚡️ФАС направила запросы о ценообразовании на рынках агропромышленного комплекса\n\nЗапросы ФАС не формальность и не переписка для галочки. Ошибки в ответе часто становятся основанием для проверки, дела и штрафа. \n\nВ карточках типовые ситуации, которые нельзя допускать, и бонус.\n\n🥇 Золотое правило: ответ на запрос ФАС – ваша первая и крайне важная возможность аргументировать свою позицию до возбуждения дела. Отнеситесь к его подготовке максимально ответственно и профессионально.",
+      "text_html": "⚡️ФАС направила запросы о ценообразовании на рынках агропромышленного комплекса<br><br>Запросы ФАС не формальность и не переписка для галочки. Ошибки в ответе часто становятся основанием для проверки, дела и штрафа. <br><br>В карточках типовые ситуации, которые нельзя допускать, и бонус.<br><br>🥇 Золотое правило: ответ на запрос ФАС – ваша первая и крайне важная возможность аргументировать свою позицию до возбуждения дела. Отнеситесь к его подготовке максимально ответственно и профессионально.",
+      "views": 1410,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-1-e7261f6a818a-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1706-1-e7261f6a818a-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-2-d00a4c8181cf-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1706-2-d00a4c8181cf-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-3-805fefb53bdc-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1706-3-805fefb53bdc-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-4-d8206bbf693d-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1706-4-d8206bbf693d-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-5-556672b24aac-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1706-5-556672b24aac-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-6-eec206f3b4c1-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1706-6-eec206f3b4c1-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-7-afedcf56f6d4-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1706-7-afedcf56f6d4-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-8-b4b8df43b1a4-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1706-8-b4b8df43b1a4-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-9-bc700765bb66-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1706-9-bc700765bb66-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-10-2ba94bb4b050-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1706-10-2ba94bb4b050-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/pgp_official/1706",
+      "forwarded_from": {
+        "source_url": "https://t.me/PgAntitrust/1339",
+        "channel_url": "https://t.me/s/PgAntitrust",
+        "channel_username": "PgAntitrust",
+        "channel_title": "PG Antitrust | Антимонопольное право"
+      }
+    },
     {
       "id": 1705,
       "date": "2026-02-06T10:02:51+00:00",
@@ -147,8 +206,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1696-1-8f26b120c97d-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1696-1-8f26b120c97d-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1696-1-4dbe6650d4c6-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1696-1-4dbe6650d4c6-v4.jpg"
         }
       ],
       "video_url": null,
@@ -170,8 +229,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1695-1-83904c67c3f5-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1695-1-83904c67c3f5-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1695-1-36624d9a08b8-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1695-1-36624d9a08b8-v4.jpg"
         }
       ],
       "video_url": null,
