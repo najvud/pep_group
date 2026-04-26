@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-26T11:02:17.135300+00:00",
+  "generated_at": "2026-04-26T11:50:37.443478+00:00",
   "site": {
     "channel_username": "bankrotstvo_mustknow",
     "channel_title": "Банкротство | Взгляд эксперта",
@@ -19,7 +19,7 @@
   "pagination": {
     "page": 1,
     "page_size": 16,
-    "total_posts": 78,
+    "total_posts": 77,
     "total_pages": 5
   },
   "posts": [
@@ -105,8 +105,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/475-1-056a9179586f-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/475-1-056a9179586f-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/475-1-421c411cadbc-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/475-1-421c411cadbc-v4.jpg"
         }
       ],
       "video_url": null,
@@ -123,8 +123,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/474-1-714fea81c294-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/474-1-714fea81c294-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/474-1-ce559a0cd3ba-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/474-1-ce559a0cd3ba-v4.jpg"
         }
       ],
       "video_url": null,
