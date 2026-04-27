@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-27T07:29:07.363773+00:00",
+  "generated_at": "2026-04-27T09:41:28.930440+00:00",
   "pagination": {
     "page": 10,
     "page_size": 16,
@@ -7,6 +7,24 @@
     "total_pages": 12
   },
   "posts": [
+    {
+      "id": 2452,
+      "date": "2026-02-09T13:33:53+00:00",
+      "text": null,
+      "text_html": null,
+      "views": 1440,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2452-1-bb3d128cfa52-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2452-1-bb3d128cfa52-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/PG_Tax/2452",
+      "forwarded_from": null
+    },
     {
       "id": 2451,
       "date": "2026-02-09T10:02:32+00:00",
@@ -17,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2451-1-6a5fa07f1c28-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2451-1-6a5fa07f1c28-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2451-1-c34c168c8afe-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2451-1-c34c168c8afe-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +53,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2450-1-0986fb5ac32b-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2450-1-0986fb5ac32b-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2450-1-da98949ad390-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2450-1-da98949ad390-v4.jpg"
         }
       ],
       "video_url": null,
@@ -52,7 +70,7 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/a9db42e7e0.mp4?token=RCq8TCp4jufpJAV_5tywkA39y2u9aSZ6JlJnLzUczro0OCIid5uHXNI1a5aoH2BuQEMh3TMy4Gpm6DGYj9mObSr0c_5dmCDmGPHNHy7LCaoXUstzoKtp9n70R_T5B6eAOxzSkI_bw_EbDaXzj6jozeDcfW_S0sonuKW_CQdJQx9dzL1YvI98W_Xl9ZH87-BYxU7zSSYxzOaGkhXvnZ0mAeFKxVgfMe7wxe58kdlMHn6_auXLAN-MxpL_ZyzuoObYSdIBUDviabpT59UosOHLPp_cToGuITV0x5X1AfDLrHi9OLTm0ZQcm0tALWKrZ6c1MuS-FMhI3VkUfqyMEhsCvw",
+      "video_url": "https://cdn4.telesco.pe/file/a9db42e7e0.mp4?token=ubHvSS5JJIBD3P5Af9JeRSthfN6HGDF9fTe-qWq1lCb2-bubhogRQKVpGdFkTwm3pNaSwlvLwA_8UZZhYt-OEXFqXt_TXuhmT51ClP_KdxQTbEr3FPxskGlO6gBAaIJwQjiWAmBcoSBJykpGv-jTz8ECAJdqQqo5qP4K8mN3Xz0Bmw2lERaaQK6Xcie2rwsRBaME2GmC7Gh6EtZxrPs2EGXGrUy-tTcXXAdILjAqTHDc4zbra7JLSpxXIJUtCwBUsagb-gEXHEziLR16oi9V_7O-LEPxiTtS5-lzlMotvvPrpes4GaWUyVZ0ajzNPgtazsCOKuDtVehfFjxgIdbOWA",
       "tg_url": "https://t.me/PG_Tax/2449",
       "forwarded_from": null
     },
@@ -66,8 +84,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2448-1-c50c78791afe-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2448-1-c50c78791afe-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2448-1-48ed299c098e-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2448-1-48ed299c098e-v4.jpg"
         }
       ],
       "video_url": null,
@@ -84,8 +102,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2447-1-73a43c2f7cd4-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2447-1-73a43c2f7cd4-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2447-1-5f54a4537c63-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2447-1-5f54a4537c63-v4.jpg"
         }
       ],
       "video_url": null,
@@ -102,8 +120,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2446-1-a073aafaa918-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2446-1-a073aafaa918-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2446-1-4fc42bd63c11-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2446-1-4fc42bd63c11-v4.jpg"
         }
       ],
       "video_url": null,
@@ -120,8 +138,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2445-1-8b3fc07de251-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2445-1-8b3fc07de251-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2445-1-0d74c2fd17bf-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2445-1-0d74c2fd17bf-v4.jpg"
         }
       ],
       "video_url": null,
@@ -138,8 +156,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2444-1-5dad04f59191-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2444-1-5dad04f59191-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2444-1-21f7519d60f3-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2444-1-21f7519d60f3-v4.jpg"
         }
       ],
       "video_url": null,
@@ -155,7 +173,7 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/63e6f20f02.mp4?token=cs9IVrj1NgUJOjafs7dDdaikRa7iq2k4h2e4lei9_CSAHZ7n_IPajRN93BcuRwkSdUA-ufQdEDdAuuxb8GQBKS6aw7vtsCbhKOey7QXR9PLotycu61f-qt3HTWK8CDvKIcDnyoB-NR2aYCBoiB0yVFrrNUqj73wpKkOCeZLP0-eLR16NGbNcgMvGLVcw6mPh1BoSXQRShQixH8nL0GCH8RlzDfMhYPkxUZNvhh33AYTVY_K-bDQEMDJ0WG5rQAOUkaAnA3GoF2v2y47my_K2RQlBO4GaHDqHBcBBc2C7aci0vJ6uE9af9rN6TOozH-qwJ-amCChFhh17kbt21Z9nqw",
+      "video_url": "https://cdn4.telesco.pe/file/63e6f20f02.mp4?token=Fq1tdLlP_mf2m1wGV4UCbz3x0UZ4Pm_DeKphJnrTlGy3REfb4Vt4a1mOuJXWNGQBXBo-L7n-3MSnkaw5aXATLn0IQK934kyfgYBF9FlujJibPb2u-UGsQ6liw0ItPX93xcwc0810Zxu9C1E0dLI-5f5ahjZAVjSwHspKM8gd04AREWE2Kh01IVIxqX3vcPOAFxRuKQOSLn3zJj-TttcMWoXvT1PKuHR9u_kuuxGNGq6pqHd-QBE6b-UTDXeMVSGTYEYCwECtVcRuzdTTW5tm1BMlz_xYJ3WVlQCpiP3S9c1tDSvS6msZ9JLFCKZqqYob5WWdVQ0DkdTegnFCvv-NcA",
       "tg_url": "https://t.me/PG_Tax/2443",
       "forwarded_from": null
     },
@@ -169,8 +187,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2442-1-45eb52b48e69-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2442-1-45eb52b48e69-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2442-1-1a9a062786ed-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2442-1-1a9a062786ed-v4.jpg"
         }
       ],
       "video_url": null,
@@ -187,8 +205,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2441-1-9f789e21e9bc-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2441-1-9f789e21e9bc-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2441-1-f4092c81e4fb-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2441-1-f4092c81e4fb-v4.jpg"
         }
       ],
       "video_url": null,
@@ -205,8 +223,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2440-1-4b255faec4c4-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2440-1-4b255faec4c4-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2440-1-fec044b4ecfd-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2440-1-fec044b4ecfd-v4.jpg"
         }
       ],
       "video_url": null,
@@ -222,7 +240,7 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/4501c9f0fd.mp4?token=lVYmr4N-PGRkBS6C6gVa96qeBvCfIjTtQB9-jRSCuRkUK17XZxBFNHd-AHM7POfca3TFoGzmiypoAtaJi9PnZncg5cY9PMIn9CqSDwUKqY1UjTfVe2rPTO7JeTmU0oCBICSo01DL9UxwmKpPOk3F3bFt6Z-9DvGDyeDTN0al5pYYWisxaZLJuai5t70oVj1LdlFlnbnjKfgQb2bkJ3pcRtedc2zdQRb_qL4pJ-o7siKy4_s_cWzMVpSsNm43F3kE15f8ASUvkMjUkxxwMB2xVoOty2Kpk18gNW3AtGY1__HZZjYZe8P5yu42ReKO1vlR9bgzpBDc-jT9a4bUhkkMzQ",
+      "video_url": "https://cdn4.telesco.pe/file/4501c9f0fd.mp4?token=D1zKsBFZL92Hd1UnMWHv6qYOVv8LCqVWAy1HQ8AkxZJAxG4YdEmLMLnQSIT1mvWBlpK_yuAZqC35u3Ra1JwscGBlh0OtKTCq3vGn1Lqa_qtmIca89ejm4JxTpwpV-JughvmYoB2D2z6mD6EaiqKtzcg4ScfqO27S4C9mOGO5VcJCkJo7U5F6aIQ_EByDlzzgPZ3sGFAaGV9-QKnjOAvbTaW9J9Vdc5RdQo3p0iEyuRdhrokpjUjajWKNbfZ-JLqZ_C0aOpx1rWwS-5nyksOSYWpPu1opvGAsqaH8yXX7Qfiup-GDz8cyJZ90QYppAmnDsh92Ve1PF-XXa6TA-Gbhvg",
       "tg_url": "https://t.me/PG_Tax/2439",
       "forwarded_from": null
     },
@@ -236,8 +254,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2438-1-41a46e98ecc2-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2438-1-41a46e98ecc2-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2438-1-a3643ec34a89-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2438-1-a3643ec34a89-v4.jpg"
         }
       ],
       "video_url": null,
@@ -254,30 +272,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2437-1-e6582e44c0a3-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2437-1-e6582e44c0a3-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2437-1-2a3a3c59d8ea-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2437-1-2a3a3c59d8ea-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/PG_Tax/2437",
-      "forwarded_from": null
-    },
-    {
-      "id": 2436,
-      "date": "2026-02-03T08:04:38+00:00",
-      "text": "Нормотворчество\n \n🔴Законопроекты с инициативами по обелению экономики России планируется внести в Госдуму в первом полугодии, сообщили в аппарате вице-премьера РФ Дмитрия Григоренко.\n \n🔴В «Русской стали» предлагают проиндексировать цену отсечки сляба (металлургического полуфабриката), ниже которой акциз на жидкую сталь не платится (сейчас 30 тыс. руб. за тонну). \n🛑 Ассоциация также предлагает распространить обязанность по уплате акциза на импортеров металлопроката, труб и железнодорожных колес, так как иностранная продукция также производится из жидкой стали.\n \n🔴Белорусских производителей могутосвободить от необходимости вносить предоплату по НДС в условиях прозрачности, которая есть между странами. Такое решение может быть принято, если расширится информационный обмен с налоговой службой России и в него будут включены несколько новых показателей.\n \n⚙️ Практика\n \n🔴Мониторинг делового климата РСПП показал, что налоговые проблемы продолжают входить в пятерку главных ограничений для бизнеса.\n \n🔴На сайте ФНС России заработал калькулятор НДФЛ (для налоговых резидентов), он поможет рассчитать налог с разных видов доходов физлица и понять порядок его расчета.\n\n#главные_налоговые_новости",
-      "text_html": "Нормотворчество<br> <br>🔴Законопроекты с инициативами по обелению экономики России <a href=\"https://ria.ru/20260130/gd-2071354750.html\" target=\"_blank\" rel=\"noopener noreferrer\">планируется</a> внести в Госдуму в первом полугодии, сообщили в аппарате вице-премьера РФ Дмитрия Григоренко.<br> <br>🔴В «Русской стали» <a href=\"https://www.kommersant.ru/doc/8398416?query=%D0%BD%D0%B0%D0%BB%D0%BE%D0%B3\" target=\"_blank\" rel=\"noopener noreferrer\">предлагают</a> проиндексировать цену отсечки сляба (металлургического полуфабриката), ниже которой акциз на жидкую сталь не платится (сейчас 30 тыс. руб. за тонну). <br>🛑 Ассоциация также <a href=\"https://www.forbes.ru/biznes/554652-rbk-metallurgi-predstavat-manturovu-novyj-plan-podderzki-sektora\" target=\"_blank\" rel=\"noopener noreferrer\">предлагает</a> распространить обязанность по уплате акциза на импортеров металлопроката, труб и железнодорожных колес, так как иностранная продукция также производится из жидкой стали.<br> <br>🔴Белорусских производителей <a href=\"https://www.vedomosti.ru/economics/articles/2026/02/03/1173540-rossiya-mozhet-sdelat-poslableniya-dlya-belorusskogo-biznesa\" target=\"_blank\" rel=\"noopener noreferrer\">могут</a><a href=\"https://www.vedomosti.ru/economics/articles/2026/02/03/1173540-rossiya-mozhet-sdelat-poslableniya-dlya-belorusskogo-biznesa\" target=\"_blank\" rel=\"noopener noreferrer\">освободить</a> от необходимости вносить предоплату по НДС в условиях прозрачности, которая есть между странами. Такое решение может быть принято, если расширится информационный обмен с налоговой службой России и в него будут включены несколько новых показателей.<br> <br>⚙️ Практика<br> <br>🔴<a href=\"https://rspp.ru/events/news/rspp-podgotovil-rezultaty-monitoringa-sostoyanie-rossiyskoy-ekonomiki-i-deyatelnost-kompaniy-v-2025-godu-6980594056baa/\" target=\"_blank\" rel=\"noopener noreferrer\">Мониторинг</a> делового климата РСПП <a href=\"https://www.kommersant.ru/doc/8398811?query=%D0%BD%D0%B0%D0%BB%D0%BE%D0%B3\" target=\"_blank\" rel=\"noopener noreferrer\">показал,</a> что налоговые проблемы продолжают входить в пятерку главных ограничений для бизнеса.<br> <br>🔴На сайте ФНС России <a href=\"https://www.nalog.gov.ru/rn77/service/ndflcalc/\" target=\"_blank\" rel=\"noopener noreferrer\">заработал</a> калькулятор НДФЛ (для налоговых резидентов), он поможет рассчитать налог с разных видов доходов физлица и понять порядок его расчета.<br><br>#главные_налоговые_новости",
-      "views": 1460,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2436-1-8c2fde8a961f-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2436-1-8c2fde8a961f-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2436",
       "forwarded_from": null
     }
   ]

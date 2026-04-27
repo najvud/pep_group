@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-04-27T07:27:46.853546+00:00",
+  "generated_at": "2026-04-27T09:39:42.998937+00:00",
   "pagination": {
     "page": 3,
     "page_size": 16,
-    "total_posts": 39,
+    "total_posts": 40,
     "total_pages": 3
   },
   "posts": [
+    {
+      "id": 1351,
+      "date": "2026-02-17T13:57:02+00:00",
+      "text": "❓Почему ФАС России вправе заключать мировые соглашения, несмотря на статус органа власти?\n\nНа первый взгляд это выглядит необычно: государственный орган выявляет нарушение и одновременно может договориться с нарушителем. Однако в этом и состоит современный подход антимонопольного регулирования. Законодательство, а именно – статья 190 АПК РФ, прямо допускает примирение сторон в публичных спорах, даже если одна из них является органом исполнительной власти.\n\nСмысл здесь практический: задача ФАС — не санкция сама по себе, а восстановление конкуренции. Мировое соглашение позволяет быстрее устранить нарушение, зафиксировать обязательства бизнеса, снизить процессуальные издержки для всех сторон и добиться реальных изменений на рынке без длительных судебных споров.\n\nПо сути, это инструмент регулирующего диалога: государство сохраняет контроль через судебное утверждение соглашения, а рынок получает более быстрые и предсказуемые решения. \n\nИменно поэтому возможность «мириться» с регулятором — скорее признак зрелости антимонопольного правоприменения, чем исключение из правил.",
+      "text_html": "❓Почему ФАС России вправе заключать мировые соглашения, несмотря на статус органа власти?<br><br>На первый взгляд это выглядит необычно: государственный орган выявляет нарушение и одновременно может договориться с нарушителем. Однако в этом и состоит современный подход антимонопольного регулирования. Законодательство, а именно – статья 190 АПК РФ, прямо допускает примирение сторон в публичных спорах, даже если одна из них является органом исполнительной власти.<br><br>Смысл здесь практический: задача ФАС — не санкция сама по себе, а восстановление конкуренции. Мировое соглашение позволяет быстрее устранить нарушение, зафиксировать обязательства бизнеса, снизить процессуальные издержки для всех сторон и добиться реальных изменений на рынке без длительных судебных споров.<br><br>По сути, это инструмент регулирующего диалога: государство сохраняет контроль через судебное утверждение соглашения, а рынок получает более быстрые и предсказуемые решения. <br><br>Именно поэтому возможность «мириться» с регулятором — скорее признак зрелости антимонопольного правоприменения, чем исключение из правил.",
+      "views": 752,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1351-1-c972b52e9cde-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1351-1-c972b52e9cde-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/PgAntitrust/1351",
+      "forwarded_from": null
+    },
     {
       "id": 1350,
       "date": "2026-02-13T14:06:36+00:00",
@@ -35,8 +53,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1349-1-55ba1dcbfde9-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1349-1-55ba1dcbfde9-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1349-1-fb1bcffe4bea-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1349-1-fb1bcffe4bea-v4.jpg"
         }
       ],
       "video_url": null,
@@ -53,44 +71,44 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1339-1-d1f888777906-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1339-1-d1f888777906-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1339-1-5faaf066dfa5-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1339-1-5faaf066dfa5-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1339-2-97b9c6190006-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1339-2-97b9c6190006-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1339-2-a21674813491-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1339-2-a21674813491-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1339-3-bf95b75b01a1-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1339-3-bf95b75b01a1-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1339-3-67fd58fb6d0e-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1339-3-67fd58fb6d0e-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1339-4-f493b76f4d13-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1339-4-f493b76f4d13-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1339-4-2ee4fe5db024-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1339-4-2ee4fe5db024-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1339-5-fe3442076da0-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1339-5-fe3442076da0-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1339-5-08e1ac0912df-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1339-5-08e1ac0912df-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1339-6-60bce17671cb-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1339-6-60bce17671cb-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1339-6-a9364196c652-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1339-6-a9364196c652-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1339-7-cf5c7c06ca5e-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1339-7-cf5c7c06ca5e-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1339-7-348e9563f22f-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1339-7-348e9563f22f-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1339-8-5e07e63c6e93-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1339-8-5e07e63c6e93-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1339-8-a0f47c05c096-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1339-8-a0f47c05c096-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1339-9-e163f8c22c69-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1339-9-e163f8c22c69-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1339-9-f195564596f3-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1339-9-f195564596f3-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1339-10-43bd42f8d9b8-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1339-10-43bd42f8d9b8-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1339-10-1a60f4d389ca-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1339-10-1a60f4d389ca-v4.jpg"
         }
       ],
       "video_url": null,
@@ -120,8 +138,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1337-1-7a37dca2cb87-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1337-1-7a37dca2cb87-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1337-1-5abb9580b6b8-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1337-1-5abb9580b6b8-v4.jpg"
         }
       ],
       "video_url": null,
@@ -138,8 +156,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1336-1-47924fdac9c1-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1336-1-47924fdac9c1-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1336-1-01d6625c69b2-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1336-1-01d6625c69b2-v4.jpg"
         }
       ],
       "video_url": null,
@@ -156,8 +174,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1335-1-36abe29eac86-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1335-1-36abe29eac86-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1335-1-32f26290a2b1-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1335-1-32f26290a2b1-v4.jpg"
         }
       ],
       "video_url": null,
