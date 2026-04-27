@@ -1,32 +1,50 @@
 {
-  "generated_at": "2026-04-27T09:43:07.937594+00:00",
+  "generated_at": "2026-04-27T11:30:58.498544+00:00",
   "pagination": {
     "page": 3,
     "page_size": 16,
-    "total_posts": 77,
+    "total_posts": 78,
     "total_pages": 5
   },
   "posts": [
+    {
+      "id": 443,
+      "date": "2026-03-23T14:05:52+00:00",
+      "text": "Уже в этот четверг 26 марта мы обсудим актуальные вопросы банкротства, судебную практику и стратегии защиты бизнеса. Разберём реальные ситуации, сильные и слабые комбинации в спорах, а также новые подходы судов и государственных органов.\n\n⚡️ Подробнее о мероприятии и регистрация по ссылке.",
+      "text_html": "Уже в этот четверг 26 марта мы обсудим актуальные вопросы банкротства, судебную практику и стратегии защиты бизнеса. Разберём реальные ситуации, сильные и слабые комбинации в спорах, а также новые подходы судов и государственных органов.<br><br>⚡️ Подробнее о мероприятии и регистрация по <a href=\"https://www.pgplaw.ru/events/upcoming-events/bankrotnyy-poker/\" target=\"_blank\" rel=\"noopener noreferrer\">ссылке.</a>",
+      "views": 346,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/443-1-c6a0cc7979ee-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/443-1-c6a0cc7979ee-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/bankrotstvo_mustknow/443",
+      "forwarded_from": null
+    },
     {
       "id": 439,
       "date": "2026-03-23T13:09:11+00:00",
       "text": "🧩 Продолжаем делиться сервисами, которые помогают нам оставаться с вами на связи\n\nПоскольку Telegram работает нестабильно, мы сделали приложение, в котором можно без ограничений читать все наши каналы. Его можно скачать на телефон или компьютер и продолжать следить за нашими публикациями в удобном формате.\n\n▫️Чтобы установить приложение, перейдите по ссылке и сохраните его на главный экран своего устройства. В карточке к посту подготовили пошаговую инструкцию, как это сделать на IOS и Android. \n\nУстановить приложение 👉",
       "text_html": "🧩 Продолжаем делиться сервисами, которые помогают нам оставаться с вами на связи<br><br>Поскольку Telegram работает нестабильно, мы сделали приложение, в котором можно без ограничений читать все наши каналы. Его можно скачать на телефон или компьютер и продолжать следить за нашими публикациями в удобном формате.<br><br>▫️Чтобы установить приложение, перейдите <a href=\"https://pgplaw.github.io/pgp_official/\" target=\"_blank\" rel=\"noopener noreferrer\">по ссылке</a> и сохраните его на главный экран своего устройства. В карточке к посту подготовили пошаговую инструкцию, как это сделать на IOS и Android. <br><br><a href=\"https://pgplaw.github.io/pgp_official/\" target=\"_blank\" rel=\"noopener noreferrer\">Установить приложение</a> 👉",
-      "views": 308,
+      "views": 309,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/439-1-5ad4f18b7208-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/439-1-5ad4f18b7208-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/439-1-32dc78918b32-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/439-1-32dc78918b32-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/439-2-aafe06144fe6-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/439-2-aafe06144fe6-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/439-2-b1ccf56943bd-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/439-2-b1ccf56943bd-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/439-3-19f22553d9ee-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/439-3-19f22553d9ee-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/439-3-ddb953e0cbc4-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/439-3-ddb953e0cbc4-v4.jpg"
         }
       ],
       "video_url": null,
@@ -48,8 +66,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/438-1-ec7ed4330129-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/438-1-ec7ed4330129-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/438-1-2d20de92b916-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/438-1-2d20de92b916-v4.jpg"
         }
       ],
       "video_url": null,
@@ -71,8 +89,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/437-1-334a56ab430f-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/437-1-334a56ab430f-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/437-1-4c53708b3f9e-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/437-1-4c53708b3f9e-v4.jpg"
         }
       ],
       "video_url": null,
@@ -89,8 +107,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/436-1-bc59f5f0f2be-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/436-1-bc59f5f0f2be-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/436-1-f95bcd3d5ead-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/436-1-f95bcd3d5ead-v4.jpg"
         }
       ],
       "video_url": null,
@@ -107,8 +125,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/434-1-e3928febc8a2-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/434-1-e3928febc8a2-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/434-1-1f0646805950-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/434-1-1f0646805950-v4.jpg"
         }
       ],
       "video_url": null,
@@ -125,8 +143,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/433-1-ed8e44708c3a-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/433-1-ed8e44708c3a-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/433-1-c513a3d8407a-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/433-1-c513a3d8407a-v4.jpg"
         }
       ],
       "video_url": null,
@@ -166,8 +184,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/430-1-4e73aed01951-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/430-1-4e73aed01951-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/430-1-974e9e64ee54-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/430-1-974e9e64ee54-v4.jpg"
         }
       ],
       "video_url": null,
@@ -184,8 +202,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/429-1-b59377300a3f-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/429-1-b59377300a3f-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/429-1-a80a018c2757-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/429-1-a80a018c2757-v4.jpg"
         }
       ],
       "video_url": null,
@@ -220,8 +238,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/426-1-68764d2c2f0e-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/426-1-68764d2c2f0e-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/426-1-a2df327071de-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/426-1-a2df327071de-v4.jpg"
         }
       ],
       "video_url": null,
@@ -238,8 +256,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/425-1-b128729ce66f-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/425-1-b128729ce66f-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/425-1-40f5d237a908-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/425-1-40f5d237a908-v4.jpg"
         }
       ],
       "video_url": null,
@@ -256,8 +274,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/424-1-41917c7dd17b-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/424-1-41917c7dd17b-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/424-1-246f38573af8-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/424-1-246f38573af8-v4.jpg"
         }
       ],
       "video_url": null,
@@ -274,8 +292,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/423-1-8c179c19c893-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/423-1-8c179c19c893-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/423-1-015fa9309046-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/423-1-015fa9309046-v4.jpg"
         }
       ],
       "video_url": null,
@@ -292,30 +310,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/422-1-52cb10592cc5-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/422-1-52cb10592cc5-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/422-1-28d1a8939f8b-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/422-1-28d1a8939f8b-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/bankrotstvo_mustknow/422",
-      "forwarded_from": null
-    },
-    {
-      "id": 419,
-      "date": "2026-03-04T07:50:44+00:00",
-      "text": "​​📨 Еженедельный обзор MustRead \n\nО новых событиях сферы банкротства с авторскими рекомендациями от Ю. Литовцевой в еженедельном обзоре MustRead от команды практики банкротства и антикризисной защиты бизнеса! В этом выпуске:\n\n👛 Электронные кошельки предлагают защитить так же, как банковские вклады\n\n🏠 Не всякое единственное жилье неприкосновенно\n\n👀 Купить неликвидный долг и привлечь к субсидиарной ответственности: а так можно?\n\n👥 Когда родственники контролирующего лица отвечают по его долгам?\n\n💸 Бездействие управляющего = убыткам\n\nПодробности уже ожидают по ссылке!☕ Приятного чтения!\n\n#Банкротство_mustread\n#Изменения_законодательства \n#Требования_кредиторов \n#Банкротство_граждан \n#Субсидиарная_ответственность \n#Семейные_и_наследственные_вопросы\n#Арбитражный_управляющий \n#Убытки",
-      "text_html": "<a href=\"http://telegraph.controller.bot/files/7064224270/AgACAgIAAxkBAAIMX2mn5E1lxN0PSaNFU-NUSDDZdalvAALEE2sbM4tBSc4zx0AyaIhZAQADAgADeAADOgQ\" target=\"_blank\" rel=\"noopener noreferrer\">​​</a>📨 Еженедельный обзор MustRead <br><br>О новых событиях сферы банкротства с авторскими рекомендациями от Ю. Литовцевой в еженедельном обзоре MustRead от команды <a href=\"https://www.pgplaw.ru/practice-and-industry/practices/bankruptcy/\" target=\"_blank\" rel=\"noopener noreferrer\">практики банкротства и антикризисной защиты бизнеса!</a> В этом выпуске:<br><br>👛 Электронные кошельки предлагают защитить так же, как банковские вклады<br><br>🏠 Не всякое единственное жилье неприкосновенно<br><br>👀 Купить неликвидный долг и привлечь к субсидиарной ответственности: а так можно?<br><br>👥 Когда родственники контролирующего лица отвечают по его долгам?<br><br>💸 Бездействие управляющего = убыткам<br><br>Подробности уже ожидают <a href=\"https://www.pgplaw.ru/analytics-and-brochures/bankruptcy-must-read/bankruptcy-must-read-04-03-26/\" target=\"_blank\" rel=\"noopener noreferrer\">по ссылке!</a><a href=\"https://www.pgplaw.ru/analytics-and-brochures/bankruptcy-must-read/bankruptcy-must-read-26-11-25/\" target=\"_blank\" rel=\"noopener noreferrer\">☕</a> Приятного чтения!<br><br>#Банкротство_mustread<br>#Изменения_законодательства <br>#Требования_кредиторов <br>#Банкротство_граждан <br>#Субсидиарная_ответственность <br>#Семейные_и_наследственные_вопросы<br>#Арбитражный_управляющий <br>#Убытки",
-      "views": 392,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/419-1-3cdc2e125f62-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/419-1-3cdc2e125f62-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/bankrotstvo_mustknow/419",
       "forwarded_from": null
     }
   ]

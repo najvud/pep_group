@@ -1,12 +1,46 @@
 {
-  "generated_at": "2026-04-27T09:39:12.562713+00:00",
+  "generated_at": "2026-04-27T11:26:57.389348+00:00",
   "pagination": {
     "page": 4,
     "page_size": 16,
-    "total_posts": 75,
+    "total_posts": 76,
     "total_pages": 5
   },
   "posts": [
+    {
+      "id": 1745,
+      "date": "2026-03-04T13:29:58+00:00",
+      "text": "🏆 Как мы восстановили права фармкомпании на реализацию препарата на территории РФ\n\nЮристы «Пепеляев Групп» защитили права иностранной фармацевтической компании на дизайн упаковки лекарственного препарата. Трехлетний спор потребовал глубокой экспертизы в области авторского и патентного права.\n\n👉В карточках и на сайте рассказываем, как удалось доказать авторство, аннулировать патент «лжеавтора» и восстановить импорт препарата в Россию.\n\n#pg_победы",
+      "text_html": "🏆 Как мы восстановили права фармкомпании на реализацию препарата на территории РФ<br><br>Юристы «Пепеляев Групп» защитили права иностранной фармацевтической компании на дизайн упаковки лекарственного препарата. Трехлетний спор потребовал глубокой экспертизы в области авторского и патентного права.<br><br>👉В карточках и <a href=\"https://www.pgplaw.ru/our-experience/245634/\" target=\"_blank\" rel=\"noopener noreferrer\">на сайте</a> рассказываем, как удалось доказать авторство, аннулировать патент «лжеавтора» и восстановить импорт препарата в Россию.<br><br>#pg_победы",
+      "views": 1070,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1745-1-a3edd36f77e3-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1745-1-a3edd36f77e3-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1745-2-6ed9a2472701-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1745-2-6ed9a2472701-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1745-3-e9d01ef80e96-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1745-3-e9d01ef80e96-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1745-4-46d1c607743b-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1745-4-46d1c607743b-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1745-5-6342e871da09-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1745-5-6342e871da09-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/pgp_official/1745",
+      "forwarded_from": null
+    },
     {
       "id": 1744,
       "date": "2026-03-04T07:00:54+00:00",
@@ -35,12 +69,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1742-1-b55870b0c879-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1742-1-b55870b0c879-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1742-1-a0c6f9262812-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1742-1-a0c6f9262812-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1742-2-8f5885b506ff-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1742-2-8f5885b506ff-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1742-2-0db360839127-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1742-2-0db360839127-v4.jpg"
         }
       ],
       "video_url": null,
@@ -87,8 +121,8 @@
           "full_url": "data/channels/pgp-official/media/posts/1736-3-da9430984e92-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1736-4-4e2cf3965a5b-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1736-4-4e2cf3965a5b-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1736-4-4a2196503e5e-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1736-4-4a2196503e5e-v4.jpg"
         }
       ],
       "video_url": null,
@@ -136,13 +170,13 @@
       "date": "2026-02-25T07:35:14+00:00",
       "text": "📌Юлия Литовцева, партнер и руководитель практики банкротства и антикризисной защиты бизнеса «Пепеляев Групп» примет участие в прямом эфире программы «ДЕНЬ» на РБК-ТВ, где обсудит тему раздела бизнеса.\n\nКлючевые тезисы:\n🔵Риски раздела бизнеса;\n🔵Фиктивные разводы как способ разделить бизнес и уйти от налогов;\n🔵Как защитить честно нажитый в браке бизнес.\n\nДата и время: сегодня, 11:10.\n\nСмотреть эфир на сайте РБК-ТВ.",
       "text_html": "📌Юлия Литовцева, партнер и руководитель практики банкротства и антикризисной защиты бизнеса «Пепеляев Групп» примет участие в прямом эфире программы «ДЕНЬ» на РБК-ТВ, где обсудит тему раздела бизнеса.<br><br>Ключевые тезисы:<br>🔵Риски раздела бизнеса;<br>🔵Фиктивные разводы как способ разделить бизнес и уйти от налогов;<br>🔵Как защитить честно нажитый в браке бизнес.<br><br>Дата и время: сегодня, 11:10.<br><br>Смотреть эфир <a href=\"https://tv.rbc.ru/\" target=\"_blank\" rel=\"noopener noreferrer\">на сайте РБК-ТВ</a>.",
-      "views": 881,
+      "views": 882,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1733-1-c6a159a242dc-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1733-1-c6a159a242dc-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1733-1-a6059a47957e-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1733-1-a6059a47957e-v4.jpg"
         }
       ],
       "video_url": null,
@@ -172,8 +206,8 @@
           "full_url": "data/channels/pgp-official/media/posts/1727-2-96e586c4cbe0-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1727-3-6f2439596e60-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1727-3-6f2439596e60-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1727-3-0ff4381d839a-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1727-3-0ff4381d839a-v4.jpg"
         },
         {
           "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1727-4-147ef917988a-v4.jpg",
@@ -198,8 +232,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1726-1-a5efa320ebb4-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1726-1-a5efa320ebb4-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1726-1-6742c65d3a3a-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1726-1-6742c65d3a3a-v4.jpg"
         }
       ],
       "video_url": null,
@@ -234,8 +268,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1724-1-cddc7eac2b03-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1724-1-cddc7eac2b03-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1724-1-2cde7ab2baf3-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1724-1-2cde7ab2baf3-v4.jpg"
         }
       ],
       "video_url": null,
@@ -316,24 +350,6 @@
       ],
       "video_url": null,
       "tg_url": "https://t.me/pgp_official/1719",
-      "forwarded_from": null
-    },
-    {
-      "id": 1718,
-      "date": "2026-02-11T13:04:48+00:00",
-      "text": "☂️ Ограничения и меры поддержки для бизнеса: дайджест\n\n✔️ За нарушения при эксплуатации объектов КИИ планируют ужесточить ответственность;\n\n✔️ Правила розничной продажи товаров обновят;\n\n✔️ Определены дополнительные критерии для посреднических цифровых платформ.\n\nПодробнее – по ссылке.\n\n#антикризисная_поддержка_бизнеса",
-      "text_html": "☂️ Ограничения и меры поддержки для бизнеса: дайджест<br><br>✔️ За нарушения при эксплуатации объектов КИИ планируют ужесточить ответственность;<br><br>✔️ Правила розничной продажи товаров обновят;<br><br>✔️ Определены дополнительные критерии для посреднических цифровых платформ.<br><br>Подробнее – <a href=\"https://www.pgplaw.ru/analytics-and-brochures/sanctions-support-digest/support-digest-09-02-26/\" target=\"_blank\" rel=\"noopener noreferrer\">по ссылке.</a><br><br>#антикризисная_поддержка_бизнеса",
-      "views": 1110,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1718-1-99b78b92c6cc-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1718-1-99b78b92c6cc-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/pgp_official/1718",
       "forwarded_from": null
     }
   ]
