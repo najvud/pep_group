@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-04-27T13:06:48.993615+00:00",
+  "generated_at": "2026-04-27T15:18:35.442624+00:00",
   "pagination": {
     "page": 9,
     "page_size": 16,
-    "total_posts": 177,
-    "total_pages": 12
+    "total_posts": 176,
+    "total_pages": 11
   },
   "posts": [
     {
@@ -17,8 +17,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2470-1-76de34c81be0-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2470-1-76de34c81be0-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2470-1-e57b76cc1649-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2470-1-e57b76cc1649-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2469-1-34e79764164f-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2469-1-34e79764164f-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2469-1-1a24035e8b92-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2469-1-1a24035e8b92-v4.jpg"
         }
       ],
       "video_url": null,
@@ -53,8 +53,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2468-1-890996c46642-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2468-1-890996c46642-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2468-1-c53156b3c47b-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2468-1-c53156b3c47b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -71,8 +71,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2467-1-bd9ee61318f8-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2467-1-bd9ee61318f8-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2467-1-cca9c1cee93b-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2467-1-cca9c1cee93b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -94,8 +94,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2466-1-61bac55cb9a4-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2466-1-61bac55cb9a4-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2466-1-4b9664341477-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2466-1-4b9664341477-v4.jpg"
         }
       ],
       "video_url": null,
@@ -112,8 +112,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2465-1-5a87ed468c8f-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2465-1-5a87ed468c8f-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2465-1-53ee31b8ca78-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2465-1-53ee31b8ca78-v4.jpg"
         }
       ],
       "video_url": null,
@@ -130,8 +130,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2464-1-2cc6985928b7-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2464-1-2cc6985928b7-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2464-1-a9ceddc4dd7e-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2464-1-a9ceddc4dd7e-v4.jpg"
         }
       ],
       "video_url": null,
@@ -148,8 +148,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2463-1-a4b6fc1bf790-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2463-1-a4b6fc1bf790-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2463-1-30885a00a44c-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2463-1-30885a00a44c-v4.jpg"
         }
       ],
       "video_url": null,
@@ -166,8 +166,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2462-1-ca06679601db-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2462-1-ca06679601db-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2462-1-35ecb587d1fc-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2462-1-35ecb587d1fc-v4.jpg"
         }
       ],
       "video_url": null,
@@ -183,7 +183,7 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/bddec2768e.mp4?token=A9mRwK_Q7wWkLIyGRGbWtRQAONJN4iLXwRAd1jKg7pDvQKXb4_LxYBgp4zIw8A59fjQg18uKMm4oT7vXnlA7xHDKtIVvaPyGwTaOScz1Nq9B54mAgzM8MbxmdCyKoxpvKnAP8DLFU1bI_TkQVw7OQmMz5AR5bd-78THK4bNz75QUlBAtQQiQk6pNQL2wA8LlMzf7tqnnnAtZ9-XeiNE93DxsUDRAQhukAY8OtJoivELydfm9tN5MYuAI2rPWo0Yc532uchAhvq6LOk7q6Yjtupzct5RgAzWJC8UsAPNTw_ntRDUV4BbQ0lWjKowrmsSq0tTv-m4COedfgZQ3NOqcEg",
+      "video_url": "https://cdn4.telesco.pe/file/bddec2768e.mp4?token=WRHiqGmqUMunAZtjbxRM5Exk_9-bDMISA7H8AAiJNFNuxAhuy0dDdKXJIhI_m4ZUsjrm_PM5a5ZRUP7l8CQEUsFtiVem3qpnxtKO9dcKv1XStYFWfwI_g379ZHxLZcYDs-4_KR71KKPcKDqIVh6H5aJKWqKfcFWEom6lZYyduPsy90MBnSR50Fq775Rbhk0ysqBcXDiOvBoaArkVjXDaayOlZJwv0XEd-3sKuRaVwJjhFVcCp4K7kz8iXuKZkTRAF6JjtdNVb7WnyvQ1Hh0q646huFkssbambYxVa5HDYgnza1MWDJyHtJwiS5oBX0PLAtTbN4ZR7yJhj7nOYiIZYA",
       "tg_url": "https://t.me/PG_Tax/2461",
       "forwarded_from": null
     },
@@ -197,8 +197,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2460-1-e69d000a2ed6-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2460-1-e69d000a2ed6-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2460-1-b98a573aa186-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2460-1-b98a573aa186-v4.jpg"
         }
       ],
       "video_url": null,
@@ -215,8 +215,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2459-1-6816b0a69605-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2459-1-6816b0a69605-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2459-1-eff9af88aaf4-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2459-1-eff9af88aaf4-v4.jpg"
         }
       ],
       "video_url": null,
@@ -228,13 +228,13 @@
       "date": "2026-02-11T08:32:40+00:00",
       "text": "⚙️ Практика\n \nНа Едином портале «Госуслуги» запущен сервис для проверки задолженностей у других людей или организаций. \n\nℹ️ Проверка позволит узнать о задолженностях по кредитам, алиментам, налогам, штрафам и другим обязательствам. Таким образом можно избежать ареста имущества и ограничений на выезд за границу, оценить риски при работе с контрагентами, подготовиться к крупным сделкам. \n\n🛑 Аналогичный сервис работает на сайте ФССП.\n \n✈️ Международные новости\n \nВласти Германии создали ситуацию, при которой немецкий бизнес в России и российский в ФРГ оказались под серьезным налоговым давлением.\n\nℹ️ Налог удерживают в Германии, а затем тот же доход облагается налогом в России, и нагрузка может достигать 40% и выше. Но несмотря на сложности, немецкий бизнес частично остается в РФ. \n\n🛑 По данным РСПП в стране продолжают работать около 750 немецких компаний.\n\n#главные_налоговые_новости",
       "text_html": "⚙️ Практика<br> <br>На Едином портале «Госуслуги» <a href=\"https://www.vedomosti.ru/society/news/2026/02/10/1175272-dolgi-u-drugih-lyudei%22%20%5Co%20%22https://www.vedomosti.ru/society/news/2026/02/10/1175272-dolgi-u-drugih-lyudei\" target=\"_blank\" rel=\"noopener noreferrer\">запущен</a> сервис для проверки задолженностей у других людей или организаций. <br><br>ℹ️ Проверка позволит узнать о задолженностях по кредитам, алиментам, налогам, штрафам и другим обязательствам. Таким образом можно избежать ареста имущества и ограничений на выезд за границу, оценить риски при работе с контрагентами, подготовиться к крупным сделкам. <br><br>🛑 Аналогичный сервис работает на сайте ФССП.<br> <br>✈️ Международные новости<br> <br>Власти Германии <a href=\"https://iz.ru/2040504/milana-gadzhieva/dojchernie-kompanii-germaniya-vynuzhdaet-svoj-biznes-v-rf-platit-nalog-dvazhdy%22%20%5Co%20%22https://iz.ru/2040504/milana-gadzhieva/dojchernie-kompanii-germaniya-vynuzhdaet-svoj-biznes-v-rf-platit-nalog-dvazhdy\" target=\"_blank\" rel=\"noopener noreferrer\">создали</a> ситуацию, при которой немецкий бизнес в России и российский в ФРГ оказались под серьезным налоговым давлением.<br><br>ℹ️ Налог удерживают в Германии, а затем тот же доход облагается налогом в России, и нагрузка может достигать 40% и выше. Но несмотря на сложности, немецкий бизнес частично остается в РФ. <br><br>🛑 По данным РСПП в стране продолжают работать около 750 немецких компаний.<br><br>#главные_налоговые_новости",
-      "views": 1400,
+      "views": 1410,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2458-1-17cd604a8f48-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2458-1-17cd604a8f48-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2458-1-6c9ee17fd1c4-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2458-1-6c9ee17fd1c4-v4.jpg"
         }
       ],
       "video_url": null,
@@ -250,7 +250,7 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/9c54e3d766.mp4?token=LDyZ4N5TNqXwXj3YqVfZSgzzC8KAPvxykT5Ez7-vv13BWFixyMSlAh6z5-o8VhIgORG6E183IVavAaPxMJaV6IVlPAPkEiC9c41bIesI6na8ATBMSacysDOS91tlEw8lD9v5oXgeDtqc86y65v3zcDKRjDWHx8h9NfBvQWt48oCGfWqiXgOofCkb5eLUp0fWEHfJwsGEs3H3d73kKEVZnLRq3dFGApmYgGvrK0P1ckCs9LA_Ej0CcZKvxXKB1-TxHPWXCtgqLpNva4QxiQl756scdJKboi_--Hgi6pE7vY_jEQxjTalexXQzw6pFtAn6ttGIg7piKATduNqBvgX67g",
+      "video_url": "https://cdn4.telesco.pe/file/9c54e3d766.mp4?token=A63aluk7rNmVYIfiJYxqzz_u1KwqcVonCuqakT7ebw5gFYKxNXDb6DY_XwRAfevdUkfOhG1C2Vlxs3fbOzrbGe2VyTEYNNiri4h0X1PGLAnJNORbx9fUFhiMia80UFI2zwqlD3v2UZ4SIMfLA8Jivb5p2oaC7UAlI9YHTzEv4wg5_3VYXRx0AyYITD4RgDy7Nbu-CrSQgZK7QJp_1LslpPcm7cj0zsJsjO0uzBlhhK2g425cdBbSgIw93i60l_pev7cxz_yiLxsRvC7_dLg4ecV69DBJFqICYIgCPcGzS5QLw0up8srTXmOUt6AvBEaCIT7BBqUrf5OemmAMOfgWMg",
       "tg_url": "https://t.me/PG_Tax/2457",
       "forwarded_from": null
     },
@@ -264,8 +264,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2456-1-86107d8356ed-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2456-1-86107d8356ed-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2456-1-9a5d87db0ea3-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2456-1-9a5d87db0ea3-v4.jpg"
         }
       ],
       "video_url": null,
@@ -282,8 +282,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2455-1-abcbf6dc1a25-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2455-1-abcbf6dc1a25-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2455-1-be1951fc527d-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2455-1-be1951fc527d-v4.jpg"
         }
       ],
       "video_url": null,
