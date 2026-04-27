@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-27T16:58:43.824899+00:00",
+  "generated_at": "2026-04-27T18:09:36.625644+00:00",
   "pagination": {
     "page": 2,
     "page_size": 16,
@@ -130,8 +130,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1781-1-4581612dc8f0-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1781-1-4581612dc8f0-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1781-1-421579429974-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1781-1-421579429974-v4.jpg"
         },
         {
           "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1781-2-d421a2be5155-v4.jpg",
@@ -277,17 +277,17 @@
       "date": "2026-03-20T14:05:01+00:00",
       "text": "🧩 Продолжаем делиться сервисами, которые помогают нам оставаться с вами на связи\n\nПоскольку Telegram работает нестабильно, мы сделали приложение, в котором можно без ограничений читать все наши каналы. Его можно скачать на телефон или компьютер и продолжать следить за нашими публикациями в удобном формате.\n\n▫️Чтобы установить приложение, перейдите по ссылке и сохраните его на главный экран своего устройства. В карточке к посту подготовили пошаговую инструкцию, как это сделать на IOS и Android. \n\nУстановить приложение 👉",
       "text_html": "🧩 Продолжаем делиться сервисами, которые помогают нам оставаться с вами на связи<br><br>Поскольку Telegram работает нестабильно, мы сделали приложение, в котором можно без ограничений читать все наши каналы. Его можно скачать на телефон или компьютер и продолжать следить за нашими публикациями в удобном формате.<br><br>▫️Чтобы установить приложение, перейдите <a href=\"https://pgplaw.github.io/pgp_official/\" target=\"_blank\" rel=\"noopener noreferrer\">по ссылке</a> и сохраните его на главный экран своего устройства. В карточке к посту подготовили пошаговую инструкцию, как это сделать на IOS и Android. <br><br><a href=\"https://pgplaw.github.io/pgp_official/\" target=\"_blank\" rel=\"noopener noreferrer\">Установить приложение</a> 👉",
-      "views": 7000,
+      "views": 7010,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1769-1-e66069020aaf-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1769-1-e66069020aaf-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1769-1-3dcbe9fca719-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1769-1-3dcbe9fca719-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1769-2-444295ebdb46-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1769-2-444295ebdb46-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1769-2-d43cb3be4021-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1769-2-d43cb3be4021-v4.jpg"
         },
         {
           "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1769-3-f110a7f24052-v4.jpg",
@@ -308,8 +308,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1768-1-22f39516bcc8-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1768-1-22f39516bcc8-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1768-1-8818a6c5cc58-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1768-1-8818a6c5cc58-v4.jpg"
         }
       ],
       "video_url": null,
@@ -326,8 +326,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1767-1-5cf2694d8b9d-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1767-1-5cf2694d8b9d-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1767-1-170ef830b036-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1767-1-170ef830b036-v4.jpg"
         }
       ],
       "video_url": null,
