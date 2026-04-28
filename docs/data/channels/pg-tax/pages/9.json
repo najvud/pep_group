@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T09:39:37.928531+00:00",
+  "generated_at": "2026-04-28T11:27:28.845744+00:00",
   "pagination": {
     "page": 9,
     "page_size": 16,
@@ -7,6 +7,24 @@
     "total_pages": 11
   },
   "posts": [
+    {
+      "id": 2472,
+      "date": "2026-02-17T10:57:01+00:00",
+      "text": "🎬 Новое видео: Добросовестная реализация имущества или злонамеренное сокрытие от взыскания налоговой задолженности? Риски приобретателя\n\nСмотрите через:\n\n📱 ВК Видео\n📱 YouTube\n\nВас ждет обсуждение рискованных сделок с имуществом при наличии налоговой задолженности, позиции Верховного суда и налоговых органов, ключевые признаки недобросовестности и многое другое.\n\n#видеоинтервью_Пепеляев_Налоговед",
+      "text_html": "🎬 Новое видео: Добросовестная реализация имущества или злонамеренное сокрытие от взыскания налоговой задолженности? Риски приобретателя<br><br>Смотрите через:<br><br>📱 <a href=\"https://vkvideo.ru/video-227047542_456239396?sh=4\" target=\"_blank\" rel=\"noopener noreferrer\">ВК Видео</a><br>📱 <a href=\"https://youtu.be/8xjSijqCei8\" target=\"_blank\" rel=\"noopener noreferrer\">YouTube</a><br><br>Вас ждет обсуждение рискованных сделок с имуществом при наличии налоговой задолженности, позиции Верховного суда и налоговых органов, ключевые признаки недобросовестности и многое другое.<br><br>#видеоинтервью_Пепеляев_Налоговед",
+      "views": 1400,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2472-1-f07545ef00ea-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2472-1-f07545ef00ea-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/PG_Tax/2472",
+      "forwarded_from": null
+    },
     {
       "id": 2471,
       "date": "2026-02-17T07:10:06+00:00",
@@ -17,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2471-1-42358e1c9558-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2471-1-42358e1c9558-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2471-1-2b248498abda-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2471-1-2b248498abda-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +53,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2470-1-91314d8f5d38-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2470-1-91314d8f5d38-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2470-1-22fcb7799cf3-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2470-1-22fcb7799cf3-v4.jpg"
         }
       ],
       "video_url": null,
@@ -53,8 +71,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2469-1-312bcc2e5de0-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2469-1-312bcc2e5de0-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2469-1-2da4296b54a1-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2469-1-2da4296b54a1-v4.jpg"
         }
       ],
       "video_url": null,
@@ -71,8 +89,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2468-1-4ee6fbb0f4a0-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2468-1-4ee6fbb0f4a0-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2468-1-1fd8bfabf507-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2468-1-1fd8bfabf507-v4.jpg"
         }
       ],
       "video_url": null,
@@ -89,8 +107,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2467-1-5cd1d6a94597-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2467-1-5cd1d6a94597-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2467-1-453d36829a34-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2467-1-453d36829a34-v4.jpg"
         }
       ],
       "video_url": null,
@@ -112,8 +130,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2466-1-e6246dfc7e6a-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2466-1-e6246dfc7e6a-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2466-1-2822b648ff6c-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2466-1-2822b648ff6c-v4.jpg"
         }
       ],
       "video_url": null,
@@ -130,8 +148,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2465-1-e81305698db4-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2465-1-e81305698db4-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2465-1-05c295ac17f3-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2465-1-05c295ac17f3-v4.jpg"
         }
       ],
       "video_url": null,
@@ -148,8 +166,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2464-1-5622ecd0dab2-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2464-1-5622ecd0dab2-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2464-1-404a189321bf-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2464-1-404a189321bf-v4.jpg"
         }
       ],
       "video_url": null,
@@ -166,8 +184,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2463-1-f3853150ee31-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2463-1-f3853150ee31-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2463-1-c7203579df4d-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2463-1-c7203579df4d-v4.jpg"
         }
       ],
       "video_url": null,
@@ -184,8 +202,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2462-1-ff826aabd57e-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2462-1-ff826aabd57e-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2462-1-ef5b81ae0a89-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2462-1-ef5b81ae0a89-v4.jpg"
         }
       ],
       "video_url": null,
@@ -201,7 +219,7 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/bddec2768e.mp4?token=cZ1RWYKhcT8Jla5Lsks9w0w68-0zY2LkbbgzJLbeXId_YghYgrHaiOCiqMBFviwpMwzZtonyM1zw0jQuNw8x43_HA9chJn10qPQS9P65_3OD2NPLTfkLUwSQ6rHkqZObyw_a8ASe4T7hdy16eOQMBkKWonJp_oea85FRh-0P0J9cmh96w8AXhkEFEBdgFVcZzz_AiT_DatDszIRE5RWeKMBBh_4j_lU5BbXu6_GUEoLVnLvNBZ51lwC7r7JdQtZcQr2hmkyGjcI0_raPweOPA8pHdumNury2sG6-eaA4FFdlzZMXkrTenfBuFkM0rAA3HHQ-KR4OR6XKa6ECkZFa2w",
+      "video_url": "https://cdn4.telesco.pe/file/bddec2768e.mp4?token=Palz0IPYVJEVvkUrOJ-y_eq8Bjo6WBZps5-D4KlcAQMt-s3Fc7DdrQq8Un2uXJc2icMRmJyH0FEPJvhkBivhh1qI1p5wafVQLKR2Ev0GYyY5gRaIyDiZasrsJhrfN7u9avg4Wb55mppQO8Phlrux16bun2YCNijSWilJbJ9rTXNlJpeQrV6LOObNTyfwiI9jbLMeWvK4nxXAnSb-DuhcrhuH_kQKMhrdqlkR3PdPEDRSugRtI8ahzUBAWyK4pf_2sBbVZ6MnymbGztCSDjWuR5-6SyXIRxW1LYzyF4SwDrGCN06pQpiyNiv2ZQLCplg-Yd-gNNrekRarZ2pntxPcYw",
       "tg_url": "https://t.me/PG_Tax/2461",
       "forwarded_from": null
     },
@@ -215,8 +233,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2460-1-660eabea59c7-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2460-1-660eabea59c7-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2460-1-ef9347701f8e-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2460-1-ef9347701f8e-v4.jpg"
         }
       ],
       "video_url": null,
@@ -233,8 +251,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2459-1-d3bbd419078d-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2459-1-d3bbd419078d-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2459-1-ec9835a2ebc2-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2459-1-ec9835a2ebc2-v4.jpg"
         }
       ],
       "video_url": null,
@@ -251,8 +269,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2458-1-9176a7a7ee2d-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2458-1-9176a7a7ee2d-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2458-1-e2e0baa06ea3-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2458-1-e2e0baa06ea3-v4.jpg"
         }
       ],
       "video_url": null,
@@ -268,26 +286,8 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/9c54e3d766.mp4?token=u1pcIAoZxw_SJmC27dGu2ZRDaqbepVG6A3Sdo7r_gR4GfEp9QsHlgFKwgJkQ9OT3VZ5o4t41fHf-_zGNKKLiFOqcDjCijybwmSHjEEDumfVSJ9DsHkHXvjbiikjrEuKHCCz9aMdVhY6GElXPlFMIxj14TdZEq7oy9Vem1ue1Q1iyZsa_xfE0LXWRjk1TFmm5a2lX7zEjHtFYTDnDCiaSCG6jm6trcqzfuLLzSsgr4PUZQ1EfJeuJ8m8BKqT4ifIpOe4RauDOl63demm7WFmOc_5zVs8IIj5izRjShx4lNZLFqcWNH04WS_1sPrUe2paA9DjmL-4VIWWLx6tNYY0CrQ",
+      "video_url": "https://cdn4.telesco.pe/file/9c54e3d766.mp4?token=VV7kt13V-Nvni7Y_iNOGTKYj6GTd2QQQaUsNifWDJSQ_7plYqlZ6Zus3-pi9QMnYNGUmbpSsIT3S7qguyuoNa4bXheiCcGfISNmWEE-vfUMwDuGzIJPHX3XcxYHJqi_Hu35NtempKydl7CnTGrCm_01pyx7ztGTY7Gb8K84Z8nrZOoY-ClW-B2kLKtCVpmHWCFoLLnuIFDmIT6rmJNYQaStC_QbXIEPLFlAZjWbDYtmcV_zNSo4Pu0AWW2RVtXcpYrdK2GGFoPWW801dBYeMvJ75JSkLXkG8JBRQbetqZOF4Ua0S34Rc7N-c0ifm8ISTE-fn7LwDHD-ACueN85W1BQ",
       "tg_url": "https://t.me/PG_Tax/2457",
-      "forwarded_from": null
-    },
-    {
-      "id": 2456,
-      "date": "2026-02-10T13:35:02+00:00",
-      "text": null,
-      "text_html": null,
-      "views": 1460,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2456-1-49fca9da0aa6-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2456-1-49fca9da0aa6-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2456",
       "forwarded_from": null
     }
   ]

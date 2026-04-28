@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T09:39:37.922186+00:00",
+  "generated_at": "2026-04-28T11:27:28.839262+00:00",
   "pagination": {
     "page": 6,
     "page_size": 16,
@@ -7,6 +7,24 @@
     "total_pages": 11
   },
   "posts": [
+    {
+      "id": 2529,
+      "date": "2026-03-13T10:00:05+00:00",
+      "text": "📢 Позиции Минфина и ФНС за февраль\n\nВ фокусе внимания ведомств:\n     🔴изменения в налоговом законодательстве с 1 января 2026,\n     🔴вопросы модернизации НМА и амортизации при ликвидации,\n     🔴применение ФИНВ в группе компаний,\n     🔴правовые позиции КС РФ и ВС РФ, принятых в IV кв. 2025 г.,\n     🔴судебная практика ВС РФ по вопросам налогообложения земельных участков.\n\nЭкспресс-обзор писем Минфина и ФНС России за февраль читайте на сайте ПГ 👉\n\n#обзор_писем_Минфина_ФНС\n\n➖➖\n💡 Индивидуальные обзоры изменений налогового законодательства и практики, учитывающие специфику Вашего бизнеса, по расписанию в Ваш почтовый ящик можно оформить здесь.",
+      "text_html": "📢 Позиции Минфина и ФНС за февраль<br><br>В фокусе внимания ведомств:<br>     🔴изменения в налоговом законодательстве с 1 января 2026,<br>     🔴вопросы модернизации НМА и амортизации при ликвидации,<br>     🔴применение ФИНВ в группе компаний,<br>     🔴правовые позиции КС РФ и ВС РФ, принятых в IV кв. 2025 г.,<br>     🔴судебная практика ВС РФ по вопросам налогообложения земельных участков.<br><br>Экспресс-обзор писем Минфина и ФНС России за февраль читайте <a href=\"https://www.pgplaw.ru/analytics-and-brochures/tax-reviews/pisma-minfina-i-fns-obnovleniya-fevralya-2026-g/\" target=\"_blank\" rel=\"noopener noreferrer\">на сайте</a> ПГ 👉<br><br>#обзор_писем_Минфина_ФНС<br><br>➖➖<br>💡 Индивидуальные обзоры изменений налогового законодательства и практики, учитывающие специфику Вашего бизнеса, по расписанию в Ваш почтовый ящик можно оформить <a href=\"https://www.pgplaw.ru/practice-and-industry/practices/obzory-zakonodatelstva-i-praktiki/\" target=\"_blank\" rel=\"noopener noreferrer\">здесь.</a>",
+      "views": 1110,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2529-1-8a6f70e312ee-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2529-1-8a6f70e312ee-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/PG_Tax/2529",
+      "forwarded_from": null
+    },
     {
       "id": 2528,
       "date": "2026-03-13T08:09:51+00:00",
@@ -17,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2528-1-e644db01a380-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2528-1-e644db01a380-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2528-1-50c161ce806f-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2528-1-50c161ce806f-v4.jpg"
         }
       ],
       "video_url": null,
@@ -48,8 +66,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2526-1-d496796bc821-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2526-1-d496796bc821-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2526-1-8ee93c792c60-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2526-1-8ee93c792c60-v4.jpg"
         }
       ],
       "video_url": null,
@@ -66,8 +84,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2525-1-1ffa6b40e313-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2525-1-1ffa6b40e313-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2525-1-60b260279ff3-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2525-1-60b260279ff3-v4.jpg"
         }
       ],
       "video_url": null,
@@ -84,8 +102,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2524-1-0b16ae750ca6-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2524-1-0b16ae750ca6-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2524-1-df9772da9229-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2524-1-df9772da9229-v4.jpg"
         }
       ],
       "video_url": null,
@@ -102,8 +120,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2523-1-c51cb8cd07c4-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2523-1-c51cb8cd07c4-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2523-1-d7513a4abfe7-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2523-1-d7513a4abfe7-v4.jpg"
         }
       ],
       "video_url": null,
@@ -133,8 +151,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2521-1-696f4c526709-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2521-1-696f4c526709-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2521-1-1021e3b4c20d-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2521-1-1021e3b4c20d-v4.jpg"
         }
       ],
       "video_url": null,
@@ -151,8 +169,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2520-1-a9f7a6891a8f-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2520-1-a9f7a6891a8f-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2520-1-80107b320867-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2520-1-80107b320867-v4.jpg"
         }
       ],
       "video_url": null,
@@ -169,8 +187,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2518-1-2e2250c24ea6-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2518-1-2e2250c24ea6-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2518-1-4f4d103bc0e3-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2518-1-4f4d103bc0e3-v4.jpg"
         }
       ],
       "video_url": null,
@@ -200,8 +218,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2516-1-f099e1a3392a-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2516-1-f099e1a3392a-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2516-1-f8fb93755fc7-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2516-1-f8fb93755fc7-v4.jpg"
         }
       ],
       "video_url": null,
@@ -218,8 +236,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2515-1-76c30221ced3-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2515-1-76c30221ced3-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2515-1-9f1dad372c9f-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2515-1-9f1dad372c9f-v4.jpg"
         }
       ],
       "video_url": null,
@@ -231,7 +249,7 @@
       "date": "2026-03-05T14:22:02+00:00",
       "text": "⚡️3% отчисления с операторов доставки\n\nМинцифры России разработало новый неналоговый платеж - обязательные отчисления операторов доставки и организаций почтовой связи, направленные на поддержку Почты России.\n\nПланируется, что операторы ежеквартально будут пополнять фонд, который будет специально создан, 3 процентами своих доходов за транспортировку междугородних посылок.\n\n💰 Ассоциация цифровых платформ, объединяющая крупнейшие маркетплейсы России, уже посчитала, что расходы маркетплейсов на предложенный сбор превысят 90 млрд руб. в год.  \n\nО тренде на фискальные платежи мы писали здесь, а в Налоговеде открыта для чтения статья С.Г. Пепеляева по теме 👉\n\n#комментарий_эксперта",
       "text_html": "⚡️3% отчисления с операторов доставки<br><br>Минцифры России разработало новый неналоговый платеж - обязательные отчисления операторов доставки и организаций почтовой связи, направленные на поддержку Почты России.<br><br>Планируется, что операторы ежеквартально будут пополнять фонд, который будет специально создан, 3 процентами своих доходов за транспортировку междугородних посылок.<br><br>💰 Ассоциация цифровых платформ, объединяющая крупнейшие маркетплейсы России, уже <a href=\"https://www.kommersant.ru/doc/8462524\" target=\"_blank\" rel=\"noopener noreferrer\">посчитала</a>, что расходы маркетплейсов на предложенный сбор превысят 90 млрд руб. в год.  <br><br>О тренде на фискальные платежи мы писали <a href=\"https://t.me/PG_Tax/2331\" target=\"_blank\" rel=\"noopener noreferrer\">здесь</a>, а в Налоговеде открыта для чтения <a href=\"https://nalogoved.ru/art/15790.html\" target=\"_blank\" rel=\"noopener noreferrer\">статья С.Г. Пепеляева</a> по теме 👉<br><br>#комментарий_эксперта",
-      "views": 1400,
+      "views": 1410,
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
@@ -248,26 +266,8 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/52aac8a07b.mp4?token=MdUZQ2JiRl17scnJeiqcR30hkQicT8zMXyzS8FbUA3P1qsCVG4LNzJ0AcX0YAb51A1VrP_mZXb_FWctY6QGV74BgxW88PHgVgBVBpj7gtHzxR41R1rQWaw3QSZWpECh2byA-CbCuItiOT0M57Y1evLQBFskikl0Dsxxgp4-JpIrBZ4m_VO4uNCYJkbbE0j098JQX4yhdjjkAuxmpJejaAHIXGistQ54OY0mrtQsZn_nG9AxGY9jrMNUoC8Ku7DiknCARR12WMcgVDTxM5eEdv5pVtotz8Jz7Et8qIS34-YI2lSAPw2SJUVlHsJas7yPs6h8wQWL5V-AJi9Yqni49pA",
+      "video_url": "https://cdn4.telesco.pe/file/52aac8a07b.mp4?token=RozxSjqvHNb6ZL-MGDYkvQCeMJPqyDHtZt2oqrhGBVqlQXUSvmsces2bzSSYHKpj60LcP42D_uBfY1a-oFrJAPTy5HQ3jygX4xkVjOhRHF8f0cQ1gPyxobzpQyHXILi9RcWZ1hRJ84GGCEd2tQoIWgjmLoUL7jS5OKghlYDwsVovKDe_a9zbxdczbKqFgukIrQgFIivxmG2K7zJ8zlqrkIrQK40MWAUIlgk3qdT9u9G3iOpMun4vTQ7d8XcuZbqNC2pa2r9x0joALclTMvKluuUeHpxPqEaCJOxDFJz3Y89XY1rF0t1oqGwd270jYr1iCCYDmk-QgORI90V2oLGfww",
       "tg_url": "https://t.me/PG_Tax/2513",
-      "forwarded_from": null
-    },
-    {
-      "id": 2512,
-      "date": "2026-03-05T14:21:04+00:00",
-      "text": "Сегодня в фокусе рубрики #СЕРГЕЙ_ПЕПЕЛЯЕВ_ON_AIR \n- законопроект Минцифры о поддержке Почты России за счёт обязательных отчислений операторов доставки.\n\nНапоминаем, что комментарии к этой рубрике открыты для любых Ваших вопросов Сергею Геннадьевичу ✍️",
-      "text_html": "Сегодня в фокусе рубрики #СЕРГЕЙ_ПЕПЕЛЯЕВ_ON_AIR <br>- законопроект Минцифры о поддержке Почты России за счёт обязательных отчислений операторов доставки.<br><br>Напоминаем, что комментарии к этой рубрике открыты для любых Ваших вопросов Сергею Геннадьевичу ✍️",
-      "views": 1310,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2512-1-7b3eca56b3c3-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2512-1-7b3eca56b3c3-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2512",
       "forwarded_from": null
     }
   ]

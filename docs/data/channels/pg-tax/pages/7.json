@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T09:39:37.924248+00:00",
+  "generated_at": "2026-04-28T11:27:28.841335+00:00",
   "pagination": {
     "page": 7,
     "page_size": 16,
@@ -7,6 +7,24 @@
     "total_pages": 11
   },
   "posts": [
+    {
+      "id": 2512,
+      "date": "2026-03-05T14:21:04+00:00",
+      "text": "Сегодня в фокусе рубрики #СЕРГЕЙ_ПЕПЕЛЯЕВ_ON_AIR \n- законопроект Минцифры о поддержке Почты России за счёт обязательных отчислений операторов доставки.\n\nНапоминаем, что комментарии к этой рубрике открыты для любых Ваших вопросов Сергею Геннадьевичу ✍️",
+      "text_html": "Сегодня в фокусе рубрики #СЕРГЕЙ_ПЕПЕЛЯЕВ_ON_AIR <br>- законопроект Минцифры о поддержке Почты России за счёт обязательных отчислений операторов доставки.<br><br>Напоминаем, что комментарии к этой рубрике открыты для любых Ваших вопросов Сергею Геннадьевичу ✍️",
+      "views": 1310,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2512-1-77684827f71e-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2512-1-77684827f71e-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/PG_Tax/2512",
+      "forwarded_from": null
+    },
     {
       "id": 2511,
       "date": "2026-03-05T10:06:08+00:00",
@@ -30,8 +48,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2510-1-d51758597a4f-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2510-1-d51758597a4f-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2510-1-78bcf659d147-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2510-1-78bcf659d147-v4.jpg"
         }
       ],
       "video_url": null,
@@ -48,8 +66,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2509-1-6a1b0e6ac5e1-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2509-1-6a1b0e6ac5e1-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2509-1-515c1fe485a2-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2509-1-515c1fe485a2-v4.jpg"
         }
       ],
       "video_url": null,
@@ -66,8 +84,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2508-1-b3968592fc8d-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2508-1-b3968592fc8d-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2508-1-519cb0898881-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2508-1-519cb0898881-v4.jpg"
         }
       ],
       "video_url": null,
@@ -84,8 +102,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2507-1-85b15eaaac31-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2507-1-85b15eaaac31-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2507-1-4cae74ddd917-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2507-1-4cae74ddd917-v4.jpg"
         }
       ],
       "video_url": null,
@@ -101,7 +119,7 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/f8fa9e0a04.mp4?token=qGNqmZMP384yf1C0UQjHUVM5OhYZHmM4pd0cLmYCAGPrfFAb2vdWES7G_E4o-VGWS0tH5PhL8AMFsKrb-CyA72Kzyh0DoZbN_FJjzUKz0lR60DAy50htgVZyokY39t4FHOoOzY_68gv3DBaGeQug3Pfc01Kr-HIAWdjC7K-b2nKxUMCQ9vMGSHU8Md9P6Zu4ZcvBjyQbaj6A4QOyiOzGMJmIMPSuo_gIyRnGT7O86Dkl-1qTnYlA1TksL5-ZkEetAMwS2YerRuTmI1tGXWVC0yO5gSjlYBjAgKEaIdFwOBSK2sqCNyNfeoMkEftrQCQnTT03n-87VUGGq5cVKhlTaQ",
+      "video_url": "https://cdn4.telesco.pe/file/f8fa9e0a04.mp4?token=ondmyXa67uuUDb2xS1KmJ-jju47PD_lpOZCdRWZ6X_6VmHQfKjuFwDOGXs7G-rKr0HvrsYzFuVzFQV4q2MC5bGfuonD-21h5I38Bbt-pjNXF8qChNCq5zvZsSWu12FP6Mh7f90DQcOaHOVEdelyLtQpOeQQC9H_VzdM6u5Muz5WUA3wVIn_3WKWtUS_XBj-xA-7LEOAr0IQ55GjStwC73JdgrXy7P5I3KtfFuSSrKvdOP2kq6VHXkPfoua6uJW1M2v8a1N8WX1Zn5ftl2Ixirv5CKFAGj5clW5EfjwRtHGpylysHhtj5AlyLtfXuZNXYc4ECKIsIj8watiYSLs42Pg",
       "tg_url": "https://t.me/PG_Tax/2505",
       "forwarded_from": null
     },
@@ -115,8 +133,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2504-1-37cfe07fa6cd-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2504-1-37cfe07fa6cd-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2504-1-7b1101f3161f-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2504-1-7b1101f3161f-v4.jpg"
         }
       ],
       "video_url": null,
@@ -133,8 +151,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2502-1-eda24227c28b-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2502-1-eda24227c28b-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2502-1-b448d6cf06c2-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2502-1-b448d6cf06c2-v4.jpg"
         }
       ],
       "video_url": null,
@@ -151,8 +169,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2501-1-b29fc2636d92-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2501-1-b29fc2636d92-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2501-1-5e86881a71e6-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2501-1-5e86881a71e6-v4.jpg"
         }
       ],
       "video_url": null,
@@ -169,8 +187,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2498-1-f84a642e6113-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2498-1-f84a642e6113-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2498-1-864ce4c40163-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2498-1-864ce4c40163-v4.jpg"
         }
       ],
       "video_url": null,
@@ -187,8 +205,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2497-1-8b31cd9aa771-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2497-1-8b31cd9aa771-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2497-1-07c0a115c5f3-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2497-1-07c0a115c5f3-v4.jpg"
         }
       ],
       "video_url": null,
@@ -205,8 +223,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2496-1-dcf2d36a0404-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2496-1-dcf2d36a0404-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2496-1-8f370840d124-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2496-1-8f370840d124-v4.jpg"
         }
       ],
       "video_url": null,
@@ -241,8 +259,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2494-1-8b18def9a19e-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2494-1-8b18def9a19e-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2494-1-b2e833ca88e6-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2494-1-b2e833ca88e6-v4.jpg"
         }
       ],
       "video_url": null,
@@ -259,38 +277,20 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2491-1-10cc3ddeaa5b-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2491-1-10cc3ddeaa5b-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2491-1-ef5c69571f04-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2491-1-ef5c69571f04-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2491-2-cf9938d4fa1c-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2491-2-cf9938d4fa1c-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2491-2-2e0dbdc65e82-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2491-2-2e0dbdc65e82-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2491-3-8fabdd181f6d-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2491-3-8fabdd181f6d-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2491-3-8b70ab3006a3-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2491-3-8b70ab3006a3-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/PG_Tax/2491",
-      "forwarded_from": null
-    },
-    {
-      "id": 2489,
-      "date": "2026-02-26T10:21:02+00:00",
-      "text": "💡 Постановление КС РФ по мене как развитие подхода по делу ООО \"Успех и Н\"\n\nКонституционный суд РФ Постановлением от 15.01.2026 № 1-П сформировал правовую позицию о порядке налогообложения НДФЛ сделок мены.\n\n⚖️ Правовая позиция КС РФ\n\nСуд оценивал конституционность п. 2 ст. 214.10 НК РФ применительно к сделке мены недвижимого имущества между физическими лицами и признал его не соответствующим Конституции в той мере, в какой он во взаимосвязи с п. 2 ст. 567 ГК РФ допускает произвольное разрешение вопроса об определении подлежащего обложению НДФЛ дохода действующего добросовестно налогоплательщика в случае совершения им мены объектов недвижимого имущества в целях, не связанных с ведением предпринимательской деятельности.\n\nПри совершении налогоплательщиком мены объектов недвижимого имущества в целях, не связанных с ведением предпринимательской деятельности, НДФЛ взимается – в случае\nопровержения эквивалентности совершенной мены, а именно установления отсутствия разумных, в том числе внеэкономических, мотивов для ее совершения при существенном превышении кадастровой стоимости полученного в результате мены недвижимого имущества над кадастровой стоимостью отчужденного недвижимого имущества (при этом, если кадастровая стоимость объекта недвижимого имущества не определена или не подлежит применению в соответствии с законодательством о государственной кадастровой оценке, применяется рыночная стоимость, определяемая налоговым органом на основании отчета об оценке), в том числе с учетом всех выплаченных по такому договору денежных средств, – с соответствующей разницы.\n \n\n🏢 Управляющий партнер \"Пепеляев Групп\" Сергей Пепеляев обращает внимание на то, что Постановление развивает и закрепляет более раннюю позицию КС РФ - выраженную по делу ООО \"Успех и Н\".\n\nВ Постановлении №2-П от 21.01.2025 Конституционный суд сформулировал подход, согласно которому передача (отчуждение) обществом, применяющим УСН, имущества в счет выплаты действительной стоимости доли вышедшему из него участнику предполагает необходимость обложения налогом экономической выгоды такого налогоплательщика в виде действительной (рыночной) стоимости доли, определяемой в установленном порядке на момент после перехода ее к налогоплательщику. \n\n❓Соответствует ли подход КС понятию дохода как экономической выгоды и прироста благосостояния, и что такое «фискальная эквилибристика» - читайте в статье С.Г. Пепеляева \"Конституционный суд пересчитал мену\" 👉\n\n#комментарий_эксперта\n\n➖➖\n 🤓 Подробности о Постановлении КС РФ № 1-П от 15.01.2026 о налогообложении мены - в ближайшие дни в нашем канале.",
-      "text_html": "💡 Постановление КС РФ по мене как развитие подхода по делу ООО \"Успех и Н\"<br><br>Конституционный суд РФ <a href=\"https://www.ksrf.ru/doc/KSRFDecision881467.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Постановлением от 15.01.2026 № 1-П</a> сформировал правовую позицию о порядке налогообложения НДФЛ сделок мены.<br><br>⚖️ Правовая позиция КС РФ<br><br>Суд оценивал конституционность п. 2 ст. 214.10 НК РФ применительно к сделке мены недвижимого имущества между физическими лицами и признал его не соответствующим Конституции в той мере, в какой он во взаимосвязи с п. 2 ст. 567 ГК РФ допускает произвольное разрешение вопроса об определении подлежащего обложению НДФЛ дохода действующего добросовестно налогоплательщика в случае совершения им мены объектов недвижимого имущества в целях, не связанных с ведением предпринимательской деятельности.<br><br>При совершении налогоплательщиком мены объектов недвижимого имущества в целях, не связанных с ведением предпринимательской деятельности, НДФЛ взимается – в случае<br>опровержения эквивалентности совершенной мены, а именно установления отсутствия разумных, в том числе внеэкономических, мотивов для ее совершения при существенном превышении кадастровой стоимости полученного в результате мены недвижимого имущества над кадастровой стоимостью отчужденного недвижимого имущества (при этом, если кадастровая стоимость объекта недвижимого имущества не определена или не подлежит применению в соответствии с законодательством о государственной кадастровой оценке, применяется рыночная стоимость, определяемая налоговым органом на основании отчета об оценке), в том числе с учетом всех выплаченных по такому договору денежных средств, – с соответствующей разницы.<br> <br><br>🏢 Управляющий партнер \"Пепеляев Групп\" <a href=\"https://www.pgplaw.ru/to-get-the-team/sergey-pepeliaev/\" target=\"_blank\" rel=\"noopener noreferrer\">Сергей Пепеляев</a> обращает внимание на то, что Постановление развивает и закрепляет более раннюю позицию КС РФ - выраженную по делу ООО \"Успех и Н\".<br><br>В <a href=\"https://www.ksrf.ru/doc/KSRFDecision808821.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Постановлении №2-П от 21.01.2025</a> Конституционный суд сформулировал подход, согласно которому передача (отчуждение) обществом, применяющим УСН, имущества в счет выплаты действительной стоимости доли вышедшему из него участнику предполагает необходимость обложения налогом экономической выгоды такого налогоплательщика в виде действительной (рыночной) стоимости доли, определяемой в установленном порядке на момент после перехода ее к налогоплательщику. <br><br>❓Соответствует ли подход КС понятию дохода как экономической выгоды и прироста благосостояния, и что такое «фискальная эквилибристика» - читайте в статье С.Г. Пепеляева <a href=\"https://www.kommersant.ru/doc/8443300\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;Конституционный суд пересчитал мену&quot;</a> 👉<br><br>#комментарий_эксперта<br><br>➖➖<br> 🤓 Подробности о Постановлении КС РФ № 1-П от 15.01.2026 о налогообложении мены - в ближайшие дни в нашем канале.",
-      "views": 1240,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2489-1-a94fc2ce4592-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2489-1-a94fc2ce4592-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2489",
       "forwarded_from": null
     }
   ]
