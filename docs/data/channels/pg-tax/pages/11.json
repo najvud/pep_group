@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T07:22:55.049412+00:00",
+  "generated_at": "2026-04-28T09:39:37.932397+00:00",
   "pagination": {
     "page": 11,
     "page_size": 16,
@@ -7,6 +7,19 @@
     "total_pages": 11
   },
   "posts": [
+    {
+      "id": 2439,
+      "date": "2026-02-03T14:00:12+00:00",
+      "text": null,
+      "text_html": null,
+      "views": 1470,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [],
+      "video_url": "https://cdn4.telesco.pe/file/4501c9f0fd.mp4?token=GwLj7jogT9nqf0sb-7fhbtIZpvhqOAtFkwxj9d9mnPF_gDBmIO5WmaWLbARxD3I5xcfM7POkKXFpTACWymt038rJWXa8oLc_aL9WendviAxEdVJ7TndgDF8x_I4CQ9rUMBNtRDNYRSeG6ZZWxA6c9GQ6Np-tki8k5DWMklpB-NK1q_5Uos66ZfghOhot5gsPiztrTj27EtDTW8tohz7rwegx5IfqyZ6nipd4J8UF6CHrHxikG0pOkFME4n-VfU_VTgnGejeRXHuDR-_nEA-2nuty9s9Dc9lDnXeqpF9c2_XhWS-FvdyhpBKd9d9_nWCHTauR63PEND6Dtzv9n7XewQ",
+      "tg_url": "https://t.me/PG_Tax/2439",
+      "forwarded_from": null
+    },
     {
       "id": 2438,
       "date": "2026-02-03T14:00:04+00:00",
@@ -17,8 +30,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2438-1-9adf7246e040-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2438-1-9adf7246e040-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2438-1-c4b88749622d-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2438-1-c4b88749622d-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +48,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2437-1-bf844f9b565c-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2437-1-bf844f9b565c-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2437-1-657d9c784ef7-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2437-1-657d9c784ef7-v4.jpg"
         }
       ],
       "video_url": null,
@@ -53,8 +66,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2436-1-7d015b54e825-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2436-1-7d015b54e825-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2436-1-252f82d2c75e-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2436-1-252f82d2c75e-v4.jpg"
         }
       ],
       "video_url": null,
@@ -70,7 +83,7 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/67cfd21769.mp4?token=saDYdnS1j07bw49vbCL9Qk-S308eS-bvZqW2osOzQADZjGr78Atb20ILlLe3l7jMoIIrNqUoW5tLrNMQ_SeH4pOe9WS1QTonyHx2huFPd_qLK_KNRH0dr2FuaOxDvAIgJwWnEiU_sBMEYEmihRjDL6F9emR8rAhmMf1LnnussZOu9PtJ5UYm68I0Z-g5Ut_yiCRZ-8KHf37IJQlp2AbnHmyxXary9vU6dPLnTPOvwzh-NSHpX3b5UoF5au-IZlkbfS3yGUlHB_ZXabHRNgdHROfB74dq5DGN7uXTBg4wd4rT9j1Y-QkC6LNP9ArtUdyG4Q4MLoof_-h9-fkQMQV6RA",
+      "video_url": "https://cdn4.telesco.pe/file/67cfd21769.mp4?token=B0AHHhx50b6fssG4vZFK-Xkk0gwMBhFRnaeJhvjc0b5gUA5ZhCJaeDykRBIHGFvFIx0uaLpM5aRcKemruKPLstlMJeTuFsWHMputEZI3VqYzP_x0ITcj9zfLsf29VKLjJ0zRymBehrxbAFHAwiZ3TAUiZfjoMWh8JhKsrIrafNZh5TOhDm8jfQZMowKBdY-Az4jxalMS0pwl4C9IbNxmrYvo75_EnkxLq8Xz-Wr_csTxnfDXBUDk3Lw1E-DNtDqtgk-OkzwpsCoxHgeVkZ0NgZ1hJCLd19hnU7bnBFTOOwPAEvFejaN2umO6IJ6KSHMIVvR40zLfnPzsjpf3usi2mg",
       "tg_url": "https://t.me/PG_Tax/2435",
       "forwarded_from": null
     },
@@ -84,8 +97,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2434-1-a0d13b45edc6-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2434-1-a0d13b45edc6-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2434-1-295db7fe882b-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2434-1-295db7fe882b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -102,8 +115,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2433-1-c003402a417d-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2433-1-c003402a417d-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2433-1-f12a982d9a3c-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2433-1-f12a982d9a3c-v4.jpg"
         }
       ],
       "video_url": null,
@@ -120,8 +133,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2432-1-c56318678d4f-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2432-1-c56318678d4f-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2432-1-f0c7032a97a6-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2432-1-f0c7032a97a6-v4.jpg"
         }
       ],
       "video_url": null,
@@ -150,7 +163,7 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/dcb807eb9d.mp4?token=AuwRzrHwmF-8tmuhMVN7EuOyJVy5QSP7lh91nDseay7IE6VG82z6fe-7hXLwOpC0cIE6hzcsXDfcZ93bl_VYFm8fScH-VK_Gb8iNWSGjeZ3Yzazj-N4M3boO1-Fc12xZenOVAzOVaXLAri61zwLCe_UYhDvoQERiTewWmIAX1qpv4ANz45-hSuI5cGAtDY7vPMKjqqEajF8-V_TNeyLsNBdoHxwzdNlvrnaBVGJM82AOqBbVq_bzvHLGI3z0n0ORtXvXlf6GECQpm8SPyUtqWBxmAgApygwyqlJ0WDhCQmZDX2HKipSxxIjW9kK6UsK0vxFK7-RwbaraRrtvsFzhEg",
+      "video_url": "https://cdn4.telesco.pe/file/dcb807eb9d.mp4?token=T3zIusWqS4eVcUL8nlSafYyC2h3EwANQS3aWAL_EPH-OBr0dPGWuwhDlXm4y92zQFBxA5tCrFsRtrSRiS21l7wq3y0tmk3M5LlccIqC109Ttf9RIUip9FXiKqy279Jd_nyrXn5QzKAGQim85pMiDWYvrfrBvYNfpVhHwzbcJLkPzw77BRTxkqNbgbD2VmyXN41RCeWgkB3rHUB6WDVbqB7-8fsVeHnBS7-xrw7sMhSs9kDlHg4gGuUrlTnBAL3eG-au6AVs1nJc2tiddTa8ZybhLWxvx_JDWTaCnhkbFZzb-iCEqCqyt_XMU50kah1L_O-fS_s_HiZcsSLftgLq-oA",
       "tg_url": "https://t.me/PG_Tax/2430",
       "forwarded_from": null
     },
@@ -164,8 +177,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2429-1-c6cfd4852bdf-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2429-1-c6cfd4852bdf-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2429-1-5f147baed00e-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2429-1-5f147baed00e-v4.jpg"
         }
       ],
       "video_url": null,
@@ -182,8 +195,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2428-1-29ef286d1ef2-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2428-1-29ef286d1ef2-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2428-1-a29dd7e7abc7-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2428-1-a29dd7e7abc7-v4.jpg"
         }
       ],
       "video_url": null,
@@ -200,8 +213,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2427-1-c0c43e76e475-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2427-1-c0c43e76e475-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2427-1-28b436e0af7e-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2427-1-28b436e0af7e-v4.jpg"
         }
       ],
       "video_url": null,
@@ -218,8 +231,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2426-1-50665bd27f8b-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2426-1-50665bd27f8b-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2426-1-91a758092c6f-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2426-1-91a758092c6f-v4.jpg"
         }
       ],
       "video_url": null,
@@ -236,8 +249,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2425-1-4dc5182dbc4f-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2425-1-4dc5182dbc4f-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2425-1-b83ae1fab727-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2425-1-b83ae1fab727-v4.jpg"
         }
       ],
       "video_url": null,
@@ -254,30 +267,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2424-1-bf07771bd512-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2424-1-bf07771bd512-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2424-1-f941a981fddf-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2424-1-f941a981fddf-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/PG_Tax/2424",
-      "forwarded_from": null
-    },
-    {
-      "id": 2423,
-      "date": "2026-01-28T08:37:05+00:00",
-      "text": "✍️ Нормотворчество\n \nТПП России раскритиковала законопроект, разработанный Минфином России (текст), о приостановлении сроков давности уголовного преследования по налоговым преступлениям.\n\nНовые нормы могут создать дополнительные рычаги давления на налогоплательщиков, необоснованно расширяют уголовно-правовые механизмы для решения таких вопросов и создают дисбаланс между интересами предпринимателей и фискальными интересами. \n\nИз Пояснительной записки следует, что «проблема, связанная с истечением сроков давности, возникает из-за длительности налоговых проверок и административных процедур». \n\nЛогичнее было бы усовершенствовать и ускорить эти процедуры, а не вносить изменения в уголовно-правовые нормы, полагают в ТПП. \nВместо приостановки сроков давности целесообразнее исчислять их не после завершения преступления, а с момента вступления в силу окончательного решения налогового органа, устанавливающего наличие недоимки - это более точно соответствовало бы специфике налоговых преступлений.\n \n⚙️ Практика\n \n🔴Национальное объединение строителей (НОСТРОЙ) получило разъяснения Минфина России по применению повышенной ставки НДС (письмо от 19.01.2026 № 24-06-06/2382):\n\n- Допускается изменение цены контракта при наступлении независящих от воли сторон обстоятельств, к которым относится и изменение законодательства по повышению налоговой ставки. Для этого необходимо соблюдение процедуры, предусмотренной ч. 65.1 ст. 112 Закона № 44-ФЗ и относится к контрактам, заключенным до 1 января 2027 г.;\n\n- С 1 января 2026 г. ставка НДС увеличивается до 22%, она применяется ко всем товарам, работам и услугам, поставленным (оказанным) после указанной даты, независимо от даты заключения договора. Если работы выполнены и приняты заказчиком до 1 января 2026 г., НДС начисляется по старой ставке (20%). Работы, принятые после этой даты, подлежат налогообложению по новой ставке вне зависимости от даты фактического выполнения, в основу ложится дата подписания заказчиком акта.\nЕсли акты не были подписаны не по вине подрядчика, а по причине, например, отсутствия лимитов бюджетных обязательств в соответствующий период, то работает Постановление КС РФ от 25.11.2025 № 41-П.\n \n🔴ФНС России сообщает: \nв сервисе оценки юридических лиц и индивидуальных предпринимателей представлено обновление, расширяющее функциональные возможности инструмента. Обновление направлено на обеспечение адресного подхода к анализу ФХД пользователей. \nРечь о скоринг-конструкторе, который позволяет пользователям самостоятельно создавать различные модели скоринга, добавляя или исключая параметры оценки. Также можно сформировать собственный шаблон выписки с релевантными для вашей отрасли или бизнес-задачи показателями оценки. Кроме того, расширена система показателей оценки, скорректированы ранее разработанные показатели оценки с учетом обратной связи, полученной от постоянных пользователей сервиса.\n\n#главные_налоговые_новости",
-      "text_html": "✍️ Нормотворчество<br> <br>ТПП России <a href=\"https://www.forbes.ru/finansy/554304-tpp-raskritikovala-zakonoproekt-minfina-o-srokah-davnosti-po-nalogovym-prestupleniam\" target=\"_blank\" rel=\"noopener noreferrer\">раскритиковала</a> законопроект, разработанный Минфином России (<a href=\"https://minfin.gov.ru/ru/document/npa_projects/?id_4=9749-o_vnesenii_izmenenii_v_statyu_78_ugolovnogo_kodeksa_rossiiskoi_federatsii_i_statyu_140_ugolovno-protsessualnogo_kodeksa_rossiiskoi_federatsii\" target=\"_blank\" rel=\"noopener noreferrer\">текст</a>), о приостановлении сроков давности уголовного преследования по налоговым преступлениям.<br><br>Новые нормы могут создать дополнительные рычаги давления на налогоплательщиков, необоснованно расширяют уголовно-правовые механизмы для решения таких вопросов и создают дисбаланс между интересами предпринимателей и фискальными интересами. <br><br>Из Пояснительной записки следует, что «проблема, связанная с истечением сроков давности, возникает из-за длительности налоговых проверок и административных процедур». <br><br>Логичнее было бы усовершенствовать и ускорить эти процедуры, а не вносить изменения в уголовно-правовые нормы, полагают в ТПП. <br>Вместо приостановки сроков давности целесообразнее исчислять их не после завершения преступления, а с момента вступления в силу окончательного решения налогового органа, устанавливающего наличие недоимки - это более точно соответствовало бы специфике налоговых преступлений.<br> <br>⚙️ Практика<br> <br>🔴Национальное объединение строителей (НОСТРОЙ) <a href=\"https://www.vedomosti.ru/press_releases/2026/01/27/nostroi-poluchil-razyasneniya-minfina-rossii-po-primeneniyu-povishennoi-stavki-nds\" target=\"_blank\" rel=\"noopener noreferrer\">получило</a> разъяснения Минфина России по применению повышенной ставки НДС (письмо от 19.01.2026 № 24-06-06/2382):<br><br>- Допускается изменение цены контракта при наступлении независящих от воли сторон обстоятельств, к которым относится и изменение законодательства по повышению налоговой ставки. Для этого необходимо соблюдение процедуры, предусмотренной ч. 65.1 ст. 112 Закона № 44-ФЗ и относится к контрактам, заключенным до 1 января 2027 г.;<br><br>- С 1 января 2026 г. ставка НДС увеличивается до 22%, она применяется ко всем товарам, работам и услугам, поставленным (оказанным) после указанной даты, независимо от даты заключения договора. Если работы выполнены и приняты заказчиком до 1 января 2026 г., НДС начисляется по старой ставке (20%). Работы, принятые после этой даты, подлежат налогообложению по новой ставке вне зависимости от даты фактического выполнения, в основу ложится дата подписания заказчиком акта.<br>Если акты не были подписаны не по вине подрядчика, а по причине, например, отсутствия лимитов бюджетных обязательств в соответствующий период, то работает Постановление КС РФ от 25.11.2025 № 41-П.<br> <br>🔴ФНС России <a href=\"https://www.nalog.gov.ru/rn77/news/activities_fts/16598183/\" target=\"_blank\" rel=\"noopener noreferrer\">сообщает:</a> <br>в сервисе оценки юридических лиц и индивидуальных предпринимателей представлено обновление, расширяющее функциональные возможности инструмента. Обновление направлено на обеспечение адресного подхода к анализу ФХД пользователей. <br>Речь о скоринг-конструкторе, который позволяет пользователям самостоятельно создавать различные модели скоринга, добавляя или исключая параметры оценки. Также можно сформировать собственный шаблон выписки с релевантными для вашей отрасли или бизнес-задачи показателями оценки. Кроме того, расширена система показателей оценки, скорректированы ранее разработанные показатели оценки с учетом обратной связи, полученной от постоянных пользователей сервиса.<br><br>#главные_налоговые_новости",
-      "views": 1500,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2423-1-228926f54e48-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2423-1-228926f54e48-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2423",
       "forwarded_from": null
     }
   ]
