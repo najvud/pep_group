@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29T09:26:07.611383+00:00",
+  "generated_at": "2026-04-29T11:15:26.055011+00:00",
   "pagination": {
     "page": 10,
     "page_size": 16,
@@ -7,6 +7,24 @@
     "total_pages": 11
   },
   "posts": [
+    {
+      "id": 2458,
+      "date": "2026-02-11T08:32:40+00:00",
+      "text": "⚙️ Практика\n \nНа Едином портале «Госуслуги» запущен сервис для проверки задолженностей у других людей или организаций. \n\nℹ️ Проверка позволит узнать о задолженностях по кредитам, алиментам, налогам, штрафам и другим обязательствам. Таким образом можно избежать ареста имущества и ограничений на выезд за границу, оценить риски при работе с контрагентами, подготовиться к крупным сделкам. \n\n🛑 Аналогичный сервис работает на сайте ФССП.\n \n✈️ Международные новости\n \nВласти Германии создали ситуацию, при которой немецкий бизнес в России и российский в ФРГ оказались под серьезным налоговым давлением.\n\nℹ️ Налог удерживают в Германии, а затем тот же доход облагается налогом в России, и нагрузка может достигать 40% и выше. Но несмотря на сложности, немецкий бизнес частично остается в РФ. \n\n🛑 По данным РСПП в стране продолжают работать около 750 немецких компаний.\n\n#главные_налоговые_новости",
+      "text_html": "⚙️ Практика<br> <br>На Едином портале «Госуслуги» <a href=\"https://www.vedomosti.ru/society/news/2026/02/10/1175272-dolgi-u-drugih-lyudei%22%20%5Co%20%22https://www.vedomosti.ru/society/news/2026/02/10/1175272-dolgi-u-drugih-lyudei\" target=\"_blank\" rel=\"noopener noreferrer\">запущен</a> сервис для проверки задолженностей у других людей или организаций. <br><br>ℹ️ Проверка позволит узнать о задолженностях по кредитам, алиментам, налогам, штрафам и другим обязательствам. Таким образом можно избежать ареста имущества и ограничений на выезд за границу, оценить риски при работе с контрагентами, подготовиться к крупным сделкам. <br><br>🛑 Аналогичный сервис работает на сайте ФССП.<br> <br>✈️ Международные новости<br> <br>Власти Германии <a href=\"https://iz.ru/2040504/milana-gadzhieva/dojchernie-kompanii-germaniya-vynuzhdaet-svoj-biznes-v-rf-platit-nalog-dvazhdy%22%20%5Co%20%22https://iz.ru/2040504/milana-gadzhieva/dojchernie-kompanii-germaniya-vynuzhdaet-svoj-biznes-v-rf-platit-nalog-dvazhdy\" target=\"_blank\" rel=\"noopener noreferrer\">создали</a> ситуацию, при которой немецкий бизнес в России и российский в ФРГ оказались под серьезным налоговым давлением.<br><br>ℹ️ Налог удерживают в Германии, а затем тот же доход облагается налогом в России, и нагрузка может достигать 40% и выше. Но несмотря на сложности, немецкий бизнес частично остается в РФ. <br><br>🛑 По данным РСПП в стране продолжают работать около 750 немецких компаний.<br><br>#главные_налоговые_новости",
+      "views": 1410,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2458-1-1951acaef661-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2458-1-1951acaef661-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/PG_Tax/2458",
+      "forwarded_from": null
+    },
     {
       "id": 2457,
       "date": "2026-02-10T13:35:37+00:00",
@@ -255,24 +273,6 @@
       "photos": [],
       "video_url": "https://cdn4.telesco.pe/file/63e6f20f02.mp4?token=pNm9wdTNGP_I5TDf186lSuhYsKarq96-rf256vI4wgwdYP_TXFjL9rVv38D-V4spgnoTnwZBvzcd0qpAet4nHyjvVbxqFRgBnztCcuyvYmoY5ZyOPKkPgUqdpxbHpd0UeHCNElDXPBqf6e-3oOn2JFGV0es6Wj3qZeSADk3TsVDwTGJsVIS6zxRVpYcrP0pXQNgfSrQzxKckFhUdXhY25cGnYtyYQ90U84wWRpKndMxDBfNbiyxTADPSIsSqYjHOU2cjByBx1gVllYFjbCnIFlF9d9Tvf3y6D-vingLzEfea1CezT9owDIJVDucd-_XkH3QsAsnvJNOrVuc0LvkMFQ",
       "tg_url": "https://t.me/PG_Tax/2443",
-      "forwarded_from": null
-    },
-    {
-      "id": 2442,
-      "date": "2026-02-04T14:02:56+00:00",
-      "text": null,
-      "text_html": null,
-      "views": 1550,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2442-1-087e9455446d-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2442-1-087e9455446d-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2442",
       "forwarded_from": null
     }
   ]
