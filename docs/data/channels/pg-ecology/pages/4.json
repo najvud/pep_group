@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-04-28T15:41:00.598211+00:00",
+  "generated_at": "2026-04-29T04:43:45.871727+00:00",
   "pagination": {
     "page": 4,
     "page_size": 16,
-    "total_posts": 49,
+    "total_posts": 50,
     "total_pages": 4
   },
   "posts": [
+    {
+      "id": 1281,
+      "date": "2026-02-02T04:00:07+00:00",
+      "text": "🌞 Уважаемые участники канала, доброго дня!\n\nВ очередном обзоре судебной практики для EcoStandard.journal, привели правовые позиции судов в ключевых спорах о недрах, в частности:\n\n🔸Когда лесной участок будет рекультивировать сам государственный орган?\n🔸Если полезные ископаемые добывали незаконно — кто заплатит ущерб?\n🔸Кто ответственен за ликвидацию отходов добычи: старый или новый владелец земли? \n🔸Если правила добычи нарушаются, право пользования недрами прекращается досрочно?\n\n☕️ Приятного чтения.",
+      "text_html": "🌞 Уважаемые участники канала, доброго дня!<br><br>В очередном <a href=\"https://journal.ecostandard.ru/eco/razbor-zakonodatelstva/obzor-sudebnoy-praktiki-po-sporam-v-sfere-nedropolzovaniya/?lang=ru\" target=\"_blank\" rel=\"noopener noreferrer\">обзоре</a> судебной практики для <a href=\"https://journal.ecostandard.ru/\" target=\"_blank\" rel=\"noopener noreferrer\">EcoStandard.journal</a>, привели правовые позиции судов в ключевых спорах о недрах, в частности:<br><br>🔸Когда лесной участок будет рекультивировать сам государственный орган?<br>🔸Если полезные ископаемые добывали незаконно — кто заплатит ущерб?<br>🔸Кто ответственен за ликвидацию отходов добычи: старый или новый владелец земли? <br>🔸Если правила добычи нарушаются, право пользования недрами прекращается досрочно?<br><br>☕️ Приятного чтения.",
+      "views": 883,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1281-1-3cf8faa4a726-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1281-1-3cf8faa4a726-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/pgecology/1281",
+      "forwarded_from": null
+    },
     {
       "id": 1280,
       "date": "2026-01-30T10:35:07+00:00",
