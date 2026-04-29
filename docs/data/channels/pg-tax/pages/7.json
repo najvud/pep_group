@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-29T07:12:58.607640+00:00",
+  "generated_at": "2026-04-29T09:26:07.605356+00:00",
   "pagination": {
     "page": 7,
     "page_size": 16,
-    "total_posts": 176,
+    "total_posts": 175,
     "total_pages": 11
   },
   "posts": [
@@ -16,7 +16,7 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/52aac8a07b.mp4?token=lDufiMsT6v3fdYO-666xu_73pUKwmmthT_IX8D37LX2lEWJ3rKH9rr9AlVdsT9aev9cUUf7RReJrxxPoBg4r8bleoPLHvZhhwHOwSNXuw9StgJbzz1_QUzeNj_EeMIusHHeVn6yUyVKPI-enb8loCY31U8M4okknuGc6RHhYAu870IKeVHjn4YgPBaJyJYg91zZoRqn9I1P13aL1lOgIKymE50M4MKsmecAnkNNhES5Nea7870OKZYwxUeC-IS4QnxXodt8dxPHPJPh1HPf6HI7BQjl12xuIzxZO0lQxvTrjqf-cK48S_IF4FumEJCqpeVtZcnwtXMHBGevB8LVf1w",
+      "video_url": "https://cdn4.telesco.pe/file/52aac8a07b.mp4?token=U3SyS6XrIZdBo0XXLsWpSpBjoDp6LtwZDhFw0JYlCY1GGUCRP54hbNdesMFr4M4mPjSA1DqJUhYWkAmzk0pFBd1sW31aQ8lzflwpP6oK3c43FQp8aifpHDsUjOWXgxHDA2ucPW5q4FqX02_zqcNY7b_CvjDnm4g_Sw4KCIT6ZbH1Mc5U5W1FnrRa07INvCArISyL9Eqafx3BdG3cyQvyqbipUHd6bbrcj8JogWyHTwXIv-JqAJC2e-HClPc2_TeEnzUu6K4on3giWGHHofKkTzuVHgRchAQ9QmciwFWWj96JuxjS2KOlsTJHrEMZOZEo7K0ZZidHetoUDCFmXQ6A_g",
       "tg_url": "https://t.me/PG_Tax/2513",
       "forwarded_from": null
     },
@@ -30,8 +30,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2512-1-7c3b0291cbf7-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2512-1-7c3b0291cbf7-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2512-1-c46f2bf4506c-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2512-1-c46f2bf4506c-v4.jpg"
         }
       ],
       "video_url": null,
@@ -61,8 +61,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2510-1-1e5179c73a83-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2510-1-1e5179c73a83-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2510-1-dfa7b0288a0e-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2510-1-dfa7b0288a0e-v4.jpg"
         }
       ],
       "video_url": null,
@@ -79,8 +79,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2509-1-86727c068277-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2509-1-86727c068277-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2509-1-42d37b8c45c9-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2509-1-42d37b8c45c9-v4.jpg"
         }
       ],
       "video_url": null,
@@ -97,8 +97,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2508-1-840ab345a749-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2508-1-840ab345a749-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2508-1-9d98408c321d-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2508-1-9d98408c321d-v4.jpg"
         }
       ],
       "video_url": null,
@@ -115,8 +115,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2507-1-d02c05b3ba88-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2507-1-d02c05b3ba88-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2507-1-751147d62f24-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2507-1-751147d62f24-v4.jpg"
         }
       ],
       "video_url": null,
@@ -132,7 +132,7 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/f8fa9e0a04.mp4?token=Oo5Ng9djKIWZDyn5aj_UM6QVVcW1eIiLtgf9djrqsenEX9G5tuOup8R_LHoJKgxwtxJrkCngTJY1vIko_oY1nTuLnJOSFA_Cm9PWv_h3q9WQODig0BcGRtlZX_aU32-8DbBrAFqAGNaqahndzgA_YJ39uhQzQ2ydW1a_4ZfVCoark1Xbz5IGuNm75AJX4K4wvFqxPh4CCSa3xzXlZ1cXR4SREDL40ObGFYpDjHVDp2sCj-sKb5HluTN2fwD3hd0-_EA47vBtGrtPlpH-YTFn7LWHqHs5QbJB-Mc9o4pKvnGfbZpo3L9t1hOYYLym0Sl4-gwMH9DtD2ujnv3JE2VMCg",
+      "video_url": "https://cdn4.telesco.pe/file/f8fa9e0a04.mp4?token=nz51Z_kDmLz82WF1c-BRoOwGcEJTInDcsLBUja-ml1icffvKNZvBtT60BOANwKc8_moZOi2DRPk3pF6bj5IDPVNtEiiw-eL7kWQbfdzKhW7f5X5GWcW1-t-5mh_RkYl-270A-mQQ1DGm0UvRDEojKHMfUT3VnbaPN4xfVOxCUzWs6DxhIPyGUkGAdkkuXmFiX0C_aVBKJrHvCs2VRDPkR97d8-qVKb0f8Db4tGTrF73xut61IF00pEfig9WQyc250BuwPMWoFwlsfNEQHTlfazcA_lGdCBaSqqAnILwKRWPenChxzdMdlm8qFFn2Teke3ndJY2xljUIdFV4fgC7i4Q",
       "tg_url": "https://t.me/PG_Tax/2505",
       "forwarded_from": null
     },
@@ -146,8 +146,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2504-1-56a7f9855072-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2504-1-56a7f9855072-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2504-1-824d5d40a718-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2504-1-824d5d40a718-v4.jpg"
         }
       ],
       "video_url": null,
@@ -164,8 +164,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2502-1-ffb719d466d1-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2502-1-ffb719d466d1-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2502-1-69c153a365a8-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2502-1-69c153a365a8-v4.jpg"
         }
       ],
       "video_url": null,
@@ -182,8 +182,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2501-1-40215f844191-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2501-1-40215f844191-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2501-1-67c64b4b824a-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2501-1-67c64b4b824a-v4.jpg"
         }
       ],
       "video_url": null,
@@ -200,8 +200,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2498-1-77b26850f326-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2498-1-77b26850f326-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2498-1-87d0bb9aa2eb-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2498-1-87d0bb9aa2eb-v4.jpg"
         }
       ],
       "video_url": null,
@@ -218,8 +218,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2497-1-16d5a5afc240-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2497-1-16d5a5afc240-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2497-1-8a173f27855c-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2497-1-8a173f27855c-v4.jpg"
         }
       ],
       "video_url": null,
@@ -231,13 +231,13 @@
       "date": "2026-02-27T15:10:25+00:00",
       "text": "🏆 Управляющий партнер «Пепеляев Групп» Сергей Пепеляев награжден медалью Федеральной палаты адвокатов РФ «За профессионализм».\n\nНаграда присуждается за особые, выдающиеся результаты и достижения в профессиональной деятельности и безупречную деловую репутацию.\n\n🔘Сергей Пепеляев более 35 лет углубленно занимается вопросами налогообложения компаний и граждан, а также проблемами инвестиционной деятельности, судопроизводства.\n\nКак практик он защищал права и интересы компаний в самых масштабных и значимых судебных спорах в Конституционном Суде РФ, Верховном Суде РФ, арбитражных судах о законности доначислений налогов и платежей, отмене не соответствующих законам актов Правительства РФ, министерств и ведомств, неконституционных положений законов, консультировал по вопросам налогообложения инвестиционной и текущей деятельности и др.\n\n👉Читать новость на сайте.",
       "text_html": "🏆 Управляющий партнер «Пепеляев Групп» Сергей Пепеляев награжден медалью Федеральной палаты адвокатов РФ «За профессионализм».<br><br>Награда присуждается за особые, выдающиеся результаты и достижения в профессиональной деятельности и безупречную деловую репутацию.<br><br>🔘Сергей Пепеляев более 35 лет углубленно занимается вопросами налогообложения компаний и граждан, а также проблемами инвестиционной деятельности, судопроизводства.<br><br>Как практик он защищал права и интересы компаний в самых масштабных и значимых судебных спорах в Конституционном Суде РФ, Верховном Суде РФ, арбитражных судах о законности доначислений налогов и платежей, отмене не соответствующих законам актов Правительства РФ, министерств и ведомств, неконституционных положений законов, консультировал по вопросам налогообложения инвестиционной и текущей деятельности и др.<br><br>👉Читать новость <a href=\"https://www.pgplaw.ru/news/press-releases/sergey-pepelyaev-nagrazhden-medalyu-federalnoy-palaty-advokatov-rossiyskoy-federatsii-za-professiona/\" target=\"_blank\" rel=\"noopener noreferrer\">на сайте.</a>",
-      "views": 1330,
+      "views": 1340,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2496-1-072ca2078a90-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2496-1-072ca2078a90-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2496-1-b81121b54da4-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2496-1-b81121b54da4-v4.jpg"
         }
       ],
       "video_url": null,
@@ -272,8 +272,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2494-1-42a38d258bee-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2494-1-42a38d258bee-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2494-1-5af3aec0fc6e-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2494-1-5af3aec0fc6e-v4.jpg"
         }
       ],
       "video_url": null,
