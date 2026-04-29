@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-04-28T20:19:16.214329+00:00",
+  "generated_at": "2026-04-29T07:12:58.613917+00:00",
   "pagination": {
     "page": 10,
     "page_size": 16,
-    "total_posts": 175,
+    "total_posts": 176,
     "total_pages": 11
   },
   "posts": [
+    {
+      "id": 2457,
+      "date": "2026-02-10T13:35:37+00:00",
+      "text": null,
+      "text_html": null,
+      "views": 1320,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [],
+      "video_url": "https://cdn4.telesco.pe/file/9c54e3d766.mp4?token=ZEYpo7E6gv9ALLqBYmozhITDkkwwRguxEDINg2n1-YFFBu5H9t6WBGyfEph_KX4UDLoxa-lhYGyT2mKJAGmNoQs6LRTqZKQg1LgI3VeL_FbXxgKL7JSbfuSj8gf3tjeO2W7riYRszd212HiX59CgLHlnFWgW-EqXrnNbR6IRfY6QnntCWps0G_NAJNyLtStV_dXw-zLHF_mwO6IQDHWSx2I-iUocI28h2kJMBLzZCka96--W_m_5hhVO8yDe1hRHQcvkWhvd_tv6TVAW7uqrc59EqJcWvNosYm7MK1ch_Q_VrRB8kdDQNyv2vDrl5ekkmc1Pbvu7zEHOWONiBVec7g",
+      "tg_url": "https://t.me/PG_Tax/2457",
+      "forwarded_from": null
+    },
     {
       "id": 2456,
       "date": "2026-02-10T13:35:02+00:00",
@@ -17,8 +30,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2456-1-b08c074449ed-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2456-1-b08c074449ed-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2456-1-516a33d88685-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2456-1-516a33d88685-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +48,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2455-1-2f1723a7219b-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2455-1-2f1723a7219b-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2455-1-4d34c0fed503-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2455-1-4d34c0fed503-v4.jpg"
         }
       ],
       "video_url": null,
@@ -53,8 +66,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2454-1-04e798407140-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2454-1-04e798407140-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2454-1-362bf1b0ef29-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2454-1-362bf1b0ef29-v4.jpg"
         }
       ],
       "video_url": null,
@@ -70,7 +83,7 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/90a830aa1a.mp4?token=ZAC-jKfkmFG3xcm5zcQ_YqWGEPzJBOSPlcXi44cHmASDx6mDleSiAOLmjNlIqhyl5GLu-TqC0ITDsEw5R1j3c8QAsBrPGIxbK1u3WCsmTc6TUPgtQewJUTT-tHhRQp8WAOcOC9Hr_9wlAMdfU8QzRFWlSHPrvcbNf9q_HWC4aflCsg-3chD0bh3wEhqlAHFkzxpSMm7hfjq3_QcOKKwCsID9NpjKD1WzRwkYws_bgVHdfxl9n81ELR6lT83ATaeq9_m_iZJbiYME-5upTLnG36PS1ruTiJpuV46kq25DcR9zidWN_QDD_eYC_o6-7Xevr-KGK7qMos4mLUvuMKSJAg",
+      "video_url": "https://cdn4.telesco.pe/file/90a830aa1a.mp4?token=mAueTfnIoM4QVqlGCZEKoCKayMYhAGg_fjsHP355_rAjfiWtRKwu4BjTwl5iPcc733pOUwqM7xodkbjuzdr8w4PXELOJmPeP1RB6YEAfz1L8oT04cGfrztohSn5IWoxI0P1NSyE0LElYylyRor1lZzLheYvJHRhh0lKusEypEIH2jj3qxIie6wjlTJlatyabWYFeQf3SMx66iiCA3-8vecZ-042aNdxA1e8MkWHlUiuh-OaPl54YlgZOpSAIgpTLYvL3wOp-X-NbpxitJkLaZKBqiZXPvTT8Ac-QVETEuyKimA4vcChnes_G_sbt7LqGL3W60mBJVniWa3BywUh_Mw",
       "tg_url": "https://t.me/PG_Tax/2453",
       "forwarded_from": null
     },
@@ -84,8 +97,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2452-1-84d4e2411f53-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2452-1-84d4e2411f53-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2452-1-c4ac66ba63ac-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2452-1-c4ac66ba63ac-v4.jpg"
         }
       ],
       "video_url": null,
@@ -102,8 +115,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2451-1-6cbc8bfd5d58-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2451-1-6cbc8bfd5d58-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2451-1-f72aa7ccc635-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2451-1-f72aa7ccc635-v4.jpg"
         }
       ],
       "video_url": null,
@@ -137,7 +150,7 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/a9db42e7e0.mp4?token=tT1vfFwJMuw6NhYfWe5uxY8A70RC8mEVFJFXuy_4s8g9N2Z9lGquSJannjbxy_IkROc4cdrq065s9j4GuMa7ozSbzkX5AR0IMF6Fb5r7vtZTJJVatkdcth_UsbyoS-4FEt1K0KaI_hg_QJ8idD3HBI1bxG9yhpI6DqXjMd6lPNXL-qc_4EJzJjok_KsAPepaG_hwmTVt-SusVgB_KvORVzqxbODJ-ReF06iNDDv-uiRRec7NmfgYziNIPXl7oNjA3KFqPeV30EoDPWS1lY4WbthC6dRf63Kqe0h8tP9GB_fLHIBzbOiEX3vQag9_Up8F1NzuFYjz1ctTp8NPlqZ-5g",
+      "video_url": "https://cdn4.telesco.pe/file/a9db42e7e0.mp4?token=R2dWyNS4IX2BBCExLG2XjZxex9oBaxpfEfB1A5taiZK4BH3JDiQuHPQnaGPBErkQDRyN2MDzA7YKpuNLVExIPx8WQDWWTT8eJXLYnrnhtJop2jlQdjXLPsAvh9Qw3GmSNFnXQsqDGVnxmbfQbFsbTWUmgIxFZgxfZeLSkuTi06Z3GHI9ssbuPk15T6Q0k1EKZAVY8b1nC_5hXT6ww6cmXYNQSzcEf9ShbdFol0DxWkLvmGWyBSqw7iCs0b8jZ0n5Dtnl_vVxdMO4OXTdUgl5VCeP9SSBxR-Go-6e11mTqgDQqkJ14hBd_hJhrYuw_RsZVPLQNPU_22scxJB2X_-fTA",
       "tg_url": "https://t.me/PG_Tax/2449",
       "forwarded_from": null
     },
@@ -205,8 +218,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2445-1-12631b7dcfd1-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2445-1-12631b7dcfd1-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2445-1-ece93aba32b9-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2445-1-ece93aba32b9-v4.jpg"
         }
       ],
       "video_url": null,
@@ -223,8 +236,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2444-1-89c4a0b87c55-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2444-1-89c4a0b87c55-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2444-1-48459a9d29e9-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2444-1-48459a9d29e9-v4.jpg"
         }
       ],
       "video_url": null,
@@ -240,7 +253,7 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/63e6f20f02.mp4?token=Q517tBDvxH9IjfIG8xhdluLsU6G0Yv61-wECPELfTXh6MIm_GgCQy1mfhDB_YkHWCFVL97zvg0zFOSNoQ8wQr77bynF212M_nVP2FY862ceqyDKavZBup5Y7Ksqt2eYcnzqtG70zYzKeRLwjFGacS1n2naVbaLPkkhq_cqyuLj9UViE0A1kM1Rtij65D3Om2-m8hAaim_n23roMiZy5Ki-0h4LrPv-NLjn1eCdsQHhDGdCReHUWUgzAzNgyu2o5cG-ETmuQn6ewAzt3LgIr3T2hMlcbmVTK_9zwWiHrqdNhbxYbjhqkCaEf2guUUKQwAioyUuF5530q40x_627lk7g",
+      "video_url": "https://cdn4.telesco.pe/file/63e6f20f02.mp4?token=mU-KPuQlvUA60cGzX367EcuMiSsGIf4dF-B5-Na0S2_Nuad29-9IaGYeQSowF59DjyNeX4c9vF2l7KjG7GMny4ljKCade5CKrvz9dRtPys-5Plc1u5oxWH5TS_HuTxCToH9meIFuqZSL_n9XV8hqgUhVbXvS9ejgU7VLgcTJoa3Qj6yZ9ALCKEq8cmlC_23HO9imUce4s4aR5ZRFrUoqooqy88k16LZy4IPC7JE7giIp6K_qlAKnlx5zyRhRTVtNjaCe_mxNR5oou37Bl1Nbn3QPcqO9cxMOt6T9PcH5k5PthCQXArCiw6Mp3aNInfuv31jS4BUq0Y1K46wV5-heaA",
       "tg_url": "https://t.me/PG_Tax/2443",
       "forwarded_from": null
     },
@@ -254,30 +267,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2442-1-abf56832f316-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2442-1-abf56832f316-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2442-1-4594987d0f25-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2442-1-4594987d0f25-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/PG_Tax/2442",
-      "forwarded_from": null
-    },
-    {
-      "id": 2441,
-      "date": "2026-02-04T10:03:39+00:00",
-      "text": "Старший партнер «Пепеляев Групп» Сергей Савсерис продолжает публикацию рейтинга правовых позиций Конституционного суда.\n\n📈 Место № 9 \n\nОпределение КС РФ от 04.07.2017 № 1440-О по жалобе С.П. Бунеева\n\nЕще одно дело, получившее место № 9, посвящено темам дробления бизнеса и пределов налоговой оптимизации.\n\n💬 Цитируемость\n\n439 упоминаний за весь период (33-е место);\n349 упоминаний за последние 4 года (7-е место).\n\n🔍 О чём было дело\n\nНалоговый орган признал структуру группы взаимозависимых лиц искусственным дроблением бизнеса с использованием УСН и ЕНВД для снижения НДС и налога на прибыль и доначислил налоги, пени и штраф по п. 1 ст. 122 НК РФ.\n\nЖалоба в КС была направлена против норм НК РФ об объекте и базе по НДС и налогу на прибыль (ст. 146, 153, 154, 247–249, 274 НК РФ).\n\n⚖️ Ключевые правовые позиции\n\n     ✔️выбор льгот и специальных режимов допустим;\n     ✔️взаимозависимость контрагентов не опровергает презумпцию добросовестности и, сама по себе, не дает оснований к признанию налоговой выгоды необоснованной;\n     ❌но формальное структурирование без деловой цели и экономического смысла может быть переквалифицировано;\n     ✔️оспариваемые нормы НК РФ сами по себе конституционны;\n     ✔️налоговые последствия определяются через реконструкцию — так, как если бы злоупотребления не было.\n\n☝️ Особое мнение судьи К.В. Арановского\n\nСудья Арановский занял существенно более ограничительный по отношению к фискальному подходу взгляд. \n\nВ особом мнении подчёркнуто, что:\n     ✔️дробление бизнеса не запрещено законом и не образует само по себе правонарушения;\n     ✔️применение спецрежимов и формальное соблюдение НК — признак правомерного поведения;\n     ✔️«необоснованная налоговая выгода» и «недобросовестность» не являются самостоятельными основаниями ответственности;\n     ✔️отказ в принятии жалобы не означает согласия КС с тем толкованием норм, которое было применено судами по делу.\n\n❗️ Практическое значение\n\nОпределение стало опорной точкой для практики по борьбе с дроблением бизнеса и прочими налоговыми схемами:\n     🔴использование спецрежимов не создаёт иммунитета от переквалификации;\n     🔴решающим становится реальное экономическое содержание структуры и деловая цель.\n\n#рейтинг_позиций_КС\n\n➖➖\n📧 Если Вы столкнулись с претензиями об участии в налоговой схеме или у Вас есть вопросы о применении специальных налоговых режимов, напишите Сергею Савсерису: s.savseris@pgplaw.ru",
-      "text_html": "Старший партнер «Пепеляев Групп» <a href=\"https://www.pgplaw.ru/to-get-the-team/sergey-savseris/\" target=\"_blank\" rel=\"noopener noreferrer\">Сергей Савсерис</a> продолжает публикацию рейтинга правовых позиций Конституционного суда.<br><br>📈 Место № 9 <br><br>Определение КС РФ от 04.07.2017 № 1440-О по жалобе С.П. Бунеева<br><br>Еще одно дело, получившее место № 9, посвящено темам дробления бизнеса и пределов налоговой оптимизации.<br><br>💬 Цитируемость<br><br>439 упоминаний за весь период (33-е место);<br>349 упоминаний за последние 4 года (7-е место).<br><br>🔍 О чём было дело<br><br>Налоговый орган признал структуру группы взаимозависимых лиц искусственным дроблением бизнеса с использованием УСН и ЕНВД для снижения НДС и налога на прибыль и доначислил налоги, пени и штраф по п. 1 ст. 122 НК РФ.<br><br>Жалоба в КС была направлена против норм НК РФ об объекте и базе по НДС и налогу на прибыль (ст. 146, 153, 154, 247–249, 274 НК РФ).<br><br>⚖️ Ключевые правовые позиции<br><br>     ✔️выбор льгот и специальных режимов допустим;<br>     ✔️взаимозависимость контрагентов не опровергает презумпцию добросовестности и, сама по себе, не дает оснований к признанию налоговой выгоды необоснованной;<br>     ❌но формальное структурирование без деловой цели и экономического смысла может быть переквалифицировано;<br>     ✔️оспариваемые нормы НК РФ сами по себе конституционны;<br>     ✔️налоговые последствия определяются через реконструкцию — так, как если бы злоупотребления не было.<br><br>☝️ Особое мнение судьи К.В. Арановского<br><br>Судья Арановский занял существенно более ограничительный по отношению к фискальному подходу взгляд. <br><br>В особом мнении подчёркнуто, что:<br>     ✔️дробление бизнеса не запрещено законом и не образует само по себе правонарушения;<br>     ✔️применение спецрежимов и формальное соблюдение НК — признак правомерного поведения;<br>     ✔️«необоснованная налоговая выгода» и «недобросовестность» не являются самостоятельными основаниями ответственности;<br>     ✔️отказ в принятии жалобы не означает согласия КС с тем толкованием норм, которое было применено судами по делу.<br><br>❗️ Практическое значение<br><br>Определение стало опорной точкой для практики по борьбе с дроблением бизнеса и прочими налоговыми схемами:<br>     🔴использование спецрежимов не создаёт иммунитета от переквалификации;<br>     🔴решающим становится реальное экономическое содержание структуры и деловая цель.<br><br>#рейтинг_позиций_КС<br><br>➖➖<br>📧 Если Вы столкнулись с претензиями об участии в налоговой схеме или у Вас есть вопросы о применении специальных налоговых режимов, напишите Сергею Савсерису: s.savseris@pgplaw.ru",
-      "views": 1590,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2441-1-6f98d8acd93f-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2441-1-6f98d8acd93f-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2441",
       "forwarded_from": null
     }
   ]
