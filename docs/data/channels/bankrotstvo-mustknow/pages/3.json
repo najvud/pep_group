@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29T19:57:19.698015+00:00",
+  "generated_at": "2026-04-30T03:57:13.572164+00:00",
   "pagination": {
     "page": 3,
     "page_size": 16,
@@ -16,7 +16,7 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/c6f02ed41e.mp4?token=UF2yLeGq3w0XZFLV5DjUL0SL-_58r0KcN8Ry6NPi5DRSschHkOuBw5nHTANN3PdEBRw9zW20FehH-4ccbCHKY1krgQfXIJBTEG6e7C6o9ZpWClvA3bW8QOMFChbYBoCkOcxmtDMbCAvuH-3HPr70gFU3ZJ9Qj9DPYmwnewIyRNlYx2L_P52F-KxVRklbCvNP5stpo317KjTppFMhryz7pLR6yyIsUw2aWplCPxEdC0xsAXvAHG-o8-fCRllg3I3fYShpqyOK31OOHpntXRAQGsK8-9v6-sxZiE2evX1jkC6cqaqTWFs7oW3QyYBo4afiQva61KrnYbAAGg8DgV_KOw",
+      "video_url": "https://cdn4.telesco.pe/file/c6f02ed41e.mp4?token=LBMlu_XoSXAvh1F_WL02ycl5sb8GuRfe3e0HkeSrC-Ee_Ic_VHDOkto6bF6NaUMq2PseuXdXzDQ2uucXKOVkLbZZqF9iYVh9qjgR4NlIWUnpZnFqrWT7jqPoMLd6Trd3aZn8ukfq9XpyrtMcZhIEukfrxxNgmzxTL1lquZEZ6n3os8d8GMigbed57Lv1vEqPS1ecflA1RF7mfgeZhe35RdSnDVhCf1I2fSvP15z63PtRhN-G-9-BQpCUlZFdXwueRtk398bAYFWlRV19haAnQ8SoqQS37amIeZsqE38WsrhCVyzoSNTy4xEF9tBzs55eHuMy7jK1tv3iqpFc1zLjTQ",
       "tg_url": "https://t.me/bankrotstvo_mustknow/444",
       "forwarded_from": null
     },
@@ -29,7 +29,7 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/6d64cdcea3.mp4?token=nn7YUTTFO-MCdgpnISKj3s0EmFvYzMpViwjOe0GaVO8NcdewuQvr0M5DCwHEQRQ0u9ltwmgS2F8wPcvovTLAnSvhjb7-cSdNi1bU6DpmPo_XXzGYlplAeoVolF8f7vbeheGb4Sp7m2ozBzUYpzDzM1HpwKnCUoykDCuorAbnQ_j-Erk87QGc8CY2oF6VnsZ9bUxPsR9a_o1hzrzYl_0rYJnhvn3bPwMc1-bRCOJ-QhhghYiaAetDsbMRY5IzG2CMWh76r6mSKHd_IGGoud5q4tmFxPvxH84ZD7uQqIKJvH0-0wW_b9z42QWxg7Xcbm8P1eU3rmspBYdGZX71Z-Z0Aw",
+      "video_url": "https://cdn4.telesco.pe/file/6d64cdcea3.mp4?token=d5TG84nhDovzGol8px5EHKxgH6eksb_4MLryhZYxo0z30EFSak0aTAc5miVaiwJohPjk-YmeaGlQ6hgUy3xVnzAaB4REbigzg9X_5Ki8f9Dlgxg7E5MNrNHYtYFFpbg9M7jjZpX3yTTdg92qPMiVnw_virrv2ZrQQx1UAaVCDqh5cWhcilQ1_f1JFqnIa1OehucAiYnE9tjODPyVq4LHkSLzfpcioQfkcaa5PHqHGT1Ts6LX_PlaWmWzUSRXaP-7esoHlaotOV1zo8Ah65GFTxuG5oXyW948T6MV_U2e6-TrIWMCc8vyBCkf2Y5ibWCJCZRms1m8nlZJJMdm8BbJUg",
       "tg_url": "https://t.me/bankrotstvo_mustknow/442",
       "forwarded_from": null
     },
@@ -169,8 +169,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/433-1-77e34f2cea64-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/433-1-77e34f2cea64-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/433-1-6e836f7f9e3d-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/433-1-6e836f7f9e3d-v4.jpg"
         }
       ],
       "video_url": null,
@@ -210,8 +210,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/430-1-33528f81c4c9-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/430-1-33528f81c4c9-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/430-1-3cf46ce39718-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/430-1-3cf46ce39718-v4.jpg"
         }
       ],
       "video_url": null,
@@ -223,13 +223,13 @@
       "date": "2026-03-13T06:52:16+00:00",
       "text": "🃏В бизнесе, как и в покере, выигрывает не тот, у кого больше карт, а тот, кто лучше понимает правила игры и вовремя делает правильную ставку.\n\n♠️ 26 марта приглашаем представителей бизнеса на встречу «Банкротный покер», на которой вместе с экспертами «Пепеляев Групп» обсудим актуальные вопросы банкротства, судебную практику и стратегии защиты бизнеса. Разберём реальные ситуации, сильные и слабые комбинации в спорах, а также новые подходы судов и государственных органов.\n\n♦️ Субсидиарная ответственность: всегда ли к одиннадцати туз? \n\n♦️ Защита сделок: фулл-хаус или пас?\n\n♦️  Налоги в банкротстве: игра с государством по-крупному:\n\n♦️ Семейные вопросы: когда в проигрыше тот, кто не играл.\n\n♦️ Другие тонкости банкротства для заядлых игроков.\n\nПриходите, чтобы разобраться в правилах игры и научиться держать сильную руку в банкротных спорах.\n\n⚡️ Подробнее о мероприятии и регистрация по ссылке.",
       "text_html": "🃏В бизнесе, как и в покере, выигрывает не тот, у кого больше карт, а тот, кто лучше понимает правила игры и вовремя делает правильную ставку.<br><br>♠️ 26 марта приглашаем представителей бизнеса на встречу «<a href=\"https://www.pgplaw.ru/events/upcoming-events/bankrotnyy-poker/\" target=\"_blank\" rel=\"noopener noreferrer\">Банкротный покер</a>», на которой вместе с экспертами «Пепеляев Групп» обсудим актуальные вопросы банкротства, судебную практику и стратегии защиты бизнеса. Разберём реальные ситуации, сильные и слабые комбинации в спорах, а также новые подходы судов и государственных органов.<br><br>♦️ Субсидиарная ответственность: всегда ли к одиннадцати туз? <br><br>♦️ Защита сделок: фулл-хаус или пас?<br><br>♦️  Налоги в банкротстве: игра с государством по-крупному:<br><br>♦️ Семейные вопросы: когда в проигрыше тот, кто не играл.<br><br>♦️ Другие тонкости банкротства для заядлых игроков.<br><br>Приходите, чтобы разобраться в правилах игры и научиться держать сильную руку в банкротных спорах.<br><br>⚡️ Подробнее о мероприятии и регистрация по <a href=\"https://www.pgplaw.ru/events/upcoming-events/bankrotnyy-poker/\" target=\"_blank\" rel=\"noopener noreferrer\">ссылке.</a>",
-      "views": 5620,
+      "views": 5630,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/429-1-61a16b9c8219-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/429-1-61a16b9c8219-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/429-1-76d6554c2020-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/429-1-76d6554c2020-v4.jpg"
         }
       ],
       "video_url": null,
@@ -282,8 +282,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/425-1-1770aed6f653-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/425-1-1770aed6f653-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/425-1-c7a0584e8e32-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/425-1-c7a0584e8e32-v4.jpg"
         }
       ],
       "video_url": null,
