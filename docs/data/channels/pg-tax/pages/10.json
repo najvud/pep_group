@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T06:27:46.262547+00:00",
+  "generated_at": "2026-04-30T08:40:33.822892+00:00",
   "pagination": {
     "page": 10,
     "page_size": 16,
@@ -7,6 +7,24 @@
     "total_pages": 11
   },
   "posts": [
+    {
+      "id": 2460,
+      "date": "2026-02-11T13:45:09+00:00",
+      "text": null,
+      "text_html": null,
+      "views": 1470,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2460-1-e9be150075cb-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2460-1-e9be150075cb-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/PG_Tax/2460",
+      "forwarded_from": null
+    },
     {
       "id": 2459,
       "date": "2026-02-11T10:35:33+00:00",
@@ -35,8 +53,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2458-1-908943614cb9-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2458-1-908943614cb9-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2458-1-3bee62c2fd18-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2458-1-3bee62c2fd18-v4.jpg"
         }
       ],
       "video_url": null,
@@ -52,7 +70,7 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/9c54e3d766.mp4?token=SsZYbBuSxFwj8_K0_z5pwdR6kh5b8kHHAsIdJpcPmKhEaxOB0XT4PrGprnRMbJWnwa-Q2A7UgFK0rIR09ijAAPwKsYawXiiTmj2Wi8chA_tyJzv_ZeKu1olsw0SluUvRLZnLvyiwuQZ2XsNGrpaP7uLUpr84648lVIj0UyDbYEvzCxW9tD9XsA5GxMcWvKywdvsVZxOAF6viwi32ziBBvG3Z_pxQhj-7Pn7JNOhRnXNcRBauVv4Y8q3F92ary4mGmw9Dnz8TQhlvACYomIhZk8MpokFfmSnv3gTrhdnEH9NWxSklYd2b6DysPk_tpbD3mn1T28WEPMfQogNxgPitaA",
+      "video_url": "https://cdn4.telesco.pe/file/9c54e3d766.mp4?token=ZLJ9nQ_RR-Qmz3eZSZRj9XXH9rZFHSNFvCkPNETBpbelE9UsClP-eTCHp-cA1RczUO1tcxLGY9SHxwn5_NQRgsZblqAosPTLzTkj46j8cf2w3a7O6eMdFzttN0V1uB0HRm-iFbn8EDL1ac96depfpaSEd8umE-X2XOj1hXwdMCoWBEgIr607X9xJ0RC4yMDJVOW_1u8elC2GSV4BXLLQxoFYoWCosmiOnWVwaEC5rZk3LxpeFSuEySSBlvPalAn6NnhyPW1NPu10F_grdpTEAQ8nSaZRvQVznx7ifeWozKrTUhEaNPvoMWB5ZrvmbC3_ndXjhb9hCDiwUfBflbQMyQ",
       "tg_url": "https://t.me/PG_Tax/2457",
       "forwarded_from": null
     },
@@ -66,8 +84,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2456-1-2a62792a5dff-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2456-1-2a62792a5dff-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2456-1-7ac9612a7f23-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2456-1-7ac9612a7f23-v4.jpg"
         }
       ],
       "video_url": null,
@@ -84,8 +102,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2455-1-a4043aa7fcdf-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2455-1-a4043aa7fcdf-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2455-1-8822fd89fbf8-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2455-1-8822fd89fbf8-v4.jpg"
         }
       ],
       "video_url": null,
@@ -102,8 +120,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2454-1-050f36ae13c4-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2454-1-050f36ae13c4-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2454-1-f485e2e6728f-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2454-1-f485e2e6728f-v4.jpg"
         }
       ],
       "video_url": null,
@@ -119,7 +137,7 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/90a830aa1a.mp4?token=DGOXNxsSGXZ00gbG3EKCAM4ptPu61gDBDEqmiv_AzWGEjgWQO9RJ5cz8ahr685WUduaqKD3dM0GfyY5UlCJN-XCHvNiUraxVOYvlQ_6cnq6QmlqorLJY-IsDNpy28DdMbEpotn9U8e_JkQ3xllQWK9yQiFElXjTeywNEuquM5a5njvWzRJvGXV2o0STfCLNeFvaQn8gVnRADDnFk0GO4CycU_FIVOwUTGOelj7VJEaHiZgsh_i83_jrF3rmdrHQa4_ObGabOotmV4oR-_ikBGChrDKMjI0DCvfbETTFNMe3QdY_J2e-9oWdmMTE5YPyWsIjmHOcMl3NfJMEdiP5G5Q",
+      "video_url": "https://cdn4.telesco.pe/file/90a830aa1a.mp4?token=DsElk44dPdkQWwTUC6iSpabiKMGRiDkcs-sPZU81IVEUgUy7JB8eqLkj2vxIV5js_-RnoZbYsm2BuSJc43Pk0kEKekSpCE6U4D7e3UF3BznMc2yzWu72rcx4dYf3maiEs8zBkIqSE3PmC_PyT5QrH0HOkkQOD3TzcNyu6EWHafwmzQXblYuyVxBEJeubbWsgzq4O7zCumXAZXFcMMutzfLrQcMqbS1BpN9WWgom_WbYvuQ3CM-QMx7ctv_RGecciaJxRwPN4QmznZCRFDLImjrl2ccSbjB37lAcdF26AAj-F02pI7G6JF9LC05hLJmgeTMB9KSF_psw7JWMshdu6HA",
       "tg_url": "https://t.me/PG_Tax/2453",
       "forwarded_from": null
     },
@@ -133,8 +151,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2452-1-8a510ed9469f-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2452-1-8a510ed9469f-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2452-1-f6b883e3fbe7-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2452-1-f6b883e3fbe7-v4.jpg"
         }
       ],
       "video_url": null,
@@ -151,8 +169,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2451-1-344de5fadb79-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2451-1-344de5fadb79-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2451-1-0f63ffb6fabb-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2451-1-0f63ffb6fabb-v4.jpg"
         }
       ],
       "video_url": null,
@@ -186,7 +204,7 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/a9db42e7e0.mp4?token=nAyKh513rDkaV3hyqf0AwuDhQS15xzwBI0S8JugLXAtBnlDDE-lMxQwtPMP4J9K-rgZGNsKJgFos6F-uUMJmV8moSlMae2m02hNtKppS5FxZEndhZCJl4YUhrqd4nWz17klHQHM1Qob1clOSrkyPciWUfL7EgpcScgl36pkzFWG7ox6n68VccBd7gYw8lIFNqNHHptgsJ9ubFJXnhzlPPDZG2GyZaw54BaI-hwv8QYJJSwWm_6ny-VUTPEjW2PUKalY1XHTzCoWmsFainC6-arKIZXOqlHiPnBIEBoS8ciRBVxL7QMKlt8oeodemEk8bboOtLWezDnEmz7A46WA8rQ",
+      "video_url": "https://cdn4.telesco.pe/file/a9db42e7e0.mp4?token=XIo4sq80geekoBlAJ3F1HLrNXwKIAKOvMjVPNC5hVPGb57TxlLdZFnsKfiYRsG1xGvwIXAl0wPY5BIkyyeIwqlTH7OfT0MMtvAOHL2_DLArEoJtc46PK-9J82njYqCxYsKkEsspaZcvVdda_lTervtHeEJAhJm2vOQKrqFTrG7f8sEGIHlmr0xy7BG_Xl8VLFhdxrdqZIyndCSocUcyVnST-7PHO2G6rwvjL51M5AAa3M_6T4QZyAsz1oDquoimgSXCF0VLA0ZK65XU_1yBtszBE5S_qbXnZrczVC_OZOPaGn4eMJJ0VCRsqGQam8zral20_A8chKJp33DgoCdU9cQ",
       "tg_url": "https://t.me/PG_Tax/2449",
       "forwarded_from": null
     },
@@ -254,30 +272,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2445-1-6a8c1b7681c8-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2445-1-6a8c1b7681c8-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2445-1-71c4b0068ef4-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2445-1-71c4b0068ef4-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/PG_Tax/2445",
-      "forwarded_from": null
-    },
-    {
-      "id": 2444,
-      "date": "2026-02-05T07:48:19+00:00",
-      "text": "✍️ Нормативное регулирование\n \n🔴Совет Федерации одобрил закон, направленный на совершенствование предоставления налоговых льгот и стимулирование инвестиционной активности новых резидентов преференциальных налоговых режимов, которые получат такой статус после 1 апреля 2026 г. \nПредусмотрено:\n- ограничение величины предоставляемых налоговых льгот объёмом осуществленных капвложений и расходов на НИОКР;\n- для сохранения льгот организациям необходимо будет подтверждать выполнение контролируемых показателей соглашений и своевременно сдавать бухгалтерскую отчетность;\n- в течение 3-х лет с момента получения статуса к резиденту не будут применяться предусмотренные законом ограничения;  \n- субъекты РФ наделяются полномочиями по установлению перечня контролируемых показателей соглашения и допустимых пределов отклонений их фактических от установленных плановых значений, а также правом индексировать размер капвложений резидентов на коэффициент-дефлятор.\n\n 📣 Подробно о законопроекте после принятия его ГД мы писали здесь.\n \n🔴В России стоит закрепить на постоянной основе НПД (налог на профессиональный доход) — с такой инициативой выступил руководитель объединения самозанятых России Иван Литвинов. \n\n⚙️ Практика\n \n🔴Около половины стоматологических клиник в России работают нелегально или с нарушениями закона, следует из исследования Общественной потребительской инициативы (ОПИ), проведенного на основе данных ФНС, Росздравнадзора и системы маркировки лекарственных средств. \nВ топ-10 регионов с самым большим числом таких нарушений вошли Санкт-Петербург (80%), Москва (78,5%), Свердловская (72%) и Челябинская (67,2%) области, Татарстан (65,4%), Омская (62,2%), Воронежская (61,4%), Нижегородская (59%), Новосибирская (59%) и Самарская (54,4%) области.\n \n🔴На круглом столе УФНС по Москве и ОПОРА РОССИИ обсудили изменения в УСН-2026.\nРассмотрены вопросы: \n- новые обязанности для тех, кто будет платить НДС,\n- что делать, если доход превысил 20 млн руб., в т.ч. в течение 2026 г.,\n- если бизнесмен по ошибке или добровольно выставит контрагенту счет-фактуру с выделенной суммой НДС, это влечет обязанность начислить и уплатить налог в бюджет, а также сдать соответствующую декларацию.\n \n ⛓️‍💥 Уголовное преследование\n \nМогут ли налоговые преступления стать преступлениями без срока давности? \nВ «Ведомостях» мнение Леонида Кравчинского, партнера «Пепеляев Групп» по законопроекту Минфина России о приостановлении срока давности на время рассрочки или отсрочки уплаты «криминообразующей» налоговой задолженности.\n\n🏢 Сроки давности и иные практические вопросы рассрочки (отсрочки) уплаты налогов и налоговой задолженности обсудим на рабочей группе ТПП России 19 февраля, следите за анонсами.\n\n#главные_налоговые_новости",
-      "text_html": "✍️ Нормативное регулирование<br> <br>🔴Совет Федерации <a href=\"https://minfin.gov.ru/ru/press-center/?id_4=40182-dlya_novykh_rezidentov_prefrezhimov_usovershenstvovany_pravila_predostavleniya_nalogovykh_lgot%22%20%5Co%20%22https://minfin.gov.ru/ru/press-center/?id_4=40182-dlya_novykh_rezidentov_prefrezhimov_usovershenstvovany_pravila_predostavleniya_nalogovykh_lgot\" target=\"_blank\" rel=\"noopener noreferrer\">одобрил</a> закон, направленный на совершенствование предоставления налоговых льгот и стимулирование инвестиционной активности новых резидентов преференциальных налоговых режимов, которые получат такой статус после 1 апреля 2026 г. <br>Предусмотрено:<br>- ограничение величины предоставляемых налоговых льгот объёмом осуществленных капвложений и расходов на НИОКР;<br>- для сохранения льгот организациям необходимо будет подтверждать выполнение контролируемых показателей соглашений и своевременно сдавать бухгалтерскую отчетность;<br>- в течение 3-х лет с момента получения статуса к резиденту не будут применяться предусмотренные законом ограничения;  <br>- субъекты РФ наделяются полномочиями по установлению перечня контролируемых показателей соглашения и допустимых пределов отклонений их фактических от установленных плановых значений, а также правом индексировать размер капвложений резидентов на коэффициент-дефлятор.<br><br> 📣 Подробно о законопроекте после принятия его ГД мы писали <a href=\"https://t.me/PG_Tax/2433\" target=\"_blank\" rel=\"noopener noreferrer\">здесь.</a><br> <br>🔴В России стоит закрепить на постоянной основе НПД (налог на профессиональный доход) — с такой инициативой <a href=\"https://iz.ru/2037487/2026-02-05/v-rossii-predlozhili-sdelat-postoiannym-nalogovyi-rezhim-dlia-samozaniatykh%22%20%5Co%20%22https://iz.ru/2037487/2026-02-05/v-rossii-predlozhili-sdelat-postoiannym-nalogovyi-rezhim-dlia-samozaniatykh\" target=\"_blank\" rel=\"noopener noreferrer\">выступил</a> руководитель объединения самозанятых России Иван Литвинов. <br><br>⚙️ Практика<br> <br>🔴Около половины стоматологических клиник в России <a href=\"https://www.forbes.ru/healthcare/554774-pocti-45-stomatologij-v-rossii-okazalis-nelegal-nymi-ili-narusausimi-zakon?%22%20%5Co%20%22https://www.forbes.ru/healthcare/554774-pocti-45-stomatologij-v-rossii-okazalis-nelegal-nymi-ili-narusausimi-zakon?\" target=\"_blank\" rel=\"noopener noreferrer\">работают</a> нелегально или с нарушениями закона, следует из исследования Общественной потребительской инициативы (ОПИ), проведенного на основе данных ФНС, Росздравнадзора и системы маркировки лекарственных средств. <br>В топ-10 регионов с самым большим числом таких нарушений вошли Санкт-Петербург (80%), Москва (78,5%), Свердловская (72%) и Челябинская (67,2%) области, Татарстан (65,4%), Омская (62,2%), Воронежская (61,4%), Нижегородская (59%), Новосибирская (59%) и Самарская (54,4%) области.<br> <br>🔴На круглом столе УФНС по Москве и ОПОРА РОССИИ <a href=\"https://www.nalog.gov.ru/rn77/news/activities_fts/16600036/%22%20%5Co%20%22https://www.nalog.gov.ru/rn77/news/activities_fts/16600036/\" target=\"_blank\" rel=\"noopener noreferrer\">обсудили</a> изменения в УСН-2026.<br>Рассмотрены вопросы: <br>- новые обязанности для тех, кто будет платить НДС,<br>- что делать, если доход превысил 20 млн руб., в т.ч. в течение 2026 г.,<br>- если бизнесмен по ошибке или добровольно выставит контрагенту счет-фактуру с выделенной суммой НДС, это влечет обязанность начислить и уплатить налог в бюджет, а также сдать соответствующую декларацию.<br> <br> ⛓️‍💥 Уголовное преследование<br> <br>Могут ли налоговые преступления стать преступлениями без срока давности? <br>В <a href=\"https://www.vedomosti.ru/opinion/columns/2026/02/05/1174116-tsena-nalogovoi-otsrochki\" target=\"_blank\" rel=\"noopener noreferrer\">«Ведомостях»</a> мнение <a href=\"https://www.pgplaw.ru/to-get-the-team/leonid-kravchinskiy/\" target=\"_blank\" rel=\"noopener noreferrer\">Леонида Кравчинского,</a> партнера «Пепеляев Групп» по законопроекту Минфина России о приостановлении срока давности на время рассрочки или отсрочки уплаты «криминообразующей» налоговой задолженности.<br><br>🏢 Сроки давности и иные практические вопросы рассрочки (отсрочки) уплаты налогов и налоговой задолженности обсудим на рабочей группе ТПП России 19 февраля, следите за анонсами.<br><br>#главные_налоговые_новости",
-      "views": 1440,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2444-1-81096a4dbc0f-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2444-1-81096a4dbc0f-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2444",
       "forwarded_from": null
     }
   ]
