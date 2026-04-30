@@ -1,0 +1,29 @@
+{
+  "generated_at": "2026-04-30T10:30:12.471202+00:00",
+  "pagination": {
+    "page": 12,
+    "page_size": 16,
+    "total_posts": 177,
+    "total_pages": 12
+  },
+  "posts": [
+    {
+      "id": 2429,
+      "date": "2026-01-30T11:00:12+00:00",
+      "text": null,
+      "text_html": null,
+      "views": 1570,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2429-1-172371494f63-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2429-1-172371494f63-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/PG_Tax/2429",
+      "forwarded_from": null
+    }
+  ]
+}
