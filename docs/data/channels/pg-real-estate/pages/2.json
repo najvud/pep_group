@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T17:27:27.167506+00:00",
+  "generated_at": "2026-05-01T06:47:00.728044+00:00",
   "pagination": {
     "page": 2,
     "page_size": 16,
@@ -17,12 +17,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-real-estate/media/posts/thumbs/216-1-71084c6108fa-v4.jpg",
-          "full_url": "data/channels/pg-real-estate/media/posts/216-1-71084c6108fa-v4.jpg"
+          "thumb_url": "data/channels/pg-real-estate/media/posts/thumbs/216-1-6429d5f17a9c-v4.jpg",
+          "full_url": "data/channels/pg-real-estate/media/posts/216-1-6429d5f17a9c-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-real-estate/media/posts/thumbs/216-2-2939d0426ca5-v4.jpg",
-          "full_url": "data/channels/pg-real-estate/media/posts/216-2-2939d0426ca5-v4.jpg"
+          "thumb_url": "data/channels/pg-real-estate/media/posts/thumbs/216-2-a1a2cb5a3454-v4.jpg",
+          "full_url": "data/channels/pg-real-estate/media/posts/216-2-a1a2cb5a3454-v4.jpg"
         }
       ],
       "video_url": null,
