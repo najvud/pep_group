@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T10:15:10.428755+00:00",
+  "generated_at": "2026-05-01T17:13:09.319690+00:00",
   "pagination": {
     "page": 3,
     "page_size": 16,
@@ -17,8 +17,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2590-1-c82e0b557b85-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2590-1-c82e0b557b85-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2590-1-4ae95802e5bd-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2590-1-4ae95802e5bd-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2589-1-e325eb3f3f23-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2589-1-e325eb3f3f23-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2589-1-be269e76a950-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2589-1-be269e76a950-v4.jpg"
         }
       ],
       "video_url": null,
@@ -53,8 +53,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2588-1-63bc29d424f0-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2588-1-63bc29d424f0-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2588-1-3bfa60961ec6-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2588-1-3bfa60961ec6-v4.jpg"
         }
       ],
       "video_url": null,
@@ -71,8 +71,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2587-1-5ddd6a98775f-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2587-1-5ddd6a98775f-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2587-1-0de00dcd07c5-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2587-1-0de00dcd07c5-v4.jpg"
         }
       ],
       "video_url": null,
@@ -84,13 +84,13 @@
       "date": "2026-04-10T07:38:21+00:00",
       "text": "✍️ Нормативное регулирование\n \nПравительство РФ одобрило для внесения в Госдуму поправки в НК РФ (во исполнение Постановления КС РФ 2025 г. № 41-П), устанавливающие, что, если законодательство изменилось после заключения договора и стороны не предусмотрели в нем условия об урегулировании таких ситуаций либо не изменили цену договора, а покупатель не может принять НДС к вычету, то поставщик исчисляет сумму налога расчетным методом, исходя из стоимости товаров (работ, услуг, имущественных прав), указанных в договоре.\n \n«Ожидаем рассмотрение Думой законопроекта о предварительных обеспечительных мерах, направленного на повышение качества работы с долгом», – подчеркнул министр финансов России Антон Силуанов на заседании коллегии ФНС России. \n\nРечь о законопроекте (№ 47595-8), которым устанавливается порядок наложения таких мер применительно к имуществу организации или ИП после составления акта камеральной проверки или после вынесения решения о проведении выездной проверки.\n \n⚙️ Практика\n \n🔴Министр финансов России Антон Силуанов заявил о необходимости внедрения ИИ для повышения эффективности налогового администрирования: \n\n«Искусственный интеллект внедряется, в первую очередь, в систему налогового администрирования. Запланировано его использование для повышения эффективности работы с налоговой задолженностью, контроля в форме налогового мониторинга. В конечном счете все решения остаются за сотрудниками, но обработка большого массива данных может проводиться с помощью искусственного интеллекта».\n \n🔴ФНС России запустила тестирование системы подтверждения ожидания поставки товара (СПОТ) - с 6 апреля по 29 июня 2026 г. в добровольном для бизнеса режиме. Бизнес будет самостоятельно определять способ взаимодействия по СПОТ: либо через специальный сервис, либо через оператора электронного документооборота. При наличии замечаний и предложений импортеры смогут сообщить о них в Управление камерального контроля ФНС. При необходимости Служба инициирует рабочее совещание для их обсуждения и «дальнейшего упрощения работы» бизнеса со СПОТ. Текущее тестирование пока не предполагает участия ФТС России.\n \n🔴Россия - одна из тех юрисдикций, где превалируют безналичные расчеты: более 80%. Поэтому ФНС России продолжает совершенствовать систему онлайн-ККТ –сообщил глава Службы Даниил Егоров. Так, в кассовые чеки будут включены идентификаторы банковских трансакций. Это позволит автоматически сопоставлять их между собой и находить транзакции, по которым кассовые чеки отсутствуют. \nДля цифровых платформам создается система идентификации продавцов, где данные их деклараций сравниваются с информацией по продажам. Служба развивает модель рисков, на основе которой платформы предупреждают своих клиентов об их наличии.\n \n🔴Автоматический обмен информацией между ЦБ РФ и ФНС России позволит обеспечить прозрачность до 99% безналичных платежей. \n\n«Важно наладить информационный обмен…, чтобы налоговые органы своевременно получали информацию о физлицах, по которым сработали критерии рисков ведения предпринимательской деятельности» - заявил глава Минфина России Антон Силуанов. \n\nОтправной точкой контроля станет превышение лимита неподтвержденного источниками дохода в размере 2,4 млн руб. в год. Такой лимит соответствует максимальному доходу физлица для самозанятого и предельного размера дохода физлица для применения минимальной ставки НДФЛ.\n\n#главные_налоговые_новости\n\n🏢 Подписаться на рассылки | MAX | Приложение PG",
       "text_html": "✍️ Нормативное регулирование<br> <br>Правительство РФ <a href=\"https://minfin.gov.ru/ru/press-center/?id_4=40283-utochnyaetsya_poryadok_rascheta_nds_esli_obyazannost_ego_uplaty_voznikaet_posle_zaklyucheniya_dogovora\" target=\"_blank\" rel=\"noopener noreferrer\">одобрило</a> для внесения в Госдуму <a href=\"https://www.vedomosti.ru/economics/articles/2026/04/07/1188358-minfin-predlozhil-reshenie-problemi-perenosa-v-tsenu-dogovora-izmenivsheisya-stavki-nds\" target=\"_blank\" rel=\"noopener noreferrer\">поправки</a> в НК РФ (во исполнение Постановления КС РФ 2025 г. № 41-П), устанавливающие, что, если законодательство изменилось после заключения договора и стороны не предусмотрели в нем условия об урегулировании таких ситуаций либо не изменили цену договора, а покупатель не может принять НДС к вычету, то поставщик исчисляет сумму налога расчетным методом, исходя из стоимости товаров (работ, услуг, имущественных прав), указанных в договоре.<br> <br>«Ожидаем рассмотрение Думой законопроекта о предварительных обеспечительных мерах, направленного на повышение качества работы с долгом», – <a href=\"https://minfin.gov.ru/ru/press-center/?id_4=40282-anton_siluanov_vazhno_obespechit_stabilnost_nalogovykh_postuplenii_ne_sozdavaya_izbytochnogo_administrativnogo_davleniya_na_biznes\" target=\"_blank\" rel=\"noopener noreferrer\">подчеркнул</a> министр финансов России Антон Силуанов на заседании коллегии ФНС России. <br><br>Речь о законопроекте (№ <a href=\"https://sozd.duma.gov.ru/bill/47595-8\" target=\"_blank\" rel=\"noopener noreferrer\">47595-8</a>), которым устанавливается порядок наложения таких мер применительно к имуществу организации или ИП после составления акта камеральной проверки или после вынесения решения о проведении выездной проверки.<br> <br>⚙️ Практика<br> <br>🔴Министр финансов России Антон <a href=\"https://tass.ru/ekonomika/27056447\" target=\"_blank\" rel=\"noopener noreferrer\">Силуанов</a> <a href=\"https://tass.ru/ekonomika/27056447\" target=\"_blank\" rel=\"noopener noreferrer\">заявил</a> о необходимости внедрения ИИ для повышения эффективности налогового администрирования: <br><br>«Искусственный интеллект <a href=\"https://minfin.gov.ru/ru/press-center/?id_4=40282-anton_siluanov_vazhno_obespechit_stabilnost_nalogovykh_postuplenii_ne_sozdavaya_izbytochnogo_administrativnogo_davleniya_na_biznes\" target=\"_blank\" rel=\"noopener noreferrer\">внедряется</a>, в первую очередь, в систему налогового администрирования. Запланировано его использование для повышения эффективности работы с налоговой задолженностью, контроля в форме налогового мониторинга. В конечном счете все решения остаются за сотрудниками, но обработка большого массива данных может проводиться с помощью искусственного интеллекта».<br> <br>🔴ФНС России <a href=\"https://www.vedomosti.ru/economics/articles/2026/04/10/1189288-fns-nachala-testirovanie-sobstvennih-servisov-dlya-spot\" target=\"_blank\" rel=\"noopener noreferrer\">запустила</a> тестирование системы подтверждения ожидания поставки товара (СПОТ) - с 6 апреля по 29 июня 2026 г. в добровольном для бизнеса режиме. Бизнес будет самостоятельно определять способ взаимодействия по СПОТ: либо через специальный сервис, либо через оператора электронного документооборота. При наличии замечаний и предложений импортеры смогут сообщить о них в Управление камерального контроля ФНС. При необходимости Служба инициирует рабочее совещание для их обсуждения и «дальнейшего упрощения работы» бизнеса со СПОТ. Текущее тестирование пока не предполагает участия ФТС России.<br> <br>🔴Россия - одна из тех юрисдикций, где превалируют безналичные расчеты: более 80%. Поэтому ФНС России продолжает совершенствовать систему онлайн-ККТ <a href=\"https://www.nalog.gov.ru/rn77/news/activities_fts/16616365/\" target=\"_blank\" rel=\"noopener noreferrer\">–сообщил</a> глава Службы Даниил Егоров. Так, в кассовые чеки будут включены идентификаторы банковских трансакций. Это позволит автоматически сопоставлять их между собой и <a href=\"https://minfin.gov.ru/ru/press-center/?id_4=40282-anton_siluanov_vazhno_obespechit_stabilnost_nalogovykh_postuplenii_ne_sozdavaya_izbytochnogo_administrativnogo_davleniya_na_biznes\" target=\"_blank\" rel=\"noopener noreferrer\">находить</a> транзакции, по которым кассовые чеки отсутствуют. <br>Для цифровых платформам создается система идентификации продавцов, где данные их деклараций сравниваются с информацией по продажам. Служба развивает модель рисков, на основе которой платформы предупреждают своих клиентов об их наличии.<br> <br>🔴Автоматический обмен информацией между ЦБ РФ и ФНС России <a href=\"https://tass.ru/ekonomika/27056459\" target=\"_blank\" rel=\"noopener noreferrer\">позволит</a> обеспечить прозрачность до 99% безналичных платежей. <br><br>«Важно наладить информационный обмен…, чтобы налоговые органы своевременно получали информацию о физлицах, по которым сработали критерии рисков ведения предпринимательской деятельности» - заявил глава Минфина России Антон Силуанов. <br><br>Отправной точкой контроля станет превышение лимита неподтвержденного источниками дохода в размере 2,4 млн руб. в год. Такой лимит соответствует максимальному доходу физлица для самозанятого и предельного размера дохода физлица для применения минимальной ставки НДФЛ.<br><br>#главные_налоговые_новости<br><br>🏢 <a href=\"https://www.pgplaw.ru/subscribe/\" target=\"_blank\" rel=\"noopener noreferrer\">Подписаться на рассылки |</a> <a href=\"https://max.ru/id7707301372_biz\" target=\"_blank\" rel=\"noopener noreferrer\">MAX |</a> <a href=\"https://t.me/pgp_official/1769\" target=\"_blank\" rel=\"noopener noreferrer\">Приложение PG</a>",
-      "views": 981,
+      "views": 982,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2586-1-3f1838b43d41-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2586-1-3f1838b43d41-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2586-1-cf156f6a3cd9-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2586-1-cf156f6a3cd9-v4.jpg"
         }
       ],
       "video_url": null,
@@ -102,7 +102,7 @@
       "date": "2026-04-09T10:53:09+00:00",
       "text": "⚡️ Экспертная дискуссия с онлайн-трансляцией по теме «Налогообложение операций с криптовалютами» по Постановлению КС РФ от 20.01.2026 № 2-П\n\nУже через час в рамках XXIII Международной научно-практической конференции «Налоговое право в решениях Конституционного Суда Российской Федерации» пройдет онлайн-дискуссия, посвященная вопросам налогообложения операций с криптовалютами.\n\nНачало трансляции в 15:00.\n\nПОДКЛЮЧИТЬСЯ К ТРАНСЛЯЦИИ 👉",
       "text_html": "⚡️ Экспертная дискуссия с онлайн-трансляцией по теме «Налогообложение операций с криптовалютами» по Постановлению КС РФ от 20.01.2026 № 2-П<br><br>Уже через час в рамках <a href=\"https://zakon.ru/blog/2026/03/03/nalogovoe_pravo_v_resheniyah_konstitucionnogo_suda_rf_ezhegodnaya_nauchno-prakticheskaya_konferenciy\" target=\"_blank\" rel=\"noopener noreferrer\">XXIII Международной научно-практической конференции</a> «Налоговое право в решениях Конституционного Суда Российской Федерации» пройдет онлайн-дискуссия, посвященная вопросам налогообложения операций с криптовалютами.<br><br>Начало трансляции в 15:00.<br><br><a href=\"https://vkvideo.ru/video-86776361_456239430\" target=\"_blank\" rel=\"noopener noreferrer\">ПОДКЛЮЧИТЬСЯ К ТРАНСЛЯЦИИ</a> 👉",
-      "views": 969,
+      "views": 970,
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
@@ -115,11 +115,11 @@
       "date": "2026-04-09T10:53:02+00:00",
       "text": null,
       "text_html": null,
-      "views": 853,
+      "views": 854,
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/dd103fdd36.mp4?token=U6GXygk06XB8P6AljsJppFkmZHfzln9-AVrrnXXneZWzVIBLOvw1y1yhki63723GeHifDTUUreo7tlBe7mIQsoztAFtfq_ft4h9jL4FUC8l3VuSozmnozG_8JaOart1xaYwcLEPkCKtYqoz3tP7mPTI0eREe9GvyWWbmYkV2X7pq9WYSF-a-Q1UG-S8TqSiTRq3tRWotJ_5hdk4g0wRROhFmeJ90-F0LSAGCgsbLILPMz68GSFsFKniMaxzchNcsecBlCLup9o_iBvIkCEzIUmNaUfmPsqHeVLbJuexB_ACUdlt2dyj231ZWgoDW10qC1xWIkvGFPM8NF-TROiK8BA",
+      "video_url": "https://cdn4.telesco.pe/file/dd103fdd36.mp4?token=PpurEz2_3sLUf2KIgxWdMBcE8PEwwZp8zKtYrugoJ6cUDRKjZZY5nOj6NsUC5vCuFrPLUSrf8ve4lk8NGa2S-sClRyma-fBeEiv_TQfHz_hWX8LzUOF8v2CAWt7us9p2bZMpKmPWlBSX_UYT4FVHwIp3WHoVx2IjakxbaXOOi4XTDVJP7Qe8rxQUgQMCrY04mxbWD1RFYSeFgG7lFFCV9edpIzRz9GwlH0RkFCpJpwkCx8RxHv2h5pdqO-VNTQKogjLTfShaD_ckcm4uLFL2Cb_FfyF9WxkXrfbrRF_79K0pNCQxmLVYjQoAAQFzcTW425X77eGYH-eF2Ttl3LCbcw",
       "tg_url": "https://t.me/PG_Tax/2584",
       "forwarded_from": null
     },
@@ -128,13 +128,13 @@
       "date": "2026-04-09T10:46:14+00:00",
       "text": null,
       "text_html": null,
-      "views": 855,
+      "views": 856,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2583-1-0f3fc52d38b8-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2583-1-0f3fc52d38b8-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2583-1-af6f259274f8-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2583-1-af6f259274f8-v4.jpg"
         }
       ],
       "video_url": null,
@@ -151,8 +151,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2582-1-841c2c80b7c3-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2582-1-841c2c80b7c3-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2582-1-158e502103cb-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2582-1-158e502103cb-v4.jpg"
         }
       ],
       "video_url": null,
@@ -169,8 +169,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2581-1-310feb44628a-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2581-1-310feb44628a-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2581-1-42638551fab5-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2581-1-42638551fab5-v4.jpg"
         }
       ],
       "video_url": null,
@@ -187,8 +187,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2580-1-269e33418b51-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2580-1-269e33418b51-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2580-1-8fe50f270bba-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2580-1-8fe50f270bba-v4.jpg"
         }
       ],
       "video_url": null,
@@ -218,8 +218,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2578-1-26d7c21b7aaa-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2578-1-26d7c21b7aaa-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2578-1-dc5464306dc8-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2578-1-dc5464306dc8-v4.jpg"
         }
       ],
       "video_url": null,
@@ -236,8 +236,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2577-1-28398d034ef6-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2577-1-28398d034ef6-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2577-1-0a6da8c1d5eb-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2577-1-0a6da8c1d5eb-v4.jpg"
         }
       ],
       "video_url": null,
@@ -254,8 +254,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2576-1-ebca6a09d0dc-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2576-1-ebca6a09d0dc-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2576-1-735422181145-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2576-1-735422181145-v4.jpg"
         }
       ],
       "video_url": null,
