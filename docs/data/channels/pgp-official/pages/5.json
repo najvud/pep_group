@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-01T19:39:14.234321+00:00",
+  "generated_at": "2026-05-02T08:07:25.608658+00:00",
   "pagination": {
     "page": 5,
     "page_size": 16,
-    "total_posts": 72,
+    "total_posts": 71,
     "total_pages": 5
   },
   "posts": [
@@ -172,28 +172,6 @@
       ],
       "video_url": null,
       "tg_url": "https://t.me/pgp_official/1704",
-      "forwarded_from": null
-    },
-    {
-      "id": 1702,
-      "date": "2026-02-02T07:02:29+00:00",
-      "text": "🔍 Входим в рабочий ритм с рубрикой #PG_Грамотность\n\nВнесение корректив или внесение коррективов. Как правильно?\n\n☝️ Читайте в карточке правописания!",
-      "text_html": "🔍 Входим в рабочий ритм с рубрикой #PG_Грамотность<br><br>Внесение корректив или внесение коррективов. Как правильно?<br><br>☝️ Читайте в карточке правописания!",
-      "views": 1420,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1702-1-b9a141b0ac83-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1702-1-b9a141b0ac83-v4.jpg"
-        },
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1702-2-3b23a342e45b-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1702-2-3b23a342e45b-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/pgp_official/1702",
       "forwarded_from": null
     }
   ]
