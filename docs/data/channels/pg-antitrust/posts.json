@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T11:08:35.527480+00:00",
+  "generated_at": "2026-05-02T13:17:54.720422+00:00",
   "site": {
     "channel_username": "PgAntitrust",
     "channel_title": "PG Antitrust | Антимонопольное право",
@@ -19,7 +19,7 @@
   "pagination": {
     "page": 1,
     "page_size": 16,
-    "total_posts": 40,
+    "total_posts": 39,
     "total_pages": 3
   },
   "posts": [
