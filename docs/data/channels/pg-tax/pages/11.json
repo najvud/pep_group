@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-03T13:48:05.001965+00:00",
+  "generated_at": "2026-05-03T14:37:53.545952+00:00",
   "pagination": {
     "page": 11,
     "page_size": 16,
-    "total_posts": 169,
+    "total_posts": 167,
     "total_pages": 11
   },
   "posts": [
@@ -126,37 +126,6 @@
       ],
       "video_url": null,
       "tg_url": "https://t.me/PG_Tax/2440",
-      "forwarded_from": null
-    },
-    {
-      "id": 2439,
-      "date": "2026-02-03T14:00:12+00:00",
-      "text": null,
-      "text_html": null,
-      "views": 1470,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/4501c9f0fd.mp4?token=oUZPBwF0RgU_Pahi3OfQSs0Kf24HSHjicCNjK7N1E2KLIzCrHjcz_nCMUUs3f31qQ_AhxKMHA_O3pnf8NPz_K2f4ye3T3wG3LVZbvHEEUUr70wvnw1LJxLqsb1CvGfupkX0_CSwpbWiXbuEsikhMY_xBXsn19jlhwVcCQa63HCESyBYq4ahfg7OaaIY3ahEw3qBnpgbSd1OhdEiaJd6PFkvbzRzlyUd8zc7jiUIFnqM_8FXGtbD63nIVpMdPunvTFaHJgoSi46k6xgfZWjvLjrhlDJaGWEbUxQlBcThwyLa2zpMgXPgOhCJg3A-AlpZUBjSGlobksVbiR3lrZECPyQ",
-      "tg_url": "https://t.me/PG_Tax/2439",
-      "forwarded_from": null
-    },
-    {
-      "id": 2438,
-      "date": "2026-02-03T14:00:04+00:00",
-      "text": null,
-      "text_html": null,
-      "views": 1550,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2438-1-5785a287668b-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2438-1-5785a287668b-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2438",
       "forwarded_from": null
     }
   ]
