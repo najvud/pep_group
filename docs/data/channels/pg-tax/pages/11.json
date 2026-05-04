@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-04T06:51:19.628967+00:00",
+  "generated_at": "2026-05-04T09:10:39.599410+00:00",
   "pagination": {
     "page": 11,
     "page_size": 16,
@@ -7,6 +7,24 @@
     "total_pages": 11
   },
   "posts": [
+    {
+      "id": 2447,
+      "date": "2026-02-06T11:00:07+00:00",
+      "text": "🏛 Заседание рабочей группы ТПП РФ \n\n19 февраля в ТПП России обсудим изменения налогового регулирования и их влияние на бизнес.\n\nКлючевые темы заседания\n\n🔴отсрочка (рассрочка) уплаты налогов и налоговой задолженности: практика, риски, предложения законодателю;\n🔴вопросы влияния налоговых отсрочек на сроки давности уголовного преследования;\n🔴специнвестрежимы и налоговые инвестиционные льготы;\n🔴перенос показателей между налоговыми периодами (ст. 54 НК РФ).\n\n➖➖\n\n🏢 Среди спикеров ПГ: партнер «Пепеляев Групп» Леонид Кравчинский, руководитель Сибирского офиса Егор Лысенко, советник Пётр Попов.\n\n🔴Дата и время: 19 февраля 2026 года, в 14:00\n🔴Место: Москва, ул. Ильинка, д. 6/1с1, ТПП России, зал Библиотека\n\n➡️ Регистрация на заседание",
+      "text_html": "🏛 Заседание рабочей группы ТПП РФ <br><br>19 февраля в ТПП России обсудим изменения налогового регулирования и их влияние на бизнес.<br><br>Ключевые темы заседания<br><br>🔴отсрочка (рассрочка) уплаты налогов и налоговой задолженности: практика, риски, предложения законодателю;<br>🔴вопросы влияния налоговых отсрочек на сроки давности уголовного преследования;<br>🔴специнвестрежимы и налоговые инвестиционные льготы;<br>🔴перенос показателей между налоговыми периодами (ст. 54 НК РФ).<br><br>➖➖<br><br>🏢 Среди спикеров ПГ: партнер «Пепеляев Групп» Леонид Кравчинский, руководитель Сибирского офиса Егор Лысенко, советник Пётр Попов.<br><br>🔴Дата и время: 19 февраля 2026 года, в 14:00<br>🔴Место: Москва, ул. Ильинка, д. 6/1с1, ТПП России, зал Библиотека<br><br>➡️ <a href=\"https://www.pgplaw.ru/zasedanie-tpp/\" target=\"_blank\" rel=\"noopener noreferrer\">Регистрация на заседание</a>",
+      "views": 1630,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2447-1-1b46ff9da022-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2447-1-1b46ff9da022-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/PG_Tax/2447",
+      "forwarded_from": null
+    },
     {
       "id": 2446,
       "date": "2026-02-06T07:16:16+00:00",
@@ -17,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2446-1-369188afd1e5-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2446-1-369188afd1e5-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2446-1-ae384f43c089-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2446-1-ae384f43c089-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +53,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2445-1-657317fd0177-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2445-1-657317fd0177-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2445-1-909b73bd3218-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2445-1-909b73bd3218-v4.jpg"
         }
       ],
       "video_url": null,
@@ -53,8 +71,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2444-1-96455f00491a-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2444-1-96455f00491a-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2444-1-803b980ca0a1-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2444-1-803b980ca0a1-v4.jpg"
         }
       ],
       "video_url": null,
@@ -70,7 +88,7 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/63e6f20f02.mp4?token=G1l60B0o1SzSc0TMkguMY_8NrKxErVDHQoGoznkMz-kjSDWmE2kKwf_D2SFSBfhZPLeqSZ3hG9RJXRfF5QOxWPepY7q2A4Ot7lHLJgOSLcEolpaTkphWUHO1TDHcHPpoZTNykBQOSR6awwjdvizsF5ZoNWSBgIA8ntV65fEnsqK69v2GZqbxDrwH5wGC9Niz8oSkkPhf9kCK5bGOfyi-rH9WPOvNLBVcZtzDxGn8i5L1_k7ftCzNf6uNV1icwxSPfb6vzOP8WOH1juIteCMbi2j4vuZKUDZX-Dw5TJiGwKqu_H-FNP5WZTJ1bUZ7I80B8bXueg9eCGNMHK1FG1BvZw",
+      "video_url": "https://cdn4.telesco.pe/file/63e6f20f02.mp4?token=P71kyXmbVlVu3xP3Pa03ac1O2oH7foww5pDVptfsqeM5azk7Io_-9RQGsfzz0MC05tFs8nDZ_r95mjacdnwGGrkALUc8msA1BTISdghxKIONIFi_WScbwVX67qv9qDdTM2H5K4nxzrBcVBd33PneL0zaRNfz_-nCteNhSul9w1I2qEkX5HohCQULW73ufbyPorM5qHDLGYnSegMyZQqOosyc3YEJgFING4uJO6VUhTcq-B1NYsqWXkl-xRgGJylFpF20XsHnhWjwOTiNBvaf--pxxLZ3cI_Irm_9TvLGU1ZACJZqdy_44cTGvHm9PALFqnCOhhOHEFFnhg1jvyfFEg",
       "tg_url": "https://t.me/PG_Tax/2443",
       "forwarded_from": null
     },
@@ -84,8 +102,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2442-1-02edb4325abb-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2442-1-02edb4325abb-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2442-1-24b3728adb53-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2442-1-24b3728adb53-v4.jpg"
         }
       ],
       "video_url": null,
@@ -102,30 +120,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2441-1-1bea57e7e975-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2441-1-1bea57e7e975-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2441-1-bd365b3119cd-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2441-1-bd365b3119cd-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/PG_Tax/2441",
-      "forwarded_from": null
-    },
-    {
-      "id": 2440,
-      "date": "2026-02-04T07:15:02+00:00",
-      "text": "✍️ Нормотворчество\n \nМинфин России рассмотрит возможность корректировки НДД от добычи углеводородного сырья. \n«Сейчас компании вышли с инициативой, учитывая усложнение добычи, рост издержек, больше в структуре добычи у нас доля трудноизвлекаемых запасов», – объяснил свое поручение вице-премьер Александр Новак.\n \n⚙️ Практика\n \nК началу февраля Реестр недобросовестных работодателей разросся до 656 лиц, большинство — это ИП, но есть и организации.\n🛑 Критерием для включения работодателя в реестр выступает нарушение трудового законодательства, связанное с нелегальной занятостью.\n \n⚖️ Судебные дела\n \nКонституционный Суд РФ разрешил гражданам регистрироваться по месту пребывания в нежилых помещениях, включая апартаменты гостиничного типа (Постановление от 03.02.2026 № 4-П). \n🛑 При этом Суд подчеркнул, что его выводы не распространяются на регистрацию по месту жительства и не отменяют более высокие ставки налога на имущество и коммунальные платежи для владельцев нежилых помещений.\n \n#главные_налоговые_новости",
-      "text_html": "✍️ Нормотворчество<br> <br>Минфин России <a href=\"https://www.vedomosti.ru/economics/news/2026/02/03/1173653-novak-poruchil\" target=\"_blank\" rel=\"noopener noreferrer\">рассмотрит</a> возможность корректировки НДД от добычи углеводородного сырья. <br>«Сейчас компании вышли с инициативой, учитывая усложнение добычи, рост издержек, больше в структуре добычи у нас доля трудноизвлекаемых запасов», – объяснил свое поручение вице-премьер Александр Новак.<br> <br>⚙️ Практика<br> <br>К началу февраля Реестр недобросовестных работодателей <a href=\"https://iz.ru/2036547/olga-anaseva/serym-sero-svyshe-650-kompanij-popali-v-reestr-nedobrosovestnyh-rabotodatelej\" target=\"_blank\" rel=\"noopener noreferrer\">разросся</a> до 656 лиц, большинство — это ИП, но есть и организации.<br>🛑 Критерием для включения работодателя в реестр выступает нарушение трудового законодательства, связанное с нелегальной занятостью.<br> <br>⚖️ Судебные дела<br> <br>Конституционный Суд РФ <a href=\"https://iz.ru/2036382/2026-02-03/konstitutcionnyi-sud-rossii-razreshil-registratciiu-v-apartamentakh\" target=\"_blank\" rel=\"noopener noreferrer\">разрешил</a> гражданам регистрироваться по месту пребывания в нежилых помещениях, включая апартаменты гостиничного типа (Постановление от 03.02.2026 № <a href=\"https://www.ksrf.ru/doc/KSRFDecision885638.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">4-П</a>). <br>🛑 При этом Суд подчеркнул, что его выводы не распространяются на регистрацию по месту жительства и не отменяют более высокие ставки налога на имущество и коммунальные платежи для владельцев нежилых помещений.<br> <br>#главные_налоговые_новости",
-      "views": 1510,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2440-1-4a92d2aad969-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2440-1-4a92d2aad969-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2440",
       "forwarded_from": null
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-04T06:51:19.627589+00:00",
+  "generated_at": "2026-05-04T09:10:39.598046+00:00",
   "pagination": {
     "page": 10,
     "page_size": 16,
@@ -7,6 +7,24 @@
     "total_pages": 11
   },
   "posts": [
+    {
+      "id": 2463,
+      "date": "2026-02-12T11:07:55+00:00",
+      "text": "⚡️ Постановление КС РФ о судебной защите криптоактивов\n\nКонституционный суд принял Постановление от 20 января 2026 г. № 2-П, которым:\n\n     ⚖️ признал соответствующими Конституции РФ положения ч. 6 ст. 14 ФЗ «О цифровых финансовых активах, цифровой валюте и о внесении изменений в отдельные законодательные акты РФ», которыми установлена обязанность уведомления ФНС России о фактах обладания цифровой валютой как условие судебной защиты прав;\n\n     ⚖️ указал, что для цифровой валюты, полученной вне связи с майнингом, действующее правовое регулирование не может считаться препятствующим судебной защите имущественных требований, если в суд представлены сведения, подтверждающие её получение и использование на допустимых законом основаниях;\n\n     ⚖️ предписал законодателю внести необходимые изменения в правовое регулирование.\n\n🏢 Постановление КС РФ комментирует управляющий партнер «Пепеляев Групп» Сергей Пепеляев.\n\nКС РФ в Постановлении от 20 января 2026 г. № 2-П необоснованно поддержал законодателя, который ранее ограничил права владельцев криптоактивов.\n\nЗакон о цифровых финансовых активах, принятый в России в 2020 году, установил, что судебная защита предоставляется только тем лицам, совершающим операции и сделки с цифровой валютой, которые в установленном порядке проинформировали о них налоговые органы. \n\n📣 Этой нормой по сути введен налоговый ценз для возможности реализовать одно из фундаментальных гражданских прав. \n\nИ хотя КС РФ удовлетворил жалобу по другим основаниям, признав несовершенство правового регулирования виртуальных активов, перспектива дальнейшего развития идеи ограничить право на судебную защиту чрезвычайно тревожит.\n\n#изменения_законодательства\n#комментарий_эксперта",
+      "text_html": "⚡️ Постановление КС РФ о судебной защите криптоактивов<br><br>Конституционный суд принял <a href=\"https://www.ksrf.ru/doc/KSRFDecision882237.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Постановление от 20 января 2026 г. № 2-П,</a> которым:<br><br>     ⚖️ признал соответствующими Конституции РФ положения ч. 6 ст. 14 ФЗ «О цифровых финансовых активах, цифровой валюте и о внесении изменений в отдельные законодательные акты РФ», которыми установлена обязанность уведомления ФНС России о фактах обладания цифровой валютой как условие судебной защиты прав;<br><br>     ⚖️ указал, что для цифровой валюты, полученной вне связи с майнингом, действующее правовое регулирование не может считаться препятствующим судебной защите имущественных требований, если в суд представлены сведения, подтверждающие её получение и использование на допустимых законом основаниях;<br><br>     ⚖️ предписал законодателю внести необходимые изменения в правовое регулирование.<br><br>🏢 Постановление КС РФ комментирует управляющий партнер «Пепеляев Групп» <a href=\"https://www.pgplaw.ru/to-get-the-team/sergey-pepeliaev/\" target=\"_blank\" rel=\"noopener noreferrer\">Сергей Пепеляев.</a><br><br>КС РФ в Постановлении от 20 января 2026 г. № 2-П <a href=\"https://www.forbes.ru/mneniya/555157-fiskal-nyj-bar-er-kak-ks-istolkoval-pravo-sobstvennosti-na-cifrovye-aktivy\" target=\"_blank\" rel=\"noopener noreferrer\">необоснованно поддержал законодателя,</a> который ранее ограничил права владельцев криптоактивов.<br><br>Закон о цифровых финансовых активах, принятый в России в 2020 году, установил, что судебная защита предоставляется только тем лицам, совершающим операции и сделки с цифровой валютой, которые в установленном порядке проинформировали о них налоговые органы. <br><br>📣 Этой нормой по сути введен налоговый ценз для возможности реализовать одно из фундаментальных гражданских прав. <br><br>И хотя КС РФ удовлетворил жалобу по другим основаниям, признав несовершенство правового регулирования виртуальных активов, перспектива дальнейшего развития идеи ограничить право на судебную защиту чрезвычайно тревожит.<br><br>#изменения_законодательства<br>#комментарий_эксперта",
+      "views": 1540,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2463-1-2d20a59a536a-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2463-1-2d20a59a536a-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/PG_Tax/2463",
+      "forwarded_from": null
+    },
     {
       "id": 2462,
       "date": "2026-02-12T07:55:49+00:00",
@@ -17,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2462-1-effcf9cba9b7-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2462-1-effcf9cba9b7-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2462-1-14f659a98934-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2462-1-14f659a98934-v4.jpg"
         }
       ],
       "video_url": null,
@@ -34,7 +52,7 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/bddec2768e.mp4?token=ZuCikEMX2fmJlwISDBwxJnlOYO45J7YvBuK57LCDgpsDPkYBL874OV60UhQ-8EGAsmNKVIxMbk-x8plS_He5SfgsIQZpaQqp_LrlUXasuUr_XQo8LtNQ-seZ9tBY-ywDJu6-psonZaiQWkllbZO98n5hYw2A85JpTNtyOmefaBpX1EfThc0NZ4BD_T-RvFlfy-OS_0qOUL66fdX7AyerE8qhiEzOSMysvA-8ALE0mtLqZNNkvqDvs3k3e8bGUt-853Lyemg5S5lgrp5DHZrGaoQlC13FLOZyoRUS-YWI64q55K1ftc-eSTFbDDQhBdJp9ghkmSg9-oJoLoOGaPy7KQ",
+      "video_url": "https://cdn4.telesco.pe/file/bddec2768e.mp4?token=Sd6j5dEv7PLkXtPb11_Sp3MazzKBy0PUZHo5Cl10oguS3uO3pX1P5Q-AkT0GB2cPTYje0vOAykYZ2QQ4Dzq9C_9fRXepiDctpuc1AUVbS11TT61JdRmGUgrolDyhDnBTXqdJc02kqAdfYj-n4UzPZLrpzdm-3VP9Z5GVcZlSOXFUkkgk31DBAL2Qv1l72Eo0FhK-3pJyzGAZBdMN3mmymup9zo7LhdEOfZSecg-Z9-WEkoJTsoOm0jA_-FBJuBMZvZ4fHyYBo4FJXACT0sG78tj937ItzWG_Rt1P_mUpXYJkpARb0NcKm9I7PL_hQnjyRSjoBsZyrn3eMYE7LLyxKA",
       "tg_url": "https://t.me/PG_Tax/2461",
       "forwarded_from": null
     },
@@ -48,8 +66,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2460-1-11756a4ed73c-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2460-1-11756a4ed73c-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2460-1-bf3477ffd652-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2460-1-bf3477ffd652-v4.jpg"
         }
       ],
       "video_url": null,
@@ -66,8 +84,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2459-1-b215d989ee4e-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2459-1-b215d989ee4e-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2459-1-6ba37db1d5b5-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2459-1-6ba37db1d5b5-v4.jpg"
         }
       ],
       "video_url": null,
@@ -84,8 +102,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2458-1-6441d3052605-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2458-1-6441d3052605-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2458-1-eecd036e9e8f-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2458-1-eecd036e9e8f-v4.jpg"
         }
       ],
       "video_url": null,
@@ -101,7 +119,7 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/9c54e3d766.mp4?token=psHD14SwLdpu_2WpxQr-x46JQfTOJvOqIakQOkOUmgSY1-JNXGtsXhRtm4271LcsiIO3BEMqpFYezB97sXwis4vBH1YaUq1UkgtZER3EcwtD8lnwxrlqUshet0A51Rf5GCxJLu4pMtgM22OwZPcIxYxiCcoJMTHy5BJqwg8Zq7F6X5z2UZjufeDNQZhc5nYMzSW0tot7g-FUIZYRHl4M_BLnedhlgrSg4Dd1hKBihR-KjZz--K2zq6zdZyTLXWGS16pTrmQyI32JD0jjJ3Gd6rON2XV-S2NoUjYqRCC9y-Rhh4qNjA5_rbXPZcHFzWMkvlMBcMazMTrIyBEA0kp1ng",
+      "video_url": "https://cdn4.telesco.pe/file/9c54e3d766.mp4?token=NtfUyaZQmJ8WZOTepAJ8Pt1nW_4xSC960ZA0PoodQPSEaA3ltfVjUaW9iPs4Qu7XD08iu4KuVof-WWv0Iis2tL6dwbzYS3R1VDIiSmcysw7tku6XNJ1zHeUjIIUr0ejO_KqOocW1O2Lk87kmfXrAv1XPEPo1r9Y47EyXBvO-BONDfehAiRNSEA1mGXbAs9HrRzev5VzK4A2FNEQd1fcPDqp2A0JDbnKmo0spp4dCZZbLGLMBKltXmTpmQMPRg7ibYVeLn2Z9OglRTDdcS8XDrW0ch5D0WjQYaLni4KVdcAxdumQfgq_rNx8KT8aAwT141sGSZ0hsva4opL8I4hcchg",
       "tg_url": "https://t.me/PG_Tax/2457",
       "forwarded_from": null
     },
@@ -115,8 +133,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2456-1-216c4ab15431-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2456-1-216c4ab15431-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2456-1-58717c38613c-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2456-1-58717c38613c-v4.jpg"
         }
       ],
       "video_url": null,
@@ -133,8 +151,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2455-1-a7872d6c233b-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2455-1-a7872d6c233b-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2455-1-38cfa279b14b-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2455-1-38cfa279b14b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -151,8 +169,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2454-1-9ace5185006e-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2454-1-9ace5185006e-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2454-1-a583b374fac5-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2454-1-a583b374fac5-v4.jpg"
         }
       ],
       "video_url": null,
@@ -168,7 +186,7 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/90a830aa1a.mp4?token=a9aF2xVY59IdJyHWh1gKap3S0f0nZt5NaPC8XGFhzeogRU7yMPvks4iZ-8zbAiwATYp_ZJif8YgKKomQkPjQEULqIm56hAE-a69Dc_bzIruWE1t_3zKqbszfEW0fZkRCdldIsRil-oxSZthzu5lCS6UEZb8PcV07beNJD3qKcu2mTzdPyccaCL348CVK78M9cJoiuwicSdsSjEphB-pyRoO8HLYeYNw-_irJFoMU-nVJLhrT6JEWTREnBmAOY68MVkHDKwZsCbXbonxNRe0MIJIVhxRkwLlLgJkP2efEi9OCypPw3iGAknkLB5nQ28qQObsGw8tAZf6OwQKsdJ7A_w",
+      "video_url": "https://cdn4.telesco.pe/file/90a830aa1a.mp4?token=qE1t-KTG5TVLA--zug39FyvBbdyYOSMHgLvb0TQ5DuaLnLucViPGyrs7c1iVmktG97nFfkbMellDWtSjIQ0502TucrK6j6VkpSmuuaw4KIFsAnah_H0YBqCHVgtqFeXs9fL-MRFPcsY5WzwvScFnghzfm1bu3dn1Pd8exd-EQoUM7a5kDXMji7EfAMGIo3SbH743bl5MXBjhA4pyZV2XMqtzrXjH7pJFeekVlc1-3SC-EoHXyJwT-FewRZheYZZfnSqdhPGbXZABk9rf7EFRWd43iqLDeQhM-XnyRv2Rm3utMq24FDxaWYHa8VlcRP6_j2E5-tPrrM2CkOojFTnF_Q",
       "tg_url": "https://t.me/PG_Tax/2453",
       "forwarded_from": null
     },
@@ -177,13 +195,13 @@
       "date": "2026-02-09T13:33:53+00:00",
       "text": null,
       "text_html": null,
-      "views": 1440,
+      "views": 1450,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2452-1-6a94f0dc04d7-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2452-1-6a94f0dc04d7-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2452-1-d46132616c29-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2452-1-d46132616c29-v4.jpg"
         }
       ],
       "video_url": null,
@@ -200,8 +218,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2451-1-461da59e028f-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2451-1-461da59e028f-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2451-1-6d204965d889-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2451-1-6d204965d889-v4.jpg"
         }
       ],
       "video_url": null,
@@ -218,8 +236,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2450-1-8544051a462c-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2450-1-8544051a462c-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2450-1-0e45fe3a1b88-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2450-1-0e45fe3a1b88-v4.jpg"
         }
       ],
       "video_url": null,
@@ -235,7 +253,7 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/a9db42e7e0.mp4?token=Vgsf-Us5nyLosUhpVSBtD8ra0jVsEJWoowlfsiwGe5hYd79XFeVup3KIPgrcjfNNkEssugthkuVauw5io2UTcqzfTAS6qMslOSx-otwaUe4BAz13xo9QmhgyUO6ybzYbrvLTPozgopqMKNqXmj7JMtf2pDS3CupeUqrTVGA0TacfwfDTJGAIMOzTaMKNk2OE0CdAVVehEfDtP1zSUaaQ46B7sqhDoMH1W2ZRoksxeaPydk4CvqtajdQxRF4ZMczzyq6V_elC8fDAPQcZHSdOGP2lKdqzj7EpgI5yea3rC8qj7lYwA1k3ePlR5RREhDdSwv3To6QyzrAIEWhpITZkug",
+      "video_url": "https://cdn4.telesco.pe/file/a9db42e7e0.mp4?token=os_RCCITZ6B2kjnwy7e1LkASm-oRDdgM7ZlhslGjwyoDJP-pYFdsBH0kvysN9nErpgge5e_EQ2T0IvpN-dFGZq2roUEYbkh0O1FZAObakep3WAIINAwPmrCe0_2Cm6qBzzl49toN4FT8oI1udDNGjZMgQoQKHTa0reCunHe6Cm0BRlZX_fReXueFOIyZsPsUrRiC2Vzo35Oh3evfZ-ba1m1G3ML_hzHl4BHXVis603lN6Gz7CV0Q3vORlweaN7JYBX4eCjlOobQEFaCf6EJR7S-11pa7lsdg4U-Ape80IFA43EZ3-QFzTnZ5zAoC0Gnvhmzyheqa7FKT6OBiFrQIPQ",
       "tg_url": "https://t.me/PG_Tax/2449",
       "forwarded_from": null
     },
@@ -249,30 +267,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2448-1-1672c39f04c5-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2448-1-1672c39f04c5-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2448-1-99c18991024b-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2448-1-99c18991024b-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/PG_Tax/2448",
-      "forwarded_from": null
-    },
-    {
-      "id": 2447,
-      "date": "2026-02-06T11:00:07+00:00",
-      "text": "🏛 Заседание рабочей группы ТПП РФ \n\n19 февраля в ТПП России обсудим изменения налогового регулирования и их влияние на бизнес.\n\nКлючевые темы заседания\n\n🔴отсрочка (рассрочка) уплаты налогов и налоговой задолженности: практика, риски, предложения законодателю;\n🔴вопросы влияния налоговых отсрочек на сроки давности уголовного преследования;\n🔴специнвестрежимы и налоговые инвестиционные льготы;\n🔴перенос показателей между налоговыми периодами (ст. 54 НК РФ).\n\n➖➖\n\n🏢 Среди спикеров ПГ: партнер «Пепеляев Групп» Леонид Кравчинский, руководитель Сибирского офиса Егор Лысенко, советник Пётр Попов.\n\n🔴Дата и время: 19 февраля 2026 года, в 14:00\n🔴Место: Москва, ул. Ильинка, д. 6/1с1, ТПП России, зал Библиотека\n\n➡️ Регистрация на заседание",
-      "text_html": "🏛 Заседание рабочей группы ТПП РФ <br><br>19 февраля в ТПП России обсудим изменения налогового регулирования и их влияние на бизнес.<br><br>Ключевые темы заседания<br><br>🔴отсрочка (рассрочка) уплаты налогов и налоговой задолженности: практика, риски, предложения законодателю;<br>🔴вопросы влияния налоговых отсрочек на сроки давности уголовного преследования;<br>🔴специнвестрежимы и налоговые инвестиционные льготы;<br>🔴перенос показателей между налоговыми периодами (ст. 54 НК РФ).<br><br>➖➖<br><br>🏢 Среди спикеров ПГ: партнер «Пепеляев Групп» Леонид Кравчинский, руководитель Сибирского офиса Егор Лысенко, советник Пётр Попов.<br><br>🔴Дата и время: 19 февраля 2026 года, в 14:00<br>🔴Место: Москва, ул. Ильинка, д. 6/1с1, ТПП России, зал Библиотека<br><br>➡️ <a href=\"https://www.pgplaw.ru/zasedanie-tpp/\" target=\"_blank\" rel=\"noopener noreferrer\">Регистрация на заседание</a>",
-      "views": 1630,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2447-1-3818eecfb7ea-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2447-1-3818eecfb7ea-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2447",
       "forwarded_from": null
     }
   ]
