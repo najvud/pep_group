@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-05-04T21:16:49.705983+00:00",
+  "generated_at": "2026-05-05T08:27:32.649335+00:00",
   "pagination": {
     "page": 5,
     "page_size": 16,
-    "total_posts": 71,
+    "total_posts": 72,
     "total_pages": 5
   },
   "posts": [
+    {
+      "id": 1720,
+      "date": "2026-02-12T13:04:27+00:00",
+      "text": "🤝 В рамках стратегического партнерства подкомитета «Деловой России» по закрытым паевым инвестиционным фондам (ЗПИФ) промышленности и «Пепеляев Групп» разработан проект поправок в нормативные акты Банка России, включая Положение № 590-П. \n\n🔘Предлагаемые изменения нацелены на снятие регуляторных барьеров при реализации промышленных проектов через инструменты ЗПИФ, в том числе в синергии с институтами развития. \n\nОжидается, что реализация инициативы повысит практическую применимость механизма для участников рынка и поддержит запуск капиталоемких проектов импортозамещения и технологического обновления.\n\n💬 «Мы рассчитываем, что предлагаемые поправки будут способствовать практическому запуску новых механизмов финансирования проектов реального сектора», – комментирует партнер «Пепеляев Групп» Лидия Горшкова.\n\n👉Читать новость на сайте.",
+      "text_html": "🤝 В рамках стратегического партнерства подкомитета «Деловой России» по закрытым паевым инвестиционным фондам (ЗПИФ) промышленности и «Пепеляев Групп» разработан проект поправок в нормативные акты Банка России, включая Положение № 590-П. <br><br>🔘Предлагаемые изменения нацелены на снятие регуляторных барьеров при реализации промышленных проектов через инструменты ЗПИФ, в том числе в синергии с институтами развития. <br><br>Ожидается, что реализация инициативы повысит практическую применимость механизма для участников рынка и поддержит запуск капиталоемких проектов импортозамещения и технологического обновления.<br><br>💬 «Мы рассчитываем, что предлагаемые поправки будут способствовать практическому запуску новых механизмов финансирования проектов реального сектора», – комментирует партнер «Пепеляев Групп» Лидия Горшкова.<br><br>👉Читать новость <a href=\"https://www.pgplaw.ru/news/press-releases/pepelyaev-grupp-sovmestno-s-delovoy-rossiey-podgotovila-proekt-popravok-k-aktam-banka-rossii-dlya-ra/\" target=\"_blank\" rel=\"noopener noreferrer\">на сайте</a>.",
+      "views": 1490,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1720-1-3d336ffb681f-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1720-1-3d336ffb681f-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/pgp_official/1720",
+      "forwarded_from": null
+    },
     {
       "id": 1719,
       "date": "2026-02-12T10:03:27+00:00",
@@ -17,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1719-1-70fb0496a758-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1719-1-70fb0496a758-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1719-1-f94739130f87-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1719-1-f94739130f87-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +53,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1718-1-4600b2c485a1-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1718-1-4600b2c485a1-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1718-1-b9c653fa14a3-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1718-1-b9c653fa14a3-v4.jpg"
         }
       ],
       "video_url": null,
@@ -53,8 +71,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1717-1-ac9a30712d61-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1717-1-ac9a30712d61-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1717-1-ea5f0297dfe7-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1717-1-ea5f0297dfe7-v4.jpg"
         }
       ],
       "video_url": null,
@@ -71,8 +89,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1716-1-d6b19275e304-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1716-1-d6b19275e304-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1716-1-0975677d9557-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1716-1-0975677d9557-v4.jpg"
         }
       ],
       "video_url": null,
@@ -89,44 +107,44 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-1-6983d7f7b967-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1706-1-6983d7f7b967-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-1-f3d62c43d9d9-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1706-1-f3d62c43d9d9-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-2-447e0f012c08-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1706-2-447e0f012c08-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-2-18672f87e80c-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1706-2-18672f87e80c-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-3-8be4b909c498-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1706-3-8be4b909c498-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-3-0d0a3af33569-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1706-3-0d0a3af33569-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-4-0cd90ead8fd7-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1706-4-0cd90ead8fd7-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-4-0df573e30a60-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1706-4-0df573e30a60-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-5-84af391c750b-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1706-5-84af391c750b-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-5-690956bedf0d-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1706-5-690956bedf0d-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-6-5ccf05f701f4-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1706-6-5ccf05f701f4-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-6-10aedf2796dc-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1706-6-10aedf2796dc-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-7-e138a1b5651f-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1706-7-e138a1b5651f-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-7-44eba095811d-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1706-7-44eba095811d-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-8-f5890319887e-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1706-8-f5890319887e-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-8-0de7c4177a20-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1706-8-0de7c4177a20-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-9-7dad69fccb31-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1706-9-7dad69fccb31-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-9-85873e59a6c5-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1706-9-85873e59a6c5-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-10-463a78f1efd4-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1706-10-463a78f1efd4-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-10-1624582a7ab4-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1706-10-1624582a7ab4-v4.jpg"
         }
       ],
       "video_url": null,
@@ -166,8 +184,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1704-1-34da1423c0cd-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1704-1-34da1423c0cd-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1704-1-65d53e766222-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1704-1-65d53e766222-v4.jpg"
         }
       ],
       "video_url": null,
