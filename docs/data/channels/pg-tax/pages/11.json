@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-06T09:44:13.058768+00:00",
+  "generated_at": "2026-05-06T11:32:36.368360+00:00",
   "pagination": {
     "page": 11,
     "page_size": 16,
@@ -7,6 +7,19 @@
     "total_pages": 11
   },
   "posts": [
+    {
+      "id": 2453,
+      "date": "2026-02-09T13:35:29+00:00",
+      "text": null,
+      "text_html": null,
+      "views": 1400,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [],
+      "video_url": "https://cdn4.telesco.pe/file/90a830aa1a.mp4?token=pxev9tU7F-RESMzB_NFcyq3Ii0jmZ0Rjs319YTlzo-s9VT3kP8FNv5F2-5cvIRQxVlnXkgxuIOVCz1BqyUy3jt4Qv-UPgZy1FXOM8HqDExOep6oyVQsM01KrQ-WyLZXcWfcWTUPyQidBsVDkm9toWToO71U5C_UoYJvSibwAbFYtgBaKKYw3jUSvroHYwrxuCVxrd5IhwHWXW2u-9-0XKPuICSeA09cIe6yV82KAfTYx0f0fkTi6QkqnJw6nqJE8rA_KsZF5_oYlKMhHz8FzoGZDzUujK26FkctaRQWVVm5iw7kDQZIuys6Zt1hM2480B9Q9D_SzGDHMRvKNAcLeyg",
+      "tg_url": "https://t.me/PG_Tax/2453",
+      "forwarded_from": null
+    },
     {
       "id": 2452,
       "date": "2026-02-09T13:33:53+00:00",
@@ -17,8 +30,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2452-1-4ecdc1da72dd-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2452-1-4ecdc1da72dd-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2452-1-69237c543c6d-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2452-1-69237c543c6d-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +48,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2451-1-bb5af4db51df-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2451-1-bb5af4db51df-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2451-1-b46a3ee4c06e-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2451-1-b46a3ee4c06e-v4.jpg"
         }
       ],
       "video_url": null,
@@ -70,7 +83,7 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/a9db42e7e0.mp4?token=iDgsDGUS-6OKDdWu11mNM7SaYF6WY-RwAI3kgSn3nMF2zX2mH0pwU579hivlubNWLj3AwaMPYcnF2DBz2uXHib23Xi8oo-vy7XsJLMMCPpjPEkDj9gVE3edKaIYsebpwf8YNjyksT8dPg-7Kq4-4CQWUSzVhYx3KAwa2nJI04FcrkPeYQnG0G_lnn33U0pvD9HRkGhgTzSmpDUwExnOZccJE5CC2iuH0mTA3EJU_re6TmID_z8_bJ9kBx_lD_LGtQlkg4d6zJI6MSyny22lsaXeRRD-30kWlHeKleUebmacL0qBeRoH4HTGAfCz66d9C97HVZHopx54ZydEJST1AYg",
+      "video_url": "https://cdn4.telesco.pe/file/a9db42e7e0.mp4?token=rCvPaSelD3YdGPwhuVnkbsZbr46mbGSErwBWCUzM15wTIyicMilmFNN7gPaSOch3QkEB9A-aAXJinbVDzwUEC9S5kDsxDzQLssC5KR1Fk8peX-JIOUkhvITZmvOijj-Xeq_8bI2vM39r4nRUXjg3ki6MfLzjLF16DHJW3KKIVs1oUT1Heb16DOePllXR7X80ytukPcD0lDu7LzR9Vw4X9AWjB-D4_RpPvww4AJ3m0J85NXc5U0jj5sLty32x1n-IS8gSucVxk-m77xGPe9xCC2M1VNfKfJOOVVMdR2CNtG17VrAxcPCQUnJtiBZnPnLPr1DTDpU104rPDLKKWIaD-g",
       "tg_url": "https://t.me/PG_Tax/2449",
       "forwarded_from": null
     },
@@ -84,30 +97,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2448-1-acff61bbba59-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2448-1-acff61bbba59-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2448-1-7b6bdd67606f-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2448-1-7b6bdd67606f-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/PG_Tax/2448",
-      "forwarded_from": null
-    },
-    {
-      "id": 2447,
-      "date": "2026-02-06T11:00:07+00:00",
-      "text": "🏛 Заседание рабочей группы ТПП РФ \n\n19 февраля в ТПП России обсудим изменения налогового регулирования и их влияние на бизнес.\n\nКлючевые темы заседания\n\n🔴отсрочка (рассрочка) уплаты налогов и налоговой задолженности: практика, риски, предложения законодателю;\n🔴вопросы влияния налоговых отсрочек на сроки давности уголовного преследования;\n🔴специнвестрежимы и налоговые инвестиционные льготы;\n🔴перенос показателей между налоговыми периодами (ст. 54 НК РФ).\n\n➖➖\n\n🏢 Среди спикеров ПГ: партнер «Пепеляев Групп» Леонид Кравчинский, руководитель Сибирского офиса Егор Лысенко, советник Пётр Попов.\n\n🔴Дата и время: 19 февраля 2026 года, в 14:00\n🔴Место: Москва, ул. Ильинка, д. 6/1с1, ТПП России, зал Библиотека\n\n➡️ Регистрация на заседание",
-      "text_html": "🏛 Заседание рабочей группы ТПП РФ <br><br>19 февраля в ТПП России обсудим изменения налогового регулирования и их влияние на бизнес.<br><br>Ключевые темы заседания<br><br>🔴отсрочка (рассрочка) уплаты налогов и налоговой задолженности: практика, риски, предложения законодателю;<br>🔴вопросы влияния налоговых отсрочек на сроки давности уголовного преследования;<br>🔴специнвестрежимы и налоговые инвестиционные льготы;<br>🔴перенос показателей между налоговыми периодами (ст. 54 НК РФ).<br><br>➖➖<br><br>🏢 Среди спикеров ПГ: партнер «Пепеляев Групп» Леонид Кравчинский, руководитель Сибирского офиса Егор Лысенко, советник Пётр Попов.<br><br>🔴Дата и время: 19 февраля 2026 года, в 14:00<br>🔴Место: Москва, ул. Ильинка, д. 6/1с1, ТПП России, зал Библиотека<br><br>➡️ <a href=\"https://www.pgplaw.ru/zasedanie-tpp/\" target=\"_blank\" rel=\"noopener noreferrer\">Регистрация на заседание</a>",
-      "views": 1630,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2447-1-bf70df63b174-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2447-1-bf70df63b174-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2447",
       "forwarded_from": null
     }
   ]

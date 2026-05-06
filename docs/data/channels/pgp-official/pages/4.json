@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-06T09:43:09.510823+00:00",
+  "generated_at": "2026-05-06T11:31:13.788665+00:00",
   "pagination": {
     "page": 4,
     "page_size": 16,
@@ -7,6 +7,24 @@
     "total_pages": 5
   },
   "posts": [
+    {
+      "id": 1752,
+      "date": "2026-03-06T09:29:58+00:00",
+      "text": "⚡️ФАС считает нарушением размещение рекламы в Telegram\n\nВчера Президент публично высказался против использования Telegram на фронте.\n\nИ тем же вечером разошлась новость о возбуждении дела против ИП о нарушении закона о рекламе из-за рекламы в своем телеграм-канале. ФАС, комментируя новость, свою позицию подтвердила – реклама в ограниченных ресурсах незаконна.\n\nКакие последствия:\n🟡ответственность несут рекламодатель и рекламораспространитель.\n🟡штрафы до 500 тыс. руб. для юридических лиц, до 20 тыс. руб. для ИП.\n🟡штраф назначается за каждый факт размещения рекламы.\n\nКакие правовые перспективы: в отличие от всем известных запрещенных сетей в отношении Telegram нет пока никаких официальных решений об ограничении.\n\nНо эта история формально преодолимая в ближайшие сроки с учетом подтвержденной воли государства на блокировку Telegram. \n\nПо опыту других ограниченных сетей, если рынок перестроится в пользу иных мест для рекламы, то серьезной волны штрафов ожидать не стоит. Либо к уже имеющимся 3% нужно закладывать еще до 500 тыс. руб. штрафа.\nНо и это краткосрочная тактика – ответственность может оперативно быть ужесточена.\n\nКакие рекомендации:\n🟡не делать резких движений и не прекращать делать отчисления с запущенных рекламный кампаний.\n🟡для будущих размещений учитывать риск ответственности и соизмерять его с рекламным бюджетом.\n🟡искать другие альтернативные места.",
+      "text_html": "<a href=\"https://rg.ru/2026/03/05/v-fas-zaiavili-o-tom-chto-razmeshchenie-reklamy-v-telegram-narushaet-zakon.html?utm_referrer=https%3A%2F%2Fduckduckgo.com%2F\" target=\"_blank\" rel=\"noopener noreferrer\">⚡️ФАС считает нарушением размещение рекламы в Telegram</a><br><br>Вчера Президент публично <a href=\"http://kremlin.ru/events/president/news/79265\" target=\"_blank\" rel=\"noopener noreferrer\">высказался</a> против использования Telegram на фронте.<br><br>И тем же вечером разошлась новость о возбуждении дела против ИП о нарушении закона о рекламе из-за рекламы в своем телеграм-канале. ФАС, комментируя новость, свою позицию подтвердила – реклама в ограниченных ресурсах незаконна.<br><br>Какие последствия:<br>🟡ответственность несут рекламодатель и рекламораспространитель.<br>🟡штрафы до 500 тыс. руб. для юридических лиц, до 20 тыс. руб. для ИП.<br>🟡штраф назначается за каждый факт размещения рекламы.<br><br>Какие правовые перспективы: в отличие от всем известных запрещенных сетей в отношении Telegram нет пока никаких официальных решений об ограничении.<br><br>Но эта история формально преодолимая в ближайшие сроки с учетом подтвержденной воли государства на блокировку Telegram. <br><br>По опыту других ограниченных сетей, если рынок перестроится в пользу иных мест для рекламы, то серьезной волны штрафов ожидать не стоит. Либо к уже имеющимся 3% нужно закладывать еще до 500 тыс. руб. штрафа.<br>Но и это краткосрочная тактика – ответственность может оперативно быть ужесточена.<br><br>Какие рекомендации:<br>🟡не делать резких движений и не прекращать делать отчисления с запущенных рекламный кампаний.<br>🟡для будущих размещений учитывать риск ответственности и соизмерять его с рекламным бюджетом.<br>🟡искать другие альтернативные места.",
+      "views": 1220,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [],
+      "video_url": null,
+      "tg_url": "https://t.me/pgp_official/1752",
+      "forwarded_from": {
+        "source_url": "https://t.me/PgAntitrust/1359",
+        "channel_url": "https://t.me/s/PgAntitrust",
+        "channel_username": "PgAntitrust",
+        "channel_title": "PG Antitrust | Антимонопольное право"
+      }
+    },
     {
       "id": 1751,
       "date": "2026-03-05T10:34:06+00:00",
@@ -17,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1751-1-047d85ea4203-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1751-1-047d85ea4203-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1751-1-fa911729bdbf-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1751-1-fa911729bdbf-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +53,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1750-1-e7c96135474c-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1750-1-e7c96135474c-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1750-1-21a73d44b68f-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1750-1-21a73d44b68f-v4.jpg"
         }
       ],
       "video_url": null,
@@ -58,24 +76,24 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1745-1-777830e38b8b-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1745-1-777830e38b8b-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1745-1-32587e7b38b1-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1745-1-32587e7b38b1-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1745-2-c0b5d895eda7-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1745-2-c0b5d895eda7-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1745-2-5f1782bf56c9-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1745-2-5f1782bf56c9-v4.jpg"
         },
         {
           "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1745-3-fd3ef916d568-v4.jpg",
           "full_url": "data/channels/pgp-official/media/posts/1745-3-fd3ef916d568-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1745-4-f87ff045011f-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1745-4-f87ff045011f-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1745-4-671b5c648667-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1745-4-671b5c648667-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1745-5-495ae5de2487-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1745-5-495ae5de2487-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1745-5-47a57b3a0822-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1745-5-47a57b3a0822-v4.jpg"
         }
       ],
       "video_url": null,
@@ -92,8 +110,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1744-1-83ffc87b609b-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1744-1-83ffc87b609b-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1744-1-a5d792cc5e3c-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1744-1-a5d792cc5e3c-v4.jpg"
         }
       ],
       "video_url": null,
@@ -110,12 +128,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1742-1-c25cb387d0b1-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1742-1-c25cb387d0b1-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1742-1-3a63fd0e6103-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1742-1-3a63fd0e6103-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1742-2-093b44c2b7e2-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1742-2-093b44c2b7e2-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1742-2-fabc51d4c0f0-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1742-2-fabc51d4c0f0-v4.jpg"
         }
       ],
       "video_url": null,
@@ -132,8 +150,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1741-1-025681e83606-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1741-1-025681e83606-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1741-1-980c20c4900e-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1741-1-980c20c4900e-v4.jpg"
         }
       ],
       "video_url": null,
@@ -150,20 +168,20 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1736-1-289e594b6f0d-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1736-1-289e594b6f0d-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1736-1-87842fdaf8b3-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1736-1-87842fdaf8b3-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1736-2-2030162d364c-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1736-2-2030162d364c-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1736-2-777954560f3a-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1736-2-777954560f3a-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1736-3-4f8c4f03ea41-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1736-3-4f8c4f03ea41-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1736-3-09c7209dc779-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1736-3-09c7209dc779-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1736-4-cc979e800c6a-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1736-4-cc979e800c6a-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1736-4-3d72c15446ab-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1736-4-3d72c15446ab-v4.jpg"
         }
       ],
       "video_url": null,
@@ -180,8 +198,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1735-1-9c5b68dd0ba5-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1735-1-9c5b68dd0ba5-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1735-1-1c0e42f9a422-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1735-1-1c0e42f9a422-v4.jpg"
         }
       ],
       "video_url": null,
@@ -216,8 +234,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1733-1-276c9522bae4-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1733-1-276c9522bae4-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1733-1-53fcec4b1d84-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1733-1-53fcec4b1d84-v4.jpg"
         }
       ],
       "video_url": null,
@@ -239,24 +257,24 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1727-1-9d48dbb277d1-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1727-1-9d48dbb277d1-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1727-1-1ac0263d1c1a-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1727-1-1ac0263d1c1a-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1727-2-40e00736c0c9-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1727-2-40e00736c0c9-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1727-2-960692dde11c-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1727-2-960692dde11c-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1727-3-be044c79b736-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1727-3-be044c79b736-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1727-3-8a2f82593b81-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1727-3-8a2f82593b81-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1727-4-cced415c33ba-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1727-4-cced415c33ba-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1727-4-71d3b74e2c3c-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1727-4-71d3b74e2c3c-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1727-5-f5295cc2bdd5-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1727-5-f5295cc2bdd5-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1727-5-1b14b101672b-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1727-5-1b14b101672b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -273,8 +291,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1726-1-9ea1b686f4b3-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1726-1-9ea1b686f4b3-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1726-1-4867a646c2b5-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1726-1-4867a646c2b5-v4.jpg"
         }
       ],
       "video_url": null,
@@ -291,8 +309,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1725-1-3eb6832a23dd-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1725-1-3eb6832a23dd-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1725-1-dc36ba5866da-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1725-1-dc36ba5866da-v4.jpg"
         }
       ],
       "video_url": null,
@@ -309,8 +327,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1724-1-3044718be890-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1724-1-3044718be890-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1724-1-25cec67cbf03-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1724-1-25cec67cbf03-v4.jpg"
         }
       ],
       "video_url": null,
@@ -327,34 +345,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1723-1-399579615e0f-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1723-1-399579615e0f-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1723-1-8ffa7fda8e00-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1723-1-8ffa7fda8e00-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/pgp_official/1723",
-      "forwarded_from": null
-    },
-    {
-      "id": 1721,
-      "date": "2026-02-16T07:04:14+00:00",
-      "text": "🔍 Начинаем рабочую неделю с рубрикой #PG_Грамотность\n\nTelegram-канал или телеграм-канал, Т-канал или ТГ-канал. Как правильно?\n\n☝️ Читайте в карточке правописания!",
-      "text_html": "🔍 Начинаем рабочую неделю с рубрикой #PG_Грамотность<br><br>Telegram-канал или телеграм-канал, Т-канал или ТГ-канал. Как правильно?<br><br>☝️ Читайте в карточке правописания!",
-      "views": 1130,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1721-1-e97e7a2fbe70-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1721-1-e97e7a2fbe70-v4.jpg"
-        },
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1721-2-2b285a0c152e-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1721-2-2b285a0c152e-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/pgp_official/1721",
       "forwarded_from": null
     }
   ]

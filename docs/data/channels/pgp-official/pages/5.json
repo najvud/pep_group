@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-06T09:43:09.512255+00:00",
+  "generated_at": "2026-05-06T11:31:13.790019+00:00",
   "pagination": {
     "page": 5,
     "page_size": 16,
@@ -7,6 +7,28 @@
     "total_pages": 5
   },
   "posts": [
+    {
+      "id": 1721,
+      "date": "2026-02-16T07:04:14+00:00",
+      "text": "🔍 Начинаем рабочую неделю с рубрикой #PG_Грамотность\n\nTelegram-канал или телеграм-канал, Т-канал или ТГ-канал. Как правильно?\n\n☝️ Читайте в карточке правописания!",
+      "text_html": "🔍 Начинаем рабочую неделю с рубрикой #PG_Грамотность<br><br>Telegram-канал или телеграм-канал, Т-канал или ТГ-канал. Как правильно?<br><br>☝️ Читайте в карточке правописания!",
+      "views": 1130,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1721-1-344bd1c95e56-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1721-1-344bd1c95e56-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1721-2-2766f8605aa6-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1721-2-2766f8605aa6-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/pgp_official/1721",
+      "forwarded_from": null
+    },
     {
       "id": 1720,
       "date": "2026-02-12T13:04:27+00:00",
@@ -17,8 +39,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1720-1-93bf0509537e-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1720-1-93bf0509537e-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1720-1-97dcbea0552e-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1720-1-97dcbea0552e-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +57,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1719-1-9f7fab7729fb-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1719-1-9f7fab7729fb-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1719-1-5b523cf3f7be-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1719-1-5b523cf3f7be-v4.jpg"
         }
       ],
       "video_url": null,
@@ -53,8 +75,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1718-1-a618045acc08-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1718-1-a618045acc08-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1718-1-da93c536aad4-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1718-1-da93c536aad4-v4.jpg"
         }
       ],
       "video_url": null,
@@ -71,8 +93,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1717-1-d1380e2bde4d-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1717-1-d1380e2bde4d-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1717-1-04d298341498-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1717-1-04d298341498-v4.jpg"
         }
       ],
       "video_url": null,
@@ -89,8 +111,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1716-1-16846796ea78-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1716-1-16846796ea78-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1716-1-5fb92daae9cb-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1716-1-5fb92daae9cb-v4.jpg"
         }
       ],
       "video_url": null,
@@ -107,44 +129,44 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-1-5e68b2d2521c-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1706-1-5e68b2d2521c-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-1-60947d519f87-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1706-1-60947d519f87-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-2-bc7e8e6101f6-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1706-2-bc7e8e6101f6-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-2-5f2c5d063a73-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1706-2-5f2c5d063a73-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-3-b78a0346804c-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1706-3-b78a0346804c-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-3-a46f12315154-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1706-3-a46f12315154-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-4-3ede40b49abc-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1706-4-3ede40b49abc-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-4-f8807a6f12ab-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1706-4-f8807a6f12ab-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-5-344dad13522a-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1706-5-344dad13522a-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-5-158564bd0768-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1706-5-158564bd0768-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-6-7c1f55045b68-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1706-6-7c1f55045b68-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-6-89e6f537e75a-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1706-6-89e6f537e75a-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-7-eb540e86903a-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1706-7-eb540e86903a-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-7-a0d59c53a90b-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1706-7-a0d59c53a90b-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-8-7f026876ec5d-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1706-8-7f026876ec5d-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-8-689336570e05-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1706-8-689336570e05-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-9-7e24beaa280d-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1706-9-7e24beaa280d-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-9-8d4f95cef324-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1706-9-8d4f95cef324-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-10-2f38ad7666ac-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1706-10-2f38ad7666ac-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1706-10-8e8fb6a70e13-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1706-10-8e8fb6a70e13-v4.jpg"
         }
       ],
       "video_url": null,
@@ -155,24 +177,6 @@
         "channel_username": "PgAntitrust",
         "channel_title": "PG Antitrust | Антимонопольное право"
       }
-    },
-    {
-      "id": 1705,
-      "date": "2026-02-06T10:02:51+00:00",
-      "text": "⚡️ Регистрация в апартаментах\n\nВладельцы апартаментов не могли в них зарегистрироваться по месту пребывания – правила предусматривали регистрацию только для жилья или гостиниц.\n\n🔘 КС РФ принял Постановление, которым разрешена временная регистрация граждан в апартаментах, сходных с квартирами и не входящих в номерной фонд гостиниц или иных средств размещения.\n\n\n❗️ Важно\n\nВажно учитывать Постановление КС РФ при проектировании апартаментов, поскольку акцент сделан на характеристиках, «сходных с квартирой» (изолированность, планировка, мини-кухня, санузел), которые будут проверять для регистрации. \n\nНеобходимо сформировать для каждого объекта и передавать покупателям пакет документов, подтверждающих пригодность здания и конкретного помещения для пребывания граждан (проектная декларация, особенности планировки), – они понадобятся для регистрации.\n\nПолный текст алерта доступен по ссылке 👉\n\nℹ️ Если у вас остались вопросы по данной теме, вы можете связаться с Сергеем Сосновским, партнером «Пепеляев Групп».\n\n#pg_алерты",
-      "text_html": "⚡️ Регистрация в апартаментах<br><br>Владельцы апартаментов не могли в них зарегистрироваться по месту пребывания – правила предусматривали регистрацию только для жилья или гостиниц.<br><br>🔘 КС РФ принял Постановление, которым разрешена временная регистрация граждан в апартаментах, сходных с квартирами и не входящих в номерной фонд гостиниц или иных средств размещения.<br><br><br>❗️ Важно<br><br>Важно учитывать Постановление КС РФ при проектировании апартаментов, поскольку акцент сделан на характеристиках, «сходных с квартирой» (изолированность, планировка, мини-кухня, санузел), которые будут проверять для регистрации. <br><br>Необходимо сформировать для каждого объекта и передавать покупателям пакет документов, подтверждающих пригодность здания и конкретного помещения для пребывания граждан (проектная декларация, особенности планировки), – они понадобятся для регистрации.<br><br>Полный текст алерта доступен <a href=\"https://www.pgplaw.ru/analytics-and-brochures/alerts/registratsiya-v-apartamentakh/\" target=\"_blank\" rel=\"noopener noreferrer\">по ссылке</a> 👉<br><br>ℹ️ Если у вас остались вопросы по данной теме, вы можете связаться с <a href=\"https://www.pgplaw.ru/to-get-the-team/sergey-sosnovskiy/\" target=\"_blank\" rel=\"noopener noreferrer\">Сергеем Сосновским</a>, партнером «Пепеляев Групп».<br><br>#pg_алерты",
-      "views": 3060,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1705-1-6028e97ba408-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1705-1-6028e97ba408-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/pgp_official/1705",
-      "forwarded_from": null
     }
   ]
 }
