@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-05-06T07:28:29.307816+00:00",
+  "generated_at": "2026-05-06T09:45:10.981516+00:00",
   "pagination": {
     "page": 5,
     "page_size": 16,
-    "total_posts": 76,
+    "total_posts": 77,
     "total_pages": 5
   },
   "posts": [
+    {
+      "id": 410,
+      "date": "2026-02-25T06:46:50+00:00",
+      "text": "📝 Единый налоговый счет, предельный срок взыскания налоговой задолженности и требования в банкротстве\n\nЮлия Литовцева, руководитель, Владимир Гоппе, специалист практики банкротства и антикризисной защиты бизнеса, о порядке исчисления сроков взыскания налоговой задолженности на примере постановления АC Московского округа.\n\n🔎 Немного теории:\n\nС 01.01.2023 в связи с Законом № 263-ФЗ осуществлен переход налогоплательщиков на единый налоговый счет (ЕНС). Сальдо ЕНС - это разница между размером обязательств налогоплательщика перед бюджетом и уплаченными средствами. Сальдо на 01.01.2023 (введение ЕНС) формируется на основании данных о сформированной к этой дате задолженности. \n\n🌟 При этом, в сумму неисполненных на 01.01.2023 обязательств не включаются недоимки, пени, штрафы, проценты, начисленные в соответствии с НК РФ, если по ним на 31.12.2022 истек срок взыскания.\n\n📌 ВАЖНО: выставление после 01.01.2023 новых требований в отношении тех требований, по которым пропущен срок давности, не влечет восстанавление течения пресекательных сроков давности.\n\n🪄 Ситуация:\n\nФНС России предъявила в банкротстве требования. \nВ качестве их подтверждения налоговый орган представил справку о размере задолженности, требования об уплате налога и решение о взыскании задолженности.\n\n⚖️ Позиция судов:\n\nСуд первой инстанции отказал во включении требований с учетом положительного сальдо на едином налоговом счете (ЕНС) на дату рассмотрения заявления.\n\nАпелляционный суд удовлетворил заявление налогового органа, посчитав, что:\n🔵 задолженность подтверждается требованием об уплате налога и решением о взыскании задолженности;\n🔵 срок взыскания задолженности в судебном порядке не истёк, поскольку решение налогового органа было вынесено в пределах двух лет до обращения в суд.\n\n🛡 Но кассационный суд направил дело на новое рассмотрение, поскольку:\n🔵 при проверке соблюдения сроков взыскания налоговой задолженности необходимо оценивать своевременность действий налогового органа, начиная с выставления требования об уплате налога.\n🔵 предельные сроки взыскания налоговой задолженности в судебном порядке составляют:\n🔹 6 месяцев со дня утраты возможности вынести решение о взыскании;\n🔹 2 года со дня утраты возможности вынести постановление о взыскании задолженности за счет иного имущества. \n🔵 выставление новых требований после введения ЕНС в отношении старых требований не влияет на пресекательные сроки давности последних, поэтому необходимо установить момент возникновения требований до введения ЕНС.\n\n📌 Выводы:\n\nИстечение сроков принудительного взыскания налогов и иных обязательных платежей является основанием отказа в признании обоснованным заявления о банкротстве или требования, основанного на таких требованиях. Рекомендуем в первую очередь проверять соблюдение налоговым органом этапов и установленных сроков предъявления требований. \n\n#Налоги_в_банкротстве",
+      "text_html": "📝 Единый налоговый счет, предельный срок взыскания налоговой задолженности и требования в банкротстве<br><br>Юлия Литовцева, руководитель, Владимир Гоппе, специалист практики банкротства и антикризисной защиты бизнеса, о порядке исчисления сроков взыскания налоговой задолженности на примере постановления <a href=\"https://ras.arbitr.ru/Document/Pdf/689b7718-fe84-4611-aab0-be8a9c852378/6a4ce279-f0dc-4a79-8a99-0e2bcef1f3bb/%D0%9040-75116-2024__20260205.pdf?isAddStamp=True\" target=\"_blank\" rel=\"noopener noreferrer\">АC Московского округа.</a><br><br>🔎 Немного теории:<br><br>С 01.01.2023 в связи с Законом № 263-ФЗ осуществлен переход налогоплательщиков на единый налоговый счет (ЕНС). Сальдо ЕНС - это разница между размером обязательств налогоплательщика перед бюджетом и уплаченными средствами. Сальдо на 01.01.2023 (введение ЕНС) формируется на основании данных о сформированной к этой дате задолженности. <br><br>🌟 При этом, в сумму неисполненных на 01.01.2023 обязательств не включаются недоимки, пени, штрафы, проценты, начисленные в соответствии с НК РФ, если по ним на 31.12.2022 истек срок взыскания.<br><br>📌 ВАЖНО: выставление после 01.01.2023 новых требований в отношении тех требований, по которым пропущен срок давности, не влечет восстанавление течения пресекательных сроков давности.<br><br>🪄 Ситуация:<br><br>ФНС России предъявила в банкротстве требования. <br>В качестве их подтверждения налоговый орган представил справку о размере задолженности, требования об уплате налога и решение о взыскании задолженности.<br><br>⚖️ Позиция судов:<br><br>Суд первой инстанции отказал во включении требований с учетом положительного сальдо на едином налоговом счете (ЕНС) на дату рассмотрения заявления.<br><br>Апелляционный суд удовлетворил заявление налогового органа, посчитав, что:<br>🔵 задолженность подтверждается требованием об уплате налога и решением о взыскании задолженности;<br>🔵 срок взыскания задолженности в судебном порядке не истёк, поскольку решение налогового органа было вынесено в пределах двух лет до обращения в суд.<br><br>🛡 Но кассационный суд направил дело на новое рассмотрение, поскольку:<br>🔵 при проверке соблюдения сроков взыскания налоговой задолженности необходимо оценивать своевременность действий налогового органа, начиная с выставления требования об уплате налога.<br>🔵 предельные сроки взыскания налоговой задолженности в судебном порядке составляют:<br>🔹 6 месяцев со дня утраты возможности вынести решение о взыскании;<br>🔹 2 года со дня утраты возможности вынести постановление о взыскании задолженности за счет иного имущества. <br>🔵 выставление новых требований после введения ЕНС в отношении старых требований не влияет на пресекательные сроки давности последних, поэтому необходимо установить момент возникновения требований до введения ЕНС.<br><br>📌 Выводы:<br><br>Истечение сроков принудительного взыскания налогов и иных обязательных платежей является основанием отказа в признании обоснованным заявления о банкротстве или требования, основанного на таких требованиях. Рекомендуем в первую очередь проверять соблюдение налоговым органом этапов и установленных сроков предъявления требований. <br><br>#Налоги_в_банкротстве",
+      "views": 374,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/410-1-71682553a921-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/410-1-71682553a921-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/bankrotstvo_mustknow/410",
+      "forwarded_from": null
+    },
     {
       "id": 409,
       "date": "2026-02-24T06:31:59+00:00",
@@ -17,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/409-1-685194979013-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/409-1-685194979013-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/409-1-1559175a3c3b-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/409-1-1559175a3c3b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +53,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/408-1-a1ddf40b49b0-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/408-1-a1ddf40b49b0-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/408-1-fcf8319c95e6-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/408-1-fcf8319c95e6-v4.jpg"
         }
       ],
       "video_url": null,
@@ -53,8 +71,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/407-1-0c657123697a-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/407-1-0c657123697a-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/407-1-f622c3406a70-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/407-1-f622c3406a70-v4.jpg"
         }
       ],
       "video_url": null,
@@ -71,8 +89,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/406-1-74388e861317-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/406-1-74388e861317-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/406-1-d4b14681af00-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/406-1-d4b14681af00-v4.jpg"
         }
       ],
       "video_url": null,
@@ -89,8 +107,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/405-1-5457c99928b5-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/405-1-5457c99928b5-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/405-1-bc119476257d-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/405-1-bc119476257d-v4.jpg"
         }
       ],
       "video_url": null,
@@ -107,8 +125,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/404-1-6bbf290e7738-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/404-1-6bbf290e7738-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/404-1-62abd6a9f24f-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/404-1-62abd6a9f24f-v4.jpg"
         }
       ],
       "video_url": null,
@@ -125,8 +143,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/403-1-4fc363a2252d-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/403-1-4fc363a2252d-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/403-1-648328b26db4-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/403-1-648328b26db4-v4.jpg"
         }
       ],
       "video_url": null,
@@ -143,8 +161,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/402-1-814fbb472f6d-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/402-1-814fbb472f6d-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/402-1-b3c2122e638b-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/402-1-b3c2122e638b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -161,8 +179,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/401-1-a8b24f65d2d0-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/401-1-a8b24f65d2d0-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/401-1-08e9f5b452de-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/401-1-08e9f5b452de-v4.jpg"
         }
       ],
       "video_url": null,
@@ -179,8 +197,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/400-1-dc5b86b5bf59-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/400-1-dc5b86b5bf59-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/400-1-1e74fb7efd85-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/400-1-1e74fb7efd85-v4.jpg"
         }
       ],
       "video_url": null,
@@ -197,8 +215,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/399-1-6d5c96e9a6d1-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/399-1-6d5c96e9a6d1-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/399-1-a8150ba0a9e7-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/399-1-a8150ba0a9e7-v4.jpg"
         }
       ],
       "video_url": null,
@@ -215,8 +233,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/398-1-b1e2f3756a6c-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/398-1-b1e2f3756a6c-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/398-1-d4a3754c3242-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/398-1-d4a3754c3242-v4.jpg"
         }
       ],
       "video_url": null,
