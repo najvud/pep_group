@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-05-06T22:35:53.105290+00:00",
+  "generated_at": "2026-05-07T07:37:11.165104+00:00",
   "pagination": {
     "page": 5,
     "page_size": 16,
-    "total_posts": 77,
+    "total_posts": 78,
     "total_pages": 5
   },
   "posts": [
+    {
+      "id": 411,
+      "date": "2026-02-25T07:26:23+00:00",
+      "text": "📌Юлия Литовцева, партнер и руководитель практики банкротства и антикризисной защиты бизнеса «Пепеляев Групп» примет участие в прямом эфире программы «ДЕНЬ» на РБК-ТВ, где обсудит тему раздела бизнеса.\n\nКлючевые тезисы:\n🔵Риски раздела бизнеса;\n🔵Фиктивные разводы как способ разделить бизнес и уйти от налогов;\n🔵Как защитить честно нажитый в браке бизнес.\n\nДата и время: сегодня, 11:10.\n\nСмотреть эфир на сайте РБК-ТВ.",
+      "text_html": "📌Юлия Литовцева, партнер и руководитель практики банкротства и антикризисной защиты бизнеса «Пепеляев Групп» примет участие в прямом эфире программы «ДЕНЬ» на РБК-ТВ, где обсудит тему раздела бизнеса.<br><br>Ключевые тезисы:<br>🔵Риски раздела бизнеса;<br>🔵Фиктивные разводы как способ разделить бизнес и уйти от налогов;<br>🔵Как защитить честно нажитый в браке бизнес.<br><br>Дата и время: сегодня, 11:10.<br><br>Смотреть эфир <a href=\"https://tv.rbc.ru/\" target=\"_blank\" rel=\"noopener noreferrer\">на сайте РБК-ТВ</a>.",
+      "views": 1260,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/411-1-e8780ae9c149-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/411-1-e8780ae9c149-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/bankrotstvo_mustknow/411",
+      "forwarded_from": null
+    },
     {
       "id": 410,
       "date": "2026-02-25T06:46:50+00:00",
@@ -17,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/410-1-b347b096ccb3-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/410-1-b347b096ccb3-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/410-1-e4a2e67023d3-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/410-1-e4a2e67023d3-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +53,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/409-1-2145d8381f70-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/409-1-2145d8381f70-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/409-1-73a4c9850ed1-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/409-1-73a4c9850ed1-v4.jpg"
         }
       ],
       "video_url": null,
@@ -53,8 +71,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/408-1-84bfd1e75f77-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/408-1-84bfd1e75f77-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/408-1-fdb69ac622d3-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/408-1-fdb69ac622d3-v4.jpg"
         }
       ],
       "video_url": null,
@@ -71,8 +89,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/407-1-66e48daf7a6b-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/407-1-66e48daf7a6b-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/407-1-aa47bbf59290-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/407-1-aa47bbf59290-v4.jpg"
         }
       ],
       "video_url": null,
@@ -89,8 +107,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/406-1-4c62a4761e39-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/406-1-4c62a4761e39-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/406-1-71c394127e35-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/406-1-71c394127e35-v4.jpg"
         }
       ],
       "video_url": null,
@@ -107,8 +125,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/405-1-1a3ef03a5bc4-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/405-1-1a3ef03a5bc4-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/405-1-671c9cf7c49a-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/405-1-671c9cf7c49a-v4.jpg"
         }
       ],
       "video_url": null,
@@ -125,8 +143,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/404-1-2b72938a48de-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/404-1-2b72938a48de-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/404-1-d7bc5f281b95-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/404-1-d7bc5f281b95-v4.jpg"
         }
       ],
       "video_url": null,
@@ -143,8 +161,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/403-1-71ef4094285a-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/403-1-71ef4094285a-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/403-1-90c177ead27c-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/403-1-90c177ead27c-v4.jpg"
         }
       ],
       "video_url": null,
@@ -161,8 +179,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/402-1-4f82a61c4e70-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/402-1-4f82a61c4e70-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/402-1-733e5d01373c-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/402-1-733e5d01373c-v4.jpg"
         }
       ],
       "video_url": null,
@@ -179,8 +197,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/401-1-d867e95c66c5-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/401-1-d867e95c66c5-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/401-1-906f58cb3974-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/401-1-906f58cb3974-v4.jpg"
         }
       ],
       "video_url": null,
@@ -215,8 +233,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/399-1-5dfed6e1317f-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/399-1-5dfed6e1317f-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/399-1-8e6cfada565e-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/399-1-8e6cfada565e-v4.jpg"
         }
       ],
       "video_url": null,
@@ -233,8 +251,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/398-1-9e6ee4ab252f-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/398-1-9e6ee4ab252f-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/398-1-33c76fc7d194-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/398-1-33c76fc7d194-v4.jpg"
         }
       ],
       "video_url": null,
