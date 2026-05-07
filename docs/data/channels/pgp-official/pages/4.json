@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-05-07T07:34:30.017836+00:00",
+  "generated_at": "2026-05-07T10:04:34.338871+00:00",
   "pagination": {
     "page": 4,
     "page_size": 16,
-    "total_posts": 71,
+    "total_posts": 72,
     "total_pages": 5
   },
   "posts": [
+    {
+      "id": 1754,
+      "date": "2026-03-10T08:59:58+00:00",
+      "text": "💻 Телекоммуникации, медиа, ИТ, персональные данные: дайджест\n\nВ обзоре собрали ключевые законодательные инициативы, регуляторные тренды, судебную практику и события отрасли.\n\nГлавные новости:\n\n🔘Минцифры России утвердило перечень ИТ-профессий в рамках образовательных соглашений;\n🔘Правительство РФ включило ERP-системы в единый перечень объектов КИИ; \n🔘Минцифры России предложило распространить налоговые ИТ-льготы на компании с госучастием;\n🔘ответственность за нарушения в сфере законодательства о критической информационной инфраструктуре планируется смягчить; \n🔘Роскомнадзор обнаружил нарушения правил установки ТСПУ у 33 операторов связи.\n\n👉 Какие изменения могут повлиять на бизнес, и на что стоит обратить внимание компаниям – читайте по ссылке.",
+      "text_html": "💻 Телекоммуникации, медиа, ИТ, персональные данные: дайджест<br><br>В обзоре собрали ключевые законодательные инициативы, регуляторные тренды, судебную практику и события отрасли.<br><br>Главные новости:<br><br>🔘Минцифры России утвердило перечень ИТ-профессий в рамках образовательных соглашений;<br>🔘Правительство РФ включило ERP-системы в единый перечень объектов КИИ; <br>🔘Минцифры России предложило распространить налоговые ИТ-льготы на компании с госучастием;<br>🔘ответственность за нарушения в сфере законодательства о критической информационной инфраструктуре планируется смягчить; <br>🔘Роскомнадзор обнаружил нарушения правил установки ТСПУ у 33 операторов связи.<br><br>👉 Какие изменения могут повлиять на бизнес, и на что стоит обратить внимание компаниям – <a href=\"https://www.pgplaw.ru/analytics-and-brochures/telecom-digest/telecom-digest-10-03-26/\" target=\"_blank\" rel=\"noopener noreferrer\">читайте по ссылке</a>.",
+      "views": 1090,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1754-1-317bed1f5f2c-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1754-1-317bed1f5f2c-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/pgp_official/1754",
+      "forwarded_from": null
+    },
     {
       "id": 1753,
       "date": "2026-03-08T06:59:58+00:00",
@@ -17,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1753-1-48d9f9f632f8-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1753-1-48d9f9f632f8-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1753-1-5fb4ccd139e9-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1753-1-5fb4ccd139e9-v4.jpg"
         }
       ],
       "video_url": null,
@@ -53,8 +71,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1751-1-ac0f0161db7e-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1751-1-ac0f0161db7e-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1751-1-3a7bfd4c6998-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1751-1-3a7bfd4c6998-v4.jpg"
         }
       ],
       "video_url": null,
@@ -71,8 +89,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1750-1-4f7568da63fa-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1750-1-4f7568da63fa-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1750-1-e5b79c170eeb-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1750-1-e5b79c170eeb-v4.jpg"
         }
       ],
       "video_url": null,
@@ -94,24 +112,24 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1745-1-37bb0352acc3-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1745-1-37bb0352acc3-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1745-1-848636395220-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1745-1-848636395220-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1745-2-58637a3fa023-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1745-2-58637a3fa023-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1745-2-a6fe64da57cf-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1745-2-a6fe64da57cf-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1745-3-830e121804cd-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1745-3-830e121804cd-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1745-3-0860d5822f83-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1745-3-0860d5822f83-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1745-4-c8ae966aca42-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1745-4-c8ae966aca42-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1745-4-1900fbe4c4d0-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1745-4-1900fbe4c4d0-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1745-5-af58d3329269-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1745-5-af58d3329269-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1745-5-93c9e3988812-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1745-5-93c9e3988812-v4.jpg"
         }
       ],
       "video_url": null,
@@ -128,8 +146,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1744-1-67f00d949bc2-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1744-1-67f00d949bc2-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1744-1-cdab942b9324-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1744-1-cdab942b9324-v4.jpg"
         }
       ],
       "video_url": null,
@@ -146,12 +164,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1742-1-dc660caf3b40-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1742-1-dc660caf3b40-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1742-1-28435d817546-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1742-1-28435d817546-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1742-2-28c2b2e109a4-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1742-2-28c2b2e109a4-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1742-2-d26bf4f678aa-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1742-2-d26bf4f678aa-v4.jpg"
         }
       ],
       "video_url": null,
@@ -168,8 +186,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1741-1-b0cad1d373f4-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1741-1-b0cad1d373f4-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1741-1-8ea54ed68cff-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1741-1-8ea54ed68cff-v4.jpg"
         }
       ],
       "video_url": null,
@@ -186,20 +204,20 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1736-1-e94ff667f75e-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1736-1-e94ff667f75e-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1736-1-d42fce9e43dd-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1736-1-d42fce9e43dd-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1736-2-acd41146b9d5-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1736-2-acd41146b9d5-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1736-2-ddb1061ee714-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1736-2-ddb1061ee714-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1736-3-fd4af8561bfe-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1736-3-fd4af8561bfe-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1736-3-292747aa22e3-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1736-3-292747aa22e3-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1736-4-5aa7958c0126-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1736-4-5aa7958c0126-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1736-4-90dac7c2df5e-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1736-4-90dac7c2df5e-v4.jpg"
         }
       ],
       "video_url": null,
@@ -216,8 +234,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1735-1-15cd893f6bde-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1735-1-15cd893f6bde-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1735-1-99a0197e2fe1-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1735-1-99a0197e2fe1-v4.jpg"
         }
       ],
       "video_url": null,
@@ -247,13 +265,13 @@
       "date": "2026-02-25T07:35:14+00:00",
       "text": "📌Юлия Литовцева, партнер и руководитель практики банкротства и антикризисной защиты бизнеса «Пепеляев Групп» примет участие в прямом эфире программы «ДЕНЬ» на РБК-ТВ, где обсудит тему раздела бизнеса.\n\nКлючевые тезисы:\n🔵Риски раздела бизнеса;\n🔵Фиктивные разводы как способ разделить бизнес и уйти от налогов;\n🔵Как защитить честно нажитый в браке бизнес.\n\nДата и время: сегодня, 11:10.\n\nСмотреть эфир на сайте РБК-ТВ.",
       "text_html": "📌Юлия Литовцева, партнер и руководитель практики банкротства и антикризисной защиты бизнеса «Пепеляев Групп» примет участие в прямом эфире программы «ДЕНЬ» на РБК-ТВ, где обсудит тему раздела бизнеса.<br><br>Ключевые тезисы:<br>🔵Риски раздела бизнеса;<br>🔵Фиктивные разводы как способ разделить бизнес и уйти от налогов;<br>🔵Как защитить честно нажитый в браке бизнес.<br><br>Дата и время: сегодня, 11:10.<br><br>Смотреть эфир <a href=\"https://tv.rbc.ru/\" target=\"_blank\" rel=\"noopener noreferrer\">на сайте РБК-ТВ</a>.",
-      "views": 886,
+      "views": 887,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1733-1-50016489500e-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1733-1-50016489500e-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1733-1-1deb26f2eeea-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1733-1-1deb26f2eeea-v4.jpg"
         }
       ],
       "video_url": null,
@@ -275,24 +293,24 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1727-1-05a0bde496fe-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1727-1-05a0bde496fe-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1727-1-170c648f811e-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1727-1-170c648f811e-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1727-2-7cba9178925a-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1727-2-7cba9178925a-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1727-2-809506ae9a34-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1727-2-809506ae9a34-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1727-3-cd0df5cdab5a-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1727-3-cd0df5cdab5a-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1727-3-5d618cb41255-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1727-3-5d618cb41255-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1727-4-3f49fdaafb24-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1727-4-3f49fdaafb24-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1727-4-23a71f061730-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1727-4-23a71f061730-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1727-5-2d2191a5028a-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1727-5-2d2191a5028a-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1727-5-d0cad83a1eee-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1727-5-d0cad83a1eee-v4.jpg"
         }
       ],
       "video_url": null,
@@ -309,8 +327,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1726-1-d3fa4e3db2be-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1726-1-d3fa4e3db2be-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1726-1-afff02865da2-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1726-1-afff02865da2-v4.jpg"
         }
       ],
       "video_url": null,
@@ -322,35 +340,17 @@
       "date": "2026-02-19T10:34:38+00:00",
       "text": "🏢 Еженедельная подборка обзоров от практик «Пепеляев Групп»\n\nЧто изменилось за последнюю неделю, и на что стоит обратить внимание бизнесу?\n\n▫️ Налоговые новости. Дайджест за 9–15 февраля 2026 г.\n\n▫️ СпецИнвестРежимы в Сибири и на Дальнем Востоке. Дайджест 9–15 февраля 2026 г.\n\n▫️ Антимонопольные новости. Дайджест за 12 января – 11 февраля 2026 г.\n\n▫️ Банкротство: MustRead за 12–18 февраля 2026 г. Выпуск № 308\n\n#pg_обзоры_недели",
       "text_html": "🏢 Еженедельная подборка обзоров от практик «Пепеляев Групп»<br><br>Что изменилось за последнюю неделю, и на что стоит обратить внимание бизнесу?<br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/tax-reviews/tax-news-digest-16-02-26/\" target=\"_blank\" rel=\"noopener noreferrer\">Налоговые новости. Дайджест за 9–15 февраля 2026 г.</a><br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/spec-invest-obzor/invest-news-digest-26-02-16/\" target=\"_blank\" rel=\"noopener noreferrer\">СпецИнвестРежимы в Сибири и на Дальнем Востоке. Дайджест 9–15 февраля 2026 г.</a><br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/antitrust-reviews/antitrust-digest-26-02-17/\" target=\"_blank\" rel=\"noopener noreferrer\">Антимонопольные новости. Дайджест за 12 января – 11 февраля 2026 г.</a><br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/bankruptcy-must-read/bankruptcy-must-read-18-02-26/\" target=\"_blank\" rel=\"noopener noreferrer\">Банкротство: MustRead за 12–18 февраля 2026 г. Выпуск № 308</a><br><br>#pg_обзоры_недели",
-      "views": 998,
+      "views": 999,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1725-1-513d1831d594-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1725-1-513d1831d594-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1725-1-63f9c8b8fdbb-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1725-1-63f9c8b8fdbb-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/pgp_official/1725",
-      "forwarded_from": null
-    },
-    {
-      "id": 1724,
-      "date": "2026-02-18T12:03:36+00:00",
-      "text": "⭐️ В рамках рубрики «Восток – дело тонкое» поздравляем вас с Праздником Весны – Новым годом по лунному календарю! Праздник отмечается в первый день первого месяца по лунному календарю и является одним из самых значимых традиционных народных торжеств в странах Восточной Азии.\n\nЗа многие годы работы Chinese Desk, специализированной практики «Пепеляев Групп» по правовому сопровождению китайских инвесторов в России, нам посчастливилось близко познакомиться с культурой и историей Китая, и мы рады рассказать вам о некоторых традициях и обычаях китайского Нового года.\n\n🎉 Народные гуляния в Поднебесной начинаются еще накануне, чтобы с благодарностью проводить уходящий год и зимнюю стужу, подготовиться к радостной встрече новой Весны. \n\n🔘Дома украшаются красными бумажными фонариками, парными надписями с пожеланиями процветания, узорными вырезками из бумаги и новогодними картинками. Часто на входных дверях можно увидеть перевернутый иероглиф «счастье», написанный на красной бумаге, – так в дом привлекаются счастье и благополучие, ведь выражение «счастье перевернулось» созвучно выражению «счастье пришло».\n\n#pg_ВостокДелоТонкое",
-      "text_html": "⭐️ В рамках рубрики «Восток – дело тонкое» поздравляем вас с Праздником Весны – Новым годом по лунному календарю! Праздник отмечается в первый день первого месяца по лунному календарю и является одним из самых значимых традиционных народных торжеств в странах Восточной Азии.<br><br>За многие годы работы <a href=\"https://www.pgplaw.ru/geography-of-services/abroad/china/\" target=\"_blank\" rel=\"noopener noreferrer\">Chinese Desk</a>, специализированной практики «Пепеляев Групп» по правовому сопровождению китайских инвесторов в России, нам посчастливилось близко познакомиться с культурой и историей Китая, и мы рады рассказать вам о некоторых традициях и обычаях китайского Нового года.<br><br>🎉 Народные гуляния в Поднебесной начинаются еще накануне, чтобы с благодарностью проводить уходящий год и зимнюю стужу, подготовиться к радостной встрече новой Весны. <br><br>🔘Дома украшаются красными бумажными фонариками, парными надписями с пожеланиями процветания, узорными вырезками из бумаги и новогодними картинками. Часто на входных дверях можно увидеть перевернутый иероглиф «счастье», написанный на красной бумаге, – так в дом привлекаются счастье и благополучие, ведь выражение «счастье перевернулось» созвучно выражению «счастье пришло».<br><br>#pg_ВостокДелоТонкое",
-      "views": 1220,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1724-1-aff8992b865f-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1724-1-aff8992b865f-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/pgp_official/1724",
       "forwarded_from": null
     }
   ]
