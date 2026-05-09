@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-09T10:40:22.991552+00:00",
+  "generated_at": "2026-05-09T14:06:22.122165+00:00",
   "pagination": {
     "page": 11,
     "page_size": 16,
-    "total_posts": 169,
+    "total_posts": 167,
     "total_pages": 11
   },
   "posts": [
@@ -102,8 +102,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2455-1-a8955c1964c6-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2455-1-a8955c1964c6-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2455-1-688e686834ab-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2455-1-688e686834ab-v4.jpg"
         }
       ],
       "video_url": null,
@@ -126,37 +126,6 @@
       ],
       "video_url": null,
       "tg_url": "https://t.me/PG_Tax/2454",
-      "forwarded_from": null
-    },
-    {
-      "id": 2453,
-      "date": "2026-02-09T13:35:29+00:00",
-      "text": null,
-      "text_html": null,
-      "views": 1410,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/90a830aa1a.mp4?token=jQ1aw4voYHZSWhnvS4ke6hnrpxaOCwjGXQVkLZwAe3ZM2sPxX-Tv49a0KsunkqHxpt6R3BLBNrT-pnQnM5wB_GwrakiFH3iqOrwUWpUa2ghxa6L-zIgUtiI2ur1C41FbgRXDOrW4Hr7tumxRGqGzR4Z0R-fH076I6hpNdJ35mnlF9ZllO242a_uw03mvrWzuO94fnOabOooptz94NsSW2yt6KBnrZgIYjHeGuIzixNByojXgpJVu44DFlJrJnpbEHY8ES3ESouj0exUciXDPB4_W2wM52gvrCaVFR564TZ5Xt4-MRcbA1pSy1CCx1rumPYkJOn08TIHV-a_3cvyL7A",
-      "tg_url": "https://t.me/PG_Tax/2453",
-      "forwarded_from": null
-    },
-    {
-      "id": 2452,
-      "date": "2026-02-09T13:33:53+00:00",
-      "text": null,
-      "text_html": null,
-      "views": 1450,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2452-1-454546b39d31-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2452-1-454546b39d31-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2452",
       "forwarded_from": null
     }
   ]
