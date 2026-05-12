@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T06:47:54.509810+00:00",
+  "generated_at": "2026-05-12T09:27:53.302633+00:00",
   "pagination": {
     "page": 8,
     "page_size": 16,
@@ -7,6 +7,19 @@
     "total_pages": 10
   },
   "posts": [
+    {
+      "id": 2517,
+      "date": "2026-03-06T11:12:46+00:00",
+      "text": "⚡️ФАС считает нарушением размещение рекламы в Telegram  Вчера Президент публично высказался против использования Telegram на фронте.  И тем же вечером разошлась новость о возбуждении дела против ИП о нарушении закона о рекламе из-за рекламы в своем телеграм…",
+      "text_html": "⚡️ФАС считает нарушением размещение рекламы в Telegram  Вчера Президент публично высказался против использования Telegram на фронте.  И тем же вечером разошлась новость о возбуждении дела против ИП о нарушении закона о рекламе из-за рекламы в своем телеграм…",
+      "views": 1270,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [],
+      "video_url": null,
+      "tg_url": "https://t.me/PG_Tax/2517",
+      "forwarded_from": null
+    },
     {
       "id": 2516,
       "date": "2026-03-06T11:06:35+00:00",
@@ -17,8 +30,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2516-1-f9a1d7517675-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2516-1-f9a1d7517675-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2516-1-5f4f5dcb9621-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2516-1-5f4f5dcb9621-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +48,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2515-1-09ee0023d655-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2515-1-09ee0023d655-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2515-1-6ab179b0c328-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2515-1-6ab179b0c328-v4.jpg"
         }
       ],
       "video_url": null,
@@ -65,7 +78,7 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/52aac8a07b.mp4?token=thgWlNfq1sZYIRm3T1WZLe9NLoDL_DnH6hlcO75-SNmzoRy1qA49Jzy5VfcWn2Uux4ovZtQ_wU6F8Lb7q8txQ8s3J-asqrMlNBaNYnO5c2Pmb6QZdzLjV0sJTKTZWpVjj0pcaSzJEvrHA3J0XYFH90EunLs1x8_kbfJD36Sn0FIRJWVX09K5C6HC5g6h84OA1kKBbwDHUDqIvgqIA1cezQfnOMo8fL4WjG5g-pD1L5gz7lYjY1qvh7nmtgoakyHzcXUu5OTzE_rQu2vRimccaR3-uEXQFwSjpgSLN9tgnOQnp510S8lXWvfm-sPyXdqvd02g5O2bt9SadQZ_n_EgdQ",
+      "video_url": "https://cdn4.telesco.pe/file/52aac8a07b.mp4?token=eeT2R_caV7Gt8sazQaysICQjIaZzh6hVaaoomXwsQrRnWlJdl1CWfcyOOaKAq8qvaE4vTdT-kPwP2SbCYrcy2CAedhjeaCd6Os0kxunI94Bp7XDCv1z939LjGO2s5ImvGyuxVSsomgxiM3qpnqMXz89kbedFFdHaYKrHuVh65l1yvzdAQJBbe8VW6vroLsvQYjeQnQmRxRvN924WIoCkFmFD0chx-8yz0ICc0exogB6gGYd_A7sNQeFJ3Ue0H6fmm2GiOFRVRh74T-j3U7hrIVEXiqUOGYo0F6feuljM_5vq6i0cyY79reINYjR4A9RpNAR_Xt_XnT6pKCYNaKtjQw",
       "tg_url": "https://t.me/PG_Tax/2513",
       "forwarded_from": null
     },
@@ -79,8 +92,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2512-1-4cc04afe8be6-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2512-1-4cc04afe8be6-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2512-1-22d7f7082e05-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2512-1-22d7f7082e05-v4.jpg"
         }
       ],
       "video_url": null,
@@ -110,8 +123,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2510-1-e4d28b8aa150-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2510-1-e4d28b8aa150-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2510-1-02f9bead7ae0-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2510-1-02f9bead7ae0-v4.jpg"
         }
       ],
       "video_url": null,
@@ -128,8 +141,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2509-1-6837e6abe119-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2509-1-6837e6abe119-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2509-1-1af71ffbc10d-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2509-1-1af71ffbc10d-v4.jpg"
         }
       ],
       "video_url": null,
@@ -146,8 +159,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2508-1-dae99bd56bb8-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2508-1-dae99bd56bb8-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2508-1-1fb3b7a4e952-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2508-1-1fb3b7a4e952-v4.jpg"
         }
       ],
       "video_url": null,
@@ -164,8 +177,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2507-1-43f64bcfc8ab-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2507-1-43f64bcfc8ab-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2507-1-890b7ec58afb-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2507-1-890b7ec58afb-v4.jpg"
         }
       ],
       "video_url": null,
@@ -181,7 +194,7 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/f8fa9e0a04.mp4?token=aepp0O2KFuFyu7aLrQZDq-J6_veUBLsU48ja-U9vuxEtiiZI0JICKj1Ij3ydclIOctxH4i0kk34QYagADX3Ia3Ii2awG0eadCpvBxqQYUp6dM3VC6zVB1qtRy5fuQ2P9clKjvaUNNnFZBmMPgxKENGwhaAXA_-xBfrbVSNwIGWYSwrBayIURBYN_8qcqC2B9x-MF_WFwGu4glEBeT2V4f0Ms3cOEA4sfqZjhe70dQFRLgxodQ9QJvs_PmUOxWhOXfbv4iX843Sb20joT3NfrUIs39TIH-8Pujm7NkJPpBI-bJla1JMK4W01oybi3k78ZVUz_wk7Xp-qkZ69BrL4Y-w",
+      "video_url": "https://cdn4.telesco.pe/file/f8fa9e0a04.mp4?token=FtWNzCRMWpXjAxBvF_88b48wWBdal_xddVJhgmsuAFghLgWF9mfD7V13l-lD8R4nOcsT78U-VTFXz6MZDoGbfvJwYt4vIEsqqvsLGvmhiMxI22Fk2RaC9lr8OYF2YQB0gsgRQzLIP5W-AuN-UcXLmhREK6UtqQLAJV65kZkd2-Wfw7oIfJd3F1aEe-DOHVgKitR7gDZGp7tGbhQolNSSRMuDMIV6izjS3PucKnL3o8QfAJ_JGONnEdQN6zvi_rt75DWrlaB1Al5gi-uIvnbyXiDv2RLbsrWCJycyL6gahNzd6gJHSUYHvZJhpoLPen5_qabr0tf4MTiTIKEnq9Ux3A",
       "tg_url": "https://t.me/PG_Tax/2505",
       "forwarded_from": null
     },
@@ -195,8 +208,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2504-1-af22a990a740-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2504-1-af22a990a740-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2504-1-b0566498744d-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2504-1-b0566498744d-v4.jpg"
         }
       ],
       "video_url": null,
@@ -213,8 +226,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2502-1-2c1029db4b3b-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2502-1-2c1029db4b3b-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2502-1-bc6b4fc0496e-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2502-1-bc6b4fc0496e-v4.jpg"
         }
       ],
       "video_url": null,
@@ -231,8 +244,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2501-1-0805061df072-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2501-1-0805061df072-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2501-1-b0e3f797a929-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2501-1-b0e3f797a929-v4.jpg"
         }
       ],
       "video_url": null,
@@ -249,30 +262,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2498-1-9fcdf79e81a2-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2498-1-9fcdf79e81a2-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2498-1-b0916c68fd47-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2498-1-b0916c68fd47-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/PG_Tax/2498",
-      "forwarded_from": null
-    },
-    {
-      "id": 2497,
-      "date": "2026-03-02T08:00:07+00:00",
-      "text": "✍️ Нормативное регулирование\n \nПрезидент РФ поручил предусмотреть в этом году переходный период, чтобы малый бизнес мог выбрать себе оптимальный налоговый режим. Также предстоит рассмотреть вопрос о предоставлении таким предприятиям возможности формирования и представления налоговой отчетности в упрощенном порядке. \nДо 1 мая Правительству РФ совместно с региональными властями нужно обеспечить информационное и методическое сопровождение деятельности таких предприятий по этому вопросу.\n \n⚙️ Практика\n \n🔴Налоговые органы стали чаще запрещать компаниям-должникам продавать имущество и пользоваться банковскими счетами после проверок. Ограничения часто распространяются не только на компании-должники, но и на связанные с ними структуры, бенефициаров и даже бывших гендиректоров.\n \n🔴С 28 февраля действуют новые особенности учета иностранных граждан в налоговых органах. \nДополнены категории иностранцев, подлежащих постановке на учет: зарегистрированные в качестве ИП по законодательству ЕАЭС, оказывающие услуги физлицам в электронной форме, осуществляющие расчеты или реализующие товары. Кроме того, особенности учета приведены в соответствие с нормами налогового законодательства в части правил направления документа, подтверждающего постановку на учет или снятие с учета (свидетельства и уведомления заменены на выписку из ЕГРН).\n\n#главные_налоговые_новости\n\nНовости прошлой недели читайте в обзоре на сайте ПГ 👉",
-      "text_html": "✍️ Нормативное регулирование<br> <br>Президент РФ <a href=\"https://rg.ru/2026/02/27/putin-ukazal-vvesti-perehodnyj-period-malomu-biznesu-po-vyboru-nalogovogo-rezhima.html\" target=\"_blank\" rel=\"noopener noreferrer\">поручил</a> предусмотреть в этом году переходный период, чтобы малый бизнес мог выбрать себе оптимальный налоговый режим. Также <a href=\"https://rspp.ru/events/news/vladimir-putin-poruchil-ustanovit-perekhodnyy-period-dlya-msp-dlya-vybora-nalogovogo-rezhima-69a153597339e/\" target=\"_blank\" rel=\"noopener noreferrer\">предстоит</a> рассмотреть вопрос о предоставлении таким предприятиям возможности формирования и представления налоговой отчетности в упрощенном порядке. <br>До 1 мая Правительству РФ совместно с региональными властями нужно обеспечить информационное и методическое сопровождение деятельности таких предприятий по этому вопросу.<br> <br>⚙️ Практика<br> <br>🔴Налоговые органы <a href=\"https://www.forbes.ru/finansy/556303-nalogoviki-stali-case-zamorazivat-imusestvo-i-sceta-dolznikov-po-itogam-proverok\" target=\"_blank\" rel=\"noopener noreferrer\">стали чаще</a> запрещать компаниям-должникам продавать имущество и пользоваться банковскими счетами после проверок. Ограничения часто распространяются не только на компании-должники, но и на связанные с ними структуры, бенефициаров и даже бывших гендиректоров.<br> <br>🔴С 28 февраля <a href=\"https://tass.ru/ekonomika/26579217\" target=\"_blank\" rel=\"noopener noreferrer\">действуют</a> новые особенности учета иностранных граждан в налоговых органах. <br>Дополнены категории иностранцев, подлежащих постановке на учет: зарегистрированные в качестве ИП по законодательству ЕАЭС, оказывающие услуги физлицам в электронной форме, осуществляющие расчеты или реализующие товары. Кроме того, особенности учета приведены в соответствие с нормами налогового законодательства в части правил направления документа, подтверждающего постановку на учет или снятие с учета (свидетельства и уведомления заменены на выписку из ЕГРН).<br><br>#главные_налоговые_новости<br><br>Новости прошлой недели читайте в обзоре <a href=\"https://www.pgplaw.ru/analytics-and-brochures/tax-reviews/tax-news-digest-02-03-26/\" target=\"_blank\" rel=\"noopener noreferrer\">на сайте</a> ПГ 👉",
-      "views": 1370,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2497-1-af4fc055e05e-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2497-1-af4fc055e05e-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2497",
       "forwarded_from": null
     }
   ]
