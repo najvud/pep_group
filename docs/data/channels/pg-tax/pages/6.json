@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-05-15T08:25:17.741116+00:00",
+  "generated_at": "2026-05-15T10:45:01.150433+00:00",
   "pagination": {
     "page": 6,
     "page_size": 16,
-    "total_posts": 160,
-    "total_pages": 10
+    "total_posts": 161,
+    "total_pages": 11
   },
   "posts": [
+    {
+      "id": 2564,
+      "date": "2026-03-26T11:04:15+00:00",
+      "text": "🎬 Новое видео! Изменения в камеральном налоговом контроле\n\nСергей Пепеляев и Сергей Разгулин, действительный государственный советник, обсуждают существенные изменения в налоговом кодексе конца 2025 года, которые расширили полномочия налоговых органов.\n\nЧто это означает на практике и как нужно скорректировать линию своего поведения, узнайте из видео:\n\n📱  ВКВидео \n▶️ RuTube \n📱 YouTube\n\nСтатья в журнале «НАЛОГОВЕД», выпуск №2, февраль 2026 г.\n\n#видеоинтервью_Пепеляев_Налоговед",
+      "text_html": "🎬 Новое видео! Изменения в камеральном налоговом контроле<br><br>Сергей Пепеляев и Сергей Разгулин, действительный государственный советник, обсуждают существенные изменения в налоговом кодексе конца 2025 года, которые расширили полномочия налоговых органов.<br><br>Что это означает на практике и как нужно скорректировать линию своего поведения, узнайте из видео:<br><br>📱  <a href=\"https://vkvideo.ru/video-227047542_456239400?sh=4\" target=\"_blank\" rel=\"noopener noreferrer\">ВКВидео</a> <br>▶️ <a href=\"https://rutube.ru/video/55deb33c8d93e2f65eac900430bd6e39/?r=wd\" target=\"_blank\" rel=\"noopener noreferrer\">RuTube</a> <br>📱 <a href=\"https://youtu.be/koWssw1PGQI?si=B_rCHahy2zkobE_N\" target=\"_blank\" rel=\"noopener noreferrer\">YouTube</a><br><br><a href=\"https://e.nalogoved.ru/1174269\" target=\"_blank\" rel=\"noopener noreferrer\">Статья в журнале «НАЛОГОВЕД»</a>, выпуск №2, февраль 2026 г.<br><br>#видеоинтервью_Пепеляев_Налоговед",
+      "views": 1070,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [],
+      "video_url": null,
+      "tg_url": "https://t.me/PG_Tax/2564",
+      "forwarded_from": null
+    },
     {
       "id": 2563,
       "date": "2026-03-26T07:12:53+00:00",
@@ -17,8 +30,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2563-1-e6d7fff4eb96-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2563-1-e6d7fff4eb96-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2563-1-738c583d9592-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2563-1-738c583d9592-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +48,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2562-1-03543d15eee8-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2562-1-03543d15eee8-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2562-1-3b1194e206cf-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2562-1-3b1194e206cf-v4.jpg"
         }
       ],
       "video_url": null,
@@ -58,8 +71,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2561-1-648cf9595a19-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2561-1-648cf9595a19-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2561-1-dd84c9c60847-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2561-1-dd84c9c60847-v4.jpg"
         }
       ],
       "video_url": null,
@@ -76,8 +89,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2560-1-38602c8a4b6a-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2560-1-38602c8a4b6a-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2560-1-cd2765528678-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2560-1-cd2765528678-v4.jpg"
         }
       ],
       "video_url": null,
@@ -106,7 +119,7 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/2deea7dfab.mp4?token=HDUUs9d2s_QItS7iWwI-AYYFMh3qOSDgHArJFNHOiQO5ZfVQdC-aFgulxZHzinwDtrC7AufUqLyUxnYXHvhwtrsIsjjLtEx6I8DcB8UdvqP3vEdMPLKWgiuIlVSoM5ydOnE3F0Oi1FtvnOvJ8HHmWvNr-icWZ5wFRkeqASk-7sCeM5NQWyOnyDsK_8uClMl6EGldW10qLx_aS_HiVhuew0WJSZDn417nhpqNHoD-VYMK7x-H2qWQ0vw0uYb0VqIwgF0ZoxDmC_nUB6HREFLtWvMQTR1NwG9CoP9ZH8fptapMzNyhw6M3MKOo_OHarQdJ6IPVr41qaHgEGk0-AlcI7A",
+      "video_url": "https://cdn4.telesco.pe/file/2deea7dfab.mp4?token=iSF8LmH8H4tITOmMW1JQtTA2tWH5nE7cJEzf2RPZv2gpVluDtGe97-gxNxOecKGqtDjcE9ycxxP7_nuYP1JP-vq7DJpZIeXHPI9GutPhImtfEru8TYPIc5LkoCAI_31TDccbjnarlrA2TdZur4NL-kJzznxQHQGo-bJ94lfJpJQxlML-rZX2iN3dRm0FTg_RkVqmWTieqzEzfqiQgOzzaAeUXnse4iX7mb4-_jVJGfVgAWFq2v6pXe_PfTIz3poh-0qQY3JO9bKrFri9xeDpm9nSvxZ3DEP7BvrsJhQpYXf8WZTLgjTWpiaw2eIlPEV86haOJV7C-uZjFy_dluBHjg",
       "tg_url": "https://t.me/PG_Tax/2558",
       "forwarded_from": null
     },
@@ -120,8 +133,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2557-1-f7f462d1c2f8-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2557-1-f7f462d1c2f8-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2557-1-0bd79523bb54-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2557-1-0bd79523bb54-v4.jpg"
         }
       ],
       "video_url": null,
@@ -138,8 +151,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2556-1-676d2c93ebde-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2556-1-676d2c93ebde-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2556-1-44cbea2b7546-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2556-1-44cbea2b7546-v4.jpg"
         }
       ],
       "video_url": null,
@@ -156,8 +169,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2555-1-406583a6e785-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2555-1-406583a6e785-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2555-1-3675d9e7ce26-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2555-1-3675d9e7ce26-v4.jpg"
         }
       ],
       "video_url": null,
@@ -174,8 +187,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2554-1-3ae1e5a52703-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2554-1-3ae1e5a52703-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2554-1-0f72bb8b0591-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2554-1-0f72bb8b0591-v4.jpg"
         }
       ],
       "video_url": null,
@@ -192,16 +205,16 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2551-1-184f774d18c7-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2551-1-184f774d18c7-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2551-1-a930206b11da-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2551-1-a930206b11da-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2551-2-7992b17f6c08-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2551-2-7992b17f6c08-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2551-2-08c05393d6bc-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2551-2-08c05393d6bc-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2551-3-0b56fce5bd09-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2551-3-0b56fce5bd09-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2551-3-79fb40714f30-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2551-3-79fb40714f30-v4.jpg"
         }
       ],
       "video_url": null,
@@ -246,8 +259,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2548-1-97c0d900b68f-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2548-1-97c0d900b68f-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2548-1-6749da84c760-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2548-1-6749da84c760-v4.jpg"
         }
       ],
       "video_url": null,
@@ -264,8 +277,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2547-1-ce220539af97-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2547-1-ce220539af97-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2547-1-7dab7c1f36cf-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2547-1-7dab7c1f36cf-v4.jpg"
         }
       ],
       "video_url": null,
@@ -283,24 +296,6 @@
       "photos": [],
       "video_url": null,
       "tg_url": "https://t.me/PG_Tax/2546",
-      "forwarded_from": null
-    },
-    {
-      "id": 2545,
-      "date": "2026-03-19T10:03:24+00:00",
-      "text": "📢 Новости региональных УФНС\n\nНа сайте \"Налоговеда\" опубликован обзор новостей региональных УФНС за февраль.\n\nВ фокусе внимания Управлений службы:\n     🔴вопросы формирования благоприятного инвестиционного климата,\n     🔴побуждение налогоплательщиков к добровольному исполнению обязательств,\n     🔴методика и результаты борьбы с налоговыми схемами, \n     🔴вопросы оспаривания решений территориальных налоговых органов.\n\n#обзор_новостей_УФНС\n\n➖➖\n💡 Индивидуальные обзоры изменений налогового законодательства и практики, учитывающие специфику Вашего бизнеса, по расписанию в Ваш почтовый ящик можно оформить здесь.",
-      "text_html": "📢 Новости региональных УФНС<br><br>На сайте \"Налоговеда\" опубликован <a href=\"https://nalogoved.ru/docs/16335.html\" target=\"_blank\" rel=\"noopener noreferrer\">обзор</a> новостей региональных УФНС за февраль.<br><br>В фокусе внимания Управлений службы:<br>     🔴вопросы формирования благоприятного инвестиционного климата,<br>     🔴побуждение налогоплательщиков к добровольному исполнению обязательств,<br>     🔴методика и результаты борьбы с налоговыми схемами, <br>     🔴вопросы оспаривания решений территориальных налоговых органов.<br><br>#обзор_новостей_УФНС<br><br>➖➖<br>💡 Индивидуальные обзоры изменений налогового законодательства и практики, учитывающие специфику Вашего бизнеса, по расписанию в Ваш почтовый ящик можно оформить <a href=\"https://www.pgplaw.ru/practice-and-industry/practices/obzory-zakonodatelstva-i-praktiki/\" target=\"_blank\" rel=\"noopener noreferrer\">здесь</a>.",
-      "views": 1000,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2545-1-2e033e4df2ee-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2545-1-2e033e4df2ee-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2545",
       "forwarded_from": null
     }
   ]

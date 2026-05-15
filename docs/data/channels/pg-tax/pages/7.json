@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-05-15T08:25:17.743396+00:00",
+  "generated_at": "2026-05-15T10:45:01.152741+00:00",
   "pagination": {
     "page": 7,
     "page_size": 16,
-    "total_posts": 160,
-    "total_pages": 10
+    "total_posts": 161,
+    "total_pages": 11
   },
   "posts": [
+    {
+      "id": 2545,
+      "date": "2026-03-19T10:03:24+00:00",
+      "text": "📢 Новости региональных УФНС\n\nНа сайте \"Налоговеда\" опубликован обзор новостей региональных УФНС за февраль.\n\nВ фокусе внимания Управлений службы:\n     🔴вопросы формирования благоприятного инвестиционного климата,\n     🔴побуждение налогоплательщиков к добровольному исполнению обязательств,\n     🔴методика и результаты борьбы с налоговыми схемами, \n     🔴вопросы оспаривания решений территориальных налоговых органов.\n\n#обзор_новостей_УФНС\n\n➖➖\n💡 Индивидуальные обзоры изменений налогового законодательства и практики, учитывающие специфику Вашего бизнеса, по расписанию в Ваш почтовый ящик можно оформить здесь.",
+      "text_html": "📢 Новости региональных УФНС<br><br>На сайте \"Налоговеда\" опубликован <a href=\"https://nalogoved.ru/docs/16335.html\" target=\"_blank\" rel=\"noopener noreferrer\">обзор</a> новостей региональных УФНС за февраль.<br><br>В фокусе внимания Управлений службы:<br>     🔴вопросы формирования благоприятного инвестиционного климата,<br>     🔴побуждение налогоплательщиков к добровольному исполнению обязательств,<br>     🔴методика и результаты борьбы с налоговыми схемами, <br>     🔴вопросы оспаривания решений территориальных налоговых органов.<br><br>#обзор_новостей_УФНС<br><br>➖➖<br>💡 Индивидуальные обзоры изменений налогового законодательства и практики, учитывающие специфику Вашего бизнеса, по расписанию в Ваш почтовый ящик можно оформить <a href=\"https://www.pgplaw.ru/practice-and-industry/practices/obzory-zakonodatelstva-i-praktiki/\" target=\"_blank\" rel=\"noopener noreferrer\">здесь</a>.",
+      "views": 1000,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2545-1-8941b81c4f9b-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2545-1-8941b81c4f9b-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/PG_Tax/2545",
+      "forwarded_from": null
+    },
     {
       "id": 2544,
       "date": "2026-03-19T07:56:45+00:00",
@@ -35,8 +53,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2543-1-ddac2d00db15-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2543-1-ddac2d00db15-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2543-1-478841db5b75-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2543-1-478841db5b75-v4.jpg"
         }
       ],
       "video_url": null,
@@ -53,8 +71,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2542-1-0624573dda6c-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2542-1-0624573dda6c-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2542-1-001166279f31-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2542-1-001166279f31-v4.jpg"
         }
       ],
       "video_url": null,
@@ -71,12 +89,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2540-1-164a71fe4914-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2540-1-164a71fe4914-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2540-1-827a4d397f0e-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2540-1-827a4d397f0e-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2540-2-9b6b0939d5b9-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2540-2-9b6b0939d5b9-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2540-2-5ca577317729-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2540-2-5ca577317729-v4.jpg"
         }
       ],
       "video_url": null,
@@ -93,8 +111,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2539-1-369ef780da2b-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2539-1-369ef780da2b-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2539-1-f605ef703a4d-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2539-1-f605ef703a4d-v4.jpg"
         }
       ],
       "video_url": null,
@@ -142,20 +160,20 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2533-1-0fff02fc5f5e-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2533-1-0fff02fc5f5e-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2533-1-5f35568f86d1-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2533-1-5f35568f86d1-v4.jpg"
         },
         {
           "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2533-2-6dd6e9923cd6-v4.jpg",
           "full_url": "data/channels/pg-tax/media/posts/2533-2-6dd6e9923cd6-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2533-3-720324ae6614-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2533-3-720324ae6614-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2533-3-1e3ca9093ec9-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2533-3-1e3ca9093ec9-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2533-4-0751c73fb20f-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2533-4-0751c73fb20f-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2533-4-0dc18f36de8f-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2533-4-0dc18f36de8f-v4.jpg"
         }
       ],
       "video_url": null,
@@ -177,8 +195,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2532-1-271a13cbffa5-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2532-1-271a13cbffa5-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2532-1-16b68e4084a2-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2532-1-16b68e4084a2-v4.jpg"
         }
       ],
       "video_url": null,
@@ -195,8 +213,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2531-1-f1cfaa2e6165-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2531-1-f1cfaa2e6165-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2531-1-5c34a5cba5cd-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2531-1-5c34a5cba5cd-v4.jpg"
         }
       ],
       "video_url": null,
@@ -213,8 +231,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2530-1-9d93f61b71a9-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2530-1-9d93f61b71a9-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2530-1-22149d4742c9-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2530-1-22149d4742c9-v4.jpg"
         }
       ],
       "video_url": null,
@@ -236,8 +254,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2529-1-652459911c17-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2529-1-652459911c17-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2529-1-28c6d928bbd6-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2529-1-28c6d928bbd6-v4.jpg"
         }
       ],
       "video_url": null,
@@ -254,8 +272,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2528-1-acc9473a8685-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2528-1-acc9473a8685-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2528-1-9b9a58fe484c-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2528-1-9b9a58fe484c-v4.jpg"
         }
       ],
       "video_url": null,
@@ -285,30 +303,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2526-1-7d4f919008b9-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2526-1-7d4f919008b9-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2526-1-3a9fac32a11f-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2526-1-3a9fac32a11f-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/PG_Tax/2526",
-      "forwarded_from": null
-    },
-    {
-      "id": 2525,
-      "date": "2026-03-11T13:33:29+00:00",
-      "text": "Маргарита Завязочникова рассказывает о материалах «Налоговеда», размещенных на сайте в открытом доступе в феврале:\n \n📎 решения судов ЕС по налогам 2-го полугодия 2025 г., рассмотрены вопросы:\n     🔴когда льгота по налогу на недвижимость может быть признана незаконной государственной помощью?\n     🔴влияет ли сумма студенческого гранта на расчет вычета на иждивенца при исчислении подоходного налога?\n     🔴обязательно ли для целей освобождения дивидендов от налогообложения упоминание конкретного налога в Директиве о налогообложении материнских и дочерних компаний?\n     🔴можно ли квалифицировать налоговый вычет финансового гудвилла, возникающего при косвенном приобретении долей, как новую схему госпомощи и каковы последствия такой квалификации?\n \n📎 новости УФНС февраля – традиционно по итогам мониторинга в обзор включены новости, которые показались нам интересными\n \n📎 обновлена рубрика «КС РФ о налогах»\n \n📚 Полезного чтения!\n\n#обновление_сайта_Налоговед",
-      "text_html": "Маргарита Завязочникова рассказывает о материалах «Налоговеда», размещенных на сайте в открытом доступе в феврале:<br> <br>📎 <a href=\"https://nalogoved.ru/resheniya-suda-es/\" target=\"_blank\" rel=\"noopener noreferrer\">решения судов ЕС</a> по налогам 2-го полугодия 2025 г., рассмотрены вопросы:<br>     🔴когда льгота по налогу на недвижимость может быть признана незаконной государственной помощью?<br>     🔴влияет ли сумма студенческого гранта на расчет вычета на иждивенца при исчислении подоходного налога?<br>     🔴обязательно ли для целей освобождения дивидендов от налогообложения упоминание конкретного налога в Директиве о налогообложении материнских и дочерних компаний?<br>     🔴можно ли квалифицировать налоговый вычет финансового гудвилла, возникающего при косвенном приобретении долей, как новую схему госпомощи и каковы последствия такой квалификации?<br> <br>📎 <a href=\"https://nalogoved.ru/docs/16335.html\" target=\"_blank\" rel=\"noopener noreferrer\">новости УФНС</a> февраля – традиционно по итогам мониторинга в обзор включены новости, которые показались нам интересными<br> <br>📎 обновлена рубрика «<a href=\"https://nalogoved.ru/ks-rf-o/\" target=\"_blank\" rel=\"noopener noreferrer\">КС РФ о налогах</a>»<br> <br>📚 Полезного чтения!<br><br>#обновление_сайта_Налоговед",
-      "views": 1180,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2525-1-fe00e281dd52-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2525-1-fe00e281dd52-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2525",
       "forwarded_from": null
     }
   ]
