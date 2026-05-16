@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-15T16:56:39.550365+00:00",
+  "generated_at": "2026-05-16T08:24:55.767256+00:00",
   "pagination": {
     "page": 5,
     "page_size": 16,
-    "total_posts": 75,
+    "total_posts": 74,
     "total_pages": 5
   },
   "posts": [
@@ -218,28 +218,6 @@
       ],
       "video_url": null,
       "tg_url": "https://t.me/pgp_official/1723",
-      "forwarded_from": null
-    },
-    {
-      "id": 1721,
-      "date": "2026-02-16T07:04:14+00:00",
-      "text": "🔍 Начинаем рабочую неделю с рубрикой #PG_Грамотность\n\nTelegram-канал или телеграм-канал, Т-канал или ТГ-канал. Как правильно?\n\n☝️ Читайте в карточке правописания!",
-      "text_html": "🔍 Начинаем рабочую неделю с рубрикой #PG_Грамотность<br><br>Telegram-канал или телеграм-канал, Т-канал или ТГ-канал. Как правильно?<br><br>☝️ Читайте в карточке правописания!",
-      "views": 1140,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1721-1-7560ff4529f8-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1721-1-7560ff4529f8-v4.jpg"
-        },
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1721-2-d154ba83d71a-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1721-2-d154ba83d71a-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/pgp_official/1721",
       "forwarded_from": null
     }
   ]
