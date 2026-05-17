@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-16T19:47:46.414925+00:00",
+  "generated_at": "2026-05-17T07:24:23.930186+00:00",
   "pagination": {
     "page": 3,
     "page_size": 16,
-    "total_posts": 75,
+    "total_posts": 74,
     "total_pages": 5
   },
   "posts": [
@@ -71,8 +71,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/452-1-2097dfcfc966-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/452-1-2097dfcfc966-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/452-1-7310cf93d95d-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/452-1-7310cf93d95d-v4.jpg"
         }
       ],
       "video_url": null,
