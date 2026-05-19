@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-19T08:52:11.727521+00:00",
+  "generated_at": "2026-05-19T11:51:58.982304+00:00",
   "pagination": {
     "page": 10,
     "page_size": 16,
@@ -7,6 +7,32 @@
     "total_pages": 10
   },
   "posts": [
+    {
+      "id": 2491,
+      "date": "2026-02-26T13:27:50+00:00",
+      "text": "🏆 Делимся результатами индивидуального рейтинга Право-300 за 2025 год по налогам и валютному регулированию!\n\nРекомендованы: \n\n1️⃣1️⃣ юристов в налоговых номинациях\n4️⃣ юриста в категории «Валютное регулирование»\n\n4️⃣4️⃣ эксперта «Пепеляев Групп» отмечены в общей сложности. \n\nС полными результатами можно ознакомиться на сайте.\n\n🎉 Благодарим Право ру за проделанную работу и поздравляем коллег с профессиональными успехами!",
+      "text_html": "🏆 Делимся результатами индивидуального рейтинга Право-300 за 2025 год по налогам и валютному регулированию!<br><br>Рекомендованы: <br><br>1️⃣1️⃣ юристов в налоговых номинациях<br>4️⃣ юриста в категории «Валютное регулирование»<br><br>4️⃣4️⃣ эксперта «Пепеляев Групп» отмечены в общей сложности. <br><br>С полными результатами можно ознакомиться <a href=\"https://www.pgplaw.ru/news/press-releases/individualniy-reyting-pravo300-2025/\" target=\"_blank\" rel=\"noopener noreferrer\">на сайте</a>.<br><br>🎉 Благодарим Право ру за проделанную работу и поздравляем коллег с профессиональными успехами!",
+      "views": 1480,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2491-1-b3d05c260563-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2491-1-b3d05c260563-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2491-2-718764a63eab-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2491-2-718764a63eab-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2491-3-1a09be539685-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2491-3-1a09be539685-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/PG_Tax/2491",
+      "forwarded_from": null
+    },
     {
       "id": 2489,
       "date": "2026-02-26T10:21:02+00:00",
@@ -35,8 +61,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2488-1-d27afb650e87-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2488-1-d27afb650e87-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2488-1-b2f459715d37-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2488-1-b2f459715d37-v4.jpg"
         }
       ],
       "video_url": null,
@@ -71,8 +97,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2486-1-cb7ca79524c3-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2486-1-cb7ca79524c3-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2486-1-8d070751473d-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2486-1-8d070751473d-v4.jpg"
         }
       ],
       "video_url": null,
@@ -125,8 +151,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2483-1-e9840a0047fc-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2483-1-e9840a0047fc-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2483-1-3a329e502255-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2483-1-3a329e502255-v4.jpg"
         }
       ],
       "video_url": null,
@@ -143,8 +169,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2482-1-3970251d9956-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2482-1-3970251d9956-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2482-1-12eb00dd8412-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2482-1-12eb00dd8412-v4.jpg"
         }
       ],
       "video_url": null,
@@ -161,8 +187,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2481-1-8526a9b22633-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2481-1-8526a9b22633-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2481-1-17ff76c7c808-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2481-1-17ff76c7c808-v4.jpg"
         }
       ],
       "video_url": null,
@@ -179,8 +205,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2480-1-b7d155e41145-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2480-1-b7d155e41145-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2480-1-c4b3d46a6ad6-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2480-1-c4b3d46a6ad6-v4.jpg"
         }
       ],
       "video_url": null,
@@ -197,8 +223,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2479-1-f6c8c9abb853-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2479-1-f6c8c9abb853-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2479-1-351c5f940cdd-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2479-1-351c5f940cdd-v4.jpg"
         }
       ],
       "video_url": null,
@@ -222,24 +248,6 @@
         "channel_username": "InvestmentLaw",
         "channel_title": "СпецИнвестРежимы"
       }
-    },
-    {
-      "id": 2476,
-      "date": "2026-02-19T10:02:14+00:00",
-      "text": "🔥 Налоговый форум РСПП - в фокусе внимания бизнеса и власти\n\n17 февраля в Москве состоялся Налоговый форум РСПП с участием бизнеса и представителей ФНС России. \n\nВ фокусе внимания участников:\n\n     📎 массовые выездные налоговые проверки участников налогового мониторинга\n\n     📎 пилотный проект ФНС о распространении налогового мониторинга на ТЦО\n\n     📎 экстерриториальность налоговых проверок на практике\n \n     📎 проблема применения льготного коэффициента к расходам на НИОКР\n\nПодробнее об этих и других ключевых событиях форума читайте на сайте \"Налоговеда\" 👉\n\n#налоговые_новости",
-      "text_html": "🔥 Налоговый форум РСПП - в фокусе внимания бизнеса и власти<br><br>17 февраля в Москве состоялся Налоговый форум РСПП с участием бизнеса и представителей ФНС России. <br><br>В фокусе внимания участников:<br><br>     📎 <a href=\"https://nalogoved.ru/news/16307.html\" target=\"_blank\" rel=\"noopener noreferrer\">массовые выездные налоговые проверки участников налогового мониторинга</a><br><br>     📎 <a href=\"https://nalogoved.ru/news/16310.html\" target=\"_blank\" rel=\"noopener noreferrer\">пилотный проект ФНС о распространении налогового мониторинга на ТЦО</a><br><br>     📎 <a href=\"https://nalogoved.ru/news/16308.html\" target=\"_blank\" rel=\"noopener noreferrer\">экстерриториальность налоговых проверок на практике</a><br> <br>     📎 <a href=\"https://nalogoved.ru/news/16312.html\" target=\"_blank\" rel=\"noopener noreferrer\">проблема применения льготного коэффициента к расходам на НИОКР</a><br><br>Подробнее об этих и других ключевых событиях форума читайте <a href=\"https://nalogoved.ru/news/\" target=\"_blank\" rel=\"noopener noreferrer\">на сайте</a> \"Налоговеда\" 👉<br><br>#налоговые_новости",
-      "views": 1290,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2476-1-063d5f5db516-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2476-1-063d5f5db516-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2476",
-      "forwarded_from": null
     }
   ]
 }

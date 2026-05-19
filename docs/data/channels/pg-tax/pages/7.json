@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-19T08:52:11.721245+00:00",
+  "generated_at": "2026-05-19T11:51:58.976256+00:00",
   "pagination": {
     "page": 7,
     "page_size": 16,
@@ -7,6 +7,37 @@
     "total_pages": 10
   },
   "posts": [
+    {
+      "id": 2551,
+      "date": "2026-03-20T14:19:24+00:00",
+      "text": "🧩 Продолжаем делиться сервисами, которые помогают нам оставаться с вами на связи\n\nПоскольку Telegram работает нестабильно, мы сделали приложение, в котором можно без ограничений читать все наши каналы. Его можно скачать на телефон или компьютер и продолжать следить за нашими публикациями в удобном формате.\n\n▫️Чтобы установить приложение, перейдите по ссылке и сохраните его на главный экран своего устройства. В карточке к посту подготовили пошаговую инструкцию, как это сделать на IOS и Android. \n\nУстановить приложение 👉",
+      "text_html": "🧩 Продолжаем делиться сервисами, которые помогают нам оставаться с вами на связи<br><br>Поскольку Telegram работает нестабильно, мы сделали приложение, в котором можно без ограничений читать все наши каналы. Его можно скачать на телефон или компьютер и продолжать следить за нашими публикациями в удобном формате.<br><br>▫️Чтобы установить приложение, перейдите <a href=\"https://pgplaw.github.io/pgp_official/\" target=\"_blank\" rel=\"noopener noreferrer\">по ссылке</a> и сохраните его на главный экран своего устройства. В карточке к посту подготовили пошаговую инструкцию, как это сделать на IOS и Android. <br><br><a href=\"https://pgplaw.github.io/pgp_official/\" target=\"_blank\" rel=\"noopener noreferrer\">Установить приложение</a> 👉",
+      "views": 1130,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2551-1-a34d7fdf14b9-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2551-1-a34d7fdf14b9-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2551-2-3479bfcc0308-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2551-2-3479bfcc0308-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2551-3-07549e86ec3b-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2551-3-07549e86ec3b-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/PG_Tax/2551",
+      "forwarded_from": {
+        "source_url": "https://t.me/pgp_official/1769",
+        "channel_url": "https://t.me/s/pgp_official",
+        "channel_username": "pgp_official",
+        "channel_title": "Pepeliaev Group | Пепеляев Групп"
+      }
+    },
     {
       "id": 2549,
       "date": "2026-03-20T13:04:14+00:00",
@@ -58,8 +89,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2547-1-98c0bc08b470-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2547-1-98c0bc08b470-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2547-1-a3a794f95c49-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2547-1-a3a794f95c49-v4.jpg"
         }
       ],
       "video_url": null,
@@ -125,8 +156,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2543-1-7aacdeb1a2be-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2543-1-7aacdeb1a2be-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2543-1-7cf22712fe45-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2543-1-7cf22712fe45-v4.jpg"
         }
       ],
       "video_url": null,
@@ -143,8 +174,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2542-1-3d3dcc69ca74-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2542-1-3d3dcc69ca74-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2542-1-23a8303af305-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2542-1-23a8303af305-v4.jpg"
         }
       ],
       "video_url": null,
@@ -161,12 +192,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2540-1-658708b4f91b-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2540-1-658708b4f91b-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2540-1-e11ca4bdca0a-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2540-1-e11ca4bdca0a-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2540-2-85d48936bd38-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2540-2-85d48936bd38-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2540-2-ab158033e7da-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2540-2-ab158033e7da-v4.jpg"
         }
       ],
       "video_url": null,
@@ -183,8 +214,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2539-1-a5b38c6e2253-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2539-1-a5b38c6e2253-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2539-1-4f11f57a35d0-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2539-1-4f11f57a35d0-v4.jpg"
         }
       ],
       "video_url": null,
@@ -214,7 +245,7 @@
       "date": "2026-03-16T13:05:42+00:00",
       "text": "🔥 Вебинар по инвестрежимам от ПГ, УЗПП в Приморском крае и Корпорации развития Дальнего Востока и Арктики  «Пепеляев Групп» совместно с Уполномоченным по защите прав предпринимателей в Приморском крае и Корпорацией развития Дальнего Востока и Арктики на вебинаре…",
       "text_html": "🔥 Вебинар по инвестрежимам от ПГ, УЗПП в Приморском крае и Корпорации развития Дальнего Востока и Арктики  «Пепеляев Групп» совместно с Уполномоченным по защите прав предпринимателей в Приморском крае и Корпорацией развития Дальнего Востока и Арктики на вебинаре…",
-      "views": 1050,
+      "views": 1060,
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
@@ -240,12 +271,12 @@
           "full_url": "data/channels/pg-tax/media/posts/2533-2-45fbd2325169-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2533-3-770e04089483-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2533-3-770e04089483-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2533-3-ecaa0a21c3f1-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2533-3-ecaa0a21c3f1-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2533-4-aa20c96da990-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2533-4-aa20c96da990-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2533-4-810713794dab-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2533-4-810713794dab-v4.jpg"
         }
       ],
       "video_url": null,
@@ -292,29 +323,6 @@
       "video_url": null,
       "tg_url": "https://t.me/PG_Tax/2531",
       "forwarded_from": null
-    },
-    {
-      "id": 2530,
-      "date": "2026-03-13T13:03:54+00:00",
-      "text": "🃏В бизнесе, как и в покере, выигрывает не тот, у кого больше карт, а тот, кто лучше понимает правила игры и вовремя делает правильную ставку.\n\n♠️ 26 марта приглашаем представителей бизнеса на встречу «Банкротный покер», на которой вместе с экспертами «Пепеляев Групп» обсудим актуальные вопросы банкротства, судебную практику и стратегии защиты бизнеса. Разберём реальные ситуации, сильные и слабые комбинации в спорах, а также новые подходы судов и государственных органов.\n\n♦️ Субсидиарная ответственность: всегда ли к одиннадцати туз? \n\n♦️ Защита сделок: фулл-хаус или пас?\n\n♦️  Налоги в банкротстве: игра с государством по-крупному:\n\n♦️ Семейные вопросы: когда в проигрыше тот, кто не играл.\n\n♦️ Другие тонкости банкротства для заядлых игроков.\n\nПриходите, чтобы разобраться в правилах игры и научиться держать сильную руку в банкротных спорах.\n\n⚡️ Подробнее о мероприятии и регистрация по ссылке.",
-      "text_html": "🃏В бизнесе, как и в покере, выигрывает не тот, у кого больше карт, а тот, кто лучше понимает правила игры и вовремя делает правильную ставку.<br><br>♠️ 26 марта приглашаем представителей бизнеса на встречу «<a href=\"https://www.pgplaw.ru/events/upcoming-events/bankrotnyy-poker/\" target=\"_blank\" rel=\"noopener noreferrer\">Банкротный покер</a>», на которой вместе с экспертами «Пепеляев Групп» обсудим актуальные вопросы банкротства, судебную практику и стратегии защиты бизнеса. Разберём реальные ситуации, сильные и слабые комбинации в спорах, а также новые подходы судов и государственных органов.<br><br>♦️ Субсидиарная ответственность: всегда ли к одиннадцати туз? <br><br>♦️ Защита сделок: фулл-хаус или пас?<br><br>♦️  Налоги в банкротстве: игра с государством по-крупному:<br><br>♦️ Семейные вопросы: когда в проигрыше тот, кто не играл.<br><br>♦️ Другие тонкости банкротства для заядлых игроков.<br><br>Приходите, чтобы разобраться в правилах игры и научиться держать сильную руку в банкротных спорах.<br><br>⚡️ Подробнее о мероприятии и регистрация по <a href=\"https://www.pgplaw.ru/events/upcoming-events/bankrotnyy-poker/\" target=\"_blank\" rel=\"noopener noreferrer\">ссылке.</a>",
-      "views": 1200,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2530-1-638aebd1944a-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2530-1-638aebd1944a-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2530",
-      "forwarded_from": {
-        "source_url": "https://t.me/bankrotstvo_mustknow/429",
-        "channel_url": "https://t.me/s/bankrotstvo_mustknow",
-        "channel_username": "bankrotstvo_mustknow",
-        "channel_title": "Банкротство | Взгляд эксперта"
-      }
     }
   ]
 }
