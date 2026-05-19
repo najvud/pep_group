@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-19T11:51:58.976256+00:00",
+  "generated_at": "2026-05-19T14:23:15.414415+00:00",
   "pagination": {
     "page": 7,
     "page_size": 16,
-    "total_posts": 157,
+    "total_posts": 156,
     "total_pages": 10
   },
   "posts": [
@@ -12,7 +12,7 @@
       "date": "2026-03-20T14:19:24+00:00",
       "text": "🧩 Продолжаем делиться сервисами, которые помогают нам оставаться с вами на связи\n\nПоскольку Telegram работает нестабильно, мы сделали приложение, в котором можно без ограничений читать все наши каналы. Его можно скачать на телефон или компьютер и продолжать следить за нашими публикациями в удобном формате.\n\n▫️Чтобы установить приложение, перейдите по ссылке и сохраните его на главный экран своего устройства. В карточке к посту подготовили пошаговую инструкцию, как это сделать на IOS и Android. \n\nУстановить приложение 👉",
       "text_html": "🧩 Продолжаем делиться сервисами, которые помогают нам оставаться с вами на связи<br><br>Поскольку Telegram работает нестабильно, мы сделали приложение, в котором можно без ограничений читать все наши каналы. Его можно скачать на телефон или компьютер и продолжать следить за нашими публикациями в удобном формате.<br><br>▫️Чтобы установить приложение, перейдите <a href=\"https://pgplaw.github.io/pgp_official/\" target=\"_blank\" rel=\"noopener noreferrer\">по ссылке</a> и сохраните его на главный экран своего устройства. В карточке к посту подготовили пошаговую инструкцию, как это сделать на IOS и Android. <br><br><a href=\"https://pgplaw.github.io/pgp_official/\" target=\"_blank\" rel=\"noopener noreferrer\">Установить приложение</a> 👉",
-      "views": 1130,
+      "views": 1140,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
@@ -21,12 +21,12 @@
           "full_url": "data/channels/pg-tax/media/posts/2551-1-a34d7fdf14b9-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2551-2-3479bfcc0308-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2551-2-3479bfcc0308-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2551-2-aaf4b2e3e7c7-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2551-2-aaf4b2e3e7c7-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2551-3-07549e86ec3b-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2551-3-07549e86ec3b-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2551-3-57baeacf5aff-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2551-3-57baeacf5aff-v4.jpg"
         }
       ],
       "video_url": null,
@@ -192,12 +192,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2540-1-e11ca4bdca0a-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2540-1-e11ca4bdca0a-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2540-1-b0159300ae04-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2540-1-b0159300ae04-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2540-2-ab158033e7da-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2540-2-ab158033e7da-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2540-2-a72413f04da8-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2540-2-a72413f04da8-v4.jpg"
         }
       ],
       "video_url": null,
@@ -214,8 +214,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2539-1-4f11f57a35d0-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2539-1-4f11f57a35d0-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2539-1-58ebdc45260b-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2539-1-58ebdc45260b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -271,8 +271,8 @@
           "full_url": "data/channels/pg-tax/media/posts/2533-2-45fbd2325169-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2533-3-ecaa0a21c3f1-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2533-3-ecaa0a21c3f1-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2533-3-a18130e5edce-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2533-3-a18130e5edce-v4.jpg"
         },
         {
           "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2533-4-810713794dab-v4.jpg",
