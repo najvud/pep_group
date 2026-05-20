@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-20T14:15:27.651558+00:00",
+  "generated_at": "2026-05-20T17:38:04.797149+00:00",
   "pagination": {
     "page": 5,
     "page_size": 16,
-    "total_posts": 73,
+    "total_posts": 72,
     "total_pages": 5
   },
   "posts": [
@@ -17,24 +17,24 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1745-1-d5cf7901d133-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1745-1-d5cf7901d133-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1745-1-02288b363c63-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1745-1-02288b363c63-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1745-2-08ea2a79a521-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1745-2-08ea2a79a521-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1745-2-fb07d287a24c-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1745-2-fb07d287a24c-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1745-3-10f697bd7b0f-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1745-3-10f697bd7b0f-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1745-3-2fa97d2af71e-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1745-3-2fa97d2af71e-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1745-4-1a7973a2c141-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1745-4-1a7973a2c141-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1745-4-403bedd13365-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1745-4-403bedd13365-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1745-5-3c293c8cf134-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1745-5-3c293c8cf134-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1745-5-91d228d6a7af-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1745-5-91d228d6a7af-v4.jpg"
         }
       ],
       "video_url": null,
@@ -51,8 +51,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1744-1-ce6b20041731-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1744-1-ce6b20041731-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1744-1-91dfd17987bc-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1744-1-91dfd17987bc-v4.jpg"
         }
       ],
       "video_url": null,
@@ -69,12 +69,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1742-1-23374b15aeaf-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1742-1-23374b15aeaf-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1742-1-465033f4c317-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1742-1-465033f4c317-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1742-2-225e9dbef0d5-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1742-2-225e9dbef0d5-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1742-2-89ac49ec7015-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1742-2-89ac49ec7015-v4.jpg"
         }
       ],
       "video_url": null,
@@ -91,8 +91,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1741-1-1eb306cc9a3a-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1741-1-1eb306cc9a3a-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1741-1-a7cdebdabacb-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1741-1-a7cdebdabacb-v4.jpg"
         }
       ],
       "video_url": null,
@@ -109,20 +109,20 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1736-1-4ca1ff05c178-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1736-1-4ca1ff05c178-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1736-1-8c08928dfe5f-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1736-1-8c08928dfe5f-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1736-2-f929a95e00ba-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1736-2-f929a95e00ba-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1736-2-a9b281c0786f-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1736-2-a9b281c0786f-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1736-3-cb6fcf0a4e85-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1736-3-cb6fcf0a4e85-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1736-3-cedc7feee4e8-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1736-3-cedc7feee4e8-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1736-4-864690ad0f2e-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1736-4-864690ad0f2e-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1736-4-474c42c0eb7c-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1736-4-474c42c0eb7c-v4.jpg"
         }
       ],
       "video_url": null,
@@ -139,8 +139,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1735-1-c66002d81ccf-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1735-1-c66002d81ccf-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1735-1-4d6612bb8967-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1735-1-4d6612bb8967-v4.jpg"
         }
       ],
       "video_url": null,
@@ -157,8 +157,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1734-1-60aa6096c938-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1734-1-60aa6096c938-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1734-1-b2c2e288f29d-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1734-1-b2c2e288f29d-v4.jpg"
         }
       ],
       "video_url": null,
@@ -175,8 +175,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1733-1-fb7da897b343-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1733-1-fb7da897b343-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1733-1-7ffb3d7c3753-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1733-1-7ffb3d7c3753-v4.jpg"
         }
       ],
       "video_url": null,
@@ -187,40 +187,6 @@
         "channel_username": "bankrotstvo_mustknow",
         "channel_title": "Банкротство | Взгляд эксперта"
       }
-    },
-    {
-      "id": 1727,
-      "date": "2026-02-20T14:40:55+00:00",
-      "text": "✈️ Клуб путешественников, или Pepeliaev Travelling! \n\nВ этом году открываем сезон необычной локацией - и отправляемся вместе с партнером и руководителем налоговой практики, телекоммуникационной и цифровой группы Натальей Коваленко в Благовещенск! \n\n📍 Коротко о локации: \nБлаговещенск расположен на левом берегу Амура и на правом берегу живописной реки Зеи, в ее устье. Это приграничный город - на расстоянии менее 1 км на правом берегу Амура находится район китайского городского округа Хэйхэ. Поэтому в городе все названия и указатели дублируются на китайском языке. \n\n💡 Благовещенск – единственный город в России, в котором до сих пор находят останки динозавров. Около 65 млн лет назад на территории Амурской области обитали эти вымершие животные. Уникальный доисторический травоядный ящер, обнаруженный на Благовещенском кладбище динозавров Амурской области, был назван амурозавром.\n\n«Вряд ли я начала бы свое знакомство с Дальним Востоком с Благовещенска, если бы судьба не предоставила мне возможность вести судебное дело в этом городе. Рассмотрение дела было долгим, поэтому я успела плотно познакомиться и с самим Благовещенском, и с окрестностями. В этом городе великолепные восходы и закаты, характерные только для Дальнего Востока, дружелюбные люди, живущие в естественном неторопливом мире, живописная природа, завораживающее течение рек – особенно в осенне-зимний период, когда оно несет льдины, а еще прекрасная 6-километровая набережная для прогулок. А на правом берегу Амура (то есть, уже в Китае), построена красивая набережная близнец, ярко светящаяся в темное время суток».\n\nЧем заняться: \n\n✔️ Обязательно прогуляться по благоустроенной двухъярусной набережной вдоль Амура и осмотреть достопримечательности: \n- памятный камень в честь основания города с вмонтированной носовой частью корабля;\n- памятник генерал-губернатору Амурской области Н.Н. Муравьеву-Амурскому, сыгравшему важную роль в возвращении Амура, который был отдан Китаю в 17 веке;\n- бронетанкер – памятник кораблям Амурской флотилии;\n- Триумфальная арка – каменные ворота, выполненные в псевдорусском стиле (копия сооружения конца 19 века, воздвигнутого в честь приезда в город цесаревича Николая); \n- торговые ряды «Мавритания», постройки 1907 года, выполненные в готическом стиле;\n- памятник собаке по кличке Дружок, которая отказалась покидать свой дом во время наводнения 2013 года, и т.д. \n\n✔️Отправиться в Амурский краеведческий музей Г.С. Новикова-Даурского, чтобы увидеть Усть-Нюкжинский метеорит, костюмы эвенкийских шаманов и услышать интереснейшую историю этого края. \n\n✔️ Заглянуть в Палеонтологический музей, в котором хранится крупнейшая в стране коллекция доисторических ящеров. \n\n✔️Любителям природы – отдохнуть на берегу реки Зея. Согласно легенде Зея, эвенкийская девушка, лезвием ножа разрезала скалы, вырвавшись на простор и пытаясь найти своего возлюбленного, который так и не вернулся из дальнего военного похода. Ее слезы были так обильны, что образовали реку с многочисленными протоками и заливами, напоминающими узоры на кумаланах (коврах) лучших эвенкийских мастериц.\n \n🤓 Это любопытно: \nМестные жители свидетельствуют, что амурские тигры в зимний период пересекают Амур, не обращая внимания на пограничный контроль 😀\n\n☝️Лайфак от Натальи: \nНепременно зайдите в один из многочисленных китайских ресторанов в городе – там готовят великолепную утку по-пекински!\n\n#pg_travelling",
-      "text_html": "✈️ Клуб путешественников, или Pepeliaev Travelling! <br><br>В этом году открываем сезон необычной локацией - и отправляемся вместе с партнером и руководителем налоговой практики, телекоммуникационной и цифровой группы <a href=\"https://www.pgplaw.ru/to-get-the-team/natalya-ivashchenko/\" target=\"_blank\" rel=\"noopener noreferrer\">Натальей Коваленко</a> в Благовещенск! <br><br>📍 Коротко о локации: <br>Благовещенск расположен на левом берегу Амура и на правом берегу живописной реки Зеи, в ее устье. Это приграничный город - на расстоянии менее 1 км на правом берегу Амура находится район китайского городского округа Хэйхэ. Поэтому в городе все названия и указатели дублируются на китайском языке. <br><br>💡 Благовещенск – единственный город в России, в котором до сих пор находят останки динозавров. Около 65 млн лет назад на территории Амурской области обитали эти вымершие животные. Уникальный доисторический травоядный ящер, обнаруженный на Благовещенском кладбище динозавров Амурской области, был назван амурозавром.<br><br>«Вряд ли я начала бы свое знакомство с Дальним Востоком с Благовещенска, если бы судьба не предоставила мне возможность вести судебное дело в этом городе. Рассмотрение дела было долгим, поэтому я успела плотно познакомиться и с самим Благовещенском, и с окрестностями. В этом городе великолепные восходы и закаты, характерные только для Дальнего Востока, дружелюбные люди, живущие в естественном неторопливом мире, живописная природа, завораживающее течение рек – особенно в осенне-зимний период, когда оно несет льдины, а еще прекрасная 6-километровая набережная для прогулок. А на правом берегу Амура (то есть, уже в Китае), построена красивая набережная близнец, ярко светящаяся в темное время суток».<br><br>Чем заняться: <br><br>✔️ Обязательно прогуляться по благоустроенной двухъярусной набережной вдоль Амура и осмотреть достопримечательности: <br>- памятный камень в честь основания города с вмонтированной носовой частью корабля;<br>- памятник генерал-губернатору Амурской области Н.Н. Муравьеву-Амурскому, сыгравшему важную роль в возвращении Амура, который был отдан Китаю в 17 веке;<br>- бронетанкер – памятник кораблям Амурской флотилии;<br>- Триумфальная арка – каменные ворота, выполненные в псевдорусском стиле (копия сооружения конца 19 века, воздвигнутого в честь приезда в город цесаревича Николая); <br>- торговые ряды «Мавритания», постройки 1907 года, выполненные в готическом стиле;<br>- памятник собаке по кличке Дружок, которая отказалась покидать свой дом во время наводнения 2013 года, и т.д. <br><br>✔️Отправиться в Амурский краеведческий музей Г.С. Новикова-Даурского, чтобы увидеть Усть-Нюкжинский метеорит, костюмы эвенкийских шаманов и услышать интереснейшую историю этого края. <br><br>✔️ Заглянуть в Палеонтологический музей, в котором хранится крупнейшая в стране коллекция доисторических ящеров. <br><br>✔️Любителям природы – отдохнуть на берегу реки Зея. Согласно легенде Зея, эвенкийская девушка, лезвием ножа разрезала скалы, вырвавшись на простор и пытаясь найти своего возлюбленного, который так и не вернулся из дальнего военного похода. Ее слезы были так обильны, что образовали реку с многочисленными протоками и заливами, напоминающими узоры на кумаланах (коврах) лучших эвенкийских мастериц.<br> <br>🤓 Это любопытно: <br>Местные жители свидетельствуют, что амурские тигры в зимний период пересекают Амур, не обращая внимания на пограничный контроль 😀<br><br>☝️Лайфак от Натальи: <br>Непременно зайдите в один из многочисленных китайских ресторанов в городе – там готовят великолепную утку по-пекински!<br><br>#pg_travelling",
-      "views": 1600,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1727-1-73cf23cb76a3-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1727-1-73cf23cb76a3-v4.jpg"
-        },
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1727-2-38e52b209066-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1727-2-38e52b209066-v4.jpg"
-        },
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1727-3-a3894fe4622f-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1727-3-a3894fe4622f-v4.jpg"
-        },
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1727-4-88507da657a5-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1727-4-88507da657a5-v4.jpg"
-        },
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1727-5-2182c94b2589-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1727-5-2182c94b2589-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/pgp_official/1727",
-      "forwarded_from": null
     }
   ]
 }
