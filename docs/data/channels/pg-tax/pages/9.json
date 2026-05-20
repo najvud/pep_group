@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T08:47:11.875875+00:00",
+  "generated_at": "2026-05-20T11:38:49.413300+00:00",
   "pagination": {
     "page": 9,
     "page_size": 16,
@@ -7,6 +7,24 @@
     "total_pages": 10
   },
   "posts": [
+    {
+      "id": 2515,
+      "date": "2026-03-06T07:32:18+00:00",
+      "text": "✍️ Нормативное регулирование\n \n🔴Председатель Правительства РФ подписал Постановление № 210, которым расширил параметры применения федерального инвестиционного налогового вычета (ФИНВ) для объединений компаний - на него может рассчитывать любой участник группы независимо от основной сферы его экономической деятельности.\n \n🔴Привязка ИНН к банковским счетам физлиц станет обязательной в первой половине 2027 г. Эта мера необходима для борьбы с дропперством. Законопроект о ней появится в Госдуме в ближайшие месяцы, рассказали в ЦБ РФ.\n \n⚖️ Судебные дела\n \nКонституционный Суд РФ признал, что п. 1 ст. 90 и ч. 1 ст. 128 НК РФ не предполагают признания проверяемого налогоплательщика свидетелем в отношении обстоятельств его собственной деятельности и применения к нему мер ответственности в случае его неявки по законному уведомлению налогового органа для дачи пояснений по предмету выездной налоговой проверки.\n \n✈️ За рубежом\n \nБогатые иностранцы, которые живут и ведут бизнес в Дубае, срочно возвращаются в ОАЭ, чтобы не потерять налоговые льготы. Затянувшееся пребывание за пределами страны ставит под угрозу статус резидента и одновременно может создать налоговые обязательства в других юрисдикциях.\n\n#главные_налоговые_новости",
+      "text_html": "✍️ Нормативное регулирование<br> <br>🔴Председатель Правительства РФ <a href=\"http://government.ru/news/58003/\" target=\"_blank\" rel=\"noopener noreferrer\">подписал</a> Постановление № <a href=\"http://publication.pravo.gov.ru/document/0001202603050025\" target=\"_blank\" rel=\"noopener noreferrer\">210</a><a href=\"http://publication.pravo.gov.ru/document/0001202603050025\" target=\"_blank\" rel=\"noopener noreferrer\">,</a> которым <a href=\"https://pravo.ru/news/262724/\" target=\"_blank\" rel=\"noopener noreferrer\">расширил</a> параметры применения федерального инвестиционного налогового вычета (ФИНВ) для объединений компаний - на него может рассчитывать любой участник группы независимо от основной сферы его экономической деятельности.<br> <br>🔴Привязка ИНН к банковским счетам физлиц <a href=\"https://www.rbc.ru/rbcfreenews/69a982459a794759b42ab852\" target=\"_blank\" rel=\"noopener noreferrer\">станет обязательной</a> в первой половине 2027 г. Эта мера необходима для борьбы с дропперством. Законопроект о ней появится в Госдуме в ближайшие месяцы, рассказали в ЦБ РФ.<br> <br>⚖️ Судебные дела<br> <br>Конституционный Суд РФ <a href=\"https://www.ksrf.ru/news/37840/\" target=\"_blank\" rel=\"noopener noreferrer\">признал</a><a href=\"https://www.ksrf.ru/news/37840/\" target=\"_blank\" rel=\"noopener noreferrer\">,</a> что п. 1 ст. 90 и ч. 1 ст. 128 НК РФ не предполагают признания проверяемого налогоплательщика свидетелем в отношении обстоятельств его собственной деятельности и применения к нему мер ответственности в случае его неявки по законному уведомлению налогового органа для дачи пояснений по предмету выездной налоговой проверки.<br> <br>✈️ За рубежом<br> <br>Богатые иностранцы, которые живут и ведут бизнес в Дубае, <a href=\"https://www.rbc.ru/rbcfreenews/69a979169a7947e4cf9481de\" target=\"_blank\" rel=\"noopener noreferrer\">срочно возвращаются</a> в ОАЭ, чтобы не потерять налоговые льготы. Затянувшееся пребывание за пределами страны ставит под угрозу статус резидента и одновременно может создать налоговые обязательства в других юрисдикциях.<br><br>#главные_налоговые_новости",
+      "views": 1260,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2515-1-9ae0eba2cb5f-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2515-1-9ae0eba2cb5f-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/PG_Tax/2515",
+      "forwarded_from": null
+    },
     {
       "id": 2514,
       "date": "2026-03-05T14:22:02+00:00",
@@ -29,7 +47,7 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/52aac8a07b.mp4?token=Fx_xx_MBqMFUan-VG8j_v_GXv-Ni4UwI9HvA5iii85cicthhY-8kwgCee1ChTQWq97zKluKjiSSGNpPMa-7GpYcgXjDw2XsdwxgZ_6uLf-Bnd5bQd5NBRMPy4CuzdlWb-zJ8nNa_Wp6ir_xiiFwoUZXQwgMMIZ3ATWZeBlKTvffRxqmn0bW6xJBOx4yknH7rY2tri7S9GA3eqVZqm7b1hpDiZ5eLPCr1Wm8k75UZWNV41T3y_SB-EJeVYWQhwQhx4hpYV96jZ_3eddImbbovsSvr1vm-FUKxLkN7WNkYVJAhp936fsPpvhHokqPLiTxdPSmB37vzPT5WcLdEXYq4Gg",
+      "video_url": "https://cdn4.telesco.pe/file/52aac8a07b.mp4?token=kuyvd-igdDKQaBdlpuKj36whcDAY9w1BOYPixG81GA9OxaW9Oye-oBxjiGy-T4U160UdilhMgICQGds3uMaWBibKTLK1Zz1yUaAZIDseCY6t8jCNGaItsXbjJ3l3nYH3VfrecmDnh-jZk5oPXTcKP8OcwwMDAeAx9-6BRT7zb51dt4aLX-KoDn55Im4g9tW-pZiRXRBgmxZND2bexpQwKhPAw65V7JhPNu0G2tTasYTtVO0KEniXV0yKCJUcc3mqIfQGTd-L9pdmNgXEmefzyka2BqYNQSOOJptWqTGNmbZVVBtGRSIjRlF2KDDOe2hteNreW1ZXjcftF8UHdePyXw",
       "tg_url": "https://t.me/PG_Tax/2513",
       "forwarded_from": null
     },
@@ -43,8 +61,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2512-1-f153c2536ac1-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2512-1-f153c2536ac1-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2512-1-18facfc04547-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2512-1-18facfc04547-v4.jpg"
         }
       ],
       "video_url": null,
@@ -74,8 +92,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2510-1-f085009be73c-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2510-1-f085009be73c-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2510-1-6c182d1d0a8d-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2510-1-6c182d1d0a8d-v4.jpg"
         }
       ],
       "video_url": null,
@@ -92,8 +110,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2509-1-a6320f8b1023-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2509-1-a6320f8b1023-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2509-1-bad1ee731463-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2509-1-bad1ee731463-v4.jpg"
         }
       ],
       "video_url": null,
@@ -110,8 +128,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2508-1-bdf093913504-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2508-1-bdf093913504-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2508-1-3345ca091da3-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2508-1-3345ca091da3-v4.jpg"
         }
       ],
       "video_url": null,
@@ -128,8 +146,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2507-1-81110a49c639-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2507-1-81110a49c639-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2507-1-fdc0c5e5d79e-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2507-1-fdc0c5e5d79e-v4.jpg"
         }
       ],
       "video_url": null,
@@ -145,7 +163,7 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/f8fa9e0a04.mp4?token=h5dIjZ1HdOLAfoo5orH83DKxBMft_4Vhc4EFD3Ys9ld5k1suRrR5T8mUvKqjI9IZ44Dxm7r1yvj4OPFvZLwQJtsbKjR3AAT1rF9kmqEH2HVQYYNsoFHzldIpc3p-clfhXD5XibHxSk_Nd8UoTKvd4cOVvWFHB7yE3LP434441ypMYglRKbW_cy01WpXdCFzNmKp9Xp_j4Yi3m-OnXHZx5Df9dkzhLjOKX2bQV5uP7A4YYBvr-Q93zU2EwzgFlw4z06AEgRfzjr1LovOHdeDNP-0wfK7564GRI4krxAPFMz1HKejZkcfzuBsUEZlGoBrTQWetykWpJCKEy0POSnmrqw",
+      "video_url": "https://cdn4.telesco.pe/file/f8fa9e0a04.mp4?token=cSR05ObJ4WWNi41pkwdxWMiZhE0f9viFYLZOY-mRqTqkZVchrWxoBG5KHCnG8joHcmUuzfsSYmFEIsKRPPCsY2L3TYjSXYxTsiaVEOIUlHc3eAznZ1RTmg7Qv2z5zD6E2hs2JJCAD3JyGCz3pli6M1V6BRZ7XfkSOlWxekQTX4ouzezP4ZX7M4bt69ErVuTQ91nyUuHlpaXG_G79HOILQAUouXUICrZafRn2YVVBuq7A-7EYLCCNRXCUBkUHbngCECrMGZm6LerGi-tk-vrc6CWPLf22MaXWQtmBwF1pLgAVTOVC6-Tl0mgBbeJ9JMF6-9Q2Jmj9rYbKkH14N66hXQ",
       "tg_url": "https://t.me/PG_Tax/2505",
       "forwarded_from": null
     },
@@ -159,8 +177,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2504-1-ebd247918f9b-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2504-1-ebd247918f9b-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2504-1-8004b8a91293-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2504-1-8004b8a91293-v4.jpg"
         }
       ],
       "video_url": null,
@@ -177,8 +195,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2502-1-9f0b7e664345-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2502-1-9f0b7e664345-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2502-1-584f20ef4473-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2502-1-584f20ef4473-v4.jpg"
         }
       ],
       "video_url": null,
@@ -195,8 +213,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2501-1-f066c31bfc44-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2501-1-f066c31bfc44-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2501-1-a6b7e087eb83-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2501-1-a6b7e087eb83-v4.jpg"
         }
       ],
       "video_url": null,
@@ -213,8 +231,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2498-1-0ce449e28438-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2498-1-0ce449e28438-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2498-1-f7f7a991548d-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2498-1-f7f7a991548d-v4.jpg"
         }
       ],
       "video_url": null,
@@ -231,8 +249,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2497-1-5e30c6b046e9-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2497-1-5e30c6b046e9-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2497-1-e24f4c1f1fcb-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2497-1-e24f4c1f1fcb-v4.jpg"
         }
       ],
       "video_url": null,
@@ -249,8 +267,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2496-1-67755c6d2dc7-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2496-1-67755c6d2dc7-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2496-1-9190971610c1-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2496-1-9190971610c1-v4.jpg"
         }
       ],
       "video_url": null,
@@ -261,19 +279,6 @@
         "channel_username": "pgp_official",
         "channel_title": "Pepeliaev Group | Пепеляев Групп"
       }
-    },
-    {
-      "id": 2495,
-      "date": "2026-02-27T10:45:38+00:00",
-      "text": "📎 23 декабря прошло завершающее в 2025 году заседание рабочей группы по совершенствованию налогового администрирования при Экспертном совете ТПП РФ.  Ключевая тема — разработка законопроекта о переходных положениях при изменении размера налога.   🛑  В основу…",
-      "text_html": "📎 23 декабря прошло завершающее в 2025 году заседание рабочей группы по совершенствованию налогового администрирования при Экспертном совете ТПП РФ.  Ключевая тема — разработка законопроекта о переходных положениях при изменении размера налога.   🛑  В основу…",
-      "views": 1580,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2495",
-      "forwarded_from": null
     }
   ]
 }
