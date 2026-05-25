@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T04:52:00.652986+00:00",
+  "generated_at": "2026-05-25T08:51:16.801816+00:00",
   "pagination": {
     "page": 10,
     "page_size": 16,
@@ -7,6 +7,24 @@
     "total_pages": 10
   },
   "posts": [
+    {
+      "id": 2504,
+      "date": "2026-03-03T10:06:46+00:00",
+      "text": null,
+      "text_html": null,
+      "views": 1200,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2504-1-6d828f86f3f6-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2504-1-6d828f86f3f6-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/PG_Tax/2504",
+      "forwarded_from": null
+    },
     {
       "id": 2502,
       "date": "2026-03-03T07:45:10+00:00",
@@ -17,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2502-1-e37b2f969276-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2502-1-e37b2f969276-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2502-1-96fa1a42777e-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2502-1-96fa1a42777e-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +53,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2501-1-da84382da894-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2501-1-da84382da894-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2501-1-937d7bc26c1b-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2501-1-937d7bc26c1b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -53,8 +71,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2498-1-64cfac1c95e4-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2498-1-64cfac1c95e4-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2498-1-85c352bc49fd-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2498-1-85c352bc49fd-v4.jpg"
         }
       ],
       "video_url": null,
@@ -71,8 +89,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2497-1-219943dff677-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2497-1-219943dff677-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2497-1-809f2913bfa2-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2497-1-809f2913bfa2-v4.jpg"
         }
       ],
       "video_url": null,
@@ -89,8 +107,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2496-1-fabf06d63c50-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2496-1-fabf06d63c50-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2496-1-49ddcfc6d218-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2496-1-49ddcfc6d218-v4.jpg"
         }
       ],
       "video_url": null,
@@ -125,8 +143,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2494-1-027bbe68e51f-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2494-1-027bbe68e51f-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2494-1-265801554613-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2494-1-265801554613-v4.jpg"
         }
       ],
       "video_url": null,
@@ -143,16 +161,16 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2491-1-e17e5e6816b1-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2491-1-e17e5e6816b1-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2491-1-c811b5f55442-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2491-1-c811b5f55442-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2491-2-62194f28a269-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2491-2-62194f28a269-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2491-2-94018d53f1c8-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2491-2-94018d53f1c8-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2491-3-9575ec234a8d-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2491-3-9575ec234a8d-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2491-3-358d6c39d313-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2491-3-358d6c39d313-v4.jpg"
         }
       ],
       "video_url": null,
@@ -169,8 +187,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2489-1-1c9e851970c4-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2489-1-1c9e851970c4-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2489-1-2aeb66dae5a2-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2489-1-2aeb66dae5a2-v4.jpg"
         }
       ],
       "video_url": null,
@@ -187,8 +205,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2488-1-34c6224804c3-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2488-1-34c6224804c3-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2488-1-0f3236b19512-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2488-1-0f3236b19512-v4.jpg"
         }
       ],
       "video_url": null,
@@ -205,30 +223,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2487-1-0f65fc85059b-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2487-1-0f65fc85059b-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2487-1-eeeaa0ac8fc4-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2487-1-eeeaa0ac8fc4-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/PG_Tax/2487",
-      "forwarded_from": null
-    },
-    {
-      "id": 2486,
-      "date": "2026-02-25T08:00:38+00:00",
-      "text": "✍️ Нормативное регулирование\n \n🔴Правительство РФ внесло в Госдуму законопроект № 1155876-8 с поправками в ст. 164 НК РФ в части документального подтверждения правомерности применения 10-процентной ставки НДС по детским товарам.\n \n🔴Минстрой России подготовил проект постановления Правительства, разрешающий корректировку стоимости строительных госконтрактов, заключенных до 2026 г., в связи с ростом ставки НДС. \n🛑 Изменения коснутся работ, которые будут приняты после 1 января 2026 г. Внести правки стороны смогут до 1 октября текущего года в пределах суммы увеличения налога.\n \n⚙️ Практика\n \n🔴Минфин в письме от 28.01.2026 № 03-00-08/5827 указал, что не будет формировать официальный перечень стран с низким налогом на прибыль для целей признания сделок контролируемыми. Оценку соответствия критерию 15% налогоплательщик должен проводить самостоятельно. \n \n🔴Рестораторы рассказали о давлении на бизнес из-за дефицита персонала, роста налогов и аренды. Чтобы сдержать цены, они оптимизируют меню и процессы.\n \n🔴ФНС России напомнила, что организации должны уплатить налоги на имущество (транспортный и земельный, налог на имущество) за 2025 год не позднее 2 марта 2026 г. (срок переносится с 28 февраля на ближайший рабочий день).\n \n⚖️ Судебные дела\n \nВ деле ИП Александра Овсянникова СКЭС ВС РФ разъяснила, что поправки в НК РФ, повышающие размер налогов и сборов (в т.ч. госпошлины), не имеют обратной силы, исходя из общих положений ст. 5 Кодекса.\nℹ️ Размер пошлины рассчитывается на дату подачи иска, но в случае увеличения истцом требований необходимо доплатить часть судебной пошлины, размер которой рассчитывается по закону, действующему на момент увеличения суммы иска.\n\n#главные_налоговые_новости",
-      "text_html": "✍️ Нормативное регулирование<br> <br>🔴Правительство РФ <a href=\"https://sozd.duma.gov.ru/bill/1155876-8\" target=\"_blank\" rel=\"noopener noreferrer\">внесло</a> в Госдуму законопроект № <a href=\"https://sozd.duma.gov.ru/bill/1155876-8\" target=\"_blank\" rel=\"noopener noreferrer\">1155876-8</a> с поправками в ст. 164 НК РФ в части документального подтверждения правомерности применения 10-процентной ставки НДС по детским товарам.<br> <br>🔴Минстрой России <a href=\"https://www.kommersant.ru/doc/8461866?query=%D0%BD%D0%B0%D0%BB%D0%BE%D0%B3\" target=\"_blank\" rel=\"noopener noreferrer\">подготовил</a> проект постановления Правительства, разрешающий корректировку стоимости строительных госконтрактов, заключенных до 2026 г., в связи с ростом ставки НДС. <br>🛑 Изменения коснутся работ, которые будут приняты после 1 января 2026 г. Внести правки стороны смогут до 1 октября текущего года в пределах суммы увеличения налога.<br> <br>⚙️ Практика<br> <br>🔴Минфин в письме от 28.01.2026 № 03-00-08/5827 указал, что не будет формировать официальный перечень стран с низким налогом на прибыль для целей признания сделок контролируемыми. Оценку соответствия критерию 15% налогоплательщик должен проводить самостоятельно. <br> <br>🔴Рестораторы <a href=\"https://www.rbc.ru/business/24/02/2026/699d7b2b9a79470deba5c3f5\" target=\"_blank\" rel=\"noopener noreferrer\">рассказали</a> о давлении на бизнес из-за дефицита персонала, роста налогов и аренды. Чтобы сдержать цены, они оптимизируют меню и процессы.<br> <br>🔴ФНС России <a href=\"https://www.nalog.gov.ru/rn77/news/activities_fts/16604925/\" target=\"_blank\" rel=\"noopener noreferrer\">напомнила</a><a href=\"https://www.nalog.gov.ru/rn77/news/activities_fts/16604925/\" target=\"_blank\" rel=\"noopener noreferrer\">,</a> что организации должны уплатить налоги на имущество (транспортный и земельный, налог на имущество) за 2025 год не позднее 2 марта 2026 г. (срок переносится с 28 февраля на ближайший рабочий день).<br> <br>⚖️ Судебные дела<br> <br>В <a href=\"https://kad.arbitr.ru/card/2e03a022-e579-4d3a-a4b2-23e5a03a95e9\" target=\"_blank\" rel=\"noopener noreferrer\">деле ИП Александра Овсянникова</a> СКЭС ВС РФ <a href=\"https://www.kommersant.ru/doc/8461612?query=%D0%BD%D0%B0%D0%BB%D0%BE%D0%B3\" target=\"_blank\" rel=\"noopener noreferrer\">разъяснила,</a> что поправки в НК РФ, повышающие размер налогов и сборов (в т.ч. госпошлины), не имеют обратной силы, исходя из общих положений ст. 5 Кодекса.<br>ℹ️ Размер пошлины рассчитывается на дату подачи иска, но в случае увеличения истцом требований необходимо доплатить часть судебной пошлины, размер которой рассчитывается по закону, действующему на момент увеличения суммы иска.<br><br>#главные_налоговые_новости",
-      "views": 1330,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2486-1-fd0d06fb40bd-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2486-1-fd0d06fb40bd-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2486",
       "forwarded_from": null
     }
   ]
