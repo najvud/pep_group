@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-27T06:01:14.970475+00:00",
+  "generated_at": "2026-05-27T10:15:01.265270+00:00",
   "pagination": {
     "page": 4,
     "page_size": 16,
-    "total_posts": 52,
+    "total_posts": 51,
     "total_pages": 4
   },
   "posts": [
@@ -17,8 +17,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1297-1-a34909a9c8da-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1297-1-a34909a9c8da-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1297-1-0f7d91d04e9b-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1297-1-0f7d91d04e9b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -48,30 +48,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1293-1-00babaf823fe-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1293-1-00babaf823fe-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1293-1-86b5863fc762-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1293-1-86b5863fc762-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/pgecology/1293",
-      "forwarded_from": null
-    },
-    {
-      "id": 1292,
-      "date": "2026-02-27T07:00:07+00:00",
-      "text": "📣 Результаты индивидуального рейтинга Право-300, 2025\n\n44 юриста «Пепеляев Групп» рекомендованы индивидуальным рейтингом Право-300 по результатам 2025 года. \nПять из них отмечены в категории «Экологическое право».\n\n📎 Полный список рекомендованных юристов на сайте.\n\nПоздравляем коллег с профессиональными успехами 🎉",
-      "text_html": "📣 Результаты индивидуального рейтинга Право-300, 2025<br><br>44 юриста «Пепеляев Групп» рекомендованы индивидуальным рейтингом Право-300 по результатам 2025 года. <br>Пять из них отмечены в категории «Экологическое право».<br><br>📎 Полный список рекомендованных юристов <a href=\"https://www.pgplaw.ru/news/press-releases/individualniy-reyting-pravo300-2025/\" target=\"_blank\" rel=\"noopener noreferrer\">на сайте</a>.<br><br>Поздравляем коллег с профессиональными успехами 🎉",
-      "views": 611,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1292-1-f6da05734c57-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1292-1-f6da05734c57-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/pgecology/1292",
       "forwarded_from": null
     }
   ]

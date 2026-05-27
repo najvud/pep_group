@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T06:00:22.820532+00:00",
+  "generated_at": "2026-05-27T10:13:15.916218+00:00",
   "pagination": {
     "page": 2,
     "page_size": 16,
@@ -7,6 +7,24 @@
     "total_pages": 3
   },
   "posts": [
+    {
+      "id": 1385,
+      "date": "2026-04-09T07:33:56+00:00",
+      "text": "✏️Почему проверка контрагентов — важный комплаенс-инструмент\n\nОпределение СКЭС ВС РФ от 29.12.2025 № 305-ЭС25-9790\n\nФНС и ФАС рекомендуют заказчикам применять сервисы оценки юридических лиц и ИП для проверки контрагентов. \n\nОднако антимонопольный орган в спорных случаях иногда занимает позицию, что перенос обязанности проверки на исполнителей может ограничивать конкуренцию. Так он и поступил в рассмотренном выше деле.\n\nВпрочем ВС РФ указал, что условие договора о проверке контрагентов не является требованием к участникам торгов и не относится к процедуре закупки. Антимонопольная служба не доказала, что такое условие ограничивает конкуренцию.\n\nПо сути, условие направлено на снижение рисков заказчика, связанных с недобросовестным исполнением контракта, и одновременно не ограничивает доступ других участников к торгам. Условие договора о проверке контрагентов — допустимый комплаенс-механизм, который усиливает защиту интересов заказчика и минимизирует последствия возможных нарушений.\n\nВ следующем посте поговорим о спорных моментах рассмотренного определения.\n\nНаша команда помогает в разработке и внедрении антимонопольных комплаенс систем, включая выстраивание процедур проверки контрагентов и анализ договорных конструкций.",
+      "text_html": "✏️Почему проверка контрагентов — важный комплаенс-инструмент<br><br><a href=\"https://kad.arbitr.ru/Card/37c23793-34f2-4ac9-9c0a-cee625b64628\" target=\"_blank\" rel=\"noopener noreferrer\">Определение СКЭС ВС РФ от 29.12.2025 № 305-ЭС25-9790</a><br><br>ФНС и ФАС рекомендуют заказчикам применять сервисы оценки юридических лиц и ИП для проверки контрагентов. <br><br>Однако антимонопольный орган в спорных случаях иногда занимает позицию, что перенос обязанности проверки на исполнителей может ограничивать конкуренцию. Так он и поступил в рассмотренном выше деле.<br><br>Впрочем ВС РФ указал, что условие договора о проверке контрагентов не является требованием к участникам торгов и не относится к процедуре закупки. Антимонопольная служба не доказала, что такое условие ограничивает конкуренцию.<br><br>По сути, условие направлено на снижение рисков заказчика, связанных с недобросовестным исполнением контракта, и одновременно не ограничивает доступ других участников к торгам. Условие договора о проверке контрагентов — допустимый комплаенс-механизм, который усиливает защиту интересов заказчика и минимизирует последствия возможных нарушений.<br><br>В <a href=\"https://t.me/PgAntitrust/1387\" target=\"_blank\" rel=\"noopener noreferrer\">следующем посте</a> поговорим о спорных моментах рассмотренного определения.<br><br><a href=\"https://www.pgplaw.ru/practice-and-industry/practices/antitrust-regulation/diagnostika-tsenovogo-riska-mvc/\" target=\"_blank\" rel=\"noopener noreferrer\">Наша команда</a> помогает в разработке и внедрении антимонопольных комплаенс систем, включая выстраивание процедур проверки контрагентов и анализ договорных конструкций.",
+      "views": 529,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1385-1-932dafe100f3-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1385-1-932dafe100f3-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/PgAntitrust/1385",
+      "forwarded_from": null
+    },
     {
       "id": 1384,
       "date": "2026-04-07T07:34:24+00:00",
@@ -168,8 +186,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1371-1-a909d8dff99d-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1371-1-a909d8dff99d-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1371-1-83c8000657a9-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1371-1-83c8000657a9-v4.jpg"
         }
       ],
       "video_url": null,
@@ -186,8 +204,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1370-1-5cb69d6b4a19-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1370-1-5cb69d6b4a19-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1370-1-a51e89e82d41-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1370-1-a51e89e82d41-v4.jpg"
         }
       ],
       "video_url": null,
@@ -204,16 +222,16 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1367-1-68a4f4cca683-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1367-1-68a4f4cca683-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1367-1-ff68f8319422-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1367-1-ff68f8319422-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1367-2-f13ec2027f53-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1367-2-f13ec2027f53-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1367-2-c1e9e5b7a67d-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1367-2-c1e9e5b7a67d-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1367-3-1772a67b5241-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1367-3-1772a67b5241-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1367-3-d0660eb82686-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1367-3-d0660eb82686-v4.jpg"
         }
       ],
       "video_url": null,
@@ -235,8 +253,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1366-1-2ff536b56371-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1366-1-2ff536b56371-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1366-1-3c2fb650f293-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1366-1-3c2fb650f293-v4.jpg"
         }
       ],
       "video_url": null,
@@ -266,8 +284,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1364-1-7f0e7e208c1c-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1364-1-7f0e7e208c1c-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1364-1-f997eb28986e-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1364-1-f997eb28986e-v4.jpg"
         }
       ],
       "video_url": null,
@@ -284,8 +302,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1363-1-b6f52949e07e-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1363-1-b6f52949e07e-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1363-1-7fcad2cd0daa-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1363-1-7fcad2cd0daa-v4.jpg"
         }
       ],
       "video_url": null,
@@ -295,29 +313,6 @@
         "channel_url": "https://t.me/s/bankrotstvo_mustknow",
         "channel_username": "bankrotstvo_mustknow",
         "channel_title": "Банкротство | Взгляд эксперта"
-      }
-    },
-    {
-      "id": 1362,
-      "date": "2026-03-13T12:04:01+00:00",
-      "text": "📧 Еженедельные рассылки «Пепеляев Групп»: чтобы важные изменения в законодательстве не прошли мимо\n\nДрузья, напоминаем, что у «Пепеляев Групп» выходят еженедельные рассылки по ключевым изменениям в законодательстве и правоприменительной практике.\n\n▫️Наши эксперты регулярно готовят аналитические материалы по наиболее актуальным темам — от налогов и банкротства до антимонопольного регулирования, антикризисной защиты бизнеса и других отраслевых вопросов. В рассылках краткие обзоры новостей, комментарии экспертов и практические рекомендации для бизнеса.\n\nСейчас, когда в работе Telegram могут возникать ограничения, для нас особенно важно оставаться с вами на связи и продолжать оперативно делиться экспертной аналитикой ❤️\n\n👉 Подписаться на рассылки",
-      "text_html": "📧 Еженедельные рассылки «Пепеляев Групп»: чтобы важные изменения в законодательстве не прошли мимо<br><br>Друзья, напоминаем, что у «Пепеляев Групп» выходят <a href=\"https://www.pgplaw.ru/subscribe/?utm_source=telegram\" target=\"_blank\" rel=\"noopener noreferrer\">еженедельные рассылки</a> по ключевым изменениям в законодательстве и правоприменительной практике.<br><br>▫️Наши эксперты регулярно готовят аналитические материалы по наиболее актуальным темам — от налогов и банкротства до антимонопольного регулирования, антикризисной защиты бизнеса и других отраслевых вопросов. В рассылках краткие обзоры новостей, комментарии экспертов и практические рекомендации для бизнеса.<br><br>Сейчас, когда в работе Telegram могут возникать ограничения, для нас особенно важно оставаться с вами на связи и продолжать оперативно делиться экспертной аналитикой ❤️<br><br>👉 <a href=\"https://www.pgplaw.ru/subscribe/?utm_source=telegram\" target=\"_blank\" rel=\"noopener noreferrer\">Подписаться на рассылки</a>",
-      "views": 507,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1362-1-820a80e9f287-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1362-1-820a80e9f287-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PgAntitrust/1362",
-      "forwarded_from": {
-        "source_url": "https://t.me/pgp_official/1758",
-        "channel_url": "https://t.me/s/pgp_official",
-        "channel_username": "pgp_official",
-        "channel_title": "Pepeliaev Group | Пепеляев Групп"
       }
     }
   ]
