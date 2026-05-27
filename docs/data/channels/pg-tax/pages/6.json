@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T10:14:26.454038+00:00",
+  "generated_at": "2026-05-27T13:51:43.073425+00:00",
   "pagination": {
     "page": 6,
     "page_size": 16,
@@ -7,6 +7,24 @@
     "total_pages": 10
   },
   "posts": [
+    {
+      "id": 2583,
+      "date": "2026-04-09T10:46:14+00:00",
+      "text": null,
+      "text_html": null,
+      "views": 908,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2583-1-02a15e1a0ccf-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2583-1-02a15e1a0ccf-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/PG_Tax/2583",
+      "forwarded_from": null
+    },
     {
       "id": 2582,
       "date": "2026-04-09T06:52:52+00:00",
@@ -17,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2582-1-481363390a46-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2582-1-481363390a46-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2582-1-235dc9bcbfce-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2582-1-235dc9bcbfce-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +53,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2581-1-2947a9ff8ff7-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2581-1-2947a9ff8ff7-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2581-1-2bd69adbca2d-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2581-1-2bd69adbca2d-v4.jpg"
         }
       ],
       "video_url": null,
@@ -53,8 +71,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2580-1-5bbf6941cfd4-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2580-1-5bbf6941cfd4-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2580-1-d61ca91d8d48-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2580-1-d61ca91d8d48-v4.jpg"
         }
       ],
       "video_url": null,
@@ -84,8 +102,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2578-1-2cc66fe9ed34-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2578-1-2cc66fe9ed34-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2578-1-b1a9563c43fe-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2578-1-b1a9563c43fe-v4.jpg"
         }
       ],
       "video_url": null,
@@ -102,8 +120,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2577-1-9d25720f7b69-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2577-1-9d25720f7b69-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2577-1-04d18d1d7c54-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2577-1-04d18d1d7c54-v4.jpg"
         }
       ],
       "video_url": null,
@@ -120,8 +138,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2576-1-c51ba7ae57c0-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2576-1-c51ba7ae57c0-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2576-1-18af17603ac1-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2576-1-18af17603ac1-v4.jpg"
         }
       ],
       "video_url": null,
@@ -169,8 +187,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2573-1-f84258c1fa14-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2573-1-f84258c1fa14-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2573-1-d02f78898dc0-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2573-1-d02f78898dc0-v4.jpg"
         }
       ],
       "video_url": null,
@@ -187,8 +205,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2572-1-c332e906d07d-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2572-1-c332e906d07d-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2572-1-765810355d70-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2572-1-765810355d70-v4.jpg"
         }
       ],
       "video_url": null,
@@ -205,8 +223,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2571-1-0c354750ce52-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2571-1-0c354750ce52-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2571-1-31710b84aed1-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2571-1-31710b84aed1-v4.jpg"
         }
       ],
       "video_url": null,
@@ -223,8 +241,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2570-1-c11d18955d61-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2570-1-c11d18955d61-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2570-1-f4aacfcf5770-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2570-1-f4aacfcf5770-v4.jpg"
         }
       ],
       "video_url": null,
@@ -241,8 +259,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2569-1-adf472d76b72-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2569-1-adf472d76b72-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2569-1-a19193d774d1-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2569-1-a19193d774d1-v4.jpg"
         }
       ],
       "video_url": null,
@@ -259,30 +277,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2568-1-8879c9bb3509-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2568-1-8879c9bb3509-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2568-1-83aacd15444e-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2568-1-83aacd15444e-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/PG_Tax/2568",
-      "forwarded_from": null
-    },
-    {
-      "id": 2567,
-      "date": "2026-03-30T07:35:30+00:00",
-      "text": "⚙️ Практика\n\n🔴Систему подтверждения ожидания товаров (СПОТ - один из ключевых инструментов плана обеления отдельных секторов экономики) в тестовом режиме запустят с 1 июля, а не с 1 апреля как планировалось.\n \n🔴ФНС России уточнила, кому грозит блокировка счетов за непредоставление декларации: только организациям, ИП, нотариусам, адвокатам и иным лицам, занимающимся частной практикой, доход которых связан с ведением предпринимательской деятельности. Речь идет о предоставлении декларации по форме 3-НДФЛ при получении дохода. Операции могут быть приостановлены, если декларация не предоставлена в течение 20 дней по истечении установленного срока (30 апреля).\n \n🔴Россия и Казахстан планируют провести консультации по вопросу двойного налогообложения доходов удаленных работников, рассказала в интервью РБК замглавы ФНС Юлия Шепелева.\n\nТему обсудили эксперты «Пепеляев Групп» (см. видео и статью в журнале «Налоговед»).\n \n⚖️ Судебные дела\n \nВС РФ утвердил тематический обзор № 3/2026 «О рассмотрении судами общей юрисдикции споров, связанных с применением отдельных положений законодательства о налогах и сборах».\n\n#главные_налоговые_новости\n\n🏢 Подписаться на рассылки | MAX | Приложение PG",
-      "text_html": "⚙️ Практика<br><br>🔴Систему подтверждения ожидания товаров (СПОТ - один из ключевых инструментов плана обеления отдельных секторов экономики) в тестовом режиме <a href=\"https://rg.ru/2026/03/27/presech-import-po-serym-shemam-zapusk-spot-perenesli-na-1-iiulia-2026-goda.html\" target=\"_blank\" rel=\"noopener noreferrer\">запустят</a> с 1 июля, а не с 1 апреля как планировалось.<br> <br>🔴ФНС России <a href=\"https://www.vedomosti.ru/economics/news/2026/03/29/1186352-komu-grozit-blokirovka-schetov\" target=\"_blank\" rel=\"noopener noreferrer\">уточнила,</a> кому грозит блокировка счетов за непредоставление декларации: только организациям, ИП, нотариусам, адвокатам и иным лицам, занимающимся частной практикой, доход которых связан с ведением предпринимательской деятельности. Речь идет о предоставлении декларации по форме 3-НДФЛ при получении дохода. Операции могут быть приостановлены, если декларация не предоставлена в течение 20 дней по истечении установленного срока (30 апреля).<br> <br>🔴Россия и Казахстан <a href=\"https://www.rbc.ru/economics/30/03/2026/69c8142f9a7947db93579005?from=main_lines_1\" target=\"_blank\" rel=\"noopener noreferrer\">планируют провести</a> <a href=\"https://www.rbc.ru/economics/30/03/2026/69c8142f9a7947db93579005?from=main_lines_1\" target=\"_blank\" rel=\"noopener noreferrer\">консультации</a> по вопросу двойного налогообложения доходов удаленных работников, рассказала в интервью РБК замглавы ФНС Юлия Шепелева.<br><br>Тему обсудили эксперты «Пепеляев Групп» (см. <a href=\"https://www.pgplaw.ru/analytics-and-brochures/video/dvoynoe-nalogooblozhenie-dokhodov/\" target=\"_blank\" rel=\"noopener noreferrer\">видео</a> и <a href=\"https://e.nalogoved.ru/1167095\" target=\"_blank\" rel=\"noopener noreferrer\">статью</a> в журнале «Налоговед»).<br> <br>⚖️ Судебные дела<br> <br>ВС РФ <a href=\"https://vsrf.ru/documents/all/35667/\" target=\"_blank\" rel=\"noopener noreferrer\">утвердил</a> тематический обзор № 3/2026 «О рассмотрении судами общей юрисдикции споров, связанных с применением отдельных положений законодательства о налогах и сборах».<br><br>#главные_налоговые_новости<br><br>🏢 <a href=\"https://www.pgplaw.ru/subscribe/\" target=\"_blank\" rel=\"noopener noreferrer\">Подписаться на рассылки |</a> <a href=\"https://max.ru/id7707301372_biz\" target=\"_blank\" rel=\"noopener noreferrer\">MAX |</a> <a href=\"https://t.me/pgp_official/1769\" target=\"_blank\" rel=\"noopener noreferrer\">Приложение PG</a>",
-      "views": 1110,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2567-1-212b0774ad9a-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2567-1-212b0774ad9a-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2567",
       "forwarded_from": null
     }
   ]
