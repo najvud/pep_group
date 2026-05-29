@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-05-29T09:47:35.893809+00:00",
+  "generated_at": "2026-05-29T12:39:17.761313+00:00",
   "pagination": {
     "page": 8,
     "page_size": 16,
-    "total_posts": 160,
-    "total_pages": 10
+    "total_posts": 161,
+    "total_pages": 11
   },
   "posts": [
+    {
+      "id": 2557,
+      "date": "2026-03-24T10:09:26+00:00",
+      "text": "Сегодня в рубрике #Сергей_Пепеляев_ON_AIR законопроект о соотношении цены договора и НДС.\n\nЗаконопроект был разработан в конце 2025 года экспертами \"Пепеляев Групп\" в связи с принятием Конституционным Судом РФ Постановления от 25.11.2025 № 41-П и несколько месяцев дорабатывался на базе рабочей группы ТПП РФ по налоговому администрированию. \n\n3 марта 2026 года законопроект был вынесен на обсуждение Экспертного совета ТПП РФ по совершенствованию налогового законодательства и правоприменительной практики.",
+      "text_html": "Сегодня в рубрике #Сергей_Пепеляев_ON_AIR законопроект о соотношении цены договора и НДС.<br><br>Законопроект был разработан в конце 2025 года экспертами \"Пепеляев Групп\" в связи с принятием Конституционным Судом РФ <a href=\"https://www.ksrf.ru/doc/KSRFDecision871703.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Постановления от 25.11.2025 № 41-П</a> и несколько месяцев дорабатывался на базе рабочей группы ТПП РФ по налоговому администрированию. <br><br>3 марта 2026 года законопроект был вынесен на обсуждение Экспертного совета ТПП РФ по совершенствованию налогового законодательства и правоприменительной практики.",
+      "views": 1030,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2557-1-923f4bf1d17e-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2557-1-923f4bf1d17e-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/PG_Tax/2557",
+      "forwarded_from": null
+    },
     {
       "id": 2556,
       "date": "2026-03-24T07:34:43+00:00",
@@ -17,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2556-1-e9c4e825d095-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2556-1-e9c4e825d095-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2556-1-f2aedd79ec71-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2556-1-f2aedd79ec71-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +53,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2555-1-e2c0516a8acf-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2555-1-e2c0516a8acf-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2555-1-6f8e64067d66-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2555-1-6f8e64067d66-v4.jpg"
         }
       ],
       "video_url": null,
@@ -53,8 +71,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2554-1-8cc42e59514d-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2554-1-8cc42e59514d-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2554-1-89d7d868c594-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2554-1-89d7d868c594-v4.jpg"
         }
       ],
       "video_url": null,
@@ -71,16 +89,16 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2551-1-74e9b5968e23-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2551-1-74e9b5968e23-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2551-1-77cf3a17406a-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2551-1-77cf3a17406a-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2551-2-3cd317efdb64-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2551-2-3cd317efdb64-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2551-2-5f1976a17381-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2551-2-5f1976a17381-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2551-3-8e67299b8325-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2551-3-8e67299b8325-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2551-3-3b46cd16714b-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2551-3-3b46cd16714b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -97,13 +115,13 @@
       "date": "2026-03-20T13:04:14+00:00",
       "text": "📧 Еженедельные рассылки «Пепеляев Групп»: чтобы важные изменения в законодательстве не прошли мимо\n\nДрузья, напоминаем, что у «Пепеляев Групп» выходят еженедельные рассылки по ключевым изменениям в законодательстве и правоприменительной практике.\n\n▫️Наши эксперты регулярно готовят аналитические материалы по наиболее актуальным темам — от налогов и банкротства до антимонопольного регулирования, антикризисной защиты бизнеса и других отраслевых вопросов. В рассылках краткие обзоры новостей, комментарии экспертов и практические рекомендации для бизнеса.\n\nСейчас, когда в работе Telegram могут возникать ограничения, для нас особенно важно оставаться с вами на связи и продолжать оперативно делиться экспертной аналитикой ❤️\n\n👉 Подписаться на рассылки",
       "text_html": "📧 Еженедельные рассылки «Пепеляев Групп»: чтобы важные изменения в законодательстве не прошли мимо<br><br>Друзья, напоминаем, что у «Пепеляев Групп» выходят <a href=\"https://www.pgplaw.ru/subscribe/?utm_source=telegram\" target=\"_blank\" rel=\"noopener noreferrer\">еженедельные рассылки</a> по ключевым изменениям в законодательстве и правоприменительной практике.<br><br>▫️Наши эксперты регулярно готовят аналитические материалы по наиболее актуальным темам — от налогов и банкротства до антимонопольного регулирования, антикризисной защиты бизнеса и других отраслевых вопросов. В рассылках краткие обзоры новостей, комментарии экспертов и практические рекомендации для бизнеса.<br><br>Сейчас, когда в работе Telegram могут возникать ограничения, для нас особенно важно оставаться с вами на связи и продолжать оперативно делиться экспертной аналитикой ❤️<br><br>👉 <a href=\"https://www.pgplaw.ru/subscribe/?utm_source=telegram\" target=\"_blank\" rel=\"noopener noreferrer\">Подписаться на рассылки</a>",
-      "views": 979,
+      "views": 980,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2549-1-f24aee97b5b8-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2549-1-f24aee97b5b8-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2549-1-628deafb8738-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2549-1-628deafb8738-v4.jpg"
         }
       ],
       "video_url": null,
@@ -120,13 +138,13 @@
       "date": "2026-03-20T10:03:41+00:00",
       "text": "Наша постоянная рубрика #от_редактора_Налоговед\n                           \nМаргарита Завязочникова обращает внимание, что четыре статьи свежего № 3 посвящены новой теме – цифровым финансовым активам, вопросам их налогообложения:\n\n📎 Дифференцированный подход к налогообложению безвозмездной передачи цифровой валюты\n\n📎 Цифровые финансовые активы с позиции КС РФ\n\n📎 Налогообложение цифровых активов в США: практические ориентиры для российского законодателя\n\n📎 Регулирование налогообложения криптовалюты в Израиле\n \nЕсть и другие не менее интересные статьи в номере. \n\nА также интервью: Поможет ли налоговая медиация снизить конфликтность налоговых споров? – разбираемся в вопросе с Романом Якушевым, курирующим этот проект в ФНС.\n \n☝️ Материалы номера доступны подписчикам, но почитать их можно и через демо-доступ.\n \nДля инфо: открыт архив журнала вплоть до 2023 г. (в электронном виде).  \n\n📑 Полезного чтения!",
       "text_html": "Наша постоянная рубрика #от_редактора_Налоговед<br>                           <br>Маргарита Завязочникова обращает внимание, что четыре статьи свежего <a href=\"https://e.nalogoved.ru/\" target=\"_blank\" rel=\"noopener noreferrer\">№ 3</a> посвящены новой теме – цифровым финансовым активам, вопросам их налогообложения:<br><br>📎 <a href=\"https://e.nalogoved.ru/1178144\" target=\"_blank\" rel=\"noopener noreferrer\">Дифференцированный подход</a> к налогообложению безвозмездной передачи цифровой валюты<br><br>📎 <a href=\"https://e.nalogoved.ru/1178145\" target=\"_blank\" rel=\"noopener noreferrer\">Цифровые финансовые активы</a> с позиции КС РФ<br><br>📎 <a href=\"https://e.nalogoved.ru/1178146\" target=\"_blank\" rel=\"noopener noreferrer\">Налогообложение цифровых активов в США</a>: практические ориентиры для российского законодателя<br><br>📎 <a href=\"https://e.nalogoved.ru/1178147\" target=\"_blank\" rel=\"noopener noreferrer\">Регулирование налогообложения криптовалюты</a> в Израиле<br> <br>Есть и другие не менее интересные статьи <a href=\"https://e.nalogoved.ru/\" target=\"_blank\" rel=\"noopener noreferrer\">в номере</a>. <br><br>А также интервью: <a href=\"https://e.nalogoved.ru/1178143\" target=\"_blank\" rel=\"noopener noreferrer\">Поможет ли налоговая медиация снизить конфликтность налоговых споров?</a> – разбираемся в вопросе с Романом Якушевым, курирующим этот проект в ФНС.<br> <br>☝️ Материалы номера доступны подписчикам, но почитать их можно и через <a href=\"https://e.nalogoved.ru/\" target=\"_blank\" rel=\"noopener noreferrer\">демо-доступ</a>.<br> <br>Для инфо: открыт <a href=\"https://e.nalogoved.ru/\" target=\"_blank\" rel=\"noopener noreferrer\">архив журнала</a> вплоть до 2023 г. (в электронном виде).  <br><br>📑 Полезного чтения!",
-      "views": 996,
+      "views": 997,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2548-1-898c5d16e9d4-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2548-1-898c5d16e9d4-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2548-1-86335ab2131f-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2548-1-86335ab2131f-v4.jpg"
         }
       ],
       "video_url": null,
@@ -143,8 +161,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2547-1-a796a20663f4-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2547-1-a796a20663f4-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2547-1-c36f2962aa30-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2547-1-c36f2962aa30-v4.jpg"
         }
       ],
       "video_url": null,
@@ -174,8 +192,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2545-1-7b69c50977fd-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2545-1-7b69c50977fd-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2545-1-5ffcd8af507a-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2545-1-5ffcd8af507a-v4.jpg"
         }
       ],
       "video_url": null,
@@ -192,8 +210,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2544-1-e58019325f10-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2544-1-e58019325f10-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2544-1-54f51017fc2e-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2544-1-54f51017fc2e-v4.jpg"
         }
       ],
       "video_url": null,
@@ -210,8 +228,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2543-1-2019b584c975-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2543-1-2019b584c975-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2543-1-7c971ec04df9-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2543-1-7c971ec04df9-v4.jpg"
         }
       ],
       "video_url": null,
@@ -228,8 +246,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2542-1-6ec94f059b0b-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2542-1-6ec94f059b0b-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2542-1-b2742c24b706-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2542-1-b2742c24b706-v4.jpg"
         }
       ],
       "video_url": null,
@@ -246,12 +264,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2540-1-60ef783420ea-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2540-1-60ef783420ea-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2540-1-434bbd97566b-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2540-1-434bbd97566b-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2540-2-31eb151d111d-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2540-2-31eb151d111d-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2540-2-26daf6c01754-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2540-2-26daf6c01754-v4.jpg"
         }
       ],
       "video_url": null,
@@ -268,8 +286,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2539-1-84266c73b5a3-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2539-1-84266c73b5a3-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2539-1-41dba88a2172-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2539-1-41dba88a2172-v4.jpg"
         }
       ],
       "video_url": null,
@@ -286,25 +304,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2538-1-c1555fe64de5-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2538-1-c1555fe64de5-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2538-1-114551bf52e0-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2538-1-114551bf52e0-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/PG_Tax/2538",
-      "forwarded_from": null
-    },
-    {
-      "id": 2537,
-      "date": "2026-03-16T13:05:42+00:00",
-      "text": "🔥 Вебинар по инвестрежимам от ПГ, УЗПП в Приморском крае и Корпорации развития Дальнего Востока и Арктики  «Пепеляев Групп» совместно с Уполномоченным по защите прав предпринимателей в Приморском крае и Корпорацией развития Дальнего Востока и Арктики на вебинаре…",
-      "text_html": "🔥 Вебинар по инвестрежимам от ПГ, УЗПП в Приморском крае и Корпорации развития Дальнего Востока и Арктики  «Пепеляев Групп» совместно с Уполномоченным по защите прав предпринимателей в Приморском крае и Корпорацией развития Дальнего Востока и Арктики на вебинаре…",
-      "views": 1060,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2537",
       "forwarded_from": null
     }
   ]
