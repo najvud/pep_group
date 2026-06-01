@@ -1,0 +1,33 @@
+{
+  "generated_at": "2026-06-01T12:19:44.270515+00:00",
+  "pagination": {
+    "page": 6,
+    "page_size": 16,
+    "total_posts": 81,
+    "total_pages": 6
+  },
+  "posts": [
+    {
+      "id": 1742,
+      "date": "2026-03-02T07:04:19+00:00",
+      "text": "🔍 Начинаем рабочую неделю с рубрикой #PG_Грамотность \n\nОбороты с предлогом согласно. Выделять запятыми или нет?\n\n☝️ Читайте в карточке правописания!",
+      "text_html": "🔍 Начинаем рабочую неделю с рубрикой #PG_Грамотность <br><br>Обороты с предлогом согласно. Выделять запятыми или нет?<br><br>☝️ Читайте в карточке правописания!",
+      "views": 1230,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1742-1-6260f5f7c8d0-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1742-1-6260f5f7c8d0-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1742-2-4dd502fa2898-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1742-2-4dd502fa2898-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/pgp_official/1742",
+      "forwarded_from": null
+    }
+  ]
+}
