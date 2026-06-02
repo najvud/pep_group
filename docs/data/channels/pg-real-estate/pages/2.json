@@ -1,18 +1,49 @@
 {
-  "generated_at": "2026-06-02T06:22:56.034465+00:00",
+  "generated_at": "2026-06-02T11:02:26.476058+00:00",
   "pagination": {
     "page": 2,
     "page_size": 16,
-    "total_posts": 20,
+    "total_posts": 21,
     "total_pages": 2
   },
   "posts": [
+    {
+      "id": 226,
+      "date": "2026-03-20T14:15:30+00:00",
+      "text": "🧩 Продолжаем делиться сервисами, которые помогают нам оставаться с вами на связи\n\nПоскольку Telegram работает нестабильно, мы сделали приложение, в котором можно без ограничений читать все наши каналы. Его можно скачать на телефон или компьютер и продолжать следить за нашими публикациями в удобном формате.\n\n▫️Чтобы установить приложение, перейдите по ссылке и сохраните его на главный экран своего устройства. В карточке к посту подготовили пошаговую инструкцию, как это сделать на IOS и Android. \n\nУстановить приложение 👉",
+      "text_html": "🧩 Продолжаем делиться сервисами, которые помогают нам оставаться с вами на связи<br><br>Поскольку Telegram работает нестабильно, мы сделали приложение, в котором можно без ограничений читать все наши каналы. Его можно скачать на телефон или компьютер и продолжать следить за нашими публикациями в удобном формате.<br><br>▫️Чтобы установить приложение, перейдите <a href=\"https://pgplaw.github.io/pgp_official/\" target=\"_blank\" rel=\"noopener noreferrer\">по ссылке</a> и сохраните его на главный экран своего устройства. В карточке к посту подготовили пошаговую инструкцию, как это сделать на IOS и Android. <br><br><a href=\"https://pgplaw.github.io/pgp_official/\" target=\"_blank\" rel=\"noopener noreferrer\">Установить приложение</a> 👉",
+      "views": 1670,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-real-estate/media/posts/thumbs/226-1-61d4696942e9-v4.jpg",
+          "full_url": "data/channels/pg-real-estate/media/posts/226-1-61d4696942e9-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pg-real-estate/media/posts/thumbs/226-2-c33a28257e0d-v4.jpg",
+          "full_url": "data/channels/pg-real-estate/media/posts/226-2-c33a28257e0d-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pg-real-estate/media/posts/thumbs/226-3-cbeb8c1d0e88-v4.jpg",
+          "full_url": "data/channels/pg-real-estate/media/posts/226-3-cbeb8c1d0e88-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/PG_RealEstate/226",
+      "forwarded_from": {
+        "source_url": "https://t.me/pgp_official/1769",
+        "channel_url": "https://t.me/s/pgp_official",
+        "channel_username": "pgp_official",
+        "channel_title": "Pepeliaev Group | Пепеляев Групп"
+      }
+    },
     {
       "id": 225,
       "date": "2026-03-16T13:18:25+00:00",
       "text": "📧 Еженедельные рассылки «Пепеляев Групп»: чтобы важные изменения в законодательстве не прошли мимо\n\nДрузья, напоминаем, что у «Пепеляев Групп» выходят еженедельные рассылки по ключевым изменениям в законодательстве и правоприменительной практике.\n\n▫️Наши эксперты регулярно готовят аналитические материалы по наиболее актуальным темам — от налогов и банкротства до антимонопольного регулирования, антикризисной защиты бизнеса и других отраслевых вопросов. В рассылках краткие обзоры новостей, комментарии экспертов и практические рекомендации для бизнеса.\n\nСейчас, когда в работе Telegram могут возникать ограничения, для нас особенно важно оставаться с вами на связи и продолжать оперативно делиться экспертной аналитикой ❤️\n\n👉 Подписаться на рассылки",
       "text_html": "📧 Еженедельные рассылки «Пепеляев Групп»: чтобы важные изменения в законодательстве не прошли мимо<br><br>Друзья, напоминаем, что у «Пепеляев Групп» выходят <a href=\"https://www.pgplaw.ru/subscribe/?utm_source=telegram\" target=\"_blank\" rel=\"noopener noreferrer\">еженедельные рассылки</a> по ключевым изменениям в законодательстве и правоприменительной практике.<br><br>▫️Наши эксперты регулярно готовят аналитические материалы по наиболее актуальным темам — от налогов и банкротства до антимонопольного регулирования, антикризисной защиты бизнеса и других отраслевых вопросов. В рассылках краткие обзоры новостей, комментарии экспертов и практические рекомендации для бизнеса.<br><br>Сейчас, когда в работе Telegram могут возникать ограничения, для нас особенно важно оставаться с вами на связи и продолжать оперативно делиться экспертной аналитикой ❤️<br><br>👉 <a href=\"https://www.pgplaw.ru/subscribe/?utm_source=telegram\" target=\"_blank\" rel=\"noopener noreferrer\">Подписаться на рассылки</a>",
-      "views": 1480,
+      "views": 1490,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
@@ -40,8 +71,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-real-estate/media/posts/thumbs/224-1-1e5ff6fda9a3-v4.jpg",
-          "full_url": "data/channels/pg-real-estate/media/posts/224-1-1e5ff6fda9a3-v4.jpg"
+          "thumb_url": "data/channels/pg-real-estate/media/posts/thumbs/224-1-521775857845-v4.jpg",
+          "full_url": "data/channels/pg-real-estate/media/posts/224-1-521775857845-v4.jpg"
         }
       ],
       "video_url": null,
@@ -58,8 +89,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-real-estate/media/posts/thumbs/222-1-c3846ac3a917-v4.jpg",
-          "full_url": "data/channels/pg-real-estate/media/posts/222-1-c3846ac3a917-v4.jpg"
+          "thumb_url": "data/channels/pg-real-estate/media/posts/thumbs/222-1-b0e56a9f7151-v4.jpg",
+          "full_url": "data/channels/pg-real-estate/media/posts/222-1-b0e56a9f7151-v4.jpg"
         }
       ],
       "video_url": null,
@@ -81,8 +112,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-real-estate/media/posts/thumbs/221-1-2773fd5635ce-v4.jpg",
-          "full_url": "data/channels/pg-real-estate/media/posts/221-1-2773fd5635ce-v4.jpg"
+          "thumb_url": "data/channels/pg-real-estate/media/posts/thumbs/221-1-5d73d252cbc9-v4.jpg",
+          "full_url": "data/channels/pg-real-estate/media/posts/221-1-5d73d252cbc9-v4.jpg"
         }
       ],
       "video_url": null,
