@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-06-01T21:48:47.612099+00:00",
+  "generated_at": "2026-06-02T06:24:09.497766+00:00",
   "pagination": {
     "page": 3,
     "page_size": 16,
-    "total_posts": 74,
+    "total_posts": 75,
     "total_pages": 5
   },
   "posts": [
+    {
+      "id": 471,
+      "date": "2026-04-17T10:54:42+00:00",
+      "text": "⚖️ Здоровье семьи должника выше интересов кредиторов.\n\nВладимир Гоппе, специалист практики банкротства и антикризисной защиты бизнеса, о связи здоровья и исполнительского иммунитета, на примере Постановления суда округа.\n\n📘Ситуация:\nФинансовый управляющий оспорил соглашение о разделе совместно нажитого имущества должника, согласно которому часть имущества, в том числе, квартира перешла в личную собственность супруги. \n\n📘Позиция судов:\n\nСуды первой и апелляционной инстанций сочли, что сделка имела целью исключения имущества должника из конкурсной массы.\n\nНо кассационный суд направил спор на новое рассмотрение, поскольку:\n🔹соглашение заключено для сохранения привычного образа жизни супруги, у которой к этому времени был диагностирован рак;  \n🔹квартира является единственным жильем для  семьи умершего;\n🔹суду необходимо установить, не будут ли последствия недействительности сделки иметь карательный характер (учитывая состав семьи, состояние здоровья, нуждаемость в лечении, медицинской помощи и т. д.);\n🔹необходимо учитывать мотивы соглашения на дату заключения сделки;\n🔹злоупотребление правом при заключении соглашения не исключает защиту конституционного права на жилище самого должника и членов его семьи.\n\nВыводы: \nКритерии применения исполнительского иммунитета до сих пор не определены и каждый раз суды  индивидуально подходят к спорной ситуации. \nБазовый подход в том, что цель обеспечить баланс интересов кредиторов и должника не должна приводить к ущемлению прав лиц, нуждающихся в социальной защите.\n\n#Банкротство_граждан\n#Недействительность_сделок",
+      "text_html": "⚖️ Здоровье семьи должника выше интересов кредиторов.<br><br>Владимир Гоппе, специалист практики банкротства и антикризисной защиты бизнеса, о связи здоровья и исполнительского иммунитета, на примере <a href=\"https://ras.arbitr.ru/Document/Pdf/f8b096d7-126d-4593-89fa-a7175b8cd505/397b227c-c866-4a54-8721-cd5d6061159c/%D0%9040-131214-2021__20260406.pdf?isAddStamp=True\" target=\"_blank\" rel=\"noopener noreferrer\">Постановления суда округа</a>.<br><br>📘Ситуация:<br>Финансовый управляющий оспорил соглашение о разделе совместно нажитого имущества должника, согласно которому часть имущества, в том числе, квартира перешла в личную собственность супруги. <br><br>📘Позиция судов:<br><br>Суды первой и апелляционной инстанций сочли, что сделка имела целью исключения имущества должника из конкурсной массы.<br><br>Но кассационный суд направил спор на новое рассмотрение, поскольку:<br>🔹соглашение заключено для сохранения привычного образа жизни супруги, у которой к этому времени был диагностирован рак;  <br>🔹квартира является единственным жильем для  семьи умершего;<br>🔹суду необходимо установить, не будут ли последствия недействительности сделки иметь карательный характер (учитывая состав семьи, состояние здоровья, нуждаемость в лечении, медицинской помощи и т. д.);<br>🔹необходимо учитывать мотивы соглашения на дату заключения сделки;<br>🔹злоупотребление правом при заключении соглашения не исключает защиту конституционного права на жилище самого должника и членов его семьи.<br><br>Выводы: <br>Критерии применения исполнительского иммунитета до сих пор не определены и каждый раз суды  индивидуально подходят к спорной ситуации. <br>Базовый подход в том, что цель обеспечить баланс интересов кредиторов и должника не должна приводить к ущемлению прав лиц, нуждающихся в социальной защите.<br><br>#Банкротство_граждан<br>#Недействительность_сделок",
+      "views": 319,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/471-1-b8d28a3efbfd-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/471-1-b8d28a3efbfd-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/bankrotstvo_mustknow/471",
+      "forwarded_from": null
+    },
     {
       "id": 470,
       "date": "2026-04-16T10:02:56+00:00",
@@ -17,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/470-1-15e50d20750e-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/470-1-15e50d20750e-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/470-1-788877b9ba99-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/470-1-788877b9ba99-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +53,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/469-1-f8d311ed03b4-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/469-1-f8d311ed03b4-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/469-1-939e39de7bec-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/469-1-939e39de7bec-v4.jpg"
         }
       ],
       "video_url": null,
@@ -53,8 +71,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/468-1-525b82019ac7-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/468-1-525b82019ac7-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/468-1-c1694ee84e6b-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/468-1-c1694ee84e6b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -71,8 +89,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/467-1-15c34db54df4-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/467-1-15c34db54df4-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/467-1-4e2a3e173f36-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/467-1-4e2a3e173f36-v4.jpg"
         }
       ],
       "video_url": null,
@@ -89,8 +107,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/466-1-a2c03d187f26-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/466-1-a2c03d187f26-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/466-1-68979d88dfd0-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/466-1-68979d88dfd0-v4.jpg"
         }
       ],
       "video_url": null,
@@ -102,13 +120,13 @@
       "date": "2026-04-09T11:27:54+00:00",
       "text": "🧮 Можно ли пересчитать налоги в банкротстве?\n \nЮлия Литовцева, партнер, руководитель практики банкротства и антикризисной защиты бизнеса «Пепеляев Групп», рассказывает о том, можно ли в банкротстве пересчитать налоги и существенно снизить долги перед бюджетом. В ролике разбираются две позиции Верховного Суда РФ 2025–2026 годов, ошибки кредиторов и даются рекомендации, как защитить бизнес от неожиданных доначислений.\n\n👉 Смотрите на YouTube, Rutube, VK и нашем сайте. \n\n#Банкротство_взгляд_эксперта",
       "text_html": "🧮 Можно ли пересчитать налоги в банкротстве?<br> <br>Юлия Литовцева, партнер, руководитель <a href=\"https://www.pgplaw.ru/practice-and-industry/practices/bankruptcy/\" target=\"_blank\" rel=\"noopener noreferrer\">практики банкротства и антикризисной защиты бизнеса</a> «Пепеляев Групп», рассказывает о том, можно ли в банкротстве пересчитать налоги и существенно снизить долги перед бюджетом. В ролике разбираются две позиции Верховного Суда РФ 2025–2026 годов, ошибки кредиторов и даются рекомендации, как защитить бизнес от неожиданных доначислений.<br><br>👉 Смотрите на <a href=\"https://youtu.be/fjClBhWlU18\" target=\"_blank\" rel=\"noopener noreferrer\">YouTube,</a> <a href=\"https://rutube.ru/video/bb1cc897cea27506e6cd00c52ffbb748/\" target=\"_blank\" rel=\"noopener noreferrer\">Rutube,</a> <a href=\"https://vkvideo.ru/video-227047542_456239407\" target=\"_blank\" rel=\"noopener noreferrer\">VK</a> и <a href=\"https://www.pgplaw.ru/analytics-and-brochures/video/mozhno-li-pereschitat-nalogi-v-bankrotstve/\" target=\"_blank\" rel=\"noopener noreferrer\">нашем сайте.</a> <br><br>#Банкротство_взгляд_эксперта",
-      "views": 365,
+      "views": 366,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/463-1-8d1ba904ef5d-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/463-1-8d1ba904ef5d-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/463-1-0d0a91a27a3f-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/463-1-0d0a91a27a3f-v4.jpg"
         }
       ],
       "video_url": null,
@@ -125,8 +143,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/462-1-43f01d25a9db-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/462-1-43f01d25a9db-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/462-1-bbd47de7fe94-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/462-1-bbd47de7fe94-v4.jpg"
         }
       ],
       "video_url": null,
@@ -143,8 +161,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/461-1-caf77ca82a17-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/461-1-caf77ca82a17-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/461-1-cb7255a1984c-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/461-1-cb7255a1984c-v4.jpg"
         }
       ],
       "video_url": null,
@@ -161,8 +179,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/459-1-c11f049b6a4f-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/459-1-c11f049b6a4f-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/459-1-c7eb3a13164e-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/459-1-c7eb3a13164e-v4.jpg"
         }
       ],
       "video_url": null,
@@ -179,8 +197,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/458-1-05dc39a6d416-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/458-1-05dc39a6d416-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/458-1-6eeb858a9341-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/458-1-6eeb858a9341-v4.jpg"
         }
       ],
       "video_url": null,
@@ -197,8 +215,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/457-1-1d5d96e10b57-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/457-1-1d5d96e10b57-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/457-1-34b252210428-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/457-1-34b252210428-v4.jpg"
         }
       ],
       "video_url": null,
@@ -215,8 +233,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/456-1-03d58316d2fd-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/456-1-03d58316d2fd-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/456-1-2c0abb368822-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/456-1-2c0abb368822-v4.jpg"
         }
       ],
       "video_url": null,
@@ -233,8 +251,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/455-1-08f6258cc1b8-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/455-1-08f6258cc1b8-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/455-1-c4cb65fc81f0-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/455-1-c4cb65fc81f0-v4.jpg"
         }
       ],
       "video_url": null,
@@ -246,13 +264,13 @@
       "date": "2026-04-01T09:48:58+00:00",
       "text": "​​📨 Еженедельный обзор Банкротство: Взгляд эксперта \n\nО новых событиях сферы банкротства с авторскими рекомендациями от Ю. Литовцевой в еженедельном обзоре Банкротство: Взгляд эксперта от команды практики банкротства и антикризисной защиты бизнеса! В этом выпуске:\n\n📝 Реструктуризация - новая процедура в деле о банкротстве юридических лиц\n\n👥 Банкротство граждан в новом обзоре ВС РФ \n\n💭 Юридическая сила переписки\n\n💰 Реструктуризация с «дисконтом»: что будет с оставшейся задолженностью? \n\nПодробности уже ожидают по ссылке!\n☕ Приятного чтения!\n\n#Банкротство_взгляд_эксперта\n#Изменения_законодательства \n#Процессуальные_вопросы  \n#Банкротство_граждан",
       "text_html": "<a href=\"http://telegraph.controller.bot/files/7064224270/AgACAgIAAxkBAAIMX2mn5E1lxN0PSaNFU-NUSDDZdalvAALEE2sbM4tBSc4zx0AyaIhZAQADAgADeAADOgQ\" target=\"_blank\" rel=\"noopener noreferrer\">​​</a>📨 Еженедельный обзор Банкротство: Взгляд эксперта <br><br>О новых событиях сферы банкротства с авторскими рекомендациями от Ю. Литовцевой в еженедельном обзоре Банкротство: Взгляд эксперта от команды <a href=\"https://www.pgplaw.ru/practice-and-industry/practices/bankruptcy/\" target=\"_blank\" rel=\"noopener noreferrer\">практики банкротства и антикризисной защиты бизнеса!</a> В этом выпуске:<br><br>📝 Реструктуризация - новая процедура в деле о банкротстве юридических лиц<br><br>👥 Банкротство граждан в новом обзоре ВС РФ <br><br>💭 Юридическая сила переписки<br><br>💰 Реструктуризация с «дисконтом»: что будет с оставшейся задолженностью? <br><br>Подробности уже ожидают <a href=\"https://www.pgplaw.ru/analytics-and-brochures/bankruptcy-must-read/bankruptcy-digest-01-04-26/\" target=\"_blank\" rel=\"noopener noreferrer\">по ссылке!</a><br><a href=\"https://www.pgplaw.ru/analytics-and-brochures/bankruptcy-must-read/bankruptcy-must-read-26-11-25/\" target=\"_blank\" rel=\"noopener noreferrer\">☕</a> Приятного чтения!<br><br>#Банкротство_взгляд_эксперта<br>#Изменения_законодательства <br>#Процессуальные_вопросы  <br>#Банкротство_граждан",
-      "views": 339,
+      "views": 340,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/454-1-4885513e026f-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/454-1-4885513e026f-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/454-1-495a2ec0bd85-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/454-1-495a2ec0bd85-v4.jpg"
         }
       ],
       "video_url": null,
@@ -269,30 +287,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/452-1-d0eb5bb65a11-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/452-1-d0eb5bb65a11-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/452-1-2932a009200a-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/452-1-2932a009200a-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/bankrotstvo_mustknow/452",
-      "forwarded_from": null
-    },
-    {
-      "id": 451,
-      "date": "2026-03-30T07:06:32+00:00",
-      "text": "​​💰 Банкротства должника нет, а «субсидиарка» есть. Как такое возможно?\n \nКирилл Карпов, старший юрист практики банкротства и антикризисной защиты бизнеса, рассказывает о том, что нового появилось в постановлении Пленума ВС РФ от 23.12.2025 по данному вопросу.\n \n«Внебанкротная субсидиарка» предусмотрена ст. 61.19 Закона о банкротстве. Заявление может быть подано в случае:\n🔹 завершения конкурсного производства;\n🔹 прекращения производства по делу о банкротстве.\n \n📌 Но Постановление Пленума ВС РФ от 23.12.2025 ввело новый механизм. Теперь заявление о привлечении к субсидиарной ответственности контролирующего лица может быть подано напрямую к такому лиц в его личном банкротстве, даже если банкротство в отношении подконтрольного ему лица не возбуждалось!\n \n👉 В этом случае требование о привлечении к субсидиарной ответственности может быть подано в деле о банкротстве контролирующего лица в форме заявления о включении такого требования в реестр требований кредиторов (п. 37(2) Постановления Пленума ВС РФ от 21.12.2017 № 53), если основания таких требований возникли до возбуждения дела о банкротстве контролирующего лица. \n \nЕсли же основания требований к контролирующему лицу возникли позднее, то такие требования предъявляются в форме иска по месту нахождения подконтрольного лица.\n \n🪄 Судебная практика применения данного механизма пока не сформировалась. Интересным остается вопрос соотношения сроков исковой давности на подачу заявления о привлечении к субсидиарной ответственности (3 года) и сроков на предъявление требований о включении в реестр требований кредиторов (1 и 2 месяца).\n \n#Субсидиарная_ответственность\n#Процессуальные_вопросы",
-      "text_html": "<a href=\"http://telegraph.controller.bot/files/7064224270/AgACAgIAAxkBAAIMv2nKIPGkMHcZl92YBlxAd_wYVgZrAAIhHmsbEM5RStOTRIauAmgvAQADAgADeAADOgQ\" target=\"_blank\" rel=\"noopener noreferrer\">​​</a>💰 Банкротства должника нет, а «субсидиарка» есть. Как такое возможно?<br> <br>Кирилл Карпов, старший юрист <a href=\"https://www.pgplaw.ru/practice-and-industry/practices/bankruptcy/\" target=\"_blank\" rel=\"noopener noreferrer\">практики банкротства и антикризисной защиты бизнеса</a><a href=\"https://www.pgplaw.ru/practice-and-industry/practices/bankruptcy/\" target=\"_blank\" rel=\"noopener noreferrer\">,</a> рассказывает о том, что нового появилось в постановлении Пленума ВС РФ от 23.12.2025 по данному вопросу.<br> <br>«Внебанкротная субсидиарка» предусмотрена ст. 61.19 Закона о банкротстве. Заявление может быть подано в случае:<br>🔹 завершения конкурсного производства;<br>🔹 прекращения производства по делу о банкротстве.<br> <br>📌 Но Постановление Пленума ВС РФ от 23.12.2025 ввело новый механизм. Теперь заявление о привлечении к субсидиарной ответственности контролирующего лица может быть подано напрямую к такому лиц в его личном банкротстве, даже если банкротство в отношении подконтрольного ему лица не возбуждалось!<br> <br>👉 В этом случае требование о привлечении к субсидиарной ответственности может быть подано в деле о банкротстве контролирующего лица в форме заявления о включении такого требования в реестр требований кредиторов (п. 37(2) Постановления Пленума ВС РФ от 21.12.2017 № 53), если основания таких требований возникли до возбуждения дела о банкротстве контролирующего лица. <br> <br>Если же основания требований к контролирующему лицу возникли позднее, то такие требования предъявляются в форме иска по месту нахождения подконтрольного лица.<br> <br>🪄 Судебная практика применения данного механизма пока не сформировалась. Интересным остается вопрос соотношения сроков исковой давности на подачу заявления о привлечении к субсидиарной ответственности (3 года) и сроков на предъявление требований о включении в реестр требований кредиторов (1 и 2 месяца).<br> <br>#Субсидиарная_ответственность<br>#Процессуальные_вопросы",
-      "views": 420,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/451-1-b514385bffb8-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/451-1-b514385bffb8-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/bankrotstvo_mustknow/451",
       "forwarded_from": null
     }
   ]
