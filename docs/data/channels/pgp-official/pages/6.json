@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T12:12:07.197145+00:00",
+  "generated_at": "2026-06-04T15:45:14.017667+00:00",
   "pagination": {
     "page": 6,
     "page_size": 16,
@@ -7,6 +7,24 @@
     "total_pages": 6
   },
   "posts": [
+    {
+      "id": 1753,
+      "date": "2026-03-08T06:59:58+00:00",
+      "text": "🌸 Милые дамы,\n\nВы сочетаете в себе силу и мягкость, точность и интуицию, профессионализм и искреннее человеческое тепло. Ваши решения формируют команды, проекты и будущее, а ваше присутствие наполняет пространство гармонией и уверенностью.\n\nПоздравляем вас с праздником весны и желаем вдохновения, внутреннего спокойствия, поддержки близких и радости в каждом дне! \n\nКоманда «Пепеляев Групп»🌺",
+      "text_html": "🌸 Милые дамы,<br><br>Вы сочетаете в себе силу и мягкость, точность и интуицию, профессионализм и искреннее человеческое тепло. Ваши решения формируют команды, проекты и будущее, а ваше присутствие наполняет пространство гармонией и уверенностью.<br><br>Поздравляем вас с праздником весны и желаем вдохновения, внутреннего спокойствия, поддержки близких и радости в каждом дне! <br><br>Команда «Пепеляев Групп»🌺",
+      "views": 1130,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1753-1-0b1ede0b1dfb-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1753-1-0b1ede0b1dfb-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/pgp_official/1753",
+      "forwarded_from": null
+    },
     {
       "id": 1752,
       "date": "2026-03-06T09:29:58+00:00",
@@ -35,8 +53,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1751-1-0597ba56aa87-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1751-1-0597ba56aa87-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1751-1-d96464e81a48-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1751-1-d96464e81a48-v4.jpg"
         }
       ],
       "video_url": null,
@@ -53,8 +71,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1750-1-c8cd7ee7ef1b-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1750-1-c8cd7ee7ef1b-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1750-1-baadad0f7a9f-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1750-1-baadad0f7a9f-v4.jpg"
         }
       ],
       "video_url": null,
@@ -65,40 +83,6 @@
         "channel_username": "InvestmentLaw",
         "channel_title": "СпецИнвестРежимы"
       }
-    },
-    {
-      "id": 1745,
-      "date": "2026-03-04T13:29:58+00:00",
-      "text": "🏆 Как мы восстановили права фармкомпании на реализацию препарата на территории РФ\n\nЮристы «Пепеляев Групп» защитили права иностранной фармацевтической компании на дизайн упаковки лекарственного препарата. Трехлетний спор потребовал глубокой экспертизы в области авторского и патентного права.\n\n👉В карточках и на сайте рассказываем, как удалось доказать авторство, аннулировать патент «лжеавтора» и восстановить импорт препарата в Россию.\n\n#pg_победы",
-      "text_html": "🏆 Как мы восстановили права фармкомпании на реализацию препарата на территории РФ<br><br>Юристы «Пепеляев Групп» защитили права иностранной фармацевтической компании на дизайн упаковки лекарственного препарата. Трехлетний спор потребовал глубокой экспертизы в области авторского и патентного права.<br><br>👉В карточках и <a href=\"https://www.pgplaw.ru/our-experience/245634/\" target=\"_blank\" rel=\"noopener noreferrer\">на сайте</a> рассказываем, как удалось доказать авторство, аннулировать патент «лжеавтора» и восстановить импорт препарата в Россию.<br><br>#pg_победы",
-      "views": 1100,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1745-1-df5a2a2de082-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1745-1-df5a2a2de082-v4.jpg"
-        },
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1745-2-d42987d26aa0-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1745-2-d42987d26aa0-v4.jpg"
-        },
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1745-3-a4bfd785eea1-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1745-3-a4bfd785eea1-v4.jpg"
-        },
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1745-4-6a25451815a0-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1745-4-6a25451815a0-v4.jpg"
-        },
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1745-5-9bc562b359f9-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1745-5-9bc562b359f9-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/pgp_official/1745",
-      "forwarded_from": null
     }
   ]
 }
