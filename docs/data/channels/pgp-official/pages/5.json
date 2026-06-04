@@ -1,12 +1,38 @@
 {
-  "generated_at": "2026-06-04T09:03:02.535230+00:00",
+  "generated_at": "2026-06-04T12:12:07.195946+00:00",
   "pagination": {
     "page": 5,
     "page_size": 16,
-    "total_posts": 83,
+    "total_posts": 84,
     "total_pages": 6
   },
   "posts": [
+    {
+      "id": 1769,
+      "date": "2026-03-20T14:05:01+00:00",
+      "text": "🧩 Продолжаем делиться сервисами, которые помогают нам оставаться с вами на связи\n\nПоскольку Telegram работает нестабильно, мы сделали приложение, в котором можно без ограничений читать все наши каналы. Его можно скачать на телефон или компьютер и продолжать следить за нашими публикациями в удобном формате.\n\n▫️Чтобы установить приложение, перейдите по ссылке и сохраните его на главный экран своего устройства. В карточке к посту подготовили пошаговую инструкцию, как это сделать на IOS и Android. \n\nУстановить приложение 👉",
+      "text_html": "🧩 Продолжаем делиться сервисами, которые помогают нам оставаться с вами на связи<br><br>Поскольку Telegram работает нестабильно, мы сделали приложение, в котором можно без ограничений читать все наши каналы. Его можно скачать на телефон или компьютер и продолжать следить за нашими публикациями в удобном формате.<br><br>▫️Чтобы установить приложение, перейдите <a href=\"https://pgplaw.github.io/pgp_official/\" target=\"_blank\" rel=\"noopener noreferrer\">по ссылке</a> и сохраните его на главный экран своего устройства. В карточке к посту подготовили пошаговую инструкцию, как это сделать на IOS и Android. <br><br><a href=\"https://pgplaw.github.io/pgp_official/\" target=\"_blank\" rel=\"noopener noreferrer\">Установить приложение</a> 👉",
+      "views": 7760,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1769-1-e0ee0cf5c96d-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1769-1-e0ee0cf5c96d-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1769-2-8fecb8914313-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1769-2-8fecb8914313-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1769-3-287515da418b-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1769-3-287515da418b-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/pgp_official/1769",
+      "forwarded_from": null
+    },
     {
       "id": 1768,
       "date": "2026-03-19T10:01:34+00:00",
@@ -17,8 +43,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1768-1-7d4672d40b09-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1768-1-7d4672d40b09-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1768-1-c9eb7cc77642-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1768-1-c9eb7cc77642-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +61,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1767-1-b0d73f0421c0-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1767-1-b0d73f0421c0-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1767-1-255cf80c3f01-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1767-1-255cf80c3f01-v4.jpg"
         }
       ],
       "video_url": null,
@@ -58,8 +84,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1766-1-23cea660a981-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1766-1-23cea660a981-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1766-1-db9bf823358a-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1766-1-db9bf823358a-v4.jpg"
         }
       ],
       "video_url": null,
@@ -76,8 +102,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1765-1-56b526143cc7-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1765-1-56b526143cc7-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1765-1-4b1c8a3dcf53-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1765-1-4b1c8a3dcf53-v4.jpg"
         }
       ],
       "video_url": null,
@@ -94,8 +120,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1764-1-b0959b18583f-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1764-1-b0959b18583f-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1764-1-da1d0561fb77-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1764-1-da1d0561fb77-v4.jpg"
         }
       ],
       "video_url": null,
@@ -117,12 +143,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1762-1-080833708af8-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1762-1-080833708af8-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1762-1-0565543bf667-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1762-1-0565543bf667-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1762-2-abbd7347c838-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1762-2-abbd7347c838-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1762-2-3841b7869c8f-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1762-2-3841b7869c8f-v4.jpg"
         }
       ],
       "video_url": null,
@@ -139,8 +165,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1761-1-495570f4be54-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1761-1-495570f4be54-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1761-1-1ed58c3df2f8-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1761-1-1ed58c3df2f8-v4.jpg"
         }
       ],
       "video_url": null,
@@ -157,8 +183,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1760-1-e28f0d5328e8-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1760-1-e28f0d5328e8-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1760-1-c06a4d07d6d2-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1760-1-c06a4d07d6d2-v4.jpg"
         }
       ],
       "video_url": null,
@@ -175,8 +201,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1759-1-7fafd8822c64-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1759-1-7fafd8822c64-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1759-1-7d99f8b61e91-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1759-1-7d99f8b61e91-v4.jpg"
         }
       ],
       "video_url": null,
@@ -193,8 +219,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1758-1-43ee69bc6084-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1758-1-43ee69bc6084-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1758-1-fe44acfa7861-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1758-1-fe44acfa7861-v4.jpg"
         }
       ],
       "video_url": null,
@@ -211,8 +237,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1757-1-f70888b38042-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1757-1-f70888b38042-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1757-1-f8bc899b051f-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1757-1-f8bc899b051f-v4.jpg"
         }
       ],
       "video_url": null,
@@ -229,8 +255,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1756-1-8cf24ebe2765-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1756-1-8cf24ebe2765-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1756-1-66f6bf196dc0-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1756-1-66f6bf196dc0-v4.jpg"
         }
       ],
       "video_url": null,
@@ -252,8 +278,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1755-1-f91074d73304-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1755-1-f91074d73304-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1755-1-2e6a234be35d-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1755-1-2e6a234be35d-v4.jpg"
         }
       ],
       "video_url": null,
@@ -265,13 +291,13 @@
       "date": "2026-03-10T08:59:58+00:00",
       "text": "💻 Телекоммуникации, медиа, ИТ, персональные данные: дайджест\n\nВ обзоре собрали ключевые законодательные инициативы, регуляторные тренды, судебную практику и события отрасли.\n\nГлавные новости:\n\n🔘Минцифры России утвердило перечень ИТ-профессий в рамках образовательных соглашений;\n🔘Правительство РФ включило ERP-системы в единый перечень объектов КИИ; \n🔘Минцифры России предложило распространить налоговые ИТ-льготы на компании с госучастием;\n🔘ответственность за нарушения в сфере законодательства о критической информационной инфраструктуре планируется смягчить; \n🔘Роскомнадзор обнаружил нарушения правил установки ТСПУ у 33 операторов связи.\n\n👉 Какие изменения могут повлиять на бизнес, и на что стоит обратить внимание компаниям – читайте по ссылке.",
       "text_html": "💻 Телекоммуникации, медиа, ИТ, персональные данные: дайджест<br><br>В обзоре собрали ключевые законодательные инициативы, регуляторные тренды, судебную практику и события отрасли.<br><br>Главные новости:<br><br>🔘Минцифры России утвердило перечень ИТ-профессий в рамках образовательных соглашений;<br>🔘Правительство РФ включило ERP-системы в единый перечень объектов КИИ; <br>🔘Минцифры России предложило распространить налоговые ИТ-льготы на компании с госучастием;<br>🔘ответственность за нарушения в сфере законодательства о критической информационной инфраструктуре планируется смягчить; <br>🔘Роскомнадзор обнаружил нарушения правил установки ТСПУ у 33 операторов связи.<br><br>👉 Какие изменения могут повлиять на бизнес, и на что стоит обратить внимание компаниям – <a href=\"https://www.pgplaw.ru/analytics-and-brochures/telecom-digest/telecom-digest-10-03-26/\" target=\"_blank\" rel=\"noopener noreferrer\">читайте по ссылке</a>.",
-      "views": 1120,
+      "views": 1130,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1754-1-df3a0f420f08-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1754-1-df3a0f420f08-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1754-1-0a603e2f55c2-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1754-1-0a603e2f55c2-v4.jpg"
         }
       ],
       "video_url": null,
@@ -288,31 +314,13 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1753-1-53bf4d8ce8cf-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1753-1-53bf4d8ce8cf-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1753-1-68bad57de67e-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1753-1-68bad57de67e-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/pgp_official/1753",
       "forwarded_from": null
-    },
-    {
-      "id": 1752,
-      "date": "2026-03-06T09:29:58+00:00",
-      "text": "⚡️ФАС считает нарушением размещение рекламы в Telegram\n\nВчера Президент публично высказался против использования Telegram на фронте.\n\nИ тем же вечером разошлась новость о возбуждении дела против ИП о нарушении закона о рекламе из-за рекламы в своем телеграм-канале. ФАС, комментируя новость, свою позицию подтвердила – реклама в ограниченных ресурсах незаконна.\n\nКакие последствия:\n🟡ответственность несут рекламодатель и рекламораспространитель.\n🟡штрафы до 500 тыс. руб. для юридических лиц, до 20 тыс. руб. для ИП.\n🟡штраф назначается за каждый факт размещения рекламы.\n\nКакие правовые перспективы: в отличие от всем известных запрещенных сетей в отношении Telegram нет пока никаких официальных решений об ограничении.\n\nНо эта история формально преодолимая в ближайшие сроки с учетом подтвержденной воли государства на блокировку Telegram. \n\nПо опыту других ограниченных сетей, если рынок перестроится в пользу иных мест для рекламы, то серьезной волны штрафов ожидать не стоит. Либо к уже имеющимся 3% нужно закладывать еще до 500 тыс. руб. штрафа.\nНо и это краткосрочная тактика – ответственность может оперативно быть ужесточена.\n\nКакие рекомендации:\n🟡не делать резких движений и не прекращать делать отчисления с запущенных рекламный кампаний.\n🟡для будущих размещений учитывать риск ответственности и соизмерять его с рекламным бюджетом.\n🟡искать другие альтернативные места.",
-      "text_html": "<a href=\"https://rg.ru/2026/03/05/v-fas-zaiavili-o-tom-chto-razmeshchenie-reklamy-v-telegram-narushaet-zakon.html?utm_referrer=https%3A%2F%2Fduckduckgo.com%2F\" target=\"_blank\" rel=\"noopener noreferrer\">⚡️ФАС считает нарушением размещение рекламы в Telegram</a><br><br>Вчера Президент публично <a href=\"http://kremlin.ru/events/president/news/79265\" target=\"_blank\" rel=\"noopener noreferrer\">высказался</a> против использования Telegram на фронте.<br><br>И тем же вечером разошлась новость о возбуждении дела против ИП о нарушении закона о рекламе из-за рекламы в своем телеграм-канале. ФАС, комментируя новость, свою позицию подтвердила – реклама в ограниченных ресурсах незаконна.<br><br>Какие последствия:<br>🟡ответственность несут рекламодатель и рекламораспространитель.<br>🟡штрафы до 500 тыс. руб. для юридических лиц, до 20 тыс. руб. для ИП.<br>🟡штраф назначается за каждый факт размещения рекламы.<br><br>Какие правовые перспективы: в отличие от всем известных запрещенных сетей в отношении Telegram нет пока никаких официальных решений об ограничении.<br><br>Но эта история формально преодолимая в ближайшие сроки с учетом подтвержденной воли государства на блокировку Telegram. <br><br>По опыту других ограниченных сетей, если рынок перестроится в пользу иных мест для рекламы, то серьезной волны штрафов ожидать не стоит. Либо к уже имеющимся 3% нужно закладывать еще до 500 тыс. руб. штрафа.<br>Но и это краткосрочная тактика – ответственность может оперативно быть ужесточена.<br><br>Какие рекомендации:<br>🟡не делать резких движений и не прекращать делать отчисления с запущенных рекламный кампаний.<br>🟡для будущих размещений учитывать риск ответственности и соизмерять его с рекламным бюджетом.<br>🟡искать другие альтернативные места.",
-      "views": 1240,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [],
-      "video_url": null,
-      "tg_url": "https://t.me/pgp_official/1752",
-      "forwarded_from": {
-        "source_url": "https://t.me/PgAntitrust/1359",
-        "channel_url": "https://t.me/s/PgAntitrust",
-        "channel_username": "PgAntitrust",
-        "channel_title": "PG Antitrust | Антимонопольное право"
-      }
     }
   ]
 }

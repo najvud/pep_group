@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T09:04:21.256875+00:00",
+  "generated_at": "2026-06-04T12:13:21.698012+00:00",
   "pagination": {
     "page": 9,
     "page_size": 16,
@@ -7,6 +7,29 @@
     "total_pages": 11
   },
   "posts": [
+    {
+      "id": 2549,
+      "date": "2026-03-20T13:04:14+00:00",
+      "text": "📧 Еженедельные рассылки «Пепеляев Групп»: чтобы важные изменения в законодательстве не прошли мимо\n\nДрузья, напоминаем, что у «Пепеляев Групп» выходят еженедельные рассылки по ключевым изменениям в законодательстве и правоприменительной практике.\n\n▫️Наши эксперты регулярно готовят аналитические материалы по наиболее актуальным темам — от налогов и банкротства до антимонопольного регулирования, антикризисной защиты бизнеса и других отраслевых вопросов. В рассылках краткие обзоры новостей, комментарии экспертов и практические рекомендации для бизнеса.\n\nСейчас, когда в работе Telegram могут возникать ограничения, для нас особенно важно оставаться с вами на связи и продолжать оперативно делиться экспертной аналитикой ❤️\n\n👉 Подписаться на рассылки",
+      "text_html": "📧 Еженедельные рассылки «Пепеляев Групп»: чтобы важные изменения в законодательстве не прошли мимо<br><br>Друзья, напоминаем, что у «Пепеляев Групп» выходят <a href=\"https://www.pgplaw.ru/subscribe/?utm_source=telegram\" target=\"_blank\" rel=\"noopener noreferrer\">еженедельные рассылки</a> по ключевым изменениям в законодательстве и правоприменительной практике.<br><br>▫️Наши эксперты регулярно готовят аналитические материалы по наиболее актуальным темам — от налогов и банкротства до антимонопольного регулирования, антикризисной защиты бизнеса и других отраслевых вопросов. В рассылках краткие обзоры новостей, комментарии экспертов и практические рекомендации для бизнеса.<br><br>Сейчас, когда в работе Telegram могут возникать ограничения, для нас особенно важно оставаться с вами на связи и продолжать оперативно делиться экспертной аналитикой ❤️<br><br>👉 <a href=\"https://www.pgplaw.ru/subscribe/?utm_source=telegram\" target=\"_blank\" rel=\"noopener noreferrer\">Подписаться на рассылки</a>",
+      "views": 983,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2549-1-526446a17272-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2549-1-526446a17272-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/PG_Tax/2549",
+      "forwarded_from": {
+        "source_url": "https://t.me/pgp_official/1758",
+        "channel_url": "https://t.me/s/pgp_official",
+        "channel_username": "pgp_official",
+        "channel_title": "Pepeliaev Group | Пепеляев Групп"
+      }
+    },
     {
       "id": 2548,
       "date": "2026-03-20T10:03:41+00:00",
@@ -17,8 +40,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2548-1-8c87a57ce701-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2548-1-8c87a57ce701-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2548-1-4b5c2232dc83-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2548-1-4b5c2232dc83-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +58,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2547-1-fb966c5c0b9b-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2547-1-fb966c5c0b9b-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2547-1-cb884a9b71fe-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2547-1-cb884a9b71fe-v4.jpg"
         }
       ],
       "video_url": null,
@@ -66,8 +89,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2545-1-7f689b2d73cb-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2545-1-7f689b2d73cb-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2545-1-fc1c6f4623eb-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2545-1-fc1c6f4623eb-v4.jpg"
         }
       ],
       "video_url": null,
@@ -84,8 +107,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2544-1-12eac66dc2f5-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2544-1-12eac66dc2f5-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2544-1-3f77d65e5241-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2544-1-3f77d65e5241-v4.jpg"
         }
       ],
       "video_url": null,
@@ -102,8 +125,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2543-1-5e41be4eb6d1-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2543-1-5e41be4eb6d1-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2543-1-c29151e40fa0-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2543-1-c29151e40fa0-v4.jpg"
         }
       ],
       "video_url": null,
@@ -120,8 +143,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2542-1-7041ed11461a-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2542-1-7041ed11461a-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2542-1-266197a63d1c-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2542-1-266197a63d1c-v4.jpg"
         }
       ],
       "video_url": null,
@@ -138,12 +161,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2540-1-cb0a8e739d2f-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2540-1-cb0a8e739d2f-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2540-1-03927e60f195-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2540-1-03927e60f195-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2540-2-47d801752293-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2540-2-47d801752293-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2540-2-460aa9eb3636-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2540-2-460aa9eb3636-v4.jpg"
         }
       ],
       "video_url": null,
@@ -160,8 +183,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2539-1-3a1935c7d927-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2539-1-3a1935c7d927-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2539-1-b9ae88ccd9ec-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2539-1-b9ae88ccd9ec-v4.jpg"
         }
       ],
       "video_url": null,
@@ -178,8 +201,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2538-1-4ac4a1786bf8-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2538-1-4ac4a1786bf8-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2538-1-1179ee6673a6-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2538-1-1179ee6673a6-v4.jpg"
         }
       ],
       "video_url": null,
@@ -209,20 +232,20 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2533-1-8dc89f928477-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2533-1-8dc89f928477-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2533-1-a276ffa0875c-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2533-1-a276ffa0875c-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2533-2-1914ff205bb0-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2533-2-1914ff205bb0-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2533-2-e2cff46895a8-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2533-2-e2cff46895a8-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2533-3-b8b7fc552c20-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2533-3-b8b7fc552c20-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2533-3-23bf1e6277c0-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2533-3-23bf1e6277c0-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2533-4-509e018b999b-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2533-4-509e018b999b-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2533-4-5811a6995610-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2533-4-5811a6995610-v4.jpg"
         }
       ],
       "video_url": null,
@@ -244,8 +267,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2532-1-afe4302d942b-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2532-1-afe4302d942b-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2532-1-bdced998f758-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2532-1-bdced998f758-v4.jpg"
         }
       ],
       "video_url": null,
@@ -262,8 +285,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2531-1-be355f856cf9-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2531-1-be355f856cf9-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2531-1-26990cd4376e-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2531-1-26990cd4376e-v4.jpg"
         }
       ],
       "video_url": null,
@@ -280,8 +303,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2530-1-6e4062b416ce-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2530-1-6e4062b416ce-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2530-1-4f45daf8a28c-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2530-1-4f45daf8a28c-v4.jpg"
         }
       ],
       "video_url": null,
@@ -292,24 +315,6 @@
         "channel_username": "bankrotstvo_mustknow",
         "channel_title": "Банкротство | Взгляд эксперта"
       }
-    },
-    {
-      "id": 2529,
-      "date": "2026-03-13T10:00:05+00:00",
-      "text": "📢 Позиции Минфина и ФНС за февраль\n\nВ фокусе внимания ведомств:\n     🔴изменения в налоговом законодательстве с 1 января 2026,\n     🔴вопросы модернизации НМА и амортизации при ликвидации,\n     🔴применение ФИНВ в группе компаний,\n     🔴правовые позиции КС РФ и ВС РФ, принятых в IV кв. 2025 г.,\n     🔴судебная практика ВС РФ по вопросам налогообложения земельных участков.\n\nЭкспресс-обзор писем Минфина и ФНС России за февраль читайте на сайте ПГ 👉\n\n#обзор_писем_Минфина_ФНС\n\n➖➖\n💡 Индивидуальные обзоры изменений налогового законодательства и практики, учитывающие специфику Вашего бизнеса, по расписанию в Ваш почтовый ящик можно оформить здесь.",
-      "text_html": "📢 Позиции Минфина и ФНС за февраль<br><br>В фокусе внимания ведомств:<br>     🔴изменения в налоговом законодательстве с 1 января 2026,<br>     🔴вопросы модернизации НМА и амортизации при ликвидации,<br>     🔴применение ФИНВ в группе компаний,<br>     🔴правовые позиции КС РФ и ВС РФ, принятых в IV кв. 2025 г.,<br>     🔴судебная практика ВС РФ по вопросам налогообложения земельных участков.<br><br>Экспресс-обзор писем Минфина и ФНС России за февраль читайте <a href=\"https://www.pgplaw.ru/analytics-and-brochures/tax-reviews/pisma-minfina-i-fns-obnovleniya-fevralya-2026-g/\" target=\"_blank\" rel=\"noopener noreferrer\">на сайте</a> ПГ 👉<br><br>#обзор_писем_Минфина_ФНС<br><br>➖➖<br>💡 Индивидуальные обзоры изменений налогового законодательства и практики, учитывающие специфику Вашего бизнеса, по расписанию в Ваш почтовый ящик можно оформить <a href=\"https://www.pgplaw.ru/practice-and-industry/practices/obzory-zakonodatelstva-i-praktiki/\" target=\"_blank\" rel=\"noopener noreferrer\">здесь.</a>",
-      "views": 1140,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2529-1-501dac8016b9-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2529-1-501dac8016b9-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2529",
-      "forwarded_from": null
     }
   ]
 }
