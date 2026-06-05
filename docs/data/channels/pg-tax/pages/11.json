@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-05T14:14:30.099908+00:00",
+  "generated_at": "2026-06-05T16:43:29.421984+00:00",
   "pagination": {
     "page": 11,
     "page_size": 16,
-    "total_posts": 164,
+    "total_posts": 161,
     "total_pages": 11
   },
   "posts": [
@@ -17,56 +17,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2515-1-902a85dcf8b0-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2515-1-902a85dcf8b0-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2515-1-866c0fe91acc-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2515-1-866c0fe91acc-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/PG_Tax/2515",
-      "forwarded_from": null
-    },
-    {
-      "id": 2514,
-      "date": "2026-03-05T14:22:02+00:00",
-      "text": "⚡️3% отчисления с операторов доставки\n\nМинцифры России разработало новый неналоговый платеж - обязательные отчисления операторов доставки и организаций почтовой связи, направленные на поддержку Почты России.\n\nПланируется, что операторы ежеквартально будут пополнять фонд, который будет специально создан, 3 процентами своих доходов за транспортировку междугородних посылок.\n\n💰 Ассоциация цифровых платформ, объединяющая крупнейшие маркетплейсы России, уже посчитала, что расходы маркетплейсов на предложенный сбор превысят 90 млрд руб. в год.  \n\nО тренде на фискальные платежи мы писали здесь, а в Налоговеде открыта для чтения статья С.Г. Пепеляева по теме 👉\n\n#комментарий_эксперта",
-      "text_html": "⚡️3% отчисления с операторов доставки<br><br>Минцифры России разработало новый неналоговый платеж - обязательные отчисления операторов доставки и организаций почтовой связи, направленные на поддержку Почты России.<br><br>Планируется, что операторы ежеквартально будут пополнять фонд, который будет специально создан, 3 процентами своих доходов за транспортировку междугородних посылок.<br><br>💰 Ассоциация цифровых платформ, объединяющая крупнейшие маркетплейсы России, уже <a href=\"https://www.kommersant.ru/doc/8462524\" target=\"_blank\" rel=\"noopener noreferrer\">посчитала</a>, что расходы маркетплейсов на предложенный сбор превысят 90 млрд руб. в год.  <br><br>О тренде на фискальные платежи мы писали <a href=\"https://t.me/PG_Tax/2331\" target=\"_blank\" rel=\"noopener noreferrer\">здесь</a>, а в Налоговеде открыта для чтения <a href=\"https://nalogoved.ru/art/15790.html\" target=\"_blank\" rel=\"noopener noreferrer\">статья С.Г. Пепеляева</a> по теме 👉<br><br>#комментарий_эксперта",
-      "views": 1440,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2514",
-      "forwarded_from": null
-    },
-    {
-      "id": 2513,
-      "date": "2026-03-05T14:21:30+00:00",
-      "text": null,
-      "text_html": null,
-      "views": 1290,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/52aac8a07b.mp4?token=GwGWRIswuYFxoNSkSdl7WzSdGySVTbXyJFZGy7jJlXnZy4l5Yg3aCp_sHCHacnrvSv4aLRX15M6qtZIdESgeB-T-r0h2zU5NRhZ1PCf7MMXroFG_OXFWzcwF0f4vBVO-fjDEw1pHwfML2_DcNKmjwMya1pk8p1ZvDB4v5cUx_rorF_BELqdpykJGhEWpfm4MFQRScgmxG-3ZUt_U5soCiGbtvSn2ZVRyPGQ1Y_lKM0uAiUHp1_jrkzuhNPAOK7ZFwW6jbfOZx4A8kj8af7_0-By7rC0tVikBgBsCtLJ1I7uhq07V2-XxhSsVhFuK3wN2MtCrwROYJ8tiDhFg5_TLfw",
-      "tg_url": "https://t.me/PG_Tax/2513",
-      "forwarded_from": null
-    },
-    {
-      "id": 2512,
-      "date": "2026-03-05T14:21:04+00:00",
-      "text": "Сегодня в фокусе рубрики #СЕРГЕЙ_ПЕПЕЛЯЕВ_ON_AIR \n- законопроект Минцифры о поддержке Почты России за счёт обязательных отчислений операторов доставки.\n\nНапоминаем, что комментарии к этой рубрике открыты для любых Ваших вопросов Сергею Геннадьевичу ✍️",
-      "text_html": "Сегодня в фокусе рубрики #СЕРГЕЙ_ПЕПЕЛЯЕВ_ON_AIR <br>- законопроект Минцифры о поддержке Почты России за счёт обязательных отчислений операторов доставки.<br><br>Напоминаем, что комментарии к этой рубрике открыты для любых Ваших вопросов Сергею Геннадьевичу ✍️",
-      "views": 1330,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2512-1-6033e58600ba-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2512-1-6033e58600ba-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2512",
       "forwarded_from": null
     }
   ]
