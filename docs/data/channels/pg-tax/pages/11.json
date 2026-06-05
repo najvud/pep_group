@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-06-05T11:48:50.568781+00:00",
+  "generated_at": "2026-06-05T14:14:30.099908+00:00",
   "pagination": {
     "page": 11,
     "page_size": 16,
-    "total_posts": 163,
+    "total_posts": 164,
     "total_pages": 11
   },
   "posts": [
+    {
+      "id": 2515,
+      "date": "2026-03-06T07:32:18+00:00",
+      "text": "✍️ Нормативное регулирование\n \n🔴Председатель Правительства РФ подписал Постановление № 210, которым расширил параметры применения федерального инвестиционного налогового вычета (ФИНВ) для объединений компаний - на него может рассчитывать любой участник группы независимо от основной сферы его экономической деятельности.\n \n🔴Привязка ИНН к банковским счетам физлиц станет обязательной в первой половине 2027 г. Эта мера необходима для борьбы с дропперством. Законопроект о ней появится в Госдуме в ближайшие месяцы, рассказали в ЦБ РФ.\n \n⚖️ Судебные дела\n \nКонституционный Суд РФ признал, что п. 1 ст. 90 и ч. 1 ст. 128 НК РФ не предполагают признания проверяемого налогоплательщика свидетелем в отношении обстоятельств его собственной деятельности и применения к нему мер ответственности в случае его неявки по законному уведомлению налогового органа для дачи пояснений по предмету выездной налоговой проверки.\n \n✈️ За рубежом\n \nБогатые иностранцы, которые живут и ведут бизнес в Дубае, срочно возвращаются в ОАЭ, чтобы не потерять налоговые льготы. Затянувшееся пребывание за пределами страны ставит под угрозу статус резидента и одновременно может создать налоговые обязательства в других юрисдикциях.\n\n#главные_налоговые_новости",
+      "text_html": "✍️ Нормативное регулирование<br> <br>🔴Председатель Правительства РФ <a href=\"http://government.ru/news/58003/\" target=\"_blank\" rel=\"noopener noreferrer\">подписал</a> Постановление № <a href=\"http://publication.pravo.gov.ru/document/0001202603050025\" target=\"_blank\" rel=\"noopener noreferrer\">210</a><a href=\"http://publication.pravo.gov.ru/document/0001202603050025\" target=\"_blank\" rel=\"noopener noreferrer\">,</a> которым <a href=\"https://pravo.ru/news/262724/\" target=\"_blank\" rel=\"noopener noreferrer\">расширил</a> параметры применения федерального инвестиционного налогового вычета (ФИНВ) для объединений компаний - на него может рассчитывать любой участник группы независимо от основной сферы его экономической деятельности.<br> <br>🔴Привязка ИНН к банковским счетам физлиц <a href=\"https://www.rbc.ru/rbcfreenews/69a982459a794759b42ab852\" target=\"_blank\" rel=\"noopener noreferrer\">станет обязательной</a> в первой половине 2027 г. Эта мера необходима для борьбы с дропперством. Законопроект о ней появится в Госдуме в ближайшие месяцы, рассказали в ЦБ РФ.<br> <br>⚖️ Судебные дела<br> <br>Конституционный Суд РФ <a href=\"https://www.ksrf.ru/news/37840/\" target=\"_blank\" rel=\"noopener noreferrer\">признал</a><a href=\"https://www.ksrf.ru/news/37840/\" target=\"_blank\" rel=\"noopener noreferrer\">,</a> что п. 1 ст. 90 и ч. 1 ст. 128 НК РФ не предполагают признания проверяемого налогоплательщика свидетелем в отношении обстоятельств его собственной деятельности и применения к нему мер ответственности в случае его неявки по законному уведомлению налогового органа для дачи пояснений по предмету выездной налоговой проверки.<br> <br>✈️ За рубежом<br> <br>Богатые иностранцы, которые живут и ведут бизнес в Дубае, <a href=\"https://www.rbc.ru/rbcfreenews/69a979169a7947e4cf9481de\" target=\"_blank\" rel=\"noopener noreferrer\">срочно возвращаются</a> в ОАЭ, чтобы не потерять налоговые льготы. Затянувшееся пребывание за пределами страны ставит под угрозу статус резидента и одновременно может создать налоговые обязательства в других юрисдикциях.<br><br>#главные_налоговые_новости",
+      "views": 1260,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2515-1-902a85dcf8b0-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2515-1-902a85dcf8b0-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/PG_Tax/2515",
+      "forwarded_from": null
+    },
     {
       "id": 2514,
       "date": "2026-03-05T14:22:02+00:00",
@@ -29,7 +47,7 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/52aac8a07b.mp4?token=AxC2dbVie1jpS6ONOs0Mcf7SkVh6-k0_pFqaLLsB0F36kgDH-xp-6_rf8RydcR8KkOhl8Df5y38gPTJby73UOgLIuZCzzvU86P9SrzpGxzefI9JKVxEG2xNhMMAQo6-gHgbZcXT4ChjxTE7vxpOY-FK0fUAYt-T7q3b8Fb7N4XVAywa_MuwBerv46dWitZImOIS8syJ4HUvLY6S9nU7KwlJS7jZW2dN_crlbqex-SvU0pJQK2aBWmZ31FihfU7hrvhRINMJ1MV6r8FG9IGvr3V32w2VpDHvnHD_5DOCGJiam__XtOquBfureM47xEaWIbOCRxVE8euk-oAGV8DryDA",
+      "video_url": "https://cdn4.telesco.pe/file/52aac8a07b.mp4?token=GwGWRIswuYFxoNSkSdl7WzSdGySVTbXyJFZGy7jJlXnZy4l5Yg3aCp_sHCHacnrvSv4aLRX15M6qtZIdESgeB-T-r0h2zU5NRhZ1PCf7MMXroFG_OXFWzcwF0f4vBVO-fjDEw1pHwfML2_DcNKmjwMya1pk8p1ZvDB4v5cUx_rorF_BELqdpykJGhEWpfm4MFQRScgmxG-3ZUt_U5soCiGbtvSn2ZVRyPGQ1Y_lKM0uAiUHp1_jrkzuhNPAOK7ZFwW6jbfOZx4A8kj8af7_0-By7rC0tVikBgBsCtLJ1I7uhq07V2-XxhSsVhFuK3wN2MtCrwROYJ8tiDhFg5_TLfw",
       "tg_url": "https://t.me/PG_Tax/2513",
       "forwarded_from": null
     },
@@ -43,8 +61,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2512-1-ac2f6dbc6781-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2512-1-ac2f6dbc6781-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2512-1-6033e58600ba-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2512-1-6033e58600ba-v4.jpg"
         }
       ],
       "video_url": null,
