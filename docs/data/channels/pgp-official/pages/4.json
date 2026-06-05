@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T21:56:18.100253+00:00",
+  "generated_at": "2026-06-05T08:38:06.861456+00:00",
   "pagination": {
     "page": 4,
     "page_size": 16,
@@ -7,6 +7,28 @@
     "total_pages": 6
   },
   "posts": [
+    {
+      "id": 1804,
+      "date": "2026-04-13T07:01:25+00:00",
+      "text": "🔍 Начинаем рабочую неделю с рубрики #PG_Грамотность \n\nОб избежании и во избежание: когда и как правильно пишется?\n\n☝️ Читайте в карточке правописания!\n\n🏢 Подписаться на рассылки | MAX | Приложение PG",
+      "text_html": "🔍 Начинаем рабочую неделю с рубрики #PG_Грамотность <br><br>Об избежании и во избежание: когда и как правильно пишется?<br><br>☝️ Читайте в карточке правописания!<br><br>🏢 <a href=\"https://www.pgplaw.ru/subscribe/\" target=\"_blank\" rel=\"noopener noreferrer\">Подписаться на рассылки |</a> <a href=\"https://max.ru/id7707301372_biz\" target=\"_blank\" rel=\"noopener noreferrer\">MAX |</a> <a href=\"https://t.me/pgp_official/1769\" target=\"_blank\" rel=\"noopener noreferrer\">Приложение PG</a>",
+      "views": 839,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1804-1-3d5fa79ed173-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1804-1-3d5fa79ed173-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1804-2-1e304e8d3b5f-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1804-2-1e304e8d3b5f-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/pgp_official/1804",
+      "forwarded_from": null
+    },
     {
       "id": 1798,
       "date": "2026-04-10T14:58:40+00:00",
@@ -86,7 +108,7 @@
       "date": "2026-04-07T07:36:09+00:00",
       "text": "Мы запускаем серию онлайн-встреч на тему: «Как устроены налоги в бизнесе: что важно знать неналоговым специалистам».\n\n🗓 Первый вебинар серии состоится 22 апреля в 11:00.\n\nНа вебинарах разберем, как:\n\n🔘 понять базовую логику ключевых налогов; \n🔘 распознавать, где в сделках спрятаны налоговые риски; \n🔘 научиться видеть ситуации, которые могут привести к доначислениям; \n🔘 говорить с налоговыми и финансовыми службами на одном языке.\n\n🎤 О сложных налогах простым языком расскажет старший партнер «Пепеляев Групп» Сергей Савсерис.\n\nРегистрируйтесьи присылайте вопросы. Постараемся раскрыть все налоговые темы, которые интересны неналоговым специалистам.\n\n☝️ Подписаться на рассылки | MAX | Приложение PG",
       "text_html": "Мы запускаем серию онлайн-встреч на тему: «Как устроены налоги в бизнесе: что важно знать неналоговым специалистам».<br><br>🗓 Первый вебинар серии состоится 22 апреля в 11:00.<br><br>На вебинарах разберем, как:<br><br>🔘 понять базовую логику ключевых налогов; <br>🔘 распознавать, где в сделках спрятаны налоговые риски; <br>🔘 научиться видеть ситуации, которые могут привести к доначислениям; <br>🔘 говорить с налоговыми и финансовыми службами на одном языке.<br><br>🎤 О сложных налогах простым языком расскажет старший партнер «Пепеляев Групп» <a href=\"https://www.pgplaw.ru/to-get-the-team/sergey-savseris/\" target=\"_blank\" rel=\"noopener noreferrer\">Сергей Савсерис</a>.<br><br><a href=\"https://www.pgplaw.ru/events/upcoming-events/kak-ustroeny-nalogi-v-biznese/\" target=\"_blank\" rel=\"noopener noreferrer\">Регистрируйтесь</a>и присылайте вопросы. Постараемся раскрыть все налоговые темы, которые интересны неналоговым специалистам.<br><br>☝️ <a href=\"https://www.pgplaw.ru/subscribe/\" target=\"_blank\" rel=\"noopener noreferrer\">Подписаться на рассылки |</a> <a href=\"https://max.ru/id7707301372_biz\" target=\"_blank\" rel=\"noopener noreferrer\">MAX |</a> <a href=\"https://t.me/pgp_official/1769\" target=\"_blank\" rel=\"noopener noreferrer\">Приложение PG</a>",
-      "views": 856,
+      "views": 857,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
@@ -186,7 +208,7 @@
       "date": "2026-04-01T08:29:52+00:00",
       "text": "💡Старший юрист практики интеллектуальной собственности и товарных знаков «Пепеляев Групп» Антон Пчёлкин принял участие в качестве приглашенного спикера в заседании клуба «Интеллектуальная собственность: моя или чужая» в НИУ ВШЭ. Темой встречи стали нетрадиционные товарные знаки и подходы к выбору обозначений для продвижения продукции на рынке.\n\n🔘Выступление Антона было посвящено голографическим товарным знакам – практическим вопросам их регистрации и использования в бизнесе. В центре внимания были вопросы доказывания различительной способности голографического изображения, нюансы защиты прав и доказывания нарушений, а также вопросы, связанные с использованием для целей ст. 1486 ГК РФ.\n\n💬 «Сегодня бизнес все чаще ищет новые способы привлечь внимание потребителя, поэтому интерес к нестандартным товарным знакам закономерен. Однако их регистрация требует особенно тщательной подготовки: важно заранее оценить, насколько такое обозначение обладает различительной способностью, как оно будет использоваться и насколько эффективно его можно будет защищать. \n\nНаша практика помогает клиентам не только сопровождать регистрацию таких знаков, но и взвешенно оценивать, когда такой инструмент действительно будет работать на бизнес-задачи», – отмечает Антон.\n\n👉 Читать новость на сайте.\n\n🏢 Подписаться на рассылки | MAX | Приложение PG",
       "text_html": "💡Старший юрист практики интеллектуальной собственности и товарных знаков «Пепеляев Групп» Антон Пчёлкин принял участие в качестве приглашенного спикера в заседании клуба «Интеллектуальная собственность: моя или чужая» в НИУ ВШЭ. Темой встречи стали нетрадиционные товарные знаки и подходы к выбору обозначений для продвижения продукции на рынке.<br><br>🔘Выступление Антона было посвящено голографическим товарным знакам – практическим вопросам их регистрации и использования в бизнесе. В центре внимания были вопросы доказывания различительной способности голографического изображения, нюансы защиты прав и доказывания нарушений, а также вопросы, связанные с использованием для целей ст. 1486 ГК РФ.<br><br>💬 «Сегодня бизнес все чаще ищет новые способы привлечь внимание потребителя, поэтому интерес к нестандартным товарным знакам закономерен. Однако их регистрация требует особенно тщательной подготовки: важно заранее оценить, насколько такое обозначение обладает различительной способностью, как оно будет использоваться и насколько эффективно его можно будет защищать. <br><br><a href=\"https://www.pgplaw.ru/to-get-the-team/valentina-orlova/\" target=\"_blank\" rel=\"noopener noreferrer\">Наша практика</a> помогает клиентам не только сопровождать регистрацию таких знаков, но и взвешенно оценивать, когда такой инструмент действительно будет работать на бизнес-задачи», – отмечает Антон.<br><br>👉 Читать новость <a href=\"https://www.pgplaw.ru/news/press-releases/ekspert-pepelyaev-grupp-rasskazal-o-prakticheskikh-aspektakh-registratsii-golograficheskikh-tovarnykh/\" target=\"_blank\" rel=\"noopener noreferrer\">на сайте</a>.<br><br>🏢 <a href=\"https://www.pgplaw.ru/subscribe/\" target=\"_blank\" rel=\"noopener noreferrer\">Подписаться на рассылки |</a> <a href=\"https://max.ru/id7707301372_biz\" target=\"_blank\" rel=\"noopener noreferrer\">MAX |</a> <a href=\"https://t.me/pgp_official/1769\" target=\"_blank\" rel=\"noopener noreferrer\">Приложение PG</a>",
-      "views": 919,
+      "views": 920,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
@@ -204,7 +226,7 @@
       "date": "2026-03-30T10:04:13+00:00",
       "text": "💰  Плюс триллион: как правительство будет увеличивать собираемость налогов\n\nПрезидент поручил существенно повысить собираемость налогов уже в 2026 году. В новой колонке для Forbes управляющий партнер «Пепеляев Групп» Сергей Пепеляев объясняет, за счет каких мер государство планирует добиться этого и почему налоговый контроль будет усиливаться.\n\n 💬 В 2026 году из-за увеличения ставки НДС, снижения порога для применения УСН и других налоговых ужесточений многократно выросли стимулы к уклонению от налогов. Реакция на затягивание налоговых гаек вполне прогнозируема, поэтому и меры профилактики и усиления нажима на уклонистов тоже ожидаемы.\n\n🔘На этом фоне государство запускает масштабный план по «обелению» экономики: усиливается контроль за внешней торговлей и внутренним рынком, вводится новая цифровая платформа ФНС и ФТС, ужесточается ответственность за налоговые правонарушения и расширяется практика взыскания задолженности.\n\n👉 Подробнее читайте на сайте Forbes.\n\n🏢 Подписаться на рассылки | MAX | Приложение PG",
       "text_html": "💰  Плюс триллион: как правительство будет увеличивать собираемость налогов<br><br>Президент поручил существенно повысить собираемость налогов уже в 2026 году. В новой колонке для Forbes управляющий партнер «Пепеляев Групп» <a href=\"https://www.pgplaw.ru/to-get-the-team/sergey-pepeliaev/\" target=\"_blank\" rel=\"noopener noreferrer\">Сергей Пепеляев</a> объясняет, за счет каких мер государство планирует добиться этого и почему налоговый контроль будет усиливаться.<br><br> 💬 В 2026 году из-за увеличения ставки НДС, снижения порога для применения УСН и других налоговых ужесточений многократно выросли стимулы к уклонению от налогов. Реакция на затягивание налоговых гаек вполне прогнозируема, поэтому и меры профилактики и усиления нажима на уклонистов тоже ожидаемы.<br><br>🔘На этом фоне государство запускает масштабный план по «обелению» экономики: усиливается контроль за внешней торговлей и внутренним рынком, вводится новая цифровая платформа ФНС и ФТС, ужесточается ответственность за налоговые правонарушения и расширяется практика взыскания задолженности.<br><br>👉 Подробнее читайте <a href=\"https://www.forbes.ru/mneniya/556353-plus-trillion-kak-pravitel-stvo-budet-uvelicivat-sobiraemost-nalogov\" target=\"_blank\" rel=\"noopener noreferrer\">на сайте Forbes</a>.<br><br>🏢 <a href=\"https://www.pgplaw.ru/subscribe/\" target=\"_blank\" rel=\"noopener noreferrer\">Подписаться на рассылки |</a> <a href=\"https://max.ru/id7707301372_biz\" target=\"_blank\" rel=\"noopener noreferrer\">MAX |</a> <a href=\"https://t.me/pgp_official/1769\" target=\"_blank\" rel=\"noopener noreferrer\">Приложение PG</a>",
-      "views": 976,
+      "views": 977,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
@@ -249,8 +271,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1780-1-5c7c49d1b7fc-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1780-1-5c7c49d1b7fc-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1780-1-b989951fc223-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1780-1-b989951fc223-v4.jpg"
         }
       ],
       "video_url": null,
@@ -267,20 +289,20 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1776-1-4878318a5af5-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1776-1-4878318a5af5-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1776-1-38be6a895cb4-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1776-1-38be6a895cb4-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1776-2-430441da911b-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1776-2-430441da911b-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1776-2-7c68b2ee827d-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1776-2-7c68b2ee827d-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1776-3-06c0fcd19cfc-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1776-3-06c0fcd19cfc-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1776-3-54e983cec376-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1776-3-54e983cec376-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1776-4-855b282a9ae8-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1776-4-855b282a9ae8-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1776-4-657594622ff6-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1776-4-657594622ff6-v4.jpg"
         }
       ],
       "video_url": null,
@@ -302,8 +324,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1775-1-601bf080ab34-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1775-1-601bf080ab34-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1775-1-b8916cfc1555-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1775-1-b8916cfc1555-v4.jpg"
         }
       ],
       "video_url": null,
@@ -320,30 +342,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1774-1-bca9e05fe179-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1774-1-bca9e05fe179-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1774-1-c6076fcf329e-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1774-1-c6076fcf329e-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/pgp_official/1774",
-      "forwarded_from": null
-    },
-    {
-      "id": 1773,
-      "date": "2026-03-24T13:00:24+00:00",
-      "text": "🔥«Пепеляев Групп» теперь в MAX\n\nМы запустили канал «Пепеляев Групп» в MAX, чтобы оставаться на связи независимо от ограничений.\n\nМы по-прежнему будем вести наши Telegram-каналы, делясь аналитическими материалами по актуальным вопросам законодательства, комментариями экспертов и практическими рекомендациями для бизнеса. Но при этом нам важно, чтобы вы могли читать нас там, где вам удобнее ❤️\n\nПодписаться на MAX👉\n\n▫️ Если у вас возникают трудности с доступом к Telegram, наши каналы также можно читать через приложение — рассказывали об этом здесь.",
-      "text_html": "🔥«Пепеляев Групп» теперь в MAX<br><br>Мы запустили канал <a href=\"https://max.ru/id7707301372_biz\" target=\"_blank\" rel=\"noopener noreferrer\">«Пепеляев Групп» в MAX</a>, чтобы оставаться на связи независимо от ограничений.<br><br>Мы по-прежнему будем вести наши <a href=\"https://t.me/addlist/-vnU1mGmr0U1OTYy\" target=\"_blank\" rel=\"noopener noreferrer\">Telegram-каналы</a>, делясь аналитическими материалами по актуальным вопросам законодательства, комментариями экспертов и практическими рекомендациями для бизнеса. Но при этом нам важно, чтобы вы могли читать нас там, где вам удобнее ❤️<br><br><a href=\"https://max.ru/id7707301372_biz\" target=\"_blank\" rel=\"noopener noreferrer\">Подписаться на MAX</a>👉<br><br>▫️ Если у вас возникают трудности с доступом к Telegram, наши каналы также можно читать через приложение — <a href=\"https://t.me/pgp_official/1769\" target=\"_blank\" rel=\"noopener noreferrer\">рассказывали об этом здесь</a>.",
-      "views": 5580,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1773-1-29243f5b9327-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1773-1-29243f5b9327-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/pgp_official/1773",
       "forwarded_from": null
     }
   ]
