@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-08T06:58:58.988871+00:00",
+  "generated_at": "2026-06-08T12:03:20.680283+00:00",
   "pagination": {
     "page": 6,
     "page_size": 16,
-    "total_posts": 82,
+    "total_posts": 81,
     "total_pages": 6
   },
   "posts": [
@@ -17,30 +17,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1754-1-3ee55277fd24-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1754-1-3ee55277fd24-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1754-1-71e0e70a986e-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1754-1-71e0e70a986e-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/pgp_official/1754",
-      "forwarded_from": null
-    },
-    {
-      "id": 1753,
-      "date": "2026-03-08T06:59:58+00:00",
-      "text": "🌸 Милые дамы,\n\nВы сочетаете в себе силу и мягкость, точность и интуицию, профессионализм и искреннее человеческое тепло. Ваши решения формируют команды, проекты и будущее, а ваше присутствие наполняет пространство гармонией и уверенностью.\n\nПоздравляем вас с праздником весны и желаем вдохновения, внутреннего спокойствия, поддержки близких и радости в каждом дне! \n\nКоманда «Пепеляев Групп»🌺",
-      "text_html": "🌸 Милые дамы,<br><br>Вы сочетаете в себе силу и мягкость, точность и интуицию, профессионализм и искреннее человеческое тепло. Ваши решения формируют команды, проекты и будущее, а ваше присутствие наполняет пространство гармонией и уверенностью.<br><br>Поздравляем вас с праздником весны и желаем вдохновения, внутреннего спокойствия, поддержки близких и радости в каждом дне! <br><br>Команда «Пепеляев Групп»🌺",
-      "views": 1130,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1753-1-dec48da56532-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1753-1-dec48da56532-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/pgp_official/1753",
       "forwarded_from": null
     }
   ]
