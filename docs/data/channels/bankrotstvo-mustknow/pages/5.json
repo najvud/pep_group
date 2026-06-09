@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-06-09T10:06:26.158887+00:00",
+  "generated_at": "2026-06-09T12:52:09.248263+00:00",
   "pagination": {
     "page": 5,
     "page_size": 16,
-    "total_posts": 74,
+    "total_posts": 75,
     "total_pages": 5
   },
   "posts": [
+    {
+      "id": 437,
+      "date": "2026-03-20T06:01:42+00:00",
+      "text": "📝 Уроки субсидиарной ответственности: что учесть в 2026 году.\n \nЮлия Литовцева, партнер, руководитель практики банкротства и антикризисной защиты бизнеса Пепеляев групп, рассказывает о новинках, появившихся в 2025 году, в спорах о субсидиарной ответственности в видео выпуске «Взгляд эксперта».\n\n👉 Смотрите на YouTube, Rutube, VK и нашем сайте. \n\n#Банкротство_взгляд_эксперта\n#Субсидиарная_ответственность",
+      "text_html": "📝 Уроки субсидиарной ответственности: что учесть в 2026 году.<br> <br>Юлия Литовцева, партнер, руководитель <a href=\"https://www.pgplaw.ru/practice-and-industry/practices/bankruptcy/\" target=\"_blank\" rel=\"noopener noreferrer\">практики банкротства и антикризисной защиты бизнеса</a> Пепеляев групп, рассказывает о новинках, появившихся в 2025 году, в спорах о субсидиарной ответственности в видео выпуске «Взгляд эксперта».<br><br>👉 Смотрите на <a href=\"https://youtu.be/z5LbkayjGec\" target=\"_blank\" rel=\"noopener noreferrer\">YouTube,</a> <a href=\"https://rutube.ru/video/13f47f54e3f59e65ef3dc5a9065966aa/\" target=\"_blank\" rel=\"noopener noreferrer\">Rutube,</a> <a href=\"https://vkvideo.ru/video-227047542_456239405\" target=\"_blank\" rel=\"noopener noreferrer\">VK</a> и <a href=\"https://www.pgplaw.ru/analytics-and-brochures/video/subsidiarnaya-otvetstvennost-chto-uchest-v-2026-2/\" target=\"_blank\" rel=\"noopener noreferrer\">нашем сайте.</a> <br><br>#Банкротство_взгляд_эксперта<br>#Субсидиарная_ответственность",
+      "views": 336,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/437-1-6a12754b4906-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/437-1-6a12754b4906-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/bankrotstvo_mustknow/437",
+      "forwarded_from": null
+    },
     {
       "id": 436,
       "date": "2026-03-19T07:17:38+00:00",
@@ -17,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/436-1-f2ef888c6bfa-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/436-1-f2ef888c6bfa-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/436-1-043c13f1cbd3-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/436-1-043c13f1cbd3-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +53,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/434-1-395d17354067-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/434-1-395d17354067-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/434-1-d7bb04a236fe-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/434-1-d7bb04a236fe-v4.jpg"
         }
       ],
       "video_url": null,
@@ -48,13 +66,13 @@
       "date": "2026-03-17T11:26:06+00:00",
       "text": "🏠 Переход прав на заложенное имущество должника\n\nВладимир Гоппе, специалист практики банкротства и антикризисной защиты бизнеса, о порядке уступки права на залог имущества должника в банкротстве на примере постановления АC Московского округа.\n\n🔎 Ситуация\n\nДо возбуждения дела о банкротстве должник выступил залогодателем по кредитному договору.\nВне рамок дела о банкротстве суд обратил взыскание на заложенное имущество по кредитному договору. На стадии исполнения решения произошла замена залогодержателя на основании договора уступки права требования к должнику.\nНовый залогодержатель в деле о банкротстве должника заявил требование как обеспеченное залогом.\n\n🖊 Позиция судов\n\nСуд первой инстанции заявление удовлетворил, посчитав, что оно подтверждается договором уступки права требования к должнику, вступившим в законную силу решением суда и состоявшейся заменой взыскателя кредитором.\n\nНо апелляционный суд отказал во включении требований в реестр в связи с отсутствием государственной регистрации перехода прав требований первоначального залогодержателя к кредитору.\n\n⚖ Кассационный суд оставил в силе определение суда первой инстанции, поскольку:\n\n🔵государственная регистрация уступки прав по основному обязательству, обеспеченному залогом недвижимости, необходима только в случае, когда уступаемое обязательство возникло из договора, подлежащего государственной регистрации;\n🔵при наличии решения суда применяются не правила ипотеки, а вступивший в силу судебный акт;\n🔵государственная регистрация защищает в первую очередь права третьих лиц и не является правообразующей для сторон сделки, поэтому, если запись о залоге недвижимости была внесена в ЕГРН первоначальным залогодержателем, отсутствие регистрации перехода его права - не основание для отказа в признании его прав; \n🔵на заложенное имущество наложен уголовный арест, что затрудняет регистрацию перехода права от первоначального залогодержателя к кредитору.\n\n📌 Выводы\n\nВ случае перехода прав залогодержателя недвижимого имущества при оценке правового значения наличия или отсутствия регистрации прав на недвижимое имущество  определяющим является  внесение в ЕГРН записи о залоге первоначальным залогодержателем. \n\n#Залог #Требования_кредиторов",
       "text_html": "🏠 Переход прав на заложенное имущество должника<br><br>Владимир Гоппе, специалист практики банкротства и антикризисной защиты бизнеса, о порядке уступки права на залог имущества должника в банкротстве на примере <a href=\"https://ras.arbitr.ru/Document/Pdf/857f07ab-aaf2-4be8-98b8-04bd70cbef9d/c421b891-2425-4f5d-8d31-768cd68958c8/%D0%9041-71398-2024__20260218.pdf?isAddStamp=True\" target=\"_blank\" rel=\"noopener noreferrer\">постановления АC Московского округа</a>.<br><br>🔎 Ситуация<br><br>До возбуждения дела о банкротстве должник выступил залогодателем по кредитному договору.<br>Вне рамок дела о банкротстве суд обратил взыскание на заложенное имущество по кредитному договору. На стадии исполнения решения произошла замена залогодержателя на основании договора уступки права требования к должнику.<br>Новый залогодержатель в деле о банкротстве должника заявил требование как обеспеченное залогом.<br><br>🖊 Позиция судов<br><br>Суд первой инстанции заявление удовлетворил, посчитав, что оно подтверждается договором уступки права требования к должнику, вступившим в законную силу решением суда и состоявшейся заменой взыскателя кредитором.<br><br>Но апелляционный суд отказал во включении требований в реестр в связи с отсутствием государственной регистрации перехода прав требований первоначального залогодержателя к кредитору.<br><br>⚖ Кассационный суд оставил в силе определение суда первой инстанции, поскольку:<br><br>🔵государственная регистрация уступки прав по основному обязательству, обеспеченному залогом недвижимости, необходима только в случае, когда уступаемое обязательство возникло из договора, подлежащего государственной регистрации;<br>🔵при наличии решения суда применяются не правила ипотеки, а вступивший в силу судебный акт;<br>🔵государственная регистрация защищает в первую очередь права третьих лиц и не является правообразующей для сторон сделки, поэтому, если запись о залоге недвижимости была внесена в ЕГРН первоначальным залогодержателем, отсутствие регистрации перехода его права - не основание для отказа в признании его прав; <br>🔵на заложенное имущество наложен уголовный арест, что затрудняет регистрацию перехода права от первоначального залогодержателя к кредитору.<br><br>📌 Выводы<br><br>В случае перехода прав залогодержателя недвижимого имущества при оценке правового значения наличия или отсутствия регистрации прав на недвижимое имущество  определяющим является  внесение в ЕГРН записи о залоге первоначальным залогодержателем. <br><br>#Залог #Требования_кредиторов",
-      "views": 335,
+      "views": 336,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/433-1-c917777d1112-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/433-1-c917777d1112-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/433-1-cba6e68e7259-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/433-1-cba6e68e7259-v4.jpg"
         }
       ],
       "video_url": null,
@@ -71,8 +89,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/432-1-9a92c26f5b48-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/432-1-9a92c26f5b48-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/432-1-3837f6323ba3-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/432-1-3837f6323ba3-v4.jpg"
         }
       ],
       "video_url": null,
@@ -92,12 +110,7 @@
       "views": 365,
       "comments_count": 0,
       "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/430-1-151bd1971f58-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/430-1-151bd1971f58-v4.jpg"
-        }
-      ],
+      "photos": [],
       "video_url": null,
       "tg_url": "https://t.me/bankrotstvo_mustknow/430",
       "forwarded_from": null
@@ -112,8 +125,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/429-1-119ae69cbc5a-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/429-1-119ae69cbc5a-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/429-1-03512cd064f5-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/429-1-03512cd064f5-v4.jpg"
         }
       ],
       "video_url": null,
@@ -130,8 +143,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/427-1-0193d4bee9b0-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/427-1-0193d4bee9b0-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/427-1-2039f386b30b-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/427-1-2039f386b30b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -148,8 +161,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/426-1-fb69182686de-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/426-1-fb69182686de-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/426-1-eadfe3164f73-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/426-1-eadfe3164f73-v4.jpg"
         }
       ],
       "video_url": null,
@@ -166,8 +179,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/425-1-a44b50ecb765-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/425-1-a44b50ecb765-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/425-1-51cfeae30eb0-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/425-1-51cfeae30eb0-v4.jpg"
         }
       ],
       "video_url": null,
@@ -184,8 +197,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/424-1-2bfa2cfdd1f7-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/424-1-2bfa2cfdd1f7-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/424-1-0cc0acde8e3a-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/424-1-0cc0acde8e3a-v4.jpg"
         }
       ],
       "video_url": null,

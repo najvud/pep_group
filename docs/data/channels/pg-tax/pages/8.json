@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-06-09T10:05:07.038815+00:00",
+  "generated_at": "2026-06-09T12:50:46.438486+00:00",
   "pagination": {
     "page": 8,
     "page_size": 16,
-    "total_posts": 160,
-    "total_pages": 10
+    "total_posts": 161,
+    "total_pages": 11
   },
   "posts": [
+    {
+      "id": 2575,
+      "date": "2026-04-03T14:04:51+00:00",
+      "text": "🔎 Обзор писем Минфина для инвесторов\n \nРазбираем разъяснения за декабрь 2025 – январь 2026\n \n🔸 Реализация ОС с региональным вычетом до истечения срока: налог восстановят с пенями\n\nМинфин напоминает: при продаже или ином выбытии объекта ОС, по которому применён инвестиционный вычет по налогу на прибыль (ст. 286.1 НК РФ), ранее окончания срока полезного использования – сумму неуплаченного налога придётся восстановить и доплатить в бюджет вместе с пенями. Исключение – только ликвидация.\n \nПисьмо от 29.01.2026 № 03-03-06/1/6176\n \n🔸 Вклад в инвестиционное товарищество для малых технологических компаний: вычет возможен, но есть нюансы\n\nРасходы в виде вклада в товарищество, которое инвестирует в МТК, можно включить в инвестиционный вычет (до 100%). Но для этого нужен закон субъекта РФ и включение товарищества в региональный реестр венчурных инвесттовариществ. Без них – вычета нет.\n \nПисьмо от 28.01.2026 № 03-03-07/5995\n \n🔸 ФИНВ: передать право внутри группы может не каждый\n\nПередать право на ФИНВ (ст. 286.2 НК РФ) другому участнику группы вправе только та организация, которая сама соответствует критериям для вычета (уплачивает налог по общей ставке, не входит в закрытый перечень и т.д.). Если инициатор расходов не имеет права на вычет – передать его нельзя даже внутри группы.\n \nПисьмо от 19.01.2026 № 03-03-06/1/2384\n \n🔸 Ликвидация ОС с ФИНВ: налог восстанавливать не нужно\n\nОбщее правило: при выбытии ОС ранее 5 лет с момента ввода – восстановление налога и пени. Но ликвидация – исключение: если объект списан до истечения 5 лет, доначислять налог за ранее применённый ФИНВ не требуется.\n \nПисьмо от 17.12.2025 № 03-03-06/1/122766",
+      "text_html": "🔎 Обзор писем Минфина для инвесторов<br> <br>Разбираем разъяснения за декабрь 2025 – январь 2026<br> <br>🔸 Реализация ОС с региональным вычетом до истечения срока: налог восстановят с пенями<br><br>Минфин напоминает: при продаже или ином выбытии объекта ОС, по которому применён инвестиционный вычет по налогу на прибыль (ст. 286.1 НК РФ), ранее окончания срока полезного использования – сумму неуплаченного налога придётся восстановить и доплатить в бюджет вместе с пенями. Исключение – только ликвидация.<br> <br>Письмо от 29.01.2026 № 03-03-06/1/6176<br> <br>🔸 Вклад в инвестиционное товарищество для малых технологических компаний: вычет возможен, но есть нюансы<br><br>Расходы в виде вклада в товарищество, которое инвестирует в МТК, можно включить в инвестиционный вычет (до 100%). Но для этого нужен закон субъекта РФ и включение товарищества в региональный реестр венчурных инвесттовариществ. Без них – вычета нет.<br> <br>Письмо от 28.01.2026 № 03-03-07/5995<br> <br>🔸 ФИНВ: передать право внутри группы может не каждый<br><br>Передать право на ФИНВ (ст. 286.2 НК РФ) другому участнику группы вправе только та организация, которая сама соответствует критериям для вычета (уплачивает налог по общей ставке, не входит в закрытый перечень и т.д.). Если инициатор расходов не имеет права на вычет – передать его нельзя даже внутри группы.<br> <br>Письмо от 19.01.2026 № 03-03-06/1/2384<br> <br>🔸 Ликвидация ОС с ФИНВ: налог восстанавливать не нужно<br><br>Общее правило: при выбытии ОС ранее 5 лет с момента ввода – восстановление налога и пени. Но ликвидация – исключение: если объект списан до истечения 5 лет, доначислять налог за ранее применённый ФИНВ не требуется.<br> <br>Письмо от 17.12.2025 № 03-03-06/1/122766",
+      "views": 1140,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [],
+      "video_url": null,
+      "tg_url": "https://t.me/PG_Tax/2575",
+      "forwarded_from": {
+        "source_url": "https://t.me/InvestmentLaw/1080",
+        "channel_url": "https://t.me/s/InvestmentLaw",
+        "channel_username": "InvestmentLaw",
+        "channel_title": "СпецИнвестРежимы"
+      }
+    },
     {
       "id": 2574,
       "date": "2026-04-03T11:57:32+00:00",
@@ -30,8 +48,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2573-1-5f7d615db113-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2573-1-5f7d615db113-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2573-1-bdcd1742b3db-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2573-1-bdcd1742b3db-v4.jpg"
         }
       ],
       "video_url": null,
@@ -48,8 +66,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2572-1-a059eac4b1ba-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2572-1-a059eac4b1ba-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2572-1-75b834b56fe7-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2572-1-75b834b56fe7-v4.jpg"
         }
       ],
       "video_url": null,
@@ -66,8 +84,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2571-1-bfbef685c83d-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2571-1-bfbef685c83d-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2571-1-03942b30a140-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2571-1-03942b30a140-v4.jpg"
         }
       ],
       "video_url": null,
@@ -84,8 +102,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2570-1-160555e31832-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2570-1-160555e31832-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2570-1-adcafa01bb70-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2570-1-adcafa01bb70-v4.jpg"
         }
       ],
       "video_url": null,
@@ -102,8 +120,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2569-1-c2b473716ac1-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2569-1-c2b473716ac1-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2569-1-f410303c4c39-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2569-1-f410303c4c39-v4.jpg"
         }
       ],
       "video_url": null,
@@ -120,8 +138,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2568-1-5738fd668db6-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2568-1-5738fd668db6-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2568-1-8c8344134414-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2568-1-8c8344134414-v4.jpg"
         }
       ],
       "video_url": null,
@@ -138,8 +156,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2567-1-21b31831996c-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2567-1-21b31831996c-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2567-1-0c725e7f8da5-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2567-1-0c725e7f8da5-v4.jpg"
         }
       ],
       "video_url": null,
@@ -156,8 +174,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2566-1-0eb8c7c1de27-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2566-1-0eb8c7c1de27-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2566-1-ab23fcf08f97-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2566-1-ab23fcf08f97-v4.jpg"
         }
       ],
       "video_url": null,
@@ -174,8 +192,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2565-1-39a0d570f8fc-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2565-1-39a0d570f8fc-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2565-1-67069bde9a1a-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2565-1-67069bde9a1a-v4.jpg"
         }
       ],
       "video_url": null,
@@ -205,8 +223,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2563-1-f5a4960ad747-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2563-1-f5a4960ad747-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2563-1-b884bbcedefa-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2563-1-b884bbcedefa-v4.jpg"
         }
       ],
       "video_url": null,
@@ -223,8 +241,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2562-1-9ad4b947bbd1-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2562-1-9ad4b947bbd1-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2562-1-038e11d9e057-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2562-1-038e11d9e057-v4.jpg"
         }
       ],
       "video_url": null,
@@ -246,8 +264,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2561-1-86164a3205c7-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2561-1-86164a3205c7-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2561-1-394515095ece-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2561-1-394515095ece-v4.jpg"
         }
       ],
       "video_url": null,
@@ -264,25 +282,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2560-1-6a50e4fed760-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2560-1-6a50e4fed760-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2560-1-925692fa55c5-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2560-1-925692fa55c5-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/PG_Tax/2560",
-      "forwarded_from": null
-    },
-    {
-      "id": 2559,
-      "date": "2026-03-24T10:10:57+00:00",
-      "text": "🔥 Экспертный совет ТПП РФ одобрил инициативный законопроект о соотношении цены договора и НДС.\n\nЭкспертный законопроект направлен на комплексное решение выявленной КС РФ проблемы и, учитывая природу НДС как косвенного налога, перелагаемого продавцом на покупателя, в качестве общего правила предусматривает подход «куда НДС, туда и цена»: \n     🔴при увеличении налога покупатель доплачивает разницу продавцу, \n     🔴при снижении — обязательства покупателя уменьшаются. \n\n🛑 Так же решается вопрос в зарубежных странах с многолетним опытом взимания НДС.\n\nПри этом для сторон сохраняется возможность согласовать в договоре иные условия.\n\n☝️ Иной (упрощенный) подход, при котором бремя увеличения НДС возлагается на продавца, не учитывает косвенный характер НДС (перелагаемость) и потому был бы ошибочен.\n\nВ ближайшее время ТПП России планирует направить законопроект в заинтересованные органы государственной власти.\n\n➖➖\nС законопроектными материалами и подробностями обсуждения законопроекта можно ознакомиться: \n     🔍 на сайте журнала \"Налоговед\"\n     🔍 на сайте ТПП России\n     🔍 в блоге XXIII ежегодной научно-практической конференции \"Налоговое право в решениях КС РФ\" на zakon.ru\n\n➖➖\nНа zakon.ru также можно: \n     ✔️ознакомиться с полным текстом письма \"друзей Суда\" (amici curiae), направленного в КС РФ при рассмотрении дела\n     ✔️принять непосредственное участие в обсуждении законопроекта в личном блоге Сергея Пепеляева 👉",
-      "text_html": "🔥 Экспертный совет ТПП РФ одобрил инициативный законопроект о соотношении цены договора и НДС.<br><br>Экспертный законопроект направлен на комплексное решение выявленной КС РФ проблемы и, учитывая природу НДС как косвенного налога, перелагаемого продавцом на покупателя, в качестве общего правила предусматривает подход «куда НДС, туда и цена»: <br>     🔴при увеличении налога покупатель доплачивает разницу продавцу, <br>     🔴при снижении — обязательства покупателя уменьшаются. <br><br>🛑 Так же решается вопрос в зарубежных странах с многолетним опытом взимания НДС.<br><br>При этом для сторон сохраняется возможность согласовать в договоре иные условия.<br><br>☝️ Иной (упрощенный) подход, при котором бремя увеличения НДС возлагается на продавца, не учитывает косвенный характер НДС (перелагаемость) и потому был бы ошибочен.<br><br>В ближайшее время ТПП России планирует направить законопроект в заинтересованные органы государственной власти.<br><br>➖➖<br>С законопроектными материалами и подробностями обсуждения законопроекта можно ознакомиться: <br>     🔍 на сайте журнала <a href=\"https://nalogoved.ru/news/16387.html\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;Налоговед&quot;</a><br>     🔍 на сайте <a href=\"https://org.tpprf.ru/of/sov-Nalog/post-release/8055446/\" target=\"_blank\" rel=\"noopener noreferrer\">ТПП России</a><br>     🔍 в блоге XXIII ежегодной научно-практической конференции \"Налоговое право в решениях КС РФ\" на <a href=\"https://zakon.ru/blog/2026/3/16/ekspertnyj_zakonoproekt_s_popravkami_v_nk_rf_-_sootnoshenie_ceny_dogovora_i_nds\" target=\"_blank\" rel=\"noopener noreferrer\">zakon.ru</a><br><br>➖➖<br>На <a href=\"https://zakon.ru/blog/2026/03/03/nalogovoe_pravo_v_resheniyah_konstitucionnogo_suda_rf_ezhegodnaya_nauchno-prakticheskaya_konferenciy\" target=\"_blank\" rel=\"noopener noreferrer\">zakon.ru</a> также можно: <br>     ✔️ознакомиться с полным текстом <a href=\"https://zakon.ru/blog/2026/3/12/iniciativnoe_zaklyuchenie_o_vozmozhnosti_perelozheniya_uvelichennogo_nds_prodavcom_na_pokupatelya_po\" target=\"_blank\" rel=\"noopener noreferrer\">письма &quot;друзей Суда&quot;</a> (amici curiae), направленного в КС РФ при рассмотрении дела<br>     ✔️принять непосредственное участие в обсуждении законопроекта в <a href=\"https://zakon.ru/blog/2026/3/23/predlagaem_obsudit_zakonoproekt_o_sootnoshenii_ceny_dogovora_i_nds\" target=\"_blank\" rel=\"noopener noreferrer\">личном блоге Сергея Пепеляева</a> 👉",
-      "views": 1160,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2559",
       "forwarded_from": null
     }
   ]
