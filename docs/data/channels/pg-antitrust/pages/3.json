@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-10T12:01:55.279184+00:00",
+  "generated_at": "2026-06-10T16:00:56.675659+00:00",
   "pagination": {
     "page": 3,
     "page_size": 16,
-    "total_posts": 41,
+    "total_posts": 40,
     "total_pages": 3
   },
   "posts": [
@@ -17,8 +17,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1370-1-416673a70cb6-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1370-1-416673a70cb6-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1370-1-c9dfa8fe7900-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1370-1-c9dfa8fe7900-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,16 +35,16 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1367-1-9cd9ec5a2d63-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1367-1-9cd9ec5a2d63-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1367-1-219d39603240-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1367-1-219d39603240-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1367-2-ab813dd8f69d-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1367-2-ab813dd8f69d-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1367-2-8028bc0de648-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1367-2-8028bc0de648-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1367-3-f06ed7e18dba-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1367-3-f06ed7e18dba-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1367-3-53965a577c08-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1367-3-53965a577c08-v4.jpg"
         }
       ],
       "video_url": null,
@@ -66,8 +66,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1366-1-d4996782c0db-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1366-1-d4996782c0db-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1366-1-0406f4f5f095-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1366-1-0406f4f5f095-v4.jpg"
         }
       ],
       "video_url": null,
@@ -97,8 +97,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1364-1-4060061d9e39-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1364-1-4060061d9e39-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1364-1-5fa1ff3ed505-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1364-1-5fa1ff3ed505-v4.jpg"
         }
       ],
       "video_url": null,
@@ -115,8 +115,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1363-1-9ad7d5c819e1-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1363-1-9ad7d5c819e1-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1363-1-730455e785e3-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1363-1-730455e785e3-v4.jpg"
         }
       ],
       "video_url": null,
@@ -138,8 +138,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1362-1-75aad853638b-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1362-1-75aad853638b-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1362-1-4ba9f7a1448a-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1362-1-4ba9f7a1448a-v4.jpg"
         }
       ],
       "video_url": null,
@@ -161,25 +161,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1361-1-7f848f1bc453-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1361-1-7f848f1bc453-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1361-1-953021574d58-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1361-1-953021574d58-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/PgAntitrust/1361",
-      "forwarded_from": null
-    },
-    {
-      "id": 1360,
-      "date": "2026-03-10T13:15:45+00:00",
-      "text": "❗️ФАС опубликовала официальные разъяснения про рекламу на ограниченных ресурсах\n\nПозиция ведомства после праздников не изменилась.\n\nФАС считает, что Телеграм ограничивается Роскомнадзором. Соответственно, реклама в нем запрещена. Это же касается Ютуб и других известных запрещенных ресурсов. \n\nПримечательно, что все наименования товарных знаков (Телеграм, Ютуб и др.) написаны на русском языке.\n\nСледим за развитием событий...",
-      "text_html": "❗️<a href=\"https://fas.gov.ru/news/34556\" target=\"_blank\" rel=\"noopener noreferrer\">ФАС опубликовала официальные разъяснения про рекламу на ограниченных ресурсах</a><br><br>Позиция ведомства после праздников не изменилась.<br><br>ФАС считает, что Телеграм ограничивается Роскомнадзором. Соответственно, реклама в нем запрещена. Это же касается Ютуб и других известных запрещенных ресурсов. <br><br>Примечательно, что все наименования товарных знаков (Телеграм, Ютуб и др.) написаны на русском языке.<br><br>Следим за развитием событий...",
-      "views": 812,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [],
-      "video_url": null,
-      "tg_url": "https://t.me/PgAntitrust/1360",
       "forwarded_from": null
     }
   ]

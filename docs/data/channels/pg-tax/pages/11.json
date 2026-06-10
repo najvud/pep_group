@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-10T12:03:18.791478+00:00",
+  "generated_at": "2026-06-10T16:02:47.291249+00:00",
   "pagination": {
     "page": 11,
     "page_size": 16,
-    "total_posts": 162,
+    "total_posts": 161,
     "total_pages": 11
   },
   "posts": [
@@ -17,25 +17,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2523-1-75bb551d93e4-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2523-1-75bb551d93e4-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2523-1-85de0b3d8104-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2523-1-85de0b3d8104-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/PG_Tax/2523",
-      "forwarded_from": null
-    },
-    {
-      "id": 2522,
-      "date": "2026-03-10T13:41:22+00:00",
-      "text": "⚡️ ФАС фактически объявила рекламу в Telegram незаконной. Налоговые последствия могут оказаться куда болезненнее штрафов.  Федеральная антимонопольная служба заявила, что размещение рекламы в Telegram незаконно, поскольку Роскомнадзор уже принимает меры по…",
-      "text_html": "⚡️ ФАС фактически объявила рекламу в Telegram незаконной. Налоговые последствия могут оказаться куда болезненнее штрафов.  Федеральная антимонопольная служба заявила, что размещение рекламы в Telegram незаконно, поскольку Роскомнадзор уже принимает меры по…",
-      "views": 1410,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2522",
       "forwarded_from": null
     }
   ]
