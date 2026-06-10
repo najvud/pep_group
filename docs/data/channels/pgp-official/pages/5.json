@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-06-10T08:42:28.287869+00:00",
+  "generated_at": "2026-06-10T12:01:31.954058+00:00",
   "pagination": {
     "page": 5,
     "page_size": 16,
-    "total_posts": 81,
-    "total_pages": 6
+    "total_posts": 80,
+    "total_pages": 5
   },
   "posts": [
+    {
+      "id": 1774,
+      "date": "2026-03-25T07:03:50+00:00",
+      "text": "☂️ Ограничения и меры поддержки для бизнеса: дайджест\n\n🔘Усилят контроль за международными перевозками, а также миграционный и налоговый контроль за иностранными работниками;\n\n🔘Определены единые правила работы с ИИ.\n\nПодробнее – по ссылке.\n\n#антикризисная_поддержка_бизнеса\n\n🏢 Подписаться на рассылки | MAX | Приложение PG",
+      "text_html": "☂️ Ограничения и меры поддержки для бизнеса: дайджест<br><br>🔘Усилят контроль за международными перевозками, а также миграционный и налоговый контроль за иностранными работниками;<br><br>🔘Определены единые правила работы с ИИ.<br><br>Подробнее – <a href=\"https://www.pgplaw.ru/analytics-and-brochures/sanctions-support-digest/support-digest-23-03-26/\" target=\"_blank\" rel=\"noopener noreferrer\">по ссылке.</a><br><br>#антикризисная_поддержка_бизнеса<br><br>🏢 <a href=\"https://www.pgplaw.ru/subscribe/\" target=\"_blank\" rel=\"noopener noreferrer\">Подписаться на рассылки |</a> <a href=\"https://max.ru/id7707301372_biz\" target=\"_blank\" rel=\"noopener noreferrer\">MAX |</a> <a href=\"https://t.me/pgp_official/1769\" target=\"_blank\" rel=\"noopener noreferrer\">Приложение PG</a>",
+      "views": 879,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1774-1-3561df935005-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1774-1-3561df935005-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/pgp_official/1774",
+      "forwarded_from": null
+    },
     {
       "id": 1773,
       "date": "2026-03-24T13:00:24+00:00",
@@ -17,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1773-1-4ca7b4e3edf2-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1773-1-4ca7b4e3edf2-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1773-1-dcde37fdde08-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1773-1-dcde37fdde08-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +53,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1772-1-d1a847851ea9-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1772-1-d1a847851ea9-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1772-1-d7e26b27c112-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1772-1-d7e26b27c112-v4.jpg"
         }
       ],
       "video_url": null,
@@ -58,16 +76,16 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1769-1-3ef9af54e4b9-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1769-1-3ef9af54e4b9-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1769-1-c17e644e6511-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1769-1-c17e644e6511-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1769-2-8f14d7c8421d-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1769-2-8f14d7c8421d-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1769-2-a7de5cfe938f-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1769-2-a7de5cfe938f-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1769-3-093504ea34e5-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1769-3-093504ea34e5-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1769-3-338c0e3732b1-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1769-3-338c0e3732b1-v4.jpg"
         }
       ],
       "video_url": null,
@@ -84,8 +102,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1768-1-b43d831e57fd-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1768-1-b43d831e57fd-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1768-1-44d02188676c-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1768-1-44d02188676c-v4.jpg"
         }
       ],
       "video_url": null,
@@ -97,13 +115,13 @@
       "date": "2026-03-18T06:59:55+00:00",
       "text": "🎙 Эксперт «Пепеляев Групп» выступит на Антимонопольном форуме ОКЮР\n\n2 апреля в Москве пройдет ежегодный Антимонопольный форум ОКЮР при поддержке ФАС России и Евразийской экономической комиссии – «Навигатор по антимонопольному ландшафту 2026: от цифровых рынков до госзакупок. Национальный и наднациональный фокус».\n\nВ форуме примет участие руководитель антимонопольной практики «Пепеляев Групп» Илья Тюленев. В рамках первой сессии «Преступление и наказание: эволюция антиконкурентных сговоров, переговоров и ответственности за них», он выступит с темой «Где заканчиваются переговоры и начинается ФАС: кейсы и ошибки компаний, решения, которые можно использовать».\n\nВ своем выступлении Илья разберет:\n\n©️где проходит граница между жесткой коммерческой позицией и антимонопольным риском на примере реальных кейсов – в какой момент обычные переговоры могут быть расценены регулятором как нарушение;\n\n©️какие ошибки компаний чаще всего приводят к претензиям ФАС, и почему проблемы нередко возникают не в тексте договора, а в переписке, переговорах и практике взаимодействия с партнерами;\n\n©️практические подходы, позволяющие выстраивать переговоры и договорные условия так, чтобы защищать коммерческие интересы компании и снижать антимонопольные риски.\n\n🟠Дата: 2 апреля 2026\n🟠Время: 09:30 – 17:30\n🟠Место: Москва, ул. Ильинка, д. 6, Конгресс-центр ТПП РФ\n\n➡️ Подробнее о программе и регистрация – на сайте организатора.",
       "text_html": "🎙 Эксперт «Пепеляев Групп» выступит на Антимонопольном форуме ОКЮР<br><br>2 апреля в Москве пройдет ежегодный Антимонопольный форум ОКЮР при поддержке ФАС России и Евразийской экономической комиссии – «Навигатор по антимонопольному ландшафту 2026: от цифровых рынков до госзакупок. Национальный и наднациональный фокус».<br><br>В форуме примет участие руководитель антимонопольной практики «Пепеляев Групп» <a href=\"https://www.pgplaw.ru/to-get-the-team/tiulenev/\" target=\"_blank\" rel=\"noopener noreferrer\">Илья Тюленев</a>. В рамках первой сессии «Преступление и наказание: эволюция антиконкурентных сговоров, переговоров и ответственности за них», он выступит с темой «Где заканчиваются переговоры и начинается ФАС: кейсы и ошибки компаний, решения, которые можно использовать».<br><br>В своем выступлении Илья разберет:<br><br>©️где проходит граница между жесткой коммерческой позицией и антимонопольным риском на примере реальных кейсов – в какой момент обычные переговоры могут быть расценены регулятором как нарушение;<br><br>©️какие ошибки компаний чаще всего приводят к претензиям ФАС, и почему проблемы нередко возникают не в тексте договора, а в переписке, переговорах и практике взаимодействия с партнерами;<br><br>©️практические подходы, позволяющие выстраивать переговоры и договорные условия так, чтобы защищать коммерческие интересы компании и снижать антимонопольные риски.<br><br>🟠Дата: 2 апреля 2026<br>🟠Время: 09:30 – 17:30<br>🟠Место: Москва, ул. Ильинка, д. 6, Конгресс-центр ТПП РФ<br><br>➡️ Подробнее о программе и регистрация – <a href=\"https://www.rcca.com.ru/news/action1.shtml?id=1712\" target=\"_blank\" rel=\"noopener noreferrer\">на сайте организатора</a>.",
-      "views": 868,
+      "views": 869,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1767-1-55a018406121-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1767-1-55a018406121-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1767-1-4ef0ed060516-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1767-1-4ef0ed060516-v4.jpg"
         }
       ],
       "video_url": null,
@@ -125,8 +143,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1766-1-9f22863adcbc-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1766-1-9f22863adcbc-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1766-1-c9473c77ced7-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1766-1-c9473c77ced7-v4.jpg"
         }
       ],
       "video_url": null,
@@ -143,8 +161,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1765-1-0795d5f9a5dd-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1765-1-0795d5f9a5dd-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1765-1-0803adf3d8f8-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1765-1-0803adf3d8f8-v4.jpg"
         }
       ],
       "video_url": null,
@@ -161,8 +179,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1764-1-5b82c2f4b81a-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1764-1-5b82c2f4b81a-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1764-1-10d356aaed1b-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1764-1-10d356aaed1b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -184,12 +202,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1762-1-d88ee7430a21-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1762-1-d88ee7430a21-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1762-1-6771f9a149dd-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1762-1-6771f9a149dd-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1762-2-78d350266837-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1762-2-78d350266837-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1762-2-83842e91311d-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1762-2-83842e91311d-v4.jpg"
         }
       ],
       "video_url": null,
@@ -206,8 +224,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1761-1-25ecf017c0e6-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1761-1-25ecf017c0e6-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1761-1-cc3c35607b7d-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1761-1-cc3c35607b7d-v4.jpg"
         }
       ],
       "video_url": null,
@@ -224,8 +242,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1760-1-451f8011d990-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1760-1-451f8011d990-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1760-1-65f2d96ee9a2-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1760-1-65f2d96ee9a2-v4.jpg"
         }
       ],
       "video_url": null,
@@ -242,8 +260,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1759-1-ab796007b774-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1759-1-ab796007b774-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1759-1-c5a544dc93fa-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1759-1-c5a544dc93fa-v4.jpg"
         }
       ],
       "video_url": null,
@@ -260,8 +278,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1758-1-72ee68693e6f-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1758-1-72ee68693e6f-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1758-1-3f2eb652a284-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1758-1-3f2eb652a284-v4.jpg"
         }
       ],
       "video_url": null,
@@ -278,8 +296,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1757-1-4d86a63661a0-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1757-1-4d86a63661a0-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1757-1-58e941b0f541-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1757-1-58e941b0f541-v4.jpg"
         }
       ],
       "video_url": null,
@@ -296,8 +314,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1756-1-2229e0e7b652-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1756-1-2229e0e7b652-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1756-1-404b44e410c7-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1756-1-404b44e410c7-v4.jpg"
         }
       ],
       "video_url": null,
@@ -308,24 +326,6 @@
         "channel_username": "bankrotstvo_mustknow",
         "channel_title": "Банкротство | Взгляд эксперта"
       }
-    },
-    {
-      "id": 1755,
-      "date": "2026-03-10T11:59:58+00:00",
-      "text": "💼 Эксперт «Пепеляев Групп» выступит на ежегодной HR-конференции Ассоциации Европейской Бизнеса\n\n26 марта 2026 г. состоится ежегодная конференция HR-комитета Ассоциации европейского бизнеса «Кадровые ресурсы в 2025-м: вызовы, которые мы принимаем».\n\n🎙 В мероприятии примет участие руководитель практики трудового и миграционного права «Пепеляев Групп», Виталия Кузнецова. В рамках сессии подкомитета по трудовому праву АЕБ она выступит с докладом «Дисциплинарные составы: “подводные камни” для работодателя».\n\n▫️В своем выступлении Виталия расскажет о сложностях при применения дисциплинарных взысканий на практике, типичных ошибках работодателей, актуальных тенденциях в судебной практике.\n\n🔴Дата: 26 марта 2026\n🔴Время: 09:30–16:30\n🔴Место: Москва, ул. Лесная, д. 9, конференц-центр «Меллинг, Войтишкин и партнеры»\n\n👉 Подробнее о программе и регистрация — на сайте организатора.",
-      "text_html": "💼 Эксперт «Пепеляев Групп» выступит на ежегодной HR-конференции Ассоциации Европейской Бизнеса<br><br>26 марта 2026 г. состоится ежегодная конференция HR-комитета Ассоциации европейского бизнеса «Кадровые ресурсы в 2025-м: вызовы, которые мы принимаем».<br><br>🎙 В мероприятии примет участие руководитель практики трудового и миграционного права «Пепеляев Групп», <a href=\"https://www.pgplaw.ru/to-get-the-team/kuznetsova/\" target=\"_blank\" rel=\"noopener noreferrer\">Виталия Кузнецова</a>. В рамках сессии подкомитета по трудовому праву АЕБ она выступит с докладом «Дисциплинарные составы: “подводные камни” для работодателя».<br><br>▫️В своем выступлении Виталия расскажет о сложностях при применения дисциплинарных взысканий на практике, типичных ошибках работодателей, актуальных тенденциях в судебной практике.<br><br>🔴Дата: 26 марта 2026<br>🔴Время: 09:30–16:30<br>🔴Место: Москва, ул. Лесная, д. 9, конференц-центр «Меллинг, Войтишкин и партнеры»<br><br>👉 Подробнее о программе и регистрация — <a href=\"https://aebrus.ru/ru/aeb-events/annual-hr-conference-human-resources-in-2025-the-challenges-we-accept/\" target=\"_blank\" rel=\"noopener noreferrer\">на сайте организатора</a>.",
-      "views": 1050,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1755-1-c975eeaf4934-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1755-1-c975eeaf4934-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/pgp_official/1755",
-      "forwarded_from": null
     }
   ]
 }

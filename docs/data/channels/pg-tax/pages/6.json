@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T08:43:43.317793+00:00",
+  "generated_at": "2026-06-10T12:03:18.780454+00:00",
   "pagination": {
     "page": 6,
     "page_size": 16,
@@ -7,6 +7,24 @@
     "total_pages": 11
   },
   "posts": [
+    {
+      "id": 2610,
+      "date": "2026-04-24T10:56:01+00:00",
+      "text": "📢 Новости региональных УФНС\n\nНа сайте \"Налоговеда\" опубликован обзор новостей региональных УФНС за март.\n\nВ фокусе внимания Управлений службы:\n     🔴налоговая амнистия и выездные проверки по фактам дробления бизнеса,\n     🔴выведение из тени \"серых\" зарплат,\n     🔴контрольная работа в отношении зарубежных банковских счетов и платежных карт,\n     🔴борьба с интернет-казино, \n     🔴использование ИИ в деятельности налоговых органов.\n\n#обзор_новостей_УФНС\n\n➖➖\n💡 Индивидуальные обзоры изменений налогового законодательства и практики, учитывающие специфику Вашего бизнеса, по расписанию в Ваш почтовый ящик можно оформить здесь.",
+      "text_html": "📢 Новости региональных УФНС<br><br>На сайте \"Налоговеда\" опубликован <a href=\"https://nalogoved.ru/docs/16415.html\" target=\"_blank\" rel=\"noopener noreferrer\">обзор</a> новостей региональных УФНС за март.<br><br>В фокусе внимания Управлений службы:<br>     🔴налоговая амнистия и выездные проверки по фактам дробления бизнеса,<br>     🔴выведение из тени \"серых\" зарплат,<br>     🔴контрольная работа в отношении зарубежных банковских счетов и платежных карт,<br>     🔴борьба с интернет-казино, <br>     🔴использование ИИ в деятельности налоговых органов.<br><br>#обзор_новостей_УФНС<br><br>➖➖<br>💡 Индивидуальные обзоры изменений налогового законодательства и практики, учитывающие специфику Вашего бизнеса, по расписанию в Ваш почтовый ящик можно оформить <a href=\"https://www.pgplaw.ru/practice-and-industry/practices/obzory-zakonodatelstva-i-praktiki/\" target=\"_blank\" rel=\"noopener noreferrer\">здесь</a>.",
+      "views": 986,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2610-1-ccac902ca08e-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2610-1-ccac902ca08e-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/PG_Tax/2610",
+      "forwarded_from": null
+    },
     {
       "id": 2609,
       "date": "2026-04-24T07:18:57+00:00",
@@ -17,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2609-1-b51be1a80867-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2609-1-b51be1a80867-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2609-1-5e5b538d05ac-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2609-1-5e5b538d05ac-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +53,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2608-1-e2b3fcee435c-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2608-1-e2b3fcee435c-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2608-1-b76c3553993c-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2608-1-b76c3553993c-v4.jpg"
         }
       ],
       "video_url": null,
@@ -53,8 +71,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2607-1-83fee7b77088-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2607-1-83fee7b77088-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2607-1-6d43e1337ec5-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2607-1-6d43e1337ec5-v4.jpg"
         }
       ],
       "video_url": null,
@@ -71,8 +89,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2606-1-5e632f613aae-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2606-1-5e632f613aae-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2606-1-1cd57f08dec8-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2606-1-1cd57f08dec8-v4.jpg"
         }
       ],
       "video_url": null,
@@ -89,8 +107,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2605-1-c6aab9b71b7d-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2605-1-c6aab9b71b7d-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2605-1-ea34998ce48b-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2605-1-ea34998ce48b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -107,8 +125,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2604-1-2fe86a4ae127-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2604-1-2fe86a4ae127-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2604-1-16b6fd13db9d-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2604-1-16b6fd13db9d-v4.jpg"
         }
       ],
       "video_url": null,
@@ -125,8 +143,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2603-1-b196496ae2b5-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2603-1-b196496ae2b5-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2603-1-01f65f736ca6-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2603-1-01f65f736ca6-v4.jpg"
         }
       ],
       "video_url": null,
@@ -161,8 +179,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2601-1-ffd2372403f9-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2601-1-ffd2372403f9-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2601-1-cbb160ebe4b4-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2601-1-cbb160ebe4b4-v4.jpg"
         }
       ],
       "video_url": null,
@@ -179,8 +197,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2600-1-d8816184b331-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2600-1-d8816184b331-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2600-1-db9332c54904-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2600-1-db9332c54904-v4.jpg"
         }
       ],
       "video_url": null,
@@ -197,8 +215,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2599-1-463e04ca554f-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2599-1-463e04ca554f-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2599-1-78939786b067-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2599-1-78939786b067-v4.jpg"
         }
       ],
       "video_url": null,
@@ -220,8 +238,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2598-1-c1f4329c14db-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2598-1-c1f4329c14db-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2598-1-1a856d29ca6b-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2598-1-1a856d29ca6b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -238,8 +256,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2597-1-bc0308d35d76-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2597-1-bc0308d35d76-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2597-1-d6a498726f76-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2597-1-d6a498726f76-v4.jpg"
         }
       ],
       "video_url": null,
@@ -268,26 +286,8 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/f38c492795.mp4?token=SVlGSy2ALpGcmgEj6LKYyADAoZjnCq865Cc0-7IQfeU9vjSuudxjBKkCQm879d7uLOgJat_JDSMSek__f2lU_RijmrsfDXhrgflwIBNl5n-zMNmKJUUfFAG0P63fwysGLDb8hXioE7Nf77oz8zbJ2XwY3DuaeRQn13ekJnKSgz2olSlArSwNfXbkEWz_5frYmx6h4uCW5Dtn5maysBelgnkGrfT1hQXp8U1NEPtze98RxjJnaZt29RYJyQlAc0LN15Gy4Uc7_GuMNuLX1Tbb1j6AwkY4jxtOlGOGWIBHv5wawG00pQKGyDOBV75SJbSfM0AWaT6LRClCp6Zdmzw8-A",
+      "video_url": "https://cdn4.telesco.pe/file/f38c492795.mp4?token=X9p2rj2vMckwjDALjwHqDMxNDBU9LCinyyth7Wzdcn-alTlntI67d60qTIgKbAGTGZzpDdEMI3GbS_YulfSz61lR8t_H1KdhXYtxtXG5lyz7bL0xIEmtbXY5Dj0UIeqn0rvfHDQLIAOUeqs46fgzVHeiqMkLMnuxJuvzNqTLbBShXiw4m9lybalukFmQEGOsUQKBseJ4IdjCQEBPZyKqcJFdanriC-ajLqkd8m6r8ks8605QIyzYtB6jEt0RC4tBxdJwUtqXfbkZpZdYSh1nXxYGG25p3C-RKAgwtqVBIWzavgK2LjSMcDybBNfpRXQm1rISusiyZ0MXixOqrQxP7A",
       "tg_url": "https://t.me/PG_Tax/2595",
-      "forwarded_from": null
-    },
-    {
-      "id": 2594,
-      "date": "2026-04-16T05:45:07+00:00",
-      "text": null,
-      "text_html": null,
-      "views": 1060,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2594-1-5bcc811d2891-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2594-1-5bcc811d2891-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2594",
       "forwarded_from": null
     }
   ]
