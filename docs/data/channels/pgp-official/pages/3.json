@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T21:47:23.918978+00:00",
+  "generated_at": "2026-06-14T22:54:49.532837+00:00",
   "pagination": {
     "page": 3,
     "page_size": 16,
@@ -35,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "https://cdn4.telesco.pe/file/azVqrmgpJ8ECjjicW5QDx2sb-UKSOen1nG7J4o-sIFLstzr-8GwLjos4Z9KF78dgr_3CvaNFH13xNnwOvWGNT_N5EcfOtu0opc_n6XCadxPRpXHOAAZGWRgr-UMCNe1hENwwfOZbvm9JZBC0PqahyQLyPSxjA0GilvWH22vR4VeALAv-wap_MsgAbbMxTRyBJadHwSsULlAGq1wnYKmPI_CucvbWZvSj-FAFpClhaSHcSA1Z6HY-yL2MZME7UYgK2E63jXeaEVevAklzJcM-y0-4M5fVn9QosHvRgItzxkxD5oKEi423wd7nC4tmBUMR-kMM0rD-_vxCLqq24HV9eA.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/azVqrmgpJ8ECjjicW5QDx2sb-UKSOen1nG7J4o-sIFLstzr-8GwLjos4Z9KF78dgr_3CvaNFH13xNnwOvWGNT_N5EcfOtu0opc_n6XCadxPRpXHOAAZGWRgr-UMCNe1hENwwfOZbvm9JZBC0PqahyQLyPSxjA0GilvWH22vR4VeALAv-wap_MsgAbbMxTRyBJadHwSsULlAGq1wnYKmPI_CucvbWZvSj-FAFpClhaSHcSA1Z6HY-yL2MZME7UYgK2E63jXeaEVevAklzJcM-y0-4M5fVn9QosHvRgItzxkxD5oKEi423wd7nC4tmBUMR-kMM0rD-_vxCLqq24HV9eA.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1828-1-afc8fa7fccdf-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1828-1-afc8fa7fccdf-v4.jpg"
         }
       ],
       "video_url": null,
