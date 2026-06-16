@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-16T10:28:26.922928+00:00",
+  "generated_at": "2026-06-16T15:28:04.006192+00:00",
   "pagination": {
     "page": 2,
     "page_size": 16,
-    "total_posts": 39,
+    "total_posts": 38,
     "total_pages": 3
   },
   "posts": [
@@ -35,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1391-1-9d5e1d357272-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1391-1-9d5e1d357272-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1391-1-160cb77466ad-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1391-1-160cb77466ad-v4.jpg"
         }
       ],
       "video_url": null,
@@ -160,7 +160,7 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/b86b89553a.mp4?token=lKJNpFpKSbZqWYGcZxNswkxPTqH2VbeB3i82mVtwrn8wvHRVk8DWxa1gfazJ5m9Q_Au4sWOuhC915KG148lR6FVN4jDZI16l1YkC5x9uMsYDBGccMU1saHCE8rghHQTS0QgwqZzOzBUhzEiahKu-0QV4qOH-J18UVmjEg0mzxj8x2-zzHPYR-dFHe12tvGSWI23w0QNqJnmdVAH46_VYVcoSfKn98KEby4cLpfaoi0ts_4VG4rQp41RWBlsA6b2lStDlfi4mQ42zjoqpjUv4vOIEfoKrCesDpHk8KKVupGcvIv0v4lJFt1IvK-taKBEjC4ePeCI_-mo45bcsnrleFQ",
+      "video_url": "https://cdn4.telesco.pe/file/b86b89553a.mp4?token=MiQ_xWq-St7Y-ZvfkL3AIbQdNu6oZMxgfvSC-Ab5o22Ue2RVqOUg1K8kXzAqK3aY4OqJSdmNxHf6Wqh-eUKWhTWcx08nJ3UJ3_vDEo1emG1Au_ieBeRPyU2B3v4ZlWhM2HQd5EDVz9q6K21G_CWTzZAdAx5nWJfzclXEHp14qD4MyoX1K8GLud3-2X3j8XDbYHbtJXwWhG7PXDo12IH1xO9VVlgNaHLAc0qlVHGullkSrGXrUYFZXGYs_xmk7doferz9jZ9HQ80tJDceXxWvqC8hiR6JjH9jTLT7S3NXFAu0uZI6ucvIy7Sa1HvmobL9iIzroTDbd-Ws1SQuCn6HSw",
       "tg_url": "https://t.me/PgAntitrust/1384",
       "forwarded_from": null
     },
@@ -187,8 +187,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1382-1-6428bb594338-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1382-1-6428bb594338-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1382-1-9c0b97a709eb-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1382-1-9c0b97a709eb-v4.jpg"
         }
       ],
       "video_url": null,
@@ -205,20 +205,20 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1376-1-92539fd99128-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1376-1-92539fd99128-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1376-1-6d32007db026-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1376-1-6d32007db026-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1376-2-a3679b8c14b4-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1376-2-a3679b8c14b4-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1376-2-7f806bc35ee9-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1376-2-7f806bc35ee9-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1376-3-6a95cec3b85d-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1376-3-6a95cec3b85d-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1376-3-1d0a587b6491-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1376-3-1d0a587b6491-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1376-4-b5bd13567ed4-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1376-4-b5bd13567ed4-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1376-4-e1e3386e28a3-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1376-4-e1e3386e28a3-v4.jpg"
         }
       ],
       "video_url": null,
@@ -235,13 +235,13 @@
       "date": "2026-03-31T13:19:10+00:00",
       "text": "🟧«Алгоритмы начинают работать на стороне антимонопольного органа»\n\nГИС «Антикартель» — система, которая анализирует поведение компаний на торгах и ищет признаки сговора в данных. Алгоритмы обрабатывают массивы закупок и фиксируют аномалии: синхронные изменения цен, повторяющиеся ошибки в заявках, чередование одних и тех же участников. Отдельно учитываются технические и поведенческие следы: схожесть документов, структура файлов, особенности подачи заявок. По сути, речь идет о выявлении картелей через поведенческие паттерны и цифровые отпечатки. Сначала сигнал формирует алгоритм, затем к нему подключается проверяющий.\n\nРаботы по госконтракту № 25-15/1К по разработке системы завершены и приняты 28.01.2026 (по данным ЕИС). Формально это означает, что система введена в эксплуатацию.\n\nПри этом остается открытым вопрос, как именно система реализована на практике и насколько корректно она работает в реальных кейсах. Подобные решения редко бывают безошибочными на старте, поэтому говорить о том, что ФАС России получил в своих руки ультимативный инструмент по выявлению сговоров еще рано. \n\nВ любом случае система повлияет на практику. Инструменты регуляторов и изменения в законодательстве все более явно показывают: в текущих условиях нарушения выгоднее предотвращать заранее. Вероятность быть выявленным растет, а вместе с ней и стоимость ошибок.\n\n🏢 Подписаться на рассылки | MAX | Приложение PG",
       "text_html": "🟧«Алгоритмы начинают работать на стороне антимонопольного органа»<br><br>ГИС «Антикартель» — система, которая анализирует поведение компаний на торгах и ищет признаки сговора в данных. Алгоритмы обрабатывают массивы закупок и фиксируют аномалии: синхронные изменения цен, повторяющиеся ошибки в заявках, чередование одних и тех же участников. Отдельно учитываются технические и поведенческие следы: схожесть документов, структура файлов, особенности подачи заявок. По сути, речь идет о выявлении картелей через поведенческие паттерны и цифровые отпечатки. Сначала сигнал формирует алгоритм, затем к нему подключается проверяющий.<br><br>Работы по госконтракту № 25-15/1К по разработке системы завершены и приняты 28.01.2026 (по данным ЕИС). Формально это означает, что система введена в эксплуатацию.<br><br>При этом остается открытым вопрос, как именно система реализована на практике и насколько корректно она работает в реальных кейсах. Подобные решения редко бывают безошибочными на старте, поэтому говорить о том, что ФАС России получил в своих руки ультимативный инструмент по выявлению сговоров еще рано. <br><br>В любом случае система повлияет на практику. Инструменты регуляторов и изменения в законодательстве все более явно показывают: в текущих условиях нарушения выгоднее предотвращать заранее. Вероятность быть выявленным растет, а вместе с ней и стоимость ошибок.<br><br>🏢 <a href=\"https://www.pgplaw.ru/subscribe/\" target=\"_blank\" rel=\"noopener noreferrer\">Подписаться на рассылки |</a> <a href=\"https://max.ru/id7707301372_biz\" target=\"_blank\" rel=\"noopener noreferrer\">MAX |</a> <a href=\"https://t.me/pgp_official/1769\" target=\"_blank\" rel=\"noopener noreferrer\">Приложение PG</a>",
-      "views": 529,
+      "views": 530,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1375-1-7d9945244c9d-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1375-1-7d9945244c9d-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1375-1-457047c29fa8-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1375-1-457047c29fa8-v4.jpg"
         }
       ],
       "video_url": null,
@@ -258,8 +258,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1374-1-ae4052bda6cf-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1374-1-ae4052bda6cf-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1374-1-a0af7cf333aa-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1374-1-a0af7cf333aa-v4.jpg"
         }
       ],
       "video_url": null,
@@ -271,13 +271,13 @@
       "date": "2026-03-26T08:03:01+00:00",
       "text": "⁉️ Постановление КС № 13-П: что остается неясным \n\nПомимо трех ключевых выводов, в Постановлении есть еще одна неожиданная рекомендация: КС предлагает арбитражным судам привлекать ФАС для оценки поведения правообладателя с антимонопольной точки зрения – своего рода «административная преюдиция». \n\nРекомендация вызывает вопросы: она не следует ни из ст. 1362 ГК, ни из антимонопольного законодательства, а «антимонопольный иммунитет» в отношении прав на интеллектуальную собственность (ч. 4 ст. 10 Закона о защите конкуренции) по-прежнему действует. Неясно, что именно ФАС должна анализировать в этих условиях.\n\nПри этом КС оставил конечную оценку обстоятельств за арбитражными судами. Это значит, что целый ряд практических вопросов остается открытым: по каким критериям суды будут определять «чрезвычайно высокую цену», каков стандарт доказывания «исключительности» обстоятельств, заработает ли механизм привлечения ФАС и не повлечет ли он параллельных антимонопольных дел против оригинаторов.\n\nОтдельная проблема: узнать, как суды на практике применяют Постановление, будет сложно, если компания непосредственно не участвует в процессе. Споры по принудительным лицензиям все чаще рассматриваются в закрытом режиме без публикации судебных актов. Это означает, что ориентиры будут формироваться медленно, а правовая неопределенность сохранится надолго.\n\nДля практиков конкурентного права Постановление – сигнал сразу в нескольких направлениях. Рекомендация привлекать ФАС к рассмотрению споров о принудительных лицензиях может стать точкой входа для антимонопольных расследований, которых раньше в этой сфере не было. Если механизм заработает, компании, защищающие свои патенты, рискуют столкнуться одновременно с иском о принудительной лицензии и с делом о нарушении конкуренции. Мониторить эту практику будет непросто из-за закрытости процессов, но критически важно – особенно для компаний с высокой патентной нагрузкой.\n\n🖥 Предыдущие посты из этой серии: часть 1 и часть 2.\n\nБудем следить за развитием практики и делиться выводами. Наша команда фармацевтической практики консультирует фармкомпании по всему спектру регуляторных и конкурентных рисков - подробнее...",
       "text_html": "⁉️ <a href=\"https://www.ksrf.ru/doc/KSRFDecision894594.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Постановление КС № 13-П</a>: что остается неясным <br><br>Помимо трех ключевых выводов, в Постановлении есть еще одна неожиданная рекомендация: КС предлагает арбитражным судам привлекать ФАС для оценки поведения правообладателя с антимонопольной точки зрения – своего рода «административная преюдиция». <br><br>Рекомендация вызывает вопросы: она не следует ни из ст. 1362 ГК, ни из антимонопольного законодательства, а «антимонопольный иммунитет» в отношении прав на интеллектуальную собственность (ч. 4 ст. 10 Закона о защите конкуренции) по-прежнему действует. Неясно, что именно ФАС должна анализировать в этих условиях.<br><br>При этом КС оставил конечную оценку обстоятельств за арбитражными судами. Это значит, что целый ряд практических вопросов остается открытым: по каким критериям суды будут определять «чрезвычайно высокую цену», каков стандарт доказывания «исключительности» обстоятельств, заработает ли механизм привлечения ФАС и не повлечет ли он параллельных антимонопольных дел против оригинаторов.<br><br>Отдельная проблема: узнать, как суды на практике применяют Постановление, будет сложно, если компания непосредственно не участвует в процессе. Споры по принудительным лицензиям все чаще рассматриваются в закрытом режиме без публикации судебных актов. Это означает, что ориентиры будут формироваться медленно, а правовая неопределенность сохранится надолго.<br><br>Для практиков конкурентного права Постановление – сигнал сразу в нескольких направлениях. Рекомендация привлекать ФАС к рассмотрению споров о принудительных лицензиях может стать точкой входа для антимонопольных расследований, которых раньше в этой сфере не было. Если механизм заработает, компании, защищающие свои патенты, рискуют столкнуться одновременно с иском о принудительной лицензии и с делом о нарушении конкуренции. Мониторить эту практику будет непросто из-за закрытости процессов, но критически важно – особенно для компаний с высокой патентной нагрузкой.<br><br>🖥 Предыдущие посты из этой серии: <a href=\"https://t.me/PgAntitrust/1366\" target=\"_blank\" rel=\"noopener noreferrer\">часть 1</a> и <a href=\"https://t.me/PgAntitrust/1370\" target=\"_blank\" rel=\"noopener noreferrer\">часть 2</a>.<br><br>Будем следить за развитием практики и делиться выводами. Наша команда фармацевтической практики консультирует фармкомпании по всему спектру регуляторных и конкурентных рисков - <a href=\"https://www.pgplaw.ru/practice-and-industry/branch/pharmaceuticals-and-health-care/\" target=\"_blank\" rel=\"noopener noreferrer\">подробнее...</a>",
-      "views": 1060,
+      "views": 1070,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1373-1-9553cb47bb36-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1373-1-9553cb47bb36-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1373-1-c399591d9e03-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1373-1-c399591d9e03-v4.jpg"
         }
       ],
       "video_url": null,
@@ -294,8 +294,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1372-1-600916dc750a-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1372-1-600916dc750a-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1372-1-763c2e2cc1d7-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1372-1-763c2e2cc1d7-v4.jpg"
         }
       ],
       "video_url": null,
