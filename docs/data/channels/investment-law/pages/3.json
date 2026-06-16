@@ -1,12 +1,43 @@
 {
-  "generated_at": "2026-06-15T22:28:47.564002+00:00",
+  "generated_at": "2026-06-16T05:34:45.517876+00:00",
   "pagination": {
     "page": 3,
     "page_size": 16,
-    "total_posts": 36,
+    "total_posts": 37,
     "total_pages": 3
   },
   "posts": [
+    {
+      "id": 1070,
+      "date": "2026-03-20T22:33:53+00:00",
+      "text": "🧩 Продолжаем делиться сервисами, которые помогают нам оставаться с вами на связи\n\nПоскольку Telegram работает нестабильно, мы сделали приложение, в котором можно без ограничений читать все наши каналы. Его можно скачать на телефон или компьютер и продолжать следить за нашими публикациями в удобном формате.\n\n▫️Чтобы установить приложение, перейдите по ссылке и сохраните его на главный экран своего устройства. В карточке к посту подготовили пошаговую инструкцию, как это сделать на IOS и Android. \n\nУстановить приложение 👉",
+      "text_html": "🧩 Продолжаем делиться сервисами, которые помогают нам оставаться с вами на связи<br><br>Поскольку Telegram работает нестабильно, мы сделали приложение, в котором можно без ограничений читать все наши каналы. Его можно скачать на телефон или компьютер и продолжать следить за нашими публикациями в удобном формате.<br><br>▫️Чтобы установить приложение, перейдите <a href=\"https://pgplaw.github.io/pgp_official/\" target=\"_blank\" rel=\"noopener noreferrer\">по ссылке</a> и сохраните его на главный экран своего устройства. В карточке к посту подготовили пошаговую инструкцию, как это сделать на IOS и Android. <br><br><a href=\"https://pgplaw.github.io/pgp_official/\" target=\"_blank\" rel=\"noopener noreferrer\">Установить приложение</a> 👉",
+      "views": 235,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/investment-law/media/posts/thumbs/1070-1-8896904499e1-v4.jpg",
+          "full_url": "data/channels/investment-law/media/posts/1070-1-8896904499e1-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/investment-law/media/posts/thumbs/1070-2-85a559eb4129-v4.jpg",
+          "full_url": "data/channels/investment-law/media/posts/1070-2-85a559eb4129-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/investment-law/media/posts/thumbs/1070-3-94f5d54f1ed2-v4.jpg",
+          "full_url": "data/channels/investment-law/media/posts/1070-3-94f5d54f1ed2-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/InvestmentLaw/1070",
+      "forwarded_from": {
+        "source_url": "https://t.me/pgp_official/1769",
+        "channel_url": "https://t.me/s/pgp_official",
+        "channel_username": "pgp_official",
+        "channel_title": "Pepeliaev Group | Пепеляев Групп"
+      }
+    },
     {
       "id": 1069,
       "date": "2026-03-20T04:52:38+00:00",
@@ -17,8 +48,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/investment-law/media/posts/thumbs/1069-1-1a108b7faa05-v4.jpg",
-          "full_url": "data/channels/investment-law/media/posts/1069-1-1a108b7faa05-v4.jpg"
+          "thumb_url": "data/channels/investment-law/media/posts/thumbs/1069-1-a528aef88638-v4.jpg",
+          "full_url": "data/channels/investment-law/media/posts/1069-1-a528aef88638-v4.jpg"
         }
       ],
       "video_url": null,
@@ -30,13 +61,13 @@
       "date": "2026-03-19T09:00:00+00:00",
       "text": "​🔸18 марта 2026 года состоялся совместный вебинар «Пепеляев Групп», Уполномоченного по защите прав предпринимателей в Приморском крае и Корпорации развития Дальнего Востока и Арктики (КРДВ)\n\n⚡️В мероприятии приняли участие 207 слушателей — представители финансовых дирекций, инвесторы и собственники капитала, являющиеся пользователями специальных инвестиционных режимов (ТОР/СПВ/ОЭЗ/РИП/СЗПК). \n\n🔸Площадка для проведения вебинара была предоставлена центром «Мой бизнес».\n\n🔸Программа вебинара охватывала ключевые аспекты правоприменения, изменения в законодательстве, судебную практику для резидентов/участников различных преференциальных режимов.\n\n🔸Спикеры:\n\n➡️Сергей Скалий, заместитель генерального директора по сопровождению инвестиционных проектов КРДВ;\n\n➡️Егор Лысенко, руководитель Сибирского отделения «Пепеляев Групп» (г.Красноярск);\n\n➡️Сергей Сосновский, партнер налоговой практики «Пепеляев Групп» (г.Санкт-Петербург);\n\n➡️Евгения Демьянчук, юрист Дальневосточного отделения «Пепеляев Групп» (г.Владивосток). \n\n➡️Модератором выступила Наталия Кошелева, врио Уполномоченного по защите прав предпринимателей в Приморском крае. \n\n🔸Благодарим участников за проявленный интерес и вопросы, поступившие как в ходе регистрации, так и непосредственно во время мероприятия.\n\n#Мероприятие",
       "text_html": "<a href=\"https://hooks.pro/media/2026/03/19/bot5286148466/documents/zab9/file_477.jpeg\" target=\"_blank\" rel=\"noopener noreferrer\">​</a>🔸18 марта 2026 года состоялся совместный вебинар «Пепеляев Групп», Уполномоченного по защите прав предпринимателей в Приморском крае и Корпорации развития Дальнего Востока и Арктики (КРДВ)<br><br>⚡️В мероприятии приняли участие 207 слушателей — представители финансовых дирекций, инвесторы и собственники капитала, являющиеся пользователями специальных инвестиционных режимов (ТОР/СПВ/ОЭЗ/РИП/СЗПК). <br><br>🔸Площадка для проведения вебинара была предоставлена центром «Мой бизнес».<br><br>🔸Программа вебинара охватывала ключевые аспекты правоприменения, изменения в законодательстве, судебную практику для резидентов/участников различных преференциальных режимов.<br><br>🔸Спикеры:<br><br>➡️Сергей Скалий, заместитель генерального директора по сопровождению инвестиционных проектов КРДВ;<br><br>➡️Егор Лысенко, руководитель Сибирского отделения «Пепеляев Групп» (г.Красноярск);<br><br>➡️Сергей Сосновский, партнер налоговой практики «Пепеляев Групп» (г.Санкт-Петербург);<br><br>➡️Евгения Демьянчук, юрист Дальневосточного отделения «Пепеляев Групп» (г.Владивосток). <br><br>➡️Модератором выступила Наталия Кошелева, врио Уполномоченного по защите прав предпринимателей в Приморском крае. <br><br>🔸Благодарим участников за проявленный интерес и вопросы, поступившие как в ходе регистрации, так и непосредственно во время мероприятия.<br><br>#Мероприятие",
-      "views": 228,
+      "views": 229,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/investment-law/media/posts/thumbs/1068-1-84246c237d72-v4.jpg",
-          "full_url": "data/channels/investment-law/media/posts/1068-1-84246c237d72-v4.jpg"
+          "thumb_url": "data/channels/investment-law/media/posts/thumbs/1068-1-fcf7c84ae439-v4.jpg",
+          "full_url": "data/channels/investment-law/media/posts/1068-1-fcf7c84ae439-v4.jpg"
         }
       ],
       "video_url": null,
@@ -53,8 +84,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/investment-law/media/posts/thumbs/1067-1-c10563e7f7f6-v4.jpg",
-          "full_url": "data/channels/investment-law/media/posts/1067-1-c10563e7f7f6-v4.jpg"
+          "thumb_url": "data/channels/investment-law/media/posts/thumbs/1067-1-55ce87ea5d2b-v4.jpg",
+          "full_url": "data/channels/investment-law/media/posts/1067-1-55ce87ea5d2b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -71,8 +102,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/investment-law/media/posts/thumbs/1065-1-a849881788cb-v4.jpg",
-          "full_url": "data/channels/investment-law/media/posts/1065-1-a849881788cb-v4.jpg"
+          "thumb_url": "data/channels/investment-law/media/posts/thumbs/1065-1-5f9571c759bd-v4.jpg",
+          "full_url": "data/channels/investment-law/media/posts/1065-1-5f9571c759bd-v4.jpg"
         }
       ],
       "video_url": null,
