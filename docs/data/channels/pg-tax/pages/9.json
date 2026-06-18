@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T10:58:02.057801+00:00",
+  "generated_at": "2026-06-18T14:10:42.548466+00:00",
   "pagination": {
     "page": 9,
     "page_size": 16,
@@ -7,6 +7,24 @@
     "total_pages": 10
   },
   "posts": [
+    {
+      "id": 2573,
+      "date": "2026-04-03T07:23:17+00:00",
+      "text": "✍️ Нормативное регулирование\n \n🔴Валютные резиденты России с 1 июля будут обязаны уведомлять налоговую службу об открытии или закрытии блокчейн-кошельков в иностранных системах, не администрируемых российскими депозитариями (законопроект №1194929-8, инициатор – Правительство РФ). Уведомить нужно будет по месту учета в срок не позднее одного месяца со дня открытия или закрытия. Кроме уведомления резидентов обяжут представлять отчеты о совершении операций с криптовалютой через такие адреса (порядок определит Правительство РФ по согласованию с ЦБ РФ). Открывать зарубежные криптовалютные кошельки резиденты смогут без ограничений.\n \n🔴Законопроект о налогообложении цифровых финансовых активов (ЦФА), который позволит устранить регуляторный арбитраж между этими активами и облигациями, готовится к внесению в Госдуму. Его планируется принять в весеннюю сессию, заявил глава Комитета Госдумы по финансовому рынку Анатолий Аксаков. «И есть предварительная договоренность, что налоговое законодательство будет иметь в данном случае обратную силу» - добавил он.\n \n🔴Минэкономразвития России разработало план перехода на новый классификатор видов экономической деятельности — ОКВЭД 3 - до 2030 г. В текущем году будут проанализированы изменения международных классификаторов, собраны предложения по расширению ОКВЭД. В 2028 г. разработают переходные ключи между старой и новой системой. Мероприятия по переходу на новые коды запланированы на 2029 г.\nКод ОКВЭД определяет налоговый режим, доступ к льготам и господдержке, иногда и тарифы страховых взносов. Некорректный код может привести к доначислению налогов, потере льгот и даже блокировке счета банком. Новые коды появятся в цифровой и креативной экономике, телекоммуникациях, биотехнологиях, логистике, авиации и образовании. Минэкономразвития также разрабатывает механизм оперативных корректировок, чтобы не ждать следующей «большой» версии классификатора.\n \n⚙️ Практика\n \nВ 2025 г. из неформальной занятости удалось вывести около 980 тыс. граждан России. Работа проводилась во взаимодействии с региональными властями, сообщил руководитель Роструда Михаил Иванков. \n \n⚖️ Судебные дела\n \nБизнес, использующий «технических» контрагентов, не раскрывший при этом схему официально, лишился возможности пользоваться налоговой реконструкцией. Это следует из Определения СКЭС ВС РФ по делу «Вокфорс» (№ А56-83561/2023).\nРаньше налоговые органы отказывали в вычетах НДС, но расходы по налогу на прибыль учитывали с помощью расчетного метода.\n \n🌍 Международные новости\n \nБогатые люди из разных стран могут скрывать от налогов до $3,55 трлн — это более чем 3% мирового ВВП. Подсчеты опубликовало Oxfam — британское объединение благотворительных организаций, занимающихся решением проблем бедности. По его оценке, более 80% от этой суммы — $2,84 трлн — приходится на 0,1% самых богатых людей в мире.\n\n#главные_налоговые_новости\n\n🏢 Подписаться на рассылки | MAX | Приложение PG",
+      "text_html": "✍️ Нормативное регулирование<br> <br>🔴Валютные резиденты России с 1 июля <a href=\"https://www.kommersant.ru/doc/8553529?query=%D1%84%D0%BD%D1%81\" target=\"_blank\" rel=\"noopener noreferrer\">будут обязаны</a> уведомлять налоговую службу об открытии или закрытии блокчейн-кошельков в иностранных системах, не администрируемых российскими депозитариями (законопроект <a href=\"https://sozd.duma.gov.ru/bill/1194929-8?ysclid=mnh3xwunbm268043256\" target=\"_blank\" rel=\"noopener noreferrer\">№1194929-8,</a> инициатор – Правительство РФ). Уведомить <a href=\"https://www.forbes.ru/investicii/558456-kabmin-predlozil-obazat-rezidentov-rossii-uvedomlat-fns-kriptokosel-kah-za-rubezom\" target=\"_blank\" rel=\"noopener noreferrer\">нужно будет</a> по месту учета в срок не позднее одного месяца со дня открытия или закрытия. Кроме уведомления резидентов обяжут представлять отчеты о совершении операций с криптовалютой через такие адреса (порядок определит Правительство РФ по согласованию с ЦБ РФ). Открывать зарубежные криптовалютные кошельки резиденты смогут без ограничений.<br> <br>🔴Законопроект о налогообложении цифровых финансовых активов (ЦФА), который позволит устранить регуляторный арбитраж между этими активами и облигациями, готовится к внесению в Госдуму. Его планируется принять в весеннюю сессию, <a href=\"https://www.interfax.ru/russia/1081400\" target=\"_blank\" rel=\"noopener noreferrer\">заявил</a> глава Комитета Госдумы по финансовому рынку Анатолий Аксаков. «И есть предварительная договоренность, что налоговое законодательство будет иметь в данном случае обратную силу» - добавил он.<br> <br>🔴Минэкономразвития России <a href=\"https://pro.rbc.ru/demo/69cd4cd99a794794e9b153eb\" target=\"_blank\" rel=\"noopener noreferrer\">разработало</a> план перехода на новый классификатор видов экономической деятельности — ОКВЭД 3 - до 2030 г. В текущем году будут проанализированы изменения международных классификаторов, собраны предложения по расширению ОКВЭД. В 2028 г. разработают переходные ключи между старой и новой системой. Мероприятия по переходу на новые коды запланированы на 2029 г.<br>Код ОКВЭД определяет налоговый режим, доступ к льготам и господдержке, иногда и тарифы страховых взносов. Некорректный код может привести к доначислению налогов, потере льгот и даже блокировке счета банком. Новые коды появятся в цифровой и креативной экономике, телекоммуникациях, биотехнологиях, логистике, авиации и образовании. Минэкономразвития также разрабатывает механизм оперативных корректировок, чтобы не ждать следующей «большой» версии классификатора.<br> <br>⚙️ Практика<br> <br>В 2025 г. из неформальной занятости <a href=\"https://iz.ru/2071232/liubov-lezhneva/rabochie-momenty-pochti-million-rossiian-vyveli-iz-tenevoi-zaniatosti\" target=\"_blank\" rel=\"noopener noreferrer\">удалось вывести</a> около 980 тыс. граждан России. Работа проводилась во взаимодействии с региональными властями, сообщил руководитель Роструда Михаил Иванков. <br> <br>⚖️ Судебные дела<br> <br>Бизнес, использующий «технических» контрагентов, не раскрывший при этом схему официально, <a href=\"https://www.forbes.ru/finansy/558303-vs-zakryl-biznesu-put-k-nalogovomu-kompromissu-za-sozdanie-fiktivnyh-shem?utm_source=forbes&amp;amp;utm_campaign=lnews\" target=\"_blank\" rel=\"noopener noreferrer\">лишился</a> возможности пользоваться налоговой реконструкцией. Это <a href=\"https://www.vedomosti.ru/economics/articles/2026/04/03/1187608-verhovnii-sud-oboznachil-predeli-ispolzovaniya-nalogovoi-rekonstruktsii\" target=\"_blank\" rel=\"noopener noreferrer\">следует</a> из Определения СКЭС ВС РФ по делу «Вокфорс» (№ <a href=\"https://kad.arbitr.ru/card/190c209a-9072-431f-ae4e-33066985549e\" target=\"_blank\" rel=\"noopener noreferrer\">А56-83561/2023</a>).<br>Раньше налоговые органы отказывали в вычетах НДС, но расходы по налогу на прибыль учитывали с помощью расчетного метода.<br> <br>🌍 Международные новости<br> <br>Богатые люди из разных стран <a href=\"https://www.kommersant.ru/doc/8553535?query=%D0%BD%D0%B0%D0%BB%D0%BE%D0%B3\" target=\"_blank\" rel=\"noopener noreferrer\">могут скрывать</a> <a href=\"https://www.kommersant.ru/doc/8553535?query=%D0%BD%D0%B0%D0%BB%D0%BE%D0%B3\" target=\"_blank\" rel=\"noopener noreferrer\">от</a> налогов до $3,55 трлн — это более чем 3% мирового ВВП. Подсчеты опубликовало Oxfam — британское объединение благотворительных организаций, занимающихся решением проблем бедности. По его оценке, более 80% от этой суммы — $2,84 трлн — приходится на 0,1% самых богатых людей в мире.<br><br>#главные_налоговые_новости<br><br>🏢 <a href=\"https://www.pgplaw.ru/subscribe/\" target=\"_blank\" rel=\"noopener noreferrer\">Подписаться на рассылки |</a> <a href=\"https://max.ru/id7707301372_biz\" target=\"_blank\" rel=\"noopener noreferrer\">MAX |</a> <a href=\"https://t.me/pgp_official/1769\" target=\"_blank\" rel=\"noopener noreferrer\">Приложение PG</a>",
+      "views": 1120,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2573-1-26b2ac16ce09-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2573-1-26b2ac16ce09-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/PG_Tax/2573",
+      "forwarded_from": null
+    },
     {
       "id": 2572,
       "date": "2026-04-02T13:06:03+00:00",
@@ -17,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2572-1-1b3ca3a6a925-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2572-1-1b3ca3a6a925-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2572-1-dc37c8e72a93-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2572-1-dc37c8e72a93-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +53,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2571-1-cf0da78d0a83-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2571-1-cf0da78d0a83-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2571-1-7f4545a97d20-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2571-1-7f4545a97d20-v4.jpg"
         }
       ],
       "video_url": null,
@@ -53,8 +71,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2570-1-6f8015b02593-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2570-1-6f8015b02593-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2570-1-e61ae88651ab-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2570-1-e61ae88651ab-v4.jpg"
         }
       ],
       "video_url": null,
@@ -71,8 +89,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2569-1-bd9c6e768ab1-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2569-1-bd9c6e768ab1-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2569-1-c5aba8284b94-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2569-1-c5aba8284b94-v4.jpg"
         }
       ],
       "video_url": null,
@@ -89,8 +107,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2568-1-b61ca87aebe0-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2568-1-b61ca87aebe0-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2568-1-6a03cb9f9345-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2568-1-6a03cb9f9345-v4.jpg"
         }
       ],
       "video_url": null,
@@ -107,8 +125,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2567-1-a62c2d194cc0-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2567-1-a62c2d194cc0-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2567-1-cc075d2be146-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2567-1-cc075d2be146-v4.jpg"
         }
       ],
       "video_url": null,
@@ -125,8 +143,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2566-1-7398a81c4b18-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2566-1-7398a81c4b18-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2566-1-cafc4a520970-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2566-1-cafc4a520970-v4.jpg"
         }
       ],
       "video_url": null,
@@ -143,8 +161,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2565-1-0025da87b73d-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2565-1-0025da87b73d-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2565-1-1fcfc3e66aba-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2565-1-1fcfc3e66aba-v4.jpg"
         }
       ],
       "video_url": null,
@@ -174,8 +192,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2563-1-56b3b6ef68ca-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2563-1-56b3b6ef68ca-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2563-1-5a0a856b464d-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2563-1-5a0a856b464d-v4.jpg"
         }
       ],
       "video_url": null,
@@ -192,8 +210,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2562-1-8a09b82b693d-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2562-1-8a09b82b693d-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2562-1-ef0d7e62881c-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2562-1-ef0d7e62881c-v4.jpg"
         }
       ],
       "video_url": null,
@@ -215,8 +233,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2561-1-d29653dfae4a-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2561-1-d29653dfae4a-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2561-1-b37ab5cec796-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2561-1-b37ab5cec796-v4.jpg"
         }
       ],
       "video_url": null,
@@ -233,8 +251,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2560-1-4d7a315d09b0-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2560-1-4d7a315d09b0-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2560-1-59e300a3b566-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2560-1-59e300a3b566-v4.jpg"
         }
       ],
       "video_url": null,
@@ -263,26 +281,8 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/2deea7dfab.mp4?token=NQLGGQxVxSqY0GcoSjBQXABC4EswmeExRs4AJR2jN-vrvUzC_gt-cEctTJ_iwD_uLFy16FTWe3PFp-pf0cKaGaWV8ofOvim0u16WxUNijs5Oma4frf5-aSmPtbDQzXnCkjpUHQoNzQGos4bL-WBwVvkLdUuLhb2SZV-ev6m7Hh4az4rRPE-GwltdpqNlbrKC9gPSu5G7kKVKi3YNsoELYhuAp9HUaJkpEkR9z41_z67gWpdW-6KMEWxLa6F3isMmUmkKzzYdSuaSnUKLx86m5A5eHTpsHMNSUdGSSD4-Q730eiRc6fEkru6DIYnLWq573oTy6oWKv4ggF60wZETGSg",
+      "video_url": "https://cdn4.telesco.pe/file/2deea7dfab.mp4?token=tjCAKlK1Xp8tQ1DDq6XQsT1gMTcyuLa1gaC5Dok7OCnyHdTAYzS4qU_rvHUf-2-sLc_HMd-LImK91ighk578QUv8jiXJCOnFhk4AZoTeUOfbSBcX5yT9tpSM8WGv7MKyOv5V_T0pUJtUvtFLF37ErebPcrjLDP-yYvsbcrQXbv5Zm-oH6bek0Pq5E0yDAXLFw_XVy8b-zA1E1s-Tfqx0mYIMMg02kACRJ-zY2qR5uOD21kMh-kQ6Ut76oiUEPNAzGA_Su4NtDFfavwom5Q0BO_QpCk1qiV67YRHTeQJlidLB5OIKmQckjzqszbuNVVAOu9s6RzgxG2OM_wj-ymTumQ",
       "tg_url": "https://t.me/PG_Tax/2558",
-      "forwarded_from": null
-    },
-    {
-      "id": 2557,
-      "date": "2026-03-24T10:09:26+00:00",
-      "text": "Сегодня в рубрике #Сергей_Пепеляев_ON_AIR законопроект о соотношении цены договора и НДС.\n\nЗаконопроект был разработан в конце 2025 года экспертами \"Пепеляев Групп\" в связи с принятием Конституционным Судом РФ Постановления от 25.11.2025 № 41-П и несколько месяцев дорабатывался на базе рабочей группы ТПП РФ по налоговому администрированию. \n\n3 марта 2026 года законопроект был вынесен на обсуждение Экспертного совета ТПП РФ по совершенствованию налогового законодательства и правоприменительной практики.",
-      "text_html": "Сегодня в рубрике #Сергей_Пепеляев_ON_AIR законопроект о соотношении цены договора и НДС.<br><br>Законопроект был разработан в конце 2025 года экспертами \"Пепеляев Групп\" в связи с принятием Конституционным Судом РФ <a href=\"https://www.ksrf.ru/doc/KSRFDecision871703.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Постановления от 25.11.2025 № 41-П</a> и несколько месяцев дорабатывался на базе рабочей группы ТПП РФ по налоговому администрированию. <br><br>3 марта 2026 года законопроект был вынесен на обсуждение Экспертного совета ТПП РФ по совершенствованию налогового законодательства и правоприменительной практики.",
-      "views": 1040,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2557-1-a2805923b38b-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2557-1-a2805923b38b-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2557",
       "forwarded_from": null
     }
   ]
