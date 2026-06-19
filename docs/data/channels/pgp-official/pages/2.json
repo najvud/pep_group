@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-19T07:29:44.131311+00:00",
+  "generated_at": "2026-06-19T11:50:02.040473+00:00",
   "pagination": {
     "page": 2,
     "page_size": 16,
-    "total_posts": 75,
+    "total_posts": 74,
     "total_pages": 5
   },
   "posts": [
@@ -39,8 +39,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1853-1-9e5a1da1ec56-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1853-1-9e5a1da1ec56-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1853-1-559367393db8-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1853-1-559367393db8-v4.jpg"
         }
       ],
       "video_url": null,
@@ -123,7 +123,7 @@
       "date": "2026-05-26T12:59:58+00:00",
       "text": "💻 Телекоммуникации, медиа, ИТ, персональные данные: дайджест\n\nВ обзоре собрали ключевые законодательные инициативы, регуляторные тренды, судебную практику и события отрасли.\n\nГлавные новости:\n\n🔘Минцифры России разъяснило правила межоператорского взаимодействия при маркировке вызовов; \n\n🔘Минцифры России предложило установить сроки перехода объектов КИИ на российское ПО до 2036 года; \n\n🔘правила оказания услуг телеграфной связи могут быть изменены.\n\n👉 Какие изменения могут повлиять на бизнес, и на что стоит обратить внимание компаниям – читайте по ссылке.\n\n🏢 Подписаться на рассылки | MAX | Приложение PG",
       "text_html": "💻 Телекоммуникации, медиа, ИТ, персональные данные: дайджест<br><br>В обзоре собрали ключевые законодательные инициативы, регуляторные тренды, судебную практику и события отрасли.<br><br>Главные новости:<br><br>🔘Минцифры России разъяснило правила межоператорского взаимодействия при маркировке вызовов; <br><br>🔘Минцифры России предложило установить сроки перехода объектов КИИ на российское ПО до 2036 года; <br><br>🔘правила оказания услуг телеграфной связи могут быть изменены.<br><br>👉 Какие изменения могут повлиять на бизнес, и на что стоит обратить внимание компаниям – <a href=\"https://www.pgplaw.ru/analytics-and-brochures/telecom-digest/telecom-digest-26-05-26/\" target=\"_blank\" rel=\"noopener noreferrer\">читайте по ссылке</a>.<br><br>🏢 <a href=\"https://www.pgplaw.ru/subscribe/\" target=\"_blank\" rel=\"noopener noreferrer\">Подписаться на рассылки |</a> <a href=\"https://max.ru/id7707301372_biz\" target=\"_blank\" rel=\"noopener noreferrer\">MAX |</a> <a href=\"https://t.me/pgp_official/1769\" target=\"_blank\" rel=\"noopener noreferrer\">Приложение PG</a>",
-      "views": 578,
+      "views": 579,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
