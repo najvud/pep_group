@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-20T11:47:24.416017+00:00",
+  "generated_at": "2026-06-20T13:16:05.379882+00:00",
   "pagination": {
     "page": 10,
     "page_size": 16,
-    "total_posts": 153,
+    "total_posts": 152,
     "total_pages": 10
   },
   "posts": [
@@ -17,8 +17,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2560-1-6bda3e043f5b-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2560-1-6bda3e043f5b-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2560-1-6b04ca69c1b6-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2560-1-6b04ca69c1b6-v4.jpg"
         }
       ],
       "video_url": null,
@@ -47,7 +47,7 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/2deea7dfab.mp4?token=lvCIdO-G5Gp4t4Q5Hd6QOv9H9OQrdgRaJDGEnI02uksVU0cM5m5Ob9CF6aoOZFwtPm_mdrora6lSs51MiHKf-v0hA-x-cz4YNbGjV90UBRo9gUf6uvpPZx3iR1NK9ca_ELTu3QkdBVScRdLItECGWZCKw9jpWoxsPwXUw-04XdowuqytmHiqbCM2gClhknmEu4HI3L3Gab0RTMJHrOyV_mBXYbbQsVMF7K1LM2Yrj7NbWjXfRWiydI-ks-3ARLNWXzvfPE0a6Kf921YxYGDkzT3ChTjjr1n69iidMLblpsci7oyIYX8KIitUwYmyEaNNEh3J_kxaYDoTtc_bv8OgmQ",
+      "video_url": "https://cdn4.telesco.pe/file/2deea7dfab.mp4?token=Dd1VUIr5FAvXNkDLu85C52FxtvpGpRNW2xvRc_YysbQ5VB737p6kK6zgtyKj993-zlLeFSwAyBvP9yF1ykJPQVFblw6j5wO0fmHp1zVFd3T-sTNbN_BuqGvgA62SMKlLTN7hvqIBsJrgdK5Z-P9KdHdD6QxnMmccCPKZep7SSYy1KafFaZYC-DlP-XIWdwMNSkzet229k-cowlVH3vFB1myCBiF5P_slL1xFAQLj3TufBmwZDf2xmEJr5c4nlKDrO80YUZbuw-Wd_mB29c037AEgG53dSNy4iO9vDCRwxAShVmt4IWn-Kg4MEMLRB9cKi1_6fyrxX-rECeXGlMiZzA",
       "tg_url": "https://t.me/PG_Tax/2558",
       "forwarded_from": null
     },
@@ -61,8 +61,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2557-1-90088c1ef4a4-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2557-1-90088c1ef4a4-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2557-1-c6185066ab50-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2557-1-c6185066ab50-v4.jpg"
         }
       ],
       "video_url": null,
@@ -79,8 +79,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2556-1-209f501be0c2-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2556-1-209f501be0c2-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2556-1-e67a89a93102-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2556-1-e67a89a93102-v4.jpg"
         }
       ],
       "video_url": null,
@@ -97,8 +97,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2555-1-9b5495236ee7-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2555-1-9b5495236ee7-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2555-1-a38d2d7eb611-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2555-1-a38d2d7eb611-v4.jpg"
         }
       ],
       "video_url": null,
@@ -115,8 +115,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2554-1-32d279d3437c-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2554-1-32d279d3437c-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2554-1-f3afe079a083-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2554-1-f3afe079a083-v4.jpg"
         }
       ],
       "video_url": null,
@@ -133,45 +133,22 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2551-1-33b0acca2ee9-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2551-1-33b0acca2ee9-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2551-1-8046f52dd127-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2551-1-8046f52dd127-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2551-2-53d16936f1ea-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2551-2-53d16936f1ea-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2551-2-e49c0cb9d08b-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2551-2-e49c0cb9d08b-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2551-3-daedd967ed41-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2551-3-daedd967ed41-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2551-3-d28d140f32a7-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2551-3-d28d140f32a7-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/PG_Tax/2551",
       "forwarded_from": {
         "source_url": "https://t.me/pgp_official/1769",
-        "channel_url": "https://t.me/s/pgp_official",
-        "channel_username": "pgp_official",
-        "channel_title": "Pepeliaev Group | Пепеляев Групп"
-      }
-    },
-    {
-      "id": 2549,
-      "date": "2026-03-20T13:04:14+00:00",
-      "text": "📧 Еженедельные рассылки «Пепеляев Групп»: чтобы важные изменения в законодательстве не прошли мимо\n\nДрузья, напоминаем, что у «Пепеляев Групп» выходят еженедельные рассылки по ключевым изменениям в законодательстве и правоприменительной практике.\n\n▫️Наши эксперты регулярно готовят аналитические материалы по наиболее актуальным темам — от налогов и банкротства до антимонопольного регулирования, антикризисной защиты бизнеса и других отраслевых вопросов. В рассылках краткие обзоры новостей, комментарии экспертов и практические рекомендации для бизнеса.\n\nСейчас, когда в работе Telegram могут возникать ограничения, для нас особенно важно оставаться с вами на связи и продолжать оперативно делиться экспертной аналитикой ❤️\n\n👉 Подписаться на рассылки",
-      "text_html": "📧 Еженедельные рассылки «Пепеляев Групп»: чтобы важные изменения в законодательстве не прошли мимо<br><br>Друзья, напоминаем, что у «Пепеляев Групп» выходят <a href=\"https://www.pgplaw.ru/subscribe/?utm_source=telegram\" target=\"_blank\" rel=\"noopener noreferrer\">еженедельные рассылки</a> по ключевым изменениям в законодательстве и правоприменительной практике.<br><br>▫️Наши эксперты регулярно готовят аналитические материалы по наиболее актуальным темам — от налогов и банкротства до антимонопольного регулирования, антикризисной защиты бизнеса и других отраслевых вопросов. В рассылках краткие обзоры новостей, комментарии экспертов и практические рекомендации для бизнеса.<br><br>Сейчас, когда в работе Telegram могут возникать ограничения, для нас особенно важно оставаться с вами на связи и продолжать оперативно делиться экспертной аналитикой ❤️<br><br>👉 <a href=\"https://www.pgplaw.ru/subscribe/?utm_source=telegram\" target=\"_blank\" rel=\"noopener noreferrer\">Подписаться на рассылки</a>",
-      "views": 988,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2549-1-9aa5250bbc50-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2549-1-9aa5250bbc50-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2549",
-      "forwarded_from": {
-        "source_url": "https://t.me/pgp_official/1758",
         "channel_url": "https://t.me/s/pgp_official",
         "channel_username": "pgp_official",
         "channel_title": "Pepeliaev Group | Пепеляев Групп"
