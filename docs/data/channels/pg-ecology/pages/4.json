@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-23T14:02:28.037883+00:00",
+  "generated_at": "2026-06-23T16:33:47.791846+00:00",
   "pagination": {
     "page": 4,
     "page_size": 16,
-    "total_posts": 55,
+    "total_posts": 54,
     "total_pages": 4
   },
   "posts": [
@@ -17,8 +17,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1315-1-af92c41f0f5e-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1315-1-af92c41f0f5e-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1315-1-090031ecad0d-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1315-1-090031ecad0d-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1314-1-a57993355e60-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1314-1-a57993355e60-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1314-1-55ccaf6018df-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1314-1-55ccaf6018df-v4.jpg"
         }
       ],
       "video_url": null,
@@ -53,8 +53,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1313-1-52263de08a50-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1313-1-52263de08a50-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1313-1-18418c35e25e-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1313-1-18418c35e25e-v4.jpg"
         }
       ],
       "video_url": null,
@@ -97,44 +97,13 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1310-1-1d9f9ee7f2af-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1310-1-1d9f9ee7f2af-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1310-1-2c70277de7c8-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1310-1-2c70277de7c8-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/pgecology/1310",
       "forwarded_from": null
-    },
-    {
-      "id": 1307,
-      "date": "2026-03-23T14:35:35+00:00",
-      "text": "🧩 Продолжаем делиться сервисами, которые помогают нам оставаться с вами на связи\n\nПоскольку Telegram работает нестабильно, мы сделали приложение, в котором можно без ограничений читать все наши каналы. Его можно скачать на телефон или компьютер и продолжать следить за нашими публикациями в удобном формате.\n\n▫️Чтобы установить приложение, перейдите по ссылке и сохраните его на главный экран своего устройства. В карточке к посту подготовили пошаговую инструкцию, как это сделать на IOS и Android. \n\nУстановить приложение 👉",
-      "text_html": "🧩 Продолжаем делиться сервисами, которые помогают нам оставаться с вами на связи<br><br>Поскольку Telegram работает нестабильно, мы сделали приложение, в котором можно без ограничений читать все наши каналы. Его можно скачать на телефон или компьютер и продолжать следить за нашими публикациями в удобном формате.<br><br>▫️Чтобы установить приложение, перейдите <a href=\"https://pgplaw.github.io/pgp_official/\" target=\"_blank\" rel=\"noopener noreferrer\">по ссылке</a> и сохраните его на главный экран своего устройства. В карточке к посту подготовили пошаговую инструкцию, как это сделать на IOS и Android. <br><br><a href=\"https://pgplaw.github.io/pgp_official/\" target=\"_blank\" rel=\"noopener noreferrer\">Установить приложение</a> 👉",
-      "views": 531,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1307-1-fa1c5f33d22d-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1307-1-fa1c5f33d22d-v4.jpg"
-        },
-        {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1307-2-e8c7fceda080-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1307-2-e8c7fceda080-v4.jpg"
-        },
-        {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1307-3-c9dd9d686196-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1307-3-c9dd9d686196-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/pgecology/1307",
-      "forwarded_from": {
-        "source_url": "https://t.me/pgp_official/1769",
-        "channel_url": "https://t.me/s/pgp_official",
-        "channel_username": "pgp_official",
-        "channel_title": "Pepeliaev Group | Пепеляев Групп"
-      }
     }
   ]
 }
