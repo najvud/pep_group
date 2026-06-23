@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-23T08:07:39.397356+00:00",
+  "generated_at": "2026-06-23T11:29:06.049641+00:00",
   "pagination": {
     "page": 3,
     "page_size": 16,
-    "total_posts": 39,
+    "total_posts": 38,
     "total_pages": 3
   },
   "posts": [
@@ -12,13 +12,13 @@
       "date": "2026-03-31T13:19:10+00:00",
       "text": "🟧«Алгоритмы начинают работать на стороне антимонопольного органа»\n\nГИС «Антикартель» — система, которая анализирует поведение компаний на торгах и ищет признаки сговора в данных. Алгоритмы обрабатывают массивы закупок и фиксируют аномалии: синхронные изменения цен, повторяющиеся ошибки в заявках, чередование одних и тех же участников. Отдельно учитываются технические и поведенческие следы: схожесть документов, структура файлов, особенности подачи заявок. По сути, речь идет о выявлении картелей через поведенческие паттерны и цифровые отпечатки. Сначала сигнал формирует алгоритм, затем к нему подключается проверяющий.\n\nРаботы по госконтракту № 25-15/1К по разработке системы завершены и приняты 28.01.2026 (по данным ЕИС). Формально это означает, что система введена в эксплуатацию.\n\nПри этом остается открытым вопрос, как именно система реализована на практике и насколько корректно она работает в реальных кейсах. Подобные решения редко бывают безошибочными на старте, поэтому говорить о том, что ФАС России получил в своих руки ультимативный инструмент по выявлению сговоров еще рано. \n\nВ любом случае система повлияет на практику. Инструменты регуляторов и изменения в законодательстве все более явно показывают: в текущих условиях нарушения выгоднее предотвращать заранее. Вероятность быть выявленным растет, а вместе с ней и стоимость ошибок.\n\n🏢 Подписаться на рассылки | MAX | Приложение PG",
       "text_html": "🟧«Алгоритмы начинают работать на стороне антимонопольного органа»<br><br>ГИС «Антикартель» — система, которая анализирует поведение компаний на торгах и ищет признаки сговора в данных. Алгоритмы обрабатывают массивы закупок и фиксируют аномалии: синхронные изменения цен, повторяющиеся ошибки в заявках, чередование одних и тех же участников. Отдельно учитываются технические и поведенческие следы: схожесть документов, структура файлов, особенности подачи заявок. По сути, речь идет о выявлении картелей через поведенческие паттерны и цифровые отпечатки. Сначала сигнал формирует алгоритм, затем к нему подключается проверяющий.<br><br>Работы по госконтракту № 25-15/1К по разработке системы завершены и приняты 28.01.2026 (по данным ЕИС). Формально это означает, что система введена в эксплуатацию.<br><br>При этом остается открытым вопрос, как именно система реализована на практике и насколько корректно она работает в реальных кейсах. Подобные решения редко бывают безошибочными на старте, поэтому говорить о том, что ФАС России получил в своих руки ультимативный инструмент по выявлению сговоров еще рано. <br><br>В любом случае система повлияет на практику. Инструменты регуляторов и изменения в законодательстве все более явно показывают: в текущих условиях нарушения выгоднее предотвращать заранее. Вероятность быть выявленным растет, а вместе с ней и стоимость ошибок.<br><br>🏢 <a href=\"https://www.pgplaw.ru/subscribe/\" target=\"_blank\" rel=\"noopener noreferrer\">Подписаться на рассылки |</a> <a href=\"https://max.ru/id7707301372_biz\" target=\"_blank\" rel=\"noopener noreferrer\">MAX |</a> <a href=\"https://t.me/pgp_official/1769\" target=\"_blank\" rel=\"noopener noreferrer\">Приложение PG</a>",
-      "views": 536,
+      "views": 537,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1375-1-c5671b29159d-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1375-1-c5671b29159d-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1375-1-546d9134848d-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1375-1-546d9134848d-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1374-1-67eb17c373db-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1374-1-67eb17c373db-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1374-1-76ac27e8846b-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1374-1-76ac27e8846b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -53,8 +53,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1373-1-753ea8f653e2-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1373-1-753ea8f653e2-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1373-1-0b208b0917d7-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1373-1-0b208b0917d7-v4.jpg"
         }
       ],
       "video_url": null,
@@ -71,8 +71,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1372-1-77910fe225b9-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1372-1-77910fe225b9-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1372-1-d577fcbccdbf-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1372-1-d577fcbccdbf-v4.jpg"
         }
       ],
       "video_url": null,
@@ -89,8 +89,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1371-1-e4d75eb54ce2-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1371-1-e4d75eb54ce2-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1371-1-59a8d1c45176-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1371-1-59a8d1c45176-v4.jpg"
         }
       ],
       "video_url": null,
@@ -107,44 +107,13 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1370-1-68e9ed29cab9-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1370-1-68e9ed29cab9-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1370-1-d9a67aef7bdd-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1370-1-d9a67aef7bdd-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/PgAntitrust/1370",
       "forwarded_from": null
-    },
-    {
-      "id": 1367,
-      "date": "2026-03-23T08:44:34+00:00",
-      "text": "🧩 Продолжаем делиться сервисами, которые помогают нам оставаться с вами на связи\n\nПоскольку Telegram работает нестабильно, мы сделали приложение, в котором можно без ограничений читать все наши каналы. Его можно скачать на телефон или компьютер и продолжать следить за нашими публикациями в удобном формате.\n\n▫️Чтобы установить приложение, перейдите по ссылке и сохраните его на главный экран своего устройства. В карточке к посту подготовили пошаговую инструкцию, как это сделать на IOS и Android. \n\nУстановить приложение 👉",
-      "text_html": "🧩 Продолжаем делиться сервисами, которые помогают нам оставаться с вами на связи<br><br>Поскольку Telegram работает нестабильно, мы сделали приложение, в котором можно без ограничений читать все наши каналы. Его можно скачать на телефон или компьютер и продолжать следить за нашими публикациями в удобном формате.<br><br>▫️Чтобы установить приложение, перейдите <a href=\"https://pgplaw.github.io/pgp_official/\" target=\"_blank\" rel=\"noopener noreferrer\">по ссылке</a> и сохраните его на главный экран своего устройства. В карточке к посту подготовили пошаговую инструкцию, как это сделать на IOS и Android. <br><br><a href=\"https://pgplaw.github.io/pgp_official/\" target=\"_blank\" rel=\"noopener noreferrer\">Установить приложение</a> 👉",
-      "views": 419,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1367-1-223a22506113-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1367-1-223a22506113-v4.jpg"
-        },
-        {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1367-2-466078b3b800-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1367-2-466078b3b800-v4.jpg"
-        },
-        {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1367-3-7f85ca38b969-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1367-3-7f85ca38b969-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PgAntitrust/1367",
-      "forwarded_from": {
-        "source_url": "https://t.me/pgp_official/1769",
-        "channel_url": "https://t.me/s/pgp_official",
-        "channel_username": "pgp_official",
-        "channel_title": "Pepeliaev Group | Пепеляев Групп"
-      }
     }
   ]
 }
