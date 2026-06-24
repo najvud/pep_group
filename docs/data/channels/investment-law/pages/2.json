@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-24T21:02:58.997027+00:00",
+  "generated_at": "2026-06-24T23:42:12.312410+00:00",
   "pagination": {
     "page": 2,
     "page_size": 16,
-    "total_posts": 31,
+    "total_posts": 30,
     "total_pages": 2
   },
   "posts": [
@@ -273,29 +273,6 @@
       "video_url": null,
       "tg_url": "https://t.me/InvestmentLaw/1075",
       "forwarded_from": null
-    },
-    {
-      "id": 1074,
-      "date": "2026-03-24T23:19:54+00:00",
-      "text": "🔥«Пепеляев Групп» теперь в MAX\n\nМы запустили канал «Пепеляев Групп» в MAX, чтобы оставаться на связи независимо от ограничений.\n\nМы по-прежнему будем вести наши Telegram-каналы, делясь аналитическими материалами по актуальным вопросам законодательства, комментариями экспертов и практическими рекомендациями для бизнеса. Но при этом нам важно, чтобы вы могли читать нас там, где вам удобнее ❤️\n\nПодписаться на MAX👉\n\n▫️ Если у вас возникают трудности с доступом к Telegram, наши каналы также можно читать через приложение — рассказывали об этом здесь.",
-      "text_html": "🔥«Пепеляев Групп» теперь в MAX<br><br>Мы запустили канал <a href=\"https://max.ru/id7707301372_biz\" target=\"_blank\" rel=\"noopener noreferrer\">«Пепеляев Групп» в MAX</a>, чтобы оставаться на связи независимо от ограничений.<br><br>Мы по-прежнему будем вести наши <a href=\"https://t.me/addlist/-vnU1mGmr0U1OTYy\" target=\"_blank\" rel=\"noopener noreferrer\">Telegram-каналы</a>, делясь аналитическими материалами по актуальным вопросам законодательства, комментариями экспертов и практическими рекомендациями для бизнеса. Но при этом нам важно, чтобы вы могли читать нас там, где вам удобнее ❤️<br><br><a href=\"https://max.ru/id7707301372_biz\" target=\"_blank\" rel=\"noopener noreferrer\">Подписаться на MAX</a>👉<br><br>▫️ Если у вас возникают трудности с доступом к Telegram, наши каналы также можно читать через приложение — <a href=\"https://t.me/pgp_official/1769\" target=\"_blank\" rel=\"noopener noreferrer\">рассказывали об этом здесь</a>.",
-      "views": 228,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/investment-law/media/posts/thumbs/1074-1-4f16b2d1922d-v4.jpg",
-          "full_url": "data/channels/investment-law/media/posts/1074-1-4f16b2d1922d-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/InvestmentLaw/1074",
-      "forwarded_from": {
-        "source_url": "https://t.me/pgp_official/1773",
-        "channel_url": "https://t.me/s/pgp_official",
-        "channel_username": "pgp_official",
-        "channel_title": "Pepeliaev Group | Пепеляев Групп"
-      }
     }
   ]
 }
