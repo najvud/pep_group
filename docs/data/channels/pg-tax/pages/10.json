@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-06-25T23:43:51.201908+00:00",
+  "generated_at": "2026-06-26T06:03:45.091314+00:00",
   "pagination": {
     "page": 10,
     "page_size": 16,
-    "total_posts": 153,
+    "total_posts": 154,
     "total_pages": 10
   },
   "posts": [
+    {
+      "id": 2572,
+      "date": "2026-04-02T13:06:03+00:00",
+      "text": "📢 Позиции Минфина и ФНС за март\n \nВ фокусе внимания в частности:\n🔴сроки хранения документов для обоснования сумм налога\n🔴налоги добытчиков\n🔴нулевая ставка НДС при международной перевозке\n🔴ответы на некоторые вопросы по автообмену финансовой информацией и\n🔴по имущественным налогам\n \nЭкспресс-обзор писем Минфина и ФНС читайте на сайте ПГ.\n\n#обзор_писем_Минфина_ФНС\n\n➖➖\n💡 Индивидуальные обзоры изменений налогового законодательства и практики, учитывающие специфику Вашего бизнеса, по расписанию в Ваш почтовый ящик можно оформить здесь.",
+      "text_html": "📢 Позиции Минфина и ФНС за март<br> <br>В фокусе внимания в частности:<br>🔴сроки хранения документов для обоснования сумм налога<br>🔴налоги добытчиков<br>🔴нулевая ставка НДС при международной перевозке<br>🔴ответы на некоторые вопросы по автообмену финансовой информацией и<br>🔴по имущественным налогам<br> <br>Экспресс-обзор писем Минфина и ФНС читайте <a href=\"https://www.pgplaw.ru/analytics-and-brochures/tax-reviews/pisma-minfina-i-fns-obnovleniya-marta-2026-g/\" target=\"_blank\" rel=\"noopener noreferrer\">на сайте ПГ.</a><br><br>#обзор_писем_Минфина_ФНС<br><br>➖➖<br>💡 Индивидуальные обзоры изменений налогового законодательства и практики, учитывающие специфику Вашего бизнеса, по расписанию в Ваш почтовый ящик можно оформить <a href=\"https://www.pgplaw.ru/practice-and-industry/practices/obzory-zakonodatelstva-i-praktiki/\" target=\"_blank\" rel=\"noopener noreferrer\">здесь.</a>",
+      "views": 1020,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2572-1-4a5d795fc4bc-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2572-1-4a5d795fc4bc-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/PG_Tax/2572",
+      "forwarded_from": null
+    },
     {
       "id": 2571,
       "date": "2026-04-02T07:59:52+00:00",
@@ -17,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2571-1-4d3080e1f089-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2571-1-4d3080e1f089-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2571-1-7abd29481267-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2571-1-7abd29481267-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +53,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2570-1-99d1f541e915-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2570-1-99d1f541e915-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2570-1-5f205ec82b6e-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2570-1-5f205ec82b6e-v4.jpg"
         }
       ],
       "video_url": null,
@@ -53,8 +71,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2569-1-f858a1c7670f-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2569-1-f858a1c7670f-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2569-1-c64f40dc10e8-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2569-1-c64f40dc10e8-v4.jpg"
         }
       ],
       "video_url": null,
@@ -71,8 +89,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2568-1-8e02ae38c7c6-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2568-1-8e02ae38c7c6-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2568-1-6caccb7e9bf4-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2568-1-6caccb7e9bf4-v4.jpg"
         }
       ],
       "video_url": null,
@@ -89,8 +107,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2567-1-927f846ed1fc-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2567-1-927f846ed1fc-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2567-1-aec9b36f27f9-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2567-1-aec9b36f27f9-v4.jpg"
         }
       ],
       "video_url": null,
@@ -107,8 +125,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2566-1-546e5733b261-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2566-1-546e5733b261-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2566-1-892dba538aca-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2566-1-892dba538aca-v4.jpg"
         }
       ],
       "video_url": null,
@@ -125,8 +143,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2565-1-1d701ad19c37-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2565-1-1d701ad19c37-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2565-1-91fda6b26d7b-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2565-1-91fda6b26d7b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -156,8 +174,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2563-1-d04e18737704-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2563-1-d04e18737704-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2563-1-b3198260443a-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2563-1-b3198260443a-v4.jpg"
         }
       ],
       "video_url": null,
