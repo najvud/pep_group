@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T09:49:56.613495+00:00",
+  "generated_at": "2026-06-26T12:06:37.689289+00:00",
   "pagination": {
     "page": 3,
     "page_size": 16,
@@ -7,6 +7,24 @@
     "total_pages": 5
   },
   "posts": [
+    {
+      "id": 491,
+      "date": "2026-05-12T07:53:57+00:00",
+      "text": "Бухгалтерский баланс не доказывает неплатежеспособность ✍️\n\nАнна Никитина, юрист практики банкротства и антикризисной защиты бизнеса, рассматривает постановление АС Московского округа о роли бухгалтерского баланса в привлечении руководителя должника к субсидиарной ответственности.\n\n⛏ Суды первой и апелляционной инстанций привлекли руководителя должника к субсидиарной ответственности, в том числе за неподачу заявления о банкротстве. Возлагая ответственность за неподачу заявления на руководителя, суды исходили из того, что бухгалтерский баланс должника на протяжении нескольких лет указывал на наличие признаков неплатежеспособности по показателю «чистая прибыль (убытки)».\n\n⚖️Однако суд округа с таким подходом не согласился и направил дело на новое рассмотрение:\n\n🟠бухгалтерский баланс не подтверждает момент возникновения обязательств перед конкретным кредитором, а лишь отражает общие сведения об активах и пассивах за отчетный период;\n\n🟠 превышение кредиторской задолженности над активами, отраженное в балансе, само по себе не доказывает невозможность исполнения обязательств;\n\n🟠 отрицательная величина активов по данным отчетности без иных доказательств не свидетельствует о неплатежеспособности;\n\n🟠 даже при отрицательной стоимости чистых активов требования кредиторов могут быть удовлетворены, особенно если показатель имеет положительную динамику.\n\n💭 Важный судебный акт, продолжающий линию судебной практики против формального подхода к субсидиарной ответственности. Взятые в отрыве цифры отчетности не способны отразить реальную рыночную стоимость активов и живой потенциал бизнеса, о чем нужно не забывать напоминать судам и оппонентам.\n\n#Субсидиарная_ответственность",
+      "text_html": "Бухгалтерский баланс не доказывает неплатежеспособность ✍️<br><br>Анна Никитина, юрист <a href=\"https://www.pgplaw.ru/practice-and-industry/practices/bankruptcy/\" target=\"_blank\" rel=\"noopener noreferrer\">практики банкротства и антикризисной защиты бизнеса</a>, рассматривает постановление <a href=\"https://ras.arbitr.ru/Document/Pdf/e51674d2-ee8b-4701-89c7-3f88c85e1bba/bb11ac9f-9afa-4c0a-9aa9-91fe232801c7/%D0%9041-29690-2023__20260424.pdf?isAddStamp=True\" target=\"_blank\" rel=\"noopener noreferrer\">АС Московского округа</a> о роли бухгалтерского баланса в привлечении руководителя должника к субсидиарной ответственности.<br><br>⛏ Суды первой и апелляционной инстанций привлекли руководителя должника к субсидиарной ответственности, в том числе за неподачу заявления о банкротстве. Возлагая ответственность за неподачу заявления на руководителя, суды исходили из того, что бухгалтерский баланс должника на протяжении нескольких лет указывал на наличие признаков неплатежеспособности по показателю «чистая прибыль (убытки)».<br><br>⚖️Однако суд округа с таким подходом не согласился и направил дело на новое рассмотрение:<br><br>🟠бухгалтерский баланс не подтверждает момент возникновения обязательств перед конкретным кредитором, а лишь отражает общие сведения об активах и пассивах за отчетный период;<br><br>🟠 превышение кредиторской задолженности над активами, отраженное в балансе, само по себе не доказывает невозможность исполнения обязательств;<br><br>🟠 отрицательная величина активов по данным отчетности без иных доказательств не свидетельствует о неплатежеспособности;<br><br>🟠 даже при отрицательной стоимости чистых активов требования кредиторов могут быть удовлетворены, особенно если показатель имеет положительную динамику.<br><br>💭 Важный судебный акт, продолжающий линию судебной практики против формального подхода к субсидиарной ответственности. Взятые в отрыве цифры отчетности не способны отразить реальную рыночную стоимость активов и живой потенциал бизнеса, о чем нужно не забывать напоминать судам и оппонентам.<br><br>#Субсидиарная_ответственность",
+      "views": 343,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/491-1-e01afb54fbde-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/491-1-e01afb54fbde-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/bankrotstvo_mustknow/491",
+      "forwarded_from": null
+    },
     {
       "id": 490,
       "date": "2026-05-08T06:01:01+00:00",
@@ -17,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/490-1-44789d585491-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/490-1-44789d585491-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/490-1-b81e948fdd28-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/490-1-b81e948fdd28-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +53,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/489-1-0c32bf882178-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/489-1-0c32bf882178-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/489-1-c7ac261f9c48-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/489-1-c7ac261f9c48-v4.jpg"
         }
       ],
       "video_url": null,
@@ -48,13 +66,13 @@
       "date": "2026-05-06T09:07:35+00:00",
       "text": "📨 Еженедельный обзор Банкротство: Взгляд эксперта \n\nО новых событиях сферы банкротства с авторскими рекомендациями от Ю. Литовцевой в еженедельном обзоре Банкротство: Взгляд эксперта от команды практики банкротства и антикризисной защиты бизнеса! \n\nВ этом выпуске:\n\n⚖️Риск убытков за нерезервирование: КС РФ поддержал кредиторов\n\n🏠 Порядок реализации социально значимого имущества в банкротстве\n\n🕗 Все решает срок: почему один опоздавший получает деньги, а другой – квартиру\n\n📄 Раздел долей не меняет правил реализации актива\n\nПодробности уже ожидают по ссылке!\n☕️ Приятного чтения!\n\n#Банкротство_взгляд_эксперта\n#Залог\n#Арбитражный_управляющий\n#Банкротство_граждан\n#Банкротство_застройщиков\n#Торги\n#Недействительность_сделок\n#Требования_кредиторов\n#Процессуальные_вопросы",
       "text_html": "📨 Еженедельный обзор Банкротство: Взгляд эксперта <br><br>О новых событиях сферы банкротства с авторскими рекомендациями от Ю. Литовцевой в еженедельном обзоре Банкротство: Взгляд эксперта от команды <a href=\"https://www.pgplaw.ru/practice-and-industry/practices/bankruptcy/\" target=\"_blank\" rel=\"noopener noreferrer\">практики банкротства и антикризисной защиты бизнеса!</a> <br><br>В этом выпуске:<br><br>⚖️Риск убытков за нерезервирование: КС РФ поддержал кредиторов<br><br>🏠 Порядок реализации социально значимого имущества в банкротстве<br><br>🕗 Все решает срок: почему один опоздавший получает деньги, а другой – квартиру<br><br>📄 Раздел долей не меняет правил реализации актива<br><br>Подробности уже ожидают по <a href=\"https://www.pgplaw.ru/analytics-and-brochures/bankruptcy-must-read/bankruptcy-digest-06-05-26/#4\" target=\"_blank\" rel=\"noopener noreferrer\">ссылке</a>!<br><a href=\"https://www.pgplaw.ru/analytics-and-brochures/bankruptcy-must-read/bankruptcy-must-read-26-11-25/\" target=\"_blank\" rel=\"noopener noreferrer\">☕️</a> Приятного чтения!<br><br>#Банкротство_взгляд_эксперта<br>#Залог<br>#Арбитражный_управляющий<br>#Банкротство_граждан<br>#Банкротство_застройщиков<br>#Торги<br>#Недействительность_сделок<br>#Требования_кредиторов<br>#Процессуальные_вопросы",
-      "views": 315,
+      "views": 316,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/488-1-a7bb8da190a2-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/488-1-a7bb8da190a2-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/488-1-7c8b0eff60ab-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/488-1-7c8b0eff60ab-v4.jpg"
         }
       ],
       "video_url": null,
@@ -71,8 +89,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/487-1-18e4308277cf-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/487-1-18e4308277cf-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/487-1-1acf2d90daa7-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/487-1-1acf2d90daa7-v4.jpg"
         }
       ],
       "video_url": null,
@@ -89,8 +107,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/486-1-12165086e572-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/486-1-12165086e572-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/486-1-276a0b29877f-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/486-1-276a0b29877f-v4.jpg"
         }
       ],
       "video_url": null,
@@ -107,8 +125,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/485-1-ed13527680cf-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/485-1-ed13527680cf-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/485-1-3c9929ce4549-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/485-1-3c9929ce4549-v4.jpg"
         }
       ],
       "video_url": null,
@@ -125,8 +143,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/484-1-d10ea2dcba76-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/484-1-d10ea2dcba76-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/484-1-191d130060a4-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/484-1-191d130060a4-v4.jpg"
         }
       ],
       "video_url": null,
@@ -138,13 +156,13 @@
       "date": "2026-04-29T07:32:29+00:00",
       "text": "📨 Еженедельный обзор Банкротство: Взгляд эксперта \n\nО новых событиях сферы банкротства с авторскими рекомендациями от Ю. Литовцевой в еженедельном обзоре Банкротство: Взгляд эксперта от команды практики банкротства и антикризисной защиты бизнеса! \n\nВ этом выпуске:\n\n🏠 Единственное ипотечное жилье не гарантирует «мировую» с банком\n\n💰 Компенсационное финансирование ≠ убытки\n\n🤵«Банкротный этикет»: залоговые требования погашаются первыми\n\n🚳 Запрет на выезд контролирующего лица – как доказать обоснованность? \n\nПодробности уже ожидают по ссылке!\n☕️ Приятного чтения!\n\n#Банкротство_взгляд_эксперта\n#Залог\n#Недействительность_сделок\n#Убытки\n#Субсидиарная_ответственность\n#Исковая_давность\n#Обеспечительные_меры\n#Требования_кредиторов\n#Процессуальные_вопросы",
       "text_html": "📨 Еженедельный обзор Банкротство: Взгляд эксперта <br><br>О новых событиях сферы банкротства с авторскими рекомендациями от Ю. Литовцевой в еженедельном обзоре Банкротство: Взгляд эксперта от команды <a href=\"https://www.pgplaw.ru/practice-and-industry/practices/bankruptcy/\" target=\"_blank\" rel=\"noopener noreferrer\">практики банкротства и антикризисной защиты бизнеса!</a> <br><br>В этом выпуске:<br><br>🏠 Единственное ипотечное жилье не гарантирует «мировую» с банком<br><br>💰 Компенсационное финансирование ≠ убытки<br><br>🤵«Банкротный этикет»: залоговые требования погашаются первыми<br><br>🚳 Запрет на выезд контролирующего лица – как доказать обоснованность? <br><br>Подробности уже ожидают по <a href=\"https://www.pgplaw.ru/analytics-and-brochures/bankruptcy-must-read/bankruptcy-digest-29-04-26/\" target=\"_blank\" rel=\"noopener noreferrer\">ссылке</a>!<br><a href=\"https://www.pgplaw.ru/analytics-and-brochures/bankruptcy-must-read/bankruptcy-must-read-26-11-25/\" target=\"_blank\" rel=\"noopener noreferrer\">☕️</a> Приятного чтения!<br><br>#Банкротство_взгляд_эксперта<br>#Залог<br>#Недействительность_сделок<br>#Убытки<br>#Субсидиарная_ответственность<br>#Исковая_давность<br>#Обеспечительные_меры<br>#Требования_кредиторов<br>#Процессуальные_вопросы",
-      "views": 335,
+      "views": 336,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/483-1-16e04b03428d-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/483-1-16e04b03428d-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/483-1-6f3fbf653e1e-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/483-1-6f3fbf653e1e-v4.jpg"
         }
       ],
       "video_url": null,
@@ -161,8 +179,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/482-1-474551feaabc-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/482-1-474551feaabc-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/482-1-388d80711534-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/482-1-388d80711534-v4.jpg"
         }
       ],
       "video_url": null,
@@ -179,8 +197,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/481-1-0a843aea01d6-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/481-1-0a843aea01d6-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/481-1-5cadd185f9d5-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/481-1-5cadd185f9d5-v4.jpg"
         }
       ],
       "video_url": null,
@@ -202,8 +220,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/480-1-253654abc715-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/480-1-253654abc715-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/480-1-7a95b5dba690-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/480-1-7a95b5dba690-v4.jpg"
         }
       ],
       "video_url": null,
@@ -220,8 +238,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/479-1-6fa41ee3a8fc-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/479-1-6fa41ee3a8fc-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/479-1-50a2e1fea5eb-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/479-1-50a2e1fea5eb-v4.jpg"
         }
       ],
       "video_url": null,
@@ -238,8 +256,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/478-1-e98181aa8469-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/478-1-e98181aa8469-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/478-1-2ba89a19a627-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/478-1-2ba89a19a627-v4.jpg"
         }
       ],
       "video_url": null,
@@ -256,8 +274,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/477-1-24713f3dd664-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/477-1-24713f3dd664-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/477-1-898733fdf506-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/477-1-898733fdf506-v4.jpg"
         }
       ],
       "video_url": null,
@@ -274,30 +292,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/476-1-f6c5dd400ae1-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/476-1-f6c5dd400ae1-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/476-1-e0441ea06c18-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/476-1-e0441ea06c18-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/bankrotstvo_mustknow/476",
-      "forwarded_from": null
-    },
-    {
-      "id": 475,
-      "date": "2026-04-20T12:09:13+00:00",
-      "text": "Оспариваем сделки с единственным жильем правильно 🏡\n\nАнна Никитина, юрист практики банкротства и антикризисной защиты бизнеса, анализирует постановление АС Северо-Западного округа от 06.04.2026 по делу № А44-6078/2024 о механизме применения исполнительского иммунитета при оспаривании сделки с единственным жильём должника.\n\n📖 Немного теории:\n\nСогласноп. 20 Обзора судебной практики по делам о банкротстве граждан, утвержденного Президиумом ВС РФ от 18.06.2025, нельзя признать недействительной сделку по отчуждению жилья, если по результатам применения реституции оно будет защищено исполнительским иммунитетом.\n\nКак следует из Обзора, цель оспаривания сделок в банкротстве – это возврат в конкурсную массу имущества, которое может быть реализовано для удовлетворения требований кредиторов. \nТаким образом, отсутствует практический смысл  оспаривания сделки в отношении имущества, которое все равно не поступит в конкурсную массу.\n\n⚖️  В рассматриваемом деле суды первой и апелляционной инстанций отказали в оспаривании договора дарения земельного участка с жилым домом с ссылкой именно на исполнительский иммунитет. \n\nОднако суд округа не согласился с выводами и признал договор дарения недействительной сделкой.\n\n⌛️ На что обратила внимание кассация:\n\n🔍 при рассмотрении спора необходимо сначала оценить, есть ли перспектива ограничения исполнительского иммунитета;\n\n🔍для оспаривания сделки достаточно предварительного вывода о наличии перспективы ограничения - а вопрос о применении иммунитета разрешается уже после возврата имущества в конкурсную массу, а не на стадии оспаривания сделки;\n\n🔍 в рассматриваемом деле перспективы ограничения иммунитета высокие, так как стоимость спорного жилья покрывает более половины реестровых требований кредиторов.\n\nСуд округа напомнил про важность последовательного подхода: \n\n1️⃣ на первом этапе оценивается обоснованность оспаривания сделки и возможность возврата имущества в конкурсную массу без окончательных выводов о применении исполнительского иммунитета; \n\n2️⃣ после того, как имущество возвращено - разрешается вопрос о применении иммунитета.\n\n💭 Подход суда округа отражает тенденцию к поиску баланса в решении вопроса о судьбе единственного жилья в банкротстве. Это соотносится и с недавней инициативой Минюста о введении механизма реализации «роскошного» жилья банкротов, который предлагает определить критерии «роскошности» и алгоритм покупки замещающего жилья (подробнее - в посте по ссылке).\n\n#Недействительность_сделок\n#Банкротство_граждан",
-      "text_html": "Оспариваем сделки с единственным жильем правильно 🏡<br><br>Анна Никитина, юрист <a href=\"https://www.pgplaw.ru/practice-and-industry/practices/bankruptcy/\" target=\"_blank\" rel=\"noopener noreferrer\">практики банкротства и антикризисной защиты бизнеса</a>, анализирует <a href=\"https://ras.arbitr.ru/Document/Pdf/62eec457-9f16-49d5-81c2-312cbc236ff8/e43c6612-232e-4e2f-91fa-3d557868f301/%D0%9044-6078-2024__20260406.pdf?isAddStamp=True\" target=\"_blank\" rel=\"noopener noreferrer\">постановление АС Северо-Западного округа от 06.04.2026 по делу № А44-6078/2024</a> о механизме применения исполнительского иммунитета при оспаривании сделки с единственным жильём должника.<br><br>📖 Немного теории:<br><br>Согласно<a href=\"https://www.vsrf.ru/documents/all/34516/\" target=\"_blank\" rel=\"noopener noreferrer\">п. 20 Обзора судебной практики по делам о банкротстве граждан, утвержденного Президиумом ВС РФ от 18.06.2025</a>, нельзя признать недействительной сделку по отчуждению жилья, если по результатам применения реституции оно будет защищено исполнительским иммунитетом.<br><br>Как следует из Обзора, цель оспаривания сделок в банкротстве – это возврат в конкурсную массу имущества, которое может быть реализовано для удовлетворения требований кредиторов. <br>Таким образом, отсутствует практический смысл  оспаривания сделки в отношении имущества, которое все равно не поступит в конкурсную массу.<br><br>⚖️  В рассматриваемом деле суды первой и апелляционной инстанций отказали в оспаривании договора дарения земельного участка с жилым домом с ссылкой именно на исполнительский иммунитет. <br><br>Однако суд округа не согласился с выводами и признал договор дарения недействительной сделкой.<br><br>⌛️ На что обратила внимание кассация:<br><br>🔍 при рассмотрении спора необходимо сначала оценить, есть ли перспектива ограничения исполнительского иммунитета;<br><br>🔍для оспаривания сделки достаточно предварительного вывода о наличии перспективы ограничения - а вопрос о применении иммунитета разрешается уже после возврата имущества в конкурсную массу, а не на стадии оспаривания сделки;<br><br>🔍 в рассматриваемом деле перспективы ограничения иммунитета высокие, так как стоимость спорного жилья покрывает более половины реестровых требований кредиторов.<br><br>Суд округа напомнил про важность последовательного подхода: <br><br>1️⃣ на первом этапе оценивается обоснованность оспаривания сделки и возможность возврата имущества в конкурсную массу без окончательных выводов о применении исполнительского иммунитета; <br><br>2️⃣ после того, как имущество возвращено - разрешается вопрос о применении иммунитета.<br><br>💭 Подход суда округа отражает тенденцию к поиску баланса в решении вопроса о судьбе единственного жилья в банкротстве. Это соотносится и с недавней инициативой Минюста о введении механизма реализации «роскошного» жилья банкротов, который предлагает определить критерии «роскошности» и алгоритм покупки замещающего жилья (подробнее - в посте по <a href=\"https://www.pgplaw.ru/analytics-and-brochures/bankruptcy-must-read/bankruptcy-digest-15-04-26/\" target=\"_blank\" rel=\"noopener noreferrer\">ссылке</a>).<br><br>#Недействительность_сделок<br>#Банкротство_граждан",
-      "views": 380,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/475-1-7253ac1f6177-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/475-1-7253ac1f6177-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/bankrotstvo_mustknow/475",
       "forwarded_from": null
     }
   ]
