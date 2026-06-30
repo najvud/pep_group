@@ -1,12 +1,43 @@
 {
-  "generated_at": "2026-06-30T12:03:15.959505+00:00",
+  "generated_at": "2026-06-30T14:39:13.657594+00:00",
   "pagination": {
     "page": 9,
     "page_size": 16,
-    "total_posts": 154,
+    "total_posts": 156,
     "total_pages": 10
   },
   "posts": [
+    {
+      "id": 2595,
+      "date": "2026-04-16T05:45:13+00:00",
+      "text": null,
+      "text_html": null,
+      "views": 1030,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [],
+      "video_url": "https://cdn4.telesco.pe/file/f38c492795.mp4?token=pQkHIP4_rkJZMM02XNLlMPzQEhWGUhnXu4uUSdaLzoNEAMkYG0NmkKz43WwzUxS7eMQ_LOl0-OM8dfkvHeHCJW2JNRJ6NV2WEAasavQE01F7A8TOEeTyIKloluV6gT-R4wQpKW1yfNt27LbKTAiFiWg-oTzQngFWBuQMuifQ8y516oIfyl6Ha_7_srVmu2jJqnTWld1b_3IQCmgeUN4yTPW1M2UoeaEHU-LEJn8IgUS9dkdGvxrPphsAU2yUL0D3q4INU73YLPrm5AznT0YSuWB72_OGrnJmG1nMmKyTXPCpd-5PY1W5cK5zVbLVw5DmxwODdw7_RJ5eZaCdSOpdFw",
+      "tg_url": "https://t.me/PG_Tax/2595",
+      "forwarded_from": null
+    },
+    {
+      "id": 2594,
+      "date": "2026-04-16T05:45:07+00:00",
+      "text": null,
+      "text_html": null,
+      "views": 1080,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2594-1-b911bbbb1318-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2594-1-b911bbbb1318-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/PG_Tax/2594",
+      "forwarded_from": null
+    },
     {
       "id": 2593,
       "date": "2026-04-15T10:59:01+00:00",
@@ -17,8 +48,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2593-1-bfc1a241e2ab-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2593-1-bfc1a241e2ab-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2593-1-7227e796167c-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2593-1-7227e796167c-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +66,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2592-1-54c9659fd2a9-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2592-1-54c9659fd2a9-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2592-1-f105ee731a6e-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2592-1-f105ee731a6e-v4.jpg"
         }
       ],
       "video_url": null,
@@ -53,8 +84,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2591-1-a0be8b6f4b95-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2591-1-a0be8b6f4b95-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2591-1-58aaba90e451-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2591-1-58aaba90e451-v4.jpg"
         }
       ],
       "video_url": null,
@@ -71,8 +102,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2590-1-a992ec4836af-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2590-1-a992ec4836af-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2590-1-bd42eef30b42-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2590-1-bd42eef30b42-v4.jpg"
         }
       ],
       "video_url": null,
@@ -89,8 +120,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2589-1-fa78395f900b-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2589-1-fa78395f900b-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2589-1-75c041155b69-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2589-1-75c041155b69-v4.jpg"
         }
       ],
       "video_url": null,
@@ -107,8 +138,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2588-1-aa5c36dc3135-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2588-1-aa5c36dc3135-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2588-1-0c396a121ca6-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2588-1-0c396a121ca6-v4.jpg"
         }
       ],
       "video_url": null,
@@ -125,8 +156,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2587-1-d73feca55918-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2587-1-d73feca55918-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2587-1-23981bbffa80-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2587-1-23981bbffa80-v4.jpg"
         }
       ],
       "video_url": null,
@@ -143,8 +174,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2586-1-d651692aa1ff-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2586-1-d651692aa1ff-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2586-1-1ed9b51dd37e-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2586-1-1ed9b51dd37e-v4.jpg"
         }
       ],
       "video_url": null,
@@ -173,7 +204,7 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/dd103fdd36.mp4?token=bvOCXTPdPhrTvIDHDEfyjfLG54J1Pb9iQW993iWTRp9lEnrdrZ16MGMQwHON3Mvi7mEtY2WYuW_vzG2JQhDUzZlX2Z9qjr5ZHmCUSaIAFiZKQ-y9hd5akFtHduZTCI4fQQyG2OTCFAFPAXTpB43JbLMgfS4WuNnR-fCgD-7DdtP9YHw5PqF8ZoRyf4jSGdxgKnpaHmT6l241ErKzpMujSbTImqW3K5CbFloyctxFAF72KQBSIiDAiVm9mfsS5ZcVUL9L8qHJ6hjElb9gOQX8UEIRnnsgCzA9vn8-td-MHuai2C-w67wAqsIlrz358ZIBqAAj4tRLQ376A39p4o-RlQ",
+      "video_url": "https://cdn4.telesco.pe/file/dd103fdd36.mp4?token=KuA0AGvL-QrJwH1SqBYQuMdY3PhQq7TJhwrR-RS1BgOn7JSXmEin6ub6TMgS6U-HFKvuaG--kcw11YaMGdlwtSM6MIyU9whp2DkKY4Tzka5ZxR292kpFoUtKoD2DHrsjlv9BR3bkgzCvRSqljIxDlB2NTOoi08HrxVQW7HZyB-RbCyk8Ih9V2wf1ygDtQ_5pC2aTuomSBtPS4sF_z5B9Y0aBCxcnajdkhQ7GVllxjQJfdo7W9BTT9zoz9A-iFPz0jBHOSQ6aq4V_G7R2Ix22DOoJ8b0qSRJEERgVdhte0ZHljVpg47qqH33WN4tb5HGaVnidk0QchoI8OB1uM8HYrw",
       "tg_url": "https://t.me/PG_Tax/2584",
       "forwarded_from": null
     },
@@ -187,8 +218,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2583-1-9f7f089fe6b3-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2583-1-9f7f089fe6b3-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2583-1-0da221e2a2e4-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2583-1-0da221e2a2e4-v4.jpg"
         }
       ],
       "video_url": null,
@@ -205,8 +236,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2582-1-8c40dceee1b6-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2582-1-8c40dceee1b6-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2582-1-f6a4138aadcd-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2582-1-f6a4138aadcd-v4.jpg"
         }
       ],
       "video_url": null,
@@ -223,8 +254,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2581-1-233b31cadb3a-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2581-1-233b31cadb3a-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2581-1-042f327d0610-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2581-1-042f327d0610-v4.jpg"
         }
       ],
       "video_url": null,
@@ -241,43 +272,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2580-1-85de511d0ae2-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2580-1-85de511d0ae2-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2580-1-2bfba8168c54-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2580-1-2bfba8168c54-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/PG_Tax/2580",
-      "forwarded_from": null
-    },
-    {
-      "id": 2579,
-      "date": "2026-04-07T12:03:16+00:00",
-      "text": "📣 Экспертная дискуссия с онлайн-трансляцией по теме «Налогообложение операций с криптовалютами» по Постановлению КС РФ от 20.01.2026 № 2-П.\n\n9 апреля в рамках XXIII Международной научно-практической конференции «Налоговое право в решениях Конституционного Суда Российской Федерации» пройдет онлайн-дискуссия, посвященная вопросам налогообложения операций с криптовалютами.\n\nВыступающие:\n\n🎤 Дарья Александровна Давыдова, заместитель руководителя Управления ФНС России по Красноярскому краю\n\n🎤 Сергей Александрович Безделов, канд. экон. наук, председатель Комиссии по вопросам майнинговой деятельности и технологии блокчейн ТПП РФ, профессор \n\n🎤 Алексей Владимирович Савенков, канд. юрид. наук (СПбГУ)\n\n🎤 Андрей Иванович Терещенко, партнер юридической компании «Пепеляев Групп»\n\nМодератор:\n\n🎤 Иван Владимирович Хаменушко, канд. юрид. наук, заведующий кафедрой финансового права юридического факультета МГУ им. М.В. Ломоносова, старший партнер юридической компании «Пепеляев Групп» \n\n\n🗓 09 апреля\n\n⏰ 15.00 – 17.00\n\n💻 Онлайн, регистрация не требуется.\n\n👉ССЫЛКА НА ТРАНСЛЯЦИЮ\n\n#мероприятия",
-      "text_html": "📣 Экспертная дискуссия с онлайн-трансляцией по теме «Налогообложение операций с криптовалютами» по Постановлению КС РФ от 20.01.2026 № 2-П.<br><br>9 апреля в рамках <a href=\"https://zakon.ru/blog/2026/03/03/nalogovoe_pravo_v_resheniyah_konstitucionnogo_suda_rf_ezhegodnaya_nauchno-prakticheskaya_konferenciy\" target=\"_blank\" rel=\"noopener noreferrer\">XXIII Международной научно-практической конференции</a> «Налоговое право в решениях Конституционного Суда Российской Федерации» пройдет онлайн-дискуссия, посвященная вопросам налогообложения операций с криптовалютами.<br><br>Выступающие:<br><br>🎤 Дарья Александровна Давыдова, заместитель руководителя Управления ФНС России по Красноярскому краю<br><br>🎤 Сергей Александрович Безделов, канд. экон. наук, председатель Комиссии по вопросам майнинговой деятельности и технологии блокчейн ТПП РФ, профессор <br><br>🎤 Алексей Владимирович Савенков, канд. юрид. наук (СПбГУ)<br><br>🎤 <a href=\"https://www.pgplaw.ru/to-get-the-team/andrey-tereshchenko/\" target=\"_blank\" rel=\"noopener noreferrer\">Андрей Иванович Терещенко</a>, партнер юридической компании «Пепеляев Групп»<br><br>Модератор:<br><br>🎤 <a href=\"https://www.pgplaw.ru/to-get-the-team/ivan-khamenushko/\" target=\"_blank\" rel=\"noopener noreferrer\">Иван Владимирович Хаменушко</a>, канд. юрид. наук, заведующий кафедрой финансового права юридического факультета МГУ им. М.В. Ломоносова, старший партнер юридической компании «Пепеляев Групп» <br><br><br>🗓 09 апреля<br><br>⏰ 15.00 – 17.00<br><br>💻 Онлайн, регистрация не требуется.<br><br>👉<a href=\"https://vkvideo.ru/video-86776361_456239430\" target=\"_blank\" rel=\"noopener noreferrer\">ССЫЛКА НА ТРАНСЛЯЦИЮ</a><br><br>#мероприятия",
-      "views": 1070,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2579",
-      "forwarded_from": null
-    },
-    {
-      "id": 2578,
-      "date": "2026-04-07T07:53:57+00:00",
-      "text": "✍️ Нормативное регулирование\n \n🔴Минфин России во исполнение Постановления КС РФ 2025 № 41-П разработал поправки в НК РФ о цене длящихся контрактов, предлагающие применять расчетный метод определения НДС (выделение налога из уже предусмотренной договором цены). Счета-фактуры при этом не выставляются.\n6 апреля поправки одобрены Правительственной комиссией по законопроектной деятельности.\n\n🛑 Комплексный вариант поправок ранее предложил Экспертный совет ТПП РФ: закрепление в НК в качестве общего правила принципа следования цены договора за ставкой налога.\n \n🔴Глава РСПП Александр Шохин рассказал о встрече Президента РФ с бизнесом по теме налога на сверхприбыль компаний. \nОдин из участников встречи пояснил о решении сделать взнос в бюджет «из семейных сбережений». РСПП не занимается вопросом, но предприниматели готовы обсуждать налог, механизм и формула его уже есть в законодательстве. Однако у компаний нет прибыли, многие из них сейсас в убытках, констатировал он.\n \n⚙️ Практика\n \n🔴В ФНС России под председательством зам. руководителя Тимура Шиналиева прошел экспертный совет по формированию практики применения налогового законодательства крупнейшими налогоплательщиками фармотрасли (с участием ФАС России). \nУчастники обсудили вопросы администрирования и квалификации услуг по проведению мероприятий, направленных на продвижение лекарственных средств, которые российские фармкомпании оказывают иностранным. Среди них - реклама лекарственных препаратов под товарной маркой иностранных заказчиков; мероприятия, конференции, лекции с участием медицинских работников, представителей аптечных организаций и иных профессиональных участников обращения лекарственных препаратов и медицинских изделий; консультационные услуги; услуги по сбору и обработке информации. Решено утвердить Меморандум, устанавливающий подходы и принципы квалификации таких услуг и создать рабочую группу для проработки вопросов.\n \n🔴Российские банки помогают бизнес-клиентам справиться с увеличением расходов после введения НДС на эквайринг.\nℹ️ По программам компенсаций вернут до 50% НДС с эквайринга за 2026 год. Поддержка может охватить до 800 тыс. компаний.\n \n ⚖️ Судебная практика\n \n🔴ВС РФ пересмотрит правила взыскания страховых взносов при банкротстве.\nℹ️ Нижестоящие суды отнесли медицинские и социальные взносы к третьей очереди. \nФНС настаивала на включении всех страховых взносов во вторую — наравне с зарплатами. По ее мнению, деление устарело.\n \n🔴Суд ЕАЭС решил вопрос о двойном налогообложении при поставках товаров, начинающихся за пределами Союза и завершающимися внутри (по запросу казахстанской палаты предпринимателей «Атамекен»). \nМестом реализации товара признается та страна, где он впервые вводится в оборот для внутреннего потребления. НДС платится по стране конечного назначения. \nПромежуточное хранение на таможенном складе в стране ЕАЭС не создает обязанности платить там НДС, если товар выходит на рынок к потребителю в другой стране ЕАЭС.\n \n✈️ За рубежом\n \n🔴30 марта 2026 г. Президент Узбекистана подписал Указ ПФ-48 о создании ТМФЦ в Шайхантахурском районе Ташкента. Налоговые преимущества зафиксированы на 50 лет.\nСреди них нулевые налог на прибыль; социальный налог на доходы от услуг, включая операции с криптоактивами; подоходный налог для иностранных сотрудников (нерезидентов); налог на имущество и землю, таможенные пошлины; налог на дивиденды, проценты и прирост капитала по ценным бумагам, котирующимся на Фондовой бирже ТМФЦ; НДС на услуги участников; сниженная ставка подоходного налога 7% для резидентов Узбекистана.\n \n🔴ОАЭ утвердили масштабный пакет мер по стимулированию экономики на сумму 1 млрд дирхамов (вступил в силу с 1 апреля). \nЗначительно увеличен льготный период подачи таможенных данных с 30 до 90 дней; отели могут подать заявку на полную отсрочку на 3 месяца перечисления в бюджет сборов с продаж и туристического сбора; ряд госпошлин можно уплатить с отсрочкой в 3 месяца.\n\n#главные_налоговые_новости",
-      "text_html": "✍️ Нормативное регулирование<br> <br>🔴Минфин России во исполнение Постановления КС РФ 2025 № 41-П <a href=\"https://www.vedomosti.ru/economics/articles/2026/04/07/1188358-minfin-predlozhil-reshenie-problemi-perenosa-v-tsenu-dogovora-izmenivsheisya-stavki-nds\" target=\"_blank\" rel=\"noopener noreferrer\">разработал</a> поправки в НК РФ о цене длящихся контрактов, предлагающие применять расчетный метод определения НДС (выделение налога из уже предусмотренной договором цены). Счета-фактуры при этом не выставляются.<br>6 апреля поправки одобрены Правительственной комиссией по законопроектной деятельности.<br><br>🛑 Комплексный вариант поправок ранее <a href=\"https://t.me/PG_Tax/2559\" target=\"_blank\" rel=\"noopener noreferrer\">предложил</a> Экспертный совет ТПП РФ: закрепление в НК в качестве общего правила принципа следования цены договора за ставкой налога.<br> <br>🔴Глава РСПП Александр Шохин <a href=\"https://pravo.ru/news/263135/\" target=\"_blank\" rel=\"noopener noreferrer\">рассказал</a> о встрече Президента РФ с бизнесом по теме налога на сверхприбыль компаний. <br>Один из участников встречи <a href=\"https://www.vedomosti.ru/business/news/2026/04/06/1188178-rspp-gotov-obsuzhdat\" target=\"_blank\" rel=\"noopener noreferrer\">пояснил</a> о решении сделать взнос в бюджет «из семейных сбережений». РСПП не занимается вопросом, но предприниматели готовы обсуждать налог, механизм и формула его уже есть в законодательстве. Однако у компаний нет прибыли, многие из них сейсас в убытках, <a href=\"https://www.forbes.ru/biznes/558651-sohin-soobsil-o-gotovnosti-rspp-obsuzdat-c-vlastami-windfall-tax\" target=\"_blank\" rel=\"noopener noreferrer\">констатировал</a> он.<br> <br>⚙️ Практика<br> <br>🔴В ФНС России под председательством зам. руководителя Тимура Шиналиева <a href=\"https://www.nalog.gov.ru/rn77/news/activities_fts/16615416/\" target=\"_blank\" rel=\"noopener noreferrer\">прошел</a> экспертный совет по формированию практики применения налогового законодательства крупнейшими налогоплательщиками фармотрасли (с участием ФАС России). <br>Участники обсудили вопросы администрирования и квалификации услуг по проведению мероприятий, направленных на продвижение лекарственных средств, которые российские фармкомпании оказывают иностранным. Среди них - реклама лекарственных препаратов под товарной маркой иностранных заказчиков; мероприятия, конференции, лекции с участием медицинских работников, представителей аптечных организаций и иных профессиональных участников обращения лекарственных препаратов и медицинских изделий; консультационные услуги; услуги по сбору и обработке информации. Решено утвердить Меморандум, устанавливающий подходы и принципы квалификации таких услуг и создать рабочую группу для проработки вопросов.<br> <br>🔴Российские банки <a href=\"https://iz.ru/2073870/milana-mishieva/beznalichnoe-uchastie-banki-nachali-kompensirovat-malomu-biznesu-rost-izderzhek-na-nds\" target=\"_blank\" rel=\"noopener noreferrer\">помогают</a> бизнес-клиентам справиться с увеличением расходов после введения НДС на эквайринг.<br>ℹ️ По программам компенсаций вернут до 50% НДС с эквайринга за 2026 год. Поддержка может охватить до 800 тыс. компаний.<br> <br> ⚖️ Судебная практика<br> <br>🔴ВС РФ <a href=\"https://kad.arbitr.ru/Card/c580c4c9-706a-4972-89cc-dca1f754b0bd\" target=\"_blank\" rel=\"noopener noreferrer\">пересмотрит</a> правила взыскания страховых взносов при банкротстве.<br>ℹ️ Нижестоящие суды отнесли медицинские и социальные взносы к третьей очереди. <br>ФНС настаивала на включении всех страховых взносов во вторую — наравне с зарплатами. По ее мнению, деление устарело.<br> <br>🔴Суд ЕАЭС <a href=\"https://www.consultant.ru/document/cons_doc_LAW_530356/3c3bb7c36fcafa77b38ef0af07614acc7c76e507/\" target=\"_blank\" rel=\"noopener noreferrer\">решил</a> вопрос о двойном налогообложении при поставках товаров, начинающихся за пределами Союза и завершающимися внутри (по запросу казахстанской палаты предпринимателей «Атамекен»). <br>Местом реализации товара признается та страна, где он впервые вводится в оборот для внутреннего потребления. НДС платится по стране конечного назначения. <br>Промежуточное хранение на таможенном складе в стране ЕАЭС не создает обязанности платить там НДС, если товар выходит на рынок к потребителю в другой стране ЕАЭС.<br> <br>✈️ За рубежом<br> <br>🔴30 марта 2026 г. Президент Узбекистана подписал Указ ПФ-48 о создании ТМФЦ в Шайхантахурском районе Ташкента. Налоговые преимущества зафиксированы на 50 лет.<br>Среди них нулевые налог на прибыль; социальный налог на доходы от услуг, включая операции с криптоактивами; подоходный налог для иностранных сотрудников (нерезидентов); налог на имущество и землю, таможенные пошлины; налог на дивиденды, проценты и прирост капитала по ценным бумагам, котирующимся на Фондовой бирже ТМФЦ; НДС на услуги участников; сниженная ставка подоходного налога 7% для резидентов Узбекистана.<br> <br>🔴ОАЭ утвердили масштабный пакет мер по стимулированию экономики на сумму 1 млрд дирхамов (вступил в силу с 1 апреля). <br>Значительно увеличен льготный период подачи таможенных данных с 30 до 90 дней; отели могут подать заявку на полную отсрочку на 3 месяца перечисления в бюджет сборов с продаж и туристического сбора; ряд госпошлин можно уплатить с отсрочкой в 3 месяца.<br><br>#главные_налоговые_новости",
-      "views": 1130,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2578-1-f01d67e30bc2-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2578-1-f01d67e30bc2-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2578",
       "forwarded_from": null
     }
   ]
