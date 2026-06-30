@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T06:00:25.398562+00:00",
+  "generated_at": "2026-06-30T09:48:19.168380+00:00",
   "pagination": {
     "page": 8,
     "page_size": 16,
@@ -7,6 +7,24 @@
     "total_pages": 10
   },
   "posts": [
+    {
+      "id": 2609,
+      "date": "2026-04-24T07:18:57+00:00",
+      "text": "✍️ Нормотворчество\n \nВице-спикер Госдумы Борис Чернышов (ЛДПР) предложил ввести налоговый вычет для работодателей - организаций, создавших детские комнаты для своих сотрудников.\n \n⚙️ Практика\n \n🔴Не позднее 28 апреля организации должны перечислить на ЕНС авансовые платежи по транспортному и земельному налогам, а также налогу на имущество за I кв. 2026 г.\n \n🔴ФНС России напомнила о сроке подачи декларации о доходах за 2025 год для физлиц и разъяснила, на кого распространяется эта обязанность. Это необходимо сделать не позднее 30 апреля.\n \n📍 В регионах\n \n🔴За 2025 год Контрольно-счетная палата Санкт-Петербурга провела 54 контрольных и 233 экспертно-аналитических мероприятия. Корпоративный сектор принес в бюджет более 3 млрд руб. доначисленных налогов.\n \n🔴Из-за нелегальной сдачи жилья бюджет Татарстана ежегодно недополучает не менее 300 млн руб.\n \n⚖️ Судебные дела\n \n23 апреля В КС РФ состоялось слушание дела о проверке конституционности ряда положений актов Правительства РФ об изменении размера утильсбора и правилах его взимания, исчисления, уплаты и взыскания.\n\n#главные_налоговые_новости",
+      "text_html": "✍️ Нормотворчество<br> <br>Вице-спикер Госдумы Борис Чернышов (ЛДПР) <a href=\"https://ria.ru/20260424/gosduma-2088663454.html\" target=\"_blank\" rel=\"noopener noreferrer\">предложил</a> ввести налоговый вычет для работодателей - организаций, создавших детские комнаты для своих сотрудников.<br> <br>⚙️ Практика<br> <br>🔴Не позднее 28 апреля организации <a href=\"https://www.nalog.gov.ru/rn77/news/activities_fts/16619122/\" target=\"_blank\" rel=\"noopener noreferrer\">должны перечислить</a> на ЕНС авансовые платежи по транспортному и земельному налогам, а также налогу на имущество за I кв. 2026 г.<br> <br>🔴ФНС России <a href=\"https://tass.ru/ekonomika/27196663\" target=\"_blank\" rel=\"noopener noreferrer\">напомнила</a> о сроке подачи декларации о доходах за 2025 год для физлиц и разъяснила, на кого распространяется эта обязанность. Это необходимо сделать не позднее 30 апреля.<br> <br>📍 В регионах<br> <br>🔴За 2025 год Контрольно-счетная палата Санкт-Петербурга <a href=\"https://www.kommersant.ru/doc/8607456?query=%D0%BD%D0%B0%D0%BB%D0%BE%D0%B3\" target=\"_blank\" rel=\"noopener noreferrer\">провела</a> 54 контрольных и 233 экспертно-аналитических мероприятия. Корпоративный сектор принес в бюджет более 3 млрд руб. доначисленных налогов.<br> <br>🔴Из-за нелегальной сдачи жилья бюджет Татарстана ежегодно <a href=\"https://www.kommersant.ru/doc/8607916?query=%D0%BD%D0%B0%D0%BB%D0%BE%D0%B3\" target=\"_blank\" rel=\"noopener noreferrer\">недополучает</a> не менее 300 млн руб.<br> <br>⚖️ Судебные дела<br> <br>23 апреля В КС РФ <a href=\"https://www.ksrf.ru/news/38007/\" target=\"_blank\" rel=\"noopener noreferrer\">состоялось</a> слушание дела о проверке конституционности ряда положений актов Правительства РФ <a href=\"https://www.vedomosti.ru/economics/articles/2026/04/24/1192694-v-konstitutsionnomu-sude-obsudili-sroki-primeneniya-povishennih-koeffitsientov-utilsbora\" target=\"_blank\" rel=\"noopener noreferrer\">об изменении</a> размера утильсбора и правилах его взимания, исчисления, уплаты и взыскания.<br><br>#главные_налоговые_новости",
+      "views": 1030,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2609-1-599a22f6dd7c-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2609-1-599a22f6dd7c-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/PG_Tax/2609",
+      "forwarded_from": null
+    },
     {
       "id": 2608,
       "date": "2026-04-23T11:04:22+00:00",
@@ -17,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2608-1-fe5a1cd58a2b-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2608-1-fe5a1cd58a2b-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2608-1-ddf3472b7773-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2608-1-ddf3472b7773-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +53,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2607-1-4a270b4576bb-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2607-1-4a270b4576bb-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2607-1-dc070cfe3d6e-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2607-1-dc070cfe3d6e-v4.jpg"
         }
       ],
       "video_url": null,
@@ -53,8 +71,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2606-1-0dc780164671-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2606-1-0dc780164671-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2606-1-ed74a3b9d844-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2606-1-ed74a3b9d844-v4.jpg"
         }
       ],
       "video_url": null,
@@ -71,8 +89,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2605-1-252a7e8a0068-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2605-1-252a7e8a0068-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2605-1-2a3d17b7afcd-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2605-1-2a3d17b7afcd-v4.jpg"
         }
       ],
       "video_url": null,
@@ -89,8 +107,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2604-1-8895d15f79b6-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2604-1-8895d15f79b6-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2604-1-a1fc6079e702-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2604-1-a1fc6079e702-v4.jpg"
         }
       ],
       "video_url": null,
@@ -107,8 +125,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2603-1-37b2a8e28983-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2603-1-37b2a8e28983-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2603-1-3bbc4961fd9b-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2603-1-3bbc4961fd9b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -143,8 +161,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2601-1-e98d92409590-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2601-1-e98d92409590-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2601-1-9b94b0471994-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2601-1-9b94b0471994-v4.jpg"
         }
       ],
       "video_url": null,
@@ -161,8 +179,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2600-1-604ab3ec8c67-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2600-1-604ab3ec8c67-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2600-1-d41aa4cf53f2-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2600-1-d41aa4cf53f2-v4.jpg"
         }
       ],
       "video_url": null,
@@ -179,8 +197,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2599-1-42c3b4ae89fa-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2599-1-42c3b4ae89fa-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2599-1-f11581eb1bf1-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2599-1-f11581eb1bf1-v4.jpg"
         }
       ],
       "video_url": null,
@@ -202,8 +220,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2598-1-03d303210c0b-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2598-1-03d303210c0b-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2598-1-1200b8d09254-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2598-1-1200b8d09254-v4.jpg"
         }
       ],
       "video_url": null,
@@ -220,8 +238,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2597-1-63cb23a992c1-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2597-1-63cb23a992c1-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2597-1-f0865976a818-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2597-1-f0865976a818-v4.jpg"
         }
       ],
       "video_url": null,
@@ -250,7 +268,7 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/f38c492795.mp4?token=iP5pCHp0R0yX4PrZRHKguid2DUG48XZGi_AppZEv_juZyaswqPMj2nvxzPGnKaTxjdCSdp2RtJu140mL3lwo9GKeF1KPKpXoLym4aINVPOyTBc2CxR_eoGxk6ZGN3xpZcpZb3kPtM4pgxSCTReouqSvPSAVjVc9zs20OqGXUkz3p-U3tdkCLFRjXtMK_rEeeT5aYpcOAlDNIgxEA1I2ESGTE9P2yem1Ll61nIP4d4Yxo5ryf5zdVj-lhWUkTfbTwPiz9BlL2HOQ_5CpOYVa5IarMum7l2aE8pKSsqh8dcXPJ_2GNVPZV9Rp9TsJodXpP6fVisT_1hcQs6RMKawudUg",
+      "video_url": "https://cdn4.telesco.pe/file/f38c492795.mp4?token=bRKqXmw7ImR1dhXYFHZlrnoeiQoIcD_FYSBk6dQZ4RKmO9T8j3SqKEe59RNx1ndcGhmfBpGow23W4c9kz5Lun7z2l94V9YPnjP1i0AjIsr6HARuSRdLpK2_-PBng-mbH2EfafieG5O8wwWbKh3fvJIBEa_FqkYMb7dt5xo6kNUNFEmHwJAqUT4iqtIXPY_xrBQ8kbOPp8W9gxaMOUT616lk4TlldwuMPV8I0dTowzVVDYAsnOF57YRjtwGDe57OPcbCqiU7MJjDM-xwoyYUC9cI1LMP-KQhMXi4UbzdPgUfoJZTBfUIAKk7dhwwwq-YSxeorKNA6554iULgrTKwCKA",
       "tg_url": "https://t.me/PG_Tax/2595",
       "forwarded_from": null
     },
@@ -264,30 +282,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2594-1-2bf4bc97d296-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2594-1-2bf4bc97d296-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2594-1-f25718e4a82b-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2594-1-f25718e4a82b-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/PG_Tax/2594",
-      "forwarded_from": null
-    },
-    {
-      "id": 2593,
-      "date": "2026-04-15T10:59:01+00:00",
-      "text": "Старший партнер «Пепеляев Групп» Сергей Савсерис продолжает публикацию рейтинга правовых позиций Конституционного суда.\n\n📈 Место № 2\n\nОпределение Конституционного Суда РФ от 15.02.2005 № 93-О по ООО «Тайга-Экс»\n\n💬 Цитируемость\n— всего: 2 891 упоминание (6-е место);\n— за последние 4 года: 319 упоминаний (9-е место).\n\n🔍 О чём было дело\n\nЭкспортёр оспаривал нормы НК РФ о счетах-фактурах, первичных документах и возмещении НДС по ставке 0%, полагая, что они чрезмерно и неопределённо ограничивают право на вычет.\n\nКонституционный Суд отказал в принятии жалобы, указав, что оспариваемые нормы сами по себе не нарушают Конституцию, а требования заявителя по сути сводятся к изменению законодательства.\n\n⚖️ Ключевая правовая позиция\n\nТребование пункта 2 статьи 169 НК РФ о представлении полноценного счета-фактуры как основания для налогового вычета по НДС направлено на:\n     🔴обеспечение возможности проверки правомерности вычета;\n     🔴пресечение необоснованного возмещения налога из бюджета.\n\nНалогоплательщик не вправе заявлять вычет по счету-фактуре, содержащему неполные или недостоверные сведения, препятствующие такой проверке.\n\n❗️ Что принципиально закрепил КС РФ\n\n     📎 Счёт-фактура — ключевой контрольный документ по НДС.\nОн должен содержать все обязательные реквизиты, предусмотренные НК РФ; без этого вычет невозможен.\n\n     📎 Перечень обязательных реквизитов — закрытый.\nНалоговые органы не вправе требовать дополнительных сведений сверх прямо указанных в законе.\n\n     📎 Бремя доказывания лежит на налогоплательщике.\nИменно покупатель обязан подтвердить правомерность вычета надлежащими счетами-фактурами и первичными документами.\n\n☝️ Вывод\n\nОпределение КС РФ № 93-О стало базовой опорой «документальной» модели НДС:\n     🔴право на вычет — это право, реализуемое при строгом соблюдении формальных требований;\n     🔴формализм по НДС имеет конституционно легитимную цель — защиту бюджета;\n     🔴но требования инспекции не могут выходить за пределы прямо установленного законом.\n\nИменно эта конструкция десятилетиями используется судами в спорах о дефектных счетах-фактурах и подтверждении вычетов по НДС.\n\n⚙️ Влияние на законодательство\n\nБлагодаря большому числу налоговых споров сама статья 169 НК РФ претерпела существенные изменения.\n\nС 2011 г. новая редакция п. 2 сократила число правовых препятствий для отказа в вычете НДС: \n\nОшибки в счетах-фактурах, не препятствующие налоговым органам при проведении налоговой проверки идентифицировать продавца, наименование объекта налогообложения, их стоимость, налоговую ставку и сумму налога, не являются основанием для отказа в принятии к вычету сумм налога.\n\n#рейтинг_позиций_КС\n\n➖➖\n📧 Если Вы столкнулись с претензиями налогового органа, связанными с оформлением счетов-фактур, обратитесь к Сергею Савсерису: s.savseris@pgplaw.ru",
-      "text_html": "Старший партнер «Пепеляев Групп» <a href=\"https://www.pgplaw.ru/to-get-the-team/sergey-savseris/\" target=\"_blank\" rel=\"noopener noreferrer\">Сергей Савсерис</a> продолжает публикацию рейтинга правовых позиций Конституционного суда.<br><br>📈 Место № 2<br><br>Определение Конституционного Суда РФ от 15.02.2005 № 93-О по ООО «Тайга-Экс»<br><br>💬 Цитируемость<br>— всего: 2 891 упоминание (6-е место);<br>— за последние 4 года: 319 упоминаний (9-е место).<br><br>🔍 О чём было дело<br><br>Экспортёр оспаривал нормы НК РФ о счетах-фактурах, первичных документах и возмещении НДС по ставке 0%, полагая, что они чрезмерно и неопределённо ограничивают право на вычет.<br><br>Конституционный Суд отказал в принятии жалобы, указав, что оспариваемые нормы сами по себе не нарушают Конституцию, а требования заявителя по сути сводятся к изменению законодательства.<br><br>⚖️ Ключевая правовая позиция<br><br>Требование пункта 2 статьи 169 НК РФ о представлении полноценного счета-фактуры как основания для налогового вычета по НДС направлено на:<br>     🔴обеспечение возможности проверки правомерности вычета;<br>     🔴пресечение необоснованного возмещения налога из бюджета.<br><br>Налогоплательщик не вправе заявлять вычет по счету-фактуре, содержащему неполные или недостоверные сведения, препятствующие такой проверке.<br><br>❗️ Что принципиально закрепил КС РФ<br><br>     📎 Счёт-фактура — ключевой контрольный документ по НДС.<br>Он должен содержать все обязательные реквизиты, предусмотренные НК РФ; без этого вычет невозможен.<br><br>     📎 Перечень обязательных реквизитов — закрытый.<br>Налоговые органы не вправе требовать дополнительных сведений сверх прямо указанных в законе.<br><br>     📎 Бремя доказывания лежит на налогоплательщике.<br>Именно покупатель обязан подтвердить правомерность вычета надлежащими счетами-фактурами и первичными документами.<br><br>☝️ Вывод<br><br>Определение КС РФ № 93-О стало базовой опорой «документальной» модели НДС:<br>     🔴право на вычет — это право, реализуемое при строгом соблюдении формальных требований;<br>     🔴формализм по НДС имеет конституционно легитимную цель — защиту бюджета;<br>     🔴но требования инспекции не могут выходить за пределы прямо установленного законом.<br><br>Именно эта конструкция десятилетиями используется судами в спорах о дефектных счетах-фактурах и подтверждении вычетов по НДС.<br><br>⚙️ Влияние на законодательство<br><br>Благодаря большому числу налоговых споров сама статья 169 НК РФ претерпела существенные изменения.<br><br>С 2011 г. новая редакция п. 2 сократила число правовых препятствий для отказа в вычете НДС: <br><br>Ошибки в счетах-фактурах, не препятствующие налоговым органам при проведении налоговой проверки идентифицировать продавца, наименование объекта налогообложения, их стоимость, налоговую ставку и сумму налога, не являются основанием для отказа в принятии к вычету сумм налога.<br><br>#рейтинг_позиций_КС<br><br>➖➖<br>📧 Если Вы столкнулись с претензиями налогового органа, связанными с оформлением счетов-фактур, обратитесь к Сергею Савсерису: s.savseris@pgplaw.ru",
-      "views": 1170,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2593-1-2d6fee5e595c-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2593-1-2d6fee5e595c-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2593",
       "forwarded_from": null
     }
   ]
