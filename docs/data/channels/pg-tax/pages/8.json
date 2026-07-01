@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T10:13:26.672685+00:00",
+  "generated_at": "2026-07-01T12:49:47.944276+00:00",
   "pagination": {
     "page": 8,
     "page_size": 16,
@@ -7,6 +7,19 @@
     "total_pages": 10
   },
   "posts": [
+    {
+      "id": 2614,
+      "date": "2026-04-27T10:00:34+00:00",
+      "text": "Делимся документами ФНС и напоминаем, что по любым вопросам налогообложения фармацевтической отрасли (а также о желании вступить в фармацевтический клуб ПГ) Вы можете написать Сергею Савсерису: s.savseris@pgplaw.ru",
+      "text_html": "Делимся документами ФНС и напоминаем, что по любым вопросам налогообложения фармацевтической отрасли (а также о желании вступить в фармацевтический клуб ПГ) Вы можете написать Сергею Савсерису: s.savseris@pgplaw.ru",
+      "views": 1150,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [],
+      "video_url": null,
+      "tg_url": "https://t.me/PG_Tax/2614",
+      "forwarded_from": null
+    },
     {
       "id": 2613,
       "date": "2026-04-27T10:00:21+00:00",
@@ -17,8 +30,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2613-1-c05295f26c45-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2613-1-c05295f26c45-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2613-1-0a2b00c5b1c1-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2613-1-0a2b00c5b1c1-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +48,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2612-1-e96633f6d24e-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2612-1-e96633f6d24e-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2612-1-6122c3712643-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2612-1-6122c3712643-v4.jpg"
         }
       ],
       "video_url": null,
@@ -48,13 +61,13 @@
       "date": "2026-04-24T13:04:53+00:00",
       "text": "🗓 Срок давности по спорам о приватизации хотят ограничить десятью годами \n\nПравительство внесло в Госдуму законопроект о сроках давности по искам об изъятии приватизированного госимущества — три года с момента выявления нарушения, но не более десяти лет. Предусмотрены исключения. \n\n💬 Партнер «Пепеляев Групп» Юрий Воробьёв в эфире РБК ТВ прокомментировал, что «наличие такого законопроекта лучше, нежели та ситуация, которая есть сейчас».\n\nКак будет работать новый механизм и что он изменит для предпринимателей, смотрите по ссылке.\n\nПолный комментарий Юрия с 05:00 мин.\n\n👉 СМОТРЕТЬ\n\n🏢 Подписаться на рассылки | MAX | Приложение PG",
       "text_html": "🗓 Срок давности по спорам о приватизации хотят ограничить десятью годами <br><br>Правительство <a href=\"https://www.rbc.ru/society/16/04/2026/69e101549a79476bdedec7b0\" target=\"_blank\" rel=\"noopener noreferrer\">внесло</a> в Госдуму законопроект о сроках давности по искам об изъятии приватизированного госимущества — три года с момента выявления нарушения, но не более десяти лет. Предусмотрены исключения. <br><br>💬 Партнер «Пепеляев Групп» <a href=\"https://www.pgplaw.ru/to-get-the-team/yuriy-vorobev/\" target=\"_blank\" rel=\"noopener noreferrer\">Юрий Воробьёв</a> в эфире РБК ТВ прокомментировал, что «наличие такого законопроекта лучше, нежели та ситуация, которая есть сейчас».<br><br>Как будет работать новый механизм и что он изменит для предпринимателей, смотрите по ссылке.<br><br>Полный комментарий Юрия с 05:00 мин.<br><br>👉 <a href=\"https://tv.rbc.ru/archive/chez/69e275d42ae5962fee09ed61\" target=\"_blank\" rel=\"noopener noreferrer\">СМОТРЕТЬ</a><br><br>🏢 <a href=\"https://www.pgplaw.ru/subscribe/\" target=\"_blank\" rel=\"noopener noreferrer\">Подписаться на рассылки |</a> <a href=\"https://max.ru/id7707301372_biz\" target=\"_blank\" rel=\"noopener noreferrer\">MAX |</a> <a href=\"https://t.me/pgp_official/1769\" target=\"_blank\" rel=\"noopener noreferrer\">Приложение PG</a>",
-      "views": 1030,
+      "views": 1040,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2611-1-67b045402160-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2611-1-67b045402160-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2611-1-5e2c5772c669-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2611-1-5e2c5772c669-v4.jpg"
         }
       ],
       "video_url": null,
@@ -76,8 +89,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2610-1-d66ab7026bb5-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2610-1-d66ab7026bb5-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2610-1-f516687b7dc0-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2610-1-f516687b7dc0-v4.jpg"
         }
       ],
       "video_url": null,
@@ -94,8 +107,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2609-1-61ca2b6cd276-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2609-1-61ca2b6cd276-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2609-1-d990f21d1ae3-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2609-1-d990f21d1ae3-v4.jpg"
         }
       ],
       "video_url": null,
@@ -112,8 +125,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2608-1-5f7a0ea2a9db-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2608-1-5f7a0ea2a9db-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2608-1-fc0d2825c2da-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2608-1-fc0d2825c2da-v4.jpg"
         }
       ],
       "video_url": null,
@@ -130,8 +143,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2607-1-07f7054c7b32-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2607-1-07f7054c7b32-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2607-1-deeecb704106-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2607-1-deeecb704106-v4.jpg"
         }
       ],
       "video_url": null,
@@ -148,8 +161,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2606-1-5179905e3485-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2606-1-5179905e3485-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2606-1-d51823ba692b-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2606-1-d51823ba692b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -166,8 +179,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2605-1-0bd28c79bd19-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2605-1-0bd28c79bd19-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2605-1-587421d5cb12-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2605-1-587421d5cb12-v4.jpg"
         }
       ],
       "video_url": null,
@@ -184,8 +197,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2604-1-879c57ccdce0-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2604-1-879c57ccdce0-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2604-1-e42101033f75-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2604-1-e42101033f75-v4.jpg"
         }
       ],
       "video_url": null,
@@ -202,8 +215,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2603-1-86f716b4bca7-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2603-1-86f716b4bca7-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2603-1-f7ee40427fad-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2603-1-f7ee40427fad-v4.jpg"
         }
       ],
       "video_url": null,
@@ -238,8 +251,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2601-1-2d2a12e9e114-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2601-1-2d2a12e9e114-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2601-1-28631154a3a5-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2601-1-28631154a3a5-v4.jpg"
         }
       ],
       "video_url": null,
@@ -256,8 +269,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2600-1-ea4ccb239d30-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2600-1-ea4ccb239d30-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2600-1-430273e414fd-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2600-1-430273e414fd-v4.jpg"
         }
       ],
       "video_url": null,
@@ -274,8 +287,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2599-1-d1b1941991b8-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2599-1-d1b1941991b8-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2599-1-21465f06adee-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2599-1-21465f06adee-v4.jpg"
         }
       ],
       "video_url": null,
@@ -286,24 +299,6 @@
         "channel_username": "pgp_official",
         "channel_title": "Pepeliaev Group | Пепеляев Групп"
       }
-    },
-    {
-      "id": 2598,
-      "date": "2026-04-17T08:15:28+00:00",
-      "text": "✍️ Нормативное регулирование\n \n🔴Совет Федерации одобрил Федеральный закон «О национальной системе подтверждения ожидания поставки товаров и о внесении изменений в отдельные законодательные акты РФ». \n🗓 Закреплены новые сроки внедрения системы подтверждения ожидания товаров (СПОТ) – механизма борьбы с серым импортом - в промышленную эксплуатацию она будет запущена на месяц раньше (с 1 июня 2026). \n\nНа совещании у вице-премьера – руководителя аппарата Правительства РФ Дмитрия Григоренко решили, что будет создана дорожная карта запуска и развития СПОТ.\n\nПредставители делового сообщества предложили ряд изменений в закон:\n💬 президент «Опоры России» Александр Калинин призвал расширить критерии добросовестных импортеров, которые могут быть освобождены от уплаты обеспечительного платежа;\n💬 председатель «Деловой России» Алексей Репик – создать механизм медиации для решения споров по примеру сервиса досудебного обжалования на портале Госуслуг.\n \n🔴Первый заместитель председателя Комитета Госдумы по физической культуре и спорту Дмитрий Свищев обратился к губернаторам с призывом ввести механизм, который позволит местному бизнесу одновременно помогать спортивным организациям и снижать себе налоговую нагрузку. \n🗓 Новый налоговый механизм введен с 1 января 2026 г., но требует включения его в региональные законы.\n\n⚙️ Практика\n \n🔴Совет Федерации принял решение пригласить на следующее пленарное заседание 29 апреля руководителя ФНС России Даниила Егорова. \nКак ожидается, он выступит с темой «Федеральная налоговая служба для граждан, бизнеса и государства».\n \n🔴В течение апреля налоговые органы направляют организациям за налоговый период 2025 г. порядка 801 тыс. сообщений об исчисленных суммах транспортного и земельного налогов, налога на имущество, налоговая база по которому определяется исходя из кадастровой стоимости. \n💰 Общая сумма исчисленных налоговых платежей составила 485 млрд руб. (+ 7 % к 2024 г.).\n \n🔴Около 10 млн россиян могут попасть под усиленный налоговый контроль из-за регулярных переводов на карты с 2027 г. \nРечь идет о гражданах, получающих более 200 000 руб. в месяц от аренды, подработок, услуг или торговли без оформления статуса самозанятого или ИП и без декларирования доходов. \nВ зоне внимания окажутся и самозанятые с выручкой выше 2,4 млн в год, скрывающие часть поступлений (таких может быть около 200 000 чел.)\nОжидается, что усиление контроля позволит увеличить поступления в бюджет не менее чем на 50 млрд руб. ежегодно.\n \n⚖️ Судебные дела\n \nКостромская область первой в России через суд взыскала понесенные бюджетом региона убытки с компании, где работал сотрудник без оформления – удовлетворен иск в отношении ООО «Управляющая компания Новая Эра». \n\nℹ️ Суд обязал компанию вернуть бюджету страховые взносы на ОМС, которые компания не платила за этого сотрудника, в результате чего бюджет Костромской области понес ущерб в размере нескольких десятков тысяч рублей.\n\n#главные_налоговые_новости",
-      "text_html": "✍️ Нормативное регулирование<br> <br>🔴Совет Федерации <a href=\"https://tass.ru/ekonomika/27116545\" target=\"_blank\" rel=\"noopener noreferrer\">одобрил</a> Федеральный <a href=\"http://council.gov.ru/events/news/174066/\" target=\"_blank\" rel=\"noopener noreferrer\">закон</a> «О национальной системе подтверждения ожидания поставки товаров и о внесении изменений в отдельные законодательные акты РФ». <br>🗓 Закреплены новые сроки <a href=\"https://www.vedomosti.ru/economics/articles/2026/04/14/1190046-spot-polnotsenno-zarabotaet-dlya-importerov-na-mesyats-ranshe-planov\" target=\"_blank\" rel=\"noopener noreferrer\">внедрения</a> системы подтверждения ожидания товаров (СПОТ) – механизма борьбы с серым импортом - в промышленную эксплуатацию она <a href=\"https://tass.ru/ekonomika/27089239\" target=\"_blank\" rel=\"noopener noreferrer\">будет запущена</a> на месяц <a href=\"https://tass.ru/ekonomika/27089179\" target=\"_blank\" rel=\"noopener noreferrer\">раньше</a> (с 1 июня 2026). <br><br>На <a href=\"http://government.ru/news/58454/\" target=\"_blank\" rel=\"noopener noreferrer\">совещании</a> у вице-премьера – руководителя аппарата Правительства РФ Дмитрия Григоренко <a href=\"https://www.nalog.gov.ru/rn77/news/activities_fts/16617759/\" target=\"_blank\" rel=\"noopener noreferrer\">решили</a>, что будет создана дорожная карта запуска и развития СПОТ.<br><br>Представители делового сообщества <a href=\"https://www.vedomosti.ru/economics/articles/2026/04/16/1190672-kabmin-prorabotaet-operativnoe-razreshenie-sporov-posle-vnedreniya-spot\" target=\"_blank\" rel=\"noopener noreferrer\">предложили</a> ряд изменений в закон:<br>💬 президент «Опоры России» Александр Калинин призвал расширить критерии добросовестных импортеров, которые могут быть освобождены от уплаты обеспечительного платежа;<br>💬 председатель «Деловой России» Алексей Репик – создать механизм медиации для решения споров по примеру сервиса досудебного обжалования на портале Госуслуг.<br> <br>🔴Первый заместитель председателя Комитета Госдумы по физической культуре и спорту Дмитрий Свищев <a href=\"https://rg.ru/2026/04/16/reg-dfo/deputat-gd-svishchev-prizval-regiony-vvodit-vychety-na-sport-dlia-biznesa.html\" target=\"_blank\" rel=\"noopener noreferrer\">обратился</a> к губернаторам с призывом ввести механизм, который позволит местному бизнесу одновременно помогать спортивным организациям и снижать себе налоговую нагрузку. <br>🗓 Новый налоговый механизм введен с 1 января 2026 г., но требует включения его в региональные законы.<br><br>⚙️ Практика<br> <br>🔴Совет Федерации <a href=\"https://tass.ru/ekonomika/27116013\" target=\"_blank\" rel=\"noopener noreferrer\">принял решение</a> пригласить на следующее пленарное заседание 29 апреля руководителя ФНС России Даниила Егорова. <br>Как ожидается, он выступит с темой «Федеральная налоговая служба для граждан, бизнеса и государства».<br> <br>🔴В течение апреля налоговые органы <a href=\"https://www.nalog.gov.ru/rn77/news/activities_fts/16617640/\" target=\"_blank\" rel=\"noopener noreferrer\">направляют</a> организациям за налоговый период 2025 г. порядка 801 тыс. сообщений об исчисленных суммах транспортного и земельного налогов, налога на имущество, налоговая база по которому определяется исходя из кадастровой стоимости. <br>💰 Общая сумма исчисленных налоговых платежей составила 485 млрд руб. (+ 7 % к 2024 г.).<br> <br>🔴Около 10 млн россиян <a href=\"https://www.vedomosti.ru/finance/news/2026/04/17/1191011-10-mln-rossiyan\" target=\"_blank\" rel=\"noopener noreferrer\">могут попасть</a> под усиленный налоговый контроль из-за регулярных переводов на карты с 2027 г. <br>Речь идет о гражданах, <a href=\"https://iz.ru/2080241/milana-gadzhieva/10-mln-rossiyan-pridetsya-otchityvatsya-pered-fns-za-perevody\" target=\"_blank\" rel=\"noopener noreferrer\">получающих</a> более 200 000 руб. в месяц от аренды, подработок, услуг или торговли без оформления статуса самозанятого или ИП и без декларирования доходов. <br>В зоне внимания окажутся и самозанятые с выручкой выше 2,4 млн в год, скрывающие часть поступлений (таких может быть около 200 000 чел.)<br>Ожидается, что усиление контроля позволит увеличить поступления в бюджет не менее чем на 50 млрд руб. ежегодно.<br> <br>⚖️ Судебные дела<br> <br>Костромская область первой в России через суд <a href=\"https://ria.ru/20260414/vzyskanie-2086986434.html\" target=\"_blank\" rel=\"noopener noreferrer\">взыскала</a> понесенные бюджетом региона убытки с компании, где работал сотрудник без оформления – удовлетворен иск в отношении ООО «Управляющая компания Новая Эра». <br><br>ℹ️ Суд обязал компанию вернуть бюджету страховые взносы на ОМС, которые компания не платила за этого сотрудника, в результате чего бюджет Костромской области понес ущерб в размере нескольких десятков тысяч рублей.<br><br>#главные_налоговые_новости",
-      "views": 1100,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2598-1-47fc35e89a6b-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2598-1-47fc35e89a6b-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2598",
-      "forwarded_from": null
     }
   ]
 }
