@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-02T11:17:17.210002+00:00",
+  "generated_at": "2026-07-02T13:12:23.025453+00:00",
   "pagination": {
     "page": 10,
     "page_size": 16,
-    "total_posts": 157,
+    "total_posts": 156,
     "total_pages": 10
   },
   "posts": [
@@ -12,11 +12,11 @@
       "date": "2026-04-09T10:53:02+00:00",
       "text": null,
       "text_html": null,
-      "views": 918,
+      "views": 919,
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/dd103fdd36.mp4?token=qWiU00uQJvInT4EbdC3OtyZXAaZvo-5zQixnQsdYoNJCE7MOYMsE5FQ10oAHoTXGDl-Nj8cHJ9OTsGkO0gSOwEqhPYH6E7L99khBVCYKhnhoDbFY5pwLmnUCWnq2HLzIAtt3BprS_JPUzsqa91tV7QLlJP3DGBQiBDLd-bMCyNzTjislRPh_1m33kWh2ezeOJvPW_8_VE6xYRB7-GOYPuR_g7TyMvzpLNTllEXPhuNtAR7IFwxk9Uwv_tMRl1oCiWHtWykG5I6EHOPlKkoxgVM7IE17q3_JWZIo8mjs3ULVITnCcUQeKA9sucX2xzZxtGRdEI4G-Js7H8FhNjnesHA",
+      "video_url": "https://cdn4.telesco.pe/file/dd103fdd36.mp4?token=kFw0Mq0bYSK6jZf37tpYHPZTTqbDbw-M-oaEEvFAS_KYrOlrIk72fJURgh9pfViqLPw8kKxvQAbqXOdjbpBo_Nkwf6e0L6dg6o2yX-39UmKRgNTxgiPPRDJdxl2qJeiJn7PR3_iJQvjEQ6jjI_jPGBpIFv8yAi2AUftXf2d8IeWd4jqAsOwMY613L7hKo1Wt6sTsudoQ_LOCmOr7yomC698_hCC9mm28Wh55zHU7LDEbNtXmRZ9RiW7KOt5Uit-zdpIDoT4fR-NkaPdxbmOy9Hi5WkS9g0YmamUOrXs-qJxDj7XItx5xpHORN6qsccGTceoSgfyBpjik8qAQLgVFYg",
       "tg_url": "https://t.me/PG_Tax/2584",
       "forwarded_from": null
     },
@@ -25,13 +25,13 @@
       "date": "2026-04-09T10:46:14+00:00",
       "text": null,
       "text_html": null,
-      "views": 933,
+      "views": 934,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2583-1-89ea6ee41013-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2583-1-89ea6ee41013-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2583-1-de6b1fbd6a9e-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2583-1-de6b1fbd6a9e-v4.jpg"
         }
       ],
       "video_url": null,
@@ -48,8 +48,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2582-1-13fcb42bbef9-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2582-1-13fcb42bbef9-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2582-1-d97b261dc3ec-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2582-1-d97b261dc3ec-v4.jpg"
         }
       ],
       "video_url": null,
@@ -66,8 +66,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2581-1-54a53200dcb0-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2581-1-54a53200dcb0-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2581-1-6d09e7ed9c20-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2581-1-6d09e7ed9c20-v4.jpg"
         }
       ],
       "video_url": null,
@@ -84,8 +84,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2580-1-8c8d659d005e-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2580-1-8c8d659d005e-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2580-1-4f980e21bd43-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2580-1-4f980e21bd43-v4.jpg"
         }
       ],
       "video_url": null,
@@ -97,7 +97,7 @@
       "date": "2026-04-07T12:03:16+00:00",
       "text": "📣 Экспертная дискуссия с онлайн-трансляцией по теме «Налогообложение операций с криптовалютами» по Постановлению КС РФ от 20.01.2026 № 2-П.\n\n9 апреля в рамках XXIII Международной научно-практической конференции «Налоговое право в решениях Конституционного Суда Российской Федерации» пройдет онлайн-дискуссия, посвященная вопросам налогообложения операций с криптовалютами.\n\nВыступающие:\n\n🎤 Дарья Александровна Давыдова, заместитель руководителя Управления ФНС России по Красноярскому краю\n\n🎤 Сергей Александрович Безделов, канд. экон. наук, председатель Комиссии по вопросам майнинговой деятельности и технологии блокчейн ТПП РФ, профессор \n\n🎤 Алексей Владимирович Савенков, канд. юрид. наук (СПбГУ)\n\n🎤 Андрей Иванович Терещенко, партнер юридической компании «Пепеляев Групп»\n\nМодератор:\n\n🎤 Иван Владимирович Хаменушко, канд. юрид. наук, заведующий кафедрой финансового права юридического факультета МГУ им. М.В. Ломоносова, старший партнер юридической компании «Пепеляев Групп» \n\n\n🗓 09 апреля\n\n⏰ 15.00 – 17.00\n\n💻 Онлайн, регистрация не требуется.\n\n👉ССЫЛКА НА ТРАНСЛЯЦИЮ\n\n#мероприятия",
       "text_html": "📣 Экспертная дискуссия с онлайн-трансляцией по теме «Налогообложение операций с криптовалютами» по Постановлению КС РФ от 20.01.2026 № 2-П.<br><br>9 апреля в рамках <a href=\"https://zakon.ru/blog/2026/03/03/nalogovoe_pravo_v_resheniyah_konstitucionnogo_suda_rf_ezhegodnaya_nauchno-prakticheskaya_konferenciy\" target=\"_blank\" rel=\"noopener noreferrer\">XXIII Международной научно-практической конференции</a> «Налоговое право в решениях Конституционного Суда Российской Федерации» пройдет онлайн-дискуссия, посвященная вопросам налогообложения операций с криптовалютами.<br><br>Выступающие:<br><br>🎤 Дарья Александровна Давыдова, заместитель руководителя Управления ФНС России по Красноярскому краю<br><br>🎤 Сергей Александрович Безделов, канд. экон. наук, председатель Комиссии по вопросам майнинговой деятельности и технологии блокчейн ТПП РФ, профессор <br><br>🎤 Алексей Владимирович Савенков, канд. юрид. наук (СПбГУ)<br><br>🎤 <a href=\"https://www.pgplaw.ru/to-get-the-team/andrey-tereshchenko/\" target=\"_blank\" rel=\"noopener noreferrer\">Андрей Иванович Терещенко</a>, партнер юридической компании «Пепеляев Групп»<br><br>Модератор:<br><br>🎤 <a href=\"https://www.pgplaw.ru/to-get-the-team/ivan-khamenushko/\" target=\"_blank\" rel=\"noopener noreferrer\">Иван Владимирович Хаменушко</a>, канд. юрид. наук, заведующий кафедрой финансового права юридического факультета МГУ им. М.В. Ломоносова, старший партнер юридической компании «Пепеляев Групп» <br><br><br>🗓 09 апреля<br><br>⏰ 15.00 – 17.00<br><br>💻 Онлайн, регистрация не требуется.<br><br>👉<a href=\"https://vkvideo.ru/video-86776361_456239430\" target=\"_blank\" rel=\"noopener noreferrer\">ССЫЛКА НА ТРАНСЛЯЦИЮ</a><br><br>#мероприятия",
-      "views": 1070,
+      "views": 1080,
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
@@ -115,8 +115,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2578-1-fde79fe3d2af-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2578-1-fde79fe3d2af-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2578-1-d4644569f60c-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2578-1-d4644569f60c-v4.jpg"
         }
       ],
       "video_url": null,
@@ -133,8 +133,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2577-1-0acb3bbc977a-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2577-1-0acb3bbc977a-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2577-1-275909c129ae-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2577-1-275909c129ae-v4.jpg"
         }
       ],
       "video_url": null,
@@ -151,8 +151,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2576-1-1b832aa26571-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2576-1-1b832aa26571-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2576-1-4a10cb9f5209-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2576-1-4a10cb9f5209-v4.jpg"
         }
       ],
       "video_url": null,
@@ -200,30 +200,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2573-1-9f3781bb5b67-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2573-1-9f3781bb5b67-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2573-1-943dab6abc5b-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2573-1-943dab6abc5b-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/PG_Tax/2573",
-      "forwarded_from": null
-    },
-    {
-      "id": 2572,
-      "date": "2026-04-02T13:06:03+00:00",
-      "text": "📢 Позиции Минфина и ФНС за март\n \nВ фокусе внимания в частности:\n🔴сроки хранения документов для обоснования сумм налога\n🔴налоги добытчиков\n🔴нулевая ставка НДС при международной перевозке\n🔴ответы на некоторые вопросы по автообмену финансовой информацией и\n🔴по имущественным налогам\n \nЭкспресс-обзор писем Минфина и ФНС читайте на сайте ПГ.\n\n#обзор_писем_Минфина_ФНС\n\n➖➖\n💡 Индивидуальные обзоры изменений налогового законодательства и практики, учитывающие специфику Вашего бизнеса, по расписанию в Ваш почтовый ящик можно оформить здесь.",
-      "text_html": "📢 Позиции Минфина и ФНС за март<br> <br>В фокусе внимания в частности:<br>🔴сроки хранения документов для обоснования сумм налога<br>🔴налоги добытчиков<br>🔴нулевая ставка НДС при международной перевозке<br>🔴ответы на некоторые вопросы по автообмену финансовой информацией и<br>🔴по имущественным налогам<br> <br>Экспресс-обзор писем Минфина и ФНС читайте <a href=\"https://www.pgplaw.ru/analytics-and-brochures/tax-reviews/pisma-minfina-i-fns-obnovleniya-marta-2026-g/\" target=\"_blank\" rel=\"noopener noreferrer\">на сайте ПГ.</a><br><br>#обзор_писем_Минфина_ФНС<br><br>➖➖<br>💡 Индивидуальные обзоры изменений налогового законодательства и практики, учитывающие специфику Вашего бизнеса, по расписанию в Ваш почтовый ящик можно оформить <a href=\"https://www.pgplaw.ru/practice-and-industry/practices/obzory-zakonodatelstva-i-praktiki/\" target=\"_blank\" rel=\"noopener noreferrer\">здесь.</a>",
-      "views": 1030,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2572-1-ca0bf65a69ca-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2572-1-ca0bf65a69ca-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2572",
       "forwarded_from": null
     }
   ]
