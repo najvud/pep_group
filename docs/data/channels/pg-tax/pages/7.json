@@ -1,12 +1,66 @@
 {
-  "generated_at": "2026-07-02T08:38:38.595771+00:00",
+  "generated_at": "2026-07-02T11:17:17.203292+00:00",
   "pagination": {
     "page": 7,
     "page_size": 16,
-    "total_posts": 156,
+    "total_posts": 157,
     "total_pages": 10
   },
   "posts": [
+    {
+      "id": 2632,
+      "date": "2026-05-07T13:01:21+00:00",
+      "text": "📜  О рассмотрении арбитражными судами споров, связанных с налогообложением имущества организаций\n\nТематический обзор ВС РФ № 4/2026\n\n❗️Ключевое – вопросы, связанные с отнесением ОС к объекту налогообложения. Обязанность по уплате налога установлена только в отношении недвижимости. Но не предусмотрены критерии разграничения движимого и недвижимого имущества для целей налогообложения. \n\n🔍 Полная версия обзора – в карточках.\n\n➖➖\n\nПодготовлено информационно-аналитическим отделом «Пепеляев Групп». Также мы составляем индивидуальные обзоры по различным отраслям права под запросы бизнеса.",
+      "text_html": "📜  О рассмотрении арбитражными судами споров, связанных с налогообложением имущества организаций<br><br><a href=\"https://www.vsrf.ru/documents/all/35815/\" target=\"_blank\" rel=\"noopener noreferrer\">Тематический обзор ВС РФ № 4/2026</a><br><br>❗️Ключевое – вопросы, связанные с отнесением ОС к объекту налогообложения. Обязанность по уплате налога установлена только в отношении недвижимости. Но не предусмотрены критерии разграничения движимого и недвижимого имущества для целей налогообложения. <br><br>🔍 Полная версия обзора – в карточках.<br><br>➖➖<br><br>Подготовлено информационно-аналитическим отделом «Пепеляев Групп». Также мы <a href=\"https://www.pgplaw.ru/practice-and-industry/practices/obzory-zakonodatelstva-i-praktiki/\" target=\"_blank\" rel=\"noopener noreferrer\">составляем</a> индивидуальные обзоры по различным отраслям права под запросы бизнеса.",
+      "views": 773,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2632-1-18cb4708fd5e-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2632-1-18cb4708fd5e-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2632-2-d84326df339d-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2632-2-d84326df339d-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2632-3-7b5288f24e15-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2632-3-7b5288f24e15-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2632-4-719e5b6694b9-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2632-4-719e5b6694b9-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2632-5-72a7151a05b7-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2632-5-72a7151a05b7-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2632-6-be80076061e9-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2632-6-be80076061e9-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2632-7-6e62f2cf79b0-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2632-7-6e62f2cf79b0-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2632-8-31731544765a-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2632-8-31731544765a-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2632-9-7a4c964c2862-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2632-9-7a4c964c2862-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2632-10-31b335d93d54-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2632-10-31b335d93d54-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/PG_Tax/2632",
+      "forwarded_from": null
+    },
     {
       "id": 2631,
       "date": "2026-05-07T10:01:12+00:00",
@@ -17,8 +71,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2631-1-e1529ecf2e21-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2631-1-e1529ecf2e21-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2631-1-4b7ce71a0191-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2631-1-4b7ce71a0191-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +89,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2630-1-da9feaac8614-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2630-1-da9feaac8614-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2630-1-7fefdda4cb41-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2630-1-7fefdda4cb41-v4.jpg"
         }
       ],
       "video_url": null,
@@ -53,8 +107,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2629-1-ec50f4fb9e19-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2629-1-ec50f4fb9e19-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2629-1-e96491b5d37c-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2629-1-e96491b5d37c-v4.jpg"
         }
       ],
       "video_url": null,
@@ -71,8 +125,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2628-1-cfaf9dc09f23-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2628-1-cfaf9dc09f23-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2628-1-80738ee72287-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2628-1-80738ee72287-v4.jpg"
         }
       ],
       "video_url": null,
@@ -89,8 +143,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2627-1-7e10a4d4c7d2-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2627-1-7e10a4d4c7d2-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2627-1-7a085bc135ae-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2627-1-7a085bc135ae-v4.jpg"
         }
       ],
       "video_url": null,
@@ -107,8 +161,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2626-1-68fd56dc0384-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2626-1-68fd56dc0384-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2626-1-72007e49e306-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2626-1-72007e49e306-v4.jpg"
         }
       ],
       "video_url": null,
@@ -125,8 +179,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2625-1-1d8691b1b833-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2625-1-1d8691b1b833-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2625-1-7e86e930e498-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2625-1-7e86e930e498-v4.jpg"
         }
       ],
       "video_url": null,
@@ -143,8 +197,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2624-1-72f3d55c91bd-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2624-1-72f3d55c91bd-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2624-1-24990dd6b29e-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2624-1-24990dd6b29e-v4.jpg"
         }
       ],
       "video_url": null,
@@ -161,8 +215,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2623-1-2357662eba3c-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2623-1-2357662eba3c-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2623-1-020f645a5f87-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2623-1-020f645a5f87-v4.jpg"
         }
       ],
       "video_url": null,
@@ -179,8 +233,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2622-1-afcbd749d0ed-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2622-1-afcbd749d0ed-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2622-1-827bb3e11459-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2622-1-827bb3e11459-v4.jpg"
         }
       ],
       "video_url": null,
@@ -197,8 +251,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2621-1-e8a96b074708-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2621-1-e8a96b074708-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2621-1-8dabf1900c1d-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2621-1-8dabf1900c1d-v4.jpg"
         }
       ],
       "video_url": null,
@@ -210,13 +264,13 @@
       "date": "2026-04-30T07:26:42+00:00",
       "text": "✍️ Нормотворчество\n\n🔴При ежегодных потерях до 42 млн тонн продуктов в России сохраняется их структурный дефицит в 1,2 млн тонн для уязвимых групп населения. \n📣 Ключевое препятствие для перераспределения излишков — налоговое регулирование, делающее благотворительность экономически нецелесообразной. Компании вынуждены платить НДС по цене реализации, несмотря на отсутствие прибыли, тогда как при утилизации входящий НДС компенсируется.\n\n🔴Национальная ассоциация управленцев сферы здравоохранения (НАУЗ) обратилась к Председателю Правительства РФ с просьбой ввести налоговую льготу для фармкомпаний и производителей решений в сфере медицинского приборостроения, а именно - вернуть действовавший до 2026 г. порог освобождения от обязанности по уплате НДС на уровне 60 млн руб. дохода и сохранить применение УСН без НДС при соблюдении этого лимита.\n\n🔴Туристический налог можно сделать целевым на территории курортных ОЭЗ, поскольку он нацелен на развитие курортов - считает исполнительный директор «Кавказ.РФ» Хасан Тимижев.\n\n⚙️ Практика\n \n🔴ТПП России обратилась в ФНС России с просьбой разъяснить, как будет работать новая система подтверждения ожидания поставки товаров (СПОТ) — она запускается с 1 июня 2026 г. для компаний, которые ввозят товары автотранспортом из стран ЕАЭС. \n\nВ ФНС подтвердили, что закон уже принят и система будет работать круглосуточно. \nКонтроль на границе передадут таможенной службе. \nСПОТ не будет применяться к транзитным товарам, при временном ввозе не нужно вносить обеспечительный платеж, а оспорить статус документа можно в течение 10 рабочих дней. \nОформлять документы должен сам импортер (не перевозчик). \nЕсли груз сборный, каждый участник оформляет свой документ отдельно. \nРазмер обеспечительного платежа система будет рассчитывать автоматически. \nВ ТПП подчеркнули: несмотря на разъяснения, система еще требует доработки.\n\n🔴Опубликована Резолюция XXXV Съезда РСПП «Об основных направлениях деятельности на текущий год и дальнейшую перспективу». \n\nВ разделе «Фискальная политика» отмечена в частности необходимость:\n- улучшения настройки ФИНВ в части увеличения лимита вычета, расширения отраслевого охвата применения ФИНВ, предоставления налогоплательщикам права снижать федеральную часть налога на прибыль до нуля, а также снятия административных ограничений на применение механизма ФИНВ;\n- смягчения режима 50%-ого ограничения на перенос убытков прошлых лет (возможность передачи убытков внутри групп компаний инвестиционно активных отраслей по аналогии с ФИНВ);\n- создания единой правовой основы / правил установления неналоговых платежей и сборов;\n- перенастройки системы налогового стимулирования НИОКР.\n\n🔴Бухгалтерские и юридические услуги вошли в число лидеров по приросту бизнеса в 1 кв. 2026 г. - зарегистрировано 1,8 тыс. новых организаций и ИП. \nПо темпам роста лидируют два направления: бухучет и финансовый аудит (ОКВЭД 69.20), а также налоговое консультирование (ОКВЭД 69.20.3).\n \n⚖️ Судебные дела\n \nЗаведомо заниженную стоимость активов предприятий следует рассматривать как искажение налогоплательщиком сведений об объекте налогообложения - пояснил ВС РФ в утвержденном Президиумом ВС тематическом обзоре практики рассмотрения арбитражными судами споров, связанных с налогообложением имущества организаций.\n\n✈️ За рубежом\n \nЕвросоюз планирует расширить систему собственных налогов с 2028 г. для обеспечения финансирования бюджета и погашения долгов без увеличения взносов стран-участниц.\nℹ️ Обсуждаются сборы с углеродоемкого импорта, выбросов CO₂, электронных отходов, табака и прибыли компаний, налоги на онлайн-гемблинг, технологические компании и криптофирмы.\n\n#главные_налоговые_новости",
       "text_html": "✍️ Нормотворчество<br><br>🔴При ежегодных потерях до 42 млн тонн продуктов в России <a href=\"https://www.kommersant.ru/doc/8625615?query=%D0%BD%D0%B0%D0%BB%D0%BE%D0%B3\" target=\"_blank\" rel=\"noopener noreferrer\">сохраняется</a> их структурный дефицит в 1,2 млн тонн для уязвимых групп населения. <br>📣 Ключевое препятствие для перераспределения излишков — налоговое регулирование, делающее благотворительность экономически нецелесообразной. Компании вынуждены платить НДС по цене реализации, несмотря на отсутствие прибыли, тогда как при утилизации входящий НДС компенсируется.<br><br>🔴Национальная ассоциация управленцев сферы здравоохранения (НАУЗ) <a href=\"https://www.vedomosti.ru/economics/articles/2026/04/28/1193720-upravlentsi-sferi-zdravoohraneniya\" target=\"_blank\" rel=\"noopener noreferrer\">обратилась</a> к Председателю Правительства РФ с просьбой ввести налоговую льготу для фармкомпаний и производителей решений в сфере медицинского приборостроения, а именно - вернуть действовавший до 2026 г. порог освобождения от обязанности по уплате НДС на уровне 60 млн руб. дохода и сохранить применение УСН без НДС при соблюдении этого лимита.<br><br>🔴Туристический налог можно сделать целевым на территории курортных ОЭЗ, поскольку он нацелен на развитие курортов - <a href=\"https://tass.ru/ekonomika/27266109\" target=\"_blank\" rel=\"noopener noreferrer\">считает</a> исполнительный директор «<a href=\"http://%D0%9A%D0%B0%D0%B2%D0%BA%D0%B0%D0%B7.%D0%A0%D0%A4/\" target=\"_blank\" rel=\"noopener noreferrer\">Кавказ.РФ</a>» Хасан Тимижев.<br><br>⚙️ Практика<br> <br>🔴ТПП России <a href=\"https://iz.ru/2088413/2026-04-30/fns-raziasnila-pravila-novoi-sistemy-kontrolia-importa\" target=\"_blank\" rel=\"noopener noreferrer\">обратилась</a> в ФНС России с просьбой разъяснить, как будет работать новая система подтверждения ожидания поставки товаров (СПОТ) — она запускается с 1 июня 2026 г. для компаний, которые ввозят товары автотранспортом из стран ЕАЭС. <br><br>В ФНС <a href=\"https://www.nalog.gov.ru/rn77/news/activities_fts/16621151/\" target=\"_blank\" rel=\"noopener noreferrer\">подтвердили</a>, что закон уже принят и система будет работать круглосуточно. <br>Контроль на границе передадут таможенной службе. <br>СПОТ не будет применяться к транзитным товарам, при временном ввозе не нужно вносить обеспечительный платеж, а оспорить статус документа можно в течение 10 рабочих дней. <br>Оформлять документы должен сам импортер (не перевозчик). <br>Если груз сборный, каждый участник оформляет свой документ отдельно. <br>Размер обеспечительного платежа система будет рассчитывать автоматически. <br>В ТПП подчеркнули: несмотря на разъяснения, система еще требует доработки.<br><br>🔴<a href=\"https://rspp.ru/events/news/opublikovana-rezolyutsiya-xxxv-sezda-rspp/\" target=\"_blank\" rel=\"noopener noreferrer\">Опубликована</a> Резолюция XXXV Съезда РСПП «Об основных направлениях деятельности на текущий год и дальнейшую перспективу». <br><br>В разделе «Фискальная политика» отмечена в частности необходимость:<br>- улучшения настройки ФИНВ в части увеличения лимита вычета, расширения отраслевого охвата применения ФИНВ, предоставления налогоплательщикам права снижать федеральную часть налога на прибыль до нуля, а также снятия административных ограничений на применение механизма ФИНВ;<br>- смягчения режима 50%-ого ограничения на перенос убытков прошлых лет (возможность передачи убытков внутри групп компаний инвестиционно активных отраслей по аналогии с ФИНВ);<br>- создания единой правовой основы / правил установления неналоговых платежей и сборов;<br>- перенастройки системы налогового стимулирования НИОКР.<br><br>🔴Бухгалтерские и юридические услуги <a href=\"https://www.kommersant.ru/doc/8632654?query=%D0%BD%D0%B0%D0%BB%D0%BE%D0%B3\" target=\"_blank\" rel=\"noopener noreferrer\">вошли</a> в число лидеров по приросту бизнеса в 1 кв. 2026 г. - зарегистрировано 1,8 тыс. новых организаций и ИП. <br>По темпам роста лидируют два направления: бухучет и финансовый аудит (ОКВЭД 69.20), а также налоговое консультирование (ОКВЭД 69.20.3).<br> <br>⚖️ Судебные дела<br> <br>Заведомо заниженную стоимость активов предприятий следует рассматривать как искажение налогоплательщиком сведений об объекте налогообложения - <a href=\"https://tass.ru/ekonomika/27259875\" target=\"_blank\" rel=\"noopener noreferrer\">пояснил</a> ВС РФ в утвержденном Президиумом ВС тематическом обзоре практики рассмотрения арбитражными судами споров, связанных с налогообложением имущества организаций.<br><br>✈️ За рубежом<br> <br>Евросоюз <a href=\"https://iz.ru/2088214/2026-04-29/politico-uznala-ob-uvelichenii-evrosoiuzom-obema-sobstvennykh-nalogov\" target=\"_blank\" rel=\"noopener noreferrer\">планирует</a> расширить систему собственных налогов с 2028 г. для обеспечения финансирования бюджета и погашения долгов без увеличения взносов стран-участниц.<br>ℹ️ Обсуждаются сборы с углеродоемкого импорта, выбросов CO₂, электронных отходов, табака и прибыли компаний, налоги на онлайн-гемблинг, технологические компании и криптофирмы.<br><br>#главные_налоговые_новости",
-      "views": 957,
+      "views": 958,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2620-1-6e3f3371b7eb-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2620-1-6e3f3371b7eb-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2620-1-81f3aec8ea66-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2620-1-81f3aec8ea66-v4.jpg"
         }
       ],
       "video_url": null,
@@ -233,8 +287,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2619-1-87254648d295-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2619-1-87254648d295-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2619-1-81ae7b1cc777-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2619-1-81ae7b1cc777-v4.jpg"
         }
       ],
       "video_url": null,
@@ -256,8 +310,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2618-1-6e86ff88e61c-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2618-1-6e86ff88e61c-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2618-1-16474f08920b-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2618-1-16474f08920b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -274,36 +328,13 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2617-1-e7b648f7c67d-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2617-1-e7b648f7c67d-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2617-1-cae00f13779a-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2617-1-cae00f13779a-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/PG_Tax/2617",
       "forwarded_from": null
-    },
-    {
-      "id": 2616,
-      "date": "2026-04-28T10:32:42+00:00",
-      "text": "📹 Субсидиарная ответственность: что учесть в 2026 году?\n\nСмотрите видеоподкаст от партнера Юлии Литовцевой в двух частях:\n\n1️⃣часть на нашем сайте, YouTube, VK\n\n🔴Почему «бросить» бизнес — больше не стратегия, а риск;\n🔴Как сегодня привлекают к долгам даже без процедуры банкротства;\n🔴Чем на практике опасен статус номинального директора;\n🔴Почему исключение из ЕГРЮЛ не ставит точку в вопросе ответственности.\n\n2️⃣ часть на нашем сайте, YouTube, VK\n\n🔴как изменилась субсидиарная ответственность, и почему прокурор стал самым опасным игроком в делах о банкротстве;\n🔴как долги бизнеса взыскивают с банков;\n🔴можно ли законно списать субсидиарку в личном банкротстве;\n🔴как директору защитить свои активы.\n\n☝️ Юристы «Пепеляев Групп» не только обеспечивают эффективную защиту в суде от субсидиарной ответственности (взыскания убытков), но и помогают предупредить риски ее наступления.\n\n#Субсидиарная_ответственность",
-      "text_html": "📹 Субсидиарная ответственность: что учесть в 2026 году?<br><br>Смотрите видеоподкаст от партнера Юлии Литовцевой в двух частях:<br><br>1️⃣часть на <a href=\"https://www.pgplaw.ru/analytics-and-brochures/video/subsidiarnaya-otvetstvennost-chto-uchest-v-2026/\" target=\"_blank\" rel=\"noopener noreferrer\">нашем сайте,</a> <a href=\"https://youtu.be/XiS1perDPz8?is=JtJAOTrqoUL5N3qp\" target=\"_blank\" rel=\"noopener noreferrer\">YouTube,</a> <a href=\"https://vkvideo.ru/video-227047542_456239403?t=1s\" target=\"_blank\" rel=\"noopener noreferrer\">VK</a><br><br>🔴Почему «бросить» бизнес — больше не стратегия, а риск;<br>🔴Как сегодня привлекают к долгам даже без процедуры банкротства;<br>🔴Чем на практике опасен статус номинального директора;<br>🔴Почему исключение из ЕГРЮЛ не ставит точку в вопросе ответственности.<br><br>2️⃣ часть на <a href=\"https://www.pgplaw.ru/analytics-and-brochures/video/subsidiarnaya-otvetstvennost-chto-uchest-v-2026-2/\" target=\"_blank\" rel=\"noopener noreferrer\">нашем сайте,</a> <a href=\"https://youtu.be/z5LbkayjGec?is=JrmZLPyjFrMii7sX\" target=\"_blank\" rel=\"noopener noreferrer\">YouTube,</a> <a href=\"https://vkvideo.ru/video-227047542_456239405\" target=\"_blank\" rel=\"noopener noreferrer\">VK</a><br><br>🔴как изменилась субсидиарная ответственность, и почему прокурор стал самым опасным игроком в делах о банкротстве;<br>🔴как долги бизнеса взыскивают с банков;<br>🔴можно ли законно списать субсидиарку в личном банкротстве;<br>🔴как директору защитить свои активы.<br><br>☝️ Юристы «Пепеляев Групп» не только <a href=\"https://www.pgplaw.ru/practice-and-industry/practices/bankruptcy/zashchita-ot-subsidiarnoy-otvetstvennosti/\" target=\"_blank\" rel=\"noopener noreferrer\">обеспечивают эффективную защиту</a> в суде от субсидиарной ответственности (взыскания убытков), но и помогают предупредить риски ее наступления.<br><br>#Субсидиарная_ответственность",
-      "views": 880,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2616-1-d21629e4162e-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2616-1-d21629e4162e-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2616",
-      "forwarded_from": {
-        "source_url": "https://t.me/pgp_official/1817",
-        "channel_url": "https://t.me/s/pgp_official",
-        "channel_username": "pgp_official",
-        "channel_title": "Pepeliaev Group | Пепеляев Групп"
-      }
     }
   ]
 }
