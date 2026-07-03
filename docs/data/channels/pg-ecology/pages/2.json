@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T18:06:42.071933+00:00",
+  "generated_at": "2026-07-03T20:46:08.147203+00:00",
   "pagination": {
     "page": 2,
     "page_size": 16,
@@ -226,8 +226,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1342-1-6f210efd455e-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1342-1-6f210efd455e-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1342-1-0d4041cdc960-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1342-1-0d4041cdc960-v4.jpg"
         }
       ],
       "video_url": null,
