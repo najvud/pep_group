@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T11:06:28.001601+00:00",
+  "generated_at": "2026-07-03T13:07:13.062176+00:00",
   "site": {
     "channel_username": "PG_RealEstate",
     "channel_title": "PG Real Estate | Недвижимость",
@@ -19,7 +19,7 @@
   "pagination": {
     "page": 1,
     "page_size": 16,
-    "total_posts": 18,
+    "total_posts": 17,
     "total_pages": 2
   },
   "posts": [
@@ -33,8 +33,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-real-estate/media/posts/thumbs/251-1-60a913f8ee8a-v4.jpg",
-          "full_url": "data/channels/pg-real-estate/media/posts/251-1-60a913f8ee8a-v4.jpg"
+          "thumb_url": "data/channels/pg-real-estate/media/posts/thumbs/251-1-3f5bde589e06-v4.jpg",
+          "full_url": "data/channels/pg-real-estate/media/posts/251-1-3f5bde589e06-v4.jpg"
         }
       ],
       "video_url": null,
@@ -51,8 +51,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-real-estate/media/posts/thumbs/250-1-1a45d95f941f-v4.jpg",
-          "full_url": "data/channels/pg-real-estate/media/posts/250-1-1a45d95f941f-v4.jpg"
+          "thumb_url": "data/channels/pg-real-estate/media/posts/thumbs/250-1-dc24ee2d819b-v4.jpg",
+          "full_url": "data/channels/pg-real-estate/media/posts/250-1-dc24ee2d819b-v4.jpg"
         }
       ],
       "video_url": null,
