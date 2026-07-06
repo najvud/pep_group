@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-07-06T05:43:09.273596+00:00",
+  "generated_at": "2026-07-06T09:45:24.690041+00:00",
   "pagination": {
     "page": 3,
     "page_size": 16,
-    "total_posts": 65,
+    "total_posts": 66,
     "total_pages": 5
   },
   "posts": [
+    {
+      "id": 496,
+      "date": "2026-05-20T07:49:13+00:00",
+      "text": "📨 Еженедельный обзор Банкротство: Взгляд эксперта \n\nО новых событиях сферы банкротства с авторскими рекомендациями от Ю. Литовцевой в еженедельном обзоре Банкротство: Взгляд эксперта от команды практики банкротства и антикризисной защиты бизнеса! \n\nВ этом выпуске:\n\n🏛 Потерпевший от действий управляющего и его права в споре об административной ответственности\n\n🌲Правила реализации сельхоз земель при банкротстве\n\n💰Инициатор банкротства не может «не знать» о торгах\n\n🚳 Каков стандарт доказывания для запрета на выезд?\n\nПодробности уже ожидают по ссылке!\n☕️ Приятного чтения!\n\n#Банкротство_взгляд_эксперта\n#Процессуальные_вопросы\n#Банкротство_граждан\n#Обеспечительные_меры\n#Торги\n#Недействительность_сделок\n#Исковая_давность\n#Субсидиарная_ответственность\n#Арбитражный_управляющий",
+      "text_html": "📨 Еженедельный обзор Банкротство: Взгляд эксперта <br><br>О новых событиях сферы банкротства с авторскими рекомендациями от Ю. Литовцевой в еженедельном обзоре Банкротство: Взгляд эксперта от команды <a href=\"https://www.pgplaw.ru/practice-and-industry/practices/bankruptcy/\" target=\"_blank\" rel=\"noopener noreferrer\">практики банкротства и антикризисной защиты бизнеса!</a> <br><br>В этом выпуске:<br><br>🏛 Потерпевший от действий управляющего и его права в споре об административной ответственности<br><br>🌲Правила реализации сельхоз земель при банкротстве<br><br>💰Инициатор банкротства не может «не знать» о торгах<br><br>🚳 Каков стандарт доказывания для запрета на выезд?<br><br>Подробности уже ожидают по <a href=\"https://www.pgplaw.ru/analytics-and-brochures/bankruptcy-must-read/bankruptcy-digest-20-05-26/\" target=\"_blank\" rel=\"noopener noreferrer\">ссылке</a>!<br><a href=\"https://www.pgplaw.ru/analytics-and-brochures/bankruptcy-must-read/bankruptcy-must-read-26-11-25/\" target=\"_blank\" rel=\"noopener noreferrer\">☕️</a> Приятного чтения!<br><br>#Банкротство_взгляд_эксперта<br>#Процессуальные_вопросы<br>#Банкротство_граждан<br>#Обеспечительные_меры<br>#Торги<br>#Недействительность_сделок<br>#Исковая_давность<br>#Субсидиарная_ответственность<br>#Арбитражный_управляющий",
+      "views": 308,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/496-1-36195fb3bc6c-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/496-1-36195fb3bc6c-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/bankrotstvo_mustknow/496",
+      "forwarded_from": null
+    },
     {
       "id": 495,
       "date": "2026-05-19T06:02:01+00:00",
@@ -17,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/495-1-a8715e1b0a8c-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/495-1-a8715e1b0a8c-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/495-1-80e706f2e02b-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/495-1-80e706f2e02b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +53,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/494-1-f0d975cf7a6d-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/494-1-f0d975cf7a6d-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/494-1-ddb2f555148c-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/494-1-ddb2f555148c-v4.jpg"
         }
       ],
       "video_url": null,
@@ -53,8 +71,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/493-1-e69f6f6c7ec0-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/493-1-e69f6f6c7ec0-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/493-1-ff699e171923-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/493-1-ff699e171923-v4.jpg"
         }
       ],
       "video_url": null,
@@ -71,8 +89,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/492-1-8a09be87fc8d-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/492-1-8a09be87fc8d-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/492-1-aa9f6f172d73-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/492-1-aa9f6f172d73-v4.jpg"
         }
       ],
       "video_url": null,
@@ -89,8 +107,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/491-1-3970774cd4ef-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/491-1-3970774cd4ef-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/491-1-c0b22b43f96e-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/491-1-c0b22b43f96e-v4.jpg"
         }
       ],
       "video_url": null,
@@ -107,8 +125,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/490-1-1fda66d6bb7f-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/490-1-1fda66d6bb7f-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/490-1-b5e8de317e00-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/490-1-b5e8de317e00-v4.jpg"
         }
       ],
       "video_url": null,
@@ -125,8 +143,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/489-1-4f75976137e4-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/489-1-4f75976137e4-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/489-1-0269aa022d8c-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/489-1-0269aa022d8c-v4.jpg"
         }
       ],
       "video_url": null,
@@ -143,8 +161,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/488-1-13d1090edb37-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/488-1-13d1090edb37-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/488-1-f29f2327f6e7-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/488-1-f29f2327f6e7-v4.jpg"
         }
       ],
       "video_url": null,
@@ -161,8 +179,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/487-1-17fc2fc6e8ed-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/487-1-17fc2fc6e8ed-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/487-1-890e58f489a8-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/487-1-890e58f489a8-v4.jpg"
         }
       ],
       "video_url": null,
@@ -179,8 +197,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/486-1-53e3c7db6b60-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/486-1-53e3c7db6b60-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/486-1-079e698e1942-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/486-1-079e698e1942-v4.jpg"
         }
       ],
       "video_url": null,
@@ -197,8 +215,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/485-1-f150362c5625-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/485-1-f150362c5625-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/485-1-eb14d1d587bd-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/485-1-eb14d1d587bd-v4.jpg"
         }
       ],
       "video_url": null,
@@ -215,8 +233,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/484-1-6729d5910def-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/484-1-6729d5910def-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/484-1-01ce8aa5469a-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/484-1-01ce8aa5469a-v4.jpg"
         }
       ],
       "video_url": null,
@@ -228,13 +246,13 @@
       "date": "2026-04-29T07:32:29+00:00",
       "text": "📨 Еженедельный обзор Банкротство: Взгляд эксперта \n\nО новых событиях сферы банкротства с авторскими рекомендациями от Ю. Литовцевой в еженедельном обзоре Банкротство: Взгляд эксперта от команды практики банкротства и антикризисной защиты бизнеса! \n\nВ этом выпуске:\n\n🏠 Единственное ипотечное жилье не гарантирует «мировую» с банком\n\n💰 Компенсационное финансирование ≠ убытки\n\n🤵«Банкротный этикет»: залоговые требования погашаются первыми\n\n🚳 Запрет на выезд контролирующего лица – как доказать обоснованность? \n\nПодробности уже ожидают по ссылке!\n☕️ Приятного чтения!\n\n#Банкротство_взгляд_эксперта\n#Залог\n#Недействительность_сделок\n#Убытки\n#Субсидиарная_ответственность\n#Исковая_давность\n#Обеспечительные_меры\n#Требования_кредиторов\n#Процессуальные_вопросы",
       "text_html": "📨 Еженедельный обзор Банкротство: Взгляд эксперта <br><br>О новых событиях сферы банкротства с авторскими рекомендациями от Ю. Литовцевой в еженедельном обзоре Банкротство: Взгляд эксперта от команды <a href=\"https://www.pgplaw.ru/practice-and-industry/practices/bankruptcy/\" target=\"_blank\" rel=\"noopener noreferrer\">практики банкротства и антикризисной защиты бизнеса!</a> <br><br>В этом выпуске:<br><br>🏠 Единственное ипотечное жилье не гарантирует «мировую» с банком<br><br>💰 Компенсационное финансирование ≠ убытки<br><br>🤵«Банкротный этикет»: залоговые требования погашаются первыми<br><br>🚳 Запрет на выезд контролирующего лица – как доказать обоснованность? <br><br>Подробности уже ожидают по <a href=\"https://www.pgplaw.ru/analytics-and-brochures/bankruptcy-must-read/bankruptcy-digest-29-04-26/\" target=\"_blank\" rel=\"noopener noreferrer\">ссылке</a>!<br><a href=\"https://www.pgplaw.ru/analytics-and-brochures/bankruptcy-must-read/bankruptcy-must-read-26-11-25/\" target=\"_blank\" rel=\"noopener noreferrer\">☕️</a> Приятного чтения!<br><br>#Банкротство_взгляд_эксперта<br>#Залог<br>#Недействительность_сделок<br>#Убытки<br>#Субсидиарная_ответственность<br>#Исковая_давность<br>#Обеспечительные_меры<br>#Требования_кредиторов<br>#Процессуальные_вопросы",
-      "views": 337,
+      "views": 338,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/483-1-b7b951e0a25a-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/483-1-b7b951e0a25a-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/483-1-607e8158ff33-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/483-1-607e8158ff33-v4.jpg"
         }
       ],
       "video_url": null,
@@ -251,8 +269,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/482-1-1368c6c9299b-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/482-1-1368c6c9299b-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/482-1-92b31ee39753-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/482-1-92b31ee39753-v4.jpg"
         }
       ],
       "video_url": null,
@@ -269,8 +287,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/481-1-1d10308f7535-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/481-1-1d10308f7535-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/481-1-cf084fd0612f-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/481-1-cf084fd0612f-v4.jpg"
         }
       ],
       "video_url": null,
@@ -281,24 +299,6 @@
         "channel_username": "pgp_official",
         "channel_title": "Pepeliaev Group | Пепеляев Групп"
       }
-    },
-    {
-      "id": 480,
-      "date": "2026-04-27T08:38:37+00:00",
-      "text": "Аффилированный кредитор не может выбрать арбитражного управляющего ⚔️\n\nВладимир Гоппе, специалист практики банкротства и антикризисной защиты бизнеса, об ограничении права аффилированного кредитора предлагать кандидатуру арбитражного управляющего при инициировании банкротства на примере постановления АC Восточно-Сибирского округа.\n\n📖 Ситуация:\n\nКредитор инициировал банкротство компании и предложил кандидатуру временного управляющего.\nТребования кредитора основывались на решении суда в пользу другой компании (первоначального кредитора), которая уступила свои права требования к должнику.\n\n⚖️Позиция судов:\n\nСуды первой и апелляционной инстанций удовлетворяя заявление, исходили в т.ч. из того, что срок на предъявление исполнительного документа не истек. Его течение прерывалось предъявлением к исполнению первоначальным кредитором, что подтверждается распечатанными сведениями из банка исполнительных производств.\n\n❗️Но кассационный суд направил спор на новое рассмотрение в части, поскольку:\n\n📌 сведения о ранее возбужденных по этому решению исполнительных производствах в распечатке должника отсутствуют;\n📌в случае разночтений в документации, необходим первоисточник, то есть материалы исполнительного производства;\n📌 на момент рассмотрения кассационной жалобы признано обоснованным требование другого кредитора, поэтому нет оснований для отмены введенной процедуры наблюдения даже при допущенных нарушениях;\n📌 судебным актом, на котором основываются требования кредитора, установлена аффилированность должника и первоначального кредитора; следовательно, выбор кандидатуры управляющего нужно осуществлять случайной выборкой или по предложению независимого кредитора;\n📌 при новом рассмотрении возможно рассмотрение вопроса о субординации требования кредитора на основании аффилированности с должником.\n\n💬 Выводы: \n\nПраво выбора арбитражного управляющего принадлежит кредитору, который первым подаст в суд заявление о признании должника банкротом. Однако, в судебной практике устоялся подход, при котором управляющим в деле о банкротстве не может быть утверждено лицо, кандидатура которого предложена кредитором, аффилированным по отношению к должнику. \n\nТакой подход необходим для исключения введения в отношении должника процедуры контролируемого банкротства. При этом, достаточно подтвердить существенные и обоснованные сомнения в независимости управляющего. \n\n#Арбитражный_управляющий\n#Требования_кредиторов",
-      "text_html": "Аффилированный кредитор не может выбрать арбитражного управляющего ⚔️<br><br>Владимир Гоппе, специалист <a href=\"https://www.pgplaw.ru/practice-and-industry/practices/bankruptcy/\" target=\"_blank\" rel=\"noopener noreferrer\">практики банкротства и антикризисной защиты бизнеса</a>, об ограничении права аффилированного кредитора предлагать кандидатуру арбитражного управляющего при инициировании банкротства на примере <a href=\"https://ras.arbitr.ru/Document/Pdf/f08bbdd2-f969-4c4d-8de0-fe4ef0e1e81a/1604c080-a8f5-4742-89ba-70876530d074/%D0%9019-2623-2024__20260417.pdf?isAddStamp=True\" target=\"_blank\" rel=\"noopener noreferrer\">постановления АC Восточно-Сибирского округа</a>.<br><br>📖 Ситуация:<br><br>Кредитор инициировал банкротство компании и предложил кандидатуру временного управляющего.<br>Требования кредитора основывались на решении суда в пользу другой компании (первоначального кредитора), которая уступила свои права требования к должнику.<br><br>⚖️Позиция судов:<br><br>Суды первой и апелляционной инстанций удовлетворяя заявление, исходили в т.ч. из того, что срок на предъявление исполнительного документа не истек. Его течение прерывалось предъявлением к исполнению первоначальным кредитором, что подтверждается распечатанными сведениями из банка исполнительных производств.<br><br>❗️Но кассационный суд направил спор на новое рассмотрение в части, поскольку:<br><br>📌 сведения о ранее возбужденных по этому решению исполнительных производствах в распечатке должника отсутствуют;<br>📌в случае разночтений в документации, необходим первоисточник, то есть материалы исполнительного производства;<br>📌 на момент рассмотрения кассационной жалобы признано обоснованным требование другого кредитора, поэтому нет оснований для отмены введенной процедуры наблюдения даже при допущенных нарушениях;<br>📌 судебным актом, на котором основываются требования кредитора, установлена аффилированность должника и первоначального кредитора; следовательно, выбор кандидатуры управляющего нужно осуществлять случайной выборкой или по предложению независимого кредитора;<br>📌 при новом рассмотрении возможно рассмотрение вопроса о субординации требования кредитора на основании аффилированности с должником.<br><br>💬 Выводы: <br><br>Право выбора арбитражного управляющего принадлежит кредитору, который первым подаст в суд заявление о признании должника банкротом. Однако, в судебной практике устоялся подход, при котором управляющим в деле о банкротстве не может быть утверждено лицо, кандидатура которого предложена кредитором, аффилированным по отношению к должнику. <br><br>Такой подход необходим для исключения введения в отношении должника процедуры контролируемого банкротства. При этом, достаточно подтвердить существенные и обоснованные сомнения в независимости управляющего. <br><br>#Арбитражный_управляющий<br>#Требования_кредиторов",
-      "views": 320,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/480-1-0b380071b758-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/480-1-0b380071b758-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/bankrotstvo_mustknow/480",
-      "forwarded_from": null
     }
   ]
 }
