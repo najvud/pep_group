@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T09:44:51.934299+00:00",
+  "generated_at": "2026-07-06T13:34:21.130453+00:00",
   "pagination": {
     "page": 2,
     "page_size": 16,
@@ -110,8 +110,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1351-1-5b34b8247e4f-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1351-1-5b34b8247e4f-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1351-1-affe83018656-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1351-1-affe83018656-v4.jpg"
         }
       ],
       "video_url": null,
@@ -216,13 +216,13 @@
       "date": "2026-05-25T04:00:01+00:00",
       "text": "📣Подготовлены корректировки требований к автоматическим средствам измерения и учета показателей выбросов/сбросов загрязняющих веществ \n\nПроходит общественное обсуждение проект постановления Правительства РФ «О внесении изменений в постановление Правительства Российской Федерации от 29 мая 2025 г. № 778».\n\n#ПроектНПА",
       "text_html": "📣Подготовлены корректировки требований к автоматическим средствам измерения и учета показателей выбросов/сбросов загрязняющих веществ <br><br>Проходит общественное обсуждение <a href=\"https://regulation.gov.ru/projects/167205/\" target=\"_blank\" rel=\"noopener noreferrer\">проект постановления Правительства РФ</a> «О внесении изменений в постановление Правительства Российской Федерации от 29 мая 2025 г. № 778».<br><br>#ПроектНПА",
-      "views": 349,
+      "views": 350,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1344-1-c319510aa60f-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1344-1-c319510aa60f-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1344-1-8163f75d05bc-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1344-1-8163f75d05bc-v4.jpg"
         }
       ],
       "video_url": null,
