@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T04:29:04.908177+00:00",
+  "generated_at": "2026-07-07T08:00:32.027626+00:00",
   "site": {
     "channel_username": "PgAntitrust",
     "channel_title": "PG Antitrust | Антимонопольное право",
@@ -19,7 +19,7 @@
   "pagination": {
     "page": 1,
     "page_size": 16,
-    "total_posts": 39,
+    "total_posts": 37,
     "total_pages": 3
   },
   "posts": [
@@ -28,7 +28,7 @@
       "date": "2026-07-06T14:01:28+00:00",
       "text": "✏️ Итоги серии\n\nАнтимонопольное регулирование России и Китая построено на единых концептуальных основаниях: обе системы запрещают монопольные соглашения, злоупотребление доминированием и антиконкурентную концентрацию, а надзор ведут специализированные органы – ФАС и SAMR, прошедшие схожий путь объединения антимонопольной и тарифно-ценовой компетенции.\n\nНо различия в деталях значимы для практики: в КНР действует система специальных актов вместо единого «зонтичного» закона, шире перечень оснований допустимости соглашений, выше пороги коллективного доминирования, контроль сделок может распространяться и ниже формальных порогов, а судебное обжалование подчинено двухинстанционной системе без привычной российскому юристу кассации.\n\n❗️Для российского бизнеса, выходящего на китайский рынок, эти расхождения – не теоретический интерес, а вопрос стратегии. Их необходимо учитывать при структурировании трансграничной деятельности и оценке антимонопольных рисков.\n\n➡️ К началу серии постов про Китай\n\n🔖В «Пепеляев Групп» работает специализированная практика по правовому сопровождению китайских инвесторов в России, а также российских инвесторов, ведущих бизнес в Китае – подробнее...",
       "text_html": "✏️ Итоги серии<br><br>Антимонопольное регулирование России и Китая построено на единых концептуальных основаниях: обе системы запрещают монопольные соглашения, злоупотребление доминированием и антиконкурентную концентрацию, а надзор ведут специализированные органы – ФАС и SAMR, прошедшие схожий путь объединения антимонопольной и тарифно-ценовой компетенции.<br><br>Но различия в деталях значимы для практики: в КНР действует система специальных актов вместо единого «зонтичного» закона, шире перечень оснований допустимости соглашений, выше пороги коллективного доминирования, контроль сделок может распространяться и ниже формальных порогов, а судебное обжалование подчинено двухинстанционной системе без привычной российскому юристу кассации.<br><br>❗️Для российского бизнеса, выходящего на китайский рынок, эти расхождения – не теоретический интерес, а вопрос стратегии. Их необходимо учитывать при структурировании трансграничной деятельности и оценке антимонопольных рисков.<br><br>➡️ <a href=\"https://t.me/PgAntitrust/1415\" target=\"_blank\" rel=\"noopener noreferrer\">К началу серии постов про Китай</a><br><br>🔖В «Пепеляев Групп» работает специализированная практика по правовому сопровождению китайских инвесторов в России, а также российских инвесторов, ведущих бизнес в Китае – <a href=\"https://www.pgplaw.ru/geography-of-services/abroad/china/\" target=\"_blank\" rel=\"noopener noreferrer\">подробнее...</a>",
-      "views": 94,
+      "views": 103,
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
@@ -41,7 +41,7 @@
       "date": "2026-07-06T09:34:16+00:00",
       "text": "Ваше мнение и выводы серии\n\nМы разобрали обе системы – теперь интересно, что думаете вы.",
       "text_html": "Ваше мнение и выводы серии<br><br>Мы разобрали обе системы – теперь интересно, что думаете вы.",
-      "views": 111,
+      "views": 119,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
@@ -59,13 +59,13 @@
       "date": "2026-07-03T07:13:40+00:00",
       "text": "🇷🇺 или 🇨🇳? Проверьте ваши знания после серии постов\n\nШесть фактов об антимонопольном регулировании. Угадайте, к какой стране относится каждый. К каждому факту прикрепляем опрос в режиме «Викторина» – ответ подсветится сразу после голосования.",
       "text_html": "🇷🇺 или 🇨🇳? Проверьте ваши знания после <a href=\"https://t.me/PgAntitrust/1415\" target=\"_blank\" rel=\"noopener noreferrer\">серии постов</a><br><br>Шесть фактов об антимонопольном регулировании. Угадайте, к какой стране относится каждый. К каждому факту прикрепляем опрос в режиме «Викторина» – ответ подсветится сразу после голосования.",
-      "views": 166,
+      "views": 167,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1437-1-6d38f14952eb-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1437-1-6d38f14952eb-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1437-1-d1e3da6fa276-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1437-1-d1e3da6fa276-v4.jpg"
         }
       ],
       "video_url": null,
@@ -118,8 +118,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1434-1-f97686fbdc94-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1434-1-f97686fbdc94-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1434-1-9b0377fb0e0a-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1434-1-9b0377fb0e0a-v4.jpg"
         }
       ],
       "video_url": null,
@@ -136,8 +136,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1433-1-6d6274340f2f-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1433-1-6d6274340f2f-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1433-1-8bc21f920098-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1433-1-8bc21f920098-v4.jpg"
         }
       ],
       "video_url": null,
@@ -149,25 +149,25 @@
       "date": "2026-06-24T07:59:58+00:00",
       "text": "✏️ Постановление КС № 29-П: три правила для бизнеса\n\nКС установил временный порядок до тех пор, пока законодатель не внесет поправки.\n\nРазбираемся в карточках.\n\nА если вы пропустили первую часть этой истории, то вот ссылка...\n\n🟧Помогаем выстроить стратегию защиты в антимонопольных административных делах",
       "text_html": "✏️ Постановление КС № 29-П: три правила для бизнеса<br><br>КС установил временный порядок до тех пор, пока законодатель не внесет поправки.<br><br>Разбираемся в карточках.<br><br>А если вы пропустили первую часть этой истории, <a href=\"https://t.me/PgAntitrust/1423\" target=\"_blank\" rel=\"noopener noreferrer\">то вот ссылка...</a><br><br>🟧<a href=\"https://www.pgplaw.ru/practice-and-industry/practices/antitrust-regulation/\" target=\"_blank\" rel=\"noopener noreferrer\">Помогаем выстроить стратегию защиты</a> в антимонопольных административных делах",
-      "views": 308,
+      "views": 309,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1429-1-e1c3a6c1a182-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1429-1-e1c3a6c1a182-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1429-1-a2670a9c15ee-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1429-1-a2670a9c15ee-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1429-2-ab49408d30a3-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1429-2-ab49408d30a3-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1429-2-9825f281fffa-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1429-2-9825f281fffa-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1429-3-8143d46fdd38-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1429-3-8143d46fdd38-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1429-3-76f13ccdf1e6-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1429-3-76f13ccdf1e6-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1429-4-f7a108e92c90-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1429-4-f7a108e92c90-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1429-4-72c2df1efd12-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1429-4-72c2df1efd12-v4.jpg"
         }
       ],
       "video_url": null,
