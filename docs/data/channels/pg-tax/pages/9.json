@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-07-07T08:01:13.545259+00:00",
+  "generated_at": "2026-07-07T11:18:57.742755+00:00",
   "pagination": {
     "page": 9,
     "page_size": 16,
-    "total_posts": 156,
+    "total_posts": 157,
     "total_pages": 10
   },
   "posts": [
+    {
+      "id": 2607,
+      "date": "2026-04-23T07:58:37+00:00",
+      "text": "✍️ Нормотворчество\n \nРСПП планирует сформулировать запросы бизнес-сообщества по донастройке налогового стимулирования расходов бизнеса на НИОКР, идентифицировать существующие подходи и выявить их преимущества и «узкие места, а также формулировать на основе проведенного анализа предложения.\n \n⚖️ Судебные дела\n \n🔴КС РФ: норма абз. 2 п. 2 ст. 217.1 НК РФ (о том, как считать минимальный срок владения) признана частично неконституционной, льготы по НДФЛ на доходы при продаже жилья должны распространяться на всех, кто был переселен помимо своей воли (Постановление от 22.04.2026 № 26-П/2026 по жалобе гр. А. Догарь). \n\nЗаявитель оспаривала конституционность нормы об особых правилах расчета срока владения жильем, предоставленным по программе реновации в Москве. Она считала, что это нарушает принцип равенства перед законом для тех, кто был переселен в других регионах. До внесения изменений в НК РФ судам следует руководствоваться этим решением.\n \n🔴Сегодня с 10.00 мск онлайн-трансляция слушания дела в КС РФ по утильсбору.\n \n🔴ВС РФ разрешил спор о налогообложении дарения коммерческой недвижимости между близкими родственниками: получение в дар такой недвижимости не облагается НДФЛ, даже если объекты используются в предпринимательской деятельности, а стороны сделки имеют статус ИП (дело № А50-28917/2023).\n\n#главные_налоговые_новости",
+      "text_html": "✍️ Нормотворчество<br> <br>РСПП <a href=\"https://rspp.ru/events/news/ekspertnaya-diskussiya-o-podderzhke-niokr-v-interesakh-biznesa-69e8a33778995/\" target=\"_blank\" rel=\"noopener noreferrer\">планирует</a> сформулировать запросы бизнес-сообщества по донастройке налогового стимулирования расходов бизнеса на НИОКР, идентифицировать существующие подходи и выявить их преимущества и «узкие места, а также формулировать на основе проведенного анализа предложения.<br> <br>⚖️ Судебные дела<br> <br>🔴КС РФ: норма абз. 2 п. 2 ст. 217.1 НК РФ (о том, как считать минимальный срок владения) <a href=\"https://rg.ru/2026/04/22/renovaciia-v-glubinke.html\" target=\"_blank\" rel=\"noopener noreferrer\">признана</a> частично неконституционной, льготы по НДФЛ на доходы при продаже жилья <a href=\"https://www.ksrf.ru/news/38021/\" target=\"_blank\" rel=\"noopener noreferrer\">должны</a> распространяться на всех, кто был переселен помимо своей воли (Постановление от 22.04.2026 № 26-П/2026 по жалобе гр. А. Догарь). <br><br>Заявитель <a href=\"https://www.vedomosti.ru/society/articles/2026/04/23/1192401-konstitutsionnii-sud-opredelil-poryadok-podscheta-sroka-vladeniya-zhilem\" target=\"_blank\" rel=\"noopener noreferrer\">оспаривала</a> конституционность нормы об особых правилах расчета срока владения жильем, предоставленным по программе реновации в Москве. Она считала, что это нарушает принцип равенства перед законом для тех, кто был переселен в других регионах. До внесения изменений в НК РФ судам следует руководствоваться этим решением.<br> <br>🔴Сегодня с 10.00 мск <a href=\"https://medias.ksrf.ru/spb/embed.html\" target=\"_blank\" rel=\"noopener noreferrer\">онлайн-трансляция</a> слушания дела в КС РФ по утильсбору.<br> <br>🔴ВС РФ <a href=\"https://www.kommersant.ru/doc/8607461?query=%D0%BD%D0%B0%D0%BB%D0%BE%D0%B3\" target=\"_blank\" rel=\"noopener noreferrer\">разрешил</a> спор о налогообложении дарения коммерческой недвижимости между близкими родственниками: получение в дар такой недвижимости не облагается НДФЛ, даже если объекты используются в предпринимательской деятельности, а стороны сделки имеют статус ИП (<a href=\"https://nalogoved.ru/buduschie-pretsedenti/16393.html\" target=\"_blank\" rel=\"noopener noreferrer\">дело</a> № <a href=\"https://kad.arbitr.ru/card/16035677-f58b-4c9f-9541-b96f6831da30\" target=\"_blank\" rel=\"noopener noreferrer\">А50-28917/2023</a>).<br><br>#главные_налоговые_новости",
+      "views": 966,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2607-1-0fda2bf13d5c-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2607-1-0fda2bf13d5c-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/PG_Tax/2607",
+      "forwarded_from": null
+    },
     {
       "id": 2606,
       "date": "2026-04-22T11:00:42+00:00",
@@ -17,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2606-1-32e120113728-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2606-1-32e120113728-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2606-1-1f0e1f823877-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2606-1-1f0e1f823877-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +53,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2605-1-9d78953b5249-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2605-1-9d78953b5249-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2605-1-274071d3fc38-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2605-1-274071d3fc38-v4.jpg"
         }
       ],
       "video_url": null,
@@ -53,8 +71,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2604-1-08ad0defaaf1-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2604-1-08ad0defaaf1-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2604-1-51ca6dd0d683-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2604-1-51ca6dd0d683-v4.jpg"
         }
       ],
       "video_url": null,
@@ -71,8 +89,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2603-1-dbaf118f30cc-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2603-1-dbaf118f30cc-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2603-1-7b6f100219f3-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2603-1-7b6f100219f3-v4.jpg"
         }
       ],
       "video_url": null,
@@ -107,8 +125,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2601-1-fe6794808ef7-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2601-1-fe6794808ef7-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2601-1-a4877d856557-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2601-1-a4877d856557-v4.jpg"
         }
       ],
       "video_url": null,
@@ -125,8 +143,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2600-1-6e0ff6bf5beb-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2600-1-6e0ff6bf5beb-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2600-1-14db0b709305-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2600-1-14db0b709305-v4.jpg"
         }
       ],
       "video_url": null,
@@ -143,8 +161,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2599-1-5c25fd4618af-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2599-1-5c25fd4618af-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2599-1-bfd1a45c7f1b-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2599-1-bfd1a45c7f1b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -166,8 +184,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2598-1-e207040a33c9-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2598-1-e207040a33c9-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2598-1-d51a79bda8be-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2598-1-d51a79bda8be-v4.jpg"
         }
       ],
       "video_url": null,
@@ -184,8 +202,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2597-1-81a88776b360-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2597-1-81a88776b360-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2597-1-938ca7ae71d2-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2597-1-938ca7ae71d2-v4.jpg"
         }
       ],
       "video_url": null,
@@ -214,7 +232,7 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/f38c492795.mp4?token=HRiAmOCsk9RIpcWekRgrL-hKbbM2h5WlACuvTbvcfEWgUKkh8bQd8hNXafatz3-51W410PiJmz4mxpe6WaVceQPC1sRbLYugtGb34SIQHsBkQrpN3C7Tfq5UvbEN3-kOCZsqsZSglhnWKCiwNMRw5RvZ7NudSsxB28d4SlDOdvj3TZKcTuChOJbIaYFVcV4c0rrTKtcbawTsxtjtj-OmYnPDZRfaKcO5SE99SPP_WRWrAp2BxVypw9lqAo6Jf7nc9Xvk6W8D0pyvMSYpojTsgbUj2uNadxHZxLpwLh5P2Fu6ItTQuUoek_8wiVy4B9P5kOOgHx54s9tP5eEU_yCyXg",
+      "video_url": "https://cdn4.telesco.pe/file/f38c492795.mp4?token=c05NVr_sgHBrDe-jUBznIqMq-HXN2TfXcmHKVqTPefVP0AwqiKQLdvbPVhAh-DXnf63C9k6QY4LaNwvNYmU6O3LPAivug7iUyCFAg8Df5f51J0B3FXqiBnt1_MlvBdqPZDHt3p1tQtJe1QPCrajHTBC8NPUa2rTEwdupysbMX6ZwA-_fKy2uBZkUq3KTFs9V-4EyZOCQeEmOf2zpCjGxvpEPm9NbcCLaCBcwyFL2ImbxGcjQbtKMI9cbKvj3Yr93eN4trZdkaO6YXmxtATiS2G7_RRuCSO2Oav_5xvYohCiakLuFJ5ciM50Dp1vtoHfas3FJ0ygthQfcj6oEnZSmOw",
       "tg_url": "https://t.me/PG_Tax/2595",
       "forwarded_from": null
     },
@@ -228,8 +246,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2594-1-e222c8f8212b-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2594-1-e222c8f8212b-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2594-1-05fa8cac5f17-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2594-1-05fa8cac5f17-v4.jpg"
         }
       ],
       "video_url": null,
@@ -246,8 +264,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2593-1-586e28774cd1-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2593-1-586e28774cd1-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2593-1-a6c51563d3f2-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2593-1-a6c51563d3f2-v4.jpg"
         }
       ],
       "video_url": null,
@@ -264,30 +282,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2592-1-001d8db9a573-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2592-1-001d8db9a573-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2592-1-84856e620453-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2592-1-84856e620453-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/PG_Tax/2592",
-      "forwarded_from": null
-    },
-    {
-      "id": 2591,
-      "date": "2026-04-14T10:01:38+00:00",
-      "text": "⚖️ Приговор Артёму Чекалину за валютные операции с подложными документами\n\n«Лёгким движением руки уклонение превращается… превращается уклонение…  в валютные операции с подложными документами!»\n\nПриговор блогеру Артёму Чекалину комментируют партнер «Пепеляев Групп» Леонид Кравчинский и советник Алёна Каныгина.\n\n💬 Вчера Гагаринский районный суд Москвы вынес приговор Артёму Чекалину - бывшему супругу блогера Лерчек (Валерии Чекалиной).\n\nСуд признал Артёма Чекалина виновным по ст. 193.1 УК РФ (совершение валютных операций с использованием подложных документов) и назначил ему 7 лет колонии общего режима со штрафом в размере 194,5 млн руб., взяв его под стражу в зале суда.\n\n🔍 Фабула дела\n\nВ период с сентября 2021 по февраль 2022 года супруги организовали фитнес-марафон «Идеальное тело». \n\nПо версии обвинения (из информации прокуратуры Москвы и СМИ), договоры с клиентами заключались через иностранную компанию в ОАЭ, переводы оформлялись как оплата информационных услуг, об открытии зарубежных счетов налоговые органы уведомлены не были.\n\n💰 За рубеж, по версии обвинения, было выведено по подложным документам 251,6 млн руб.\n\nПод подложными документами ст. 193.1 УК РФ понимает документы, содержащие заведомо недостоверные сведения об основаниях, о целях и назначении перевода.\n \n📑 Контекст\n\nНа протяжении 2023-2024 г.г. в отношении супругов Чекалиных расследовались дела об уклонении от уплаты налогов с деятельности, связанной с организацией фитнес-марафонов, и легализации средств.\n\n📣 Эти дела были прекращены после погашения задолженности перед налоговыми органами на 505 млн руб.\n\nОднако вскоре было возбуждено уголовное дело за валютные операции с подложными документами при продаже марафонов.\n\n🛑 Важно\n\nНалоговые органы являются органами валютного контроля. При выявлении валютных операций с подложными документами они передают материалы в следственные органы для решения вопроса о возбуждении уголовного дела по ст. 193.1 УК РФ (Письмо ФНС России от 10.01.2024 г. № Д-5-17/1@).\n\nПодобные операции могут быть выявлены налоговыми органами как при валютных проверках, так и при проведении мероприятий налогового контроля.\n\nПод документами, связанными с проведением валютных операций, которые оценивают на предмет достоверности сведений, понимают при этом, в том числе, договоры, дополнения или изменения к ним.\n\n☝️ Практический вывод \n\nСпорные валютные операции могут нести угрозу превращения налоговой проверки в уголовное дело по валютным нарушениям.\n\nВажно внимательно относиться к валютным платежам и проводить критическую оценку сделок ещё до того, как их проверит налоговый орган. \n\n#заметки_защитника\n\n➖➖\n📧 Если Ваша деятельность связана с платежами за границу, Вам может потребоваться оценка безопасности сделок. Напишите Леониду Кравчинскому: l.kravchinsky@pgplaw.ru",
-      "text_html": "⚖️ Приговор Артёму Чекалину за валютные операции с подложными документами<br><br>«Лёгким движением руки уклонение превращается… превращается уклонение…  в валютные операции с подложными документами!»<br><br>Приговор блогеру Артёму Чекалину комментируют партнер «Пепеляев Групп» <a href=\"https://www.pgplaw.ru/to-get-the-team/leonid-kravchinskiy/\" target=\"_blank\" rel=\"noopener noreferrer\">Леонид Кравчинский</a> и советник <a href=\"https://www.pgplaw.ru/to-get-the-team/kanygina/\" target=\"_blank\" rel=\"noopener noreferrer\">Алёна Каныгина.</a><br><br>💬 Вчера Гагаринский районный суд Москвы вынес приговор Артёму Чекалину - бывшему супругу блогера Лерчек (Валерии Чекалиной).<br><br>Суд признал Артёма Чекалина виновным по ст. 193.1 УК РФ (совершение валютных операций с использованием подложных документов) и назначил ему 7 лет колонии общего режима со штрафом в размере 194,5 млн руб., взяв его под стражу в зале суда.<br><br>🔍 Фабула дела<br><br>В период с сентября 2021 по февраль 2022 года супруги организовали фитнес-марафон «Идеальное тело». <br><br>По версии обвинения (из информации <a href=\"https://epp.genproc.gov.ru/ru/proc_77/mass-media/news/main/e8460357/\" target=\"_blank\" rel=\"noopener noreferrer\">прокуратуры</a> Москвы и <a href=\"https://www.rbc.ru/society/13/04/2026/69dc8ec79a7947390f319733\" target=\"_blank\" rel=\"noopener noreferrer\">СМИ</a>), договоры с клиентами заключались через иностранную компанию в ОАЭ, переводы оформлялись как оплата информационных услуг, об открытии зарубежных счетов налоговые органы уведомлены не были.<br><br>💰 За рубеж, по версии обвинения, было выведено по подложным документам 251,6 млн руб.<br><br>Под подложными документами ст. 193.1 УК РФ понимает документы, содержащие заведомо недостоверные сведения об основаниях, о целях и назначении перевода.<br> <br>📑 Контекст<br><br>На протяжении 2023-2024 г.г. в отношении супругов Чекалиных расследовались дела об уклонении от уплаты налогов с деятельности, связанной с организацией фитнес-марафонов, и легализации средств.<br><br>📣 Эти дела были прекращены после погашения задолженности перед налоговыми органами на 505 млн руб.<br><br>Однако вскоре было возбуждено уголовное дело за валютные операции с подложными документами при продаже марафонов.<br><br>🛑 Важно<br><br>Налоговые органы являются органами валютного контроля. При выявлении валютных операций с подложными документами они передают материалы в следственные органы для решения вопроса о возбуждении уголовного дела по ст. 193.1 УК РФ (Письмо ФНС России от 10.01.2024 г. № Д-5-17/1@).<br><br>Подобные операции могут быть выявлены налоговыми органами как при валютных проверках, так и при проведении мероприятий налогового контроля.<br><br>Под документами, связанными с проведением валютных операций, которые оценивают на предмет достоверности сведений, понимают при этом, в том числе, договоры, дополнения или изменения к ним.<br><br>☝️ Практический вывод <br><br>Спорные валютные операции могут нести угрозу превращения налоговой проверки в уголовное дело по валютным нарушениям.<br><br>Важно внимательно относиться к валютным платежам и проводить критическую оценку сделок ещё до того, как их проверит налоговый орган. <br><br>#заметки_защитника<br><br>➖➖<br>📧 Если Ваша деятельность связана с платежами за границу, Вам может потребоваться оценка безопасности сделок. Напишите Леониду Кравчинскому: l.kravchinsky@pgplaw.ru",
-      "views": 2220,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2591-1-89f7e0c40c96-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2591-1-89f7e0c40c96-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2591",
       "forwarded_from": null
     }
   ]
