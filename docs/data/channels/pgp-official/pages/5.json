@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-07-08T09:34:44.423004+00:00",
+  "generated_at": "2026-07-08T11:27:18.182506+00:00",
   "pagination": {
     "page": 5,
     "page_size": 16,
-    "total_posts": 81,
+    "total_posts": 82,
     "total_pages": 6
   },
   "posts": [
+    {
+      "id": 1824,
+      "date": "2026-05-06T12:59:58+00:00",
+      "text": "💻 Телекоммуникации, медиа, ИТ, персональные данные: дайджест\n\nВ обзоре собрали ключевые законодательные инициативы, регуляторные тренды, судебную практику и события отрасли.\n\nГлавные новости:\n\n🔘утвержден порядок заключения образовательных соглашений для ИТ-организаций;\n\n🔘резиденты «Сколково» смогут сохранить льготную ИТ ипотеку; \n\n🔘Роскомнадзор выявил 284 млн активных SIM карт и 42 тыс. нарушителей установленного лимита; \n\n🔘Роскомнадзор аннулировал 1967 лицензий операторов связи.\n\n👉 Какие изменения могут повлиять на бизнес, и на что стоит обратить внимание компаниям – читайте по ссылке.",
+      "text_html": "💻 Телекоммуникации, медиа, ИТ, персональные данные: дайджест<br><br>В обзоре собрали ключевые законодательные инициативы, регуляторные тренды, судебную практику и события отрасли.<br><br>Главные новости:<br><br>🔘утвержден порядок заключения образовательных соглашений для ИТ-организаций;<br><br>🔘резиденты «Сколково» смогут сохранить льготную ИТ ипотеку; <br><br>🔘Роскомнадзор выявил 284 млн активных SIM карт и 42 тыс. нарушителей установленного лимита; <br><br>🔘Роскомнадзор аннулировал 1967 лицензий операторов связи.<br><br>👉 Какие изменения могут повлиять на бизнес, и на что стоит обратить внимание компаниям – <a href=\"https://www.pgplaw.ru/analytics-and-brochures/telecom-digest/telecom-digest-05-05-26/\" target=\"_blank\" rel=\"noopener noreferrer\">читайте по ссылке</a>.",
+      "views": 796,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1824-1-f31c1f66ed65-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1824-1-f31c1f66ed65-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/pgp_official/1824",
+      "forwarded_from": null
+    },
     {
       "id": 1823,
       "date": "2026-05-06T09:59:58+00:00",
@@ -17,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1823-1-a68599c1a7ee-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1823-1-a68599c1a7ee-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1823-1-e7a2c396fd48-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1823-1-e7a2c396fd48-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,20 +53,20 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1819-1-9589a5e62248-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1819-1-9589a5e62248-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1819-1-038b2ce38814-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1819-1-038b2ce38814-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1819-2-506dd24c9006-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1819-2-506dd24c9006-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1819-2-7c5d0c53c363-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1819-2-7c5d0c53c363-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1819-3-4d6a8f417bdc-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1819-3-4d6a8f417bdc-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1819-3-fa4bc969415b-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1819-3-fa4bc969415b-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1819-4-024a9157c5d4-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1819-4-024a9157c5d4-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1819-4-347909d1332d-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1819-4-347909d1332d-v4.jpg"
         }
       ],
       "video_url": null,
@@ -65,8 +83,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1818-1-a040443e6ac0-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1818-1-a040443e6ac0-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1818-1-0efefaee0445-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1818-1-0efefaee0445-v4.jpg"
         }
       ],
       "video_url": null,
@@ -83,8 +101,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1817-1-274c9427b3d5-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1817-1-274c9427b3d5-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1817-1-bfa6fa5bb001-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1817-1-bfa6fa5bb001-v4.jpg"
         }
       ],
       "video_url": null,
@@ -105,8 +123,8 @@
           "full_url": "data/channels/pgp-official/media/posts/1815-1-1e77ef387e00-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1815-2-4e9b05b1818f-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1815-2-4e9b05b1818f-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1815-2-96d78a281b7c-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1815-2-96d78a281b7c-v4.jpg"
         }
       ],
       "video_url": null,
@@ -123,8 +141,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1814-1-b9316cb39452-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1814-1-b9316cb39452-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1814-1-1793a91841b9-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1814-1-1793a91841b9-v4.jpg"
         }
       ],
       "video_url": null,
@@ -159,8 +177,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1812-1-4848345e416a-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1812-1-4848345e416a-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1812-1-ad6c233052b4-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1812-1-ad6c233052b4-v4.jpg"
         }
       ],
       "video_url": null,
@@ -177,8 +195,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1811-1-4ac021874ee5-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1811-1-4ac021874ee5-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1811-1-989ad0b04c55-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1811-1-989ad0b04c55-v4.jpg"
         }
       ],
       "video_url": null,
@@ -195,8 +213,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1810-1-d8900ee50d25-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1810-1-d8900ee50d25-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1810-1-8568ede07bed-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1810-1-8568ede07bed-v4.jpg"
         }
       ],
       "video_url": null,
@@ -213,8 +231,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1809-1-8d847d6f228b-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1809-1-8d847d6f228b-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1809-1-38a0a02c14b3-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1809-1-38a0a02c14b3-v4.jpg"
         }
       ],
       "video_url": null,
@@ -226,13 +244,13 @@
       "date": "2026-04-16T10:04:59+00:00",
       "text": "🏢 Еженедельная подборка обзоров от практик «Пепеляев Групп»\n\nЧто изменилось за последнюю неделю, и на что стоит обратить внимание бизнесу?\n \n▫️ Недвижимость и строительство: обзор новостей от 9 апреля 2026 г.\n\n▫️ Налоговые новости. Дайджест за 6–12 апреля 2026 г.\n\n▫️ СпецИнвестРежимы в Сибири и на Дальнем Востоке. Дайджест 6–12 апреля 2026 г.\n\n▫️ Банкротство: взгляд эксперта. Обзор № 316 за 9–15 апреля 2026 г.\n\nСмотрите новое видео:\n\n🔘 Защита личных активов в банкротстве: семейные и наследственные вопросы \nVK | Rutube | YouTube\n\n\n#pg_обзоры_недели\n\n☝️ Подписаться на рассылки | MAX | Приложение PG",
       "text_html": "🏢 Еженедельная подборка обзоров от практик «Пепеляев Групп»<br><br>Что изменилось за последнюю неделю, и на что стоит обратить внимание бизнесу?<br> <br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/real-estate-must-read/Real-estate-must-read-10-04-25/\" target=\"_blank\" rel=\"noopener noreferrer\">Недвижимость и строительство: обзор новостей от 9 апреля 2026 г.</a><br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/tax-reviews/tax-news-digest-13-04-26/\" target=\"_blank\" rel=\"noopener noreferrer\">Налоговые новости. Дайджест за 6–12 апреля 2026 г.</a><br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/spec-invest-obzor/invest-news-digest-26-04-13/\" target=\"_blank\" rel=\"noopener noreferrer\">СпецИнвестРежимы в Сибири и на Дальнем Востоке. Дайджест 6–12 апреля 2026 г.</a><br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/bankruptcy-must-read/bankruptcy-digest-15-04-26/\" target=\"_blank\" rel=\"noopener noreferrer\">Банкротство: взгляд эксперта. Обзор № 316 за 9–15 апреля 2026 г.</a><br><br>Смотрите новое видео:<br><br>🔘 Защита личных активов в банкротстве: семейные и наследственные вопросы <br><a href=\"https://vkvideo.ru/video-227047542_456239408\" target=\"_blank\" rel=\"noopener noreferrer\">VK |</a> <a href=\"https://rutube.ru/video/6d5bd9b6cef4e07e540ffedd46e33be3/\" target=\"_blank\" rel=\"noopener noreferrer\">Rutube |</a> <a href=\"https://youtu.be/-tPi9_SYKmE?si=X6rTCA6qRyBumkyA\" target=\"_blank\" rel=\"noopener noreferrer\">YouTube</a><br><br><br>#pg_обзоры_недели<br><br>☝️ <a href=\"https://www.pgplaw.ru/subscribe/\" target=\"_blank\" rel=\"noopener noreferrer\">Подписаться на рассылки |</a> <a href=\"https://max.ru/id7707301372_biz\" target=\"_blank\" rel=\"noopener noreferrer\">MAX |</a> <a href=\"https://t.me/pgp_official/1769\" target=\"_blank\" rel=\"noopener noreferrer\">Приложение PG</a>",
-      "views": 959,
+      "views": 960,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1808-1-6248fc72afce-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1808-1-6248fc72afce-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1808-1-63a77936b773-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1808-1-63a77936b773-v4.jpg"
         }
       ],
       "video_url": null,
@@ -244,13 +262,13 @@
       "date": "2026-04-14T12:24:52+00:00",
       "text": "⚖️ Приговор Артёму Чекалину за валютные операции с подложными документами\n\n«Лёгким движением руки уклонение превращается… превращается уклонение…  в валютные операции с подложными документами!»\n\nПриговор блогеру Артёму Чекалину комментируют партнер «Пепеляев Групп» Леонид Кравчинский и советник Алёна Каныгина.\n\n💬 Вчера Гагаринский районный суд Москвы вынес приговор Артёму Чекалину - бывшему супругу блогера Лерчек (Валерии Чекалиной).\n\nСуд признал Артёма Чекалина виновным по ст. 193.1 УК РФ (совершение валютных операций с использованием подложных документов) и назначил ему 7 лет колонии общего режима со штрафом в размере 194,5 млн руб., взяв его под стражу в зале суда.\n\n🔍 Фабула дела\n\nВ период с сентября 2021 по февраль 2022 года супруги организовали фитнес-марафон «Идеальное тело». \n\nПо версии обвинения (из информации прокуратуры Москвы и СМИ), договоры с клиентами заключались через иностранную компанию в ОАЭ, переводы оформлялись как оплата информационных услуг, об открытии зарубежных счетов налоговые органы уведомлены не были.\n\n💰 За рубеж, по версии обвинения, было выведено по подложным документам 251,6 млн руб.\n\nПод подложными документами ст. 193.1 УК РФ понимает документы, содержащие заведомо недостоверные сведения об основаниях, о целях и назначении перевода.\n \n📑 Контекст\n\nНа протяжении 2023-2024 г.г. в отношении супругов Чекалиных расследовались дела об уклонении от уплаты налогов с деятельности, связанной с организацией фитнес-марафонов, и легализации средств.\n\n📣 Эти дела были прекращены после погашения задолженности перед налоговыми органами на 505 млн руб.\n\nОднако вскоре было возбуждено уголовное дело за валютные операции с подложными документами при продаже марафонов.\n\n🛑 Важно\n\nНалоговые органы являются органами валютного контроля. При выявлении валютных операций с подложными документами они передают материалы в следственные органы для решения вопроса о возбуждении уголовного дела по ст. 193.1 УК РФ (Письмо ФНС России от 10.01.2024 г. № Д-5-17/1@).\n\nПодобные операции могут быть выявлены налоговыми органами как при валютных проверках, так и при проведении мероприятий налогового контроля.\n\nПод документами, связанными с проведением валютных операций, которые оценивают на предмет достоверности сведений, понимают при этом, в том числе, договоры, дополнения или изменения к ним.\n\n☝️ Практический вывод \n\nСпорные валютные операции могут нести угрозу превращения налоговой проверки в уголовное дело по валютным нарушениям.\n\nВажно внимательно относиться к валютным платежам и проводить критическую оценку сделок ещё до того, как их проверит налоговый орган. \n\n#заметки_защитника\n\n➖➖\n📧 Если Ваша деятельность связана с платежами за границу, Вам может потребоваться оценка безопасности сделок. Напишите Леониду Кравчинскому: l.kravchinsky@pgplaw.ru",
       "text_html": "⚖️ Приговор Артёму Чекалину за валютные операции с подложными документами<br><br>«Лёгким движением руки уклонение превращается… превращается уклонение…  в валютные операции с подложными документами!»<br><br>Приговор блогеру Артёму Чекалину комментируют партнер «Пепеляев Групп» <a href=\"https://www.pgplaw.ru/to-get-the-team/leonid-kravchinskiy/\" target=\"_blank\" rel=\"noopener noreferrer\">Леонид Кравчинский</a> и советник <a href=\"https://www.pgplaw.ru/to-get-the-team/kanygina/\" target=\"_blank\" rel=\"noopener noreferrer\">Алёна Каныгина.</a><br><br>💬 Вчера Гагаринский районный суд Москвы вынес приговор Артёму Чекалину - бывшему супругу блогера Лерчек (Валерии Чекалиной).<br><br>Суд признал Артёма Чекалина виновным по ст. 193.1 УК РФ (совершение валютных операций с использованием подложных документов) и назначил ему 7 лет колонии общего режима со штрафом в размере 194,5 млн руб., взяв его под стражу в зале суда.<br><br>🔍 Фабула дела<br><br>В период с сентября 2021 по февраль 2022 года супруги организовали фитнес-марафон «Идеальное тело». <br><br>По версии обвинения (из информации <a href=\"https://epp.genproc.gov.ru/ru/proc_77/mass-media/news/main/e8460357/\" target=\"_blank\" rel=\"noopener noreferrer\">прокуратуры</a> Москвы и <a href=\"https://www.rbc.ru/society/13/04/2026/69dc8ec79a7947390f319733\" target=\"_blank\" rel=\"noopener noreferrer\">СМИ</a>), договоры с клиентами заключались через иностранную компанию в ОАЭ, переводы оформлялись как оплата информационных услуг, об открытии зарубежных счетов налоговые органы уведомлены не были.<br><br>💰 За рубеж, по версии обвинения, было выведено по подложным документам 251,6 млн руб.<br><br>Под подложными документами ст. 193.1 УК РФ понимает документы, содержащие заведомо недостоверные сведения об основаниях, о целях и назначении перевода.<br> <br>📑 Контекст<br><br>На протяжении 2023-2024 г.г. в отношении супругов Чекалиных расследовались дела об уклонении от уплаты налогов с деятельности, связанной с организацией фитнес-марафонов, и легализации средств.<br><br>📣 Эти дела были прекращены после погашения задолженности перед налоговыми органами на 505 млн руб.<br><br>Однако вскоре было возбуждено уголовное дело за валютные операции с подложными документами при продаже марафонов.<br><br>🛑 Важно<br><br>Налоговые органы являются органами валютного контроля. При выявлении валютных операций с подложными документами они передают материалы в следственные органы для решения вопроса о возбуждении уголовного дела по ст. 193.1 УК РФ (Письмо ФНС России от 10.01.2024 г. № Д-5-17/1@).<br><br>Подобные операции могут быть выявлены налоговыми органами как при валютных проверках, так и при проведении мероприятий налогового контроля.<br><br>Под документами, связанными с проведением валютных операций, которые оценивают на предмет достоверности сведений, понимают при этом, в том числе, договоры, дополнения или изменения к ним.<br><br>☝️ Практический вывод <br><br>Спорные валютные операции могут нести угрозу превращения налоговой проверки в уголовное дело по валютным нарушениям.<br><br>Важно внимательно относиться к валютным платежам и проводить критическую оценку сделок ещё до того, как их проверит налоговый орган. <br><br>#заметки_защитника<br><br>➖➖<br>📧 Если Ваша деятельность связана с платежами за границу, Вам может потребоваться оценка безопасности сделок. Напишите Леониду Кравчинскому: l.kravchinsky@pgplaw.ru",
-      "views": 962,
+      "views": 963,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1807-1-a405803e178d-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1807-1-a405803e178d-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1807-1-49e945cc536b-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1807-1-49e945cc536b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -290,54 +308,16 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1804-1-6e9f8a59c72f-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1804-1-6e9f8a59c72f-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1804-1-9cfa27834a21-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1804-1-9cfa27834a21-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1804-2-8bdc9fed1ac7-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1804-2-8bdc9fed1ac7-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1804-2-57ef3ed50148-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1804-2-57ef3ed50148-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/pgp_official/1804",
-      "forwarded_from": null
-    },
-    {
-      "id": 1798,
-      "date": "2026-04-10T14:58:40+00:00",
-      "text": "⭐️ «Пепеляев Групп» в рейтинге юридических компаний и юристов «Коммерсантъ»\n\nЮридическая компания «Пепеляев Групп» вновь подтвердила позиции в ежегодном рейтинге лучших юридических практик и юристов России, опубликованном газетой «Коммерсантъ» по итогам 2026 года.\n\nПо сравнению с предыдущим годом компания расширила свое присутствие в исследовании. \n\nБлагодарим организаторов рейтинга «Коммерсантъ» за проделанную работу.\n\n👉 Рассказываем о ключевых результатах в карточках и на сайте.\n\n🏢 Подписаться на рассылки | MAX | Приложение PG",
-      "text_html": "⭐️ «Пепеляев Групп» в рейтинге юридических компаний и юристов «Коммерсантъ»<br><br>Юридическая компания «Пепеляев Групп» вновь подтвердила позиции в <a href=\"https://www.kommersant.ru/doc/8572366\" target=\"_blank\" rel=\"noopener noreferrer\">ежегодном рейтинге</a> лучших юридических практик и юристов России, опубликованном газетой «Коммерсантъ» по итогам 2026 года.<br><br>По сравнению с предыдущим годом компания расширила свое присутствие в исследовании. <br><br>Благодарим организаторов рейтинга «Коммерсантъ» за проделанную работу.<br><br>👉 Рассказываем о ключевых результатах в карточках и <a href=\"https://www.pgplaw.ru/news/press-releases/pepelyaev-grupp-v-reytinge-yuridicheskikh-kompaniy-i-yuristov-kommersant2026/\" target=\"_blank\" rel=\"noopener noreferrer\">на сайте.</a><br><br>🏢 <a href=\"https://www.pgplaw.ru/subscribe/\" target=\"_blank\" rel=\"noopener noreferrer\">Подписаться на рассылки |</a> <a href=\"https://max.ru/id7707301372_biz\" target=\"_blank\" rel=\"noopener noreferrer\">MAX |</a> <a href=\"https://t.me/pgp_official/1769\" target=\"_blank\" rel=\"noopener noreferrer\">Приложение PG</a>",
-      "views": 1070,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1798-1-cb13237938c5-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1798-1-cb13237938c5-v4.jpg"
-        },
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1798-2-8dad2fc1a1df-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1798-2-8dad2fc1a1df-v4.jpg"
-        },
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1798-3-d10641cc62a9-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1798-3-d10641cc62a9-v4.jpg"
-        },
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1798-4-737850bafa66-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1798-4-737850bafa66-v4.jpg"
-        },
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1798-5-1e1e3cead11a-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1798-5-1e1e3cead11a-v4.jpg"
-        },
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1798-6-73628d535175-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1798-6-73628d535175-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/pgp_official/1798",
       "forwarded_from": null
     }
   ]
