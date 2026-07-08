@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T11:28:43.007299+00:00",
+  "generated_at": "2026-07-08T13:05:46.632666+00:00",
   "pagination": {
     "page": 10,
     "page_size": 16,
@@ -7,6 +7,24 @@
     "total_pages": 10
   },
   "posts": [
+    {
+      "id": 2594,
+      "date": "2026-04-16T05:45:07+00:00",
+      "text": null,
+      "text_html": null,
+      "views": 1080,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2594-1-0bed67045d21-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2594-1-0bed67045d21-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/PG_Tax/2594",
+      "forwarded_from": null
+    },
     {
       "id": 2593,
       "date": "2026-04-15T10:59:01+00:00",
@@ -35,8 +53,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2592-1-d371630e605e-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2592-1-d371630e605e-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2592-1-54af4ade899f-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2592-1-54af4ade899f-v4.jpg"
         }
       ],
       "video_url": null,
@@ -71,8 +89,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2590-1-b47a4986f61f-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2590-1-b47a4986f61f-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2590-1-ce8776d3e8c9-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2590-1-ce8776d3e8c9-v4.jpg"
         }
       ],
       "video_url": null,
@@ -89,8 +107,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2589-1-74a83c90c13c-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2589-1-74a83c90c13c-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2589-1-aa657ad4503e-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2589-1-aa657ad4503e-v4.jpg"
         }
       ],
       "video_url": null,
@@ -107,8 +125,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2588-1-6988d7d802ee-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2588-1-6988d7d802ee-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2588-1-16083f495940-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2588-1-16083f495940-v4.jpg"
         }
       ],
       "video_url": null,
@@ -125,8 +143,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2587-1-3499c3a6d449-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2587-1-3499c3a6d449-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2587-1-741773d04052-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2587-1-741773d04052-v4.jpg"
         }
       ],
       "video_url": null,
@@ -143,8 +161,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2586-1-dd725bbcce9f-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2586-1-dd725bbcce9f-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2586-1-2bc65701a8f4-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2586-1-2bc65701a8f4-v4.jpg"
         }
       ],
       "video_url": null,
@@ -173,7 +191,7 @@
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/dd103fdd36.mp4?token=p1m4uSiP4sxTmZUg4O8Xu9VhWbhCsQcsEBqmAebXiCBb26vAZZJuFbtW0wbmImJYyA97QeAs7Fyn6fIuOR5z_ctgbhf_1pRE_6H_e3evu_eLh_M-BORFwgAA77J8ctB6o5Yvs5Ktbm9MKmZ0A5yEZHDmccCYhC5HuSu97rYEWLi4G8Bbuzmk0DU7Ndcztnqd1vhWhIh2vtT0nUlmY3i8XYFAmDwuGWDL3_TbZpJzdvSt7VUpHg6TA3mqqC3Hu2qPkKnkic3SqmG6LgHi_z3v_6vFefsfvPF55JsuGcTijSISM3w9PXp_PkvhW8j0-Ywza-1CoG0-G_QToyBi4T4-Hw",
+      "video_url": "https://cdn4.telesco.pe/file/dd103fdd36.mp4?token=c0038EUs2jkJIE_amKQCt3MHcpfOQiRMARmgd3ebWXukMp5ltb1Yv37B9ENQW5vnY5wDSymBm9YCSz8FSJfgRNXKBqezqPXQ5ULKgGxE6lFY5Q82aMLAjV30LxsiyNyc1Vh7sp9KP73LkwCd5GQWy9O22wBXDfkH0ztvj6HKRDqWmjZR565kTl0QzG0fCYOusGjJsDBOOym3dHlf6v7nsNHa_4iMfpuOtODRHT12yHjy78FchRXYmkRhAONJ6hghxB1pB99LfC9x0oVuh_Oeh2So0BXdg_9WxRP7fOkQs6g3gBMfO4KbPDYjf0dAhb8Ixapp1hyNOeh1A4Ze7GgeqQ",
       "tg_url": "https://t.me/PG_Tax/2584",
       "forwarded_from": null
     },
@@ -187,8 +205,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2583-1-62883e605d25-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2583-1-62883e605d25-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2583-1-86234b82fda0-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2583-1-86234b82fda0-v4.jpg"
         }
       ],
       "video_url": null,
@@ -205,30 +223,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2582-1-c5f83415810b-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2582-1-c5f83415810b-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2582-1-4030e31d1371-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2582-1-4030e31d1371-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/PG_Tax/2582",
-      "forwarded_from": null
-    },
-    {
-      "id": 2581,
-      "date": "2026-04-08T12:04:01+00:00",
-      "text": "Старший партнер «Пепеляев Групп» Сергей Савсерис продолжает публикацию рейтинга правовых позиций Конституционного суда.\n\n📈 Место № 3 \n\nПостановление Конституционного Суда РФ от 12 мая 1998 г. № 14-П по запросу Дмитровского районного суда Московской области и жалобам граждан\n\nЕщё одно дело, которое занимает место № 3.\n\n💬 Цитируемость\n\n— всего: 1 660 упоминаний (12-е место);\n— за последние 4 года: 324 упоминания (8-е место).\nСтарое по времени, но концептуально одно из самых влиятельных решений КС в сфере публично-правовых санкций.\n\n🔍 О чём было дело\n\nОспаривались нормы Закона о ККМ, устанавливавшие единый штраф 350 МРОТ за расчёты без ККМ и позволявшие налоговым органам его назначать. \n\n⚖️ Ключевой конституционный тезис\n\nАдминистративный штраф — это вмешательство в право собственности и свободу предпринимательства, допустимое только при соблюдении принципов:\n🔴справедливости;\n🔴соразмерности;\n🔴дифференцированности;\n🔴равенства перед законом.\n\nФиксированная, жёсткая и недифференцированная санкция превращается из меры ответственности в средство подавления экономической самостоятельности, что несовместимо со ст. 19, 34, 35 и 55 Конституции РФ.\n\n📜 Правовые позиции КС РФ\n\n       ✔️Фиксированный штраф 350 МРОТ — неконституционен.\nОн не позволяет учитывать:\n🔴характер правонарушения;\n🔴степень вины;\n🔴имущественное положение лица;\n🔴фактические последствия нарушения.\n\n       ✔️ За одно и то же деяние нельзя устанавливать разную ответственность в зависимости от организационно-правовой формы.\nПредприниматель-физлицо не может нести более тяжкую ответственность только потому, что действует в иной форме.\n\n❗️ Порядок взыскания — принципиальный вывод\n\nКС РФ разграничил процессуальные гарантии:\n🔴с физических лиц штраф взыскивается только в судебном порядке;\n🔴с юридических лиц штраф не может взыскиваться в бесспорном порядке при наличии спора — при обжаловании взыскание подлежит приостановлению до решения суда.\n\nТем самым Суд связал допустимость санкции не только с её размером, но и с наличием эффективного судебного контроля.\n\n⚙️ Значение\n\nПостановление № 14-П стало отправной точкой доктрины соразмерности и необходимости судебного контроля за публично-правовыми санкциями. \n\nПоложение о том, что взыскание штрафа с физических лиц происходит исключительно в судебном порядке – нашло закрепление в первой части НК РФ.\n\n#рейтинг_позиций_КС",
-      "text_html": "Старший партнер «Пепеляев Групп» <a href=\"https://www.pgplaw.ru/to-get-the-team/sergey-savseris/\" target=\"_blank\" rel=\"noopener noreferrer\">Сергей Савсерис</a> продолжает публикацию рейтинга правовых позиций Конституционного суда.<br><br>📈 Место № 3 <br><br>Постановление Конституционного Суда РФ от 12 мая 1998 г. № 14-П по запросу Дмитровского районного суда Московской области и жалобам граждан<br><br>Ещё одно дело, которое занимает место № 3.<br><br>💬 Цитируемость<br><br>— всего: 1 660 упоминаний (12-е место);<br>— за последние 4 года: 324 упоминания (8-е место).<br>Старое по времени, но концептуально одно из самых влиятельных решений КС в сфере публично-правовых санкций.<br><br>🔍 О чём было дело<br><br>Оспаривались нормы Закона о ККМ, устанавливавшие единый штраф 350 МРОТ за расчёты без ККМ и позволявшие налоговым органам его назначать. <br><br>⚖️ Ключевой конституционный тезис<br><br>Административный штраф — это вмешательство в право собственности и свободу предпринимательства, допустимое только при соблюдении принципов:<br>🔴справедливости;<br>🔴соразмерности;<br>🔴дифференцированности;<br>🔴равенства перед законом.<br><br>Фиксированная, жёсткая и недифференцированная санкция превращается из меры ответственности в средство подавления экономической самостоятельности, что несовместимо со ст. 19, 34, 35 и 55 Конституции РФ.<br><br>📜 Правовые позиции КС РФ<br><br>       ✔️Фиксированный штраф 350 МРОТ — неконституционен.<br>Он не позволяет учитывать:<br>🔴характер правонарушения;<br>🔴степень вины;<br>🔴имущественное положение лица;<br>🔴фактические последствия нарушения.<br><br>       ✔️ За одно и то же деяние нельзя устанавливать разную ответственность в зависимости от организационно-правовой формы.<br>Предприниматель-физлицо не может нести более тяжкую ответственность только потому, что действует в иной форме.<br><br>❗️ Порядок взыскания — принципиальный вывод<br><br>КС РФ разграничил процессуальные гарантии:<br>🔴с физических лиц штраф взыскивается только в судебном порядке;<br>🔴с юридических лиц штраф не может взыскиваться в бесспорном порядке при наличии спора — при обжаловании взыскание подлежит приостановлению до решения суда.<br><br>Тем самым Суд связал допустимость санкции не только с её размером, но и с наличием эффективного судебного контроля.<br><br>⚙️ Значение<br><br>Постановление № 14-П стало отправной точкой доктрины соразмерности и необходимости судебного контроля за публично-правовыми санкциями. <br><br>Положение о том, что взыскание штрафа с физических лиц происходит исключительно в судебном порядке – нашло закрепление в первой части НК РФ.<br><br>#рейтинг_позиций_КС",
-      "views": 1090,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2581-1-c06bc7dd7a29-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2581-1-c06bc7dd7a29-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2581",
       "forwarded_from": null
     }
   ]
