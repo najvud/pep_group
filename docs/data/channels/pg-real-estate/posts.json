@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T14:13:41.344904+00:00",
+  "generated_at": "2026-07-09T16:44:00.542362+00:00",
   "site": {
     "channel_username": "PG_RealEstate",
     "channel_title": "PG Real Estate | Недвижимость",
@@ -19,8 +19,8 @@
   "pagination": {
     "page": 1,
     "page_size": 16,
-    "total_posts": 17,
-    "total_pages": 2
+    "total_posts": 16,
+    "total_pages": 1
   },
   "posts": [
     {
