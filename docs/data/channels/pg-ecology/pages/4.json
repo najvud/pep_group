@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T14:10:14.526492+00:00",
+  "generated_at": "2026-07-13T07:27:36.144897+00:00",
   "pagination": {
     "page": 4,
     "page_size": 16,
@@ -7,6 +7,24 @@
     "total_pages": 4
   },
   "posts": [
+    {
+      "id": 1328,
+      "date": "2026-04-22T04:00:08+00:00",
+      "text": "📣 До 12 мая проходит обсуждение проект Постановления Правительства РФ об утверждении перечня областей применения и критериев отнесения технологий (технологические процессы, оборудование, технические способы, методы), использование которых может оказать воздействие на окружающую среду, к технологиям, проекты технической документации на которые являются объектом государственной экологической экспертизы.\n\n⏱️Предусмотрено действие документа с 01.03.2027 по 01.03.2033.\n\n#ПроектНПА",
+      "text_html": "📣 До 12 мая проходит обсуждение <a href=\"https://regulation.gov.ru/projects/167241/\" target=\"_blank\" rel=\"noopener noreferrer\">проект Постановления Правительства РФ</a> об утверждении перечня областей применения и критериев отнесения технологий (технологические процессы, оборудование, технические способы, методы), использование которых может оказать воздействие на окружающую среду, к технологиям, проекты технической документации на которые являются объектом государственной экологической экспертизы.<br><br>⏱️Предусмотрено действие документа с 01.03.2027 по 01.03.2033.<br><br>#ПроектНПА",
+      "views": 323,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1328-1-f6b5a63596e4-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1328-1-f6b5a63596e4-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/pgecology/1328",
+      "forwarded_from": null
+    },
     {
       "id": 1327,
       "date": "2026-04-20T04:02:12+00:00",
@@ -43,8 +61,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1325-1-548605e2d6d5-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1325-1-548605e2d6d5-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1325-1-a857b8ddd78f-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1325-1-a857b8ddd78f-v4.jpg"
         }
       ],
       "video_url": null,
@@ -61,8 +79,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1324-1-247d6c6a1345-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1324-1-247d6c6a1345-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1324-1-08949f163802-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1324-1-08949f163802-v4.jpg"
         }
       ],
       "video_url": null,
@@ -98,24 +116,6 @@
       ],
       "video_url": null,
       "tg_url": "https://t.me/pgecology/1322",
-      "forwarded_from": null
-    },
-    {
-      "id": 1321,
-      "date": "2026-04-13T04:00:04+00:00",
-      "text": "🌞Уважаемые участники канала, доброго дня!\n\nМы подготовили ежемесячный обзор судебной практики по спорам в сфере экологии, для журнала EcoStandard.Journal.\n\nВ этот раз включили вобзор судебные кейсы по спорам, связанным с обращением с отходами недропользования при:\n\n🔸квалификации отвалов вскрышных пород;\n🔸размещении вскрышных пород;\n🔸рекультивации нарушенных земель на участке недропользования\n🔸и других.",
-      "text_html": "🌞Уважаемые участники канала, доброго дня!<br><br>Мы подготовили ежемесячный обзор судебной практики по спорам в сфере экологии, для журнала <a href=\"https://journal.ecostandard.ru/\" target=\"_blank\" rel=\"noopener noreferrer\">EcoStandard.Journal</a>.<br><br>В этот раз включили в<a href=\"https://journal.ecostandard.ru/eco/razbor-zakonodatelstva/obzor-sudebnoy-praktiki-po-nbsp-sporam-svyazannym-s-nbsp-obrashcheniem-s-nbsp-otkhodami-nedropolzova/?lang=ru\" target=\"_blank\" rel=\"noopener noreferrer\">обзор</a> судебные кейсы по спорам, связанным с обращением с отходами недропользования при:<br><br>🔸квалификации отвалов вскрышных пород;<br>🔸размещении вскрышных пород;<br>🔸рекультивации нарушенных земель на участке недропользования<br>🔸и других.",
-      "views": 1830,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1321-1-e763ba27be3f-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1321-1-e763ba27be3f-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/pgecology/1321",
       "forwarded_from": null
     }
   ]
