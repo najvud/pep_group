@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-14T12:56:44.815530+00:00",
+  "generated_at": "2026-07-14T14:46:41.873998+00:00",
   "pagination": {
     "page": 2,
     "page_size": 16,
-    "total_posts": 37,
+    "total_posts": 36,
     "total_pages": 3
   },
   "posts": [
@@ -302,8 +302,10 @@
       "video_url": null,
       "tg_url": "https://t.me/PgAntitrust/1393",
       "forwarded_from": {
-        "source_url": "https://telegram.me/RCCA_OKUR/1959",
-        "channel_url": "https://telegram.me/RCCA_OKUR/1959"
+        "source_url": "https://t.me/RCCA_OKUR/1959",
+        "channel_url": "https://t.me/s/RCCA_OKUR",
+        "channel_username": "RCCA_OKUR",
+        "channel_title": "Объединение Корпоративных Юристов - ОКЮР"
       }
     },
     {

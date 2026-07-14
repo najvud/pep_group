@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T12:58:57.825185+00:00",
+  "generated_at": "2026-07-14T14:47:58.351089+00:00",
   "site": {
     "channel_username": "InvestmentLaw",
     "channel_title": "СпецИнвестРежимы",
@@ -71,8 +71,10 @@
       "video_url": null,
       "tg_url": "https://t.me/InvestmentLaw/1125",
       "forwarded_from": {
-        "source_url": "https://telegram.me/PG_RealEstate/251",
-        "channel_url": "https://telegram.me/PG_RealEstate/251"
+        "source_url": "https://t.me/PG_RealEstate/251",
+        "channel_url": "https://t.me/s/PG_RealEstate",
+        "channel_username": "PG_RealEstate",
+        "channel_title": "PG Real Estate | Недвижимость"
       }
     },
     {

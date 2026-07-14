@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T12:59:18.781736+00:00",
+  "generated_at": "2026-07-14T14:48:09.609935+00:00",
   "pagination": {
     "page": 3,
     "page_size": 16,
@@ -145,8 +145,10 @@
       "video_url": null,
       "tg_url": "https://t.me/pgecology/1337",
       "forwarded_from": {
-        "source_url": "https://telegram.me/pgp_official/1827",
-        "channel_url": "https://telegram.me/pgp_official/1827"
+        "source_url": "https://t.me/pgp_official/1827",
+        "channel_url": "https://t.me/s/pgp_official",
+        "channel_username": "pgp_official",
+        "channel_title": "Pepeliaev Group | Пепеляев Групп"
       }
     },
     {
@@ -172,8 +174,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1335-1-ae9c83132125-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1335-1-ae9c83132125-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1335-1-974a3b70af63-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1335-1-974a3b70af63-v4.jpg"
         }
       ],
       "video_url": null,
@@ -190,8 +192,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1334-1-c95e38d12442-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1334-1-c95e38d12442-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1334-1-d6c3562e316d-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1334-1-d6c3562e316d-v4.jpg"
         }
       ],
       "video_url": null,
@@ -208,8 +210,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1333-1-f8f7a7b6003a-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1333-1-f8f7a7b6003a-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1333-1-ee5aee4fc835-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1333-1-ee5aee4fc835-v4.jpg"
         }
       ],
       "video_url": null,
@@ -226,8 +228,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1332-1-c4874255ced6-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1332-1-c4874255ced6-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1332-1-fa04b953a9c0-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1332-1-fa04b953a9c0-v4.jpg"
         }
       ],
       "video_url": null,
@@ -244,8 +246,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1331-1-488d0d57fb3b-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1331-1-488d0d57fb3b-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1331-1-f0e6ddc9e838-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1331-1-f0e6ddc9e838-v4.jpg"
         }
       ],
       "video_url": null,
