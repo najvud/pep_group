@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-07-16T14:49:15.078595+00:00",
+  "generated_at": "2026-07-17T08:53:33.261692+00:00",
   "pagination": {
     "page": 6,
     "page_size": 16,
-    "total_posts": 85,
+    "total_posts": 86,
     "total_pages": 6
   },
   "posts": [
+    {
+      "id": 1815,
+      "date": "2026-04-27T07:04:20+00:00",
+      "text": "🔍 Начинаем рабочую неделю с рубрикой #PG_Грамотность \n\n☝️ Об избежании и во избежание: когда и как правильно пишется?\n\nЧитайте в карточке правописания!\n\n🏢 Подписаться на рассылки | MAX | Приложение PG",
+      "text_html": "🔍 Начинаем рабочую неделю с рубрикой #PG_Грамотность <br><br>☝️ Об избежании и во избежание: когда и как правильно пишется?<br><br>Читайте в карточке правописания!<br><br>🏢 <a href=\"https://www.pgplaw.ru/subscribe/\" target=\"_blank\" rel=\"noopener noreferrer\">Подписаться на рассылки |</a> <a href=\"https://max.ru/id7707301372_biz\" target=\"_blank\" rel=\"noopener noreferrer\">MAX |</a> <a href=\"https://t.me/pgp_official/1769\" target=\"_blank\" rel=\"noopener noreferrer\">Приложение PG</a>",
+      "views": 879,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1815-1-4276832445d3-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1815-1-4276832445d3-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1815-2-34f97e43ead0-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1815-2-34f97e43ead0-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/pgp_official/1815",
+      "forwarded_from": null
+    },
     {
       "id": 1814,
       "date": "2026-04-24T13:01:27+00:00",
@@ -53,8 +75,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1812-1-e14a11904afc-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1812-1-e14a11904afc-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1812-1-a7b75788e3e0-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1812-1-a7b75788e3e0-v4.jpg"
         }
       ],
       "video_url": null,
@@ -71,8 +93,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1811-1-2d00e3e9f3ab-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1811-1-2d00e3e9f3ab-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1811-1-d94c26449cb6-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1811-1-d94c26449cb6-v4.jpg"
         }
       ],
       "video_url": null,
@@ -89,8 +111,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1810-1-212e7586fbed-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1810-1-212e7586fbed-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1810-1-9dac959e62a6-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1810-1-9dac959e62a6-v4.jpg"
         }
       ],
       "video_url": null,
