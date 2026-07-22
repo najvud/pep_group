@@ -1,12 +1,55 @@
 {
-  "generated_at": "2026-07-21T11:26:46.258547+00:00",
+  "generated_at": "2026-07-22T07:13:36.002209+00:00",
   "pagination": {
     "page": 3,
     "page_size": 16,
-    "total_posts": 34,
+    "total_posts": 35,
     "total_pages": 3
   },
   "posts": [
+    {
+      "id": 1393,
+      "date": "2026-04-27T11:00:59+00:00",
+      "text": "▶️ Первая сессия Антимонопольного форума ОКЮР — о картелях, цифре и ответственности.\n\nЧто в фокусе: анализ новых форм сговоров, ГИС «Антикартель», взыскание дохода через недействительность сделок, риски по 44-ФЗ и 223-ФЗ, комплаенс и переговоры с контрагентами.\n\n↗️ Прочтите карточки с ключевыми тезисами спикеров.",
+      "text_html": "▶️ Первая сессия Антимонопольного форума ОКЮР — о картелях, цифре и ответственности.<br><br>Что в фокусе: анализ новых форм сговоров, ГИС «Антикартель», взыскание дохода через недействительность сделок, риски по 44-ФЗ и 223-ФЗ, комплаенс и переговоры с контрагентами.<br><br>↗️ Прочтите карточки с ключевыми тезисами спикеров.",
+      "views": 492,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1393-1-3de88640ba48-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1393-1-3de88640ba48-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1393-2-19e211838023-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1393-2-19e211838023-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1393-3-d26e674f20bd-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1393-3-d26e674f20bd-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1393-4-90bef97ad5a3-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1393-4-90bef97ad5a3-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1393-5-03a8086fbbf3-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1393-5-03a8086fbbf3-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1393-6-d4a16f547336-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1393-6-d4a16f547336-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/PgAntitrust/1393",
+      "forwarded_from": {
+        "source_url": "https://t.me/RCCA_OKUR/1959",
+        "channel_url": "https://t.me/s/RCCA_OKUR",
+        "channel_username": "RCCA_OKUR",
+        "channel_title": "Объединение Корпоративных Юристов - ОКЮР"
+      }
+    },
     {
       "id": 1392,
       "date": "2026-04-27T09:03:42+00:00",
