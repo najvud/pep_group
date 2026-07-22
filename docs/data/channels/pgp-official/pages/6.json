@@ -1,12 +1,42 @@
 {
-  "generated_at": "2026-07-22T04:27:49.464006+00:00",
+  "generated_at": "2026-07-22T09:40:12.318129+00:00",
   "pagination": {
     "page": 6,
     "page_size": 16,
-    "total_posts": 87,
+    "total_posts": 88,
     "total_pages": 6
   },
   "posts": [
+    {
+      "id": 1819,
+      "date": "2026-05-05T07:29:57+00:00",
+      "text": "☝️ Если Вы пропустили, то напоминаем, что 20 мая в рамках серии вебинаров «Как устроены налоги в бизнесе: что важно знать неналоговым специалистам» мы будем разбирать основы НДС.\n\n💡 Как показал первый вебинар, базовые знания по налогам помогают не только «познакомиться» с основными принципами, но и структурировать уже имеющиеся знания и опыт.\n\nНа втором вебинаре серии вы узнаете:\n\n🔘что такое НДС, каков его экономический смысл; \n🔘основные юридические концепции НДС; \n🔘какие основные налоговые риски возникают при ошибках, связанных с НДС; \n🔘наиболее актуальные случаи, когда в практике возникают налоговые риски. \n\n🎤О том, как говорить с налоговыми и финансовыми службами на одном языке, расскажет старший партнер «Пепеляев Групп» Сергей Савсерис.\n\nРегистрируйтесь и присылайте вопросы. Постараемся раскрыть все связанные с НДС темы, которые важно знать неналоговым специалистам.\n\n#pg_мероприятия",
+      "text_html": "☝️ Если Вы пропустили, то напоминаем, что 20 мая в рамках серии вебинаров «Как устроены налоги в бизнесе: что важно знать неналоговым специалистам» мы будем разбирать основы НДС.<br><br>💡 Как показал первый вебинар, базовые знания по налогам помогают не только «познакомиться» с основными принципами, но и структурировать уже имеющиеся знания и опыт.<br><br>На втором вебинаре серии вы узнаете:<br><br>🔘что такое НДС, каков его экономический смысл; <br>🔘основные юридические концепции НДС; <br>🔘какие основные налоговые риски возникают при ошибках, связанных с НДС; <br>🔘наиболее актуальные случаи, когда в практике возникают налоговые риски. <br><br>🎤О том, как говорить с налоговыми и финансовыми службами на одном языке, расскажет старший партнер «Пепеляев Групп» <a href=\"https://www.pgplaw.ru/to-get-the-team/sergey-savseris/\" target=\"_blank\" rel=\"noopener noreferrer\">Сергей Савсерис.</a><br><br><a href=\"https://www.pgplaw.ru/events/upcoming-events/kak-ustroeny-nalogi-v-biznese-2/\" target=\"_blank\" rel=\"noopener noreferrer\">Регистрируйтесь</a> и присылайте вопросы. Постараемся раскрыть все связанные с НДС темы, которые важно знать неналоговым специалистам.<br><br>#pg_мероприятия",
+      "views": 808,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1819-1-3d3f2e62d502-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1819-1-3d3f2e62d502-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1819-2-c98f5d5cb12c-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1819-2-c98f5d5cb12c-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1819-3-d2f042c6d30c-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1819-3-d2f042c6d30c-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1819-4-07e9340db225-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1819-4-07e9340db225-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/pgp_official/1819",
+      "forwarded_from": null
+    },
     {
       "id": 1818,
       "date": "2026-04-30T10:00:59+00:00",
@@ -17,8 +47,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1818-1-311c1900c7cc-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1818-1-311c1900c7cc-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1818-1-baa4fc74893a-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1818-1-baa4fc74893a-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +65,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1817-1-cc017292613c-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1817-1-cc017292613c-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1817-1-62295afe6638-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1817-1-62295afe6638-v4.jpg"
         }
       ],
       "video_url": null,
@@ -53,12 +83,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1815-1-0653e450b8da-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1815-1-0653e450b8da-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1815-1-43f829358253-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1815-1-43f829358253-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1815-2-7afb49f4e879-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1815-2-7afb49f4e879-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1815-2-701fc26e522b-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1815-2-701fc26e522b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -75,8 +105,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1814-1-bd509683d9d1-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1814-1-bd509683d9d1-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1814-1-fc0b47058307-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1814-1-fc0b47058307-v4.jpg"
         }
       ],
       "video_url": null,
@@ -93,8 +123,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1813-1-8386e3bbc7e3-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1813-1-8386e3bbc7e3-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1813-1-7d24a566d8b8-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1813-1-7d24a566d8b8-v4.jpg"
         }
       ],
       "video_url": null,
@@ -111,8 +141,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1812-1-68c25f55fd62-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1812-1-68c25f55fd62-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1812-1-e88b38ffb36c-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1812-1-e88b38ffb36c-v4.jpg"
         }
       ],
       "video_url": null,
@@ -129,8 +159,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1811-1-9619a5ac6187-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1811-1-9619a5ac6187-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1811-1-585552614e92-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1811-1-585552614e92-v4.jpg"
         }
       ],
       "video_url": null,
