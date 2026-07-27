@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T04:56:43.740736+00:00",
+  "generated_at": "2026-07-27T08:30:21.128693+00:00",
   "pagination": {
     "page": 6,
     "page_size": 16,
@@ -7,6 +7,24 @@
     "total_pages": 6
   },
   "posts": [
+    {
+      "id": 1825,
+      "date": "2026-05-07T10:02:13+00:00",
+      "text": "🏢 Еженедельная подборка обзоров от практик «Пепеляев Групп»\n\nЧто изменилось за последнюю неделю, и на что стоит обратить внимание бизнесу?\n\n▫️ Налоговые новости. Дайджест за 27 апреля - 3 мая 2026 г.\n\n▫️ СпецИнвестРежимы в Сибири и на Дальнем Востоке. Дайджест 27 апреля - 3 мая 2026 г.\n\n▫️ Ограничения и меры поддержки для бизнеса: дайджест за 20 апреля - 3 мая 2026 г.\n\n▫️ Банкротство: взгляд эксперта. Обзор № 319 за 30 апреля – 6 мая 2026 г.\n\n#pg_обзоры_недели\n\n☝️ Подписаться на рассылки | MAX | Приложение PG",
+      "text_html": "🏢 Еженедельная подборка обзоров от практик «Пепеляев Групп»<br><br>Что изменилось за последнюю неделю, и на что стоит обратить внимание бизнесу?<br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/tax-reviews/tax-news-digest-04-05-26/\" target=\"_blank\" rel=\"noopener noreferrer\">Налоговые новости. Дайджест за 27 апреля - 3 мая 2026 г.</a><br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/spec-invest-obzor/invest-news-digest-26-05-04/\" target=\"_blank\" rel=\"noopener noreferrer\">СпецИнвестРежимы в Сибири и на Дальнем Востоке. Дайджест 27 апреля - 3 мая 2026 г.</a><br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/sanctions-support-digest/support-digest-04-05-26/\" target=\"_blank\" rel=\"noopener noreferrer\">Ограничения и меры поддержки для бизнеса: дайджест за 20 апреля - 3 мая 2026 г.</a><br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/bankruptcy-must-read/bankruptcy-digest-06-05-26/\" target=\"_blank\" rel=\"noopener noreferrer\">Банкротство: взгляд эксперта. Обзор № 319 за 30 апреля – 6 мая 2026 г.</a><br><br>#pg_обзоры_недели<br><br>☝️ <a href=\"https://www.pgplaw.ru/subscribe/\" target=\"_blank\" rel=\"noopener noreferrer\">Подписаться на рассылки |</a> <a href=\"https://max.ru/id7707301372_biz\" target=\"_blank\" rel=\"noopener noreferrer\">MAX |</a> <a href=\"https://t.me/pgp_official/1769\" target=\"_blank\" rel=\"noopener noreferrer\">Приложение PG</a>",
+      "views": 755,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1825-1-6aef35c2ba9b-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1825-1-6aef35c2ba9b-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/pgp_official/1825",
+      "forwarded_from": null
+    },
     {
       "id": 1824,
       "date": "2026-05-06T12:59:58+00:00",
@@ -17,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1824-1-c8d2e8966513-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1824-1-c8d2e8966513-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1824-1-ca99ca16090b-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1824-1-ca99ca16090b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +53,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1823-1-642fe3d417ef-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1823-1-642fe3d417ef-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1823-1-e3a234dc8dc6-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1823-1-e3a234dc8dc6-v4.jpg"
         }
       ],
       "video_url": null,
@@ -53,20 +71,20 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1819-1-823a6828ca5d-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1819-1-823a6828ca5d-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1819-1-0486e5cf6cb5-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1819-1-0486e5cf6cb5-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1819-2-89f5f79e08a1-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1819-2-89f5f79e08a1-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1819-2-2ca4c4676091-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1819-2-2ca4c4676091-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1819-3-179a236b5689-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1819-3-179a236b5689-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1819-3-05168b7d5107-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1819-3-05168b7d5107-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1819-4-7ced061556d9-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1819-4-7ced061556d9-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1819-4-1bcb736662e0-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1819-4-1bcb736662e0-v4.jpg"
         }
       ],
       "video_url": null,
@@ -83,8 +101,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1818-1-eedeccfb074e-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1818-1-eedeccfb074e-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1818-1-f786be127ecb-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1818-1-f786be127ecb-v4.jpg"
         }
       ],
       "video_url": null,
@@ -101,34 +119,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1817-1-a856151b1a02-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1817-1-a856151b1a02-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1817-1-96d671a6f637-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1817-1-96d671a6f637-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/pgp_official/1817",
-      "forwarded_from": null
-    },
-    {
-      "id": 1815,
-      "date": "2026-04-27T07:04:20+00:00",
-      "text": "🔍 Начинаем рабочую неделю с рубрикой #PG_Грамотность \n\n☝️ Об избежании и во избежание: когда и как правильно пишется?\n\nЧитайте в карточке правописания!\n\n🏢 Подписаться на рассылки | MAX | Приложение PG",
-      "text_html": "🔍 Начинаем рабочую неделю с рубрикой #PG_Грамотность <br><br>☝️ Об избежании и во избежание: когда и как правильно пишется?<br><br>Читайте в карточке правописания!<br><br>🏢 <a href=\"https://www.pgplaw.ru/subscribe/\" target=\"_blank\" rel=\"noopener noreferrer\">Подписаться на рассылки |</a> <a href=\"https://max.ru/id7707301372_biz\" target=\"_blank\" rel=\"noopener noreferrer\">MAX |</a> <a href=\"https://t.me/pgp_official/1769\" target=\"_blank\" rel=\"noopener noreferrer\">Приложение PG</a>",
-      "views": 880,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1815-1-15536a192a47-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1815-1-15536a192a47-v4.jpg"
-        },
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1815-2-adf42710d489-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1815-2-adf42710d489-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/pgp_official/1815",
       "forwarded_from": null
     }
   ]
