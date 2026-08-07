@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-07T11:53:55.734755+00:00",
+  "generated_at": "2026-08-07T14:01:18.505464+00:00",
   "pagination": {
     "page": 10,
     "page_size": 16,
-    "total_posts": 157,
+    "total_posts": 156,
     "total_pages": 10
   },
   "posts": [
@@ -258,60 +258,6 @@
       ],
       "video_url": null,
       "tg_url": "https://t.me/PG_Tax/2642",
-      "forwarded_from": null
-    },
-    {
-      "id": 2632,
-      "date": "2026-05-07T13:01:21+00:00",
-      "text": "📜  О рассмотрении арбитражными судами споров, связанных с налогообложением имущества организаций\n\nТематический обзор ВС РФ № 4/2026\n\n❗️Ключевое – вопросы, связанные с отнесением ОС к объекту налогообложения. Обязанность по уплате налога установлена только в отношении недвижимости. Но не предусмотрены критерии разграничения движимого и недвижимого имущества для целей налогообложения. \n\n🔍 Полная версия обзора – в карточках.\n\n➖➖\n\nПодготовлено информационно-аналитическим отделом «Пепеляев Групп». Также мы составляем индивидуальные обзоры по различным отраслям права под запросы бизнеса.",
-      "text_html": "📜  О рассмотрении арбитражными судами споров, связанных с налогообложением имущества организаций<br><br><a href=\"https://www.vsrf.ru/documents/all/35815/\" target=\"_blank\" rel=\"noopener noreferrer\">Тематический обзор ВС РФ № 4/2026</a><br><br>❗️Ключевое – вопросы, связанные с отнесением ОС к объекту налогообложения. Обязанность по уплате налога установлена только в отношении недвижимости. Но не предусмотрены критерии разграничения движимого и недвижимого имущества для целей налогообложения. <br><br>🔍 Полная версия обзора – в карточках.<br><br>➖➖<br><br>Подготовлено информационно-аналитическим отделом «Пепеляев Групп». Также мы <a href=\"https://www.pgplaw.ru/practice-and-industry/practices/obzory-zakonodatelstva-i-praktiki/\" target=\"_blank\" rel=\"noopener noreferrer\">составляем</a> индивидуальные обзоры по различным отраслям права под запросы бизнеса.",
-      "views": 806,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2632-1-c0e98a3ffe1b-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2632-1-c0e98a3ffe1b-v4.jpg"
-        },
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2632-2-a7850c58f73d-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2632-2-a7850c58f73d-v4.jpg"
-        },
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2632-3-21431d3d852d-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2632-3-21431d3d852d-v4.jpg"
-        },
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2632-4-128d95005080-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2632-4-128d95005080-v4.jpg"
-        },
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2632-5-cf1cb99db15e-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2632-5-cf1cb99db15e-v4.jpg"
-        },
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2632-6-21bd66e7211a-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2632-6-21bd66e7211a-v4.jpg"
-        },
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2632-7-b573ea6120af-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2632-7-b573ea6120af-v4.jpg"
-        },
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2632-8-3b484e2a1be3-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2632-8-3b484e2a1be3-v4.jpg"
-        },
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2632-9-0124984c65a0-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2632-9-0124984c65a0-v4.jpg"
-        },
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2632-10-86b039073d3b-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2632-10-86b039073d3b-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2632",
       "forwarded_from": null
     }
   ]
