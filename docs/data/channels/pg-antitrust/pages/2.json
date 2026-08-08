@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T15:03:56.150920+00:00",
+  "generated_at": "2026-08-08T15:39:26.746485+00:00",
   "pagination": {
     "page": 2,
     "page_size": 16,
@@ -71,8 +71,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1424-1-0dcedaf5f012-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1424-1-0dcedaf5f012-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1424-1-ff63413f7214-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1424-1-ff63413f7214-v4.jpg"
         }
       ],
       "video_url": null,
