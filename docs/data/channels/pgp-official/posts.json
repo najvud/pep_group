@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T09:44:42.546667+00:00",
+  "generated_at": "2026-08-08T10:14:33.026942+00:00",
   "site": {
     "channel_username": "pgp_official",
     "channel_title": "Pepeliaev Group | Пепеляев Групп",
@@ -19,7 +19,7 @@
   "pagination": {
     "page": 1,
     "page_size": 16,
-    "total_posts": 88,
+    "total_posts": 87,
     "total_pages": 6
   },
   "posts": [
@@ -69,8 +69,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1957-1-de58009d4316-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1957-1-de58009d4316-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1957-1-7cab5f57426c-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1957-1-7cab5f57426c-v4.jpg"
         }
       ],
       "video_url": null,
@@ -109,8 +109,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1954-1-37563dc7780f-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1954-1-37563dc7780f-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1954-1-c732249ee431-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1954-1-c732249ee431-v4.jpg"
         }
       ],
       "video_url": null,
