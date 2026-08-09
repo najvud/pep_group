@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-09T08:24:17.672552+00:00",
+  "generated_at": "2026-08-09T10:30:34.444103+00:00",
   "pagination": {
     "page": 10,
     "page_size": 16,
-    "total_posts": 153,
+    "total_posts": 152,
     "total_pages": 10
   },
   "posts": [
@@ -182,29 +182,6 @@
       "video_url": null,
       "tg_url": "https://t.me/PG_Tax/2646",
       "forwarded_from": null
-    },
-    {
-      "id": 2645,
-      "date": "2026-05-09T10:05:19+00:00",
-      "text": "⭐️ Дорогие друзья,\n\n9 мая — день памяти, благодарности и уважения к мужеству, стойкости и подвигу людей.\n\nЭтот день объединяет семьи, поколения и целые истории, которые важно помнить и бережно хранить.\n\nПусть рядом всегда будут близкие люди, а в жизни больше добра, спокойствия и душевного тепла!\n\nС Днём Победы!\n\nВаша команда, \n«Пепеляев Групп» ❤️",
-      "text_html": "⭐️ Дорогие друзья,<br><br>9 мая — день памяти, благодарности и уважения к мужеству, стойкости и подвигу людей.<br><br>Этот день объединяет семьи, поколения и целые истории, которые важно помнить и бережно хранить.<br><br>Пусть рядом всегда будут близкие люди, а в жизни больше добра, спокойствия и душевного тепла!<br><br>С Днём Победы!<br><br>Ваша команда, <br>«Пепеляев Групп» ❤️",
-      "views": 833,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2645-1-717d5a6fdc43-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2645-1-717d5a6fdc43-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2645",
-      "forwarded_from": {
-        "source_url": "https://t.me/pgp_official/1827",
-        "channel_url": "https://t.me/s/pgp_official",
-        "channel_username": "pgp_official",
-        "channel_title": "Pepeliaev Group | Пепеляев Групп"
-      }
     }
   ]
 }
