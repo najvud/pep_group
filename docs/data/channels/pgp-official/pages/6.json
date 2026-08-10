@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-08-09T23:48:00.933032+00:00",
+  "generated_at": "2026-08-10T07:58:50.017040+00:00",
   "pagination": {
     "page": 6,
     "page_size": 16,
-    "total_posts": 86,
+    "total_posts": 87,
     "total_pages": 6
   },
   "posts": [
+    {
+      "id": 1836,
+      "date": "2026-05-18T07:04:36+00:00",
+      "text": "🔍 Начинаем рабочую неделю с рубрикой #PG_Грамотность \n\n☝️ Главным образом: когда выделяется запятыми?\n\nЧитайте в карточке правописания!\n\n🏢 Подписаться на рассылки | MAX | Приложение PG",
+      "text_html": "🔍 Начинаем рабочую неделю с рубрикой #PG_Грамотность <br><br>☝️ Главным образом: когда выделяется запятыми?<br><br>Читайте в карточке правописания!<br><br>🏢 <a href=\"https://www.pgplaw.ru/subscribe/\" target=\"_blank\" rel=\"noopener noreferrer\">Подписаться на рассылки |</a> <a href=\"https://max.ru/id7707301372_biz\" target=\"_blank\" rel=\"noopener noreferrer\">MAX |</a> <a href=\"https://t.me/pgp_official/1769\" target=\"_blank\" rel=\"noopener noreferrer\">Приложение PG</a>",
+      "views": 701,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1836-1-4504a3d2af3c-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1836-1-4504a3d2af3c-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1836-2-a1364b9d6c7f-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1836-2-a1364b9d6c7f-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/pgp_official/1836",
+      "forwarded_from": null
+    },
     {
       "id": 1835,
       "date": "2026-05-15T10:02:18+00:00",
