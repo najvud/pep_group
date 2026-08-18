@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T03:28:12.317302+00:00",
+  "generated_at": "2026-08-18T04:09:13.624448+00:00",
   "site": {
     "channel_username": "pgecology",
     "channel_title": "PG Ecology | Экология",
@@ -19,7 +19,7 @@
   "pagination": {
     "page": 1,
     "page_size": 16,
-    "total_posts": 60,
+    "total_posts": 58,
     "total_pages": 4
   },
   "posts": [
@@ -33,8 +33,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1399-1-ca16554b064f-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1399-1-ca16554b064f-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1399-1-8752029814e2-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1399-1-8752029814e2-v4.jpg"
         }
       ],
       "video_url": null,
