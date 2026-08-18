@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-17T19:36:13.714057+00:00",
+  "generated_at": "2026-08-18T07:09:12.765667+00:00",
   "pagination": {
     "page": 6,
     "page_size": 16,
-    "total_posts": 87,
+    "total_posts": 86,
     "total_pages": 6
   },
   "posts": [
@@ -124,28 +124,6 @@
         "channel_username": "PgAntitrust",
         "channel_title": "PG Antitrust | Антимонопольное право"
       }
-    },
-    {
-      "id": 1836,
-      "date": "2026-05-18T07:04:36+00:00",
-      "text": "🔍 Начинаем рабочую неделю с рубрикой #PG_Грамотность \n\n☝️ Главным образом: когда выделяется запятыми?\n\nЧитайте в карточке правописания!\n\n🏢 Подписаться на рассылки | MAX | Приложение PG",
-      "text_html": "🔍 Начинаем рабочую неделю с рубрикой #PG_Грамотность <br><br>☝️ Главным образом: когда выделяется запятыми?<br><br>Читайте в карточке правописания!<br><br>🏢 <a href=\"https://www.pgplaw.ru/subscribe/\" target=\"_blank\" rel=\"noopener noreferrer\">Подписаться на рассылки |</a> <a href=\"https://max.ru/id7707301372_biz\" target=\"_blank\" rel=\"noopener noreferrer\">MAX |</a> <a href=\"https://t.me/pgp_official/1769\" target=\"_blank\" rel=\"noopener noreferrer\">Приложение PG</a>",
-      "views": 702,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1836-1-1a6291ddd19c-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1836-1-1a6291ddd19c-v4.jpg"
-        },
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1836-2-acc36e2b7358-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1836-2-acc36e2b7358-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/pgp_official/1836",
-      "forwarded_from": null
     }
   ]
 }
