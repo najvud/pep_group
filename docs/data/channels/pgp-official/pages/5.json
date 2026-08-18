@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-18T07:09:12.764533+00:00",
+  "generated_at": "2026-08-18T10:39:59.729211+00:00",
   "pagination": {
     "page": 5,
     "page_size": 16,
-    "total_posts": 86,
+    "total_posts": 85,
     "total_pages": 6
   },
   "posts": [
@@ -33,8 +33,8 @@
           "full_url": "data/channels/pgp-official/media/posts/1866-4-19624df6e844-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1866-5-a3a54d4d7e35-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1866-5-a3a54d4d7e35-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1866-5-00e3edbef55e-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1866-5-00e3edbef55e-v4.jpg"
         }
       ],
       "video_url": null,
@@ -149,7 +149,7 @@
       "date": "2026-06-01T07:04:04+00:00",
       "text": "🔍  Начинаем рабочую неделю с рубрикой #PG_Грамотность \n\n☝️ Несмотря на то что. Когда запятая не нужна?\n\nЧитайте в карточке правописания!\n\n🏢 Подписаться на рассылки | MAX | Приложение PG",
       "text_html": "🔍  Начинаем рабочую неделю с рубрикой #PG_Грамотность <br><br>☝️ Несмотря на то что. Когда запятая не нужна?<br><br>Читайте в карточке правописания!<br><br>🏢 <a href=\"https://www.pgplaw.ru/subscribe/\" target=\"_blank\" rel=\"noopener noreferrer\">Подписаться на рассылки |</a> <a href=\"https://max.ru/id7707301372_biz\" target=\"_blank\" rel=\"noopener noreferrer\">MAX |</a> <a href=\"https://t.me/pgp_official/1769\" target=\"_blank\" rel=\"noopener noreferrer\">Приложение PG</a>",
-      "views": 622,
+      "views": 623,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
@@ -264,8 +264,8 @@
           "full_url": "data/channels/pgp-official/media/posts/1848-3-abb7f17d3d99-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1848-4-59f31fa68035-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1848-4-59f31fa68035-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1848-4-28712263d376-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1848-4-28712263d376-v4.jpg"
         }
       ],
       "video_url": null,
