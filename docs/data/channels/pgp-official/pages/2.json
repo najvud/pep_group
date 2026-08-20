@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T14:03:08.653100+00:00",
+  "generated_at": "2026-08-20T14:48:55.315238+00:00",
   "pagination": {
     "page": 2,
     "page_size": 16,
@@ -80,8 +80,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1946-1-aae76773e9a5-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1946-1-aae76773e9a5-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1946-1-4cad38e9397a-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1946-1-4cad38e9397a-v4.jpg"
         }
       ],
       "video_url": null,
@@ -110,8 +110,8 @@
           "full_url": "data/channels/pgp-official/media/posts/1940-3-e8833c437172-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1940-4-76151390c66c-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1940-4-76151390c66c-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1940-4-bce1b7b8ed0c-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1940-4-bce1b7b8ed0c-v4.jpg"
         },
         {
           "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1940-5-fa47d3bffca1-v4.jpg",
