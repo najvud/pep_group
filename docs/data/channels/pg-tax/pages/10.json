@@ -1,12 +1,38 @@
 {
-  "generated_at": "2026-08-21T08:22:26.134132+00:00",
+  "generated_at": "2026-08-21T09:05:14.118450+00:00",
   "pagination": {
     "page": 10,
     "page_size": 16,
-    "total_posts": 158,
+    "total_posts": 159,
     "total_pages": 10
   },
   "posts": [
+    {
+      "id": 2690,
+      "date": "2026-05-28T12:59:25+00:00",
+      "text": null,
+      "text_html": null,
+      "views": 925,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2690-1-19409d8b9406-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2690-1-19409d8b9406-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2690-2-c4d216881975-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2690-2-c4d216881975-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2690-3-3478cf6f3b8c-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2690-3-3478cf6f3b8c-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/PG_Tax/2690",
+      "forwarded_from": null
+    },
     {
       "id": 2689,
       "date": "2026-05-28T12:59:04+00:00",
