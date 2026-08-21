@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-08-21T13:06:08.011304+00:00",
+  "generated_at": "2026-08-21T15:05:24.081595+00:00",
   "pagination": {
     "page": 4,
     "page_size": 16,
-    "total_posts": 84,
+    "total_posts": 85,
     "total_pages": 6
   },
   "posts": [
+    {
+      "id": 1893,
+      "date": "2026-06-29T07:04:05+00:00",
+      "text": "🔍 Начинаем рабочую неделю с рубрикой #PGГрамотность\n\n💡 Почему встречается написание названий компаний всеми прописными?\n\nЧитайте в карточке правописания!\n\n🏢 Подписаться на рассылки | MAX | Приложение PG",
+      "text_html": "🔍 Начинаем рабочую неделю с рубрикой #PGГрамотность<br><br>💡 Почему встречается написание названий компаний всеми прописными?<br><br>Читайте в карточке правописания!<br><br>🏢 <a href=\"https://www.pgplaw.ru/subscribe/\" target=\"_blank\" rel=\"noopener noreferrer\">Подписаться на рассылки |</a> <a href=\"https://max.ru/id7707301372_biz\" target=\"_blank\" rel=\"noopener noreferrer\">MAX |</a> <a href=\"https://t.me/pgp_official/1769\" target=\"_blank\" rel=\"noopener noreferrer\">Приложение PG</a>",
+      "views": 556,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1893-1-f1d40e305625-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1893-1-f1d40e305625-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1893-2-2cfc445cbd50-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1893-2-2cfc445cbd50-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/pgp_official/1893",
+      "forwarded_from": null
+    },
     {
       "id": 1891,
       "date": "2026-06-26T13:29:38+00:00",
@@ -17,8 +39,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1891-1-04c63c6bb633-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1891-1-04c63c6bb633-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1891-1-8afe1f9bafd3-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1891-1-8afe1f9bafd3-v4.jpg"
         },
         {
           "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1891-2-aaf7306e252e-v4.jpg",
@@ -44,8 +66,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1890-1-64bb5389e47a-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1890-1-64bb5389e47a-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1890-1-a82450134f52-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1890-1-a82450134f52-v4.jpg"
         }
       ],
       "video_url": null,
@@ -62,16 +84,16 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1887-1-0f742956e793-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1887-1-0f742956e793-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1887-1-b233c7212344-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1887-1-b233c7212344-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1887-2-1ec83a9913c0-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1887-2-1ec83a9913c0-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1887-2-cef7b8c8d75f-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1887-2-cef7b8c8d75f-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1887-3-c870bcf42156-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1887-3-c870bcf42156-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1887-3-4233e0c8a093-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1887-3-4233e0c8a093-v4.jpg"
         }
       ],
       "video_url": null,
@@ -88,8 +110,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1886-1-5323b9a448c2-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1886-1-5323b9a448c2-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1886-1-c2ca69257fd4-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1886-1-c2ca69257fd4-v4.jpg"
         }
       ],
       "video_url": null,
@@ -214,8 +236,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1879-1-0099244e8874-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1879-1-0099244e8874-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1879-1-1af3120079fb-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1879-1-1af3120079fb-v4.jpg"
         }
       ],
       "video_url": null,
@@ -250,12 +272,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1876-1-dbaa18db0dee-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1876-1-dbaa18db0dee-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1876-1-749dcf04c858-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1876-1-749dcf04c858-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1876-2-f05d4becbaab-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1876-2-f05d4becbaab-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1876-2-9003b2615d5a-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1876-2-9003b2615d5a-v4.jpg"
         }
       ],
       "video_url": null,
@@ -290,30 +312,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1874-1-2c736efd2f66-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1874-1-2c736efd2f66-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1874-1-043ac13c682d-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1874-1-043ac13c682d-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/pgp_official/1874",
-      "forwarded_from": null
-    },
-    {
-      "id": 1873,
-      "date": "2026-06-11T08:02:17+00:00",
-      "text": "🛡 Какие вызовы сегодня сопровождают сделки на фармацевтическом рынке?\n\n💊  В фарме и медтехе договорная работа является ключевым фактором сделок. Что бизнесу необходимо учесть в договоре и структуре сделки, чтобы минимизировать финансовые потери, неустойки и риск корпоративных конфликтов?\n \n17 июня приглашаем на встречу с экспертами «Пепеляев Групп», на которой обсудим:\n✔️ Приобретение прав на продукт (ЛП, МИ, БАД): риски и договорно-правовые способы их минимизации\n✔️ Налоговые аспекты структурирования сделок с активами в фармацевтике\n✔️Качество как главный ингредиент сделки: что необходимо учесть в договорной работе\n✔️Корпоративные риски сделок в фарме и медтехе: антисанкционные ограничения, оспаривание и корпоративные конфликты\n\n📍 Место: офис «Пепеляев Групп»\n\n🌐 Регистрация доступна по ссылке.\n\n#pg_мероприятия",
-      "text_html": "🛡 Какие вызовы сегодня сопровождают сделки на фармацевтическом рынке?<br><br>💊  В фарме и медтехе договорная работа является ключевым фактором сделок. Что бизнесу необходимо учесть в договоре и структуре сделки, чтобы минимизировать финансовые потери, неустойки и риск корпоративных конфликтов?<br> <br>17 июня приглашаем на встречу с экспертами «Пепеляев Групп», на которой обсудим:<br>✔️ Приобретение прав на продукт (ЛП, МИ, БАД): риски и договорно-правовые способы их минимизации<br>✔️ Налоговые аспекты структурирования сделок с активами в фармацевтике<br>✔️Качество как главный ингредиент сделки: что необходимо учесть в договорной работе<br>✔️Корпоративные риски сделок в фарме и медтехе: антисанкционные ограничения, оспаривание и корпоративные конфликты<br><br>📍 Место: офис «Пепеляев Групп»<br><br>🌐 Регистрация доступна <a href=\"https://www.pgplaw.ru/events/upcoming-events/dogovornye-riski-farmatsevticheskikh-i-medtekh-kompaniy-vyyavlenie-otsenka-i-mekhanizmy-zashchity/\" target=\"_blank\" rel=\"noopener noreferrer\">по ссылке</a>.<br><br>#pg_мероприятия",
-      "views": 792,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1873-1-0eb8c96faa0f-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1873-1-0eb8c96faa0f-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/pgp_official/1873",
       "forwarded_from": null
     }
   ]
