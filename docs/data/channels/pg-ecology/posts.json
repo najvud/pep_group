@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T03:53:08.192356+00:00",
+  "generated_at": "2026-08-22T04:22:00.246182+00:00",
   "site": {
     "channel_username": "pgecology",
     "channel_title": "PG Ecology | Экология",
@@ -19,7 +19,7 @@
   "pagination": {
     "page": 1,
     "page_size": 16,
-    "total_posts": 60,
+    "total_posts": 59,
     "total_pages": 4
   },
   "posts": [
