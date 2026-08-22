@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T19:00:30.780730+00:00",
+  "generated_at": "2026-08-22T09:36:17.039212+00:00",
   "pagination": {
     "page": 3,
     "page_size": 16,
@@ -195,8 +195,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1908-1-a1238584d133-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1908-1-a1238584d133-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1908-1-8b3f87a40963-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1908-1-8b3f87a40963-v4.jpg"
         }
       ],
       "video_url": null,
