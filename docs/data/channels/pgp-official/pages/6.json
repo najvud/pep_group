@@ -1,12 +1,47 @@
 {
-  "generated_at": "2026-08-24T07:44:31.732964+00:00",
+  "generated_at": "2026-08-24T11:47:53.829851+00:00",
   "pagination": {
     "page": 6,
     "page_size": 16,
-    "total_posts": 84,
+    "total_posts": 85,
     "total_pages": 6
   },
   "posts": [
+    {
+      "id": 1848,
+      "date": "2026-05-27T11:58:36+00:00",
+      "text": "⭐️Требования иностранной компании в размере 695 млн руб. включены в реестр требований кредиторов должника\n\nКоманде практики банкротства и антикризисной защиты бизнеса «Пепеляев Групп» удалось оперативно включить требования доверителя в реестр требований кредиторов должника в полном объеме (695 млн руб.), включая начисленные проценты.\n\n📎Рассказываем подробнее о проекте в карточках и на сайте.\n\n#pg_победы",
+      "text_html": "⭐️Требования иностранной компании в размере 695 млн руб. включены в реестр требований кредиторов должника<br><br><a href=\"https://www.pgplaw.ru/practice-and-industry/practices/bankruptcy/\" target=\"_blank\" rel=\"noopener noreferrer\">Команде практики банкротства и антикризисной защиты бизнеса «Пепеляев Групп»</a> удалось оперативно включить требования доверителя в реестр требований кредиторов должника в полном объеме (695 млн руб.), включая начисленные проценты.<br><br>📎Рассказываем подробнее о проекте в карточках и <a href=\"https://www.pgplaw.ru/our-experience/250139/\" target=\"_blank\" rel=\"noopener noreferrer\">на сайте</a>.<br><br>#pg_победы",
+      "views": 675,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1848-1-f40d2d8a7a08-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1848-1-f40d2d8a7a08-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1848-2-521da83f405c-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1848-2-521da83f405c-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1848-3-8b69ab4d0be2-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1848-3-8b69ab4d0be2-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1848-4-28968987f3c8-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1848-4-28968987f3c8-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/pgp_official/1848",
+      "forwarded_from": {
+        "source_url": "https://t.me/bankrotstvo_mustknow/502",
+        "channel_url": "https://t.me/s/bankrotstvo_mustknow",
+        "channel_username": "bankrotstvo_mustknow",
+        "channel_title": "Банкротство | Взгляд эксперта"
+      }
+    },
     {
       "id": 1847,
       "date": "2026-05-27T08:59:58+00:00",
