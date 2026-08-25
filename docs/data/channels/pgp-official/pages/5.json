@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-08-25T13:03:53.594581+00:00",
+  "generated_at": "2026-08-25T13:59:00.096086+00:00",
   "pagination": {
     "page": 5,
     "page_size": 16,
-    "total_posts": 84,
+    "total_posts": 85,
     "total_pages": 6
   },
   "posts": [
+    {
+      "id": 1876,
+      "date": "2026-06-15T07:01:27+00:00",
+      "text": "￼🔍 Начинаем рабочую неделю с рубрикой #PGГрамотность\n \n￼☝️ Кавычки для названия компании, в котором есть и латиница, и кириллица: ставить или нет?\n\nЧитайте в карточке правописания!\n\n🏢 Подписаться на рассылки | MAX | Приложение PG",
+      "text_html": "￼🔍 Начинаем рабочую неделю с рубрикой #PGГрамотность<br> <br>￼☝️ Кавычки для названия компании, в котором есть и латиница, и кириллица: ставить или нет?<br><br>Читайте в карточке правописания!<br><br>🏢 <a href=\"https://www.pgplaw.ru/subscribe/\" target=\"_blank\" rel=\"noopener noreferrer\">Подписаться на рассылки |</a> <a href=\"https://max.ru/id7707301372_biz\" target=\"_blank\" rel=\"noopener noreferrer\">MAX |</a> <a href=\"https://t.me/pgp_official/1769\" target=\"_blank\" rel=\"noopener noreferrer\">Приложение PG</a>",
+      "views": 759,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1876-1-c158e9c2fe6b-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1876-1-c158e9c2fe6b-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1876-2-2090406d7724-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1876-2-2090406d7724-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/pgp_official/1876",
+      "forwarded_from": null
+    },
     {
       "id": 1875,
       "date": "2026-06-11T11:59:58+00:00",
@@ -312,24 +334,6 @@
       ],
       "video_url": null,
       "tg_url": "https://t.me/pgp_official/1853",
-      "forwarded_from": null
-    },
-    {
-      "id": 1852,
-      "date": "2026-05-28T10:04:33+00:00",
-      "text": "🏢 Еженедельная подборка обзоров от практик «Пепеляев Групп»\n\nЧто изменилось за последнюю неделю, и на что стоит обратить внимание бизнесу?\n\n▫️ Недвижимость и строительство: обзор новостей от 22 мая 2026 г.\n\n▫️ Налоговые новости. Дайджест за 18–24 мая 2026 г.\n\n▫️ СпецИнвестРежимы в Сибири и на Дальнем Востоке. Дайджест 18–24 мая 2026 г.\n\n▫️ Телекоммуникации, медиа, ИТ, персональные данные. Дайджест за 25 апреля – 25 мая 2026 г.\n\n▫️ Банкротство: взгляд эксперта. Обзор № 322 за 21–27 мая 2026 г.\n\nТакже смотрите новое видео:\n\n🔘 Защита личных активов в банкротстве: семейные и наследственные вопросы. Часть 2 VK| Rutube| YouTube\n\n#pg_обзоры_недели\n\n☝️ Подписаться на рассылки | MAX | Приложение PG",
-      "text_html": "🏢 Еженедельная подборка обзоров от практик «Пепеляев Групп»<br><br>Что изменилось за последнюю неделю, и на что стоит обратить внимание бизнесу?<br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/real-estate-must-read/Real-estate-must-read-22-05-25/\" target=\"_blank\" rel=\"noopener noreferrer\">Недвижимость и строительство: обзор новостей от 22 мая 2026 г.</a><br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/tax-reviews/tax-news-digest-24-05-26/\" target=\"_blank\" rel=\"noopener noreferrer\">Налоговые новости. Дайджест за 18–24 мая 2026 г.</a><br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/spec-invest-obzor/invest-news-digest-26-05-25/\" target=\"_blank\" rel=\"noopener noreferrer\">СпецИнвестРежимы в Сибири и на Дальнем Востоке. Дайджест 18–24 мая 2026 г.</a><br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/telecom-digest/telecom-digest-26-05-26/\" target=\"_blank\" rel=\"noopener noreferrer\">Телекоммуникации, медиа, ИТ, персональные данные. Дайджест за 25 апреля – 25 мая 2026 г.</a><br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/bankruptcy-must-read/bankruptcy-digest-27-05-26/\" target=\"_blank\" rel=\"noopener noreferrer\">Банкротство: взгляд эксперта. Обзор № 322 за 21–27 мая 2026 г.</a><br><br>Также смотрите новое видео:<br><br>🔘 Защита личных активов в банкротстве: семейные и наследственные вопросы. Часть 2 <a href=\"https://vkvideo.ru/video-227047542_456239409?list=ln-GfQNF7chGBobTPtGQq\" target=\"_blank\" rel=\"noopener noreferrer\">VK</a>| <a href=\"https://rutube.ru/video/4472ef7ebf0a87d332ebf3ea7bae6faa/\" target=\"_blank\" rel=\"noopener noreferrer\">Rutube</a>| <a href=\"https://youtu.be/-nSwYoILfZc\" target=\"_blank\" rel=\"noopener noreferrer\">YouTube</a><br><br>#pg_обзоры_недели<br><br>☝️ <a href=\"https://www.pgplaw.ru/subscribe/\" target=\"_blank\" rel=\"noopener noreferrer\">Подписаться на рассылки |</a> <a href=\"https://max.ru/id7707301372_biz\" target=\"_blank\" rel=\"noopener noreferrer\">MAX |</a> <a href=\"https://t.me/pgp_official/1769\" target=\"_blank\" rel=\"noopener noreferrer\">Приложение PG</a>",
-      "views": 709,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1852-1-48f386f6720c-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1852-1-48f386f6720c-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/pgp_official/1852",
       "forwarded_from": null
     }
   ]
