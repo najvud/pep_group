@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-08-27T20:03:11.066314+00:00",
+  "generated_at": "2026-08-28T04:12:28.746445+00:00",
   "pagination": {
     "page": 4,
     "page_size": 16,
-    "total_posts": 59,
+    "total_posts": 60,
     "total_pages": 4
   },
   "posts": [
+    {
+      "id": 1359,
+      "date": "2026-06-17T04:00:03+00:00",
+      "text": "📣 30.05.2026 опубликован Приказ Минприроды России от 08.04.2026 № 194 «Об утверждении Порядка разработки и установления в составе комплексного экологического разрешения нормативов образования отходов производства и потребления и лимитов на их размещение»\n\n⏱️Документ действует с 01.09.2026 по 01.09.2031.\n\n#ИзмененияЗаконодательства",
+      "text_html": "📣 30.05.2026 опубликован <a href=\"http://publication.pravo.gov.ru/document/0001202605300003\" target=\"_blank\" rel=\"noopener noreferrer\">Приказ Минприроды России от 08.04.2026 № 194</a> «Об утверждении Порядка разработки и установления в составе комплексного экологического разрешения нормативов образования отходов производства и потребления и лимитов на их размещение»<br><br>⏱️Документ действует с 01.09.2026 по 01.09.2031.<br><br>#ИзмененияЗаконодательства",
+      "views": 323,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1359-1-817aa328d461-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1359-1-817aa328d461-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/pgecology/1359",
+      "forwarded_from": null
+    },
     {
       "id": 1358,
       "date": "2026-06-15T04:00:01+00:00",
@@ -17,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1358-1-dee56b558a89-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1358-1-dee56b558a89-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1358-1-a754a7f95024-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1358-1-a754a7f95024-v4.jpg"
         }
       ],
       "video_url": null,
@@ -48,8 +66,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1356-1-82a6170c0886-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1356-1-82a6170c0886-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1356-1-97d83f238ec2-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1356-1-97d83f238ec2-v4.jpg"
         }
       ],
       "video_url": null,
@@ -79,8 +97,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1354-1-0624b23d7aa6-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1354-1-0624b23d7aa6-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1354-1-d3ee5a3ae8d2-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1354-1-d3ee5a3ae8d2-v4.jpg"
         }
       ],
       "video_url": null,
@@ -97,8 +115,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1353-1-3e3f01b630aa-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1353-1-3e3f01b630aa-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1353-1-08c3cf1fad95-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1353-1-08c3cf1fad95-v4.jpg"
         }
       ],
       "video_url": null,
@@ -128,8 +146,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1351-1-43d494ae1afe-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1351-1-43d494ae1afe-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1351-1-9f0dca812b76-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1351-1-9f0dca812b76-v4.jpg"
         }
       ],
       "video_url": null,
@@ -159,8 +177,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1349-1-d0a796a1011a-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1349-1-d0a796a1011a-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1349-1-8b158e140791-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1349-1-8b158e140791-v4.jpg"
         }
       ],
       "video_url": null,
