@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-29T00:44:26.180597+00:00",
+  "generated_at": "2026-08-29T07:25:33.443838+00:00",
   "pagination": {
     "page": 4,
     "page_size": 16,
-    "total_posts": 60,
+    "total_posts": 59,
     "total_pages": 4
   },
   "posts": [
@@ -17,8 +17,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1359-1-a29a1d7de59c-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1359-1-a29a1d7de59c-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1359-1-d41747466b75-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1359-1-d41747466b75-v4.jpg"
         }
       ],
       "video_url": null,
@@ -146,8 +146,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1351-1-12d9b78ad0b2-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1351-1-12d9b78ad0b2-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1351-1-263c19b60b71-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1351-1-263c19b60b71-v4.jpg"
         }
       ],
       "video_url": null,
@@ -183,24 +183,6 @@
       ],
       "video_url": null,
       "tg_url": "https://t.me/pgecology/1349",
-      "forwarded_from": null
-    },
-    {
-      "id": 1348,
-      "date": "2026-05-29T04:00:10+00:00",
-      "text": "⚔️Управление Росприроднадзора заявило иск о взыскании ущерба почве, ссылаясь на загрязнение земельного участка нефтепродуктами в результате аварии на объекте🛡Предпринимателя.\n\n🛡Предприниматель заявил о нарушениях при отборе проб.\n\nА как считаете Вы\n\n1️⃣ В случае аварийной ситуации причинение вреда презюмируется, а невозможность точного определения размера вреда не является основанием для отказа в возмещении вреда в полном объеме;\n\n2️⃣ Нарушения процедуры отбора проб, если они влекут искажение результатов анализа проб, приводят к невозможности (неправомерности) использования полученных данных для расчета ущерба.\n\n#РешаемСпор",
-      "text_html": "⚔️Управление Росприроднадзора заявило иск о взыскании ущерба почве, ссылаясь на загрязнение земельного участка нефтепродуктами в результате аварии на объекте🛡Предпринимателя.<br><br>🛡Предприниматель заявил о нарушениях при отборе проб.<br><br>А как считаете Вы<br><br>1️⃣ В случае аварийной ситуации причинение вреда презюмируется, а невозможность точного определения размера вреда не является основанием для отказа в возмещении вреда в полном объеме;<br><br>2️⃣ Нарушения процедуры отбора проб, если они влекут искажение результатов анализа проб, приводят к невозможности (неправомерности) использования полученных данных для расчета ущерба.<br><br>#РешаемСпор",
-      "views": 390,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1348-1-ed96baeea107-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1348-1-ed96baeea107-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/pgecology/1348",
       "forwarded_from": null
     }
   ]
