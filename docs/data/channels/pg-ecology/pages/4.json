@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-08-30T21:30:22.821855+00:00",
+  "generated_at": "2026-08-31T07:41:16.479030+00:00",
   "pagination": {
     "page": 4,
     "page_size": 16,
-    "total_posts": 59,
+    "total_posts": 60,
     "total_pages": 4
   },
   "posts": [
+    {
+      "id": 1360,
+      "date": "2026-06-17T04:01:07+00:00",
+      "text": "Порядок предусматривает \n\n▪️Методы расчёта нормативов образования отходов, включая:\n\n✔️метод по фактическим объёмам образования отходов (статистический метод) — расчёт норматива на основе фактических данных;\n\n✔️метод по материально-сырьевому балансу;\n\n✔️метод по удельным отраслевым нормативам.\n\n▪️Представление Проекта НООЛР на согласование в составе КЭР (отдельное согласование не предусмотрено).\n\n▪️Состав разделов Проекта НООЛР:\n\n✔️общие сведения о предприятии;\n✔️описание технологических процессов, в результате которых образуются отходы;\n✔️сведения о физико-химических свойствах, количестве, составе отходов;\n✔️характеристика и карты-схемы мест временного складирования отходов;\n✔️паспорта опасных отходов I–IV класса опасности;\n✔️план мероприятий по снижению количества отходов;\n✔️противоаварийные и профилактические мероприятия.\n\n#ИзмененияЗаконодательства",
+      "text_html": "Порядок предусматривает <br><br>▪️Методы расчёта нормативов образования отходов, включая:<br><br>✔️метод по фактическим объёмам образования отходов (статистический метод) — расчёт норматива на основе фактических данных;<br><br>✔️метод по материально-сырьевому балансу;<br><br>✔️метод по удельным отраслевым нормативам.<br><br>▪️Представление Проекта НООЛР на согласование в составе КЭР (отдельное согласование не предусмотрено).<br><br>▪️Состав разделов Проекта НООЛР:<br><br>✔️общие сведения о предприятии;<br>✔️описание технологических процессов, в результате которых образуются отходы;<br>✔️сведения о физико-химических свойствах, количестве, составе отходов;<br>✔️характеристика и карты-схемы мест временного складирования отходов;<br>✔️паспорта опасных отходов I–IV класса опасности;<br>✔️план мероприятий по снижению количества отходов;<br>✔️противоаварийные и профилактические мероприятия.<br><br>#ИзмененияЗаконодательства",
+      "views": 401,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [],
+      "video_url": null,
+      "tg_url": "https://t.me/pgecology/1360",
+      "forwarded_from": null
+    },
     {
       "id": 1359,
       "date": "2026-06-17T04:00:03+00:00",
@@ -17,8 +30,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1359-1-ffef05a15acc-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1359-1-ffef05a15acc-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1359-1-8e7622131fee-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1359-1-8e7622131fee-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +48,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1358-1-2f3204ce103f-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1358-1-2f3204ce103f-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1358-1-03ca0dcbac27-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1358-1-03ca0dcbac27-v4.jpg"
         }
       ],
       "video_url": null,
@@ -66,8 +79,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1356-1-fa599e36e857-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1356-1-fa599e36e857-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1356-1-5c2bcd8a9934-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1356-1-5c2bcd8a9934-v4.jpg"
         }
       ],
       "video_url": null,
@@ -97,8 +110,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1354-1-f2bf90dbbc03-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1354-1-f2bf90dbbc03-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1354-1-8c7e5f85f8be-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1354-1-8c7e5f85f8be-v4.jpg"
         }
       ],
       "video_url": null,
@@ -115,8 +128,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1353-1-4835e3bfe077-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1353-1-4835e3bfe077-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1353-1-8313f48f4c15-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1353-1-8313f48f4c15-v4.jpg"
         }
       ],
       "video_url": null,
@@ -146,8 +159,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1351-1-26115aa2f67f-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1351-1-26115aa2f67f-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1351-1-132dbe43ef4f-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1351-1-132dbe43ef4f-v4.jpg"
         }
       ],
       "video_url": null,
@@ -177,8 +190,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1349-1-6376917fcff1-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1349-1-6376917fcff1-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1349-1-cb39802e35a6-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1349-1-cb39802e35a6-v4.jpg"
         }
       ],
       "video_url": null,

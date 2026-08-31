@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-08-30T21:31:06.276502+00:00",
+  "generated_at": "2026-08-31T07:41:52.531429+00:00",
   "pagination": {
     "page": 4,
     "page_size": 16,
-    "total_posts": 62,
+    "total_posts": 63,
     "total_pages": 4
   },
   "posts": [
+    {
+      "id": 526,
+      "date": "2026-06-23T14:13:14+00:00",
+      "text": "🎙 Уже завтра в рамках ПМЮФ состоится сессия «Банкротство: старые проблемы – новые решения».\n\nОздоровление бизнеса, внедрение новых реабилитационных механизмов и повышение эффективности ликвидационных процедур – главный вектор развития института несостоятельности и банкротства. \n\nНа решение поставленных в этой сфере задач направлена реализация Национальной модели бизнеса и глобальный законопроект, внесенный в Государственную Думу.\n\n🔵Каковы конкретные предложения по реабилитации бизнеса и превращению банкротства в эффективный инструмент экономики? \n🔵Как оценить эффективность предлагаемых новых механизмов? \n🔵Чем необходимо дополнить законопроект? \n🔵Как сделать так, чтобы новации оказались востребованными, а их цели достижимыми? \n🔵Что нужно для этого помимо совершенствования законодательства о банкротстве?\n\nОдним словом, обсудим новые решения старых проблем 24 июня в 11:30.\n\n➡️ Онлайн трансляция будет доступна по ссылке",
+      "text_html": "🎙 Уже завтра в рамках ПМЮФ состоится сессия «Банкротство: старые проблемы – новые решения».<br><br>Оздоровление бизнеса, внедрение новых реабилитационных механизмов и повышение эффективности ликвидационных процедур – главный вектор развития института несостоятельности и банкротства. <br><br>На решение поставленных в этой сфере задач направлена реализация Национальной модели бизнеса и глобальный законопроект, внесенный в Государственную Думу.<br><br>🔵Каковы конкретные предложения по реабилитации бизнеса и превращению банкротства в эффективный инструмент экономики? <br>🔵Как оценить эффективность предлагаемых новых механизмов? <br>🔵Чем необходимо дополнить законопроект? <br>🔵Как сделать так, чтобы новации оказались востребованными, а их цели достижимыми? <br>🔵Что нужно для этого помимо совершенствования законодательства о банкротстве?<br><br>Одним словом, обсудим новые решения старых проблем 24 июня в 11:30.<br><br>➡️ <a href=\"https://legalforum.info/programme/business-programme/10257/#broadcast\" target=\"_blank\" rel=\"noopener noreferrer\">Онлайн трансляция будет доступна по ссылке</a>",
+      "views": 293,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/526-1-00727a02de32-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/526-1-00727a02de32-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/bankrotstvo_mustknow/526",
+      "forwarded_from": null
+    },
     {
       "id": 525,
       "date": "2026-06-23T06:02:01+00:00",
@@ -17,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/525-1-158ebf7279bd-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/525-1-158ebf7279bd-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/525-1-713db3e6511d-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/525-1-713db3e6511d-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +53,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/524-1-9ab9406d2cac-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/524-1-9ab9406d2cac-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/524-1-413953614e7b-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/524-1-413953614e7b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -53,8 +71,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/523-1-01ab42b259d3-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/523-1-01ab42b259d3-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/523-1-c4b9db34dcde-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/523-1-c4b9db34dcde-v4.jpg"
         }
       ],
       "video_url": null,
@@ -71,8 +89,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/522-1-f032df2bba02-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/522-1-f032df2bba02-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/522-1-a04fb71f6358-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/522-1-a04fb71f6358-v4.jpg"
         }
       ],
       "video_url": null,
@@ -89,8 +107,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/521-1-6c34e2399fa4-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/521-1-6c34e2399fa4-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/521-1-11dacfc9c308-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/521-1-11dacfc9c308-v4.jpg"
         }
       ],
       "video_url": null,
@@ -107,8 +125,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/520-1-a5c88f24874a-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/520-1-a5c88f24874a-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/520-1-c01c1931245b-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/520-1-c01c1931245b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -125,8 +143,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/519-1-9885bd6c9e44-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/519-1-9885bd6c9e44-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/519-1-fcb67f181a0f-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/519-1-fcb67f181a0f-v4.jpg"
         }
       ],
       "video_url": null,
@@ -143,8 +161,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/518-1-c4fc965d6877-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/518-1-c4fc965d6877-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/518-1-c3228787d395-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/518-1-c3228787d395-v4.jpg"
         }
       ],
       "video_url": null,
@@ -156,13 +174,13 @@
       "date": "2026-06-09T11:35:26+00:00",
       "text": "Интересы кредиторов уступили преимущественному праву покупки 🐷\n\nАнна Никитина, юрист практики банкротства и антикризисной защиты бизнеса, анализирует свежее определение ВС РФ о порядке реализации преимущественного права на банкротных торгах.\n\n✍️ В деле о банкротстве на торги была выставлена доля должника в праве собственности на газопровод. После проведения торгов конкурный управляющий предложил другим участникам долевой собственности воспользоваться преимущественным правом покупки.\n\n🧮Один из сособственников выразил готовность приобрести долю по цене выше той, что была определена по итогам торгов, после чего договор купли-продажи был заключен именно с ним. Однако другой сособственник обратился с заявлением об оспаривании такого договора, указав на нарушение своего преимущественного права.\n\n⚖️ Суды трех инстанций отказали в признании договора недействительным, однако Верховный Суд РФ с этим не согласился.  Договор купли-продажи был признан недействительным, а вопрос о последствиях его недействительности направлен на новое рассмотрение.\n\n🎯Почему так?\n\nВерховный Суд решил, что управляющий не обеспечил равные возможности для реализации преимущественного права покупки всеми сособственниками. Получив предложение о покупке доли по более высокой цене, управляющий должен был либо организовать открытый аукцион между заинтересованными сособственниками, либо предложить приобрести имущество пропорционально принадлежащим им долям.\n\n💬 В споре столкнулись стремление управляющего и кредиторов пополнить конкурсную массу за счет максимально выгодной продажи имущества и право сособственника на преимущественную покупку.  Однако позиция ВС РФ показывает: нарушение процедуры ради более выгодной продажи рискует стать дорогостоящей ошибкой. Выиграв в цене сегодня, можно проиграть месяцы в судебных спорах завтра.\n\n#Торги\n#Недействительность_сделок\n#Арбитражный_управляющий",
       "text_html": "Интересы кредиторов уступили преимущественному праву покупки 🐷<br><br>Анна Никитина, юрист <a href=\"https://www.pgplaw.ru/practice-and-industry/practices/bankruptcy/\" target=\"_blank\" rel=\"noopener noreferrer\">практики банкротства и антикризисной защиты бизнеса</a>, анализирует <a href=\"https://kad.arbitr.ru/Document/Pdf/c82be91e-fb83-4838-8210-d6dd217008a9/7a204808-e5c7-461b-bc10-1b2be413cedd/A40-171614-2015_20260528_Opredelenie.pdf?isAddStamp=True\" target=\"_blank\" rel=\"noopener noreferrer\">свежее определение ВС РФ</a> о порядке реализации преимущественного права на банкротных торгах.<br><br>✍️ В деле о банкротстве на торги была выставлена доля должника в праве собственности на газопровод. После проведения торгов конкурный управляющий предложил другим участникам долевой собственности воспользоваться преимущественным правом покупки.<br><br>🧮Один из сособственников выразил готовность приобрести долю по цене выше той, что была определена по итогам торгов, после чего договор купли-продажи был заключен именно с ним. Однако другой сособственник обратился с заявлением об оспаривании такого договора, указав на нарушение своего преимущественного права.<br><br>⚖️ Суды трех инстанций отказали в признании договора недействительным, однако Верховный Суд РФ с этим не согласился.  Договор купли-продажи был признан недействительным, а вопрос о последствиях его недействительности направлен на новое рассмотрение.<br><br>🎯Почему так?<br><br>Верховный Суд решил, что управляющий не обеспечил равные возможности для реализации преимущественного права покупки всеми сособственниками. Получив предложение о покупке доли по более высокой цене, управляющий должен был либо организовать открытый аукцион между заинтересованными сособственниками, либо предложить приобрести имущество пропорционально принадлежащим им долям.<br><br>💬 В споре столкнулись стремление управляющего и кредиторов пополнить конкурсную массу за счет максимально выгодной продажи имущества и право сособственника на преимущественную покупку.  Однако позиция ВС РФ показывает: нарушение процедуры ради более выгодной продажи рискует стать дорогостоящей ошибкой. Выиграв в цене сегодня, можно проиграть месяцы в судебных спорах завтра.<br><br>#Торги<br>#Недействительность_сделок<br>#Арбитражный_управляющий",
-      "views": 282,
+      "views": 283,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/517-1-eab4b5354955-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/517-1-eab4b5354955-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/517-1-0393758d5c06-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/517-1-0393758d5c06-v4.jpg"
         }
       ],
       "video_url": null,
@@ -179,8 +197,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/516-1-d7326a295dae-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/516-1-d7326a295dae-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/516-1-be5c71751182-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/516-1-be5c71751182-v4.jpg"
         }
       ],
       "video_url": null,
@@ -197,8 +215,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/515-1-ea26e894e52f-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/515-1-ea26e894e52f-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/515-1-d35ce53e4d32-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/515-1-d35ce53e4d32-v4.jpg"
         }
       ],
       "video_url": null,
@@ -215,24 +233,24 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/510-1-c076a239ead2-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/510-1-c076a239ead2-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/510-1-2418bca683a5-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/510-1-2418bca683a5-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/510-2-355137e3131d-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/510-2-355137e3131d-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/510-2-e480f74554cf-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/510-2-e480f74554cf-v4.jpg"
         },
         {
           "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/510-3-fff1a2f39822-v4.jpg",
           "full_url": "data/channels/bankrotstvo-mustknow/media/posts/510-3-fff1a2f39822-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/510-4-a8de936b8f26-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/510-4-a8de936b8f26-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/510-4-c4b2047204ab-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/510-4-c4b2047204ab-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/510-5-106501a857e8-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/510-5-106501a857e8-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/510-5-b439279dbff7-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/510-5-b439279dbff7-v4.jpg"
         }
       ],
       "video_url": null,
@@ -249,8 +267,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/509-1-3bb130085af8-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/509-1-3bb130085af8-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/509-1-516ab99460be-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/509-1-516ab99460be-v4.jpg"
         }
       ],
       "video_url": null,
@@ -267,8 +285,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/508-1-82501bbfc6c4-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/508-1-82501bbfc6c4-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/508-1-ce75f45b13ed-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/508-1-ce75f45b13ed-v4.jpg"
         }
       ],
       "video_url": null,
