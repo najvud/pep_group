@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-08-31T07:40:51.764943+00:00",
+  "generated_at": "2026-08-31T15:30:20.684220+00:00",
   "pagination": {
     "page": 9,
     "page_size": 16,
-    "total_posts": 153,
+    "total_posts": 154,
     "total_pages": 10
   },
   "posts": [
+    {
+      "id": 2726,
+      "date": "2026-06-16T10:03:54+00:00",
+      "text": "📢 Новости региональных УФНС\n\nНа сайте \"Налоговеда\" опубликован обзор новостей региональных УФНС за май.\n\nВ фокусе внимания Управлений службы:\n     🔴порядок работы введённой с 1 июня СПОТ (национальной системы подтверждения ожидания товаров),\n     🔴итоги работы за 1 квартал 2026,\n     🔴борьба со схемами по НДС,\n     🔴аналитика отказов от дробления бизнеса.\n\n#обзор_новостей_УФНС\n\n➖➖\n💡 Индивидуальные обзоры изменений налогового законодательства и практики с учётом специфики Вашего бизнеса — оформить здесь 👉",
+      "text_html": "📢 Новости региональных УФНС<br><br>На сайте \"Налоговеда\" опубликован <a href=\"https://nalogoved.ru/docs/16585.html\" target=\"_blank\" rel=\"noopener noreferrer\">обзор</a> новостей региональных УФНС за май.<br><br>В фокусе внимания Управлений службы:<br>     🔴порядок работы введённой с 1 июня СПОТ (национальной системы подтверждения ожидания товаров),<br>     🔴итоги работы за 1 квартал 2026,<br>     🔴борьба со схемами по НДС,<br>     🔴аналитика отказов от дробления бизнеса.<br><br>#обзор_новостей_УФНС<br><br>➖➖<br>💡 Индивидуальные обзоры изменений налогового законодательства и практики с учётом специфики Вашего бизнеса — <a href=\"https://www.pgplaw.ru/practice-and-industry/practices/obzory-zakonodatelstva-i-praktiki/\" target=\"_blank\" rel=\"noopener noreferrer\">оформить здесь</a> 👉",
+      "views": 936,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2726-1-72779a50d3f3-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2726-1-72779a50d3f3-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/PG_Tax/2726",
+      "forwarded_from": null
+    },
     {
       "id": 2725,
       "date": "2026-06-16T08:13:07+00:00",
@@ -17,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2725-1-23d55c108652-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2725-1-23d55c108652-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2725-1-3fd049d5b43b-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2725-1-3fd049d5b43b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,16 +53,16 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2722-1-3bf25b13acc0-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2722-1-3bf25b13acc0-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2722-1-ae82d7ff5484-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2722-1-ae82d7ff5484-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2722-2-35131f3d8f92-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2722-2-35131f3d8f92-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2722-2-54dc088b1b40-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2722-2-54dc088b1b40-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2722-3-8690f567f57b-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2722-3-8690f567f57b-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2722-3-fd1e90eb8b97-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2722-3-fd1e90eb8b97-v4.jpg"
         }
       ],
       "video_url": null,
@@ -61,8 +79,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2721-1-da17cd701a7b-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2721-1-da17cd701a7b-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2721-1-38117546f4ac-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2721-1-38117546f4ac-v4.jpg"
         }
       ],
       "video_url": null,
@@ -79,8 +97,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2720-1-e17fabe2971c-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2720-1-e17fabe2971c-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2720-1-cf44ae4fd82a-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2720-1-cf44ae4fd82a-v4.jpg"
         }
       ],
       "video_url": null,
@@ -97,8 +115,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2719-1-bdb58b865764-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2719-1-bdb58b865764-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2719-1-67e8607833b2-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2719-1-67e8607833b2-v4.jpg"
         }
       ],
       "video_url": null,
@@ -115,8 +133,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2718-1-a4750bc397c3-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2718-1-a4750bc397c3-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2718-1-bda9f03866b7-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2718-1-bda9f03866b7-v4.jpg"
         }
       ],
       "video_url": null,
@@ -133,8 +151,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2717-1-d25740b16e12-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2717-1-d25740b16e12-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2717-1-42a9f8c5b9e4-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2717-1-42a9f8c5b9e4-v4.jpg"
         }
       ],
       "video_url": null,
@@ -151,8 +169,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2716-1-ed4f7ae51ef1-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2716-1-ed4f7ae51ef1-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2716-1-fb468a23f411-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2716-1-fb468a23f411-v4.jpg"
         }
       ],
       "video_url": null,
@@ -169,8 +187,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2715-1-210727213fae-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2715-1-210727213fae-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2715-1-4351ee469bfe-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2715-1-4351ee469bfe-v4.jpg"
         }
       ],
       "video_url": null,
@@ -187,8 +205,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2714-1-03fc32d7e7cd-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2714-1-03fc32d7e7cd-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2714-1-5fd7d43a0fec-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2714-1-5fd7d43a0fec-v4.jpg"
         }
       ],
       "video_url": null,
@@ -205,8 +223,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2713-1-6292cf90f3b2-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2713-1-6292cf90f3b2-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2713-1-38f06894fc97-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2713-1-38f06894fc97-v4.jpg"
         }
       ],
       "video_url": null,
@@ -223,8 +241,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2712-1-48e0a4a869d3-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2712-1-48e0a4a869d3-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2712-1-e4460fe7ed0a-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2712-1-e4460fe7ed0a-v4.jpg"
         }
       ],
       "video_url": null,
@@ -241,8 +259,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2711-1-e9278d662c51-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2711-1-e9278d662c51-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2711-1-aa83c3c29df4-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2711-1-aa83c3c29df4-v4.jpg"
         }
       ],
       "video_url": null,
@@ -259,8 +277,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2710-1-7b860a13b5fa-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2710-1-7b860a13b5fa-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2710-1-9c5848b0666d-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2710-1-9c5848b0666d-v4.jpg"
         }
       ],
       "video_url": null,
@@ -277,30 +295,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2709-1-bad3ff32c20b-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2709-1-bad3ff32c20b-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2709-1-2bdb1afdebc8-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2709-1-2bdb1afdebc8-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/PG_Tax/2709",
-      "forwarded_from": null
-    },
-    {
-      "id": 2708,
-      "date": "2026-06-04T10:35:47+00:00",
-      "text": "🔥 Управляющий партнер «Пепеляев Групп» Сергей Пепеляев о возможном введении нового разового чрезвычайного налога\n\nПараметры разового чрезвычайного налога налога обсуждает Минфин по поручению Президента РФ.\n\n💰 Не исключено, что речь пойдет об изъятии 20% «сверхприбыли» компаний, полученной в 2025 г. \n\nОсновные тезисы:\n\n   📎 Разовые налоги могут на деле стать многоразовыми, рецидивы в этой сфере случаются и за рубежом.\n\n   📎 В праве ЕС различают ситуации, когда закон меняет последствия уже завершенных событий и когда он влияет на текущие, еще незавершенные отношения. Но ст. 57 Конституции РФ запрещает оба механизма. КС РФ не раз подтверждал этот вывод.\n\n   📎 Основное качество чрезвычайного налогообложения — оперативность налогового регулирования, а не возможность пренебречь конституционными ограничениями.\n\n☝️ Современному российскому бизнесу остается лишь бороться за недопущение крайностей и лоббировать «тонкие настройки» чрезвычайного налогового законодательства, позволяющие установить более справедливые правила.\n\nЕсли решение о введении чрезвычайного налога будет принято, законодателю следует:\n     🔴рассмотреть вопрос о погашении убытков прошлых лет (должны вычитаться из «сверхприбыли» или рассчитываться как-то иначе, но учитываться, поскольку существенны для оценки фактической платежеспособности лица);\n     🔴предусмотреть справедливые инфляционные и масштабирующие коэффициенты;\n     🔴учесть положение стартапов, которые не получали ранее прибыли и начали ее генерировать только в 2025 г.;\n     🔴учесть то, что установление налогов на сверхприбыль стимулирует импорт – параллельно с законом о налоге на сверхприбыль, возможно, следует принять и антидемпинговые меры;\n     🔴помнить, что ретроспективное налогообложение болезненно сказывается и на акционерных отношениях.\n\nЭтот далеко не полный перечень практических проблем налогообложения аномальной прибыли приводит к мысли, что правовому принципу справедливости в большей мере соответствует отраслевой подход, применяемый в ЕС: плательщиками чрезвычайного налога признаются только те, кто принадлежит к бенефициарам благоприятной конъюнктуры. Исключается налогообложение излишне широкого круга компаний, что едва ли соответствует принципу правовой определенности.\n\n#Сергей_Пепеляев_ON_AIR",
-      "text_html": "🔥 Управляющий партнер «Пепеляев Групп» Сергей Пепеляев о возможном введении нового разового чрезвычайного налога<br><br>Параметры <a href=\"https://www.forbes.ru/mneniya/561771-nalog-na-sverhdohody-kak-izbezat-krajnostej\" target=\"_blank\" rel=\"noopener noreferrer\">разового чрезвычайного налога</a> налога обсуждает Минфин по поручению Президента РФ.<br><br>💰 Не исключено, что речь пойдет об изъятии 20% «сверхприбыли» компаний, полученной в 2025 г. <br><br>Основные тезисы:<br><br>   📎 Разовые налоги могут на деле стать многоразовыми, рецидивы в этой сфере случаются и за рубежом.<br><br>   📎 В праве ЕС различают ситуации, когда закон меняет последствия уже завершенных событий и когда он влияет на текущие, еще незавершенные отношения. Но ст. 57 Конституции РФ запрещает оба механизма. КС РФ не раз подтверждал этот вывод.<br><br>   📎 Основное качество чрезвычайного налогообложения — оперативность налогового регулирования, а не возможность пренебречь конституционными ограничениями.<br><br>☝️ Современному российскому бизнесу остается лишь бороться за недопущение крайностей и лоббировать «тонкие настройки» чрезвычайного налогового законодательства, позволяющие установить более справедливые правила.<br><br>Если решение о введении чрезвычайного налога будет принято, законодателю следует:<br>     🔴рассмотреть вопрос о погашении убытков прошлых лет (должны вычитаться из «сверхприбыли» или рассчитываться как-то иначе, но учитываться, поскольку существенны для оценки фактической платежеспособности лица);<br>     🔴предусмотреть справедливые инфляционные и масштабирующие коэффициенты;<br>     🔴учесть положение стартапов, которые не получали ранее прибыли и начали ее генерировать только в 2025 г.;<br>     🔴учесть то, что установление налогов на сверхприбыль стимулирует импорт – параллельно с законом о налоге на сверхприбыль, возможно, следует принять и антидемпинговые меры;<br>     🔴помнить, что ретроспективное налогообложение болезненно сказывается и на акционерных отношениях.<br><br>Этот далеко не полный перечень практических проблем налогообложения аномальной прибыли приводит к мысли, что правовому принципу справедливости в большей мере соответствует отраслевой подход, применяемый в ЕС: плательщиками чрезвычайного налога признаются только те, кто принадлежит к бенефициарам благоприятной конъюнктуры. Исключается налогообложение излишне широкого круга компаний, что едва ли соответствует принципу правовой определенности.<br><br>#Сергей_Пепеляев_ON_AIR",
-      "views": 984,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2708-1-8b9326890474-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2708-1-8b9326890474-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2708",
       "forwarded_from": null
     }
   ]

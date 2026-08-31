@@ -1,0 +1,33 @@
+{
+  "generated_at": "2026-08-31T15:27:53.088798+00:00",
+  "pagination": {
+    "page": 6,
+    "page_size": 16,
+    "total_posts": 81,
+    "total_pages": 6
+  },
+  "posts": [
+    {
+      "id": 1857,
+      "date": "2026-06-01T07:04:04+00:00",
+      "text": "🔍  Начинаем рабочую неделю с рубрикой #PG_Грамотность \n\n☝️ Несмотря на то что. Когда запятая не нужна?\n\nЧитайте в карточке правописания!\n\n🏢 Подписаться на рассылки | MAX | Приложение PG",
+      "text_html": "🔍  Начинаем рабочую неделю с рубрикой #PG_Грамотность <br><br>☝️ Несмотря на то что. Когда запятая не нужна?<br><br>Читайте в карточке правописания!<br><br>🏢 <a href=\"https://www.pgplaw.ru/subscribe/\" target=\"_blank\" rel=\"noopener noreferrer\">Подписаться на рассылки |</a> <a href=\"https://max.ru/id7707301372_biz\" target=\"_blank\" rel=\"noopener noreferrer\">MAX |</a> <a href=\"https://t.me/pgp_official/1769\" target=\"_blank\" rel=\"noopener noreferrer\">Приложение PG</a>",
+      "views": 627,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1857-1-0a76a4f4077f-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1857-1-0a76a4f4077f-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1857-2-938ed9fa314a-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1857-2-938ed9fa314a-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/pgp_official/1857",
+      "forwarded_from": null
+    }
+  ]
+}
