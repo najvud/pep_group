@@ -1,12 +1,48 @@
 {
-  "generated_at": "2026-09-01T21:13:13.057643+00:00",
+  "generated_at": "2026-09-02T05:47:46.160511+00:00",
   "pagination": {
     "page": 4,
     "page_size": 16,
-    "total_posts": 58,
+    "total_posts": 60,
     "total_pages": 4
   },
   "posts": [
+    {
+      "id": 1362,
+      "date": "2026-06-22T04:00:02+00:00",
+      "text": "📣 29.05.2026 опубликовано Постановление Правительства РФ от 29.05.2026 № 636 «Об утверждении критериев отнесения объектов, оказывающих негативное воздействие на окружающую среду, к объектам I, II, III и IV категорий».\n\nНовые Критерии приняты взамен аналогичных, действующих в настоящее время, которые были утверждены постановлением Правительства РФ от 31.12.2020 N 2398.\n\nДействие Постановления Правительства РФ от 31.12.2020 № 2398 было ограничено 1 сентября 2026 года, с чем и связано принятие новых критериев.\n\n⏱️ Постановление вступает в силу с 01.09.2026 и действует до 01.09.2032. \n\n#ИзмененияЗаконодательства",
+      "text_html": "📣 29.05.2026 опубликовано <a href=\"http://publication.pravo.gov.ru/document/0001202605290064\" target=\"_blank\" rel=\"noopener noreferrer\">Постановление Правительства РФ от 29.05.2026 № 636</a> «Об утверждении критериев отнесения объектов, оказывающих негативное воздействие на окружающую среду, к объектам I, II, III и IV категорий».<br><br>Новые Критерии приняты взамен аналогичных, действующих в настоящее время, которые были утверждены постановлением Правительства РФ от 31.12.2020 N 2398.<br><br>Действие Постановления Правительства РФ от 31.12.2020 № 2398 было ограничено 1 сентября 2026 года, с чем и связано принятие новых критериев.<br><br>⏱️ Постановление вступает в силу с 01.09.2026 и действует до 01.09.2032. <br><br>#ИзмененияЗаконодательства",
+      "views": 358,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1362-1-49caca0a271e-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1362-1-49caca0a271e-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/pgecology/1362",
+      "forwarded_from": null
+    },
+    {
+      "id": 1361,
+      "date": "2026-06-19T04:00:09+00:00",
+      "text": "#РешаемСпор \n\n⚔️Росприроднадзор заявил иск о взыскании с 🛡Водоканала платы за НВОС, исчисленной с применением повышающего коэффициента, в связи с обнаружением несоответствия сведений в декларации о плате за НВОС сведениям о НДС декларации о воздействии на окружающую среду.\n\n🛡Ответчик возразил об отсутствии его вины в превышении НДС, в связи с поступлением на его очистные сооружения неочищенных сточных вод с муниципальных хранилищ сточных вод и отсутствием финансирования мероприятий по модернизации и реконструкции очистных сооружений.\n\nА как считаете Вы:\n\n1️⃣ Являясь профессиональным участником гражданского оборота, ответчик добровольно принял на себя обязательства по соблюдению НДС, а также риск необходимости внесения платы за НВОС с повышающими коэффициентами.\n\n2️⃣ Повышающие коэффициенты, имеющие штрафной характер, не должны применяться в отсутствие вины в превышении НДС",
+      "text_html": "#РешаемСпор <br><br>⚔️Росприроднадзор заявил иск о взыскании с 🛡Водоканала платы за НВОС, исчисленной с применением повышающего коэффициента, в связи с обнаружением несоответствия сведений в декларации о плате за НВОС сведениям о НДС декларации о воздействии на окружающую среду.<br><br>🛡Ответчик возразил об отсутствии его вины в превышении НДС, в связи с поступлением на его очистные сооружения неочищенных сточных вод с муниципальных хранилищ сточных вод и отсутствием финансирования мероприятий по модернизации и реконструкции очистных сооружений.<br><br>А как считаете Вы:<br><br>1️⃣ Являясь профессиональным участником гражданского оборота, ответчик добровольно принял на себя обязательства по соблюдению НДС, а также риск необходимости внесения платы за НВОС с повышающими коэффициентами.<br><br>2️⃣ Повышающие коэффициенты, имеющие штрафной характер, не должны применяться в отсутствие вины в превышении НДС",
+      "views": 348,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1361-1-f031cbdb4d16-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1361-1-f031cbdb4d16-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/pgecology/1361",
+      "forwarded_from": null
+    },
     {
       "id": 1360,
       "date": "2026-06-17T04:01:07+00:00",
@@ -30,8 +66,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1359-1-d8cc32e4a98a-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1359-1-d8cc32e4a98a-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1359-1-947d77f4f9cb-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1359-1-947d77f4f9cb-v4.jpg"
         }
       ],
       "video_url": null,
@@ -48,8 +84,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1358-1-bd752b4ba97d-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1358-1-bd752b4ba97d-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1358-1-47121fe5455b-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1358-1-47121fe5455b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -79,8 +115,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1356-1-646d4a3246f9-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1356-1-646d4a3246f9-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1356-1-9ba197369dce-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1356-1-9ba197369dce-v4.jpg"
         }
       ],
       "video_url": null,
@@ -110,8 +146,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1354-1-97082b916eea-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1354-1-97082b916eea-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1354-1-6ead1f515a97-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1354-1-6ead1f515a97-v4.jpg"
         }
       ],
       "video_url": null,
@@ -128,8 +164,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1353-1-0c021d7046e4-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1353-1-0c021d7046e4-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1353-1-f86d3e14d656-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1353-1-f86d3e14d656-v4.jpg"
         }
       ],
       "video_url": null,
@@ -159,8 +195,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1351-1-13d53a4196a5-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1351-1-13d53a4196a5-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1351-1-5d738501ff71-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1351-1-5d738501ff71-v4.jpg"
         }
       ],
       "video_url": null,
