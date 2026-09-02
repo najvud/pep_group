@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T17:56:16.871669+00:00",
+  "generated_at": "2026-09-02T20:26:53.670282+00:00",
   "pagination": {
     "page": 2,
     "page_size": 16,
@@ -17,24 +17,24 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1963-1-44b939afcbba-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1963-1-44b939afcbba-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1963-1-eab8a21ba54c-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1963-1-eab8a21ba54c-v4.jpg"
         },
         {
           "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1963-2-4560bc66425a-v4.jpg",
           "full_url": "data/channels/pgp-official/media/posts/1963-2-4560bc66425a-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1963-3-3e3a8ace79d2-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1963-3-3e3a8ace79d2-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1963-3-fe488e0c661b-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1963-3-fe488e0c661b-v4.jpg"
         },
         {
           "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1963-4-5791d6cf843b-v4.jpg",
           "full_url": "data/channels/pgp-official/media/posts/1963-4-5791d6cf843b-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1963-5-31b8c6f66bab-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1963-5-31b8c6f66bab-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1963-5-acae178db4fe-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1963-5-acae178db4fe-v4.jpg"
         }
       ],
       "video_url": null,
@@ -46,7 +46,7 @@
       "date": "2026-08-10T12:51:50+00:00",
       "text": "❗️ФАС МО 24.07.2026 по делу А40-31259/2025 поддержал исключение ПО из реестра российского ПО, поскольку в его составе были выявлены иностранные компоненты, принадлежащие ушедшей из России компании.\n\nПоводом исключения из реестра послужило обращение в Минцифры от ФСБ, которая основывалась на следующем:\n\n1️⃣спорное ПО представляет собой набор модулей, созданных на основе иностранного свободно распространяемого ПО;\n\n2️⃣компоненты, на которых построены все подсистемы и само ядро спорного ПО, управляются и обновляются иностранными лицами;\n\n3️⃣возможен ущерб национальных интересов, так как в спорном ПО «консолидированы сведения обо всех важных объектах социального обеспечения и экономической жизни регионов».\n\n⚖️ Суд исходил из того, что после прекращения американской компанией продаж и обслуживания в России компонентов спорного ПО, наличие таких компонентов означает ограничения, препятствующие распространению ПО согласно правилам формирования и ведения реестра ПО.\n\n🎙 Правообладатель ссылался на то, что впоследствии он исключил спорные компоненты, а сведения о доработанном ПО были повторно включены в реестр.\n\n⚖️ Однако суд не принял аргумент о последующем включении ПО в реестр ввиду следующего:\n\n🔴на момент рассмотрения дела в суде экземпляр ПО, предоставленный правообладателем для экспертизы, оказался недоступен;\n\n🔴правообладатель не представил доказательств отсутствия в ПО ограничений.\n\n📣 Таким образом, ПО с иностранными компонентами может быть исключено из реестра российского ПО. \n\nИ даже если компании удастся зарегистрировать в реестре модифицированную версию, соответствующую всем требованиям законодательства, это не освобождает компанию от рисков. Например, если правообладатель заключил длящиеся доходные договоры, условием которых является наличие первоначального ПО в реестре, или компания применяла освобождение от НДС в соответствующих налоговых периодах.\n➖➖➖➖➖\n📧 В случае возникновения вопросов, связанных с правовыми последствиями / рисками исключения ПО из реестра российского ПО, партнер «Пепеляев Групп» Наталья Коваленко (N.Kovalenko@pgplaw.ru) готова на них ответить.",
       "text_html": "❗️<a href=\"https://www.consultant.ru/cons/cgi/online.cgi?req=doc&amp;amp;base=AMS&amp;amp;n=589878#Qg1jtRVsDFToAwRH2\" target=\"_blank\" rel=\"noopener noreferrer\">ФАС МО 24.07.2026 по делу А40-31259/2025</a> поддержал исключение ПО из реестра российского ПО, поскольку в его составе были выявлены иностранные компоненты, принадлежащие ушедшей из России компании.<br><br>Поводом исключения из реестра послужило обращение в Минцифры от ФСБ, которая основывалась на следующем:<br><br>1️⃣спорное ПО представляет собой набор модулей, созданных на основе иностранного свободно распространяемого ПО;<br><br>2️⃣компоненты, на которых построены все подсистемы и само ядро спорного ПО, управляются и обновляются иностранными лицами;<br><br>3️⃣возможен ущерб национальных интересов, так как в спорном ПО «консолидированы сведения обо всех важных объектах социального обеспечения и экономической жизни регионов».<br><br>⚖️ Суд исходил из того, что после прекращения американской компанией продаж и обслуживания в России компонентов спорного ПО, наличие таких компонентов означает ограничения, препятствующие распространению ПО согласно <a href=\"http://pravo.gov.ru/proxy/ips/?docbody=&amp;amp;link_id=0&amp;amp;nd=102382688&amp;amp;intelsearch=&amp;amp;firstDoc=1\" target=\"_blank\" rel=\"noopener noreferrer\">правилам</a> формирования и ведения реестра ПО.<br><br>🎙 Правообладатель ссылался на то, что впоследствии он исключил спорные компоненты, а сведения о доработанном ПО были повторно включены в реестр.<br><br>⚖️ Однако суд не принял аргумент о последующем включении ПО в реестр ввиду следующего:<br><br>🔴на момент рассмотрения дела в суде экземпляр ПО, предоставленный правообладателем для экспертизы, оказался недоступен;<br><br>🔴правообладатель не представил доказательств отсутствия в ПО ограничений.<br><br>📣 Таким образом, ПО с иностранными компонентами может быть исключено из реестра российского ПО. <br><br>И даже если компании удастся зарегистрировать в реестре модифицированную версию, соответствующую всем требованиям законодательства, это не освобождает компанию от рисков. Например, если правообладатель заключил длящиеся доходные договоры, условием которых является наличие первоначального ПО в реестре, или компания применяла освобождение от НДС в соответствующих налоговых периодах.<br>➖➖➖➖➖<br>📧 В случае возникновения вопросов, связанных с правовыми последствиями / рисками исключения ПО из реестра российского ПО, партнер «Пепеляев Групп» <a href=\"https://www.pgplaw.ru/to-get-the-team/natalya-ivashchenko/\" target=\"_blank\" rel=\"noopener noreferrer\">Наталья Коваленко</a> (N.Kovalenko@pgplaw.ru) готова на них ответить.",
-      "views": 2130,
+      "views": 2140,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
@@ -73,8 +73,8 @@
           "full_url": "data/channels/pgp-official/media/posts/1960-1-3cf83e5b727a-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1960-2-cfe190731794-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1960-2-cfe190731794-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1960-2-de1c4a6d308c-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1960-2-de1c4a6d308c-v4.jpg"
         }
       ],
       "video_url": null,
@@ -109,8 +109,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1958-1-580e05e9787f-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1958-1-580e05e9787f-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1958-1-0cd10187181f-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1958-1-0cd10187181f-v4.jpg"
         }
       ],
       "video_url": null,
@@ -122,7 +122,7 @@
       "date": "2026-08-06T10:10:01+00:00",
       "text": "🏢 Еженедельная подборка обзоров от практик «Пепеляев Групп»\n\nЧто изменилось за последнюю неделю, и на что стоит обратить внимание бизнесу?\n\n▫️ Письма Минфина и ФНС, обновления июля 2026 г.\n\n▫️ Налоговые новости. Дайджест за 27 июля - 2 августа 2026 г.\n▫️ СпецИнвестРежимы в Сибири и на Дальнем Востоке. Дайджест 27 июля - 2 августа 2026 г.\n\n▫️ Банкротство: взгляд эксперта. Обзор № 332 за 30 июля – 5 августа 2026 г.\n\nЧитайте другие наши материалы:\n\n🔘 Алерт «Принят закон о реформе банкротства: что изменится для бизнеса»\n\n🔘 Алерт «Блокчейн в законе: что готовит новый Закон о цифровых валютах и цифровых правах»\n\n#pg_обзоры_недели\n\n☝️ Подписаться на рассылки | MAX | Приложение PG",
       "text_html": "🏢 Еженедельная подборка обзоров от практик «Пепеляев Групп»<br><br>Что изменилось за последнюю неделю, и на что стоит обратить внимание бизнесу?<br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/tax-reviews/pisma-minfina-i-fns-obnovleniya-iyulya-2026-g/\" target=\"_blank\" rel=\"noopener noreferrer\">Письма Минфина и ФНС, обновления июля 2026 г.</a><br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/tax-reviews/tax-news-digest-03-08-26/\" target=\"_blank\" rel=\"noopener noreferrer\">Налоговые новости. Дайджест за 27 июля - 2 августа 2026 г.</a><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/spec-invest-obzor/invest-news-digest-26-08-03/\" target=\"_blank\" rel=\"noopener noreferrer\">СпецИнвестРежимы в Сибири и на Дальнем Востоке. Дайджест 27 июля - 2 августа 2026 г.</a><br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/bankruptcy-must-read/bankruptcy-digest-05-08-26/\" target=\"_blank\" rel=\"noopener noreferrer\">Банкротство: взгляд эксперта. Обзор № 332 за 30 июля – 5 августа 2026 г.</a><br><br>Читайте другие наши материалы:<br><br>🔘 Алерт <a href=\"https://www.pgplaw.ru/analytics-and-brochures/alerts/prinyat-zakon-o-reforme-bankrotstva/\" target=\"_blank\" rel=\"noopener noreferrer\">«Принят закон о реформе банкротства: что изменится для бизнеса»</a><br><br>🔘 Алерт <a href=\"https://www.pgplaw.ru/analytics-and-brochures/alerts/novyy-zakon-o-tsifrovykh-valyutakh-i-pravakh/\" target=\"_blank\" rel=\"noopener noreferrer\">«Блокчейн в законе: что готовит новый Закон о цифровых валютах и цифровых правах»</a><br><br>#pg_обзоры_недели<br><br>☝️ <a href=\"https://www.pgplaw.ru/subscribe/\" target=\"_blank\" rel=\"noopener noreferrer\">Подписаться на рассылки |</a> <a href=\"https://max.ru/id7707301372_biz\" target=\"_blank\" rel=\"noopener noreferrer\">MAX |</a> <a href=\"https://t.me/pgp_official/1769\" target=\"_blank\" rel=\"noopener noreferrer\">Приложение PG</a>",
-      "views": 757,
+      "views": 758,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
@@ -180,7 +180,7 @@
       "date": "2026-08-04T07:00:57+00:00",
       "text": "РЕФОРМА БАНКРОТСТВА ЗАПУЩЕНА ❗️❗️\n\nПрактика банкротства и антикризисной защиты бизнеса сообщает об основных изменениях, внесенных в Закон о банкротстве Федеральным законом от 26.07.2026 № 253-ФЗ.\n\n✍️ Перестроена система саморегулирования арбитражных управляющих, введены новые реабилитационные внесудебные и судебные процедуры, новая форма торгов и ряд иных кардинальных изменений.\n\nПочему в изменениях необходимо разобраться уже сейчас?\n\nБóльшая часть изменений вступит в силу через год – 27 июля 2027 г. (п. 1 ст. 11 Закона № 253-ФЗ). Но уже сейчас очень важно их учитывать, поскольку часть нововведений может быть применима и сейчас.\n\nВ числе основных направлений нововведений (за исключением относящихся к санации):\n\n1️⃣Изменения процесса рассмотрения дел о банкротстве\n\n2️⃣Введение реабилитационной процедуры реструктуризации долгов юридического лица\n\n3️⃣ Изменения в отношении СРО, арбитражных управляющих и порядка их допуска к процедурам\n\n4️⃣ Повышение гарантий возмещения убытков, причиненных арбитражным управляющим\n\n5️⃣Изменение порядка проведения торгов\n\n6️⃣Закрепление утраты преимуществ залогового кредитора при пропуске срока предъявления требований, установленного ст. 142 Закона о банкротстве \n\n7️⃣Изменения в конкурсном производстве\n\nПодробности в прилагаемом файле! 📥\n\n🛫Продолжение алерта в части мер по предупреждению банкротства (санации) читайте в нашем выпуске 06.08.2026.\n\n#Изменения_законодательства\n#Инициирование_банкротства\n#Процессуальные_вопросы\n#Реструктуризация_долгов_юрлица\n#Арбитражный_управляющий\n#Торги",
       "text_html": "РЕФОРМА БАНКРОТСТВА ЗАПУЩЕНА ❗️❗️<br><br><a href=\"https://www.pgplaw.ru/practice-and-industry/practices/bankruptcy/\" target=\"_blank\" rel=\"noopener noreferrer\">Практика банкротства и антикризисной защиты бизнеса</a> сообщает об основных изменениях, внесенных в Закон о банкротстве <a href=\"https://www.consultant.ru/document/cons_doc_LAW_540359/#:~:text=%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%20%D0%BE%D1%82%2026.07.2026%20N%20253%2D%D0%A4%D0%97%20%22%D0%9E%20%D0%B2%D0%BD%D0%B5%D1%81%D0%B5%D0%BD%D0%B8%D0%B8%20%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%B2%20%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%20%22%D0%9E%20%D0%BD%D0%B5%D1%81%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20(%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D0%B5)%22%20%D0%B8%20%D0%BE%D1%82%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D0%B0%D0%BA%D1%82%D1%8B%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9%20%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8%22\" target=\"_blank\" rel=\"noopener noreferrer\">Федеральным законом от 26.07.2026 № 253-ФЗ</a>.<br><br>✍️ Перестроена система саморегулирования арбитражных управляющих, введены новые реабилитационные внесудебные и судебные процедуры, новая форма торгов и ряд иных кардинальных изменений.<br><br>Почему в изменениях необходимо разобраться уже сейчас?<br><br>Бóльшая часть изменений вступит в силу через год – 27 июля 2027 г. (п. 1 ст. 11 Закона № 253-ФЗ). Но уже сейчас очень важно их учитывать, поскольку часть нововведений может быть применима и сейчас.<br><br>В числе основных направлений нововведений (за исключением относящихся к санации):<br><br>1️⃣Изменения процесса рассмотрения дел о банкротстве<br><br>2️⃣Введение реабилитационной процедуры реструктуризации долгов юридического лица<br><br>3️⃣ Изменения в отношении СРО, арбитражных управляющих и порядка их допуска к процедурам<br><br>4️⃣ Повышение гарантий возмещения убытков, причиненных арбитражным управляющим<br><br>5️⃣Изменение порядка проведения торгов<br><br>6️⃣Закрепление утраты преимуществ залогового кредитора при пропуске срока предъявления требований, установленного ст. 142 Закона о банкротстве <br><br>7️⃣Изменения в конкурсном производстве<br><br>Подробности в прилагаемом файле! 📥<br><br>🛫Продолжение алерта в части мер по предупреждению банкротства (санации) читайте в нашем выпуске 06.08.2026.<br><br>#Изменения_законодательства<br>#Инициирование_банкротства<br>#Процессуальные_вопросы<br>#Реструктуризация_долгов_юрлица<br>#Арбитражный_управляющий<br>#Торги",
-      "views": 711,
+      "views": 712,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
@@ -226,8 +226,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1950-1-9c198a0dc1b5-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1950-1-9c198a0dc1b5-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1950-1-9ce2f5bb1437-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1950-1-9ce2f5bb1437-v4.jpg"
         }
       ],
       "video_url": null,
@@ -253,8 +253,8 @@
           "full_url": "data/channels/pgp-official/media/posts/1948-1-145813b0e72b-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1948-2-953683970191-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1948-2-953683970191-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1948-2-a3053759732e-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1948-2-a3053759732e-v4.jpg"
         }
       ],
       "video_url": null,
@@ -284,13 +284,13 @@
       "date": "2026-07-23T10:02:01+00:00",
       "text": "🏢 Еженедельная подборка обзоров от практик «Пепеляев Групп»\n\nЧто изменилось за последнюю неделю, и на что стоит обратить внимание бизнесу?\n\n▫️ Налоговые новости. Дайджест за 13–19 июля 2026 г.\n\n▫️ Антимонопольные новости. Дайджест за 1 июня – 12 июля 2026 г.\n\n▫️ СпецИнвестРежимы в Сибири и на Дальнем Востоке. Дайджест 13 – 19 июля 2026 г.\n\n▫️ Банкротство: взгляд эксперта. Обзор № 330 за 16 – 22 июля 2026 г.\n\n▫️ Телекоммуникации, медиа, ИТ, персональные данные. Дайджест за 9 – 22 июля 2026 г.\n\nЧитайте и смотрите другие наши материалы:\n\n🔘 Алерт «Автомобильные грузоперевозки с 1 сентября 2026 года: новые требования и практические выводы»🔘 Налог на прибыль застройщика: когда возникает экономия по мнению ФНС. N-ское ноу-хау. Сергей Сосновский\nVK| Rutube| YouTube\n\n🔘 Актуальность доходных предписаний. Илья Тюленев \nVK| Rutube| YouTube\n\n#pg_обзоры_недели\n\n☝️ Подписаться на рассылки | MAX | Приложение PG",
       "text_html": "🏢 Еженедельная подборка обзоров от практик «Пепеляев Групп»<br><br>Что изменилось за последнюю неделю, и на что стоит обратить внимание бизнесу?<br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/tax-reviews/tax-news-digest-20-07-26/\" target=\"_blank\" rel=\"noopener noreferrer\">Налоговые новости. Дайджест за 13–19 июля 2026 г.</a><br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/antitrust-reviews/antitrust-digest-26-07-20/\" target=\"_blank\" rel=\"noopener noreferrer\">Антимонопольные новости. Дайджест за 1 июня – 12 июля 2026 г.</a><br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/spec-invest-obzor/invest-news-digest-26-07-20/\" target=\"_blank\" rel=\"noopener noreferrer\">СпецИнвестРежимы в Сибири и на Дальнем Востоке. Дайджест 13 – 19 июля 2026 г.</a><br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/bankruptcy-must-read/bankruptcy-digest-22-07-26/\" target=\"_blank\" rel=\"noopener noreferrer\">Банкротство: взгляд эксперта. Обзор № 330 за 16 – 22 июля 2026 г.</a><br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/telecom-digest/telecom-digest-23-07-26/\" target=\"_blank\" rel=\"noopener noreferrer\">Телекоммуникации, медиа, ИТ, персональные данные. Дайджест за 9 – 22 июля 2026 г.</a><br><br>Читайте и смотрите другие наши материалы:<br><br>🔘 Алерт <a href=\"https://www.pgplaw.ru/analytics-and-brochures/alerts/avtomobilnye-gruzoperevozki-s-1-sentyabrya-2026-goda-novye-trebovaniya-i-prakticheskie-vyvody/\" target=\"_blank\" rel=\"noopener noreferrer\">«Автомобильные грузоперевозки с 1 сентября 2026 года: новые требования и практические выводы»</a>🔘 Налог на прибыль застройщика: когда возникает экономия по мнению ФНС. N-ское ноу-хау. Сергей Сосновский<br><a href=\"https://vkvideo.ru/video-227047542_456239425\" target=\"_blank\" rel=\"noopener noreferrer\">VK</a>| <a href=\"https://rutube.ru/video/919ec0deccbcb04d141224d2cde85ec1/\" target=\"_blank\" rel=\"noopener noreferrer\">Rutube</a>| <a href=\"https://youtu.be/rqo8hGmDWeQ\" target=\"_blank\" rel=\"noopener noreferrer\">YouTube</a><br><br>🔘 Актуальность доходных предписаний. Илья Тюленев <br><a href=\"https://vkvideo.ru/video-227047542_456239424\" target=\"_blank\" rel=\"noopener noreferrer\">VK</a>| <a href=\"https://rutube.ru/video/5beb2dc88b3ca25fb586e245048c1bc6/\" target=\"_blank\" rel=\"noopener noreferrer\">Rutube</a>| <a href=\"https://youtu.be/-vWtgo56Rg8?si=mPWy9VlGw08L_uQk\" target=\"_blank\" rel=\"noopener noreferrer\">YouTube</a><br><br>#pg_обзоры_недели<br><br>☝️ <a href=\"https://www.pgplaw.ru/subscribe/\" target=\"_blank\" rel=\"noopener noreferrer\">Подписаться на рассылки |</a> <a href=\"https://max.ru/id7707301372_biz\" target=\"_blank\" rel=\"noopener noreferrer\">MAX |</a> <a href=\"https://t.me/pgp_official/1769\" target=\"_blank\" rel=\"noopener noreferrer\">Приложение PG</a>",
-      "views": 754,
+      "views": 755,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1946-1-bbc88b88bfc3-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1946-1-bbc88b88bfc3-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1946-1-3d8a92fe2f4f-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1946-1-3d8a92fe2f4f-v4.jpg"
         }
       ],
       "video_url": null,
@@ -315,8 +315,8 @@
           "full_url": "data/channels/pgp-official/media/posts/1940-2-94a5790815ea-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1940-3-e85042674b36-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1940-3-e85042674b36-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1940-3-3f297b13eef7-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1940-3-3f297b13eef7-v4.jpg"
         },
         {
           "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1940-4-2b29a109b955-v4.jpg",
@@ -345,12 +345,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1936-1-e93c8656e8d2-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1936-1-e93c8656e8d2-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1936-1-717e5d90bc8c-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1936-1-717e5d90bc8c-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1936-2-55b12b6552c3-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1936-2-55b12b6552c3-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1936-2-67c882a27658-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1936-2-67c882a27658-v4.jpg"
         },
         {
           "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1936-3-220588193bf2-v4.jpg",
