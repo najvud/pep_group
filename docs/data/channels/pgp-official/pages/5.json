@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-09-02T20:26:53.676609+00:00",
+  "generated_at": "2026-09-03T09:51:18.058901+00:00",
   "pagination": {
     "page": 5,
     "page_size": 16,
-    "total_posts": 80,
-    "total_pages": 5
+    "total_posts": 81,
+    "total_pages": 6
   },
   "posts": [
+    {
+      "id": 1884,
+      "date": "2026-06-24T13:00:55+00:00",
+      "text": "💻 Телекоммуникации, медиа, ИТ, персональные данные: дайджест\n\nВ обзоре собрали ключевые законодательные инициативы, регуляторные тренды, судебную практику и события отрасли.\n\nГлавные новости:\n\n🔘второй пакет мер противодействия кибермошенничеству одобрен Советом Федерации РФ; \n\n🔘установлена ответственность за авторизацию через иностранные сервисы и нарушение правил работы рекомендательных технологий; \n\n🔘компании с долей госучастия более 50% будут вправе получить ИТ-аккредитацию; \n\n🔘подготовлен проект правил маркировки входящих иностранных вызовов; \n\n🔘Минцифры России обяжет устанавливать СОРМ для ВАТС.\n\n👉 Какие изменения могут повлиять на бизнес, и на что стоит обратить внимание компаниям — читайте по ссылке.\n\n🏢 Подписаться на рассылки | MAX | Приложение PG",
+      "text_html": "💻 Телекоммуникации, медиа, ИТ, персональные данные: дайджест<br><br>В обзоре собрали ключевые законодательные инициативы, регуляторные тренды, судебную практику и события отрасли.<br><br>Главные новости:<br><br>🔘второй пакет мер противодействия кибермошенничеству одобрен Советом Федерации РФ; <br><br>🔘установлена ответственность за авторизацию через иностранные сервисы и нарушение правил работы рекомендательных технологий; <br><br>🔘компании с долей госучастия более 50% будут вправе получить ИТ-аккредитацию; <br><br>🔘подготовлен проект правил маркировки входящих иностранных вызовов; <br><br>🔘Минцифры России обяжет устанавливать СОРМ для ВАТС.<br><br>👉 Какие изменения могут повлиять на бизнес, и на что стоит обратить внимание компаниям — <a href=\"https://www.pgplaw.ru/analytics-and-brochures/telecom-digest/telecom-digest-24-06-26/\" target=\"_blank\" rel=\"noopener noreferrer\">читайте по ссылке</a>.<br><br>🏢 <a href=\"https://www.pgplaw.ru/subscribe/\" target=\"_blank\" rel=\"noopener noreferrer\">Подписаться на рассылки |</a> <a href=\"https://max.ru/id7707301372_biz\" target=\"_blank\" rel=\"noopener noreferrer\">MAX |</a> <a href=\"https://t.me/pgp_official/1769\" target=\"_blank\" rel=\"noopener noreferrer\">Приложение PG</a>",
+      "views": 609,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1884-1-44c329c7c8db-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1884-1-44c329c7c8db-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/pgp_official/1884",
+      "forwarded_from": null
+    },
     {
       "id": 1883,
       "date": "2026-06-24T10:34:32+00:00",
@@ -17,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1883-1-e4ace5eb499a-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1883-1-e4ace5eb499a-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1883-1-18e250642727-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1883-1-18e250642727-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +53,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1882-1-5f27e6004da0-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1882-1-5f27e6004da0-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1882-1-76ac096cf7f1-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1882-1-76ac096cf7f1-v4.jpg"
         }
       ],
       "video_url": null,
@@ -53,8 +71,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1881-1-a79e021f0f5e-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1881-1-a79e021f0f5e-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1881-1-c9eeba4e7521-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1881-1-c9eeba4e7521-v4.jpg"
         }
       ],
       "video_url": null,
@@ -89,8 +107,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1879-1-a4f11fb7e8d2-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1879-1-a4f11fb7e8d2-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1879-1-4bd47e1f80c4-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1879-1-4bd47e1f80c4-v4.jpg"
         }
       ],
       "video_url": null,
@@ -107,8 +125,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1878-1-b2c00a9e551d-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1878-1-b2c00a9e551d-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1878-1-4fdf31caa740-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1878-1-4fdf31caa740-v4.jpg"
         }
       ],
       "video_url": null,
@@ -125,12 +143,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1876-1-59933d7de365-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1876-1-59933d7de365-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1876-1-3d6dcf2f6233-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1876-1-3d6dcf2f6233-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1876-2-8bbf31153460-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1876-2-8bbf31153460-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1876-2-bd8dc77c3cb6-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1876-2-bd8dc77c3cb6-v4.jpg"
         }
       ],
       "video_url": null,
@@ -147,8 +165,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1875-1-abcd0a98fa2f-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1875-1-abcd0a98fa2f-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1875-1-c25112c7a6d4-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1875-1-c25112c7a6d4-v4.jpg"
         }
       ],
       "video_url": null,
@@ -165,8 +183,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1874-1-08213b7a7dab-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1874-1-08213b7a7dab-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1874-1-b150e5361895-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1874-1-b150e5361895-v4.jpg"
         }
       ],
       "video_url": null,
@@ -183,8 +201,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1873-1-d5a7601fc8cd-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1873-1-d5a7601fc8cd-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1873-1-020f15974e03-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1873-1-020f15974e03-v4.jpg"
         }
       ],
       "video_url": null,
@@ -201,8 +219,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1872-1-c7f90eab2656-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1872-1-c7f90eab2656-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1872-1-ed63deb5bae4-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1872-1-ed63deb5bae4-v4.jpg"
         }
       ],
       "video_url": null,
@@ -219,8 +237,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1871-1-b15e87dbdb4c-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1871-1-b15e87dbdb4c-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1871-1-46e279cde1c9-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1871-1-46e279cde1c9-v4.jpg"
         }
       ],
       "video_url": null,
@@ -237,24 +255,24 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1866-1-33350c59f074-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1866-1-33350c59f074-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1866-1-9a4e9085145c-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1866-1-9a4e9085145c-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1866-2-7af1c4f8854b-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1866-2-7af1c4f8854b-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1866-2-73e270caca9c-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1866-2-73e270caca9c-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1866-3-d18e773c4613-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1866-3-d18e773c4613-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1866-3-3ac425f55464-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1866-3-3ac425f55464-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1866-4-3c60a7eb5c5d-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1866-4-3c60a7eb5c5d-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1866-4-e271ea8ab9db-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1866-4-e271ea8ab9db-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1866-5-b5f7e7642c1b-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1866-5-b5f7e7642c1b-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1866-5-0b4bd6690000-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1866-5-0b4bd6690000-v4.jpg"
         }
       ],
       "video_url": null,
@@ -276,8 +294,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1865-1-05a15bbed531-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1865-1-05a15bbed531-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1865-1-316ddb85e124-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1865-1-316ddb85e124-v4.jpg"
         }
       ],
       "video_url": null,
@@ -289,39 +307,21 @@
       "date": "2026-06-04T07:30:44+00:00",
       "text": "💊 Зов крови: как меняется правовой режим биоматериала человека\n \nМы постоянно сдаем кровь и биоматериалы для медицинских анализов, с генетическими тестами многие тоже знакомы не понаслышке. Но задумывались ли вы о том, насколько сложным феноменом является биоматериал с точки зрения права?\n\n▫️В этом году эксперты «Пепеляев Групп» вновь предложили участникам Петербургского Правового Саммита поразмышлять над фундаментальными вопросами биоправа, касающимися каждого из нас: \n    🔴чем с точки зрения права является биоматериал человека (напр., клетки, ткани и пр.), \n    🔴можно ли коммерциализовать собственную генетическую информацию, наследовать крионированный биообразец, \n    🔴с какими рисками сталкиваются при этом пациенты, биобанки и клиники.\n\nМодератор сессии Константин Шарловский, партнер, руководитель практики «Фармацевтика и здравоохранение» «Пепеляев Групп» подчеркнул, что табуированность вопросов, связанных с квалификацией биоматериалов приводит к ситуации правового вакуума, создающего препятствия для защиты прав граждан.\n \n💬 Так, мы наблюдаем чрезмерную юридизацию такого давнего этико-медицинского механизма как информированное добровольное согласие пациента. Из этического инструмента оно превращается в громоздкую и зачастую совершенно непонятную для участников процесса сущность, больше напоминающую договор нежели собственно подтверждение акта согласия на получение медицинской услуги.\n\n🎙Участники дискуссии подсветили различные аспекты темы правового режима биоматериала человека: от квалификации биоматериалов в качестве вещей в гражданско-правовом смысле до рисков, с которыми сталкиваются биобанки, осуществляя деятельность в условиях недостаточной регламентации не только правил обращения биоматериалов, но и базовых понятий в этой области.\n \nНа практике возникает множество рисков, не урегулированных нынешним законодательством: так, например, суды далеко не всегда согласны с вещно-правовым подходом к биоматериалам, в частности, в том, что касается хранения или уничтожения материалов, доноры которых скончались.\n\n🔘Дискуссия на Саммите показала: обсуждать эти вопросы необходимо, несмотря на их сложность – это позволит подготовиться к тем вызовам, которые уже возникают ввиду развития биомедицинских технологий, а также к тем, вероятно, более многочисленным, с которыми еще только предстоит столкнуться как юридической науке, так и обществу в целом.\n\n🏢 Подписаться на рассылки | MAX | Приложение PG",
       "text_html": "💊 Зов крови: как меняется правовой режим биоматериала человека<br> <br>Мы постоянно сдаем кровь и биоматериалы для медицинских анализов, с генетическими тестами многие тоже знакомы не понаслышке. Но задумывались ли вы о том, насколько сложным феноменом является биоматериал с точки зрения права?<br><br>▫️В этом году эксперты «Пепеляев Групп» вновь предложили участникам Петербургского Правового Саммита поразмышлять над фундаментальными вопросами биоправа, касающимися каждого из нас: <br>    🔴чем с точки зрения права является биоматериал человека (напр., клетки, ткани и пр.), <br>    🔴можно ли коммерциализовать собственную генетическую информацию, наследовать крионированный биообразец, <br>    🔴с какими рисками сталкиваются при этом пациенты, биобанки и клиники.<br><br>Модератор сессии <a href=\"https://www.pgplaw.ru/to-get-the-team/sharlovskiy/\" target=\"_blank\" rel=\"noopener noreferrer\">Константин Шарловский</a>, партнер, руководитель практики «Фармацевтика и здравоохранение» «Пепеляев Групп» подчеркнул, что табуированность вопросов, связанных с квалификацией биоматериалов приводит к ситуации правового вакуума, создающего препятствия для защиты прав граждан.<br> <br>💬 Так, мы наблюдаем чрезмерную юридизацию такого давнего этико-медицинского механизма как информированное добровольное согласие пациента. Из этического инструмента оно превращается в громоздкую и зачастую совершенно непонятную для участников процесса сущность, больше напоминающую договор нежели собственно подтверждение акта согласия на получение медицинской услуги.<br><br>🎙Участники дискуссии подсветили различные аспекты темы правового режима биоматериала человека: от квалификации биоматериалов в качестве вещей в гражданско-правовом смысле до рисков, с которыми сталкиваются биобанки, осуществляя деятельность в условиях недостаточной регламентации не только правил обращения биоматериалов, но и базовых понятий в этой области.<br> <br>На практике возникает множество рисков, не урегулированных нынешним законодательством: так, например, суды далеко не всегда согласны с вещно-правовым подходом к биоматериалам, в частности, в том, что касается хранения или уничтожения материалов, доноры которых скончались.<br><br>🔘Дискуссия на Саммите показала: обсуждать эти вопросы необходимо, несмотря на их сложность – это позволит подготовиться к тем вызовам, которые уже возникают ввиду развития биомедицинских технологий, а также к тем, вероятно, более многочисленным, с которыми еще только предстоит столкнуться как юридической науке, так и обществу в целом.<br><br>🏢 <a href=\"https://www.pgplaw.ru/subscribe/\" target=\"_blank\" rel=\"noopener noreferrer\">Подписаться на рассылки |</a> <a href=\"https://max.ru/id7707301372_biz\" target=\"_blank\" rel=\"noopener noreferrer\">MAX |</a> <a href=\"https://t.me/pgp_official/1769\" target=\"_blank\" rel=\"noopener noreferrer\">Приложение PG</a>",
-      "views": 740,
+      "views": 741,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1863-1-ecb2efec2330-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1863-1-ecb2efec2330-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1863-1-48b3b71ea768-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1863-1-48b3b71ea768-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1863-2-8ea33288932b-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1863-2-8ea33288932b-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1863-2-3e0d928c994f-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1863-2-3e0d928c994f-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/pgp_official/1863",
-      "forwarded_from": null
-    },
-    {
-      "id": 1862,
-      "date": "2026-06-03T11:01:18+00:00",
-      "text": "☂️ Ограничения и меры поддержки для бизнеса: дайджест\n\n🔘Продлен упрощенный порядок ввоза товаров из ЕАЭС; \n\n🔘Уточнены временные правила исполнения обязательств перед иностранными кредиторами; \n\n🔘Введены каникулы по обеспечительному платежу в рамках СПОТ.\n\nПодробнее – по ссылке.\n\n#антикризисная_поддержка_бизнеса\n\n🏢 Подписаться на рассылки | MAX | Приложение PG",
-      "text_html": "☂️ Ограничения и меры поддержки для бизнеса: дайджест<br><br>🔘Продлен упрощенный порядок ввоза товаров из ЕАЭС; <br><br>🔘Уточнены временные правила исполнения обязательств перед иностранными кредиторами; <br><br>🔘Введены каникулы по обеспечительному платежу в рамках СПОТ.<br><br>Подробнее – <a href=\"https://www.pgplaw.ru/analytics-and-brochures/sanctions-support-digest/support-digest-01-06-26/\" target=\"_blank\" rel=\"noopener noreferrer\">по ссылке.</a><br><br>#антикризисная_поддержка_бизнеса<br><br>🏢 <a href=\"https://www.pgplaw.ru/subscribe/\" target=\"_blank\" rel=\"noopener noreferrer\">Подписаться на рассылки |</a> <a href=\"https://max.ru/id7707301372_biz\" target=\"_blank\" rel=\"noopener noreferrer\">MAX |</a> <a href=\"https://t.me/pgp_official/1769\" target=\"_blank\" rel=\"noopener noreferrer\">Приложение PG</a>",
-      "views": 690,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1862-1-1b41eab31a4a-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1862-1-1b41eab31a4a-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/pgp_official/1862",
       "forwarded_from": null
     }
   ]
