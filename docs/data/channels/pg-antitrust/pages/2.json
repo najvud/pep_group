@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-05T05:40:08.625828+00:00",
+  "generated_at": "2026-09-05T09:22:53.895410+00:00",
   "pagination": {
     "page": 2,
     "page_size": 16,
-    "total_posts": 31,
+    "total_posts": 30,
     "total_pages": 2
   },
   "posts": [
@@ -17,8 +17,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1437-1-a4083807f7f9-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1437-1-a4083807f7f9-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1437-1-136dbada40a8-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1437-1-136dbada40a8-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1436-1-ec2be8f5619d-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1436-1-ec2be8f5619d-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1436-1-fcb4af42d8ae-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1436-1-fcb4af42d8ae-v4.jpg"
         }
       ],
       "video_url": null,
@@ -107,16 +107,16 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1429-1-defea6067410-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1429-1-defea6067410-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1429-1-62b915ebb1ad-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1429-1-62b915ebb1ad-v4.jpg"
         },
         {
           "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1429-2-afba72ff0d1e-v4.jpg",
           "full_url": "data/channels/pg-antitrust/media/posts/1429-2-afba72ff0d1e-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1429-3-54866e753900-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1429-3-54866e753900-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1429-3-859b88fca884-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1429-3-859b88fca884-v4.jpg"
         },
         {
           "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1429-4-816035521721-v4.jpg",
@@ -173,8 +173,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1426-1-c577ae54f75f-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1426-1-c577ae54f75f-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1426-1-cef84e83f5f6-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1426-1-cef84e83f5f6-v4.jpg"
         }
       ],
       "video_url": null,
@@ -209,8 +209,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1424-1-16ef237fb8bf-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1424-1-16ef237fb8bf-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1424-1-4cdc3092e668-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1424-1-4cdc3092e668-v4.jpg"
         }
       ],
       "video_url": null,
@@ -227,8 +227,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1423-1-f1fef727b8c7-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1423-1-f1fef727b8c7-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1423-1-9b04184e2086-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1423-1-9b04184e2086-v4.jpg"
         }
       ],
       "video_url": null,
@@ -245,8 +245,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1422-1-544e33e2fc08-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1422-1-544e33e2fc08-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1422-1-1d7f5accb594-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1422-1-1d7f5accb594-v4.jpg"
         }
       ],
       "video_url": null,
@@ -263,25 +263,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1421-1-50789b99d6c8-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1421-1-50789b99d6c8-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1421-1-88ffde096f2e-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1421-1-88ffde096f2e-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/PgAntitrust/1421",
-      "forwarded_from": null
-    },
-    {
-      "id": 1419,
-      "date": "2026-06-05T07:07:47+00:00",
-      "text": "📌Антимонопольные иммунитеты в сфере IP: спор, которому уже 13 лет\n\nВопрос о том, должны ли права на интеллектуальную собственность выводиться из-под антимонопольного контроля (ч. 4 ст. 10 и ч. 9 ст. 11 Закона о защите конкуренции), обсуждается с 2013 года – и до сих пор без окончательного ответа.\n\n🟠На ПМЭФ-2026 дискуссия об этом вспыхнула вновь: цифровая экономика, платформы и патентные стратегии заставляют переосмыслить, где заканчивается законная монетизация исключительного права и начинается злоупотребление доминирующим положением. Сессия «Антимонопольное регулирование и интеллектуальная собственность: трансформация подходов в цифровую эпоху» получилась по-настоящему острой – рекомендуем досмотреть запись до конца, под финал там «жарко».\n\n⬇️А пока хотим узнать ваше мнение. Голосуйте в опросе – соберем позиции и вернемся с разбором.",
-      "text_html": "📌Антимонопольные иммунитеты в сфере IP: спор, которому уже 13 лет<br><br>Вопрос о том, должны ли права на интеллектуальную собственность выводиться из-под антимонопольного контроля (ч. 4 ст. 10 и ч. 9 ст. 11 Закона о защите конкуренции), обсуждается с 2013 года – и до сих пор без окончательного ответа.<br><br>🟠На ПМЭФ-2026 дискуссия об этом вспыхнула вновь: цифровая экономика, платформы и патентные стратегии заставляют переосмыслить, где заканчивается законная монетизация исключительного права и начинается злоупотребление доминирующим положением. Сессия «Антимонопольное регулирование и интеллектуальная собственность: трансформация подходов в цифровую эпоху» получилась по-настоящему острой – рекомендуем <a href=\"https://roscongress.ru/sessions/spief-2026-delovaya-programma-antimonopolnoe-regulirovanie-i-intellektualnaya-sobstvennost-transformatsiya-podkhodov-v-tsifrovuyu-/translation/\" target=\"_blank\" rel=\"noopener noreferrer\">досмотреть запись до конца</a>, под финал там «жарко».<br><br>⬇️А пока хотим узнать ваше мнение. Голосуйте в опросе – соберем позиции и вернемся с разбором.",
-      "views": 393,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [],
-      "video_url": null,
-      "tg_url": "https://t.me/PgAntitrust/1419",
       "forwarded_from": null
     }
   ]
