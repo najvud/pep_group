@@ -1,12 +1,35 @@
 {
-  "generated_at": "2026-09-07T04:28:27.123573+00:00",
+  "generated_at": "2026-09-07T09:37:02.862809+00:00",
   "pagination": {
     "page": 3,
     "page_size": 16,
-    "total_posts": 80,
-    "total_pages": 5
+    "total_posts": 81,
+    "total_pages": 6
   },
   "posts": [
+    {
+      "id": 1950,
+      "date": "2026-07-29T13:18:15+00:00",
+      "text": "❗️Какие ИТ-компании могут признать стратегическими, и что изменится для иностранных инвесторов\n\nПравительство РФ предложило расширить перечень стратегически значимых видов деятельности. В него могут включить маркетплейсы, разработчиков доверенного ПО и ИИ-технологий, операторов ЦОД, майнинговой инфраструктуры и информационных систем по выпуску ЦФА.\n\nЕсли законопроект примут, иностранным инвесторам потребуется:\n🔸при владении от 5% голосов — уведомить ФАС России в течение 180 дней;\n🔸при контроле более 50% — в течение 365 дней согласовать его с ФАС либо сократить долю участия.\n\nНарушение требований может привести к лишению инвестора права голоса по решению суда.\n\nИТ-компаниям, чья деятельность может быть отнесена к стратегически значимой, целесообразно уже сейчас проверить структуру владения и определить наличие иностранных инвесторов, а также их долю участия применительно к порогам 5 и 50% голосов.\n\n➡️ Подробнее в алерте «Пепеляев Групп».",
+      "text_html": "❗️Какие ИТ-компании могут признать стратегическими, и что изменится для иностранных инвесторов<br><br>Правительство РФ предложило расширить перечень стратегически значимых видов деятельности. В него могут включить маркетплейсы, разработчиков доверенного ПО и ИИ-технологий, операторов ЦОД, майнинговой инфраструктуры и информационных систем по выпуску ЦФА.<br><br>Если законопроект примут, иностранным инвесторам потребуется:<br>🔸при владении от 5% голосов — уведомить ФАС России в течение 180 дней;<br>🔸при контроле более 50% — в течение 365 дней согласовать его с ФАС либо сократить долю участия.<br><br>Нарушение требований может привести к лишению инвестора права голоса по решению суда.<br><br>ИТ-компаниям, чья деятельность может быть отнесена к стратегически значимой, целесообразно уже сейчас проверить структуру владения и определить наличие иностранных инвесторов, а также их долю участия применительно к порогам 5 и 50% голосов.<br><br>➡️ Подробнее в <a href=\"https://www.pgplaw.ru/analytics-and-brochures/alerts/it-kompanii-v-perechne-strategicheskikh-obshchestv/\" target=\"_blank\" rel=\"noopener noreferrer\">алерте «Пепеляев Групп»</a>.",
+      "views": 792,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1950-1-36218e1f8169-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1950-1-36218e1f8169-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/pgp_official/1950",
+      "forwarded_from": {
+        "source_url": "https://t.me/PgAntitrust/1455",
+        "channel_url": "https://t.me/s/PgAntitrust",
+        "channel_username": "PgAntitrust",
+        "channel_title": "PG Antitrust | Антимонопольное право"
+      }
+    },
     {
       "id": 1948,
       "date": "2026-07-27T07:03:35+00:00",
@@ -17,12 +40,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1948-1-1f9fb0f6ce74-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1948-1-1f9fb0f6ce74-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1948-1-063886db5c75-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1948-1-063886db5c75-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1948-2-854f4e3ccada-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1948-2-854f4e3ccada-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1948-2-e52111f42307-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1948-2-e52111f42307-v4.jpg"
         }
       ],
       "video_url": null,
@@ -39,8 +62,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1947-1-cbf798fd9084-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1947-1-cbf798fd9084-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1947-1-11c08d4e3620-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1947-1-11c08d4e3620-v4.jpg"
         }
       ],
       "video_url": null,
@@ -57,8 +80,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1946-1-893fbd160ec1-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1946-1-893fbd160ec1-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1946-1-ae38dd7b92f4-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1946-1-ae38dd7b92f4-v4.jpg"
         }
       ],
       "video_url": null,
@@ -75,28 +98,28 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1940-1-1bd3e43342ef-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1940-1-1bd3e43342ef-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1940-1-cb5df1bc9d85-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1940-1-cb5df1bc9d85-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1940-2-45d43d61d935-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1940-2-45d43d61d935-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1940-2-36330ca906a3-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1940-2-36330ca906a3-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1940-3-83c0766b2bd2-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1940-3-83c0766b2bd2-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1940-3-439cc6298e53-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1940-3-439cc6298e53-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1940-4-2c33f84d6144-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1940-4-2c33f84d6144-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1940-4-639dea98b9ed-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1940-4-639dea98b9ed-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1940-5-b69624b8a267-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1940-5-b69624b8a267-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1940-5-8cbab23bc7b5-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1940-5-8cbab23bc7b5-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1940-6-4042cb686e42-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1940-6-4042cb686e42-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1940-6-3aa095338ea6-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1940-6-3aa095338ea6-v4.jpg"
         }
       ],
       "video_url": null,
@@ -113,20 +136,20 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1936-1-d62e9c9e7f45-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1936-1-d62e9c9e7f45-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1936-1-437702dc2bdb-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1936-1-437702dc2bdb-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1936-2-b2521b6f10eb-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1936-2-b2521b6f10eb-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1936-2-d36ada4dedf2-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1936-2-d36ada4dedf2-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1936-3-56d1dc206e78-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1936-3-56d1dc206e78-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1936-3-f73d6840a1fb-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1936-3-f73d6840a1fb-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1936-4-a05504a5a31b-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1936-4-a05504a5a31b-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1936-4-bf46a230d649-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1936-4-bf46a230d649-v4.jpg"
         }
       ],
       "video_url": null,
@@ -148,8 +171,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1935-1-6dbcd76acfe7-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1935-1-6dbcd76acfe7-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1935-1-e81d1998198b-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1935-1-e81d1998198b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -166,29 +189,29 @@
       "date": "2026-07-17T07:30:29+00:00",
       "text": "⚡️Минфин России: две ситуации, когда Указ № 618 «отпускает» ООО\n\n🔘1 июля 2026 г. Минфин России выпустил Официальные разъяснения № 5 по применению Указа Президента РФ от 08.09.2022 № 618 (об особом порядке сделок с «недружественными» лицами).\n\nНаконец-то снят один из открытых вопросов, с которым корпоративные юристы жили последние годы: надо ли получать разрешение Правительственной комиссии, если ООО просто меняет устав в части органов управления или в нём погашается казначейская доля.\n\nРазбираем детали в карточках☝️\n\n➖➖\n📧 Если Вашей компании необходимо оценить ограничения при изменении устава, состава органов управления или проведении иных корпоративных процедур, свяжитесь с корпоративной практикой «Пепеляев Групп».",
       "text_html": "⚡️Минфин России: две ситуации, когда Указ № 618 «отпускает» ООО<br><br>🔘1 июля 2026 г. Минфин России выпустил <a href=\"https://minfin.gov.ru/ru/document?id_4=317031-ofitsialnye_razyasneniya_ministerstva_finansov_rossiiskoi_federatsii__5_po_voprosam_primeneniya_ukaza_prezidenta_rossiiskoi_federatsii_ot_8_sentyabrya_2022_goda__618\" target=\"_blank\" rel=\"noopener noreferrer\">Официальные разъяснения № 5</a> по применению Указа Президента РФ от 08.09.2022 № 618 (об особом порядке сделок с «недружественными» лицами).<br><br>Наконец-то снят один из открытых вопросов, с которым корпоративные юристы жили последние годы: надо ли получать разрешение Правительственной комиссии, если ООО просто меняет устав в части органов управления или в нём погашается казначейская доля.<br><br>Разбираем детали в карточках☝️<br><br>➖➖<br>📧 Если Вашей компании необходимо оценить ограничения при изменении устава, состава органов управления или проведении иных корпоративных процедур, свяжитесь с <a href=\"https://www.pgplaw.ru/practice-and-industry/practices/corporate-law-m-a/\" target=\"_blank\" rel=\"noopener noreferrer\">корпоративной практикой «Пепеляев Групп»</a>.",
-      "views": 817,
+      "views": 818,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1930-1-6af463d88ea9-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1930-1-6af463d88ea9-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1930-1-015c57bdc6cd-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1930-1-015c57bdc6cd-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1930-2-92c28da43597-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1930-2-92c28da43597-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1930-2-4a4e3d098c85-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1930-2-4a4e3d098c85-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1930-3-09f5cf7a3af1-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1930-3-09f5cf7a3af1-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1930-3-e44064a6e855-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1930-3-e44064a6e855-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1930-4-eea1990f2fcb-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1930-4-eea1990f2fcb-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1930-4-e7498a3c6a1e-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1930-4-e7498a3c6a1e-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1930-5-55854f84b787-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1930-5-55854f84b787-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1930-5-32e675d75fe7-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1930-5-32e675d75fe7-v4.jpg"
         }
       ],
       "video_url": null,
@@ -205,8 +228,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1929-1-8dbc4743902b-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1929-1-8dbc4743902b-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1929-1-1416e5a4c6ef-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1929-1-1416e5a4c6ef-v4.jpg"
         }
       ],
       "video_url": null,
@@ -218,13 +241,13 @@
       "date": "2026-07-16T08:03:32+00:00",
       "text": "Продолжаем разбираться в налогах и дополняем программу еще одной важной темой – уголовной ответственностью в сфере налогообложения.\n\n🗓  Вебинар состоится 21 июля в 11:00\n\nУголовная ответственность – значимая часть системы налоговых рисков, понимание которой необходимо не только юристам и налоговым специалистам.\n\nНа вебинаре расскажем:\n🔘в каких случаях вопросы налогообложения могут перейти в уголовно-правовую плоскость;\n🔘какие обстоятельства имеют значение при оценке действий компании и ее должностных лиц;\n🔘каков механизм перехода от налоговой проверки к уголовному преследованию.\n🔍  Мы рассмотрим как к налоговым «грехам» прирастают обвинения в легализации, в использовании поддельных платежных поручений, поговорим о новой статье УК о «бумажном» НДС.\n\n🎤 О том, где проходит граница между налоговым нарушением и уголовным преступлением, расскажет партнер «Пепеляев Групп» Леонид Кравчинский.\n\n🌐 Регистрация\n\n☝️ Подписаться на рассылки | MAX | Приложение PG",
       "text_html": "Продолжаем разбираться в налогах и дополняем программу еще одной важной темой – уголовной ответственностью в сфере налогообложения.<br><br>🗓  Вебинар состоится 21 июля в 11:00<br><br>Уголовная ответственность – значимая часть системы налоговых рисков, понимание которой необходимо не только юристам и налоговым специалистам.<br><br>На вебинаре расскажем:<br>🔘в каких случаях вопросы налогообложения могут перейти в уголовно-правовую плоскость;<br>🔘какие обстоятельства имеют значение при оценке действий компании и ее должностных лиц;<br>🔘каков механизм перехода от налоговой проверки к уголовному преследованию.<br>🔍  Мы рассмотрим как к налоговым «грехам» прирастают обвинения в легализации, в использовании поддельных платежных поручений, поговорим о новой статье УК о «бумажном» НДС.<br><br>🎤 О том, где проходит граница между налоговым нарушением и уголовным преступлением, расскажет партнер «Пепеляев Групп» <a href=\"https://www.pgplaw.ru/to-get-the-team/leonid-kravchinskiy/\" target=\"_blank\" rel=\"noopener noreferrer\">Леонид Кравчинский</a><a href=\"https://www.pgplaw.ru/to-get-the-team/sergey-savseris/\" target=\"_blank\" rel=\"noopener noreferrer\">.</a><br><br>🌐 <a href=\"https://www.pgplaw.ru/events/upcoming-events/kak-ustroeny-nalogi-v-biznese-chto-vazhno-znat-nenalogovym-spetsialistam-ugolovnaya-otvetstvennost/\" target=\"_blank\" rel=\"noopener noreferrer\">Регистрация</a><br><br>☝️ <a href=\"https://www.pgplaw.ru/subscribe/\" target=\"_blank\" rel=\"noopener noreferrer\">Подписаться на рассылки |</a> <a href=\"https://max.ru/id7707301372_biz\" target=\"_blank\" rel=\"noopener noreferrer\">MAX |</a> <a href=\"https://t.me/pgp_official/1769\" target=\"_blank\" rel=\"noopener noreferrer\">Приложение PG</a>",
-      "views": 697,
+      "views": 698,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1928-1-24712d51e6b6-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1928-1-24712d51e6b6-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1928-1-dcea6184d5d7-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1928-1-dcea6184d5d7-v4.jpg"
         }
       ],
       "video_url": null,
@@ -241,8 +264,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1927-1-bf1f48572daa-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1927-1-bf1f48572daa-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1927-1-f1cdc36d493d-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1927-1-f1cdc36d493d-v4.jpg"
         }
       ],
       "video_url": null,
@@ -259,8 +282,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1926-1-8e4aaac13b64-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1926-1-8e4aaac13b64-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1926-1-5d1705e163a0-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1926-1-5d1705e163a0-v4.jpg"
         }
       ],
       "video_url": null,
@@ -272,13 +295,13 @@
       "date": "2026-07-14T10:02:25+00:00",
       "text": "🎤«Форс-мажор освобождает от ответственности, но не от исполнения обязательств»\n\nВ эфире РБК-Радио Илья Болотнов, партнер, руководитель корпоративной практики «Пепеляев Групп», прокомментировал правовые последствия временного запрета на экспорт бензина и дизельного топлива для участников внешнеторговых контрактов.\n\n☝️По словам Ильи Болотнова, введение государством экспортных ограничений по общему правилу может рассматриваться как обстоятельство непреодолимой силы, однако в каждом случае необходимо учитывать условия конкретного договора. Кроме того, стороне недостаточно сослаться на сам факт запрета – необходимо подтвердить, что именно он стал причиной невозможности исполнить обязательства.\n\nЭксперт отметил, что при возникновении подобных обстоятельств сторона должна действовать добросовестно: своевременно уведомить контрагента о невозможности исполнения договора и, при необходимости, подтвердить наличие форс-мажора соответствующими документами, например сертификатом ТПП РФ.\n\n💬 «Форс-мажор является основанием для освобождения от ответственности, но не освобождает от исполнения обязательства. Когда обстоятельства непреодолимой силы прекращаются, договор продолжает действовать, и обязательства должны быть исполнены».\n\nИсточник: РБК-Радио, эфир 10.07",
       "text_html": "🎤«Форс-мажор освобождает от ответственности, но не от исполнения обязательств»<br><br>В эфире РБК-Радио <a href=\"https://www.pgplaw.ru/to-get-the-team/ilya-bolotnov/\" target=\"_blank\" rel=\"noopener noreferrer\">Илья Болотнов</a>, партнер, руководитель корпоративной практики «Пепеляев Групп», прокомментировал правовые последствия временного запрета на экспорт бензина и дизельного топлива для участников внешнеторговых контрактов.<br><br>☝️По словам Ильи Болотнова, введение государством экспортных ограничений по общему правилу может рассматриваться как обстоятельство непреодолимой силы, однако в каждом случае необходимо учитывать условия конкретного договора. Кроме того, стороне недостаточно сослаться на сам факт запрета – необходимо подтвердить, что именно он стал причиной невозможности исполнить обязательства.<br><br>Эксперт отметил, что при возникновении подобных обстоятельств сторона должна действовать добросовестно: своевременно уведомить контрагента о невозможности исполнения договора и, при необходимости, подтвердить наличие форс-мажора соответствующими документами, например сертификатом ТПП РФ.<br><br>💬 «Форс-мажор является основанием для освобождения от ответственности, но не освобождает от исполнения обязательства. Когда обстоятельства непреодолимой силы прекращаются, договор продолжает действовать, и обязательства должны быть исполнены».<br><br>Источник: РБК-Радио, эфир 10.07",
-      "views": 623,
+      "views": 625,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1925-1-69b567c065bf-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1925-1-69b567c065bf-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1925-1-4fca9afc06f3-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1925-1-4fca9afc06f3-v4.jpg"
         }
       ],
       "video_url": null,
@@ -290,13 +313,13 @@
       "date": "2026-07-14T07:00:52+00:00",
       "text": "🎙 Антимонопольное право начинается с понимания бизнеса\n\nВ видеоинтервью Илья Тюленев, руководитель антимонопольной практики «Пепеляев Групп», рассказал о своем профессиональном пути, опыте работы в консалтинге и крупном бизнесе, а также о подходах, на которых строится работа практики.\n\n©️В интервью обсудили:\n\n🔸почему опыт работы на стороне клиента помогает понимать, в каких ситуациях бизнес обращается к внешним консультантам, как выбирает их и какой результат ожидает;\n\n🔸на каких направлениях сосредоточена антимонопольная практика «Пепеляев Групп»: сложные споры и расследования, дела о монопольно высокой цене, картели и взыскание убытков;\n\n🔸какие тенденции сегодня усиливают антимонопольные риски для компаний;\n\n🔸почему в работе над антимонопольными делами необходимо учитывать не только нормы права, но и экономику, бизнес-модель клиента и условия рынка;\n\n🔸как открытый диалог с регулятором и поиск компромисса могут помочь бизнесу выстраивать долгосрочную стратегию.\n\nИлья также рассказал о первом крупном проекте в «Пепеляев Групп», развитии медиа-экосистемы проекта «Концеренция и право» и принципах бизнес-центричного подхода к защите клиентов.\n\n📎 Смотрите видео там, где вам удобно:\nVK| Rutube| YouTube",
       "text_html": "🎙 Антимонопольное право начинается с понимания бизнеса<br><br>В видеоинтервью <a href=\"https://www.pgplaw.ru/to-get-the-team/tiulenev/\" target=\"_blank\" rel=\"noopener noreferrer\">Илья Тюленев</a>, руководитель антимонопольной практики «Пепеляев Групп», рассказал о своем профессиональном пути, опыте работы в консалтинге и крупном бизнесе, а также о подходах, на которых строится работа практики.<br><br>©️В интервью обсудили:<br><br>🔸почему опыт работы на стороне клиента помогает понимать, в каких ситуациях бизнес обращается к внешним консультантам, как выбирает их и какой результат ожидает;<br><br>🔸на каких направлениях сосредоточена антимонопольная практика «Пепеляев Групп»: сложные споры и расследования, дела о монопольно высокой цене, картели и взыскание убытков;<br><br>🔸какие тенденции сегодня усиливают антимонопольные риски для компаний;<br><br>🔸почему в работе над антимонопольными делами необходимо учитывать не только нормы права, но и экономику, бизнес-модель клиента и условия рынка;<br><br>🔸как открытый диалог с регулятором и поиск компромисса могут помочь бизнесу выстраивать долгосрочную стратегию.<br><br>Илья также рассказал о первом крупном проекте в «Пепеляев Групп», развитии медиа-экосистемы проекта <a href=\"https://cljournal.ru/\" target=\"_blank\" rel=\"noopener noreferrer\">«Концеренция и право»</a> и принципах бизнес-центричного подхода к защите клиентов.<br><br>📎 Смотрите видео там, где вам удобно:<br><a href=\"https://vkvideo.ru/video-227047542_456239419\" target=\"_blank\" rel=\"noopener noreferrer\">VK</a>| <a href=\"https://rutube.ru/video/09d4ad46477ac8315b8c99dd7880ddd5/\" target=\"_blank\" rel=\"noopener noreferrer\">Rutube</a>| <a href=\"https://youtu.be/lCqaezdG0BQ\" target=\"_blank\" rel=\"noopener noreferrer\">YouTube</a>",
-      "views": 616,
+      "views": 618,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1924-1-ce20bed97fad-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1924-1-ce20bed97fad-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1924-1-d2cc2f1fa738-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1924-1-d2cc2f1fa738-v4.jpg"
         }
       ],
       "video_url": null,
@@ -313,17 +336,17 @@
       "date": "2026-07-13T07:04:52+00:00",
       "text": "🔍 Начинаем рабочую неделю с рубрикой #PGГрамотность.\n \n￼💡 АО Страховая компания Евразия. Где ставить кавычки?\n \nЧитайте в карточке правописания!\n\n🏢 Подписаться на рассылки | MAX | Приложение PG",
       "text_html": "🔍 Начинаем рабочую неделю с рубрикой #PGГрамотность.<br> <br>￼💡 АО Страховая компания Евразия. Где ставить кавычки?<br> <br>Читайте в карточке правописания!<br><br>🏢 <a href=\"https://www.pgplaw.ru/subscribe/\" target=\"_blank\" rel=\"noopener noreferrer\">Подписаться на рассылки |</a> <a href=\"https://max.ru/id7707301372_biz\" target=\"_blank\" rel=\"noopener noreferrer\">MAX |</a> <a href=\"https://t.me/pgp_official/1769\" target=\"_blank\" rel=\"noopener noreferrer\">Приложение PG</a>",
-      "views": 647,
+      "views": 649,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1922-1-0639f818111e-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1922-1-0639f818111e-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1922-1-b1f3034adb71-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1922-1-b1f3034adb71-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1922-2-e72ff1f61964-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1922-2-e72ff1f61964-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1922-2-4692725c696f-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1922-2-4692725c696f-v4.jpg"
         }
       ],
       "video_url": null,
@@ -340,30 +363,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1921-1-309f5c4e93fc-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1921-1-309f5c4e93fc-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1921-1-2bd5cb640b48-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1921-1-2bd5cb640b48-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/pgp_official/1921",
-      "forwarded_from": null
-    },
-    {
-      "id": 1920,
-      "date": "2026-07-09T10:01:34+00:00",
-      "text": "🏢 Еженедельная подборка обзоров от практик «Пепеляев Групп»\n\nЧто изменилось за последнюю неделю, и на что стоит обратить внимание бизнесу?\n\n▫️ СпецИнвестРежимы в Сибири и на Дальнем Востоке. Дайджест 29 июня – 5 июля 2026 г.\n\n▫️ Налоговые новости. Дайджест за 29 июня – 5 июля 2026 г.\n\n▫️ Банкротство: взгляд эксперта. Обзор № 328 за 2 – 8 июля 2026 г.\n\n▫️ Телекоммуникации, медиа, ИТ, персональные данные. Дайджест за 23 июня – 7 июля 2026 г.\n\nЧитайте и смотрите другие наши материалы:\n\n🔘 Вежливое ограбление. Дискуссия о справедливых налогах с позиций государства, бизнеса, права \nVK| Rutube| YouTube\n\n🔘 Новости валютного регулирования: анализируем обзоры ВС РФ. Иван Хаменушко \nVK| Rutube| YouTube\n\n🔘 Зов крови: метаморфозы правового режима биоматериала человека. Сессия Константина Шарловского \nVK| Rutube| YouTube\n\n🔘 Алерт «Антифрод 2.0: новые меры противодействия кибермошенничеству»\n\n#pg_обзоры_недели\n\n☝️ Подписаться на рассылки | MAX | Приложение PG",
-      "text_html": "🏢 Еженедельная подборка обзоров от практик «Пепеляев Групп»<br><br>Что изменилось за последнюю неделю, и на что стоит обратить внимание бизнесу?<br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/spec-invest-obzor/invest-news-digest-26-07-06/\" target=\"_blank\" rel=\"noopener noreferrer\">СпецИнвестРежимы в Сибири и на Дальнем Востоке. Дайджест 29 июня – 5 июля 2026 г.</a><br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/tax-reviews/tax-news-digest-06-07-26/\" target=\"_blank\" rel=\"noopener noreferrer\">Налоговые новости. Дайджест за 29 июня – 5 июля 2026 г.</a><br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/bankruptcy-must-read/bankruptcy-digest-08-07-26/\" target=\"_blank\" rel=\"noopener noreferrer\">Банкротство: взгляд эксперта. Обзор № 328 за 2 – 8 июля 2026 г.</a><br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/telecom-digest/telecom-digest-09-07-26/\" target=\"_blank\" rel=\"noopener noreferrer\">Телекоммуникации, медиа, ИТ, персональные данные. Дайджест за 23 июня – 7 июля 2026 г.</a><br><br>Читайте и смотрите другие наши материалы:<br><br>🔘 Вежливое ограбление. Дискуссия о справедливых налогах с позиций государства, бизнеса, права <br><a href=\"https://vkvideo.ru/video-227047542_456239417\" target=\"_blank\" rel=\"noopener noreferrer\">VK</a>| <a href=\"https://rutube.ru/video/6327456f3d1198f0d34699a55d0c93d9/\" target=\"_blank\" rel=\"noopener noreferrer\">Rutube</a>| <a href=\"https://youtu.be/j5DXekoH4Ik\" target=\"_blank\" rel=\"noopener noreferrer\">YouTube</a><br><br>🔘 Новости валютного регулирования: анализируем обзоры ВС РФ. Иван Хаменушко <br><a href=\"https://vkvideo.ru/video-227047542_456239418\" target=\"_blank\" rel=\"noopener noreferrer\">VK</a>| <a href=\"https://rutube.ru/video/05b876eecb6b92d24a0fe18cf20ddb7a/\" target=\"_blank\" rel=\"noopener noreferrer\">Rutube</a>| <a href=\"https://youtu.be/fZGyFjbtGqM\" target=\"_blank\" rel=\"noopener noreferrer\">YouTube</a><br><br>🔘 Зов крови: метаморфозы правового режима биоматериала человека. Сессия Константина Шарловского <br><a href=\"https://vkvideo.ru/video-227047542_456239422\" target=\"_blank\" rel=\"noopener noreferrer\">VK</a>| <a href=\"https://rutube.ru/video/71c2b74a817e56ccc73c91caba889506/\" target=\"_blank\" rel=\"noopener noreferrer\">Rutube</a>| <a href=\"https://youtu.be/_MyqnLLAtBY\" target=\"_blank\" rel=\"noopener noreferrer\">YouTube</a><br><br>🔘 Алерт <a href=\"https://www.pgplaw.ru/analytics-and-brochures/alerts/novye-mery-protivodeystviya-kibermoshennichestvu/\" target=\"_blank\" rel=\"noopener noreferrer\">«Антифрод 2.0: новые меры противодействия кибермошенничеству»</a><br><br>#pg_обзоры_недели<br><br>☝️ <a href=\"https://www.pgplaw.ru/subscribe/\" target=\"_blank\" rel=\"noopener noreferrer\">Подписаться на рассылки |</a> <a href=\"https://max.ru/id7707301372_biz\" target=\"_blank\" rel=\"noopener noreferrer\">MAX |</a> <a href=\"https://t.me/pgp_official/1769\" target=\"_blank\" rel=\"noopener noreferrer\">Приложение PG</a>",
-      "views": 639,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1920-1-dc5b0019511c-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1920-1-dc5b0019511c-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/pgp_official/1920",
       "forwarded_from": null
     }
   ]
