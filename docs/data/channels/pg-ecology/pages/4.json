@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-09-06T22:21:06.690896+00:00",
+  "generated_at": "2026-09-07T04:30:32.661932+00:00",
   "pagination": {
     "page": 4,
     "page_size": 16,
-    "total_posts": 58,
+    "total_posts": 59,
     "total_pages": 4
   },
   "posts": [
+    {
+      "id": 1364,
+      "date": "2026-06-24T04:00:08+00:00",
+      "text": "📣 30.05.2026 опубликовано Приказ Минприроды России от 16.04.2026 № 227 «Об утверждении Порядка учета в области обращения с отходами производства и потребления».\n\nДокумент подготовлен взамен действующего Порядка, утвержденного приказом Минприроды России от 08.12.2020 № 1028.\n\n⏱️ Документ вступает в силу 01.09.2026 и действует до 01.09.2032.\n\n#ИзмененияЗаконодательства",
+      "text_html": "📣 30.05.2026 опубликовано <a href=\"http://publication.pravo.gov.ru/document/0001202605300010\" target=\"_blank\" rel=\"noopener noreferrer\">Приказ Минприроды России от 16.04.2026 № 227</a> «Об утверждении Порядка учета в области обращения с отходами производства и потребления».<br><br>Документ подготовлен взамен действующего Порядка, утвержденного приказом Минприроды России от 08.12.2020 № 1028.<br><br>⏱️ Документ вступает в силу 01.09.2026 и действует до 01.09.2032.<br><br>#ИзмененияЗаконодательства",
+      "views": 322,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1364-1-dc40e0a4daf6-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1364-1-dc40e0a4daf6-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/pgecology/1364",
+      "forwarded_from": null
+    },
     {
       "id": 1363,
       "date": "2026-06-22T04:01:05+00:00",
@@ -79,8 +97,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1359-1-e10cd9842939-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1359-1-e10cd9842939-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1359-1-4110833118e4-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1359-1-4110833118e4-v4.jpg"
         }
       ],
       "video_url": null,
