@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T13:34:04.333368+00:00",
+  "generated_at": "2026-09-08T17:26:43.003828+00:00",
   "pagination": {
     "page": 4,
     "page_size": 16,
@@ -17,12 +17,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1922-1-7b2643382ba7-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1922-1-7b2643382ba7-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1922-1-315b77adce61-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1922-1-315b77adce61-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1922-2-ce84100e83a9-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1922-2-ce84100e83a9-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1922-2-78f90ad9153e-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1922-2-78f90ad9153e-v4.jpg"
         }
       ],
       "video_url": null,
@@ -39,8 +39,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1921-1-35cd554f2064-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1921-1-35cd554f2064-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1921-1-80245f8ecd65-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1921-1-80245f8ecd65-v4.jpg"
         }
       ],
       "video_url": null,
@@ -57,8 +57,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1920-1-3bc747fa650f-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1920-1-3bc747fa650f-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1920-1-8a5fd06a485b-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1920-1-8a5fd06a485b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -75,8 +75,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1919-1-f9e2d2b21080-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1919-1-f9e2d2b21080-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1919-1-72332818e388-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1919-1-72332818e388-v4.jpg"
         }
       ],
       "video_url": null,
@@ -88,13 +88,13 @@
       "date": "2026-07-08T11:00:35+00:00",
       "text": "🧩 Антифрод 2.0: новые меры противодействия кибермошенничеству\n\nЭксперты «Пепеляев Групп» подготовили обзор второго пакета мер противодействия кибермошенничеству. Нововведения направлены на защиту граждан, однако одновременно создают значительную дополнительную нагрузку для бизнеса. \n\nОсновное бремя нового регулирования ляжет на операторов связи и банковский сектор. Дополнительные обязанности также появятся у владельцев агрегаторов, провайдеров хостинга, разработчиков ПО и других участников цифровой инфраструктуры.\n\n▫️Закон предусматривает поэтапное вступление поправок в силу — с момента официального опубликования до 1 января 2028 года. Это дает компаниям время на подготовку, но с учетом масштаба изменений начать оценку последствий стоит уже сейчас.\n\n🔥Среди ключевых изменений:\n\n   🔴операторы связи и операторы по переводу денежных средств в отдельных случаях будут обязаны возмещать гражданам похищенные средства;\n\n   🔴пользователи ГИС «Антифрод» должны будут не только взаимодействовать с системой, но и выявлять признаки противоправных действий и передавать сведения о них;\n\n   🔴будет создана база данных IMEI, содержащая сведения о разрешенных и запрещенных на территории РФ устройствах;\n\n   🔴усилится регулирование переводов без добровольного согласия клиента, включая новые обязанности банков по проверке операций и защите приложений от вредоносного ПО;\n\n   🔴появится единая система учета платежных карт, а для физлиц будет установлен лимит по количеству карт;\n\n   🔴владельцы агрегаторов будут обязаны взаимодействовать с ГИС «Антифрод»;\n\n   🔴вводятся новые правила для виртуальных АТС, массовых вызовов, иностранных звонков, хостинга и сертификатов безопасности Национального удостоверяющего центра.\n\n👉В нашем алерте разбираем ключевые положения Закона, сроки вступления поправок в силу, новые обязанности для операторов связи, банков, агрегаторов и иных организаций, а также вопросы, которые бизнесу стоит проработать заранее.\n\n➖➖\n📧 Если Вы хотите оценить, какие положения нового антифрод-регулирования затрагивают Вашу компанию, подготовить внутренние процедуры или правовую позицию по спорным вопросам, свяжитесь с партнерами «Пепеляев Групп» – Натальей Коваленко и Лидией Горшковой.",
       "text_html": "🧩 Антифрод 2.0: новые меры противодействия кибермошенничеству<br><br>Эксперты «Пепеляев Групп» подготовили обзор второго пакета мер противодействия кибермошенничеству. Нововведения направлены на защиту граждан, однако одновременно создают значительную дополнительную нагрузку для бизнеса. <br><br>Основное бремя нового регулирования ляжет на операторов связи и банковский сектор. Дополнительные обязанности также появятся у владельцев агрегаторов, провайдеров хостинга, разработчиков ПО и других участников цифровой инфраструктуры.<br><br>▫️Закон предусматривает поэтапное вступление поправок в силу — с момента официального опубликования до 1 января 2028 года. Это дает компаниям время на подготовку, но с учетом масштаба изменений начать оценку последствий стоит уже сейчас.<br><br>🔥Среди ключевых изменений:<br><br>   🔴операторы связи и операторы по переводу денежных средств в отдельных случаях будут обязаны возмещать гражданам похищенные средства;<br><br>   🔴пользователи ГИС «Антифрод» должны будут не только взаимодействовать с системой, но и выявлять признаки противоправных действий и передавать сведения о них;<br><br>   🔴будет создана база данных IMEI, содержащая сведения о разрешенных и запрещенных на территории РФ устройствах;<br><br>   🔴усилится регулирование переводов без добровольного согласия клиента, включая новые обязанности банков по проверке операций и защите приложений от вредоносного ПО;<br><br>   🔴появится единая система учета платежных карт, а для физлиц будет установлен лимит по количеству карт;<br><br>   🔴владельцы агрегаторов будут обязаны взаимодействовать с ГИС «Антифрод»;<br><br>   🔴вводятся новые правила для виртуальных АТС, массовых вызовов, иностранных звонков, хостинга и сертификатов безопасности Национального удостоверяющего центра.<br><br>👉<a href=\"https://www.pgplaw.ru/analytics-and-brochures/alerts/novye-mery-protivodeystviya-kibermoshennichestvu/\" target=\"_blank\" rel=\"noopener noreferrer\">В нашем алерте</a> разбираем ключевые положения Закона, сроки вступления поправок в силу, новые обязанности для операторов связи, банков, агрегаторов и иных организаций, а также вопросы, которые бизнесу стоит проработать заранее.<br><br>➖➖<br>📧 Если Вы хотите оценить, какие положения нового антифрод-регулирования затрагивают Вашу компанию, подготовить внутренние процедуры или правовую позицию по спорным вопросам, свяжитесь с партнерами «Пепеляев Групп» – <a href=\"https://www.pgplaw.ru/to-get-the-team/natalya-ivashchenko/\" target=\"_blank\" rel=\"noopener noreferrer\">Натальей Коваленко</a> и <a href=\"https://www.pgplaw.ru/to-get-the-team/lidiya-gorshkova/\" target=\"_blank\" rel=\"noopener noreferrer\">Лидией Горшковой</a>.",
-      "views": 624,
+      "views": 625,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1918-1-855826e6f01b-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1918-1-855826e6f01b-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1918-1-58bcdc4e4f8e-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1918-1-58bcdc4e4f8e-v4.jpg"
         }
       ],
       "video_url": null,
@@ -129,8 +129,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1916-1-8484a817b55a-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1916-1-8484a817b55a-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1916-1-c77fed24d8cb-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1916-1-c77fed24d8cb-v4.jpg"
         }
       ],
       "video_url": null,
@@ -147,24 +147,24 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1911-1-7604ba75dce9-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1911-1-7604ba75dce9-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1911-1-fbac943bda8f-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1911-1-fbac943bda8f-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1911-2-6ec4851063d8-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1911-2-6ec4851063d8-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1911-2-e5c2165b9bfc-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1911-2-e5c2165b9bfc-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1911-3-c78472891c0e-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1911-3-c78472891c0e-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1911-3-43f750cf6590-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1911-3-43f750cf6590-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1911-4-5f8c94435491-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1911-4-5f8c94435491-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1911-4-decd1b9f51ce-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1911-4-decd1b9f51ce-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1911-5-4414186ccb13-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1911-5-4414186ccb13-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1911-5-5795ba45430a-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1911-5-5795ba45430a-v4.jpg"
         }
       ],
       "video_url": null,
@@ -181,8 +181,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1910-1-115f2d2948ea-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1910-1-115f2d2948ea-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1910-1-8f81a608026a-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1910-1-8f81a608026a-v4.jpg"
         }
       ],
       "video_url": null,
@@ -199,8 +199,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1909-1-3722da3892d7-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1909-1-3722da3892d7-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1909-1-7b53caec2a1c-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1909-1-7b53caec2a1c-v4.jpg"
         }
       ],
       "video_url": null,
@@ -217,8 +217,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1908-1-b1ca22fb1f43-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1908-1-b1ca22fb1f43-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1908-1-edccd95005e1-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1908-1-edccd95005e1-v4.jpg"
         }
       ],
       "video_url": null,
@@ -235,12 +235,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1906-1-65969d8bd7f7-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1906-1-65969d8bd7f7-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1906-1-3643c65fe212-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1906-1-3643c65fe212-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1906-2-b15da3dc63ba-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1906-2-b15da3dc63ba-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1906-2-8acff89c2764-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1906-2-8acff89c2764-v4.jpg"
         }
       ],
       "video_url": null,
@@ -257,8 +257,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1905-1-d017462267d9-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1905-1-d017462267d9-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1905-1-7cff25c65ae9-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1905-1-7cff25c65ae9-v4.jpg"
         }
       ],
       "video_url": null,
@@ -275,8 +275,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1904-1-e5fac0259b36-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1904-1-e5fac0259b36-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1904-1-67cd4d1321d6-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1904-1-67cd4d1321d6-v4.jpg"
         }
       ],
       "video_url": null,
@@ -293,16 +293,16 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1901-1-a696c5f97b86-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1901-1-a696c5f97b86-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1901-1-f0697da1b2b8-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1901-1-f0697da1b2b8-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1901-2-2d2d9d8772a1-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1901-2-2d2d9d8772a1-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1901-2-ef320d9ee591-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1901-2-ef320d9ee591-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1901-3-295f9e9e94e5-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1901-3-295f9e9e94e5-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1901-3-4b2948788579-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1901-3-4b2948788579-v4.jpg"
         }
       ],
       "video_url": null,
@@ -319,12 +319,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1899-1-7afe763b45d4-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1899-1-7afe763b45d4-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1899-1-71cf3787f273-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1899-1-71cf3787f273-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1899-2-ddaf1323b5a4-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1899-2-ddaf1323b5a4-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1899-2-f7f504508308-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1899-2-f7f504508308-v4.jpg"
         }
       ],
       "video_url": null,
