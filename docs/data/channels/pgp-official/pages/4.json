@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T09:44:32.760708+00:00",
+  "generated_at": "2026-09-09T13:58:01.907316+00:00",
   "pagination": {
     "page": 4,
     "page_size": 16,
@@ -17,8 +17,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1924-1-53086edf41b5-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1924-1-53086edf41b5-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1924-1-a45aa12ebfd3-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1924-1-a45aa12ebfd3-v4.jpg"
         }
       ],
       "video_url": null,
@@ -40,12 +40,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1922-1-5bb1b4ad2d49-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1922-1-5bb1b4ad2d49-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1922-1-a279f4dd99f2-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1922-1-a279f4dd99f2-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1922-2-a0e83f57c53c-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1922-2-a0e83f57c53c-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1922-2-272edef03555-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1922-2-272edef03555-v4.jpg"
         }
       ],
       "video_url": null,
@@ -62,8 +62,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1921-1-fe8eec55d098-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1921-1-fe8eec55d098-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1921-1-e26307b57a6f-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1921-1-e26307b57a6f-v4.jpg"
         }
       ],
       "video_url": null,
@@ -80,8 +80,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1920-1-735ee7182fa2-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1920-1-735ee7182fa2-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1920-1-7da3128011dd-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1920-1-7da3128011dd-v4.jpg"
         }
       ],
       "video_url": null,
@@ -98,8 +98,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1919-1-256a60d475be-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1919-1-256a60d475be-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1919-1-bc0a4a0a871a-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1919-1-bc0a4a0a871a-v4.jpg"
         }
       ],
       "video_url": null,
@@ -111,13 +111,13 @@
       "date": "2026-07-08T11:00:35+00:00",
       "text": "🧩 Антифрод 2.0: новые меры противодействия кибермошенничеству\n\nЭксперты «Пепеляев Групп» подготовили обзор второго пакета мер противодействия кибермошенничеству. Нововведения направлены на защиту граждан, однако одновременно создают значительную дополнительную нагрузку для бизнеса. \n\nОсновное бремя нового регулирования ляжет на операторов связи и банковский сектор. Дополнительные обязанности также появятся у владельцев агрегаторов, провайдеров хостинга, разработчиков ПО и других участников цифровой инфраструктуры.\n\n▫️Закон предусматривает поэтапное вступление поправок в силу — с момента официального опубликования до 1 января 2028 года. Это дает компаниям время на подготовку, но с учетом масштаба изменений начать оценку последствий стоит уже сейчас.\n\n🔥Среди ключевых изменений:\n\n   🔴операторы связи и операторы по переводу денежных средств в отдельных случаях будут обязаны возмещать гражданам похищенные средства;\n\n   🔴пользователи ГИС «Антифрод» должны будут не только взаимодействовать с системой, но и выявлять признаки противоправных действий и передавать сведения о них;\n\n   🔴будет создана база данных IMEI, содержащая сведения о разрешенных и запрещенных на территории РФ устройствах;\n\n   🔴усилится регулирование переводов без добровольного согласия клиента, включая новые обязанности банков по проверке операций и защите приложений от вредоносного ПО;\n\n   🔴появится единая система учета платежных карт, а для физлиц будет установлен лимит по количеству карт;\n\n   🔴владельцы агрегаторов будут обязаны взаимодействовать с ГИС «Антифрод»;\n\n   🔴вводятся новые правила для виртуальных АТС, массовых вызовов, иностранных звонков, хостинга и сертификатов безопасности Национального удостоверяющего центра.\n\n👉В нашем алерте разбираем ключевые положения Закона, сроки вступления поправок в силу, новые обязанности для операторов связи, банков, агрегаторов и иных организаций, а также вопросы, которые бизнесу стоит проработать заранее.\n\n➖➖\n📧 Если Вы хотите оценить, какие положения нового антифрод-регулирования затрагивают Вашу компанию, подготовить внутренние процедуры или правовую позицию по спорным вопросам, свяжитесь с партнерами «Пепеляев Групп» – Натальей Коваленко и Лидией Горшковой.",
       "text_html": "🧩 Антифрод 2.0: новые меры противодействия кибермошенничеству<br><br>Эксперты «Пепеляев Групп» подготовили обзор второго пакета мер противодействия кибермошенничеству. Нововведения направлены на защиту граждан, однако одновременно создают значительную дополнительную нагрузку для бизнеса. <br><br>Основное бремя нового регулирования ляжет на операторов связи и банковский сектор. Дополнительные обязанности также появятся у владельцев агрегаторов, провайдеров хостинга, разработчиков ПО и других участников цифровой инфраструктуры.<br><br>▫️Закон предусматривает поэтапное вступление поправок в силу — с момента официального опубликования до 1 января 2028 года. Это дает компаниям время на подготовку, но с учетом масштаба изменений начать оценку последствий стоит уже сейчас.<br><br>🔥Среди ключевых изменений:<br><br>   🔴операторы связи и операторы по переводу денежных средств в отдельных случаях будут обязаны возмещать гражданам похищенные средства;<br><br>   🔴пользователи ГИС «Антифрод» должны будут не только взаимодействовать с системой, но и выявлять признаки противоправных действий и передавать сведения о них;<br><br>   🔴будет создана база данных IMEI, содержащая сведения о разрешенных и запрещенных на территории РФ устройствах;<br><br>   🔴усилится регулирование переводов без добровольного согласия клиента, включая новые обязанности банков по проверке операций и защите приложений от вредоносного ПО;<br><br>   🔴появится единая система учета платежных карт, а для физлиц будет установлен лимит по количеству карт;<br><br>   🔴владельцы агрегаторов будут обязаны взаимодействовать с ГИС «Антифрод»;<br><br>   🔴вводятся новые правила для виртуальных АТС, массовых вызовов, иностранных звонков, хостинга и сертификатов безопасности Национального удостоверяющего центра.<br><br>👉<a href=\"https://www.pgplaw.ru/analytics-and-brochures/alerts/novye-mery-protivodeystviya-kibermoshennichestvu/\" target=\"_blank\" rel=\"noopener noreferrer\">В нашем алерте</a> разбираем ключевые положения Закона, сроки вступления поправок в силу, новые обязанности для операторов связи, банков, агрегаторов и иных организаций, а также вопросы, которые бизнесу стоит проработать заранее.<br><br>➖➖<br>📧 Если Вы хотите оценить, какие положения нового антифрод-регулирования затрагивают Вашу компанию, подготовить внутренние процедуры или правовую позицию по спорным вопросам, свяжитесь с партнерами «Пепеляев Групп» – <a href=\"https://www.pgplaw.ru/to-get-the-team/natalya-ivashchenko/\" target=\"_blank\" rel=\"noopener noreferrer\">Натальей Коваленко</a> и <a href=\"https://www.pgplaw.ru/to-get-the-team/lidiya-gorshkova/\" target=\"_blank\" rel=\"noopener noreferrer\">Лидией Горшковой</a>.",
-      "views": 625,
+      "views": 626,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1918-1-49e1a785c284-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1918-1-49e1a785c284-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1918-1-1cfea75678e2-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1918-1-1cfea75678e2-v4.jpg"
         }
       ],
       "video_url": null,
@@ -152,8 +152,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1916-1-c2431ac97c23-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1916-1-c2431ac97c23-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1916-1-028b583ad78f-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1916-1-028b583ad78f-v4.jpg"
         }
       ],
       "video_url": null,
@@ -170,24 +170,24 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1911-1-280b64f3a014-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1911-1-280b64f3a014-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1911-1-cd52fc0fff3f-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1911-1-cd52fc0fff3f-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1911-2-e827ddc8fbf5-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1911-2-e827ddc8fbf5-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1911-2-ed0d61ffb199-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1911-2-ed0d61ffb199-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1911-3-44e47eb94454-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1911-3-44e47eb94454-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1911-3-35977f9d80d2-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1911-3-35977f9d80d2-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1911-4-418abd4d2cd8-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1911-4-418abd4d2cd8-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1911-4-44af97cc5b12-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1911-4-44af97cc5b12-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1911-5-a0a725602f23-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1911-5-a0a725602f23-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1911-5-f4cf9148d342-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1911-5-f4cf9148d342-v4.jpg"
         }
       ],
       "video_url": null,
@@ -204,8 +204,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1910-1-3980821486ca-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1910-1-3980821486ca-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1910-1-f5a0324179fa-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1910-1-f5a0324179fa-v4.jpg"
         }
       ],
       "video_url": null,
@@ -217,13 +217,13 @@
       "date": "2026-07-02T10:00:57+00:00",
       "text": "⚡️Инвестиционное страхование – новое регулирование\n\n1 июля 2026 г. вступил в силу закон, регулирующий новый продукт на страховом рынке – страхование жизни с доходностью.\n\nНовый закон завершает переход от инвестиционного страхования жизни (ИСЖ) к новой модели регулирования. Заключение новых договоров ИСЖ в прежнем формате прекращено, а инвесторам теперь доступны два разных инструмента: долевое страхование жизни (ДСЖ) и страхование жизни с доходностью, которые отличаются механизмом инвестирования и распределением рисков.\n\n❓Что изменится\n\n🔘Вместо прежнего ИСЖ вводятся два вида страхования жизни с доходностью – с объявляемой и с расчетной доходностью.\n\n🔘Страховщик будет обязан подтверждать доходность по активам, достижение значений показателей или наступление обстоятельств и их влияние на размер начисленного и подлежащего выплате инвестиционного дохода.\n\n🔘Правила страхования должны содержать порядок и сроки начисления и выплаты инвестиционного дохода.\n\n🔘Размер страховой и выкупной суммы больше не зависит от доходности активов, за исключением случаев, прямо предусмотренных законом (например, при привязке к инфляции, ключевой ставке Банка России или другим денежным индикаторам).\n\n👉 Подробнее о новом регулировании, его отличиях от прежней модели ИСЖ и рекомендациях для страховщиков и инвесторов – в нашем алерте.\n\n➖➖\n📧 Если Вы хотите разобраться, как новое регулирование повлияет на рынок, либо оценить его влияние на Ваш бизнес или инвестиционные решения, напишите Лидии Горшковой, партнеру «Пепеляев Групп».",
       "text_html": "⚡️Инвестиционное страхование – новое регулирование<br><br>1 июля 2026 г. вступил в силу закон, регулирующий новый продукт на страховом рынке – страхование жизни с доходностью.<br><br>Новый закон завершает переход от инвестиционного страхования жизни (ИСЖ) к новой модели регулирования. Заключение новых договоров ИСЖ в прежнем формате прекращено, а инвесторам теперь доступны два разных инструмента: долевое страхование жизни (ДСЖ) и страхование жизни с доходностью, которые отличаются механизмом инвестирования и распределением рисков.<br><br>❓Что изменится<br><br>🔘Вместо прежнего ИСЖ вводятся два вида страхования жизни с доходностью – с объявляемой и с расчетной доходностью.<br><br>🔘Страховщик будет обязан подтверждать доходность по активам, достижение значений показателей или наступление обстоятельств и их влияние на размер начисленного и подлежащего выплате инвестиционного дохода.<br><br>🔘Правила страхования должны содержать порядок и сроки начисления и выплаты инвестиционного дохода.<br><br>🔘Размер страховой и выкупной суммы больше не зависит от доходности активов, за исключением случаев, прямо предусмотренных законом (например, при привязке к инфляции, ключевой ставке Банка России или другим денежным индикаторам).<br><br>👉 Подробнее о новом регулировании, его отличиях от прежней модели ИСЖ и рекомендациях для страховщиков и инвесторов – <a href=\"https://www.pgplaw.ru/analytics-and-brochures/alerts/investitsionnoe-strakhovanie-novoe-regulirovanie/\" target=\"_blank\" rel=\"noopener noreferrer\">в нашем алерте</a>.<br><br>➖➖<br>📧 Если Вы хотите разобраться, как новое регулирование повлияет на рынок, либо оценить его влияние на Ваш бизнес или инвестиционные решения, напишите <a href=\"https://www.pgplaw.ru/to-get-the-team/lidiya-gorshkova/\" target=\"_blank\" rel=\"noopener noreferrer\">Лидии Горшковой</a>, партнеру «Пепеляев Групп».",
-      "views": 672,
+      "views": 673,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1909-1-c9f2d84c9a2e-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1909-1-c9f2d84c9a2e-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1909-1-9f494829705a-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1909-1-9f494829705a-v4.jpg"
         }
       ],
       "video_url": null,
@@ -240,8 +240,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1908-1-bc03c19cf87c-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1908-1-bc03c19cf87c-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1908-1-059671f3188c-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1908-1-059671f3188c-v4.jpg"
         }
       ],
       "video_url": null,
@@ -258,12 +258,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1906-1-619b275698e8-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1906-1-619b275698e8-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1906-1-526314fef5a1-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1906-1-526314fef5a1-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1906-2-7f72ec9bd65c-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1906-2-7f72ec9bd65c-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1906-2-05cb96816f99-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1906-2-05cb96816f99-v4.jpg"
         }
       ],
       "video_url": null,
@@ -280,8 +280,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1905-1-61f5af0049f4-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1905-1-61f5af0049f4-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1905-1-bccb0128c971-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1905-1-bccb0128c971-v4.jpg"
         }
       ],
       "video_url": null,
@@ -298,8 +298,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1904-1-7829083a2107-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1904-1-7829083a2107-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1904-1-fbff480d9c0b-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1904-1-fbff480d9c0b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -316,16 +316,16 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1901-1-0f8f6c0aba78-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1901-1-0f8f6c0aba78-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1901-1-741465f73389-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1901-1-741465f73389-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1901-2-84232c04b981-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1901-2-84232c04b981-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1901-2-b630777be63e-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1901-2-b630777be63e-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1901-3-3499e5d838b1-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1901-3-3499e5d838b1-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1901-3-94046802c769-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1901-3-94046802c769-v4.jpg"
         }
       ],
       "video_url": null,
