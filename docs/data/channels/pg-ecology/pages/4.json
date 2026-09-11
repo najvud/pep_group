@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-09-10T22:02:14.748138+00:00",
+  "generated_at": "2026-09-11T08:22:13.357523+00:00",
   "pagination": {
     "page": 4,
     "page_size": 16,
-    "total_posts": 57,
+    "total_posts": 58,
     "total_pages": 4
   },
   "posts": [
+    {
+      "id": 1367,
+      "date": "2026-06-29T04:00:05+00:00",
+      "text": "📣 16 мая 2026 опубликовано Постановление Правительства РФ от 16.05.2026 № 567 «О единых требованиях к объектам обработки, утилизации, обезвреживания, размещения твердых коммунальных отходов, перегрузочным станциям».\n\nПостановление принято взамен действующих Требований, утв. постановлением Правительства РФ от 12.10.2020 N 1657\n\n⏱️ Документ действует с 01.09.2026 по 01.09.2032г.\n\n#ИзмененияЗаконодательства",
+      "text_html": "📣 16 мая 2026 опубликовано <a href=\"http://publication.pravo.gov.ru/document/0001202605160001\" target=\"_blank\" rel=\"noopener noreferrer\">Постановление Правительства РФ от 16.05.2026 № 567</a> «О единых требованиях к объектам обработки, утилизации, обезвреживания, размещения твердых коммунальных отходов, перегрузочным станциям».<br><br>Постановление принято взамен действующих Требований, утв. постановлением Правительства РФ от 12.10.2020 N 1657<br><br>⏱️ Документ действует с 01.09.2026 по 01.09.2032г.<br><br>#ИзмененияЗаконодательства",
+      "views": 281,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1367-1-13c99f7175f5-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1367-1-13c99f7175f5-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/pgecology/1367",
+      "forwarded_from": null
+    },
     {
       "id": 1366,
       "date": "2026-06-26T04:00:00+00:00",
@@ -43,8 +61,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1364-1-ab4c529de873-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1364-1-ab4c529de873-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1364-1-f8fbf9c83da6-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1364-1-f8fbf9c83da6-v4.jpg"
         }
       ],
       "video_url": null,
@@ -74,8 +92,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1362-1-49d1e9e68e44-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1362-1-49d1e9e68e44-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1362-1-f9ca9a14742c-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1362-1-f9ca9a14742c-v4.jpg"
         }
       ],
       "video_url": null,
@@ -92,8 +110,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1361-1-ed41679f351f-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1361-1-ed41679f351f-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1361-1-0942b6fbf31c-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1361-1-0942b6fbf31c-v4.jpg"
         }
       ],
       "video_url": null,
@@ -123,8 +141,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1359-1-eaa28d1417b4-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1359-1-eaa28d1417b4-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1359-1-528a5bddf646-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1359-1-528a5bddf646-v4.jpg"
         }
       ],
       "video_url": null,
@@ -141,8 +159,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1358-1-8178d710a8d4-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1358-1-8178d710a8d4-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1358-1-e8b0ba4c08c8-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1358-1-e8b0ba4c08c8-v4.jpg"
         }
       ],
       "video_url": null,

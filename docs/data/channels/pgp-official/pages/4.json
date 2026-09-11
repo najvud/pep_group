@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-10T22:00:21.318451+00:00",
+  "generated_at": "2026-09-11T08:19:59.060184+00:00",
   "pagination": {
     "page": 4,
     "page_size": 16,
-    "total_posts": 84,
+    "total_posts": 83,
     "total_pages": 6
   },
   "posts": [
@@ -17,8 +17,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1925-1-f570a653a52d-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1925-1-f570a653a52d-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1925-1-0293eda71727-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1925-1-0293eda71727-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1924-1-b34afb346936-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1924-1-b34afb346936-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1924-1-8b210f9999bf-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1924-1-8b210f9999bf-v4.jpg"
         }
       ],
       "video_url": null,
@@ -58,12 +58,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1922-1-3eee749bf617-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1922-1-3eee749bf617-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1922-1-08e88b5eed75-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1922-1-08e88b5eed75-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1922-2-cc18c0255eb9-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1922-2-cc18c0255eb9-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1922-2-e0b760652edc-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1922-2-e0b760652edc-v4.jpg"
         }
       ],
       "video_url": null,
@@ -80,8 +80,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1921-1-1ab2cfc81d24-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1921-1-1ab2cfc81d24-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1921-1-bdf52fc3279e-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1921-1-bdf52fc3279e-v4.jpg"
         }
       ],
       "video_url": null,
@@ -98,8 +98,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1920-1-8ca9bb1b036f-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1920-1-8ca9bb1b036f-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1920-1-cd6f3e2a0926-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1920-1-cd6f3e2a0926-v4.jpg"
         }
       ],
       "video_url": null,
@@ -116,8 +116,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1919-1-22bffb8c85b7-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1919-1-22bffb8c85b7-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1919-1-a75b7c8a28d4-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1919-1-a75b7c8a28d4-v4.jpg"
         }
       ],
       "video_url": null,
@@ -134,8 +134,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1918-1-808c2a930a57-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1918-1-808c2a930a57-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1918-1-49ec4e98dfd8-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1918-1-49ec4e98dfd8-v4.jpg"
         }
       ],
       "video_url": null,
@@ -170,8 +170,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1916-1-b2feb0427890-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1916-1-b2feb0427890-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1916-1-76138f9a5f46-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1916-1-76138f9a5f46-v4.jpg"
         }
       ],
       "video_url": null,
@@ -188,24 +188,24 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1911-1-6acd94c6fd05-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1911-1-6acd94c6fd05-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1911-1-27bee1b7a127-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1911-1-27bee1b7a127-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1911-2-2cdf3d02c0d1-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1911-2-2cdf3d02c0d1-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1911-2-9a53399e1504-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1911-2-9a53399e1504-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1911-3-0896101986c2-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1911-3-0896101986c2-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1911-3-37d3f0b5d511-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1911-3-37d3f0b5d511-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1911-4-41d2abea0ca2-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1911-4-41d2abea0ca2-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1911-4-f95e9cfb44b0-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1911-4-f95e9cfb44b0-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1911-5-09172b010c94-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1911-5-09172b010c94-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1911-5-638a4181e1f0-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1911-5-638a4181e1f0-v4.jpg"
         }
       ],
       "video_url": null,
@@ -222,8 +222,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1910-1-0a3914300398-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1910-1-0a3914300398-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1910-1-4778b1d7704a-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1910-1-4778b1d7704a-v4.jpg"
         }
       ],
       "video_url": null,
@@ -240,8 +240,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1909-1-7c0b57700cd0-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1909-1-7c0b57700cd0-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1909-1-f41cf27c628f-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1909-1-f41cf27c628f-v4.jpg"
         }
       ],
       "video_url": null,
@@ -276,12 +276,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1906-1-5804ae8125a2-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1906-1-5804ae8125a2-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1906-1-607c7a18ac5d-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1906-1-607c7a18ac5d-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1906-2-c7406d712408-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1906-2-c7406d712408-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1906-2-4755b2e84e44-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1906-2-4755b2e84e44-v4.jpg"
         }
       ],
       "video_url": null,
@@ -298,8 +298,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1905-1-12e279a8270a-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1905-1-12e279a8270a-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1905-1-3daff5b0a238-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1905-1-3daff5b0a238-v4.jpg"
         }
       ],
       "video_url": null,
@@ -311,13 +311,13 @@
       "date": "2026-06-30T07:00:46+00:00",
       "text": "⚖️ 32 правила Верховного суда для таможенных споров\n\nПрезидиум Верховного суда утвердил тематический обзор практики по таможенным спорам. Ключевые положения документа для Право ru прокомментировал партнер, руководитель практики таможенного права и внешнеторгового регулирования «Пепеляев Групп» Александр Косов.\n\n▫️ О классификации товаров\nАлександр Косов обращает внимание на возможную непоследовательность в подходе суда к актам ЕЭК. В деле о перфораторах Верховный суд сослался на решение ЕЭК, принятое уже после оспоренного решения таможни, а в деле о классификации угля отказался учитывать более позднюю рекомендацию ЕЭК о критериях коксующегося угля, сославшись на действие акта во времени. По мнению эксперта, такой подход «не способствует обеспечению единообразного подхода к разрешению судами дел».\n➖➖\n\n▫️ О подтверждении происхождения товаров\nПо словам Александра Косова, Верховный суд развил подход Конституционного суда, изложенный в Постановлении № 34-П. Вместе с тем эксперт обращает внимание, что с 15 марта вступили в силу изменения в требованиях к сертификату происхождения. Поэтому, по его мнению, вывод из п. 3 обзора не стоит механически переносить на декларации, зарегистрированные после этой даты.\n➖➖\n\n▫️О включении роялти в таможенную стоимость\nАлександр считает спорным сам подход к частичному включению роялти. Он отмечает, что с ним не согласны Минфин и ЕЭК, а ФТС пока не выступила с инициативой нормативно урегулировать этот вопрос на уровне комиссии. Эксперт также указывает, что в одном из рассмотренных дел вывод о включении роялти может противоречить примеру из рекомендации ЕЭК № 20.\n\n💬 «Ни в одной стране мира суммы НДС, начисленные с роялти, не облагаются таможенными платежами. По его мнению, включение в таможенную стоимость НДС, начисленного на роялти, не основано на нормах Таможенного кодекса ЕАЭС. Однако после определения Верховного суда по делу «Фанагории» изменить эту позицию сможет только Конституционный суд».\n➖➖\n\n▫️О дивидендах\nАлександр Косов считает, что в таможенную стоимость могут включаться не сами дивиденды, а платежи, которые названы дивидендами только по форме. Для этого таможенный орган должен обоснованно изменить юридическую квалификацию платежа. По мнению эксперта, обновленная формулировка п. 10 обзора может заставить суды внимательнее проверять, выполнила ли таможня это условие.\n\nИсточник: Право.ru",
       "text_html": "⚖️ 32 правила Верховного суда для таможенных споров<br><br>Президиум Верховного суда утвердил <a href=\"https://vsrf.ru/documents/reviews/36054/\" target=\"_blank\" rel=\"noopener noreferrer\">тематический обзор практики по таможенным спорам</a>. Ключевые положения документа для Право ru прокомментировал партнер, руководитель практики таможенного права и внешнеторгового регулирования «Пепеляев Групп» <a href=\"https://www.pgplaw.ru/to-get-the-team/aleksandr-kosov/\" target=\"_blank\" rel=\"noopener noreferrer\">Александр Косов.</a><br><br>▫️ О классификации товаров<br>Александр Косов обращает внимание на возможную непоследовательность в подходе суда к актам ЕЭК. В деле о перфораторах Верховный суд сослался на решение ЕЭК, принятое уже после оспоренного решения таможни, а в деле о классификации угля отказался учитывать более позднюю рекомендацию ЕЭК о критериях коксующегося угля, сославшись на действие акта во времени. По мнению эксперта, такой подход «не способствует обеспечению единообразного подхода к разрешению судами дел».<br>➖➖<br><br>▫️ О подтверждении происхождения товаров<br>По словам Александра Косова, Верховный суд развил подход Конституционного суда, изложенный в Постановлении № 34-П. Вместе с тем эксперт обращает внимание, что с 15 марта вступили в силу изменения в требованиях к сертификату происхождения. Поэтому, по его мнению, вывод из п. 3 обзора не стоит механически переносить на декларации, зарегистрированные после этой даты.<br>➖➖<br><br>▫️О включении роялти в таможенную стоимость<br>Александр считает спорным сам подход к частичному включению роялти. Он отмечает, что с ним не согласны Минфин и ЕЭК, а ФТС пока не выступила с инициативой нормативно урегулировать этот вопрос на уровне комиссии. Эксперт также указывает, что в одном из рассмотренных дел вывод о включении роялти может противоречить примеру из рекомендации ЕЭК № 20.<br><br>💬 «Ни в одной стране мира суммы НДС, начисленные с роялти, не облагаются таможенными платежами. По его мнению, включение в таможенную стоимость НДС, начисленного на роялти, не основано на нормах Таможенного кодекса ЕАЭС. Однако после определения Верховного суда по делу «Фанагории» изменить эту позицию сможет только Конституционный суд».<br>➖➖<br><br>▫️О дивидендах<br>Александр Косов считает, что в таможенную стоимость могут включаться не сами дивиденды, а платежи, которые названы дивидендами только по форме. Для этого таможенный орган должен обоснованно изменить юридическую квалификацию платежа. По мнению эксперта, обновленная формулировка п. 10 обзора может заставить суды внимательнее проверять, выполнила ли таможня это условие.<br><br>Источник: <a href=\"https://pravo.ru/story/264288/\" target=\"_blank\" rel=\"noopener noreferrer\">Право.ru</a>",
-      "views": 1540,
+      "views": 1550,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1904-1-33a904450e0d-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1904-1-33a904450e0d-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1904-1-694d960174a7-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1904-1-694d960174a7-v4.jpg"
         }
       ],
       "video_url": null,
