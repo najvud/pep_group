@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T10:10:26.763792+00:00",
+  "generated_at": "2026-09-16T14:59:27.831530+00:00",
   "pagination": {
     "page": 5,
     "page_size": 16,
@@ -7,6 +7,33 @@
     "total_pages": 10
   },
   "posts": [
+    {
+      "id": 2840,
+      "date": "2026-08-10T14:02:05+00:00",
+      "text": "⭐️ «Пепеляев Групп» вошла в число лидеров рейтинга «WEALTH Navigator: юристы для частного капитала – 2026» \n\nПо итогам исследования компания отмечена в пяти номинациях:\n\n🔴 Банковское и финансовое право: сопровождение финансовых операций в РФ – Лидер;\n🔴 Налогообложение: личное налогообложение и планирование – Лидер;\n🔴 Защита в кризисной ситуации: защита личных и семейных активов в процедуре банкротства – Ведущая фирма;\n🔴 Операции с активами: сделки с активами, ценными бумагами и инвестиции – Ведущая фирма;\n🔴 Разрешение конфликтов: разрешение споров в РФ – Ведущая фирма.\n\nРезультаты рейтинга подтверждают сильные позиции «Пепеляев Групп» в сопровождении частного капитала и комплексном консультировании клиентов по вопросам управления активами, налогового планирования, защиты капитала и разрешения сложных правовых споров.\n\n👉Подробнее с результатами рейтинга можно ознакомиться на сайте WEALTH Navigator.",
+      "text_html": "⭐️ «Пепеляев Групп» вошла в число лидеров рейтинга «WEALTH Navigator: юристы для частного капитала – 2026» <br><br>По итогам исследования компания отмечена в пяти номинациях:<br><br>🔴 Банковское и финансовое право: сопровождение финансовых операций в РФ – Лидер;<br>🔴 Налогообложение: личное налогообложение и планирование – Лидер;<br>🔴 Защита в кризисной ситуации: защита личных и семейных активов в процедуре банкротства – Ведущая фирма;<br>🔴 Операции с активами: сделки с активами, ценными бумагами и инвестиции – Ведущая фирма;<br>🔴 Разрешение конфликтов: разрешение споров в РФ – Ведущая фирма.<br><br>Результаты рейтинга подтверждают сильные позиции «Пепеляев Групп» в сопровождении частного капитала и комплексном консультировании клиентов по вопросам управления активами, налогового планирования, защиты капитала и разрешения сложных правовых споров.<br><br>👉Подробнее с результатами рейтинга можно ознакомиться на <a href=\"https://legal.wealthnavigator.ru/rating/\" target=\"_blank\" rel=\"noopener noreferrer\">сайте WEALTH Navigator</a>.",
+      "views": 839,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2840-1-a8c556c21916-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2840-1-a8c556c21916-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2840-2-8851301fe85a-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2840-2-8851301fe85a-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/PG_Tax/2840",
+      "forwarded_from": {
+        "source_url": "https://t.me/pgp_official/1955",
+        "channel_url": "https://t.me/s/pgp_official",
+        "channel_username": "pgp_official",
+        "channel_title": "Pepeliaev Group | Пепеляев Групп"
+      }
+    },
     {
       "id": 2839,
       "date": "2026-08-10T11:10:03+00:00",
@@ -17,8 +44,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2839-1-85fef5298ed1-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2839-1-85fef5298ed1-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2839-1-b4d7912d6ea7-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2839-1-b4d7912d6ea7-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +62,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2838-1-62df934062a7-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2838-1-62df934062a7-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2838-1-8bc7ea931fb4-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2838-1-8bc7ea931fb4-v4.jpg"
         }
       ],
       "video_url": null,
@@ -53,8 +80,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2837-1-1b3368350284-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2837-1-1b3368350284-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2837-1-3ca916b4dafc-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2837-1-3ca916b4dafc-v4.jpg"
         }
       ],
       "video_url": null,
@@ -71,8 +98,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2836-1-b125e3daca18-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2836-1-b125e3daca18-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2836-1-bfb581991e7b-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2836-1-bfb581991e7b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -89,8 +116,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2835-1-2d15f4801ae1-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2835-1-2d15f4801ae1-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2835-1-449d3fe00fea-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2835-1-449d3fe00fea-v4.jpg"
         }
       ],
       "video_url": null,
@@ -107,8 +134,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2834-1-557110b1538f-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2834-1-557110b1538f-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2834-1-c9db882c9f98-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2834-1-c9db882c9f98-v4.jpg"
         }
       ],
       "video_url": null,
@@ -138,8 +165,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2832-1-97867f8cbaef-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2832-1-97867f8cbaef-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2832-1-87786db82ab7-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2832-1-87786db82ab7-v4.jpg"
         }
       ],
       "video_url": null,
@@ -156,8 +183,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2831-1-71c75726e207-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2831-1-71c75726e207-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2831-1-7ea84c73399d-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2831-1-7ea84c73399d-v4.jpg"
         }
       ],
       "video_url": null,
@@ -179,8 +206,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2830-1-4bb0aeb0d73b-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2830-1-4bb0aeb0d73b-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2830-1-8c28360a1452-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2830-1-8c28360a1452-v4.jpg"
         }
       ],
       "video_url": null,
@@ -197,8 +224,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2829-1-285a7606459c-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2829-1-285a7606459c-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2829-1-96b9471ae2a8-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2829-1-96b9471ae2a8-v4.jpg"
         }
       ],
       "video_url": null,
@@ -215,8 +242,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2828-1-bb51d146da1c-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2828-1-bb51d146da1c-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2828-1-9c59e562094c-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2828-1-9c59e562094c-v4.jpg"
         }
       ],
       "video_url": null,
@@ -233,8 +260,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2827-1-f11430ab9a61-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2827-1-f11430ab9a61-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2827-1-e73883f9db11-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2827-1-e73883f9db11-v4.jpg"
         }
       ],
       "video_url": null,
@@ -251,8 +278,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2825-1-c629eae82ba8-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2825-1-c629eae82ba8-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2825-1-035837c37905-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2825-1-035837c37905-v4.jpg"
         }
       ],
       "video_url": null,
@@ -269,30 +296,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2824-1-4010ea3036bd-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2824-1-4010ea3036bd-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2824-1-51e51450ff78-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2824-1-51e51450ff78-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/PG_Tax/2824",
-      "forwarded_from": null
-    },
-    {
-      "id": 2823,
-      "date": "2026-07-30T10:32:41+00:00",
-      "text": "❌ Реорганизация как способ «сжечь» вычет\n\nСтарший партнер «Пепеляев Групп» Сергей Савсерис продолжает серию постов, посвященную «ошибочным» письмам Минфина за 2025–2026.\n\n📜 Письма от 11.06.2025 № 03-03-06/1/57542 (ФИНВ) и от 06.10.2025 № 03-03-06/1/96484 (РИНВ), ограничивающие инвестиционные вычеты\n\nПродолжаем хит-парад «сгорающих» льгот. \nМинфин продолжает настаивать на том, что налоговые льготы не терпят правопреемства. \nВедомство разъяснило: при присоединении право на неиспользованную часть ФИНВ или РИНВ просто испаряется и не переходит к правопреемнику.\n\n⚙️ Чем мог руководствоваться Минфин? \n\nЗдесь довлеет старый подход борьбы с «покупкой убытков» и чужих преференций. Минфин, видимо, рассматривает льготу как некое «личное», непередаваемое право конкретного юридического лица. \n💰 Для ведомства реорганизация — это удобный повод прекратить действие льготы и пополнить бюджет за счет «обнуления» налогового актива правопредшественника.\n\n❌ В чем ошибка с позиции экономического смысла? \n\nЭтот подход прямо противоречит принципу универсального правопреемства (ст. 50 НК РФ и ст. 58 ГК РФ). Основные средства, под которые давался вычет, никуда не исчезли — они перешли к новой компании и продолжают работать в экономике. \nЛишение правопреемника вычета лишает операцию экономического смысла: налоги взимаются сверх того, что требуется по закону, просто из-за смены юридической оболочки. \n\nЭто классический пример «налога на реорганизацию», который тормозит развитие холдингов\n\n#ошибки_Минфина\n\n➖➖\n📧 Если у вас возникли вопросы о применении этих или других разъяснений государственных органов, вы можете обращаться напрямую к Сергею Савсерису: s.savseris@pgplaw.ru.",
-      "text_html": "❌ Реорганизация как способ «сжечь» вычет<br><br>Старший партнер «Пепеляев Групп» <a href=\"https://www.pgplaw.ru/to-get-the-team/sergey-savseris/\" target=\"_blank\" rel=\"noopener noreferrer\">Сергей Савсерис</a> продолжает серию постов, посвященную «ошибочным» письмам Минфина за 2025–2026.<br><br>📜 Письма от 11.06.2025 № 03-03-06/1/57542 (ФИНВ) и от 06.10.2025 № 03-03-06/1/96484 (РИНВ), ограничивающие инвестиционные вычеты<br><br>Продолжаем хит-парад «сгорающих» льгот. <br>Минфин продолжает настаивать на том, что налоговые льготы не терпят правопреемства. <br>Ведомство разъяснило: при присоединении право на неиспользованную часть ФИНВ или РИНВ просто испаряется и не переходит к правопреемнику.<br><br>⚙️ Чем мог руководствоваться Минфин? <br><br>Здесь довлеет старый подход борьбы с «покупкой убытков» и чужих преференций. Минфин, видимо, рассматривает льготу как некое «личное», непередаваемое право конкретного юридического лица. <br>💰 Для ведомства реорганизация — это удобный повод прекратить действие льготы и пополнить бюджет за счет «обнуления» налогового актива правопредшественника.<br><br>❌ В чем ошибка с позиции экономического смысла? <br><br>Этот подход прямо противоречит принципу универсального правопреемства (ст. 50 НК РФ и ст. 58 ГК РФ). Основные средства, под которые давался вычет, никуда не исчезли — они перешли к новой компании и продолжают работать в экономике. <br>Лишение правопреемника вычета лишает операцию экономического смысла: налоги взимаются сверх того, что требуется по закону, просто из-за смены юридической оболочки. <br><br>Это классический пример «налога на реорганизацию», который тормозит развитие холдингов<br><br>#ошибки_Минфина<br><br>➖➖<br>📧 Если у вас возникли вопросы о применении этих или других разъяснений государственных органов, вы можете обращаться напрямую к Сергею Савсерису: s.savseris@pgplaw.ru.",
-      "views": 1090,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2823-1-01a6bf3d17c6-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2823-1-01a6bf3d17c6-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2823",
       "forwarded_from": null
     }
   ]

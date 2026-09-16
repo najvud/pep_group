@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T10:10:26.775994+00:00",
+  "generated_at": "2026-09-16T14:59:27.841484+00:00",
   "pagination": {
     "page": 10,
     "page_size": 16,
@@ -7,6 +7,19 @@
     "total_pages": 10
   },
   "posts": [
+    {
+      "id": 2746,
+      "date": "2026-06-24T11:00:59+00:00",
+      "text": null,
+      "text_html": null,
+      "views": 898,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [],
+      "video_url": "https://cdn4.telesco.pe/file/6f95f431d2.mp4?token=rxD-XoX4ZvlmqT_SpwAzXXyTgp5WQuT9NuINMwXGxsaZdZmn40tqJoHJUg75hNelblwHM6YnyzECcYKFOXUaEMaET-nrYwtPehoTUsZCBfTZR-5RP3nNI2D_T33uxiqHAMRLTpULfdmAamZSvFpTvIMMIikFxzET2f_nRSBZBa8RmjCdQdQJpsBRA8huOzxxdokwdt-vo09n7e9691Jf7DsGhWzAzpC_YAuAFWFyAsdGx6JSw3eLjlcwzLz0snUjbRo0BxZoW4N5t7jGUzq14zfi973r3-DW9lahxtEf-yTmDuwPDpvGxIuWlf7X0oqULtvnRCZV71TE-Km06U7UGA",
+      "tg_url": "https://t.me/PG_Tax/2746",
+      "forwarded_from": null
+    },
     {
       "id": 2745,
       "date": "2026-06-24T11:00:48+00:00",
@@ -17,8 +30,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2745-1-a2a0bca788dd-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2745-1-a2a0bca788dd-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2745-1-49194d06492b-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2745-1-49194d06492b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +48,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2744-1-38103d28f2c0-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2744-1-38103d28f2c0-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2744-1-a3775a2e2a9b-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2744-1-a3775a2e2a9b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -53,8 +66,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2742-1-9403fd595915-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2742-1-9403fd595915-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2742-1-72e0b780399c-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2742-1-72e0b780399c-v4.jpg"
         }
       ],
       "video_url": null,
@@ -71,8 +84,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2741-1-b664c723a419-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2741-1-b664c723a419-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2741-1-7c7e7a19978b-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2741-1-7c7e7a19978b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -89,8 +102,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2740-1-da512b0e759f-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2740-1-da512b0e759f-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2740-1-b6bce4d9f04e-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2740-1-b6bce4d9f04e-v4.jpg"
         }
       ],
       "video_url": null,
@@ -107,8 +120,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2739-1-01aefb882926-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2739-1-01aefb882926-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2739-1-1a2489724b0f-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2739-1-1a2489724b0f-v4.jpg"
         }
       ],
       "video_url": null,
@@ -125,8 +138,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2737-1-16cd31a7ab13-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2737-1-16cd31a7ab13-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2737-1-41f614a4b249-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2737-1-41f614a4b249-v4.jpg"
         }
       ],
       "video_url": null,
@@ -143,8 +156,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2733-1-a70eb38f05ec-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2733-1-a70eb38f05ec-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2733-1-2ad43e8f6d8d-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2733-1-2ad43e8f6d8d-v4.jpg"
         }
       ],
       "video_url": null,
@@ -161,8 +174,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2732-1-15e2f9ed3484-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2732-1-15e2f9ed3484-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2732-1-624d6091699a-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2732-1-624d6091699a-v4.jpg"
         }
       ],
       "video_url": null,
@@ -179,8 +192,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2731-1-523a78db2a13-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2731-1-523a78db2a13-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2731-1-a479da110045-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2731-1-a479da110045-v4.jpg"
         }
       ],
       "video_url": null,
@@ -197,8 +210,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2730-1-49d5006fea8a-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2730-1-49d5006fea8a-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2730-1-847f53b5bbe3-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2730-1-847f53b5bbe3-v4.jpg"
         }
       ],
       "video_url": null,
@@ -215,8 +228,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2729-1-d3391f649dbd-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2729-1-d3391f649dbd-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2729-1-cccf69abc3e8-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2729-1-cccf69abc3e8-v4.jpg"
         }
       ],
       "video_url": null,
@@ -233,36 +246,13 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2728-1-bc00937c8cbc-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2728-1-bc00937c8cbc-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2728-1-371a9db15730-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2728-1-371a9db15730-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/PG_Tax/2728",
       "forwarded_from": null
-    },
-    {
-      "id": 2727,
-      "date": "2026-06-16T14:01:17+00:00",
-      "text": "​⚡️Кассация отменила судебные акты нижестоящих судов и признала незаконным отказ налогового органа в льготе резиденту СПВ\n\nПостановление Арбитражного суда Дальневосточного округа от 27.05.2026 по делу № А24-612/2025 комментирует юрист Дальневосточного офиса Пепеляев Групп Евгения Демьянчук\n\n🔸 Суть спора\n\nООО «Терминал «Сероглазка» - резидент Свободного порта Владивосток реализует инвестиционный проект «Создание современного морского рефрижераторного терминала по комплексному обслуживанию рыбопромысловых судов и организации перевалки рефрижераторных и сухих контейнерных грузов». Резидент заявил льготу по налогу на имущество за 2023 год. Налоговый орган отказал, ссылаясь на отрицательное сальдо ЕНС (2,85 млн руб. по НДС). Обществу доначислено 24,6 млн руб. налога и штраф.\n\n✍ Аргументы сторон\n\n✍ Общество:\n✔ Полагает неверным толкование понятия налоговой задолженности, отраженной в Едином налоговом счете (далее – ЕНС) налогоплательщика.\n✔Отрицательное сальдо сформировано без учёта вычетов по НДС, заявленных в уточнённых декларациях, поданных до вынесения решения налогового органа.\n✔ После завершения камеральных проверок вычеты подтверждены, сумма НДС к уплате за 2023 г. — 0 руб., пени не начислялись.\n\n✍ Налоговый орган:\n✔ На 31.12.2023 сальдо ЕНС отрицательное, что приравнивается к задолженности.\n✔ Вычеты заявлены после срока уплаты налога, поэтому не учитываются на конец 2023 г.\n\n⚖ Что решил суд\n\nСуд кассационной инстанции отменил решения нижестоящих судов и признал недействительным решение УФНС.\n\n🔸 Ключевые выводы суда:\n\n➡️ Если налоговый орган до вынесения решения по налогу на имущество подтвердил правомерность вычетов по НДС, в результате чего сумма налога к уплате составила 0 руб., а пени не начислялись — это свидетельствует об отсутствии недоимки по смыслу п. 1 ст. 173 НК РФ.\n➡️ Отрицательное сальдо ЕНС при таких обстоятельствах не может служить основанием для отказа в льготе. Иное ставило бы добросовестного налогоплательщика в неравное положение.\n\n❗ Важно для инвесторов\n\nНаличие отрицательного сальдо ЕНС на конец налогового периода — не всегда фактическая недоимка. Резиденты СПВ вправе применять льготу, если налоговые обязательства исполнены и вычеты подтверждены до вынесения решения по проверке.\n\n#Кейс",
-      "text_html": "<a href=\"https://hooks.pro/media/2026/06/08/bot5286148466/photos/G7ng/file_495.jpg\" target=\"_blank\" rel=\"noopener noreferrer\">​</a>⚡️Кассация отменила судебные акты нижестоящих судов и признала незаконным отказ налогового органа в льготе резиденту СПВ<br><br><a href=\"https://kad.arbitr.ru/Document/Pdf/59b9d8e1-c92a-4f71-bf5e-ef8fe5cbfe40/4994929e-e1ec-47d9-b345-a9aae4e3d093/A24-612-2025_20260527_Postanovlenie_kassacionnoj_instancii.pdf?isAddStamp=True\" target=\"_blank\" rel=\"noopener noreferrer\">Постановление</a> Арбитражного суда Дальневосточного округа от 27.05.2026 по делу № А24-612/2025 комментирует юрист Дальневосточного офиса Пепеляев Групп Евгения Демьянчук<br><br>🔸 Суть спора<br><br>ООО «Терминал «Сероглазка» - резидент Свободного порта Владивосток реализует инвестиционный проект «Создание современного морского рефрижераторного терминала по комплексному обслуживанию рыбопромысловых судов и организации перевалки рефрижераторных и сухих контейнерных грузов». Резидент заявил льготу по налогу на имущество за 2023 год. Налоговый орган отказал, ссылаясь на отрицательное сальдо ЕНС (2,85 млн руб. по НДС). Обществу доначислено 24,6 млн руб. налога и штраф.<br><br>✍ Аргументы сторон<br><br>✍ Общество:<br>✔ Полагает неверным толкование понятия налоговой задолженности, отраженной в Едином налоговом счете (далее – ЕНС) налогоплательщика.<br>✔Отрицательное сальдо сформировано без учёта вычетов по НДС, заявленных в уточнённых декларациях, поданных до вынесения решения налогового органа.<br>✔ После завершения камеральных проверок вычеты подтверждены, сумма НДС к уплате за 2023 г. — 0 руб., пени не начислялись.<br><br>✍ Налоговый орган:<br>✔ На 31.12.2023 сальдо ЕНС отрицательное, что приравнивается к задолженности.<br>✔ Вычеты заявлены после срока уплаты налога, поэтому не учитываются на конец 2023 г.<br><br>⚖ Что решил суд<br><br>Суд кассационной инстанции отменил решения нижестоящих судов и признал недействительным решение УФНС.<br><br>🔸 Ключевые выводы суда:<br><br>➡️ Если налоговый орган до вынесения решения по налогу на имущество подтвердил правомерность вычетов по НДС, в результате чего сумма налога к уплате составила 0 руб., а пени не начислялись — это свидетельствует об отсутствии недоимки по смыслу п. 1 ст. 173 НК РФ.<br>➡️ Отрицательное сальдо ЕНС при таких обстоятельствах не может служить основанием для отказа в льготе. Иное ставило бы добросовестного налогоплательщика в неравное положение.<br><br>❗ Важно для инвесторов<br><br>Наличие отрицательного сальдо ЕНС на конец налогового периода — не всегда фактическая недоимка. Резиденты СПВ вправе применять льготу, если налоговые обязательства исполнены и вычеты подтверждены до вынесения решения по проверке.<br><br>#Кейс",
-      "views": 1010,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2727-1-f3b6544d73a4-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2727-1-f3b6544d73a4-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2727",
-      "forwarded_from": {
-        "source_url": "https://t.me/InvestmentLaw/1114",
-        "channel_url": "https://t.me/s/InvestmentLaw",
-        "channel_username": "InvestmentLaw",
-        "channel_title": "СпецИнвестРежимы"
-      }
     }
   ]
 }
