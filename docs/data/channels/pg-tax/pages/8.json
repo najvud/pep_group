@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T10:58:09.586297+00:00",
+  "generated_at": "2026-09-18T14:48:00.442158+00:00",
   "pagination": {
     "page": 8,
     "page_size": 16,
@@ -7,6 +7,24 @@
     "total_pages": 10
   },
   "posts": [
+    {
+      "id": 2791,
+      "date": "2026-07-15T13:35:28+00:00",
+      "text": "✍️  Эксперт «Пепеляев Групп» примет участие в заседании Дискуссионного налогового клуба Проекта «Поддержка»\n\n24 июля состоится летнее заседание на тему «Налоговые итоги первого полугодия 2026 года».\n\nУчастники обсудят правоприменительную практику по актуальным налоговым вопросам прошедшего полугодия. В программе – анализ сохраняющихся недостатков налогового законодательства и обзор новых ориентиров административной и судебной практики.\n\n▫️В центре дискуссии:\n\n🔴сроки заявления расходов и вычетов НДС;\n🔴 налогообложение доходов от лиц из недружественных государств;\n🔴убытки от отчуждения корпоративных прав;\n🔴повышающие коэффициенты земельного налога при задержке застройки;\n🔴определение действительной налоговой обязанности в спорах о «технических компаниях»;\n🔴подходы ФНС России к применению смягчающих обстоятельств.\n\n🎙 Спикер «Пепеляев Групп» – Пётр Попов, советник компании, адвокат.\n\nПодробная информация о мероприятии доступна на сайте организатора.",
+      "text_html": "✍️  Эксперт «Пепеляев Групп» примет участие в заседании Дискуссионного налогового клуба Проекта «Поддержка»<br><br>24 июля состоится летнее заседание на тему <a href=\"https://podderzhka.org/club/events/nipp/?utm_source=pgplaw&amp;amp;utm_medium=partner&amp;amp;utm_campaign=nipp_2026_07_24\" target=\"_blank\" rel=\"noopener noreferrer\">«Налоговые итоги первого полугодия 2026 года».</a><br><br>Участники обсудят правоприменительную практику по актуальным налоговым вопросам прошедшего полугодия. В программе – анализ сохраняющихся недостатков налогового законодательства и обзор новых ориентиров административной и судебной практики.<br><br>▫️В центре дискуссии:<br><br>🔴сроки заявления расходов и вычетов НДС;<br>🔴 налогообложение доходов от лиц из недружественных государств;<br>🔴убытки от отчуждения корпоративных прав;<br>🔴повышающие коэффициенты земельного налога при задержке застройки;<br>🔴определение действительной налоговой обязанности в спорах о «технических компаниях»;<br>🔴подходы ФНС России к применению смягчающих обстоятельств.<br><br>🎙 Спикер «Пепеляев Групп» – <a href=\"https://www.pgplaw.ru/to-get-the-team/petr-popov/\" target=\"_blank\" rel=\"noopener noreferrer\">Пётр Попов</a>, советник компании, адвокат.<br><br>Подробная информация о мероприятии доступна на <a href=\"https://podderzhka.org/club/events/nipp/?utm_source=pgplaw&amp;amp;utm_medium=partner&amp;amp;utm_campaign=nipp_2026_07_24\" target=\"_blank\" rel=\"noopener noreferrer\">сайте организатора</a>.",
+      "views": 937,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2791-1-07270a4646fe-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2791-1-07270a4646fe-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/PG_Tax/2791",
+      "forwarded_from": null
+    },
     {
       "id": 2790,
       "date": "2026-07-15T11:30:01+00:00",
@@ -17,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2790-1-ec474e0e900b-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2790-1-ec474e0e900b-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2790-1-318e28898a1d-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2790-1-318e28898a1d-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +53,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2789-1-884406a188f5-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2789-1-884406a188f5-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2789-1-b9e57f1c91e4-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2789-1-b9e57f1c91e4-v4.jpg"
         }
       ],
       "video_url": null,
@@ -53,8 +71,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2788-1-f882b27891ad-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2788-1-f882b27891ad-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2788-1-f7e8a014af54-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2788-1-f7e8a014af54-v4.jpg"
         }
       ],
       "video_url": null,
@@ -71,8 +89,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2787-1-abce6376a267-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2787-1-abce6376a267-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2787-1-99ddfcbd644b-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2787-1-99ddfcbd644b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -89,8 +107,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2785-1-6544b1721bbe-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2785-1-6544b1721bbe-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2785-1-d35621ae225f-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2785-1-d35621ae225f-v4.jpg"
         }
       ],
       "video_url": null,
@@ -107,8 +125,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2784-1-b462189ff559-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2784-1-b462189ff559-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2784-1-757c5afbfab7-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2784-1-757c5afbfab7-v4.jpg"
         }
       ],
       "video_url": null,
@@ -125,8 +143,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2783-1-3ed84bf0f4a0-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2783-1-3ed84bf0f4a0-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2783-1-707a937c22f8-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2783-1-707a937c22f8-v4.jpg"
         }
       ],
       "video_url": null,
@@ -143,8 +161,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2782-1-2e165f6fc5cd-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2782-1-2e165f6fc5cd-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2782-1-7b370e7c8cab-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2782-1-7b370e7c8cab-v4.jpg"
         }
       ],
       "video_url": null,
@@ -161,8 +179,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2781-1-96d99d6b8464-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2781-1-96d99d6b8464-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2781-1-2b615e8001bd-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2781-1-2b615e8001bd-v4.jpg"
         }
       ],
       "video_url": null,
@@ -179,8 +197,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2780-1-1dd1dfba22f6-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2780-1-1dd1dfba22f6-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2780-1-d22f33e43315-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2780-1-d22f33e43315-v4.jpg"
         }
       ],
       "video_url": null,
@@ -197,8 +215,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2779-1-193c54680847-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2779-1-193c54680847-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2779-1-8c7b296d12a3-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2779-1-8c7b296d12a3-v4.jpg"
         }
       ],
       "video_url": null,
@@ -215,8 +233,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2778-1-dd256e088086-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2778-1-dd256e088086-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2778-1-d742b58eba47-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2778-1-d742b58eba47-v4.jpg"
         }
       ],
       "video_url": null,
@@ -246,8 +264,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2776-1-9710f6666ed0-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2776-1-9710f6666ed0-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2776-1-15e5ce4c07e6-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2776-1-15e5ce4c07e6-v4.jpg"
         }
       ],
       "video_url": null,
@@ -264,8 +282,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2775-1-3ed69a85163a-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2775-1-3ed69a85163a-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2775-1-b577f4ddebc2-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2775-1-b577f4ddebc2-v4.jpg"
         }
       ],
       "video_url": null,
@@ -276,24 +294,6 @@
         "channel_username": "pgp_official",
         "channel_title": "Pepeliaev Group | Пепеляев Групп"
       }
-    },
-    {
-      "id": 2774,
-      "date": "2026-07-06T10:04:51+00:00",
-      "text": "📢 Квартальный обзор нормативных актов по налогам\n\nВ базу знаний сайта «Пепеляев Групп» добавлен обзор налоговых НПА за 2 квартал 2026 года. \n\nСреди ключевых вопросов:\n     📎 федеральные законы об отмене штрафов за несвоевременное представление «нулевых» деклараций,  об установлении и изменении размеров госпошлин, об адаптации бизнеса к изменениям 2026 года;\n     📎 указ Президента РФ «О дополнительных мерах по повышению устойчивости развития российской экономики»;\n     📎 акты Правительства РФ, посвящённые акцизам и СПОТ;\n     📎 позиции Минфина России об НДС в цене контракта, о соотношении СПИК и ОЭЗ, по отдельным вопросам обложения налогом на прибыль;\n     📎 позиции ФНС об исключении возможности информирования налогоплательщиков по ТКС, о реестре налогоплательщиков, по отдельным вопросам косвенных налогов и применения льгот;\n     📎 позиции Конституционного Суда РФ в отношении утилизационного сбора и определения минимального срока владения жильём;\n     📎 тематический обзор практики Верховного Суда РФ по налогу на имущество.\n \n#налоговый_обзор\n\n➖➖\n💡 Индивидуальные обзоры изменений налогового законодательства и практики, учитывающие специфику Вашего бизнеса, по расписанию в Ваш почтовый ящик можно оформить здесь.",
-      "text_html": "📢 Квартальный обзор нормативных актов по налогам<br><br>В базу знаний сайта «Пепеляев Групп» добавлен <a href=\"https://www.pgplaw.ru/analytics-and-brochures/tax-reviews/nalogovye-npa-obzor-za-2-kvartal-2026-g/\" target=\"_blank\" rel=\"noopener noreferrer\">обзор налоговых НПА</a> за 2 квартал 2026 года. <br><br>Среди ключевых вопросов:<br>     📎 федеральные законы об отмене штрафов за несвоевременное представление «нулевых» деклараций,  об установлении и изменении размеров госпошлин, об адаптации бизнеса к изменениям 2026 года;<br>     📎 указ Президента РФ «О дополнительных мерах по повышению устойчивости развития российской экономики»;<br>     📎 акты Правительства РФ, посвящённые акцизам и СПОТ;<br>     📎 позиции Минфина России об НДС в цене контракта, о соотношении СПИК и ОЭЗ, по отдельным вопросам обложения налогом на прибыль;<br>     📎 позиции ФНС об исключении возможности информирования налогоплательщиков по ТКС, о реестре налогоплательщиков, по отдельным вопросам косвенных налогов и применения льгот;<br>     📎 позиции Конституционного Суда РФ в отношении утилизационного сбора и определения минимального срока владения жильём;<br>     📎 тематический обзор практики Верховного Суда РФ по налогу на имущество.<br> <br>#налоговый_обзор<br><br>➖➖<br>💡 Индивидуальные обзоры изменений налогового законодательства и практики, учитывающие специфику Вашего бизнеса, по расписанию в Ваш почтовый ящик можно оформить <a href=\"https://www.pgplaw.ru/practice-and-industry/practices/obzory-zakonodatelstva-i-praktiki/\" target=\"_blank\" rel=\"noopener noreferrer\">здесь</a>.",
-      "views": 891,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2774-1-e310ebd3d00c-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2774-1-e310ebd3d00c-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2774",
-      "forwarded_from": null
     }
   ]
 }
