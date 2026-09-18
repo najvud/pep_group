@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T20:21:06.463174+00:00",
+  "generated_at": "2026-09-18T22:41:48.732114+00:00",
   "pagination": {
     "page": 10,
     "page_size": 16,
@@ -17,8 +17,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2752-1-0f0ec4be9e8a-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2752-1-0f0ec4be9e8a-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2752-1-a5990be2dce8-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2752-1-a5990be2dce8-v4.jpg"
         }
       ],
       "video_url": null,
@@ -120,11 +120,11 @@
       "date": "2026-06-24T11:00:59+00:00",
       "text": null,
       "text_html": null,
-      "views": 899,
+      "views": 900,
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
-      "video_url": "https://cdn4.telesco.pe/file/6f95f431d2.mp4?token=iMYAVt-wCW9u-dEKLnb-37hsDdTerPUfVtrN00PMPEKnif95VDNCTfCPqa1D-SUMhzRFyT9Kf856ODD_LE9jiWH7envqLvPk7CPqYJ8B4l3_4Td8ENBQ4vXvqnrlRG3eetryLQDA8f9ZGdN4Svu3yr6pwScyGKgB-wyIZqBk1D8POVBoMS4ft0bC0S6Z2miZJxQuDKbB1BC5OzJN143aoN8_TmjQeb9kjeYil87Ky1TWApbjB4t9VbOfw-aPbOxQo0ZmPhcrEq5C-dqo6TivH_u2ZBYiaI5VlRDSIBbcFtetVHXhobkGOsJ-e-sIMPqzh3JcOlVTG4HxnQ0BvqNDuQ",
+      "video_url": "https://cdn4.telesco.pe/file/6f95f431d2.mp4?token=eMOmuWnMttFLA_yQELUexq3sRTwr7_3JwLHX2aEk8R9Ytn3TcaRiiHRcpHt0utXAQjIn3Yrv0K-jTP7ylge2DlkP92R8e5ZcIUtluOWhjOIwLgzwwpf_Zlhs16ka41Ztosq0gSQAXZNbWIw6F48fT97DDwjna2mAvC9FG9GXQkysfeivE8FTkS3xsNOrBIz-gICZz9O_ntLkM04QohVWKM3VekUL-McV4VLn3g2AL8y_Xlt88mfnzOhqYqWUkJa-o7-t_8iYpP2oSGv15Apd_thTE0A7zg5HU5XEdfguqBeHwTDl-R2cBmJuFrtXE46uVFn-eWiMvw6Wf6PR5k5qQg",
       "tg_url": "https://t.me/PG_Tax/2746",
       "forwarded_from": null
     },
@@ -133,13 +133,13 @@
       "date": "2026-06-24T11:00:48+00:00",
       "text": null,
       "text_html": null,
-      "views": 949,
+      "views": 950,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2745-1-d16f366a32c6-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2745-1-d16f366a32c6-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2745-1-894812f99bf1-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2745-1-894812f99bf1-v4.jpg"
         }
       ],
       "video_url": null,
@@ -192,8 +192,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2741-1-a7cde58b987c-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2741-1-a7cde58b987c-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2741-1-f60f704b267b-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2741-1-f60f704b267b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -228,8 +228,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2739-1-9f02ee6f4372-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2739-1-9f02ee6f4372-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2739-1-20a00513288b-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2739-1-20a00513288b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -264,8 +264,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2733-1-871c79332e9f-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2733-1-871c79332e9f-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2733-1-2f5470f421da-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2733-1-2f5470f421da-v4.jpg"
         }
       ],
       "video_url": null,
