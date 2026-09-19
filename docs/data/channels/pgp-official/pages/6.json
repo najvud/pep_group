@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-19T13:17:11.481322+00:00",
+  "generated_at": "2026-09-19T16:33:57.507699+00:00",
   "pagination": {
     "page": 6,
     "page_size": 16,
-    "total_posts": 83,
+    "total_posts": 82,
     "total_pages": 6
   },
   "posts": [
@@ -17,8 +17,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1882-1-edc0131f9525-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1882-1-edc0131f9525-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1882-1-1b0b7fa0823a-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1882-1-1b0b7fa0823a-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,31 +35,13 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1881-1-3c1a3d1d0bc2-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1881-1-3c1a3d1d0bc2-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1881-1-ffc8299503ac-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1881-1-ffc8299503ac-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/pgp_official/1881",
       "forwarded_from": null
-    },
-    {
-      "id": 1880,
-      "date": "2026-06-19T13:33:30+00:00",
-      "text": "🎙 Константин Шарловский в рубрике Inside Legal Life\n\nГероем нового выпуска стал Константин Шарловский, партнер, руководитель практики «Фармацевтика и здравоохранение» Пепеляев Групп.\n\nОдно из увлечений Константина — поэзия. В видео он рассказывает, почему любит читать стихи в свободное время и какую роль они играют в его жизни ⬆️\n\nА что помогает вам по-настоящему переключиться после рабочего дня?\n\n#insidelegallife #корпоративныйюрист\n⚪️ «Корпоративный юрист» в Телеграм | Сообщество ВК | Канал в MAX",
-      "text_html": "🎙 Константин Шарловский в рубрике Inside Legal Life<br><br>Героем нового выпуска стал Константин Шарловский, партнер, руководитель практики «Фармацевтика и здравоохранение» Пепеляев Групп.<br><br>Одно из увлечений Константина — поэзия. В видео он рассказывает, почему любит читать стихи в свободное время и какую роль они играют в его жизни ⬆️<br><br>А что помогает вам по-настоящему переключиться после рабочего дня?<br><br>#insidelegallife #корпоративныйюрист<br>⚪️ <a href=\"https://t.me/+5XW4vb6PVQw2OTZi\" target=\"_blank\" rel=\"noopener noreferrer\">«Корпоративный юрист» в Телеграм</a> | <a href=\"https://vk.com/e.korpurist\" target=\"_blank\" rel=\"noopener noreferrer\">Сообщество ВК</a> | <a href=\"https://max.ru/join/Lqg3IVK9PxabeAS7tTNEMyVaypxlzwdwiiNUChW5C5I\" target=\"_blank\" rel=\"noopener noreferrer\">Канал в MAX</a>",
-      "views": 839,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [],
-      "video_url": null,
-      "tg_url": "https://t.me/pgp_official/1880",
-      "forwarded_from": {
-        "source_url": "https://t.me/korpurist_ru/2723",
-        "channel_url": "https://t.me/s/korpurist_ru",
-        "channel_username": "korpurist_ru",
-        "channel_title": "Корпоративный юрист"
-      }
     }
   ]
 }
