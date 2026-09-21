@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-09-20T23:37:07.384771+00:00",
+  "generated_at": "2026-09-21T07:10:56.197779+00:00",
   "pagination": {
     "page": 6,
     "page_size": 16,
-    "total_posts": 82,
+    "total_posts": 83,
     "total_pages": 6
   },
   "posts": [
+    {
+      "id": 1883,
+      "date": "2026-06-24T10:34:32+00:00",
+      "text": "📈 Оценка качества экономического правосудия \n\n🧩 В канале налоговой практики «Пепеляев Групп» вышла серия постов старшего партнера Сергея Савсериса. Эксперт провел исследование, в котором проанализировал статистику работы ВАС РФ и СКЭС ВС РФ за 2007–2025 годы.\n\nВ постах:\n🔴 что показала статистика;\n🔴 какова динамика налоговых споров;\n🔴 зависимость уровня допуска от коэффициента обжалования;\n🔴 резервы для увеличения уровня допуска дел СКЭС ВС;\n\nОсновные выводы: \nДля нормального функционирования экономического правосудия уровень допуска в СКЭС ВС РФ должен быть существенно выше нынешних 2%, а судя по статистике 2025 года, у СКЭС ВС есть заметные резервы для этого.\n\nЧитайтепосты №1 и №2 в телеграм-канале PG Tax.\n\n➖➖➖\n🎙 Если у вас остались вопросы по данной теме, свяжитесь с Сергеем Савсерисом, старшим партнером «Пепеляев Групп».\n\n🏢 Подписаться на рассылки| MAX| Приложение PG",
+      "text_html": "📈 Оценка качества экономического правосудия <br><br>🧩 В канале <a href=\"https://web.telegram.org/k/#@PG_Tax\" target=\"_blank\" rel=\"noopener noreferrer\">налоговой практики</a> «Пепеляев Групп» вышла серия постов старшего партнера Сергея Савсериса. Эксперт провел <a href=\"https://zakon.ru/blog/2026/5/27/ocenka_kachestva_ekonomicheskogo_pravosudiya__v_rossii\" target=\"_blank\" rel=\"noopener noreferrer\">исследование</a>, в котором проанализировал статистику работы ВАС РФ и СКЭС ВС РФ за 2007–2025 годы.<br><br>В постах:<br>🔴 что показала статистика;<br>🔴 какова динамика налоговых споров;<br>🔴 зависимость уровня допуска от коэффициента обжалования;<br>🔴 резервы для увеличения уровня допуска дел СКЭС ВС;<br><br>Основные выводы: <br>Для нормального функционирования экономического правосудия уровень допуска в СКЭС ВС РФ должен быть существенно выше нынешних 2%, а судя по статистике 2025 года, у СКЭС ВС есть заметные резервы для этого.<br><br>Читайтепосты <a href=\"https://t.me/PG_Tax/2689\" target=\"_blank\" rel=\"noopener noreferrer\">№1</a> и <a href=\"https://t.me/PG_Tax/2722\" target=\"_blank\" rel=\"noopener noreferrer\">№2</a> в телеграм-канале PG Tax.<br><br>➖➖➖<br>🎙 Если у вас остались вопросы по данной теме, свяжитесь с <a href=\"https://www.pgplaw.ru/to-get-the-team/sergey-savseris/\" target=\"_blank\" rel=\"noopener noreferrer\">Сергеем Савсерисом</a>, старшим партнером «Пепеляев Групп».<br><br>🏢 <a href=\"https://www.pgplaw.ru/subscribe/\" target=\"_blank\" rel=\"noopener noreferrer\">Подписаться на рассылки</a>| <a href=\"https://max.ru/id7707301372_biz\" target=\"_blank\" rel=\"noopener noreferrer\">MAX</a>| <a href=\"https://t.me/pgp_official/1769\" target=\"_blank\" rel=\"noopener noreferrer\">Приложение PG</a>",
+      "views": 638,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1883-1-4919ba901f18-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1883-1-4919ba901f18-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/pgp_official/1883",
+      "forwarded_from": null
+    },
     {
       "id": 1882,
       "date": "2026-06-24T06:01:30+00:00",
@@ -17,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1882-1-ccfef5bbf85e-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1882-1-ccfef5bbf85e-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1882-1-fdbd2b2c09ac-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1882-1-fdbd2b2c09ac-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +53,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1881-1-a095ef34d406-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1881-1-a095ef34d406-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1881-1-4407b34f6c45-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1881-1-4407b34f6c45-v4.jpg"
         }
       ],
       "video_url": null,

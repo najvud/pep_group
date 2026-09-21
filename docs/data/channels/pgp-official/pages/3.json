@@ -1,12 +1,46 @@
 {
-  "generated_at": "2026-09-20T21:51:10.262804+00:00",
+  "generated_at": "2026-09-21T07:10:56.192193+00:00",
   "pagination": {
     "page": 3,
     "page_size": 16,
-    "total_posts": 82,
+    "total_posts": 83,
     "total_pages": 6
   },
   "posts": [
+    {
+      "id": 1963,
+      "date": "2026-08-11T07:03:53+00:00",
+      "text": "🤓  ФНП разъяснила, когда корпоративные решения ООО нужно удостоверять у нотариуса\n\nФедеральная нотариальная палата разъяснила порядок оформления решений о продлении полномочий директора, передаче функций управляющей организации, назначении ликвидатора и принятии решений за пределами России.\n\n▫️Главный практический момент: продление полномочий действующего директора — это тоже избрание на новый срок, поэтому решение требует обязательного нотариального удостоверения. При этом вносить изменения в ЕГРЮЛ и подавать форму Р13014 не нужно.\n\nРазбираем основные правила и практические выводы в карточках ☝️\n\n👉  Полный материал с подробным разбором на сайте",
+      "text_html": "🤓  ФНП разъяснила, когда корпоративные решения ООО нужно удостоверять у нотариуса<br><br>Федеральная нотариальная палата разъяснила порядок оформления решений о продлении полномочий директора, передаче функций управляющей организации, назначении ликвидатора и принятии решений за пределами России.<br><br>▫️Главный практический момент: продление полномочий действующего директора — это тоже избрание на новый срок, поэтому решение требует обязательного нотариального удостоверения. При этом вносить изменения в ЕГРЮЛ и подавать форму Р13014 не нужно.<br><br>Разбираем основные правила и практические выводы в карточках ☝️<br><br>👉  <a href=\"https://www.pgplaw.ru/analytics-and-brochures/articles-comments-interviews/fnp-razyasnila-poryadok-notarialnogo-oformleniya-korporativnykh-resheniy-ooo/\" target=\"_blank\" rel=\"noopener noreferrer\">Полный материал с подробным разбором на сайте</a>",
+      "views": 965,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1963-1-5cb1ecd0ab43-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1963-1-5cb1ecd0ab43-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1963-2-b9786f4e5ec0-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1963-2-b9786f4e5ec0-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1963-3-c43e1575bd02-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1963-3-c43e1575bd02-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1963-4-da1912d9e453-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1963-4-da1912d9e453-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1963-5-b7273f79b92f-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1963-5-b7273f79b92f-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/pgp_official/1963",
+      "forwarded_from": null
+    },
     {
       "id": 1962,
       "date": "2026-08-10T12:51:50+00:00",
@@ -311,20 +345,20 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1936-1-5353db5e7d5b-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1936-1-5353db5e7d5b-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1936-1-1e796e35c763-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1936-1-1e796e35c763-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1936-2-14d076d52c0f-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1936-2-14d076d52c0f-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1936-2-8b699187792b-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1936-2-8b699187792b-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1936-3-6925d285a0e0-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1936-3-6925d285a0e0-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1936-3-0a3e722153b8-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1936-3-0a3e722153b8-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1936-4-2d9fc1c77447-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1936-4-2d9fc1c77447-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1936-4-922805d644a3-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1936-4-922805d644a3-v4.jpg"
         }
       ],
       "video_url": null,
@@ -334,29 +368,6 @@
         "channel_url": "https://t.me/s/bankrotstvo_mustknow",
         "channel_username": "bankrotstvo_mustknow",
         "channel_title": "Банкротство | Взгляд эксперта"
-      }
-    },
-    {
-      "id": 1935,
-      "date": "2026-07-21T07:32:15+00:00",
-      "text": "🔥Что нового в антимонопольном регулировании и практике\n\nЛето не снижает темп антимонопольной повестки: ФАС усиливает внимание к цифровым платформам, цепочкам дистрибуции и ценообразованию, законодатели готовят новые правила для маркетплейсов и иностранных инвестиций, а суды формируют подходы, которые напрямую влияют на рекламные механики и взаимодействие компаний с партнерами.\n\nЧтобы ориентироваться в изменениях и своевременно оценивать возникающие риски, читайте новый дайджест антимонопольных новостей. В нем собраны ключевые события, законодательные инициативы и практические выводы за период с 1 июня по 12 июля 2026 года.\n\n📌 В новом выпуске:\n\n🔸  как выстроить контроль за дистрибьюторами и снизить риски квалификации вертикальных соглашений;\n\n🔸  чем отличаются антимонопольные требования в России и Китае и что учитывать компаниям при выходе на китайский рынок;\n\n🔸 какие изменения готовятся в правилах пересмотра решений ФАС, контроле иностранных инвестиций в ИТ-сектор и регулировании маркетплейсов;\n\n🔸 какие выводы для бизнеса следуют из свежей практики Верховного Суда по рекламным рассылкам.\n\n©️Читать дайджест полностью\n\n➖➖\n✉️ При возникновении вопросов по новому регулированию или правоприменительной практике обращайтесь к Илье Тюленеву, руководителю антимонопольной практики «Пепеляев Групп».",
-      "text_html": "🔥Что нового в антимонопольном регулировании и практике<br><br>Лето не снижает темп антимонопольной повестки: ФАС усиливает внимание к цифровым платформам, цепочкам дистрибуции и ценообразованию, законодатели готовят новые правила для маркетплейсов и иностранных инвестиций, а суды формируют подходы, которые напрямую влияют на рекламные механики и взаимодействие компаний с партнерами.<br><br>Чтобы ориентироваться в изменениях и своевременно оценивать возникающие риски, читайте новый дайджест антимонопольных новостей. В нем собраны ключевые события, законодательные инициативы и практические выводы за период с 1 июня по 12 июля 2026 года.<br><br>📌 В новом выпуске:<br><br>🔸  как выстроить контроль за дистрибьюторами и снизить риски квалификации вертикальных соглашений;<br><br>🔸  чем отличаются антимонопольные требования в России и Китае и что учитывать компаниям при выходе на китайский рынок;<br><br>🔸 какие изменения готовятся в правилах пересмотра решений ФАС, контроле иностранных инвестиций в ИТ-сектор и регулировании маркетплейсов;<br><br>🔸 какие выводы для бизнеса следуют из свежей практики Верховного Суда по рекламным рассылкам.<br><br>©️<a href=\"https://www.pgplaw.ru/analytics-and-brochures/antitrust-reviews/antitrust-digest-26-07-20/\" target=\"_blank\" rel=\"noopener noreferrer\">Читать дайджест полностью</a><br><br>➖➖<br>✉️ При возникновении вопросов по новому регулированию или правоприменительной практике обращайтесь к <a href=\"https://www.pgplaw.ru/to-get-the-team/tiulenev/\" target=\"_blank\" rel=\"noopener noreferrer\">Илье Тюленеву</a>, руководителю антимонопольной практики «Пепеляев Групп».",
-      "views": 633,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1935-1-849d921978bc-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1935-1-849d921978bc-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/pgp_official/1935",
-      "forwarded_from": {
-        "source_url": "https://t.me/PgAntitrust/1453",
-        "channel_url": "https://t.me/s/PgAntitrust",
-        "channel_username": "PgAntitrust",
-        "channel_title": "PG Antitrust | Антимонопольное право"
       }
     }
   ]
