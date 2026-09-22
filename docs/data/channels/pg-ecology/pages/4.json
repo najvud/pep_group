@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-21T22:45:01.593103+00:00",
+  "generated_at": "2026-09-22T06:16:26.156301+00:00",
   "pagination": {
     "page": 4,
     "page_size": 16,
-    "total_posts": 59,
+    "total_posts": 57,
     "total_pages": 4
   },
   "posts": [
@@ -17,8 +17,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1372-1-7f592022ca02-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1372-1-7f592022ca02-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1372-1-a69cdc192764-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1372-1-a69cdc192764-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1371-1-71be866b4bef-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1371-1-71be866b4bef-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1371-1-0d7a7c02d68c-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1371-1-0d7a7c02d68c-v4.jpg"
         }
       ],
       "video_url": null,
@@ -66,8 +66,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1369-1-73d281df5460-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1369-1-73d281df5460-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1369-1-324a20f841ee-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1369-1-324a20f841ee-v4.jpg"
         }
       ],
       "video_url": null,
@@ -97,8 +97,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1367-1-94ec51baf1ea-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1367-1-94ec51baf1ea-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1367-1-f9ec4bf957ae-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1367-1-f9ec4bf957ae-v4.jpg"
         }
       ],
       "video_url": null,
@@ -141,43 +141,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1364-1-e9efc4cd1dbc-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1364-1-e9efc4cd1dbc-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1364-1-9e0554b91672-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1364-1-9e0554b91672-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/pgecology/1364",
-      "forwarded_from": null
-    },
-    {
-      "id": 1363,
-      "date": "2026-06-22T04:01:05+00:00",
-      "text": "Новые критерии в целом соответствуют действующим, уточнены формулировки по отдельным критериям. В частности.\n\n🔸В разделе I (критерии объектов НВОС I категории) исключены объекты, связанные с производством продуктов, получаемых растворением, эмульгированием, смешением, сушкой без химических процессов и нагрева >130°C (при условии очистки сточных вод). Такие объекты отнесены ко II категории.\n\n🔸 В разделе IV (критерии объектов НВОС IV категории):\n\n✔️для объектов, использующих оборудование исключительно для исследований, разработок и испытаний (НИИ, ОКБ, опытные производства), исключено требование об отсутствии в выбросах веществ I и II классов опасности и радиоактивных веществ, достаточно соблюдения общего лимита выбросов ≤10 т/год;\n\n✔️продолжительность строительства увеличена с \"менее 6 месяцев\" до \"6 месяцев и менее\", то есть объекты со сроком строительства ровно 6 месяцев теперь относятся к IV категории (сейчас отнесены к III категории).\n\n#ИзмененияЗаконодательства",
-      "text_html": "Новые критерии в целом соответствуют действующим, уточнены формулировки по отдельным критериям. В частности.<br><br>🔸В разделе I (критерии объектов НВОС I категории) исключены объекты, связанные с производством продуктов, получаемых растворением, эмульгированием, смешением, сушкой без химических процессов и нагрева >130°C (при условии очистки сточных вод). Такие объекты отнесены ко II категории.<br><br>🔸 В разделе IV (критерии объектов НВОС IV категории):<br><br>✔️для объектов, использующих оборудование исключительно для исследований, разработок и испытаний (НИИ, ОКБ, опытные производства), исключено требование об отсутствии в выбросах веществ I и II классов опасности и радиоактивных веществ, достаточно соблюдения общего лимита выбросов ≤10 т/год;<br><br>✔️продолжительность строительства увеличена с \"менее 6 месяцев\" до \"6 месяцев и менее\", то есть объекты со сроком строительства ровно 6 месяцев теперь относятся к IV категории (сейчас отнесены к III категории).<br><br>#ИзмененияЗаконодательства",
-      "views": 370,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [],
-      "video_url": null,
-      "tg_url": "https://t.me/pgecology/1363",
-      "forwarded_from": null
-    },
-    {
-      "id": 1362,
-      "date": "2026-06-22T04:00:02+00:00",
-      "text": "📣 29.05.2026 опубликовано Постановление Правительства РФ от 29.05.2026 № 636 «Об утверждении критериев отнесения объектов, оказывающих негативное воздействие на окружающую среду, к объектам I, II, III и IV категорий».\n\nНовые Критерии приняты взамен аналогичных, действующих в настоящее время, которые были утверждены постановлением Правительства РФ от 31.12.2020 N 2398.\n\nДействие Постановления Правительства РФ от 31.12.2020 № 2398 было ограничено 1 сентября 2026 года, с чем и связано принятие новых критериев.\n\n⏱️ Постановление вступает в силу с 01.09.2026 и действует до 01.09.2032. \n\n#ИзмененияЗаконодательства",
-      "text_html": "📣 29.05.2026 опубликовано <a href=\"http://publication.pravo.gov.ru/document/0001202605290064\" target=\"_blank\" rel=\"noopener noreferrer\">Постановление Правительства РФ от 29.05.2026 № 636</a> «Об утверждении критериев отнесения объектов, оказывающих негативное воздействие на окружающую среду, к объектам I, II, III и IV категорий».<br><br>Новые Критерии приняты взамен аналогичных, действующих в настоящее время, которые были утверждены постановлением Правительства РФ от 31.12.2020 N 2398.<br><br>Действие Постановления Правительства РФ от 31.12.2020 № 2398 было ограничено 1 сентября 2026 года, с чем и связано принятие новых критериев.<br><br>⏱️ Постановление вступает в силу с 01.09.2026 и действует до 01.09.2032. <br><br>#ИзмененияЗаконодательства",
-      "views": 365,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1362-1-6bf1c98f2086-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1362-1-6bf1c98f2086-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/pgecology/1362",
       "forwarded_from": null
     }
   ]
