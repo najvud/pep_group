@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T05:12:50.482721+00:00",
+  "generated_at": "2026-09-23T10:01:31.399389+00:00",
   "pagination": {
     "page": 8,
     "page_size": 16,
@@ -7,6 +7,24 @@
     "total_pages": 10
   },
   "posts": [
+    {
+      "id": 2796,
+      "date": "2026-07-17T13:02:29+00:00",
+      "text": "Продолжаем разбираться в налогах и дополняем программу еще одной важной темой – уголовной ответственностью в сфере налогообложения.\n\n🗓  Вебинар состоится 21 июля в 11:00\n\nУголовная ответственность – значимая часть системы налоговых рисков, понимание которой необходимо не только юристам и налоговым специалистам.\n\nНа вебинаре расскажем:\n🔘в каких случаях вопросы налогообложения могут перейти в уголовно-правовую плоскость;\n🔘какие обстоятельства имеют значение при оценке действий компании и ее должностных лиц;\n🔘каков механизм перехода от налоговой проверки к уголовному преследованию.\n🔍  Мы рассмотрим как к налоговым «грехам» прирастают обвинения в легализации, в использовании поддельных платежных поручений, поговорим о новой статье УК о «бумажном» НДС.\n\n🎤 О том, где проходит граница между налоговым нарушением и уголовным преступлением, расскажет партнер «Пепеляев Групп» Леонид Кравчинский.\n\n🌐 Регистрация\n\n☝️ Подписаться на рассылки | MAX | Приложение PG",
+      "text_html": "Продолжаем разбираться в налогах и дополняем программу еще одной важной темой – уголовной ответственностью в сфере налогообложения.<br><br>🗓  Вебинар состоится 21 июля в 11:00<br><br>Уголовная ответственность – значимая часть системы налоговых рисков, понимание которой необходимо не только юристам и налоговым специалистам.<br><br>На вебинаре расскажем:<br>🔘в каких случаях вопросы налогообложения могут перейти в уголовно-правовую плоскость;<br>🔘какие обстоятельства имеют значение при оценке действий компании и ее должностных лиц;<br>🔘каков механизм перехода от налоговой проверки к уголовному преследованию.<br>🔍  Мы рассмотрим как к налоговым «грехам» прирастают обвинения в легализации, в использовании поддельных платежных поручений, поговорим о новой статье УК о «бумажном» НДС.<br><br>🎤 О том, где проходит граница между налоговым нарушением и уголовным преступлением, расскажет партнер «Пепеляев Групп» <a href=\"https://www.pgplaw.ru/to-get-the-team/leonid-kravchinskiy/\" target=\"_blank\" rel=\"noopener noreferrer\">Леонид Кравчинский</a><a href=\"https://www.pgplaw.ru/to-get-the-team/sergey-savseris/\" target=\"_blank\" rel=\"noopener noreferrer\">.</a><br><br>🌐 <a href=\"https://www.pgplaw.ru/events/upcoming-events/kak-ustroeny-nalogi-v-biznese-chto-vazhno-znat-nenalogovym-spetsialistam-ugolovnaya-otvetstvennost/\" target=\"_blank\" rel=\"noopener noreferrer\">Регистрация</a><br><br>☝️ <a href=\"https://www.pgplaw.ru/subscribe/\" target=\"_blank\" rel=\"noopener noreferrer\">Подписаться на рассылки |</a> <a href=\"https://max.ru/id7707301372_biz\" target=\"_blank\" rel=\"noopener noreferrer\">MAX |</a> <a href=\"https://t.me/pgp_official/1769\" target=\"_blank\" rel=\"noopener noreferrer\">Приложение PG</a>",
+      "views": 941,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2796-1-32d66360be93-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2796-1-32d66360be93-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/PG_Tax/2796",
+      "forwarded_from": null
+    },
     {
       "id": 2795,
       "date": "2026-07-17T10:04:07+00:00",
@@ -17,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2795-1-9f64c6ef3cd8-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2795-1-9f64c6ef3cd8-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2795-1-ce60169a8056-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2795-1-ce60169a8056-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +53,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2794-1-4fcc2dd23564-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2794-1-4fcc2dd23564-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2794-1-f0c41b8a8770-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2794-1-f0c41b8a8770-v4.jpg"
         }
       ],
       "video_url": null,
@@ -53,8 +71,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2793-1-f608b0d66285-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2793-1-f608b0d66285-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2793-1-359ff41d8fd5-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2793-1-359ff41d8fd5-v4.jpg"
         }
       ],
       "video_url": null,
@@ -71,8 +89,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2792-1-8e5563865cd4-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2792-1-8e5563865cd4-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2792-1-c7993257fd7d-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2792-1-c7993257fd7d-v4.jpg"
         }
       ],
       "video_url": null,
@@ -89,8 +107,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2791-1-257274aff8e2-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2791-1-257274aff8e2-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2791-1-3aa0012211d2-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2791-1-3aa0012211d2-v4.jpg"
         }
       ],
       "video_url": null,
@@ -107,8 +125,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2790-1-cf954d0f197c-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2790-1-cf954d0f197c-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2790-1-8fa76baf977e-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2790-1-8fa76baf977e-v4.jpg"
         }
       ],
       "video_url": null,
@@ -125,8 +143,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2789-1-5f8608cb14ee-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2789-1-5f8608cb14ee-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2789-1-fa6c488d697f-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2789-1-fa6c488d697f-v4.jpg"
         }
       ],
       "video_url": null,
@@ -143,8 +161,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2788-1-06abd53ba0da-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2788-1-06abd53ba0da-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2788-1-43d6c8e53659-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2788-1-43d6c8e53659-v4.jpg"
         }
       ],
       "video_url": null,
@@ -161,8 +179,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2787-1-a4c4c4936d91-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2787-1-a4c4c4936d91-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2787-1-7f87ee11617d-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2787-1-7f87ee11617d-v4.jpg"
         }
       ],
       "video_url": null,
@@ -179,8 +197,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2785-1-b9a964c30f63-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2785-1-b9a964c30f63-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2785-1-bde3053a5c20-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2785-1-bde3053a5c20-v4.jpg"
         }
       ],
       "video_url": null,
@@ -197,8 +215,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2784-1-3f2888e1d695-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2784-1-3f2888e1d695-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2784-1-1e91072b2c91-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2784-1-1e91072b2c91-v4.jpg"
         }
       ],
       "video_url": null,
@@ -215,8 +233,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2783-1-6e3529b7466a-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2783-1-6e3529b7466a-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2783-1-4b08fef19e8b-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2783-1-4b08fef19e8b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -233,8 +251,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2782-1-db83478d4629-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2782-1-db83478d4629-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2782-1-525cc1bb3e3f-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2782-1-525cc1bb3e3f-v4.jpg"
         }
       ],
       "video_url": null,
@@ -251,8 +269,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2781-1-e56d786a746e-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2781-1-e56d786a746e-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2781-1-b1f65a07c025-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2781-1-b1f65a07c025-v4.jpg"
         }
       ],
       "video_url": null,
@@ -269,30 +287,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2780-1-9bc40db78817-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2780-1-9bc40db78817-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2780-1-f383ad6e6926-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2780-1-f383ad6e6926-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/PG_Tax/2780",
-      "forwarded_from": null
-    },
-    {
-      "id": 2779,
-      "date": "2026-07-08T11:31:53+00:00",
-      "text": "💰  Как меняется представление о справедливых налогах в эпоху удаленной работы, цифровых кочевников и искусственного интеллекта?\n\nВ рамках Петербургского Правового Саммита при поддержке «Пепеляев Групп» состоялась дискуссия «Вежливое ограбление. Дискуссия о справедливых налогах с позиций государства, бизнеса и права». Модератором выступил управляющий партнер «Пепеляев Групп» Сергей Пепеляев.\n\nУчастники обсудили, где проходит граница между разумной налоговой нагрузкой и восприятием налога как «вежливого ограбления», как глобальная мобильность влияет на налоговое резидентство и почему разговор о налогах сегодня выходит далеко за рамки ставок и льгот.\n\n⚡️ Делимся записью дискуссии:\nVK| Rutube| YouTube\n\n🔴Cмотрите и присоединяйтесь к разговору о том, какими могут быть справедливые налоги будущего.",
-      "text_html": "💰  Как меняется представление о справедливых налогах в эпоху удаленной работы, цифровых кочевников и искусственного интеллекта?<br><br>В рамках Петербургского Правового Саммита при поддержке «Пепеляев Групп» состоялась дискуссия «Вежливое ограбление. Дискуссия о справедливых налогах с позиций государства, бизнеса и права». Модератором выступил управляющий партнер «Пепеляев Групп» <a href=\"https://www.pgplaw.ru/to-get-the-team/sergey-pepeliaev/\" target=\"_blank\" rel=\"noopener noreferrer\">Сергей Пепеляев.</a><br><br>Участники обсудили, где проходит граница между разумной налоговой нагрузкой и восприятием налога как «вежливого ограбления», как глобальная мобильность влияет на налоговое резидентство и почему разговор о налогах сегодня выходит далеко за рамки ставок и льгот.<br><br>⚡️ Делимся записью дискуссии:<br><a href=\"https://vkvideo.ru/video-227047542_456239417\" target=\"_blank\" rel=\"noopener noreferrer\">VK</a>| <a href=\"https://rutube.ru/video/6327456f3d1198f0d34699a55d0c93d9/\" target=\"_blank\" rel=\"noopener noreferrer\">Rutube</a>| <a href=\"https://youtu.be/j5DXekoH4Ik\" target=\"_blank\" rel=\"noopener noreferrer\">YouTube</a><br><br>🔴Cмотрите и присоединяйтесь к разговору о том, какими могут быть справедливые налоги будущего.",
-      "views": 2880,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2779-1-01b270b6a847-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2779-1-01b270b6a847-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2779",
       "forwarded_from": null
     }
   ]
