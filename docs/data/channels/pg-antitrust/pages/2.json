@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-23T21:49:27.977733+00:00",
+  "generated_at": "2026-09-24T09:31:06.399193+00:00",
   "pagination": {
     "page": 2,
     "page_size": 16,
-    "total_posts": 24,
+    "total_posts": 23,
     "total_pages": 2
   },
   "posts": [
@@ -30,8 +30,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1445-1-39562df3de41-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1445-1-39562df3de41-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1445-1-34a7bd2b177d-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1445-1-34a7bd2b177d-v4.jpg"
         }
       ],
       "video_url": null,
@@ -48,8 +48,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1437-1-4a8c4ccfc3ad-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1437-1-4a8c4ccfc3ad-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1437-1-741eab7b606d-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1437-1-741eab7b606d-v4.jpg"
         }
       ],
       "video_url": null,
@@ -126,36 +126,6 @@
       ],
       "video_url": null,
       "tg_url": "https://t.me/PgAntitrust/1433",
-      "forwarded_from": null
-    },
-    {
-      "id": 1429,
-      "date": "2026-06-24T07:59:58+00:00",
-      "text": "✏️ Постановление КС № 29-П: три правила для бизнеса\n\nКС установил временный порядок до тех пор, пока законодатель не внесет поправки.\n\nРазбираемся в карточках.\n\nА если вы пропустили первую часть этой истории, то вот ссылка...\n\n🟧Помогаем выстроить стратегию защиты в антимонопольных административных делах",
-      "text_html": "✏️ Постановление КС № 29-П: три правила для бизнеса<br><br>КС установил временный порядок до тех пор, пока законодатель не внесет поправки.<br><br>Разбираемся в карточках.<br><br>А если вы пропустили первую часть этой истории, <a href=\"https://t.me/PgAntitrust/1423\" target=\"_blank\" rel=\"noopener noreferrer\">то вот ссылка...</a><br><br>🟧<a href=\"https://www.pgplaw.ru/practice-and-industry/practices/antitrust-regulation/\" target=\"_blank\" rel=\"noopener noreferrer\">Помогаем выстроить стратегию защиты</a> в антимонопольных административных делах",
-      "views": 377,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1429-1-949acffa249b-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1429-1-949acffa249b-v4.jpg"
-        },
-        {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1429-2-4063eb4405b6-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1429-2-4063eb4405b6-v4.jpg"
-        },
-        {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1429-3-9e48c3c0d72e-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1429-3-9e48c3c0d72e-v4.jpg"
-        },
-        {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1429-4-8597790448ab-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1429-4-8597790448ab-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PgAntitrust/1429",
       "forwarded_from": null
     }
   ]

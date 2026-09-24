@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-24T04:34:32.653540+00:00",
+  "generated_at": "2026-09-24T09:30:56.839104+00:00",
   "pagination": {
     "page": 5,
     "page_size": 16,
-    "total_posts": 83,
+    "total_posts": 82,
     "total_pages": 6
   },
   "posts": [
@@ -17,24 +17,24 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1911-1-27f50d569e5f-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1911-1-27f50d569e5f-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1911-1-04c2d3667703-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1911-1-04c2d3667703-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1911-2-d543048b6c94-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1911-2-d543048b6c94-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1911-2-eea9582de4b7-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1911-2-eea9582de4b7-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1911-3-ddaeff4d5eea-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1911-3-ddaeff4d5eea-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1911-3-42f531ebad6e-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1911-3-42f531ebad6e-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1911-4-9221c5555abc-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1911-4-9221c5555abc-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1911-4-756112ae71bd-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1911-4-756112ae71bd-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1911-5-4e3ac98e3e1f-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1911-5-4e3ac98e3e1f-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1911-5-2a4240223a8b-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1911-5-2a4240223a8b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -51,8 +51,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1910-1-ba0a551f85de-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1910-1-ba0a551f85de-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1910-1-a36cde8044a9-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1910-1-a36cde8044a9-v4.jpg"
         }
       ],
       "video_url": null,
@@ -69,8 +69,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1909-1-60acbacf7f62-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1909-1-60acbacf7f62-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1909-1-a18e402f2aba-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1909-1-a18e402f2aba-v4.jpg"
         }
       ],
       "video_url": null,
@@ -87,8 +87,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1908-1-40e476522c88-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1908-1-40e476522c88-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1908-1-074e37308d74-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1908-1-074e37308d74-v4.jpg"
         }
       ],
       "video_url": null,
@@ -105,12 +105,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1906-1-6d479c0a314b-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1906-1-6d479c0a314b-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1906-1-eb3e10995d38-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1906-1-eb3e10995d38-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1906-2-4c0414e7e047-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1906-2-4c0414e7e047-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1906-2-2fd34432d50d-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1906-2-2fd34432d50d-v4.jpg"
         }
       ],
       "video_url": null,
@@ -127,8 +127,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1905-1-29ba93dc3530-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1905-1-29ba93dc3530-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1905-1-9b4967730717-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1905-1-9b4967730717-v4.jpg"
         }
       ],
       "video_url": null,
@@ -140,13 +140,13 @@
       "date": "2026-06-30T07:00:46+00:00",
       "text": "⚖️ 32 правила Верховного суда для таможенных споров\n\nПрезидиум Верховного суда утвердил тематический обзор практики по таможенным спорам. Ключевые положения документа для Право ru прокомментировал партнер, руководитель практики таможенного права и внешнеторгового регулирования «Пепеляев Групп» Александр Косов.\n\n▫️ О классификации товаров\nАлександр Косов обращает внимание на возможную непоследовательность в подходе суда к актам ЕЭК. В деле о перфораторах Верховный суд сослался на решение ЕЭК, принятое уже после оспоренного решения таможни, а в деле о классификации угля отказался учитывать более позднюю рекомендацию ЕЭК о критериях коксующегося угля, сославшись на действие акта во времени. По мнению эксперта, такой подход «не способствует обеспечению единообразного подхода к разрешению судами дел».\n➖➖\n\n▫️ О подтверждении происхождения товаров\nПо словам Александра Косова, Верховный суд развил подход Конституционного суда, изложенный в Постановлении № 34-П. Вместе с тем эксперт обращает внимание, что с 15 марта вступили в силу изменения в требованиях к сертификату происхождения. Поэтому, по его мнению, вывод из п. 3 обзора не стоит механически переносить на декларации, зарегистрированные после этой даты.\n➖➖\n\n▫️О включении роялти в таможенную стоимость\nАлександр считает спорным сам подход к частичному включению роялти. Он отмечает, что с ним не согласны Минфин и ЕЭК, а ФТС пока не выступила с инициативой нормативно урегулировать этот вопрос на уровне комиссии. Эксперт также указывает, что в одном из рассмотренных дел вывод о включении роялти может противоречить примеру из рекомендации ЕЭК № 20.\n\n💬 «Ни в одной стране мира суммы НДС, начисленные с роялти, не облагаются таможенными платежами. По его мнению, включение в таможенную стоимость НДС, начисленного на роялти, не основано на нормах Таможенного кодекса ЕАЭС. Однако после определения Верховного суда по делу «Фанагории» изменить эту позицию сможет только Конституционный суд».\n➖➖\n\n▫️О дивидендах\nАлександр Косов считает, что в таможенную стоимость могут включаться не сами дивиденды, а платежи, которые названы дивидендами только по форме. Для этого таможенный орган должен обоснованно изменить юридическую квалификацию платежа. По мнению эксперта, обновленная формулировка п. 10 обзора может заставить суды внимательнее проверять, выполнила ли таможня это условие.\n\nИсточник: Право.ru",
       "text_html": "⚖️ 32 правила Верховного суда для таможенных споров<br><br>Президиум Верховного суда утвердил <a href=\"https://vsrf.ru/documents/reviews/36054/\" target=\"_blank\" rel=\"noopener noreferrer\">тематический обзор практики по таможенным спорам</a>. Ключевые положения документа для Право ru прокомментировал партнер, руководитель практики таможенного права и внешнеторгового регулирования «Пепеляев Групп» <a href=\"https://www.pgplaw.ru/to-get-the-team/aleksandr-kosov/\" target=\"_blank\" rel=\"noopener noreferrer\">Александр Косов.</a><br><br>▫️ О классификации товаров<br>Александр Косов обращает внимание на возможную непоследовательность в подходе суда к актам ЕЭК. В деле о перфораторах Верховный суд сослался на решение ЕЭК, принятое уже после оспоренного решения таможни, а в деле о классификации угля отказался учитывать более позднюю рекомендацию ЕЭК о критериях коксующегося угля, сославшись на действие акта во времени. По мнению эксперта, такой подход «не способствует обеспечению единообразного подхода к разрешению судами дел».<br>➖➖<br><br>▫️ О подтверждении происхождения товаров<br>По словам Александра Косова, Верховный суд развил подход Конституционного суда, изложенный в Постановлении № 34-П. Вместе с тем эксперт обращает внимание, что с 15 марта вступили в силу изменения в требованиях к сертификату происхождения. Поэтому, по его мнению, вывод из п. 3 обзора не стоит механически переносить на декларации, зарегистрированные после этой даты.<br>➖➖<br><br>▫️О включении роялти в таможенную стоимость<br>Александр считает спорным сам подход к частичному включению роялти. Он отмечает, что с ним не согласны Минфин и ЕЭК, а ФТС пока не выступила с инициативой нормативно урегулировать этот вопрос на уровне комиссии. Эксперт также указывает, что в одном из рассмотренных дел вывод о включении роялти может противоречить примеру из рекомендации ЕЭК № 20.<br><br>💬 «Ни в одной стране мира суммы НДС, начисленные с роялти, не облагаются таможенными платежами. По его мнению, включение в таможенную стоимость НДС, начисленного на роялти, не основано на нормах Таможенного кодекса ЕАЭС. Однако после определения Верховного суда по делу «Фанагории» изменить эту позицию сможет только Конституционный суд».<br>➖➖<br><br>▫️О дивидендах<br>Александр Косов считает, что в таможенную стоимость могут включаться не сами дивиденды, а платежи, которые названы дивидендами только по форме. Для этого таможенный орган должен обоснованно изменить юридическую квалификацию платежа. По мнению эксперта, обновленная формулировка п. 10 обзора может заставить суды внимательнее проверять, выполнила ли таможня это условие.<br><br>Источник: <a href=\"https://pravo.ru/story/264288/\" target=\"_blank\" rel=\"noopener noreferrer\">Право.ru</a>",
-      "views": 1560,
+      "views": 1570,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1904-1-0095186d3cc7-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1904-1-0095186d3cc7-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1904-1-35571a1fe6b3-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1904-1-35571a1fe6b3-v4.jpg"
         }
       ],
       "video_url": null,
@@ -163,16 +163,16 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1901-1-cbbec40e1ec7-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1901-1-cbbec40e1ec7-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1901-1-f21e1dd419f4-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1901-1-f21e1dd419f4-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1901-2-dad86bd11788-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1901-2-dad86bd11788-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1901-2-cf10911c6a89-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1901-2-cf10911c6a89-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1901-3-18d7c6a25807-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1901-3-18d7c6a25807-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1901-3-5ef09ac9ff3d-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1901-3-5ef09ac9ff3d-v4.jpg"
         }
       ],
       "video_url": null,
@@ -184,17 +184,17 @@
       "date": "2026-06-29T10:59:52+00:00",
       "text": "⚖️ «Чем мы, как юристы, торгуем? Мы торгуем уверенностью» – Сергей Пепеляев.\n\nВ заключительный день ПМЮФ обсудили, каким должен быть юридический рынок в новой ЭКГ-реальности – где устойчивое развитие становится не только элементом корпоративной повестки, но и фактором деловой репутации, управления рисками и долгосрочной конкурентоспособности.\n\nУчастники дискуссии говорили о формировании национальных стандартов устойчивого развития, практическом применении ЭКГ-рейтинга, роли юридической функции в ESG-трансформации бизнеса, развитии комплаенса и новых компетенциях, которые становятся востребованными в профессии. Звучала и мысль о том, что социальная ответственность юристов существовала всегда – задолго до появления современной терминологии.\n\n🎤 Управляющий партнер «Пепеляев Групп» Сергей Пепеляев предложил посмотреть на устойчивость юридического рынка шире, чем через призму ЭКГ-рейтингов.\n\nПо его словам, рейтинги могут быть полезны государству и бизнесу как инструмент оценки и управления, однако они не определяют устойчивость самого юридического рынка. Клиенты выбирают юридического консультанта не по формальным показателям, а по профессиональной репутации и доверию.\n\n🧩 Главной задачей рынка Сергей Геннадьевич назвал укрепление суверенитета национальной юридической инфраструктуры. За последние десятилетия российский консалтинг во многом развивался по колониальной модели, ориентированной на зарубежные правовые институты и международных консультантов. Сегодня же устойчивость отрасли невозможна без сильного, независимого национального рынка юридических услуг.\n\n📣 Еще один важный тезис - устойчивость профессии строится на общественном доверии. Юристы должны не только расширять экспертизу и предлагать новые продукты, но и демонстрировать высокий профессиональный уровень, участвовать в развитии права, укреплять авторитет профессии и работать на долгосрочное развитие российского правового рынка. Именно это, по мнению Сергея Пепеляева, является фундаментом устойчивости юридического бизнеса.\n🎬 Посмотреть запись сессии\n\nИсточник фото: Фонд Росконгресс",
       "text_html": "⚖️ «Чем мы, как юристы, торгуем? Мы торгуем уверенностью» – Сергей Пепеляев.<br><br>В заключительный день ПМЮФ обсудили, каким должен быть юридический рынок в новой ЭКГ-реальности – где устойчивое развитие становится не только элементом корпоративной повестки, но и фактором деловой репутации, управления рисками и долгосрочной конкурентоспособности.<br><br>Участники дискуссии говорили о формировании национальных стандартов устойчивого развития, практическом применении ЭКГ-рейтинга, роли юридической функции в ESG-трансформации бизнеса, развитии комплаенса и новых компетенциях, которые становятся востребованными в профессии. Звучала и мысль о том, что социальная ответственность юристов существовала всегда – задолго до появления современной терминологии.<br><br>🎤 Управляющий партнер «Пепеляев Групп» Сергей Пепеляев предложил посмотреть на устойчивость юридического рынка шире, чем через призму ЭКГ-рейтингов.<br><br>По его словам, рейтинги могут быть полезны государству и бизнесу как инструмент оценки и управления, однако они не определяют устойчивость самого юридического рынка. Клиенты выбирают юридического консультанта не по формальным показателям, а по профессиональной репутации и доверию.<br><br>🧩 Главной задачей рынка Сергей Геннадьевич назвал укрепление суверенитета национальной юридической инфраструктуры. За последние десятилетия российский консалтинг во многом развивался по колониальной модели, ориентированной на зарубежные правовые институты и международных консультантов. Сегодня же устойчивость отрасли невозможна без сильного, независимого национального рынка юридических услуг.<br><br>📣 Еще один важный тезис - устойчивость профессии строится на общественном доверии. Юристы должны не только расширять экспертизу и предлагать новые продукты, но и демонстрировать высокий профессиональный уровень, участвовать в развитии права, укреплять авторитет профессии и работать на долгосрочное развитие российского правового рынка. Именно это, по мнению Сергея Пепеляева, является фундаментом устойчивости юридического бизнеса.<br>🎬 <a href=\"https://legalforum.info/programme/business-programme/10278/#broadcast\" target=\"_blank\" rel=\"noopener noreferrer\">Посмотреть запись сессии</a><br><br>Источник фото: Фонд Росконгресс",
-      "views": 551,
+      "views": 552,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1899-1-ac7844c5ac3d-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1899-1-ac7844c5ac3d-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1899-1-28c4c9f9430d-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1899-1-28c4c9f9430d-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1899-2-bc9432ac03aa-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1899-2-bc9432ac03aa-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1899-2-c7731bb19701-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1899-2-c7731bb19701-v4.jpg"
         }
       ],
       "video_url": null,
@@ -206,25 +206,25 @@
       "date": "2026-06-29T09:04:59+00:00",
       "text": "⚖️ 25 июня в рамках ПМЮФ-2026 состоялась сессия «Россия – Азия: роль права в формировании условий для иностранных инвестиций». \n \nРустем Ахметшин, старший партнер «Пепеляев Групп» и постоянный модератор дискуссии, собрал вместе топ-менеджеров российских подразделений нескольких иностранных компаний и государственной корпорации развития «ВЭБ РФ», чтобы обсудить, что сегодня помогает и, наоборот, мешает иностранному бизнесу в России.\n \nВ центре внимания экспертов были три ключевых вопроса:\n \n🔘Меры поощрений иностранных инвестиций: преимущества и сложности для инвесторов.\n🔘Административные процедуры: что мешает иностранному бизнесу?\n🔘Защита интеллектуальной собственности при ведении внешнеэкономической деятельности.\n \n▫️В ходе обсуждения эксперты сошлись во мнении, что такие правовые инструменты поддержки инвестиций, как СПИК и СЗПК, в целом действительно работают – особенно в том случае, когда долгосрочная стратегия развития иностранной компанией своего присутствия в России совпадает с целями национального развития Российской Федерации. Так, например, эффективность участия автопроизводителей в СПИК во многом предопределена тем, что и компании, и государство заинтересованы в повышении уровня локализации производства и росте капиталовложений.\n \nВместе с тем, дальнейшее развитие существующих мер требует повышения гибкости отдельных процедур и дополнительной настройки.\n \n▫️В отношении существующих административных процедур эксперты подчеркнули, что требуется найти баланс между скоростью и правовой безопасностью вывода продукции на российский рынок. Сроки выполнения административных процедур должны отвечать интересам бизнеса и потребителя. Также необходима последовательность в правоприменительной практике и согласованность в позициях государственных органов – в частности, в позициях таможенных и налоговых органах по вопросам включения дополнительных платежей в таможенную стоимость, которые нередко серьезно различаются, и каждый государственный орган предъявляет свои требования к инвестору.\n \n▫️При обсуждении защиты интеллектуальной собственности в России участники дискуссии отметили, что необходимо ускорить регистрацию объектов интеллектуальной собственности, поскольку нынешние сроки не отвечают срокам принятия бизнес-решений. Кроме того, необходимо развивать механизм взаимодействия правообладателей и маркетплейсов для противодействия продаже контрафактной продукции.\n \nПолная запись сессии доступна по ссылке 👉\n \nИсточник фото: Фонд Росконгресс",
       "text_html": "⚖️ 25 июня в рамках ПМЮФ-2026 состоялась сессия «Россия – Азия: роль права в формировании условий для иностранных инвестиций». <br> <br><a href=\"https://www.pgplaw.ru/to-get-the-team/rustem-ahmetshin/\" target=\"_blank\" rel=\"noopener noreferrer\">Рустем Ахметшин</a>, старший партнер «Пепеляев Групп» и постоянный модератор дискуссии, собрал вместе топ-менеджеров российских подразделений нескольких иностранных компаний и государственной корпорации развития «ВЭБ РФ», чтобы обсудить, что сегодня помогает и, наоборот, мешает иностранному бизнесу в России.<br> <br>В центре внимания экспертов были три ключевых вопроса:<br> <br>🔘Меры поощрений иностранных инвестиций: преимущества и сложности для инвесторов.<br>🔘Административные процедуры: что мешает иностранному бизнесу?<br>🔘Защита интеллектуальной собственности при ведении внешнеэкономической деятельности.<br> <br>▫️В ходе обсуждения эксперты сошлись во мнении, что такие правовые инструменты поддержки инвестиций, как СПИК и СЗПК, в целом действительно работают – особенно в том случае, когда долгосрочная стратегия развития иностранной компанией своего присутствия в России совпадает с целями национального развития Российской Федерации. Так, например, эффективность участия автопроизводителей в СПИК во многом предопределена тем, что и компании, и государство заинтересованы в повышении уровня локализации производства и росте капиталовложений.<br> <br>Вместе с тем, дальнейшее развитие существующих мер требует повышения гибкости отдельных процедур и дополнительной настройки.<br> <br>▫️В отношении существующих административных процедур эксперты подчеркнули, что требуется найти баланс между скоростью и правовой безопасностью вывода продукции на российский рынок. Сроки выполнения административных процедур должны отвечать интересам бизнеса и потребителя. Также необходима последовательность в правоприменительной практике и согласованность в позициях государственных органов – в частности, в позициях таможенных и налоговых органах по вопросам включения дополнительных платежей в таможенную стоимость, которые нередко серьезно различаются, и каждый государственный орган предъявляет свои требования к инвестору.<br> <br>▫️При обсуждении защиты интеллектуальной собственности в России участники дискуссии отметили, что необходимо ускорить регистрацию объектов интеллектуальной собственности, поскольку нынешние сроки не отвечают срокам принятия бизнес-решений. Кроме того, необходимо развивать механизм взаимодействия правообладателей и маркетплейсов для противодействия продаже контрафактной продукции.<br> <br>Полная запись сессии доступна <a href=\"https://legalforum.info/programme/business-programme/10219/#broadcast\" target=\"_blank\" rel=\"noopener noreferrer\">по ссылке</a> 👉<br> <br>Источник фото: Фонд Росконгресс",
-      "views": 668,
+      "views": 669,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1895-1-ff3439b1f5f4-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1895-1-ff3439b1f5f4-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1895-1-a8f39d86c921-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1895-1-a8f39d86c921-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1895-2-9ac1be31389a-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1895-2-9ac1be31389a-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1895-2-47afad42fd6a-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1895-2-47afad42fd6a-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1895-3-c9e86256b544-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1895-3-c9e86256b544-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1895-3-b073ed799441-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1895-3-b073ed799441-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1895-4-59c1e60a5a1d-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1895-4-59c1e60a5a1d-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1895-4-c7889f9330b6-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1895-4-c7889f9330b6-v4.jpg"
         }
       ],
       "video_url": null,
@@ -241,12 +241,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1893-1-e8238eb07e4e-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1893-1-e8238eb07e4e-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1893-1-650586ae11ce-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1893-1-650586ae11ce-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1893-2-80b1297d2471-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1893-2-80b1297d2471-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1893-2-917607d9b5c7-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1893-2-917607d9b5c7-v4.jpg"
         }
       ],
       "video_url": null,
@@ -263,12 +263,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1891-1-b71040d41e1a-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1891-1-b71040d41e1a-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1891-1-602b62f0ea44-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1891-1-602b62f0ea44-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1891-2-13c142b63d45-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1891-2-13c142b63d45-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1891-2-8804fb86e4ff-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1891-2-8804fb86e4ff-v4.jpg"
         }
       ],
       "video_url": null,
@@ -290,8 +290,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1890-1-685d8299e3b8-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1890-1-685d8299e3b8-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1890-1-5d9cd705f85c-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1890-1-5d9cd705f85c-v4.jpg"
         }
       ],
       "video_url": null,
@@ -308,16 +308,16 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1887-1-e727a7f0f034-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1887-1-e727a7f0f034-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1887-1-273fb04c3635-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1887-1-273fb04c3635-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1887-2-0cb264a99a9f-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1887-2-0cb264a99a9f-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1887-2-aaece2194b23-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1887-2-aaece2194b23-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1887-3-1b53ffc60340-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1887-3-1b53ffc60340-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1887-3-03f14bb2f75d-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1887-3-03f14bb2f75d-v4.jpg"
         }
       ],
       "video_url": null,
@@ -334,8 +334,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1886-1-240b91795acd-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1886-1-240b91795acd-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1886-1-8b0f074b04a0-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1886-1-8b0f074b04a0-v4.jpg"
         }
       ],
       "video_url": null,
@@ -352,8 +352,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1885-1-e8df99e0caaa-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1885-1-e8df99e0caaa-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1885-1-2f5d0f9a133b-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1885-1-2f5d0f9a133b-v4.jpg"
         }
       ],
       "video_url": null,
