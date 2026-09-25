@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T18:59:06.852254+00:00",
+  "generated_at": "2026-09-25T22:06:33.671903+00:00",
   "pagination": {
     "page": 3,
     "page_size": 16,
@@ -17,8 +17,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1970-1-5cc7af793d9d-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1970-1-5cc7af793d9d-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1970-1-7b23701f6753-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1970-1-7b23701f6753-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1969-1-7ec04ed92ed4-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1969-1-7ec04ed92ed4-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1969-1-ee42dc8b436b-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1969-1-ee42dc8b436b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -53,8 +53,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1968-1-d1106733d60f-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1968-1-d1106733d60f-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1968-1-6325b6055edf-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1968-1-6325b6055edf-v4.jpg"
         }
       ],
       "video_url": null,
@@ -71,24 +71,24 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1963-1-afc448e0a26a-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1963-1-afc448e0a26a-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1963-1-b6edb4db570a-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1963-1-b6edb4db570a-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1963-2-e473fb87c1fc-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1963-2-e473fb87c1fc-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1963-2-5c9653a3e83d-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1963-2-5c9653a3e83d-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1963-3-bc7cf999da28-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1963-3-bc7cf999da28-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1963-3-edc7cebb24da-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1963-3-edc7cebb24da-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1963-4-b236f8d493a9-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1963-4-b236f8d493a9-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1963-4-5633ec0408e2-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1963-4-5633ec0408e2-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1963-5-988cb7eea189-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1963-5-988cb7eea189-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1963-5-870401193ceb-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1963-5-870401193ceb-v4.jpg"
         }
       ],
       "video_url": null,
@@ -100,13 +100,13 @@
       "date": "2026-08-10T12:51:50+00:00",
       "text": "❗️ФАС МО 24.07.2026 по делу А40-31259/2025 поддержал исключение ПО из реестра российского ПО, поскольку в его составе были выявлены иностранные компоненты, принадлежащие ушедшей из России компании.\n\nПоводом исключения из реестра послужило обращение в Минцифры от ФСБ, которая основывалась на следующем:\n\n1️⃣спорное ПО представляет собой набор модулей, созданных на основе иностранного свободно распространяемого ПО;\n\n2️⃣компоненты, на которых построены все подсистемы и само ядро спорного ПО, управляются и обновляются иностранными лицами;\n\n3️⃣возможен ущерб национальных интересов, так как в спорном ПО «консолидированы сведения обо всех важных объектах социального обеспечения и экономической жизни регионов».\n\n⚖️ Суд исходил из того, что после прекращения американской компанией продаж и обслуживания в России компонентов спорного ПО, наличие таких компонентов означает ограничения, препятствующие распространению ПО согласно правилам формирования и ведения реестра ПО.\n\n🎙 Правообладатель ссылался на то, что впоследствии он исключил спорные компоненты, а сведения о доработанном ПО были повторно включены в реестр.\n\n⚖️ Однако суд не принял аргумент о последующем включении ПО в реестр ввиду следующего:\n\n🔴на момент рассмотрения дела в суде экземпляр ПО, предоставленный правообладателем для экспертизы, оказался недоступен;\n\n🔴правообладатель не представил доказательств отсутствия в ПО ограничений.\n\n📣 Таким образом, ПО с иностранными компонентами может быть исключено из реестра российского ПО. \n\nИ даже если компании удастся зарегистрировать в реестре модифицированную версию, соответствующую всем требованиям законодательства, это не освобождает компанию от рисков. Например, если правообладатель заключил длящиеся доходные договоры, условием которых является наличие первоначального ПО в реестре, или компания применяла освобождение от НДС в соответствующих налоговых периодах.\n➖➖➖➖➖\n📧 В случае возникновения вопросов, связанных с правовыми последствиями / рисками исключения ПО из реестра российского ПО, партнер «Пепеляев Групп» Наталья Коваленко (N.Kovalenko@pgplaw.ru) готова на них ответить.",
       "text_html": "❗️<a href=\"https://www.consultant.ru/cons/cgi/online.cgi?req=doc&amp;amp;base=AMS&amp;amp;n=589878#Qg1jtRVsDFToAwRH2\" target=\"_blank\" rel=\"noopener noreferrer\">ФАС МО 24.07.2026 по делу А40-31259/2025</a> поддержал исключение ПО из реестра российского ПО, поскольку в его составе были выявлены иностранные компоненты, принадлежащие ушедшей из России компании.<br><br>Поводом исключения из реестра послужило обращение в Минцифры от ФСБ, которая основывалась на следующем:<br><br>1️⃣спорное ПО представляет собой набор модулей, созданных на основе иностранного свободно распространяемого ПО;<br><br>2️⃣компоненты, на которых построены все подсистемы и само ядро спорного ПО, управляются и обновляются иностранными лицами;<br><br>3️⃣возможен ущерб национальных интересов, так как в спорном ПО «консолидированы сведения обо всех важных объектах социального обеспечения и экономической жизни регионов».<br><br>⚖️ Суд исходил из того, что после прекращения американской компанией продаж и обслуживания в России компонентов спорного ПО, наличие таких компонентов означает ограничения, препятствующие распространению ПО согласно <a href=\"http://pravo.gov.ru/proxy/ips/?docbody=&amp;amp;link_id=0&amp;amp;nd=102382688&amp;amp;intelsearch=&amp;amp;firstDoc=1\" target=\"_blank\" rel=\"noopener noreferrer\">правилам</a> формирования и ведения реестра ПО.<br><br>🎙 Правообладатель ссылался на то, что впоследствии он исключил спорные компоненты, а сведения о доработанном ПО были повторно включены в реестр.<br><br>⚖️ Однако суд не принял аргумент о последующем включении ПО в реестр ввиду следующего:<br><br>🔴на момент рассмотрения дела в суде экземпляр ПО, предоставленный правообладателем для экспертизы, оказался недоступен;<br><br>🔴правообладатель не представил доказательств отсутствия в ПО ограничений.<br><br>📣 Таким образом, ПО с иностранными компонентами может быть исключено из реестра российского ПО. <br><br>И даже если компании удастся зарегистрировать в реестре модифицированную версию, соответствующую всем требованиям законодательства, это не освобождает компанию от рисков. Например, если правообладатель заключил длящиеся доходные договоры, условием которых является наличие первоначального ПО в реестре, или компания применяла освобождение от НДС в соответствующих налоговых периодах.<br>➖➖➖➖➖<br>📧 В случае возникновения вопросов, связанных с правовыми последствиями / рисками исключения ПО из реестра российского ПО, партнер «Пепеляев Групп» <a href=\"https://www.pgplaw.ru/to-get-the-team/natalya-ivashchenko/\" target=\"_blank\" rel=\"noopener noreferrer\">Наталья Коваленко</a> (N.Kovalenko@pgplaw.ru) готова на них ответить.",
-      "views": 2320,
+      "views": 2330,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1962-1-4ab1d3961501-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1962-1-4ab1d3961501-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1962-1-954c9a499dcf-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1962-1-954c9a499dcf-v4.jpg"
         }
       ],
       "video_url": null,
@@ -127,8 +127,8 @@
           "full_url": "data/channels/pgp-official/media/posts/1960-1-4dfb58a2b467-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1960-2-03cd5e0bc889-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1960-2-03cd5e0bc889-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1960-2-ddddcef00d18-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1960-2-ddddcef00d18-v4.jpg"
         }
       ],
       "video_url": null,
@@ -145,8 +145,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1959-1-dff99ea9a942-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1959-1-dff99ea9a942-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1959-1-02e8118f340e-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1959-1-02e8118f340e-v4.jpg"
         }
       ],
       "video_url": null,
@@ -163,8 +163,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1958-1-2fc5571f9607-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1958-1-2fc5571f9607-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1958-1-d33f3e83f250-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1958-1-d33f3e83f250-v4.jpg"
         }
       ],
       "video_url": null,
@@ -181,8 +181,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1957-1-fccb03594910-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1957-1-fccb03594910-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1957-1-92e53809a9b3-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1957-1-92e53809a9b3-v4.jpg"
         }
       ],
       "video_url": null,
@@ -203,8 +203,8 @@
           "full_url": "data/channels/pgp-official/media/posts/1955-1-819e3ead97ef-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1955-2-f43254da9280-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1955-2-f43254da9280-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1955-2-863ec50ea557-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1955-2-863ec50ea557-v4.jpg"
         }
       ],
       "video_url": null,
@@ -239,8 +239,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1952-1-c00b1163c47f-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1952-1-c00b1163c47f-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1952-1-40cab8ef322a-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1952-1-40cab8ef322a-v4.jpg"
         }
       ],
       "video_url": null,
@@ -262,8 +262,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1951-1-4ab87d927f1c-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1951-1-4ab87d927f1c-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1951-1-70e69238bb52-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1951-1-70e69238bb52-v4.jpg"
         }
       ],
       "video_url": null,
@@ -280,8 +280,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1950-1-b83b31f9588e-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1950-1-b83b31f9588e-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1950-1-07dc57ea1527-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1950-1-07dc57ea1527-v4.jpg"
         }
       ],
       "video_url": null,
@@ -303,12 +303,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1948-1-50c7727a2ad7-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1948-1-50c7727a2ad7-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1948-1-e319bc30d0ae-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1948-1-e319bc30d0ae-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1948-2-91bc6bef5e65-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1948-2-91bc6bef5e65-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1948-2-66bc44603f0e-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1948-2-66bc44603f0e-v4.jpg"
         }
       ],
       "video_url": null,
@@ -325,8 +325,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1947-1-c8b916f5effe-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1947-1-c8b916f5effe-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1947-1-e7ad4475ffa9-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1947-1-e7ad4475ffa9-v4.jpg"
         }
       ],
       "video_url": null,
