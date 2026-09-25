@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-25T09:51:27.753208+00:00",
+  "generated_at": "2026-09-25T14:48:58.527024+00:00",
   "pagination": {
     "page": 4,
     "page_size": 16,
-    "total_posts": 81,
-    "total_pages": 6
+    "total_posts": 79,
+    "total_pages": 5
   },
   "posts": [
     {
@@ -17,8 +17,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1946-1-2393960f2174-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1946-1-2393960f2174-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1946-1-154d3b9cb852-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1946-1-154d3b9cb852-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,28 +35,28 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1940-1-926dc680af1e-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1940-1-926dc680af1e-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1940-1-1922b3195b40-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1940-1-1922b3195b40-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1940-2-296d9cff32f8-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1940-2-296d9cff32f8-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1940-2-f4a13f1ecc0c-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1940-2-f4a13f1ecc0c-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1940-3-fe8c976bed7b-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1940-3-fe8c976bed7b-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1940-3-8787e2229326-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1940-3-8787e2229326-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1940-4-aa09464c10d5-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1940-4-aa09464c10d5-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1940-4-65f35f128ea1-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1940-4-65f35f128ea1-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1940-5-affa284e1636-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1940-5-affa284e1636-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1940-5-951645ac91c7-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1940-5-951645ac91c7-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1940-6-c3668c4d617c-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1940-6-c3668c4d617c-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1940-6-c78febb32fa2-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1940-6-c78febb32fa2-v4.jpg"
         }
       ],
       "video_url": null,
@@ -73,20 +73,20 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1936-1-e8da75ece90f-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1936-1-e8da75ece90f-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1936-1-1d65396a4c17-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1936-1-1d65396a4c17-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1936-2-5691140166c6-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1936-2-5691140166c6-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1936-2-18959b754747-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1936-2-18959b754747-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1936-3-8d1a6c9c2df2-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1936-3-8d1a6c9c2df2-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1936-3-26a0da6acf5e-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1936-3-26a0da6acf5e-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1936-4-f1f1cb595b49-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1936-4-f1f1cb595b49-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1936-4-2eb0296928ae-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1936-4-2eb0296928ae-v4.jpg"
         }
       ],
       "video_url": null,
@@ -108,8 +108,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1935-1-c024a5d383ad-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1935-1-c024a5d383ad-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1935-1-91ce46c3a9bf-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1935-1-91ce46c3a9bf-v4.jpg"
         }
       ],
       "video_url": null,
@@ -131,24 +131,24 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1930-1-8941e492dc76-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1930-1-8941e492dc76-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1930-1-9149fe7fcbfd-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1930-1-9149fe7fcbfd-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1930-2-4ec8541b74fd-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1930-2-4ec8541b74fd-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1930-2-1bd88a7aade4-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1930-2-1bd88a7aade4-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1930-3-da89b6a6a906-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1930-3-da89b6a6a906-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1930-3-b347cab59f8c-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1930-3-b347cab59f8c-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1930-4-27b7afa6a823-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1930-4-27b7afa6a823-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1930-4-96d2c653d000-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1930-4-96d2c653d000-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1930-5-5573334be300-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1930-5-5573334be300-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1930-5-451788e37b9b-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1930-5-451788e37b9b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -165,8 +165,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1929-1-ae3cb27762e0-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1929-1-ae3cb27762e0-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1929-1-bdad679c028a-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1929-1-bdad679c028a-v4.jpg"
         }
       ],
       "video_url": null,
@@ -183,8 +183,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1928-1-65bcf5f04c3b-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1928-1-65bcf5f04c3b-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1928-1-89ab613a05c4-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1928-1-89ab613a05c4-v4.jpg"
         }
       ],
       "video_url": null,
@@ -196,13 +196,13 @@
       "date": "2026-07-15T11:02:00+00:00",
       "text": "⛓️‍💥 Верховный Суд систематизировал практику по антикоррупционным искам: новые риски для бизнеса и собственников активов\n\nЭксперты «Пепеляев Групп» проанализировали Тематический обзор Верховного Суда РФ №14/2026 по делам, связанным с применением антикоррупционного законодательства и обращением в доход государства имущества, приобретенного в результате нарушения антикоррупционных требований и запретов.\n\n☝️Обзор подтверждает, что антикоррупционные иски все чаще становятся инструментом имущественного воздействия не только на публичных должностных лиц, но и на частный бизнес. Ответчиками могут оказаться компании, их бенефициары, номинальные владельцы, аффилированные структуры, контрагенты и приобретатели активов, если будет установлено их участие в коррупционной схеме, получение выгоды либо сохранение имущества, связанного с нарушением антикоррупционных запретов.\n\n✍️ Что важно учитывать:\n\n   🔴в доход государства могут быть обращены не только первоначальные активы коррупционного происхождения, но и доходы от их использования, выручка от продажи, имущество, приобретенное на полученные средства, и прирост стоимости;\n\n   🔴к ответственности могут привлекаться физические и юридические лица, участвовавшие в коррупционном правонарушении или получившие от него выгоду;\n\n   🔴аффилированность, фактическая подконтрольность и согласованность действий могут стать основанием для солидарного взыскания с нескольких компаний и лиц;\n\n   🔴формальные договоры займа, внутригрупповое финансирование и номинальное владение сами по себе не подтверждают законность происхождения средств;\n\n   🔴срок исковой давности по требованиям прокурора об обращении имущества в доход государства не применяется;\n\n   🔴банкротство ответчика не препятствует рассмотрению антикоррупционного иска вне конкурсной процедуры.\n\n👉В нашем алерте разбираем позиции Верховного Суда, наиболее существенные риски для компаний и собственников активов, возможные способы защиты, а также меры, которые стоит принять при проверке контрагентов и подготовке M&A-сделок.\n\n➖➖\n📧 Если Вы хотите оценить риски предъявления антикоррупционных требований, проверить приобретаемый бизнес или актив либо усилить внутренние комплаенс-процедуры, свяжитесь с экспертом «Пепеляев Групп» Сергеем Таутом и партнером Леонидом Кравчинским.",
       "text_html": "⛓️‍💥 Верховный Суд систематизировал практику по антикоррупционным искам: новые риски для бизнеса и собственников активов<br><br>Эксперты «Пепеляев Групп» проанализировали <a href=\"https://www.garant.ru/hotlaw/federal/2154914/\" target=\"_blank\" rel=\"noopener noreferrer\">Тематический обзор Верховного Суда РФ №14/2026</a> по делам, связанным с применением антикоррупционного законодательства и обращением в доход государства имущества, приобретенного в результате нарушения антикоррупционных требований и запретов.<br><br>☝️Обзор подтверждает, что антикоррупционные иски все чаще становятся инструментом имущественного воздействия не только на публичных должностных лиц, но и на частный бизнес. Ответчиками могут оказаться компании, их бенефициары, номинальные владельцы, аффилированные структуры, контрагенты и приобретатели активов, если будет установлено их участие в коррупционной схеме, получение выгоды либо сохранение имущества, связанного с нарушением антикоррупционных запретов.<br><br>✍️ Что важно учитывать:<br><br>   🔴в доход государства могут быть обращены не только первоначальные активы коррупционного происхождения, но и доходы от их использования, выручка от продажи, имущество, приобретенное на полученные средства, и прирост стоимости;<br><br>   🔴к ответственности могут привлекаться физические и юридические лица, участвовавшие в коррупционном правонарушении или получившие от него выгоду;<br><br>   🔴аффилированность, фактическая подконтрольность и согласованность действий могут стать основанием для солидарного взыскания с нескольких компаний и лиц;<br><br>   🔴формальные договоры займа, внутригрупповое финансирование и номинальное владение сами по себе не подтверждают законность происхождения средств;<br><br>   🔴срок исковой давности по требованиям прокурора об обращении имущества в доход государства не применяется;<br><br>   🔴банкротство ответчика не препятствует рассмотрению антикоррупционного иска вне конкурсной процедуры.<br><br>👉<a href=\"https://www.pgplaw.ru/analytics-and-brochures/alerts/verkhovnyy-sud-sistematiziroval-praktiku-po-antikorruptsionnym-iskam/\" target=\"_blank\" rel=\"noopener noreferrer\">В нашем алерте</a> разбираем позиции Верховного Суда, наиболее существенные риски для компаний и собственников активов, возможные способы защиты, а также меры, которые стоит принять при проверке контрагентов и подготовке M&A-сделок.<br><br>➖➖<br>📧 Если Вы хотите оценить риски предъявления антикоррупционных требований, проверить приобретаемый бизнес или актив либо усилить внутренние комплаенс-процедуры, свяжитесь с экспертом «Пепеляев Групп» <a href=\"https://www.pgplaw.ru/to-get-the-team/taut/\" target=\"_blank\" rel=\"noopener noreferrer\">Сергеем Таутом</a> и партнером <a href=\"https://www.pgplaw.ru/to-get-the-team/leonid-kravchinskiy/\" target=\"_blank\" rel=\"noopener noreferrer\">Леонидом Кравчинским</a>.",
-      "views": 3680,
+      "views": 3690,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1927-1-918d55eceeac-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1927-1-918d55eceeac-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1927-1-26f8a1486671-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1927-1-26f8a1486671-v4.jpg"
         }
       ],
       "video_url": null,
@@ -219,8 +219,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1926-1-827bd71eff9c-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1926-1-827bd71eff9c-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1926-1-f262aaffd3d4-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1926-1-f262aaffd3d4-v4.jpg"
         }
       ],
       "video_url": null,
@@ -237,8 +237,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1925-1-ad23494fafdd-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1925-1-ad23494fafdd-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1925-1-333017021563-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1925-1-333017021563-v4.jpg"
         }
       ],
       "video_url": null,
@@ -255,8 +255,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1924-1-cf2065402408-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1924-1-cf2065402408-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1924-1-6a20a936d547-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1924-1-6a20a936d547-v4.jpg"
         }
       ],
       "video_url": null,
@@ -278,12 +278,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1922-1-e25483ebe937-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1922-1-e25483ebe937-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1922-1-a364fff93470-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1922-1-a364fff93470-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1922-2-a0b27213c1e2-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1922-2-a0b27213c1e2-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1922-2-4d8f30e9a764-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1922-2-4d8f30e9a764-v4.jpg"
         }
       ],
       "video_url": null,
@@ -300,8 +300,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1921-1-d43b5319fddd-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1921-1-d43b5319fddd-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1921-1-531c882ddd5f-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1921-1-531c882ddd5f-v4.jpg"
         }
       ],
       "video_url": null,
@@ -318,8 +318,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1920-1-1ef7168b2e40-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1920-1-1ef7168b2e40-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1920-1-45146839eb06-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1920-1-45146839eb06-v4.jpg"
         }
       ],
       "video_url": null,
@@ -336,8 +336,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1919-1-4a284be492e5-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1919-1-4a284be492e5-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1919-1-680084ce7377-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1919-1-680084ce7377-v4.jpg"
         }
       ],
       "video_url": null,
@@ -349,13 +349,13 @@
       "date": "2026-07-08T11:00:35+00:00",
       "text": "🧩 Антифрод 2.0: новые меры противодействия кибермошенничеству\n\nЭксперты «Пепеляев Групп» подготовили обзор второго пакета мер противодействия кибермошенничеству. Нововведения направлены на защиту граждан, однако одновременно создают значительную дополнительную нагрузку для бизнеса. \n\nОсновное бремя нового регулирования ляжет на операторов связи и банковский сектор. Дополнительные обязанности также появятся у владельцев агрегаторов, провайдеров хостинга, разработчиков ПО и других участников цифровой инфраструктуры.\n\n▫️Закон предусматривает поэтапное вступление поправок в силу — с момента официального опубликования до 1 января 2028 года. Это дает компаниям время на подготовку, но с учетом масштаба изменений начать оценку последствий стоит уже сейчас.\n\n🔥Среди ключевых изменений:\n\n   🔴операторы связи и операторы по переводу денежных средств в отдельных случаях будут обязаны возмещать гражданам похищенные средства;\n\n   🔴пользователи ГИС «Антифрод» должны будут не только взаимодействовать с системой, но и выявлять признаки противоправных действий и передавать сведения о них;\n\n   🔴будет создана база данных IMEI, содержащая сведения о разрешенных и запрещенных на территории РФ устройствах;\n\n   🔴усилится регулирование переводов без добровольного согласия клиента, включая новые обязанности банков по проверке операций и защите приложений от вредоносного ПО;\n\n   🔴появится единая система учета платежных карт, а для физлиц будет установлен лимит по количеству карт;\n\n   🔴владельцы агрегаторов будут обязаны взаимодействовать с ГИС «Антифрод»;\n\n   🔴вводятся новые правила для виртуальных АТС, массовых вызовов, иностранных звонков, хостинга и сертификатов безопасности Национального удостоверяющего центра.\n\n👉В нашем алерте разбираем ключевые положения Закона, сроки вступления поправок в силу, новые обязанности для операторов связи, банков, агрегаторов и иных организаций, а также вопросы, которые бизнесу стоит проработать заранее.\n\n➖➖\n📧 Если Вы хотите оценить, какие положения нового антифрод-регулирования затрагивают Вашу компанию, подготовить внутренние процедуры или правовую позицию по спорным вопросам, свяжитесь с партнерами «Пепеляев Групп» – Натальей Коваленко и Лидией Горшковой.",
       "text_html": "🧩 Антифрод 2.0: новые меры противодействия кибермошенничеству<br><br>Эксперты «Пепеляев Групп» подготовили обзор второго пакета мер противодействия кибермошенничеству. Нововведения направлены на защиту граждан, однако одновременно создают значительную дополнительную нагрузку для бизнеса. <br><br>Основное бремя нового регулирования ляжет на операторов связи и банковский сектор. Дополнительные обязанности также появятся у владельцев агрегаторов, провайдеров хостинга, разработчиков ПО и других участников цифровой инфраструктуры.<br><br>▫️Закон предусматривает поэтапное вступление поправок в силу — с момента официального опубликования до 1 января 2028 года. Это дает компаниям время на подготовку, но с учетом масштаба изменений начать оценку последствий стоит уже сейчас.<br><br>🔥Среди ключевых изменений:<br><br>   🔴операторы связи и операторы по переводу денежных средств в отдельных случаях будут обязаны возмещать гражданам похищенные средства;<br><br>   🔴пользователи ГИС «Антифрод» должны будут не только взаимодействовать с системой, но и выявлять признаки противоправных действий и передавать сведения о них;<br><br>   🔴будет создана база данных IMEI, содержащая сведения о разрешенных и запрещенных на территории РФ устройствах;<br><br>   🔴усилится регулирование переводов без добровольного согласия клиента, включая новые обязанности банков по проверке операций и защите приложений от вредоносного ПО;<br><br>   🔴появится единая система учета платежных карт, а для физлиц будет установлен лимит по количеству карт;<br><br>   🔴владельцы агрегаторов будут обязаны взаимодействовать с ГИС «Антифрод»;<br><br>   🔴вводятся новые правила для виртуальных АТС, массовых вызовов, иностранных звонков, хостинга и сертификатов безопасности Национального удостоверяющего центра.<br><br>👉<a href=\"https://www.pgplaw.ru/analytics-and-brochures/alerts/novye-mery-protivodeystviya-kibermoshennichestvu/\" target=\"_blank\" rel=\"noopener noreferrer\">В нашем алерте</a> разбираем ключевые положения Закона, сроки вступления поправок в силу, новые обязанности для операторов связи, банков, агрегаторов и иных организаций, а также вопросы, которые бизнесу стоит проработать заранее.<br><br>➖➖<br>📧 Если Вы хотите оценить, какие положения нового антифрод-регулирования затрагивают Вашу компанию, подготовить внутренние процедуры или правовую позицию по спорным вопросам, свяжитесь с партнерами «Пепеляев Групп» – <a href=\"https://www.pgplaw.ru/to-get-the-team/natalya-ivashchenko/\" target=\"_blank\" rel=\"noopener noreferrer\">Натальей Коваленко</a> и <a href=\"https://www.pgplaw.ru/to-get-the-team/lidiya-gorshkova/\" target=\"_blank\" rel=\"noopener noreferrer\">Лидией Горшковой</a>.",
-      "views": 640,
+      "views": 641,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1918-1-f967e280f22e-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1918-1-f967e280f22e-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1918-1-dacf0a05ffea-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1918-1-dacf0a05ffea-v4.jpg"
         }
       ],
       "video_url": null,
