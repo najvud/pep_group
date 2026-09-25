@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-09-24T21:45:11.386838+00:00",
+  "generated_at": "2026-09-25T09:51:37.335477+00:00",
   "pagination": {
     "page": 2,
     "page_size": 16,
-    "total_posts": 23,
+    "total_posts": 24,
     "total_pages": 2
   },
   "posts": [
+    {
+      "id": 1450,
+      "date": "2026-07-08T11:32:52+00:00",
+      "text": "Собрали инструкции от «Пепеляев Групп», которые стоит сохранить.\n\n✅ …в компанию пришла внеплановая проверка ФАС\nЧто должен знать каждый сотрудник и как действовать в первые часы.\n\n✅ …вы получили запрос ФАС\nКакие ошибки в ответе могут привести к проверке, делу и штрафу.\n\n✅ …ФАС заинтересовалась вашими ценами\nКак ведущие компании объясняют свою цену регулятору.\n\n📎 Закрепили пост. Возможно, сейчас вам не нужна ни одна из этих инструкций. И это как раз хороший момент, чтобы их прочитать.",
+      "text_html": "Собрали инструкции от «Пепеляев Групп», которые стоит сохранить.<br><br>✅ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/alerts/chek-list-dlya-rabotnikov-kompanii-pri-proverkakh-fas/?utm_source=telegram&amp;amp;utm_medium=pin&amp;amp;utm_campaign=pg_antitrust\" target=\"_blank\" rel=\"noopener noreferrer\">…в компанию пришла внеплановая проверка ФАС</a><br>Что должен знать каждый сотрудник и как действовать в первые часы.<br><br>✅ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/alerts/chto-ne-nuzhno-delat-pri-otvete-na-zaprosy-fas/?utm_source=telegram&amp;amp;utm_medium=pin&amp;amp;utm_campaign=pg_antitrust\" target=\"_blank\" rel=\"noopener noreferrer\">…вы получили запрос ФАС</a><br>Какие ошибки в ответе могут привести к проверке, делу и штрафу.<br><br>✅ <a href=\"https://www.pgplaw.ru/practice-and-industry/practices/antitrust-regulation/diagnostika-tsenovogo-riska-mvc/?utm_source=telegram&amp;amp;utm_medium=pin&amp;amp;utm_campaign=pg_antitrust\" target=\"_blank\" rel=\"noopener noreferrer\">…ФАС заинтересовалась вашими ценами</a><br>Как ведущие компании объясняют свою цену регулятору.<br><br>📎 Закрепили пост. Возможно, сейчас вам не нужна ни одна из этих инструкций. И это как раз хороший момент, чтобы их прочитать.",
+      "views": 490,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1450-1-df72f81d9b3a-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1450-1-df72f81d9b3a-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/PgAntitrust/1450",
+      "forwarded_from": null
+    },
     {
       "id": 1449,
       "date": "2026-07-06T14:01:28+00:00",
@@ -30,8 +48,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1445-1-509496f155a3-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1445-1-509496f155a3-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1445-1-310634b6e748-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1445-1-310634b6e748-v4.jpg"
         }
       ],
       "video_url": null,
@@ -48,8 +66,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1437-1-d42138382005-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1437-1-d42138382005-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1437-1-30b0210f770b-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1437-1-30b0210f770b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -66,8 +84,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1436-1-0c04bd233ac7-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1436-1-0c04bd233ac7-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1436-1-7ce5ecc48f91-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1436-1-7ce5ecc48f91-v4.jpg"
         }
       ],
       "video_url": null,
@@ -84,8 +102,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1435-1-d5a366217a5a-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1435-1-d5a366217a5a-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1435-1-442d4fd543e0-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1435-1-442d4fd543e0-v4.jpg"
         }
       ],
       "video_url": null,
@@ -102,8 +120,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1434-1-931cf7498a79-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1434-1-931cf7498a79-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1434-1-53a718aaaa2e-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1434-1-53a718aaaa2e-v4.jpg"
         }
       ],
       "video_url": null,
@@ -120,8 +138,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1433-1-f1d69deca864-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1433-1-f1d69deca864-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1433-1-ffeba558bbbf-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1433-1-ffeba558bbbf-v4.jpg"
         }
       ],
       "video_url": null,
