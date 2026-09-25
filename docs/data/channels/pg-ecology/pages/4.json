@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-09-24T21:47:43.447246+00:00",
+  "generated_at": "2026-09-25T04:47:36.415327+00:00",
   "pagination": {
     "page": 4,
     "page_size": 16,
-    "total_posts": 57,
+    "total_posts": 58,
     "total_pages": 4
   },
   "posts": [
+    {
+      "id": 1375,
+      "date": "2026-07-10T04:00:05+00:00",
+      "text": "#РешаемСпор\n\n⚔️Управление Росприроднадзора обратилось в суд с иском о взыскании с 🛡Общества ущерба от загрязнения почв отходами.\n\n🛡Общество возразило, что ранее выявленный мусор, был вывезен, а обнаруженное размещение строительных и нефтеотходов отходов к нему не имеет отношения, размещение ТКО не могло привести к загрязнению почв нефтепродуктами.\n\nА как считаете Вы\n\n1️⃣ ущерб рассчитан не за перекрытие почвы отходами, а за ее загрязнение, ликвидация отходов не свидетельствует об отсутствии или устранении загрязнения почвы;\n\n2️⃣ в отсутствие доказательств того, что отходы от строительных работ, в т.ч. загрязнение нефтеотходами, складированы ответчиком, привлечение к имущественной ответственности не допустимо.",
+      "text_html": "#РешаемСпор<br><br>⚔️Управление Росприроднадзора обратилось в суд с иском о взыскании с 🛡Общества ущерба от загрязнения почв отходами.<br><br>🛡Общество возразило, что ранее выявленный мусор, был вывезен, а обнаруженное размещение строительных и нефтеотходов отходов к нему не имеет отношения, размещение ТКО не могло привести к загрязнению почв нефтепродуктами.<br><br>А как считаете Вы<br><br>1️⃣ ущерб рассчитан не за перекрытие почвы отходами, а за ее загрязнение, ликвидация отходов не свидетельствует об отсутствии или устранении загрязнения почвы;<br><br>2️⃣ в отсутствие доказательств того, что отходы от строительных работ, в т.ч. загрязнение нефтеотходами, складированы ответчиком, привлечение к имущественной ответственности не допустимо.",
+      "views": 368,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1375-1-dffd8e890589-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1375-1-dffd8e890589-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/pgecology/1375",
+      "forwarded_from": null
+    },
     {
       "id": 1374,
       "date": "2026-07-08T04:00:06+00:00",
@@ -17,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1374-1-31d9f4091459-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1374-1-31d9f4091459-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1374-1-4542946ca0bb-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1374-1-4542946ca0bb-v4.jpg"
         }
       ],
       "video_url": null,
@@ -48,8 +66,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1372-1-92063924e744-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1372-1-92063924e744-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1372-1-51ae05463a71-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1372-1-51ae05463a71-v4.jpg"
         }
       ],
       "video_url": null,
@@ -66,8 +84,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1371-1-4d4e710427bd-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1371-1-4d4e710427bd-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1371-1-7f5feeecd6df-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1371-1-7f5feeecd6df-v4.jpg"
         }
       ],
       "video_url": null,
@@ -97,8 +115,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1369-1-528229dfc5ad-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1369-1-528229dfc5ad-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1369-1-70f68190873d-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1369-1-70f68190873d-v4.jpg"
         }
       ],
       "video_url": null,
@@ -123,7 +141,7 @@
       "date": "2026-06-29T04:00:05+00:00",
       "text": "📣 16 мая 2026 опубликовано Постановление Правительства РФ от 16.05.2026 № 567 «О единых требованиях к объектам обработки, утилизации, обезвреживания, размещения твердых коммунальных отходов, перегрузочным станциям».\n\nПостановление принято взамен действующих Требований, утв. постановлением Правительства РФ от 12.10.2020 N 1657\n\n⏱️ Документ действует с 01.09.2026 по 01.09.2032г.\n\n#ИзмененияЗаконодательства",
       "text_html": "📣 16 мая 2026 опубликовано <a href=\"http://publication.pravo.gov.ru/document/0001202605160001\" target=\"_blank\" rel=\"noopener noreferrer\">Постановление Правительства РФ от 16.05.2026 № 567</a> «О единых требованиях к объектам обработки, утилизации, обезвреживания, размещения твердых коммунальных отходов, перегрузочным станциям».<br><br>Постановление принято взамен действующих Требований, утв. постановлением Правительства РФ от 12.10.2020 N 1657<br><br>⏱️ Документ действует с 01.09.2026 по 01.09.2032г.<br><br>#ИзмененияЗаконодательства",
-      "views": 283,
+      "views": 284,
       "comments_count": 0,
       "comments_url": null,
       "photos": [

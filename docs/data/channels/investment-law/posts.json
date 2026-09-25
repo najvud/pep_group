@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T21:47:22.639067+00:00",
+  "generated_at": "2026-09-25T04:47:24.664012+00:00",
   "site": {
     "channel_username": "InvestmentLaw",
     "channel_title": "СпецИнвестРежимы",
@@ -19,7 +19,7 @@
   "pagination": {
     "page": 1,
     "page_size": 16,
-    "total_posts": 22,
+    "total_posts": 21,
     "total_pages": 2
   },
   "posts": [
@@ -51,8 +51,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/investment-law/media/posts/thumbs/1141-1-8949bfc7bc6e-v4.jpg",
-          "full_url": "data/channels/investment-law/media/posts/1141-1-8949bfc7bc6e-v4.jpg"
+          "thumb_url": "data/channels/investment-law/media/posts/thumbs/1141-1-25daef8eb8dc-v4.jpg",
+          "full_url": "data/channels/investment-law/media/posts/1141-1-25daef8eb8dc-v4.jpg"
         }
       ],
       "video_url": null,
@@ -69,8 +69,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/investment-law/media/posts/thumbs/1140-1-2c39b6597ccd-v4.jpg",
-          "full_url": "data/channels/investment-law/media/posts/1140-1-2c39b6597ccd-v4.jpg"
+          "thumb_url": "data/channels/investment-law/media/posts/thumbs/1140-1-037091ade887-v4.jpg",
+          "full_url": "data/channels/investment-law/media/posts/1140-1-037091ade887-v4.jpg"
         }
       ],
       "video_url": null,
@@ -128,8 +128,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/investment-law/media/posts/thumbs/1137-1-17393181f4d4-v4.jpg",
-          "full_url": "data/channels/investment-law/media/posts/1137-1-17393181f4d4-v4.jpg"
+          "thumb_url": "data/channels/investment-law/media/posts/thumbs/1137-1-19d0cfe86768-v4.jpg",
+          "full_url": "data/channels/investment-law/media/posts/1137-1-19d0cfe86768-v4.jpg"
         }
       ],
       "video_url": null,
