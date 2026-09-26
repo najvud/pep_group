@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-26T10:05:09.664432+00:00",
+  "generated_at": "2026-09-26T14:24:39.656090+00:00",
   "pagination": {
     "page": 3,
     "page_size": 16,
-    "total_posts": 78,
+    "total_posts": 77,
     "total_pages": 5
   },
   "posts": [
@@ -17,8 +17,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1970-1-50cc695608dc-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1970-1-50cc695608dc-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1970-1-5af7393e6eed-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1970-1-5af7393e6eed-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1969-1-bcccfd68bcc7-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1969-1-bcccfd68bcc7-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1969-1-c5e765474b17-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1969-1-c5e765474b17-v4.jpg"
         }
       ],
       "video_url": null,
@@ -53,8 +53,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1968-1-8bd15efd230f-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1968-1-8bd15efd230f-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1968-1-db851248a20d-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1968-1-db851248a20d-v4.jpg"
         }
       ],
       "video_url": null,
@@ -66,29 +66,29 @@
       "date": "2026-08-11T07:03:53+00:00",
       "text": "🤓  ФНП разъяснила, когда корпоративные решения ООО нужно удостоверять у нотариуса\n\nФедеральная нотариальная палата разъяснила порядок оформления решений о продлении полномочий директора, передаче функций управляющей организации, назначении ликвидатора и принятии решений за пределами России.\n\n▫️Главный практический момент: продление полномочий действующего директора — это тоже избрание на новый срок, поэтому решение требует обязательного нотариального удостоверения. При этом вносить изменения в ЕГРЮЛ и подавать форму Р13014 не нужно.\n\nРазбираем основные правила и практические выводы в карточках ☝️\n\n👉  Полный материал с подробным разбором на сайте",
       "text_html": "🤓  ФНП разъяснила, когда корпоративные решения ООО нужно удостоверять у нотариуса<br><br>Федеральная нотариальная палата разъяснила порядок оформления решений о продлении полномочий директора, передаче функций управляющей организации, назначении ликвидатора и принятии решений за пределами России.<br><br>▫️Главный практический момент: продление полномочий действующего директора — это тоже избрание на новый срок, поэтому решение требует обязательного нотариального удостоверения. При этом вносить изменения в ЕГРЮЛ и подавать форму Р13014 не нужно.<br><br>Разбираем основные правила и практические выводы в карточках ☝️<br><br>👉  <a href=\"https://www.pgplaw.ru/analytics-and-brochures/articles-comments-interviews/fnp-razyasnila-poryadok-notarialnogo-oformleniya-korporativnykh-resheniy-ooo/\" target=\"_blank\" rel=\"noopener noreferrer\">Полный материал с подробным разбором на сайте</a>",
-      "views": 983,
+      "views": 984,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1963-1-7d66ee0d85fb-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1963-1-7d66ee0d85fb-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1963-1-b03d5e77781e-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1963-1-b03d5e77781e-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1963-2-ceda843b2843-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1963-2-ceda843b2843-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1963-2-f8bfd67b2a37-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1963-2-f8bfd67b2a37-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1963-3-a6d1376a77ed-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1963-3-a6d1376a77ed-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1963-3-d8ab3e4ea81f-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1963-3-d8ab3e4ea81f-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1963-4-581c07a7f577-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1963-4-581c07a7f577-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1963-4-d97106b84e99-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1963-4-d97106b84e99-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1963-5-6c57d6d8c0b1-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1963-5-6c57d6d8c0b1-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1963-5-7bbd7044ad77-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1963-5-7bbd7044ad77-v4.jpg"
         }
       ],
       "video_url": null,
@@ -105,8 +105,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1962-1-e6ea94a59e79-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1962-1-e6ea94a59e79-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1962-1-97f6b03565db-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1962-1-97f6b03565db-v4.jpg"
         }
       ],
       "video_url": null,
@@ -127,8 +127,8 @@
           "full_url": "data/channels/pgp-official/media/posts/1960-1-e839b3f75dac-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1960-2-a9fc6e073f87-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1960-2-a9fc6e073f87-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1960-2-ef78013d7688-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1960-2-ef78013d7688-v4.jpg"
         }
       ],
       "video_url": null,
@@ -145,8 +145,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1959-1-7bb42339f8e9-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1959-1-7bb42339f8e9-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1959-1-8c266d947f8c-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1959-1-8c266d947f8c-v4.jpg"
         }
       ],
       "video_url": null,
@@ -163,8 +163,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1958-1-34e42334cd45-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1958-1-34e42334cd45-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1958-1-271e88280ba2-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1958-1-271e88280ba2-v4.jpg"
         }
       ],
       "video_url": null,
@@ -181,8 +181,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1957-1-ed285e817400-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1957-1-ed285e817400-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1957-1-8d908d054d80-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1957-1-8d908d054d80-v4.jpg"
         }
       ],
       "video_url": null,
@@ -199,12 +199,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1955-1-32cc170a76bb-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1955-1-32cc170a76bb-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1955-1-56c086ce978e-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1955-1-56c086ce978e-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1955-2-8c1d157bf08d-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1955-2-8c1d157bf08d-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1955-2-3eae64977c1f-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1955-2-3eae64977c1f-v4.jpg"
         }
       ],
       "video_url": null,
@@ -239,8 +239,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1952-1-a5a1f5262a0b-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1952-1-a5a1f5262a0b-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1952-1-b1a299be42c4-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1952-1-b1a299be42c4-v4.jpg"
         }
       ],
       "video_url": null,
@@ -262,8 +262,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1951-1-95c27a90b924-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1951-1-95c27a90b924-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1951-1-1ac47acd92af-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1951-1-1ac47acd92af-v4.jpg"
         }
       ],
       "video_url": null,
@@ -280,8 +280,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1950-1-b7f1c05ea6cf-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1950-1-b7f1c05ea6cf-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1950-1-3db2cd37103e-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1950-1-3db2cd37103e-v4.jpg"
         }
       ],
       "video_url": null,
@@ -303,12 +303,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1948-1-6b0a656ff945-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1948-1-6b0a656ff945-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1948-1-e3719e030f98-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1948-1-e3719e030f98-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1948-2-3034e78f6357-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1948-2-3034e78f6357-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1948-2-720d55c3e213-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1948-2-720d55c3e213-v4.jpg"
         }
       ],
       "video_url": null,
@@ -325,8 +325,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1947-1-2a5c2dd37c46-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1947-1-2a5c2dd37c46-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1947-1-3959d310ecde-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1947-1-3959d310ecde-v4.jpg"
         }
       ],
       "video_url": null,

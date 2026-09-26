@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-26T10:07:14.646116+00:00",
+  "generated_at": "2026-09-26T14:26:33.505701+00:00",
   "pagination": {
     "page": 8,
     "page_size": 16,
-    "total_posts": 157,
+    "total_posts": 156,
     "total_pages": 10
   },
   "posts": [
@@ -17,28 +17,28 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2805-1-81ff058a51e2-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2805-1-81ff058a51e2-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2805-1-3d504d3e022c-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2805-1-3d504d3e022c-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2805-2-4a8d93705123-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2805-2-4a8d93705123-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2805-2-62b36e200474-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2805-2-62b36e200474-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2805-3-d0697c2af3dc-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2805-3-d0697c2af3dc-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2805-3-db7a7ddf41ce-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2805-3-db7a7ddf41ce-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2805-4-1216696b4465-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2805-4-1216696b4465-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2805-4-359200d2e399-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2805-4-359200d2e399-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2805-5-f0db5822b2e5-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2805-5-f0db5822b2e5-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2805-5-36e2bdfca0a0-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2805-5-36e2bdfca0a0-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2805-6-3d356a67a37b-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2805-6-3d356a67a37b-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2805-6-781a6c974fac-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2805-6-781a6c974fac-v4.jpg"
         }
       ],
       "video_url": null,
@@ -60,8 +60,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2804-1-7d1d9b0da643-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2804-1-7d1d9b0da643-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2804-1-fb9d45cbb90e-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2804-1-fb9d45cbb90e-v4.jpg"
         }
       ],
       "video_url": null,
@@ -78,8 +78,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2803-1-df2788161401-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2803-1-df2788161401-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2803-1-82c77602631e-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2803-1-82c77602631e-v4.jpg"
         }
       ],
       "video_url": null,
@@ -96,8 +96,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2802-1-7b298231546c-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2802-1-7b298231546c-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2802-1-4ac04cd83e4b-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2802-1-4ac04cd83e4b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -114,8 +114,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2801-1-d9baa7978bbc-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2801-1-d9baa7978bbc-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2801-1-89e8dc85fab5-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2801-1-89e8dc85fab5-v4.jpg"
         }
       ],
       "video_url": null,
@@ -132,8 +132,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2800-1-5f05479a7630-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2800-1-5f05479a7630-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2800-1-525415d62ec3-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2800-1-525415d62ec3-v4.jpg"
         }
       ],
       "video_url": null,
@@ -155,8 +155,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2799-1-6d434bbf9ddd-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2799-1-6d434bbf9ddd-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2799-1-755fa672772f-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2799-1-755fa672772f-v4.jpg"
         }
       ],
       "video_url": null,
@@ -173,8 +173,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2798-1-9f6506f0cee2-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2798-1-9f6506f0cee2-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2798-1-98e22a00de70-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2798-1-98e22a00de70-v4.jpg"
         }
       ],
       "video_url": null,
@@ -191,8 +191,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2796-1-986c00defaf9-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2796-1-986c00defaf9-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2796-1-7c5b002b1c6f-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2796-1-7c5b002b1c6f-v4.jpg"
         }
       ],
       "video_url": null,
@@ -209,8 +209,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2795-1-e2992ff4963c-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2795-1-e2992ff4963c-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2795-1-09642139def9-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2795-1-09642139def9-v4.jpg"
         }
       ],
       "video_url": null,
@@ -222,13 +222,13 @@
       "date": "2026-07-17T07:35:51+00:00",
       "text": "✍️ Нормативное регулирование\n \nПравительство РФ рассматривает проект двухлетнего плана по развитию благотворительности в стране. Власти намерены расширять участие граждан и бизнеса в пожертвованиях через развитие цифровых платформ для обмена деньгами и вещами. Много внимания в документе уделяется повышению заинтересованности бизнеса в оказании помощи.\n \n⚙️ Практика\n \n🔘Минэкономразвития России оценило результативность работы 53-х ОЭЗ в 2025 г. — их эффективность выросла с 90% до 94%. Неэффективной оказалась одна ОЭЗ - промышленно-производственная зона «Нягань» в ХМАО.\nРегиону придется вернуть в федеральный бюджет 1,2 млн руб., выделенных на создание и развитие инфраструктуры ОЭЗ. И это не означает автоматического прекращения ее существования — решение о ликвидации ОЭЗ может рассматриваться лишь при условии, что зона признается неэффективной пять лет подряд. Наиболее эффективными оказались технико-внедренческие зоны (100%). Эффективность туристско-рекреационных зон без учета туристического кластера составила 97%, промышленно-производственных — 96%, портовых — 84%. С начала работы ОЭЗ объем уплаченных резидентами налогов, таможенных платежей, страховых взносов составил 752 млрд руб.— это на 93 млрд руб. превышает расходы бюджетной системы на создание инфраструктуры в зонах и предоставленные резидентам льготы.\n \n🔘Вступили в силу порядок ведения и состав сведений Единого государственного реестра налогоплательщиков.\nДополнен состав сведений - об учете международных компаний, иностранных граждан по месту нахождения организации (месту жительства ИП) источника выплаты доходов, физлиц и иностранных организаций в качестве крупнейших налогоплательщиков. Расширен и детализирован состав сведений об иностранных организациях, в том числе о руководителе, организационно-правовой форме, особенностях режима регистрации, видах экономической деятельности, размере уставного капитала, обслуживающем банке в стране регистрации (инкорпорации). Из состава сведений исключены основания учета в налоговых органах, утратившие актуальность (инфо из мессенджера МАХ).\n \n✈️ Международные новости\n \nПравительство Португалии попросило парламент разрешить пересмотр национального черного списка налоговых гаваней, чтобы автоматически включать в него все юрисдикции из аналогичного перечня ЕС. В список должны попасть Россия и Вьетнам (инфо из Т-канала).\n\n#главные_налоговые_новости",
       "text_html": "✍️ Нормативное регулирование<br> <br>Правительство РФ <a href=\"https://www.kommersant.ru/doc/8816364?query=%D0%BD%D0%B0%D0%BB%D0%BE%D0%B3\" target=\"_blank\" rel=\"noopener noreferrer\">рассматривает</a> проект двухлетнего плана по развитию благотворительности в стране. Власти намерены расширять участие граждан и бизнеса в пожертвованиях через развитие цифровых платформ для обмена деньгами и вещами. Много внимания в документе уделяется повышению заинтересованности бизнеса в оказании помощи.<br> <br>⚙️ Практика<br> <br>🔘Минэкономразвития России <a href=\"https://www.kommersant.ru/doc/8816684?query=%D0%BD%D0%B0%D0%BB%D0%BE%D0%B3\" target=\"_blank\" rel=\"noopener noreferrer\">оценило</a> результативность работы 53-х ОЭЗ в 2025 г. — их эффективность выросла с 90% до 94%. Неэффективной оказалась одна ОЭЗ - промышленно-производственная зона «Нягань» в ХМАО.<br>Региону придется вернуть в федеральный бюджет 1,2 млн руб., выделенных на создание и развитие инфраструктуры ОЭЗ. И это не означает автоматического прекращения ее существования — решение о ликвидации ОЭЗ может рассматриваться лишь при условии, что зона признается неэффективной пять лет подряд. Наиболее эффективными оказались технико-внедренческие зоны (100%). Эффективность туристско-рекреационных зон без учета туристического кластера составила 97%, промышленно-производственных — 96%, портовых — 84%. С начала работы ОЭЗ объем уплаченных резидентами налогов, таможенных платежей, страховых взносов составил 752 млрд руб.— это на 93 млрд руб. превышает расходы бюджетной системы на создание инфраструктуры в зонах и предоставленные резидентам льготы.<br> <br>🔘Вступили в силу порядок ведения и состав сведений Единого государственного реестра налогоплательщиков.<br>Дополнен состав сведений - об учете международных компаний, иностранных граждан по месту нахождения организации (месту жительства ИП) источника выплаты доходов, физлиц и иностранных организаций в качестве крупнейших налогоплательщиков. Расширен и детализирован состав сведений об иностранных организациях, в том числе о руководителе, организационно-правовой форме, особенностях режима регистрации, видах экономической деятельности, размере уставного капитала, обслуживающем банке в стране регистрации (инкорпорации). Из состава сведений исключены основания учета в налоговых органах, утратившие актуальность (инфо из мессенджера МАХ).<br> <br>✈️ Международные новости<br> <br>Правительство Португалии попросило парламент разрешить пересмотр национального черного списка налоговых гаваней, чтобы автоматически включать в него все юрисдикции из аналогичного перечня ЕС. В список должны попасть Россия и Вьетнам (инфо из Т-канала).<br><br>#главные_налоговые_новости",
-      "views": 903,
+      "views": 904,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2794-1-3808c3bf3657-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2794-1-3808c3bf3657-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2794-1-0832ca15f762-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2794-1-0832ca15f762-v4.jpg"
         }
       ],
       "video_url": null,
@@ -245,8 +245,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2793-1-3da48594c533-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2793-1-3da48594c533-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2793-1-df72277feed6-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2793-1-df72277feed6-v4.jpg"
         }
       ],
       "video_url": null,
@@ -263,8 +263,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2792-1-ab273e8d607b-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2792-1-ab273e8d607b-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2792-1-c0f2a78053ed-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2792-1-c0f2a78053ed-v4.jpg"
         }
       ],
       "video_url": null,
@@ -281,8 +281,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2791-1-04994ba981fb-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2791-1-04994ba981fb-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2791-1-9804e91edc04-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2791-1-9804e91edc04-v4.jpg"
         }
       ],
       "video_url": null,
@@ -299,8 +299,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2790-1-ff0d64fbf5c4-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2790-1-ff0d64fbf5c4-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2790-1-b2501aec7c3e-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2790-1-b2501aec7c3e-v4.jpg"
         }
       ],
       "video_url": null,
@@ -317,8 +317,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2789-1-7ecf5fd5c65e-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2789-1-7ecf5fd5c65e-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2789-1-c07f3cd33155-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2789-1-c07f3cd33155-v4.jpg"
         }
       ],
       "video_url": null,
