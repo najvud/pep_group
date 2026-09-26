@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-26T05:26:50.702588+00:00",
+  "generated_at": "2026-09-26T10:07:14.646116+00:00",
   "pagination": {
     "page": 8,
     "page_size": 16,
-    "total_posts": 159,
+    "total_posts": 157,
     "total_pages": 10
   },
   "posts": [
@@ -17,28 +17,28 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2805-1-486ed6075aec-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2805-1-486ed6075aec-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2805-1-81ff058a51e2-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2805-1-81ff058a51e2-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2805-2-3a9aca3a2d6f-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2805-2-3a9aca3a2d6f-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2805-2-4a8d93705123-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2805-2-4a8d93705123-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2805-3-f9d41fbd7c0a-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2805-3-f9d41fbd7c0a-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2805-3-d0697c2af3dc-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2805-3-d0697c2af3dc-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2805-4-c40380703f6c-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2805-4-c40380703f6c-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2805-4-1216696b4465-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2805-4-1216696b4465-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2805-5-628eb51464b4-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2805-5-628eb51464b4-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2805-5-f0db5822b2e5-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2805-5-f0db5822b2e5-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2805-6-cbc89d9f9077-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2805-6-cbc89d9f9077-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2805-6-3d356a67a37b-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2805-6-3d356a67a37b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -60,8 +60,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2804-1-5bb52c273962-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2804-1-5bb52c273962-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2804-1-7d1d9b0da643-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2804-1-7d1d9b0da643-v4.jpg"
         }
       ],
       "video_url": null,
@@ -78,8 +78,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2803-1-3a649c2e0522-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2803-1-3a649c2e0522-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2803-1-df2788161401-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2803-1-df2788161401-v4.jpg"
         }
       ],
       "video_url": null,
@@ -96,8 +96,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2802-1-3c2997c4b71b-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2802-1-3c2997c4b71b-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2802-1-7b298231546c-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2802-1-7b298231546c-v4.jpg"
         }
       ],
       "video_url": null,
@@ -114,8 +114,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2801-1-5758ccd1c5d3-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2801-1-5758ccd1c5d3-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2801-1-d9baa7978bbc-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2801-1-d9baa7978bbc-v4.jpg"
         }
       ],
       "video_url": null,
@@ -132,8 +132,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2800-1-096ffc488668-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2800-1-096ffc488668-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2800-1-5f05479a7630-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2800-1-5f05479a7630-v4.jpg"
         }
       ],
       "video_url": null,
@@ -150,13 +150,13 @@
       "date": "2026-07-20T10:04:35+00:00",
       "text": "💰  Как налоговая добивается доплат без назначения выездной проверки?\n\nДелимся записью выступления ведущего юриста петербургской налоговой практики «Пепеляев Групп» Рустама Галияхметова на Петербургском Правовом Саммите. \n\n▫️ Эксперт разобрал, как предпроверочный анализ превратился в один из основных инструментов налогового контроля и почему «добровольное» уточнение обязательств не всегда защищает бизнес от дальнейших претензий.\n\nВ видео:\n\n🔘свежая статистика ФНС за 2025 год;\n\n🔘этапы предпроверочного анализа;\n\n🔘публичные и непубличные критерии отбора налогоплательщиков;\n\n🔘основные риски для компаний.\n\n⚡️ Смотрите запись дискуссии там, где вам удобно:\nVK| Rutube| YouTube",
       "text_html": "💰  Как налоговая добивается доплат без назначения выездной проверки?<br><br>Делимся записью выступления ведущего юриста петербургской налоговой практики «Пепеляев Групп» Рустама Галияхметова на Петербургском Правовом Саммите. <br><br>▫️ Эксперт разобрал, как предпроверочный анализ превратился в один из основных инструментов налогового контроля и почему «добровольное» уточнение обязательств не всегда защищает бизнес от дальнейших претензий.<br><br>В видео:<br><br>🔘свежая статистика ФНС за 2025 год;<br><br>🔘этапы предпроверочного анализа;<br><br>🔘публичные и непубличные критерии отбора налогоплательщиков;<br><br>🔘основные риски для компаний.<br><br>⚡️ Смотрите запись дискуссии там, где вам удобно:<br><a href=\"https://vkvideo.ru/video-227047542_456239423\" target=\"_blank\" rel=\"noopener noreferrer\">VK</a>| <a href=\"https://rutube.ru/video/7e09de4fd5fb090dcf76d24a256b1347/\" target=\"_blank\" rel=\"noopener noreferrer\">Rutube</a>| <a href=\"https://youtu.be/OoKDvi85J5E\" target=\"_blank\" rel=\"noopener noreferrer\">YouTube</a>",
-      "views": 948,
+      "views": 949,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2799-1-9b2e38c84121-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2799-1-9b2e38c84121-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2799-1-6d434bbf9ddd-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2799-1-6d434bbf9ddd-v4.jpg"
         }
       ],
       "video_url": null,
@@ -173,8 +173,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2798-1-a5214d315462-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2798-1-a5214d315462-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2798-1-9f6506f0cee2-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2798-1-9f6506f0cee2-v4.jpg"
         }
       ],
       "video_url": null,
@@ -191,8 +191,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2796-1-dc19728c43d7-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2796-1-dc19728c43d7-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2796-1-986c00defaf9-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2796-1-986c00defaf9-v4.jpg"
         }
       ],
       "video_url": null,
@@ -209,8 +209,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2795-1-f41a896eb561-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2795-1-f41a896eb561-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2795-1-e2992ff4963c-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2795-1-e2992ff4963c-v4.jpg"
         }
       ],
       "video_url": null,
@@ -227,8 +227,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2794-1-d5988e5415d2-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2794-1-d5988e5415d2-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2794-1-3808c3bf3657-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2794-1-3808c3bf3657-v4.jpg"
         }
       ],
       "video_url": null,
@@ -245,8 +245,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2793-1-c4fa6116e9e4-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2793-1-c4fa6116e9e4-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2793-1-3da48594c533-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2793-1-3da48594c533-v4.jpg"
         }
       ],
       "video_url": null,
@@ -263,8 +263,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2792-1-32cabc867632-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2792-1-32cabc867632-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2792-1-ab273e8d607b-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2792-1-ab273e8d607b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -281,8 +281,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2791-1-4d3ede579fd2-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2791-1-4d3ede579fd2-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2791-1-04994ba981fb-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2791-1-04994ba981fb-v4.jpg"
         }
       ],
       "video_url": null,
@@ -299,8 +299,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2790-1-5b773ed4dbbb-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2790-1-5b773ed4dbbb-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2790-1-ff0d64fbf5c4-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2790-1-ff0d64fbf5c4-v4.jpg"
         }
       ],
       "video_url": null,
@@ -317,8 +317,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2789-1-0144b495cef7-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2789-1-0144b495cef7-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2789-1-7ecf5fd5c65e-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2789-1-7ecf5fd5c65e-v4.jpg"
         }
       ],
       "video_url": null,
