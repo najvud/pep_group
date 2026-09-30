@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-09-29T22:47:45.473091+00:00",
+  "generated_at": "2026-09-30T07:29:21.046829+00:00",
   "pagination": {
     "page": 4,
     "page_size": 16,
-    "total_posts": 63,
+    "total_posts": 64,
     "total_pages": 4
   },
   "posts": [
+    {
+      "id": 554,
+      "date": "2026-07-24T06:02:01+00:00",
+      "text": "Судебные расходы: текущие или реестровые? 🧮\n\nАнна Никитина, юрист практики банкротства и антикризисной защиты бизнеса, рассматривает постановление Верховного Суда РФ о правовой природе судебных расходов и порядке их возмещения.\n\n✍️ В деле о банкротстве между управляющим и кредитором возникли разногласия по вопросу очередности возмещения судебных расходов. Спорные расходы кредитор понес в деле, которое предшествовало банкротству должника. Именно неуплата взысканной в этом деле задолженности стала основанием для возбуждения дела о банкротстве.\n\n⚖️Поскольку судебный акт о взыскании судебных расходов был принят уже после возбуждения дела о банкротстве, суды трёх инстанций признали их текущими платежами, подлежащими возмещению в порядке п. 2 ст. 134 Закона о банкротстве.\n\nОднако Верховный Суд с таким подходом не согласился и признал судебные расходы реестровой задолженностью, отметив следующее:\n\n🟠обязательства по возмещению судебных расходов сходны по правовой природе с возмещением убытков;\n🟠 очередность удовлетворения требования о возмещении судебных расходов определяется моментом их возникновения;\n🟠 судебный акт о взыскании судебных расходов подтверждает лишь право на их возмещение, но не определяет момент возникновения обязательства; спорные расходы существовали наряду с основной задолженностью еще до возбуждения дела о банкротстве.\n\n🐷 Судебные расходы могут быть существенными. В связи с этим рекомендуем кредиторам заранее учитывать их очередность при оценке перспектив взыскания задолженности в банкротстве должника. Само получение судебного акта после возбуждения дела о банкротстве не гарантирует преимущественного порядка их возмещения.\n\n#Требования_кредиторов\n#Текущие_требования\n#Процессуальные_вопросы",
+      "text_html": "Судебные расходы: текущие или реестровые? 🧮<br><br>Анна Никитина, юрист <a href=\"https://www.pgplaw.ru/practice-and-industry/practices/bankruptcy/\" target=\"_blank\" rel=\"noopener noreferrer\">практики банкротства и антикризисной защиты бизнеса</a>, рассматривает <a href=\"https://kad.arbitr.ru/Kad/PdfDocument/0b9d7c24-56e4-43c8-9e5b-0acf21c293cc/db494929-b4c7-44e3-8235-2b710c4cc1ad/A45-31467-2021_20260623_Opredelenie.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">постановление Верховного Суда РФ</a> о правовой природе судебных расходов и порядке их возмещения.<br><br>✍️ В деле о банкротстве между управляющим и кредитором возникли разногласия по вопросу очередности возмещения судебных расходов. Спорные расходы кредитор понес в деле, которое предшествовало банкротству должника. Именно неуплата взысканной в этом деле задолженности стала основанием для возбуждения дела о банкротстве.<br><br>⚖️Поскольку судебный акт о взыскании судебных расходов был принят уже после возбуждения дела о банкротстве, суды трёх инстанций признали их текущими платежами, подлежащими возмещению в порядке п. 2 ст. 134 Закона о банкротстве.<br><br>Однако Верховный Суд с таким подходом не согласился и признал судебные расходы реестровой задолженностью, отметив следующее:<br><br>🟠обязательства по возмещению судебных расходов сходны по правовой природе с возмещением убытков;<br>🟠 очередность удовлетворения требования о возмещении судебных расходов определяется моментом их возникновения;<br>🟠 судебный акт о взыскании судебных расходов подтверждает лишь право на их возмещение, но не определяет момент возникновения обязательства; спорные расходы существовали наряду с основной задолженностью еще до возбуждения дела о банкротстве.<br><br>🐷 Судебные расходы могут быть существенными. В связи с этим рекомендуем кредиторам заранее учитывать их очередность при оценке перспектив взыскания задолженности в банкротстве должника. Само получение судебного акта после возбуждения дела о банкротстве не гарантирует преимущественного порядка их возмещения.<br><br>#Требования_кредиторов<br>#Текущие_требования<br>#Процессуальные_вопросы",
+      "views": 361,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [],
+      "video_url": null,
+      "tg_url": "https://t.me/bankrotstvo_mustknow/554",
+      "forwarded_from": null
+    },
     {
       "id": 553,
       "date": "2026-07-23T10:04:11+00:00",
@@ -17,8 +30,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/553-1-05717b3c5305-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/553-1-05717b3c5305-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/553-1-4e2cd119bb0c-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/553-1-4e2cd119bb0c-v4.jpg"
         }
       ],
       "video_url": null,
@@ -58,8 +71,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/551-1-777b19d0e925-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/551-1-777b19d0e925-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/551-1-396917d0e969-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/551-1-396917d0e969-v4.jpg"
         }
       ],
       "video_url": null,
@@ -76,20 +89,20 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/547-1-a544a6e063f1-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/547-1-a544a6e063f1-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/547-1-5cfeb59681c7-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/547-1-5cfeb59681c7-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/547-2-2488ece7664e-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/547-2-2488ece7664e-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/547-2-65b3142cffde-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/547-2-65b3142cffde-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/547-3-27787c8e7f7c-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/547-3-27787c8e7f7c-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/547-3-541d69d82069-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/547-3-541d69d82069-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/547-4-fecf73616106-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/547-4-fecf73616106-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/547-4-82a9a1bc719b-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/547-4-82a9a1bc719b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -106,8 +119,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/546-1-51a788a871dd-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/546-1-51a788a871dd-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/546-1-eb093053cd83-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/546-1-eb093053cd83-v4.jpg"
         }
       ],
       "video_url": null,
@@ -124,8 +137,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/545-1-b2f7279689bd-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/545-1-b2f7279689bd-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/545-1-ec36fa7375a5-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/545-1-ec36fa7375a5-v4.jpg"
         }
       ],
       "video_url": null,
@@ -142,8 +155,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/543-1-61a189e0ae20-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/543-1-61a189e0ae20-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/543-1-e0f8a9e0c231-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/543-1-e0f8a9e0c231-v4.jpg"
         }
       ],
       "video_url": null,
@@ -160,8 +173,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/542-1-0c0b7d35108b-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/542-1-0c0b7d35108b-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/542-1-2ea2f3862281-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/542-1-2ea2f3862281-v4.jpg"
         }
       ],
       "video_url": null,
@@ -178,8 +191,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/541-1-08e34befd9a3-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/541-1-08e34befd9a3-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/541-1-984499fa4590-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/541-1-984499fa4590-v4.jpg"
         }
       ],
       "video_url": null,
@@ -196,8 +209,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/540-1-a79ba8babf86-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/540-1-a79ba8babf86-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/540-1-c754ab6e7a42-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/540-1-c754ab6e7a42-v4.jpg"
         }
       ],
       "video_url": null,
@@ -214,8 +227,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/539-1-3d282c504e64-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/539-1-3d282c504e64-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/539-1-c8acd2cba297-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/539-1-c8acd2cba297-v4.jpg"
         }
       ],
       "video_url": null,
@@ -232,8 +245,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/538-1-f0f001d2ca49-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/538-1-f0f001d2ca49-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/538-1-9d446bd2235c-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/538-1-9d446bd2235c-v4.jpg"
         }
       ],
       "video_url": null,
@@ -250,8 +263,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/537-1-bff24a9d1c6f-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/537-1-bff24a9d1c6f-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/537-1-b27cfde07685-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/537-1-b27cfde07685-v4.jpg"
         }
       ],
       "video_url": null,
@@ -268,8 +281,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/536-1-2dd49170d85a-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/536-1-2dd49170d85a-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/536-1-b6cc384a1bc8-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/536-1-b6cc384a1bc8-v4.jpg"
         }
       ],
       "video_url": null,
@@ -286,8 +299,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/535-1-e26a862dc9a3-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/535-1-e26a862dc9a3-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/535-1-805835f2ca49-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/535-1-805835f2ca49-v4.jpg"
         }
       ],
       "video_url": null,
