@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-30T14:07:11.761536+00:00",
+  "generated_at": "2026-09-30T19:14:39.529244+00:00",
   "pagination": {
     "page": 5,
     "page_size": 16,
-    "total_posts": 72,
+    "total_posts": 71,
     "total_pages": 5
   },
   "posts": [
@@ -17,8 +17,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1919-1-43356203f51e-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1919-1-43356203f51e-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1919-1-158f8b938b70-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1919-1-158f8b938b70-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1918-1-a7053b16746b-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1918-1-a7053b16746b-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1918-1-eb3a28eef084-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1918-1-eb3a28eef084-v4.jpg"
         }
       ],
       "video_url": null,
@@ -71,8 +71,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1916-1-de18f205571b-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1916-1-de18f205571b-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1916-1-e68e1167e3fb-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1916-1-e68e1167e3fb-v4.jpg"
         }
       ],
       "video_url": null,
@@ -89,24 +89,24 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1911-1-e15b3040e657-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1911-1-e15b3040e657-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1911-1-813ba54e7ab9-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1911-1-813ba54e7ab9-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1911-2-f8d2bda98c9d-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1911-2-f8d2bda98c9d-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1911-2-454799bdbcfd-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1911-2-454799bdbcfd-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1911-3-3403fb1148df-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1911-3-3403fb1148df-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1911-3-926728e9049e-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1911-3-926728e9049e-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1911-4-9af828f3dc7e-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1911-4-9af828f3dc7e-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1911-4-470ed9046876-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1911-4-470ed9046876-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1911-5-d9623165228f-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1911-5-d9623165228f-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1911-5-dc7eab1afdad-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1911-5-dc7eab1afdad-v4.jpg"
         }
       ],
       "video_url": null,
@@ -123,8 +123,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1910-1-d9092c76f864-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1910-1-d9092c76f864-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1910-1-771887338eeb-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1910-1-771887338eeb-v4.jpg"
         }
       ],
       "video_url": null,
@@ -141,30 +141,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1909-1-3c86f079dd33-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1909-1-3c86f079dd33-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1909-1-19de36914b41-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1909-1-19de36914b41-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/pgp_official/1909",
-      "forwarded_from": null
-    },
-    {
-      "id": 1908,
-      "date": "2026-06-30T14:39:35+00:00",
-      "text": "💻 Серия вебинаров «Валютное регулирование и валютный контроль 2026» от ICC Russia\n\nСанкции, контрсанкции, новые требования к репатриации, расчёты через третьи страны, криптовалюта и ЦФА в трансграничных сделках — правила игры для бизнеса в ВЭД меняются стремительно. Чтобы помочь компаниям не потеряться в новых реалиях, ICC Russia проводит серию практических вебинаров, посвящённую самым острым вопросам международных расчётов.\n\n🎤В рамках серии Лидия Горшкова, партнер, руководитель банковской и финансовой практики «Пепеляев Групп» расскажет о судебной практике по спорам о привлечении к административной ответственности за нарушения валютного законодательства.\n\nТакже в фокусе вебинаров:\n🔴Контроль экспортной выручки \n🔴Безопасные платёжные цепочки \n🔴Цифровые инструменты \n🔴Документооборот и комплаенс \n🔴Управление рисками ВЭД\n\nЭксперты разберут практические кейсы, обозначат зоны риска и дадут конкретные ориентиры для безопасной работы.\n\n🗓 Даты: 7, 8, 9 июля \nВремя: с 10:00 до 12:00 Формат: онлайн\nПо промокоду  ICCRCONTROL0709 — скидка 15%\nРегистрация по ссылке→",
-      "text_html": "💻 Серия вебинаров «Валютное регулирование и валютный контроль 2026» от ICC Russia<br><br>Санкции, контрсанкции, новые требования к репатриации, расчёты через третьи страны, криптовалюта и ЦФА в трансграничных сделках — правила игры для бизнеса в ВЭД меняются стремительно. Чтобы помочь компаниям не потеряться в новых реалиях, ICC Russia проводит серию практических вебинаров, посвящённую самым острым вопросам международных расчётов.<br><br>🎤В рамках серии <a href=\"https://www.pgplaw.ru/to-get-the-team/lidiya-gorshkova\" target=\"_blank\" rel=\"noopener noreferrer\">Лидия Горшкова</a>, партнер, руководитель банковской и финансовой практики «Пепеляев Групп» расскажет о судебной практике по спорам о привлечении к административной ответственности за нарушения валютного законодательства.<br><br>Также в фокусе вебинаров:<br>🔴Контроль экспортной выручки <br>🔴Безопасные платёжные цепочки <br>🔴Цифровые инструменты <br>🔴Документооборот и комплаенс <br>🔴Управление рисками ВЭД<br><br>Эксперты разберут практические кейсы, обозначат зоны риска и дадут конкретные ориентиры для безопасной работы.<br><br>🗓 Даты: 7, 8, 9 июля <br>Время: с 10:00 до 12:00 Формат: онлайн<br>По промокоду  ICCRCONTROL0709 — скидка 15%<br><a href=\"https://iccwbo.ru/foreign-exchange-controls-26\" target=\"_blank\" rel=\"noopener noreferrer\">Регистрация по ссылке</a>→",
-      "views": 1540,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1908-1-2037d7152c7a-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1908-1-2037d7152c7a-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/pgp_official/1908",
       "forwarded_from": null
     }
   ]
