@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-10-02T00:10:24.721632+00:00",
+  "generated_at": "2026-10-02T05:32:39.794836+00:00",
   "pagination": {
     "page": 2,
     "page_size": 16,
-    "total_posts": 57,
+    "total_posts": 58,
     "total_pages": 4
   },
   "posts": [
+    {
+      "id": 1412,
+      "date": "2026-09-07T04:00:04+00:00",
+      "text": "🌞 Уважаемые участники канала, доброго дня!\n\nМы подготовили новый обзор судебной практики для EcoStandard.journal, в этот раз по теме возмещения вреда водному объекту.\n\nВ обзор включили следующие кейсы\n🔸об установлении лица, ответственного за загрязнение;\n🔸о возможности изменения способа исполнения решения суда;\n🔸об определении размера вреда при наличии нескольких водопользователей\n\nЧитайте обзор ➡️ здесь.",
+      "text_html": "🌞 Уважаемые участники канала, доброго дня!<br><br>Мы подготовили новый обзор судебной практики для <a href=\"https://journal.ecostandard.ru/\" target=\"_blank\" rel=\"noopener noreferrer\">EcoStandard.journal</a>, в этот раз по теме возмещения вреда водному объекту.<br><br>В обзор включили следующие кейсы<br>🔸об установлении лица, ответственного за загрязнение;<br>🔸о возможности изменения способа исполнения решения суда;<br>🔸об определении размера вреда при наличии нескольких водопользователей<br><br>Читайте обзор ➡️ <a href=\"https://journal.ecostandard.ru/eco/razbor-zakonodatelstva/obzor-sudebnoy-praktiki-po-nbsp-sporam-o-nbsp-vozmeshchenii-vreda-vodnomu-obektu/?lang=ru\" target=\"_blank\" rel=\"noopener noreferrer\">здесь</a>.",
+      "views": 465,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1412-1-49929201cfc4-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1412-1-49929201cfc4-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/pgecology/1412",
+      "forwarded_from": null
+    },
     {
       "id": 1411,
       "date": "2026-09-04T04:00:08+00:00",
@@ -255,24 +273,6 @@
       "photos": [],
       "video_url": null,
       "tg_url": "https://t.me/pgecology/1397",
-      "forwarded_from": null
-    },
-    {
-      "id": 1396,
-      "date": "2026-08-12T04:00:03+00:00",
-      "text": "📣 Постановлением Правительства РФ от 02.06.2026 \n№ 684 внесены изменения в Правила организации мероприятий по предупреждению и ликвидации разливов нефти и нефтепродуктов на территории РФ, утвержденные Постановлением Правительства РФ от 31.12.2020 N 2451.\n\n⏱️ Изменения вступают в силу с 01.09.2026.\n\n#ИзмененияЗаконодательства",
-      "text_html": "📣 <a href=\"http://www.publication.pravo.gov.ru/document/0001202606020073%20\" target=\"_blank\" rel=\"noopener noreferrer\">Постановлением Правительства РФ от 02.06.2026</a> <br><a href=\"http://www.publication.pravo.gov.ru/document/0001202606020073%20\" target=\"_blank\" rel=\"noopener noreferrer\">№ 684</a> внесены изменения в Правила организации мероприятий по предупреждению и ликвидации разливов нефти и нефтепродуктов на территории РФ, утвержденные Постановлением Правительства РФ от 31.12.2020 N 2451.<br><br>⏱️ Изменения вступают в силу с 01.09.2026.<br><br>#ИзмененияЗаконодательства",
-      "views": 262,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1396-1-ad0a2bd74653-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1396-1-ad0a2bd74653-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/pgecology/1396",
       "forwarded_from": null
     }
   ]
