@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-03T05:32:43.015623+00:00",
+  "generated_at": "2026-10-03T10:36:11.210135+00:00",
   "pagination": {
     "page": 5,
     "page_size": 16,
-    "total_posts": 159,
+    "total_posts": 158,
     "total_pages": 10
   },
   "posts": [
@@ -71,8 +71,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2875-1-f58a74a58596-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2875-1-f58a74a58596-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2875-1-b33770ba3ad8-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2875-1-b33770ba3ad8-v4.jpg"
         }
       ],
       "video_url": null,
@@ -125,8 +125,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2872-1-04e94934116f-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2872-1-04e94934116f-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2872-1-c1b94f7e7745-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2872-1-c1b94f7e7745-v4.jpg"
         }
       ],
       "video_url": null,
@@ -143,8 +143,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2871-1-b18fb66763f6-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2871-1-b18fb66763f6-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2871-1-a30fc539420b-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2871-1-a30fc539420b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -197,8 +197,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2868-1-55848562b38e-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2868-1-55848562b38e-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2868-1-d80fcb688ce7-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2868-1-d80fcb688ce7-v4.jpg"
         }
       ],
       "video_url": null,
@@ -264,7 +264,7 @@
       "date": "2026-08-20T08:15:32+00:00",
       "text": "gf_Массовое_письмо_по_застройщикам.pdf",
       "text_html": "gf_Массовое_письмо_по_застройщикам.pdf",
-      "views": 1840,
+      "views": 1850,
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
