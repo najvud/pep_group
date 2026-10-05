@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-10-05T06:21:19.747126+00:00",
+  "generated_at": "2026-10-05T15:02:01.555833+00:00",
   "pagination": {
     "page": 4,
     "page_size": 16,
-    "total_posts": 63,
+    "total_posts": 64,
     "total_pages": 4
   },
   "posts": [
+    {
+      "id": 557,
+      "date": "2026-07-29T07:43:01+00:00",
+      "text": "Еженедельный обзор Банкротство: Взгляд эксперта \n\nО новых событиях сферы банкротства с авторскими рекомендациями от Ю. Литовцевой в еженедельном обзоре Банкротство: Взгляд эксперта от команды практики банкротства и антикризисной защиты бизнеса! \n\nВ этом выпуске:\n\n🍀 Когда спешка гражданина может довести до неосвобождения от долгов?\n\n🏦 Почему город не должен ждать?\n\n✍️ Имеет ли право бывшая супруга влиять на признание иностранного судебного акта о банкротстве?\n\n⏱ Когда начинать отсчет срока для жалобы на управляющего?\n\nПодробности уже ожидают по ссылке!\n☕️ Приятного чтения!\n\n#Банкротство_взгляд_эксперта\n#Арбитражный_управляющий\n#Банкротство_граждан\n#Банкротство_застройщиков\n#Исковая_давность\n#Процессуальные_вопросы\n#Субсидиарная_ответственность\n#Требования_кредиторов",
+      "text_html": "Еженедельный обзор Банкротство: Взгляд эксперта <br><br>О новых событиях сферы банкротства с авторскими рекомендациями от Ю. Литовцевой в еженедельном обзоре Банкротство: Взгляд эксперта от команды <a href=\"https://www.pgplaw.ru/practice-and-industry/practices/bankruptcy/\" target=\"_blank\" rel=\"noopener noreferrer\">практики банкротства и антикризисной защиты бизнеса!</a> <br><br>В этом выпуске:<br><br>🍀 Когда спешка гражданина может довести до неосвобождения от долгов?<br><br>🏦 Почему город не должен ждать?<br><br>✍️ Имеет ли право бывшая супруга влиять на признание иностранного судебного акта о банкротстве?<br><br>⏱ Когда начинать отсчет срока для жалобы на управляющего?<br><br>Подробности уже ожидают по <a href=\"https://www.pgplaw.ru/analytics-and-brochures/bankruptcy-must-read/bankruptcy-digest-29-07-26/\" target=\"_blank\" rel=\"noopener noreferrer\">ссылке</a>!<br><a href=\"https://www.pgplaw.ru/analytics-and-brochures/bankruptcy-must-read/bankruptcy-must-read-26-11-25/\" target=\"_blank\" rel=\"noopener noreferrer\">☕️</a> Приятного чтения!<br><br>#Банкротство_взгляд_эксперта<br>#Арбитражный_управляющий<br>#Банкротство_граждан<br>#Банкротство_застройщиков<br>#Исковая_давность<br>#Процессуальные_вопросы<br>#Субсидиарная_ответственность<br>#Требования_кредиторов",
+      "views": 297,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/557-1-da61fd8f2bb3-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/557-1-da61fd8f2bb3-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/bankrotstvo_mustknow/557",
+      "forwarded_from": null
+    },
     {
       "id": 556,
       "date": "2026-07-28T15:13:08+00:00",
@@ -17,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/556-1-4fa837f8c3fa-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/556-1-4fa837f8c3fa-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/556-1-018db87de342-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/556-1-018db87de342-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +53,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/555-1-8cf2732543f2-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/555-1-8cf2732543f2-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/555-1-ec545cae3ed9-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/555-1-ec545cae3ed9-v4.jpg"
         }
       ],
       "video_url": null,
@@ -66,8 +84,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/553-1-ef92f249efc8-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/553-1-ef92f249efc8-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/553-1-42cf16f3eaa8-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/553-1-42cf16f3eaa8-v4.jpg"
         }
       ],
       "video_url": null,
@@ -89,8 +107,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/552-1-42583139bfed-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/552-1-42583139bfed-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/552-1-4e8d6f40779d-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/552-1-4e8d6f40779d-v4.jpg"
         }
       ],
       "video_url": null,
@@ -107,8 +125,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/551-1-d17a31461f51-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/551-1-d17a31461f51-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/551-1-77d90f5d3cc2-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/551-1-77d90f5d3cc2-v4.jpg"
         }
       ],
       "video_url": null,
@@ -125,20 +143,20 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/547-1-e59c1dd7b529-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/547-1-e59c1dd7b529-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/547-1-a4f37fd39f28-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/547-1-a4f37fd39f28-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/547-2-254a0d6b3864-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/547-2-254a0d6b3864-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/547-2-2e82b3a418fb-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/547-2-2e82b3a418fb-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/547-3-ca7c08e23393-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/547-3-ca7c08e23393-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/547-3-1418ce96ccdf-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/547-3-1418ce96ccdf-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/547-4-520eb1d2548c-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/547-4-520eb1d2548c-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/547-4-f05a529ebd60-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/547-4-f05a529ebd60-v4.jpg"
         }
       ],
       "video_url": null,
@@ -150,13 +168,13 @@
       "date": "2026-07-20T06:49:17+00:00",
       "text": "⚖️ Редчайший случай: «банкротный» спор был рассмотрен в надзорной инстанции\n\nКристина Колодкина, специалист практики банкротства и антикризисной защиты бизнеса, анализирует постановление Президиума ВС РФ, о том, обязаны ли управляющие работать только с аккредитованными ими операторами электронных площадок.\n\nВ течение последних нескольких лет в порядке надзора ВС РФ не рассмотрел ни одно дело. И вот это случилось, и напрямую касается сферы банкротства!\n\n📚 Немного теории:\n\nКоординацией признаётся согласование действий хозяйствующих субъектов третьим лицом, не входящим с ними в одну группу. Закон о защите конкуренции запрещает такую координацию, если она приводит к ограничению конкуренции. Если СРО навязывает управляющим определённых контрагентов под угрозой штрафов, это может быть признано незаконной координацией.\n\n📚 Суть дела:\n\nСРО обязала своих членов привлекать для проведения торгов только аккредитованных ею операторов. За нарушение управляющим грозил штраф. \n\nФАС признала это нарушением антимонопольного законодательства и выдала предписание. \n\nСРО не согласилась и обратилась в суд.\n\n🏛 Решения нижестоящих судов:\n\nСуд первой инстанции отказал в признании решения ФАС недействительным, поскольку СРО ограничивала самостоятельность управляющих и обязывала их следовать своим инструкциям.\n\nАпелляция и кассация поддержали позицию суда первой инстанции, указав, что действия союза привели к антиконкурентным последствиям.\n\nСудебная коллегия по экономическим спорам ВС РФ отменила акты нижестоящих судов и удовлетворила заявление СРО, посчитав ее действия допустимыми.\n\nПозиция Президиума Верховного Суда РФ:\n\nПрезидиум ВС РФ отменил определение СКЭС и оставил в силе акты нижестоящих судов, поскольку:\n\n📌 координация СРО признана незаконной, поскольку она навязывала управляющим контрагентов под угрозой штрафов и получала плату за аккредитацию;\n\n📌 Закон о банкротстве не требует аккредитации операторов именно той СРО, членом которой является управляющий, такое ограничение не основано на законе;\n\n📌 дополнительная аккредитация сверх требований закона создаёт необоснованные барьеры, поскольку контроль за операторами уже обеспечен иными механизмами.\n\n❗️Вывод:\n\nПрезидиум ВС РФ подтвердил приоритет антимонопольных запретов над внутренними правилами СРО. \nЛюбые ограничения выбора контрагентов, создающие барьеры для рынка, могут быть признаны незаконной координацией.\n\n#Арбитражный_управляющий",
       "text_html": "⚖️ Редчайший случай: «банкротный» спор был рассмотрен в надзорной инстанции<br><br>Кристина Колодкина, специалист <a href=\"https://www.pgplaw.ru/practice-and-industry/practices/bankruptcy/\" target=\"_blank\" rel=\"noopener noreferrer\">практики банкротства и антикризисной защиты бизнеса</a>, анализирует <a href=\"https://kad.arbitr.ru/Document/Pdf/21f2c4ba-ad00-4bb0-a0cf-48608575fa29/9351bf48-17d9-437a-8bdb-627a018cdcd0/A40-232008-2023_20260701_Reshenija_i_postanovlenija.pdf?isAddStamp=True\" target=\"_blank\" rel=\"noopener noreferrer\">постановление Президиума ВС РФ</a>, о том, обязаны ли управляющие работать только с аккредитованными ими операторами электронных площадок.<br><br>В течение последних нескольких лет в порядке надзора ВС РФ не рассмотрел ни одно дело. И вот это случилось, и напрямую касается сферы банкротства!<br><br>📚 Немного теории:<br><br>Координацией признаётся согласование действий хозяйствующих субъектов третьим лицом, не входящим с ними в одну группу. Закон о защите конкуренции запрещает такую координацию, если она приводит к ограничению конкуренции. Если СРО навязывает управляющим определённых контрагентов под угрозой штрафов, это может быть признано незаконной координацией.<br><br>📚 Суть дела:<br><br>СРО обязала своих членов привлекать для проведения торгов только аккредитованных ею операторов. За нарушение управляющим грозил штраф. <br><br>ФАС признала это нарушением антимонопольного законодательства и выдала предписание. <br><br>СРО не согласилась и обратилась в суд.<br><br>🏛 Решения нижестоящих судов:<br><br>Суд первой инстанции отказал в признании решения ФАС недействительным, поскольку СРО ограничивала самостоятельность управляющих и обязывала их следовать своим инструкциям.<br><br>Апелляция и кассация поддержали позицию суда первой инстанции, указав, что действия союза привели к антиконкурентным последствиям.<br><br>Судебная коллегия по экономическим спорам ВС РФ отменила акты нижестоящих судов и удовлетворила заявление СРО, посчитав ее действия допустимыми.<br><br>Позиция Президиума Верховного Суда РФ:<br><br>Президиум ВС РФ отменил определение СКЭС и оставил в силе акты нижестоящих судов, поскольку:<br><br>📌 координация СРО признана незаконной, поскольку она навязывала управляющим контрагентов под угрозой штрафов и получала плату за аккредитацию;<br><br>📌 Закон о банкротстве не требует аккредитации операторов именно той СРО, членом которой является управляющий, такое ограничение не основано на законе;<br><br>📌 дополнительная аккредитация сверх требований закона создаёт необоснованные барьеры, поскольку контроль за операторами уже обеспечен иными механизмами.<br><br>❗️Вывод:<br><br>Президиум ВС РФ подтвердил приоритет антимонопольных запретов над внутренними правилами СРО. <br>Любые ограничения выбора контрагентов, создающие барьеры для рынка, могут быть признаны незаконной координацией.<br><br>#Арбитражный_управляющий",
-      "views": 383,
+      "views": 384,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/546-1-3aaf5e761a98-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/546-1-3aaf5e761a98-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/546-1-90443f77763e-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/546-1-90443f77763e-v4.jpg"
         }
       ],
       "video_url": null,
@@ -173,8 +191,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/545-1-a673d6b388f8-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/545-1-a673d6b388f8-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/545-1-b9b229b175c7-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/545-1-b9b229b175c7-v4.jpg"
         }
       ],
       "video_url": null,
@@ -191,8 +209,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/543-1-5eab70e316b1-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/543-1-5eab70e316b1-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/543-1-c5dbfc7bb15d-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/543-1-c5dbfc7bb15d-v4.jpg"
         }
       ],
       "video_url": null,
@@ -209,8 +227,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/542-1-93231838cc40-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/542-1-93231838cc40-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/542-1-b4804712a8f7-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/542-1-b4804712a8f7-v4.jpg"
         }
       ],
       "video_url": null,
@@ -227,8 +245,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/541-1-1d96acff83ab-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/541-1-1d96acff83ab-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/541-1-bdabe2fc7c5e-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/541-1-bdabe2fc7c5e-v4.jpg"
         }
       ],
       "video_url": null,
@@ -245,8 +263,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/540-1-0c5013be95fa-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/540-1-0c5013be95fa-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/540-1-a084a2bd3805-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/540-1-a084a2bd3805-v4.jpg"
         }
       ],
       "video_url": null,
@@ -263,8 +281,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/539-1-0616b697d6f9-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/539-1-0616b697d6f9-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/539-1-664a2ddcf896-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/539-1-664a2ddcf896-v4.jpg"
         }
       ],
       "video_url": null,
@@ -281,8 +299,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/538-1-dd588ce51119-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/538-1-dd588ce51119-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/538-1-1420534f276e-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/538-1-1420534f276e-v4.jpg"
         }
       ],
       "video_url": null,

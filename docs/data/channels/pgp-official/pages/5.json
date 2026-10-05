@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-10-05T06:18:42.878490+00:00",
+  "generated_at": "2026-10-05T14:58:39.592105+00:00",
   "pagination": {
     "page": 5,
     "page_size": 16,
-    "total_posts": 72,
+    "total_posts": 73,
     "total_pages": 5
   },
   "posts": [
+    {
+      "id": 1925,
+      "date": "2026-07-14T10:02:25+00:00",
+      "text": "🎤«Форс-мажор освобождает от ответственности, но не от исполнения обязательств»\n\nВ эфире РБК-Радио Илья Болотнов, партнер, руководитель корпоративной практики «Пепеляев Групп», прокомментировал правовые последствия временного запрета на экспорт бензина и дизельного топлива для участников внешнеторговых контрактов.\n\n☝️По словам Ильи Болотнова, введение государством экспортных ограничений по общему правилу может рассматриваться как обстоятельство непреодолимой силы, однако в каждом случае необходимо учитывать условия конкретного договора. Кроме того, стороне недостаточно сослаться на сам факт запрета – необходимо подтвердить, что именно он стал причиной невозможности исполнить обязательства.\n\nЭксперт отметил, что при возникновении подобных обстоятельств сторона должна действовать добросовестно: своевременно уведомить контрагента о невозможности исполнения договора и, при необходимости, подтвердить наличие форс-мажора соответствующими документами, например сертификатом ТПП РФ.\n\n💬 «Форс-мажор является основанием для освобождения от ответственности, но не освобождает от исполнения обязательства. Когда обстоятельства непреодолимой силы прекращаются, договор продолжает действовать, и обязательства должны быть исполнены».\n\nИсточник: РБК-Радио, эфир 10.07",
+      "text_html": "🎤«Форс-мажор освобождает от ответственности, но не от исполнения обязательств»<br><br>В эфире РБК-Радио <a href=\"https://www.pgplaw.ru/to-get-the-team/ilya-bolotnov/\" target=\"_blank\" rel=\"noopener noreferrer\">Илья Болотнов</a>, партнер, руководитель корпоративной практики «Пепеляев Групп», прокомментировал правовые последствия временного запрета на экспорт бензина и дизельного топлива для участников внешнеторговых контрактов.<br><br>☝️По словам Ильи Болотнова, введение государством экспортных ограничений по общему правилу может рассматриваться как обстоятельство непреодолимой силы, однако в каждом случае необходимо учитывать условия конкретного договора. Кроме того, стороне недостаточно сослаться на сам факт запрета – необходимо подтвердить, что именно он стал причиной невозможности исполнить обязательства.<br><br>Эксперт отметил, что при возникновении подобных обстоятельств сторона должна действовать добросовестно: своевременно уведомить контрагента о невозможности исполнения договора и, при необходимости, подтвердить наличие форс-мажора соответствующими документами, например сертификатом ТПП РФ.<br><br>💬 «Форс-мажор является основанием для освобождения от ответственности, но не освобождает от исполнения обязательства. Когда обстоятельства непреодолимой силы прекращаются, договор продолжает действовать, и обязательства должны быть исполнены».<br><br>Источник: РБК-Радио, эфир 10.07",
+      "views": 635,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1925-1-1d032efbaeb9-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1925-1-1d032efbaeb9-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/pgp_official/1925",
+      "forwarded_from": null
+    },
     {
       "id": 1924,
       "date": "2026-07-14T07:00:52+00:00",
@@ -17,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1924-1-103ae8b16082-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1924-1-103ae8b16082-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1924-1-69be724d3655-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1924-1-69be724d3655-v4.jpg"
         }
       ],
       "video_url": null,
@@ -40,12 +58,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1922-1-74ff49fd8d51-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1922-1-74ff49fd8d51-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1922-1-7899b94492e3-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1922-1-7899b94492e3-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1922-2-671653368c1f-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1922-2-671653368c1f-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1922-2-36423ac37ed2-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1922-2-36423ac37ed2-v4.jpg"
         }
       ],
       "video_url": null,
@@ -62,8 +80,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1921-1-f0e5999e8c66-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1921-1-f0e5999e8c66-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1921-1-50949b127570-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1921-1-50949b127570-v4.jpg"
         }
       ],
       "video_url": null,
@@ -75,13 +93,13 @@
       "date": "2026-07-09T10:01:34+00:00",
       "text": "🏢 Еженедельная подборка обзоров от практик «Пепеляев Групп»\n\nЧто изменилось за последнюю неделю, и на что стоит обратить внимание бизнесу?\n\n▫️ СпецИнвестРежимы в Сибири и на Дальнем Востоке. Дайджест 29 июня – 5 июля 2026 г.\n\n▫️ Налоговые новости. Дайджест за 29 июня – 5 июля 2026 г.\n\n▫️ Банкротство: взгляд эксперта. Обзор № 328 за 2 – 8 июля 2026 г.\n\n▫️ Телекоммуникации, медиа, ИТ, персональные данные. Дайджест за 23 июня – 7 июля 2026 г.\n\nЧитайте и смотрите другие наши материалы:\n\n🔘 Вежливое ограбление. Дискуссия о справедливых налогах с позиций государства, бизнеса, права \nVK| Rutube| YouTube\n\n🔘 Новости валютного регулирования: анализируем обзоры ВС РФ. Иван Хаменушко \nVK| Rutube| YouTube\n\n🔘 Зов крови: метаморфозы правового режима биоматериала человека. Сессия Константина Шарловского \nVK| Rutube| YouTube\n\n🔘 Алерт «Антифрод 2.0: новые меры противодействия кибермошенничеству»\n\n#pg_обзоры_недели\n\n☝️ Подписаться на рассылки | MAX | Приложение PG",
       "text_html": "🏢 Еженедельная подборка обзоров от практик «Пепеляев Групп»<br><br>Что изменилось за последнюю неделю, и на что стоит обратить внимание бизнесу?<br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/spec-invest-obzor/invest-news-digest-26-07-06/\" target=\"_blank\" rel=\"noopener noreferrer\">СпецИнвестРежимы в Сибири и на Дальнем Востоке. Дайджест 29 июня – 5 июля 2026 г.</a><br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/tax-reviews/tax-news-digest-06-07-26/\" target=\"_blank\" rel=\"noopener noreferrer\">Налоговые новости. Дайджест за 29 июня – 5 июля 2026 г.</a><br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/bankruptcy-must-read/bankruptcy-digest-08-07-26/\" target=\"_blank\" rel=\"noopener noreferrer\">Банкротство: взгляд эксперта. Обзор № 328 за 2 – 8 июля 2026 г.</a><br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/telecom-digest/telecom-digest-09-07-26/\" target=\"_blank\" rel=\"noopener noreferrer\">Телекоммуникации, медиа, ИТ, персональные данные. Дайджест за 23 июня – 7 июля 2026 г.</a><br><br>Читайте и смотрите другие наши материалы:<br><br>🔘 Вежливое ограбление. Дискуссия о справедливых налогах с позиций государства, бизнеса, права <br><a href=\"https://vkvideo.ru/video-227047542_456239417\" target=\"_blank\" rel=\"noopener noreferrer\">VK</a>| <a href=\"https://rutube.ru/video/6327456f3d1198f0d34699a55d0c93d9/\" target=\"_blank\" rel=\"noopener noreferrer\">Rutube</a>| <a href=\"https://youtu.be/j5DXekoH4Ik\" target=\"_blank\" rel=\"noopener noreferrer\">YouTube</a><br><br>🔘 Новости валютного регулирования: анализируем обзоры ВС РФ. Иван Хаменушко <br><a href=\"https://vkvideo.ru/video-227047542_456239418\" target=\"_blank\" rel=\"noopener noreferrer\">VK</a>| <a href=\"https://rutube.ru/video/05b876eecb6b92d24a0fe18cf20ddb7a/\" target=\"_blank\" rel=\"noopener noreferrer\">Rutube</a>| <a href=\"https://youtu.be/fZGyFjbtGqM\" target=\"_blank\" rel=\"noopener noreferrer\">YouTube</a><br><br>🔘 Зов крови: метаморфозы правового режима биоматериала человека. Сессия Константина Шарловского <br><a href=\"https://vkvideo.ru/video-227047542_456239422\" target=\"_blank\" rel=\"noopener noreferrer\">VK</a>| <a href=\"https://rutube.ru/video/71c2b74a817e56ccc73c91caba889506/\" target=\"_blank\" rel=\"noopener noreferrer\">Rutube</a>| <a href=\"https://youtu.be/_MyqnLLAtBY\" target=\"_blank\" rel=\"noopener noreferrer\">YouTube</a><br><br>🔘 Алерт <a href=\"https://www.pgplaw.ru/analytics-and-brochures/alerts/novye-mery-protivodeystviya-kibermoshennichestvu/\" target=\"_blank\" rel=\"noopener noreferrer\">«Антифрод 2.0: новые меры противодействия кибермошенничеству»</a><br><br>#pg_обзоры_недели<br><br>☝️ <a href=\"https://www.pgplaw.ru/subscribe/\" target=\"_blank\" rel=\"noopener noreferrer\">Подписаться на рассылки |</a> <a href=\"https://max.ru/id7707301372_biz\" target=\"_blank\" rel=\"noopener noreferrer\">MAX |</a> <a href=\"https://t.me/pgp_official/1769\" target=\"_blank\" rel=\"noopener noreferrer\">Приложение PG</a>",
-      "views": 656,
+      "views": 657,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1920-1-b61ac422a5fe-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1920-1-b61ac422a5fe-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1920-1-7f49156561c0-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1920-1-7f49156561c0-v4.jpg"
         }
       ],
       "video_url": null,
@@ -98,8 +116,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1919-1-a3d65cdf90b6-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1919-1-a3d65cdf90b6-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1919-1-26d35c73fa4e-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1919-1-26d35c73fa4e-v4.jpg"
         }
       ],
       "video_url": null,
@@ -116,8 +134,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1918-1-fe2751c84d2e-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1918-1-fe2751c84d2e-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1918-1-bea949930328-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1918-1-bea949930328-v4.jpg"
         }
       ],
       "video_url": null,
@@ -152,8 +170,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1916-1-10952842822b-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1916-1-10952842822b-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1916-1-b8ca46f80d81-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1916-1-b8ca46f80d81-v4.jpg"
         }
       ],
       "video_url": null,
