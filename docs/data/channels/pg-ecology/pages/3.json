@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-10-08T21:42:29.809314+00:00",
+  "generated_at": "2026-10-09T07:51:31.239261+00:00",
   "pagination": {
     "page": 3,
     "page_size": 16,
-    "total_posts": 57,
+    "total_posts": 58,
     "total_pages": 4
   },
   "posts": [
+    {
+      "id": 1400,
+      "date": "2026-08-19T04:00:07+00:00",
+      "text": "Многомиллионный счёт от водоканала: платить или спорить?\n\nКрупная сумма за негативное воздействие на систему водоотведения или превышение нормативов — ещё не значит, что требование обоснованно.\n\nЧто стоит проверить до оплаты:\n💧соблюдались ли правила отбора проб сточных вод;\n💧зафиксированы ли нарушения и возражения в актах, есть ли видеозапись отбора проб;\n💧корректно ли рассчитана плата;\n💧какие результаты показывает собственный производственный контроль.\n\nСудебная практика в таких спорах чаще складывается не в пользу абонентов, поэтому доказательства и фиксация нарушений особенно важны.\n\n✅ Подробнее о том, какие ситуации могут стать предметом спора с организациями ВКХ, на что обратить внимание и чем могут помочь юристы, — на сайте «Пепеляев Групп».",
+      "text_html": "Многомиллионный счёт от водоканала: платить или спорить?<br><br>Крупная сумма за негативное воздействие на систему водоотведения или превышение нормативов — ещё не значит, что требование обоснованно.<br><br>Что стоит проверить до оплаты:<br>💧соблюдались ли правила отбора проб сточных вод;<br>💧зафиксированы ли нарушения и возражения в актах, есть ли видеозапись отбора проб;<br>💧корректно ли рассчитана плата;<br>💧какие результаты показывает собственный производственный контроль.<br><br>Судебная практика в таких спорах чаще складывается не в пользу абонентов, поэтому доказательства и фиксация нарушений особенно важны.<br><br>✅ Подробнее о том, какие ситуации могут стать предметом спора с организациями ВКХ, на что обратить внимание и чем могут помочь юристы, — <a href=\"https://www.pgplaw.ru/practice-and-industry/branch/ecology/spory-s-vodokanalom/\" target=\"_blank\" rel=\"noopener noreferrer\">на сайте «Пепеляев Групп»</a>.",
+      "views": 1370,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1400-1-8beab183395e-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1400-1-8beab183395e-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/pgecology/1400",
+      "forwarded_from": null
+    },
     {
       "id": 1399,
       "date": "2026-08-17T04:00:05+00:00",
@@ -146,8 +164,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1391-1-19e0ed1782e3-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1391-1-19e0ed1782e3-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1391-1-65ef426f61b6-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1391-1-65ef426f61b6-v4.jpg"
         }
       ],
       "video_url": null,
@@ -177,8 +195,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1389-1-17296e19f3c3-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1389-1-17296e19f3c3-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1389-1-abd11d99ad9a-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1389-1-abd11d99ad9a-v4.jpg"
         }
       ],
       "video_url": null,
@@ -195,8 +213,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1388-1-fe289e32603a-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1388-1-fe289e32603a-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1388-1-7251c90c413b-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1388-1-7251c90c413b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -226,8 +244,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1386-1-1e08ebb8bd67-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1386-1-1e08ebb8bd67-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1386-1-d4280222f051-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1386-1-d4280222f051-v4.jpg"
         }
       ],
       "video_url": null,
@@ -245,24 +263,6 @@
       "photos": [],
       "video_url": null,
       "tg_url": "https://t.me/pgecology/1385",
-      "forwarded_from": null
-    },
-    {
-      "id": 1384,
-      "date": "2026-07-27T04:00:00+00:00",
-      "text": "📣Внесены изменения в ряд нормативных актов, регулирующих отношения в рамках РОП\n\nПостановление Правительства РФ от 30.05.2026 № 650 «О внесении изменений в некоторые акты Правительства Российской Федерации».\n\n⏱️Документ вступает в силу с 01.09.2026 г., за исключением:\n\n✔️п. 2 постановления (приостановление до 01.01.2028 действия положений о предоставлении отчетности), который вступает в силу со дня официального опубликования (01.06.2026);\n\n✔️п. 5 изменений (отсрочка уплаты экологического сбора импортерами до 01.01.2027), который вступает в силу с 01.01.2027.\n\n#ИзмененияЗаконодательства",
-      "text_html": "📣Внесены изменения в ряд нормативных актов, регулирующих отношения в рамках РОП<br><br><a href=\"http://publication.pravo.gov.ru/document/0001202606010081%20\" target=\"_blank\" rel=\"noopener noreferrer\">Постановление Правительства РФ от 30.05.2026 № 650</a> «О внесении изменений в некоторые акты Правительства Российской Федерации».<br><br>⏱️Документ вступает в силу с 01.09.2026 г., за исключением:<br><br>✔️п. 2 постановления (приостановление до 01.01.2028 действия положений о предоставлении отчетности), который вступает в силу со дня официального опубликования (01.06.2026);<br><br>✔️п. 5 изменений (отсрочка уплаты экологического сбора импортерами до 01.01.2027), который вступает в силу с 01.01.2027.<br><br>#ИзмененияЗаконодательства",
-      "views": 271,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1384-1-50a5caadd593-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1384-1-50a5caadd593-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/pgecology/1384",
       "forwarded_from": null
     }
   ]
