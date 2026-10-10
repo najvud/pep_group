@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-09T23:38:10.738931+00:00",
+  "generated_at": "2026-10-10T09:06:18.463051+00:00",
   "pagination": {
     "page": 5,
     "page_size": 16,
-    "total_posts": 163,
+    "total_posts": 162,
     "total_pages": 11
   },
   "posts": [
@@ -180,8 +180,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2886-1-373688e88079-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2886-1-373688e88079-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2886-1-baf11227afec-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2886-1-baf11227afec-v4.jpg"
         }
       ],
       "video_url": null,

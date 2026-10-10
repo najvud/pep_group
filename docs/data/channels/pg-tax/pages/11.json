@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-09T23:38:10.752796+00:00",
+  "generated_at": "2026-10-10T09:06:18.477016+00:00",
   "pagination": {
     "page": 11,
     "page_size": 16,
-    "total_posts": 163,
+    "total_posts": 162,
     "total_pages": 11
   },
   "posts": [
@@ -17,8 +17,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2784-1-8d879f5c565c-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2784-1-8d879f5c565c-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2784-1-3ced5f185a28-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2784-1-3ced5f185a28-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,30 +35,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2783-1-bdf84576c807-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2783-1-bdf84576c807-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2783-1-ecf1100a3a07-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2783-1-ecf1100a3a07-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/PG_Tax/2783",
-      "forwarded_from": null
-    },
-    {
-      "id": 2782,
-      "date": "2026-07-10T08:01:52+00:00",
-      "text": "✍️ Нормативное регулирование\n \nМинфин России проработает изменения в НК РФ о распределении налога на прибыль цифровых платформ (в частности маркетплейсов) между всеми регионами, а не только по месту регистрации.\n \n⚙️ Практика\n \n🔘В I квартале этого года в федеральный бюджет с налога на прибыль поступил 1 трлн руб. - это на треть больше, чем за аналогичный период 2025 г. Главная причина — повышение ставки налога.\n\n🔘В настоящее время в России функционирует 61 ОЭЗ. За 20 лет существования преференциального режима привлечено более 60 млрд долл. частных инвестиций.\n\n#главные_налоговые_новости",
-      "text_html": "✍️ Нормативное регулирование<br> <br>Минфин России <a href=\"https://www.rbc.ru/rbcfreenews/6a4ec85a9a79474d6c50ad50\" target=\"_blank\" rel=\"noopener noreferrer\">проработает</a> изменения в НК РФ о распределении налога на прибыль цифровых платформ (в частности маркетплейсов) между всеми регионами, а не только по месту регистрации.<br> <br>⚙️ Практика<br> <br>🔘В I квартале этого года в федеральный бюджет с налога на прибыль <a href=\"https://iz.ru/2130146/2026-07-10/biudzhet-poluchil-rekordnyi-1-trln-s-naloga-na-pribyl\" target=\"_blank\" rel=\"noopener noreferrer\">поступил</a> 1 трлн руб. - это на треть больше, чем за аналогичный период 2025 г. Главная причина — повышение ставки налога.<br><br>🔘В настоящее время в России <a href=\"https://www.economy.gov.ru/material/news/minekonomrazvitiya_rf_rossiya_i_indoneziya_rasshiryayut_sotrudnichestvo_v_sfere_osobyh_ekonomicheskih_zon_i_industrialnyh_parkov.html\" target=\"_blank\" rel=\"noopener noreferrer\">функционирует</a> 61 ОЭЗ. За 20 лет существования преференциального режима привлечено более 60 млрд долл. частных инвестиций.<br><br>#главные_налоговые_новости",
-      "views": 1000,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2782-1-1649e07cdd0b-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2782-1-1649e07cdd0b-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2782",
       "forwarded_from": null
     }
   ]
