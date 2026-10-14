@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-10-13T23:06:12.926848+00:00",
+  "generated_at": "2026-10-14T06:49:02.778188+00:00",
   "pagination": {
     "page": 3,
     "page_size": 16,
-    "total_posts": 58,
+    "total_posts": 59,
     "total_pages": 4
   },
   "posts": [
+    {
+      "id": 1403,
+      "date": "2026-08-24T04:00:08+00:00",
+      "text": "📣 Постановлением Правительства РФ от 28.07.2026 \n№ 946 внесены изменения в постановление Правительства РФ от 30.06.2021 № 1096, которым утверждено Положение о федеральном государственном экологическом контроле (надзоре).\n\n⏱️Изменения действуют с 31.07.2026, \nновое Приложение № 2 к Положению вступает в силу с 01.10.2026.\n\n#ИзмененияЗаконодательства",
+      "text_html": "📣 <a href=\"http://publication.pravo.gov.ru/document/0001202607310014\" target=\"_blank\" rel=\"noopener noreferrer\">Постановлением Правительства РФ от 28.07.2026</a> <br><a href=\"http://publication.pravo.gov.ru/document/0001202607310014\" target=\"_blank\" rel=\"noopener noreferrer\">№ 946</a> внесены изменения в постановление Правительства РФ от 30.06.2021 № 1096, которым утверждено Положение о федеральном государственном экологическом контроле (надзоре).<br><br>⏱️Изменения действуют с 31.07.2026, <br>новое Приложение № 2 к Положению вступает в силу с 01.10.2026.<br><br>#ИзмененияЗаконодательства",
+      "views": 252,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1403-1-7780e32b657c-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1403-1-7780e32b657c-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/pgecology/1403",
+      "forwarded_from": null
+    },
     {
       "id": 1402,
       "date": "2026-08-21T04:00:01+00:00",
@@ -89,8 +107,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1398-1-e32b5d796379-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1398-1-e32b5d796379-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1398-1-eb5e61fa2f0e-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1398-1-eb5e61fa2f0e-v4.jpg"
         }
       ],
       "video_url": null,
@@ -151,8 +169,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1394-1-b0e060bfa43e-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1394-1-b0e060bfa43e-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1394-1-0f23d861dab6-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1394-1-0f23d861dab6-v4.jpg"
         }
       ],
       "video_url": null,
@@ -169,8 +187,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1393-1-3dea02d36df3-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1393-1-3dea02d36df3-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1393-1-c4793cd643ca-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1393-1-c4793cd643ca-v4.jpg"
         }
       ],
       "video_url": null,
@@ -200,8 +218,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1391-1-551076c7fdf0-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1391-1-551076c7fdf0-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1391-1-2626282e40cb-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1391-1-2626282e40cb-v4.jpg"
         }
       ],
       "video_url": null,
@@ -231,8 +249,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1389-1-332268a13617-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1389-1-332268a13617-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1389-1-f26e4b61c63e-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1389-1-f26e4b61c63e-v4.jpg"
         }
       ],
       "video_url": null,
@@ -249,25 +267,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1388-1-fa154dbc12e3-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1388-1-fa154dbc12e3-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1388-1-926ef167439d-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1388-1-926ef167439d-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/pgecology/1388",
-      "forwarded_from": null
-    },
-    {
-      "id": 1387,
-      "date": "2026-07-29T04:01:01+00:00",
-      "text": "В целом, новый Порядок соответствует действующему, внесены небольшие корректировки.\n\n1️⃣ Перечень объектов на которые не распространяется действие Порядка дополнен включенными в госреестр объектами накопленного вреда окружающей среде.\n\n2️⃣ Перечень документов и сведений для разработки Программы мониторинга дополнен данными о фоновом состоянии компонентов природной среды не только районе расположения ОРО, но и в пределах его воздействия на окружающую среду.\n\n3️⃣ К «материалам ранее проведенных обследований окружающей среды» отнесены результаты инженерных изысканий.\n\n4️⃣ Уточнены места отбора проб атмосферного воздуха, почв и подземных водных объектов: на границе земельного участка, на котором расположен объект размещения отходов.\n\n5️⃣ Уточнено также, что в отчете о результатах мониторинга приводятся сведения об ОРО полученные в результате инвентаризации ОРО.\n\n6️⃣ Раздел «Приложения» дополнен следующими документами: \n\n▪️копии протоколов инструментальных измерений, проведенных аккредитованной испытательной лабораторией (аккредитованным испытательным центром), \n\n▪️а в случае отсутствия в копиях таких протоколов информации о месте отбора проб и температуре воздуха также копии актов отбора проб, проведенных аккредитованной испытательной лабораторией (аккредитованным испытательным центром).\n\n#ИзмененияЗаконодательства",
-      "text_html": "В целом, новый Порядок соответствует действующему, внесены небольшие корректировки.<br><br>1️⃣ Перечень объектов на которые не распространяется действие Порядка дополнен включенными в госреестр объектами накопленного вреда окружающей среде.<br><br>2️⃣ Перечень документов и сведений для разработки Программы мониторинга дополнен данными о фоновом состоянии компонентов природной среды не только районе расположения ОРО, но и в пределах его воздействия на окружающую среду.<br><br>3️⃣ К «материалам ранее проведенных обследований окружающей среды» отнесены результаты инженерных изысканий.<br><br>4️⃣ Уточнены места отбора проб атмосферного воздуха, почв и подземных водных объектов: на границе земельного участка, на котором расположен объект размещения отходов.<br><br>5️⃣ Уточнено также, что в отчете о результатах мониторинга приводятся сведения об ОРО полученные в результате инвентаризации ОРО.<br><br>6️⃣ Раздел «Приложения» дополнен следующими документами: <br><br>▪️копии протоколов инструментальных измерений, проведенных аккредитованной испытательной лабораторией (аккредитованным испытательным центром), <br><br>▪️а в случае отсутствия в копиях таких протоколов информации о месте отбора проб и температуре воздуха также копии актов отбора проб, проведенных аккредитованной испытательной лабораторией (аккредитованным испытательным центром).<br><br>#ИзмененияЗаконодательства",
-      "views": 348,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [],
-      "video_url": null,
-      "tg_url": "https://t.me/pgecology/1387",
       "forwarded_from": null
     }
   ]
