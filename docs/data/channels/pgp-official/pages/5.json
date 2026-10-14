@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-14T06:47:04.557329+00:00",
+  "generated_at": "2026-10-14T12:28:45.302412+00:00",
   "pagination": {
     "page": 5,
     "page_size": 16,
-    "total_posts": 75,
+    "total_posts": 73,
     "total_pages": 5
   },
   "posts": [
@@ -17,8 +17,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1946-1-4468413d7d91-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1946-1-4468413d7d91-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1946-1-069d7d5f66fb-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1946-1-069d7d5f66fb-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,28 +35,28 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1940-1-e74c45a07fdc-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1940-1-e74c45a07fdc-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1940-1-02725f25d093-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1940-1-02725f25d093-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1940-2-4e07f8689c6d-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1940-2-4e07f8689c6d-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1940-2-47f3f11bf1d9-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1940-2-47f3f11bf1d9-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1940-3-39cea84ba3f1-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1940-3-39cea84ba3f1-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1940-3-293d5710a7a3-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1940-3-293d5710a7a3-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1940-4-d3ec6e2c2000-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1940-4-d3ec6e2c2000-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1940-4-271e2c17980c-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1940-4-271e2c17980c-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1940-5-003584e9528f-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1940-5-003584e9528f-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1940-5-2780c879a4b9-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1940-5-2780c879a4b9-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1940-6-da88e2cd2fa7-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1940-6-da88e2cd2fa7-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1940-6-34907113a4fd-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1940-6-34907113a4fd-v4.jpg"
         }
       ],
       "video_url": null,
@@ -73,20 +73,20 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1936-1-2c64523756ce-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1936-1-2c64523756ce-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1936-1-452e54101768-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1936-1-452e54101768-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1936-2-d2d43932c233-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1936-2-d2d43932c233-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1936-2-003e08366179-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1936-2-003e08366179-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1936-3-666db075bccc-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1936-3-666db075bccc-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1936-3-e8728af2a0f7-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1936-3-e8728af2a0f7-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1936-4-b1aed0589e2b-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1936-4-b1aed0589e2b-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1936-4-168cb963aa7a-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1936-4-168cb963aa7a-v4.jpg"
         }
       ],
       "video_url": null,
@@ -108,8 +108,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1935-1-5ac391c5d434-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1935-1-5ac391c5d434-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1935-1-c8bb7c8f5f3c-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1935-1-c8bb7c8f5f3c-v4.jpg"
         }
       ],
       "video_url": null,
@@ -131,24 +131,24 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1930-1-7297d9428955-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1930-1-7297d9428955-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1930-1-45d0a401be50-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1930-1-45d0a401be50-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1930-2-d1a88904a218-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1930-2-d1a88904a218-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1930-2-ad9edfb3a4c5-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1930-2-ad9edfb3a4c5-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1930-3-527d550c37b7-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1930-3-527d550c37b7-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1930-3-c3fe3dcc9f3a-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1930-3-c3fe3dcc9f3a-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1930-4-ed5b65e06775-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1930-4-ed5b65e06775-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1930-4-4167d37844cf-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1930-4-4167d37844cf-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1930-5-c7e277ee5a9e-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1930-5-c7e277ee5a9e-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1930-5-bb7a73d67e8c-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1930-5-bb7a73d67e8c-v4.jpg"
         }
       ],
       "video_url": null,
@@ -165,8 +165,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1929-1-25c4ec34d5f0-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1929-1-25c4ec34d5f0-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1929-1-7ab0355cbb56-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1929-1-7ab0355cbb56-v4.jpg"
         }
       ],
       "video_url": null,
@@ -183,8 +183,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1928-1-9a04783dde15-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1928-1-9a04783dde15-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1928-1-34336be98f76-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1928-1-34336be98f76-v4.jpg"
         }
       ],
       "video_url": null,
@@ -201,8 +201,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1927-1-5a202678b305-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1927-1-5a202678b305-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1927-1-c9131b86f9f8-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1927-1-c9131b86f9f8-v4.jpg"
         }
       ],
       "video_url": null,
@@ -219,54 +219,13 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1926-1-3d7449f90cf3-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1926-1-3d7449f90cf3-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1926-1-11c2afba5cab-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1926-1-11c2afba5cab-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/pgp_official/1926",
       "forwarded_from": null
-    },
-    {
-      "id": 1925,
-      "date": "2026-07-14T10:02:25+00:00",
-      "text": "🎤«Форс-мажор освобождает от ответственности, но не от исполнения обязательств»\n\nВ эфире РБК-Радио Илья Болотнов, партнер, руководитель корпоративной практики «Пепеляев Групп», прокомментировал правовые последствия временного запрета на экспорт бензина и дизельного топлива для участников внешнеторговых контрактов.\n\n☝️По словам Ильи Болотнова, введение государством экспортных ограничений по общему правилу может рассматриваться как обстоятельство непреодолимой силы, однако в каждом случае необходимо учитывать условия конкретного договора. Кроме того, стороне недостаточно сослаться на сам факт запрета – необходимо подтвердить, что именно он стал причиной невозможности исполнить обязательства.\n\nЭксперт отметил, что при возникновении подобных обстоятельств сторона должна действовать добросовестно: своевременно уведомить контрагента о невозможности исполнения договора и, при необходимости, подтвердить наличие форс-мажора соответствующими документами, например сертификатом ТПП РФ.\n\n💬 «Форс-мажор является основанием для освобождения от ответственности, но не освобождает от исполнения обязательства. Когда обстоятельства непреодолимой силы прекращаются, договор продолжает действовать, и обязательства должны быть исполнены».\n\nИсточник: РБК-Радио, эфир 10.07",
-      "text_html": "🎤«Форс-мажор освобождает от ответственности, но не от исполнения обязательств»<br><br>В эфире РБК-Радио <a href=\"https://www.pgplaw.ru/to-get-the-team/ilya-bolotnov/\" target=\"_blank\" rel=\"noopener noreferrer\">Илья Болотнов</a>, партнер, руководитель корпоративной практики «Пепеляев Групп», прокомментировал правовые последствия временного запрета на экспорт бензина и дизельного топлива для участников внешнеторговых контрактов.<br><br>☝️По словам Ильи Болотнова, введение государством экспортных ограничений по общему правилу может рассматриваться как обстоятельство непреодолимой силы, однако в каждом случае необходимо учитывать условия конкретного договора. Кроме того, стороне недостаточно сослаться на сам факт запрета – необходимо подтвердить, что именно он стал причиной невозможности исполнить обязательства.<br><br>Эксперт отметил, что при возникновении подобных обстоятельств сторона должна действовать добросовестно: своевременно уведомить контрагента о невозможности исполнения договора и, при необходимости, подтвердить наличие форс-мажора соответствующими документами, например сертификатом ТПП РФ.<br><br>💬 «Форс-мажор является основанием для освобождения от ответственности, но не освобождает от исполнения обязательства. Когда обстоятельства непреодолимой силы прекращаются, договор продолжает действовать, и обязательства должны быть исполнены».<br><br>Источник: РБК-Радио, эфир 10.07",
-      "views": 637,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1925-1-884f3eb9db6e-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1925-1-884f3eb9db6e-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/pgp_official/1925",
-      "forwarded_from": null
-    },
-    {
-      "id": 1924,
-      "date": "2026-07-14T07:00:52+00:00",
-      "text": "🎙 Антимонопольное право начинается с понимания бизнеса\n\nВ видеоинтервью Илья Тюленев, руководитель антимонопольной практики «Пепеляев Групп», рассказал о своем профессиональном пути, опыте работы в консалтинге и крупном бизнесе, а также о подходах, на которых строится работа практики.\n\n©️В интервью обсудили:\n\n🔸почему опыт работы на стороне клиента помогает понимать, в каких ситуациях бизнес обращается к внешним консультантам, как выбирает их и какой результат ожидает;\n\n🔸на каких направлениях сосредоточена антимонопольная практика «Пепеляев Групп»: сложные споры и расследования, дела о монопольно высокой цене, картели и взыскание убытков;\n\n🔸какие тенденции сегодня усиливают антимонопольные риски для компаний;\n\n🔸почему в работе над антимонопольными делами необходимо учитывать не только нормы права, но и экономику, бизнес-модель клиента и условия рынка;\n\n🔸как открытый диалог с регулятором и поиск компромисса могут помочь бизнесу выстраивать долгосрочную стратегию.\n\nИлья также рассказал о первом крупном проекте в «Пепеляев Групп», развитии медиа-экосистемы проекта «Концеренция и право» и принципах бизнес-центричного подхода к защите клиентов.\n\n📎 Смотрите видео там, где вам удобно:\nVK| Rutube| YouTube",
-      "text_html": "🎙 Антимонопольное право начинается с понимания бизнеса<br><br>В видеоинтервью <a href=\"https://www.pgplaw.ru/to-get-the-team/tiulenev/\" target=\"_blank\" rel=\"noopener noreferrer\">Илья Тюленев</a>, руководитель антимонопольной практики «Пепеляев Групп», рассказал о своем профессиональном пути, опыте работы в консалтинге и крупном бизнесе, а также о подходах, на которых строится работа практики.<br><br>©️В интервью обсудили:<br><br>🔸почему опыт работы на стороне клиента помогает понимать, в каких ситуациях бизнес обращается к внешним консультантам, как выбирает их и какой результат ожидает;<br><br>🔸на каких направлениях сосредоточена антимонопольная практика «Пепеляев Групп»: сложные споры и расследования, дела о монопольно высокой цене, картели и взыскание убытков;<br><br>🔸какие тенденции сегодня усиливают антимонопольные риски для компаний;<br><br>🔸почему в работе над антимонопольными делами необходимо учитывать не только нормы права, но и экономику, бизнес-модель клиента и условия рынка;<br><br>🔸как открытый диалог с регулятором и поиск компромисса могут помочь бизнесу выстраивать долгосрочную стратегию.<br><br>Илья также рассказал о первом крупном проекте в «Пепеляев Групп», развитии медиа-экосистемы проекта <a href=\"https://cljournal.ru/\" target=\"_blank\" rel=\"noopener noreferrer\">«Концеренция и право»</a> и принципах бизнес-центричного подхода к защите клиентов.<br><br>📎 Смотрите видео там, где вам удобно:<br><a href=\"https://vkvideo.ru/video-227047542_456239419\" target=\"_blank\" rel=\"noopener noreferrer\">VK</a>| <a href=\"https://rutube.ru/video/09d4ad46477ac8315b8c99dd7880ddd5/\" target=\"_blank\" rel=\"noopener noreferrer\">Rutube</a>| <a href=\"https://youtu.be/lCqaezdG0BQ\" target=\"_blank\" rel=\"noopener noreferrer\">YouTube</a>",
-      "views": 638,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1924-1-79d17504af9e-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1924-1-79d17504af9e-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/pgp_official/1924",
-      "forwarded_from": {
-        "source_url": "https://t.me/PgAntitrust/1452",
-        "channel_url": "https://t.me/s/PgAntitrust",
-        "channel_username": "PgAntitrust",
-        "channel_title": "PG Antitrust | Антимонопольное право"
-      }
     }
   ]
 }
