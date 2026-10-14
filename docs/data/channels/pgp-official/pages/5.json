@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-10-14T12:28:45.302412+00:00",
+  "generated_at": "2026-10-14T17:30:59.048920+00:00",
   "pagination": {
     "page": 5,
     "page_size": 16,
-    "total_posts": 73,
+    "total_posts": 74,
     "total_pages": 5
   },
   "posts": [
+    {
+      "id": 1947,
+      "date": "2026-07-24T10:01:34+00:00",
+      "text": "💻 Телекоммуникации, медиа, ИТ, персональные данные: дайджест\n\nВ обзоре собрали принятые акты, ключевые законодательные инициативы, регуляторные тренды, судебную практику и события отрасли.\n\nГлавные новости:\n\n🔘 Совет Федерации одобрил закон о поддержке «Почты России»; \n\n🔘 предложены критерии определения «мошеннических» номеров; \n\n🔘 разработан порядок взаимодействия операторов связи с оператором по переводу денежных средств.\n\nКакие изменения могут повлиять на бизнес, и на что стоит обратить внимание компаниям — читайте по ссылке 👉\n\n🏢 Подписаться на рассылки | MAX | Приложение PG",
+      "text_html": "💻 Телекоммуникации, медиа, ИТ, персональные данные: дайджест<br><br>В обзоре собрали принятые акты, ключевые законодательные инициативы, регуляторные тренды, судебную практику и события отрасли.<br><br>Главные новости:<br><br>🔘 Совет Федерации одобрил закон о поддержке «Почты России»; <br><br>🔘 предложены критерии определения «мошеннических» номеров; <br><br>🔘 разработан порядок взаимодействия операторов связи с оператором по переводу денежных средств.<br><br>Какие изменения могут повлиять на бизнес, и на что стоит обратить внимание компаниям — <a href=\"https://www.pgplaw.ru/analytics-and-brochures/telecom-digest/telecom-digest-23-07-26/\" target=\"_blank\" rel=\"noopener noreferrer\">читайте по ссылке</a> 👉<br><br>🏢 <a href=\"https://www.pgplaw.ru/subscribe/\" target=\"_blank\" rel=\"noopener noreferrer\">Подписаться на рассылки |</a> <a href=\"https://max.ru/id7707301372_biz\" target=\"_blank\" rel=\"noopener noreferrer\">MAX |</a> <a href=\"https://t.me/pgp_official/1769\" target=\"_blank\" rel=\"noopener noreferrer\">Приложение PG</a>",
+      "views": 913,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1947-1-05024356c91b-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1947-1-05024356c91b-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/pgp_official/1947",
+      "forwarded_from": null
+    },
     {
       "id": 1946,
       "date": "2026-07-23T10:02:01+00:00",
@@ -17,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1946-1-069d7d5f66fb-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1946-1-069d7d5f66fb-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1946-1-98e5a32a6eec-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1946-1-98e5a32a6eec-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,28 +53,28 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1940-1-02725f25d093-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1940-1-02725f25d093-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1940-1-b2a60efb8545-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1940-1-b2a60efb8545-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1940-2-47f3f11bf1d9-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1940-2-47f3f11bf1d9-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1940-2-ed5796fdee0a-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1940-2-ed5796fdee0a-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1940-3-293d5710a7a3-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1940-3-293d5710a7a3-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1940-3-a19aee4d73a3-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1940-3-a19aee4d73a3-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1940-4-271e2c17980c-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1940-4-271e2c17980c-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1940-4-68bd3d866d2f-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1940-4-68bd3d866d2f-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1940-5-2780c879a4b9-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1940-5-2780c879a4b9-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1940-5-b28b17c1f8f3-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1940-5-b28b17c1f8f3-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1940-6-34907113a4fd-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1940-6-34907113a4fd-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1940-6-1f4285d07f31-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1940-6-1f4285d07f31-v4.jpg"
         }
       ],
       "video_url": null,
@@ -68,25 +86,25 @@
       "date": "2026-07-21T13:03:03+00:00",
       "text": "⭐️Добились признания недействительными торгов по выбору управляющей компании \n\nБизнес клиента по управлению многоквартирными домами оказался под угрозой: местная управа без должных оснований провела конкурс, по итогам которого дома должны были перейти конкурирующей организации.\n\n▫️Команда практики банкротства и антикризисной защиты бизнеса «Пепеляев Групп» оспорила торги и заключенные с конкурентом договоры. В результате клиент сохранил свой бизнес, а жители вернули управляющую компанию, которую сами выбирали за качество ее работы.\n\n📎Как юристам удалось доказать незаконность конкурса и почему решение суда жители встретили аплодисментами – рассказываем в карточках и на сайте. \n\n#pg_победы\n#Наши_победы",
       "text_html": "⭐️Добились признания недействительными торгов по выбору управляющей компании <br><br>Бизнес клиента по управлению многоквартирными домами оказался под угрозой: местная управа без должных оснований провела конкурс, по итогам которого дома должны были перейти конкурирующей организации.<br><br>▫️Команда практики банкротства и антикризисной защиты бизнеса «Пепеляев Групп» оспорила торги и заключенные с конкурентом договоры. В результате клиент сохранил свой бизнес, а жители вернули управляющую компанию, которую сами выбирали за качество ее работы.<br><br>📎Как юристам удалось доказать незаконность конкурса и почему решение суда жители встретили аплодисментами – рассказываем в карточках и <a href=\"https://www.pgplaw.ru/our-experience/252475/\" target=\"_blank\" rel=\"noopener noreferrer\">на сайте.</a> <br><br>#pg_победы<br>#Наши_победы",
-      "views": 669,
+      "views": 670,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1936-1-452e54101768-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1936-1-452e54101768-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1936-1-cb7c81606b7e-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1936-1-cb7c81606b7e-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1936-2-003e08366179-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1936-2-003e08366179-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1936-2-cee28d53ead5-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1936-2-cee28d53ead5-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1936-3-e8728af2a0f7-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1936-3-e8728af2a0f7-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1936-3-ad486a88acbe-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1936-3-ad486a88acbe-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1936-4-168cb963aa7a-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1936-4-168cb963aa7a-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1936-4-3725b1f20e52-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1936-4-3725b1f20e52-v4.jpg"
         }
       ],
       "video_url": null,
@@ -103,13 +121,13 @@
       "date": "2026-07-21T07:32:15+00:00",
       "text": "🔥Что нового в антимонопольном регулировании и практике\n\nЛето не снижает темп антимонопольной повестки: ФАС усиливает внимание к цифровым платформам, цепочкам дистрибуции и ценообразованию, законодатели готовят новые правила для маркетплейсов и иностранных инвестиций, а суды формируют подходы, которые напрямую влияют на рекламные механики и взаимодействие компаний с партнерами.\n\nЧтобы ориентироваться в изменениях и своевременно оценивать возникающие риски, читайте новый дайджест антимонопольных новостей. В нем собраны ключевые события, законодательные инициативы и практические выводы за период с 1 июня по 12 июля 2026 года.\n\n📌 В новом выпуске:\n\n🔸  как выстроить контроль за дистрибьюторами и снизить риски квалификации вертикальных соглашений;\n\n🔸  чем отличаются антимонопольные требования в России и Китае и что учитывать компаниям при выходе на китайский рынок;\n\n🔸 какие изменения готовятся в правилах пересмотра решений ФАС, контроле иностранных инвестиций в ИТ-сектор и регулировании маркетплейсов;\n\n🔸 какие выводы для бизнеса следуют из свежей практики Верховного Суда по рекламным рассылкам.\n\n©️Читать дайджест полностью\n\n➖➖\n✉️ При возникновении вопросов по новому регулированию или правоприменительной практике обращайтесь к Илье Тюленеву, руководителю антимонопольной практики «Пепеляев Групп».",
       "text_html": "🔥Что нового в антимонопольном регулировании и практике<br><br>Лето не снижает темп антимонопольной повестки: ФАС усиливает внимание к цифровым платформам, цепочкам дистрибуции и ценообразованию, законодатели готовят новые правила для маркетплейсов и иностранных инвестиций, а суды формируют подходы, которые напрямую влияют на рекламные механики и взаимодействие компаний с партнерами.<br><br>Чтобы ориентироваться в изменениях и своевременно оценивать возникающие риски, читайте новый дайджест антимонопольных новостей. В нем собраны ключевые события, законодательные инициативы и практические выводы за период с 1 июня по 12 июля 2026 года.<br><br>📌 В новом выпуске:<br><br>🔸  как выстроить контроль за дистрибьюторами и снизить риски квалификации вертикальных соглашений;<br><br>🔸  чем отличаются антимонопольные требования в России и Китае и что учитывать компаниям при выходе на китайский рынок;<br><br>🔸 какие изменения готовятся в правилах пересмотра решений ФАС, контроле иностранных инвестиций в ИТ-сектор и регулировании маркетплейсов;<br><br>🔸 какие выводы для бизнеса следуют из свежей практики Верховного Суда по рекламным рассылкам.<br><br>©️<a href=\"https://www.pgplaw.ru/analytics-and-brochures/antitrust-reviews/antitrust-digest-26-07-20/\" target=\"_blank\" rel=\"noopener noreferrer\">Читать дайджест полностью</a><br><br>➖➖<br>✉️ При возникновении вопросов по новому регулированию или правоприменительной практике обращайтесь к <a href=\"https://www.pgplaw.ru/to-get-the-team/tiulenev/\" target=\"_blank\" rel=\"noopener noreferrer\">Илье Тюленеву</a>, руководителю антимонопольной практики «Пепеляев Групп».",
-      "views": 652,
+      "views": 653,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1935-1-c8bb7c8f5f3c-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1935-1-c8bb7c8f5f3c-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1935-1-f3f90a57f564-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1935-1-f3f90a57f564-v4.jpg"
         }
       ],
       "video_url": null,
@@ -131,24 +149,24 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1930-1-45d0a401be50-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1930-1-45d0a401be50-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1930-1-fc08628a5674-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1930-1-fc08628a5674-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1930-2-ad9edfb3a4c5-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1930-2-ad9edfb3a4c5-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1930-2-ab3fcea0c144-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1930-2-ab3fcea0c144-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1930-3-c3fe3dcc9f3a-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1930-3-c3fe3dcc9f3a-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1930-3-4a455e810146-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1930-3-4a455e810146-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1930-4-4167d37844cf-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1930-4-4167d37844cf-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1930-4-255b5db03060-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1930-4-255b5db03060-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1930-5-bb7a73d67e8c-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1930-5-bb7a73d67e8c-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1930-5-cf3ea69182d1-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1930-5-cf3ea69182d1-v4.jpg"
         }
       ],
       "video_url": null,
@@ -165,8 +183,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1929-1-7ab0355cbb56-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1929-1-7ab0355cbb56-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1929-1-5034dc1c6efe-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1929-1-5034dc1c6efe-v4.jpg"
         }
       ],
       "video_url": null,
@@ -183,8 +201,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1928-1-34336be98f76-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1928-1-34336be98f76-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1928-1-089d38970c28-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1928-1-089d38970c28-v4.jpg"
         }
       ],
       "video_url": null,
@@ -201,8 +219,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1927-1-c9131b86f9f8-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1927-1-c9131b86f9f8-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1927-1-33c8592f2dda-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1927-1-33c8592f2dda-v4.jpg"
         }
       ],
       "video_url": null,
@@ -219,8 +237,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1926-1-11c2afba5cab-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1926-1-11c2afba5cab-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1926-1-089a824ce413-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1926-1-089a824ce413-v4.jpg"
         }
       ],
       "video_url": null,

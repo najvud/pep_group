@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-10-14T12:30:19.933209+00:00",
+  "generated_at": "2026-10-14T17:32:57.248566+00:00",
   "pagination": {
     "page": 8,
     "page_size": 16,
-    "total_posts": 165,
+    "total_posts": 166,
     "total_pages": 11
   },
   "posts": [
+    {
+      "id": 2850,
+      "date": "2026-08-14T10:04:50+00:00",
+      "text": "🏛 Заседание рабочей группы ТПП РФ \n\n25 августа в ТПП России обсудим изменения налогового регулирования и их влияние на бизнес.\n\nКлючевые темы заседания:\n\n🔴 Информационные письма ФНС России в связи с выявлением площадки по «бумажному» НДС. Снятие вычетов по субпоставщикам по формальному признаку без предоставления аргументации.\n\n🔴 Работа с физическими лицами: риски бизнеса при обелении рынка аутстаффинга и переквалификации отношений с самозанятыми.\n\n🔴 Новая редакция ст. 168 НК РФ (в ред. ФЗ от 04.08.2026 г. № 293-ФЗ): исчисление налога при изменении ставки НДС.\n\n➖➖\n\n🏢 Среди спикеров ПГ: старший партнер «Пепеляев Групп» Сергей Савсерис, партнер Леонид Кравчинский, советник Пётр Попов, ведущий юрист Константин Сасов.\n\nВ обсуждении примут участие представители бизнеса и юридического сообщества, к обсуждению приглашена ФНС России.\n\n🔴Дата и время: 25 августа 2026 года, в 14:00",
+      "text_html": "🏛 Заседание рабочей группы ТПП РФ <br><br>25 августа в ТПП России обсудим изменения налогового регулирования и их влияние на бизнес.<br><br>Ключевые темы заседания:<br><br>🔴 Информационные письма ФНС России в связи с выявлением площадки по «бумажному» НДС. Снятие вычетов по субпоставщикам по формальному признаку без предоставления аргументации.<br><br>🔴 Работа с физическими лицами: риски бизнеса при обелении рынка аутстаффинга и переквалификации отношений с самозанятыми.<br><br>🔴 Новая редакция ст. 168 НК РФ (в ред. ФЗ от 04.08.2026 г. № 293-ФЗ): исчисление налога при изменении ставки НДС.<br><br>➖➖<br><br>🏢 Среди спикеров ПГ: старший партнер «Пепеляев Групп» Сергей Савсерис, партнер Леонид Кравчинский, советник Пётр Попов, ведущий юрист Константин Сасов.<br><br>В обсуждении примут участие представители бизнеса и юридического сообщества, к обсуждению приглашена ФНС России.<br><br>🔴Дата и время: 25 августа 2026 года, в 14:00",
+      "views": 1150,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2850-1-5ef7af21c421-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2850-1-5ef7af21c421-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/PG_Tax/2850",
+      "forwarded_from": null
+    },
     {
       "id": 2849,
       "date": "2026-08-14T07:49:24+00:00",
@@ -17,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2849-1-aebd7534d169-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2849-1-aebd7534d169-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2849-1-4a0c0d018bf5-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2849-1-4a0c0d018bf5-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +53,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2848-1-690a9c73bc15-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2848-1-690a9c73bc15-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2848-1-4abbf31e4da0-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2848-1-4abbf31e4da0-v4.jpg"
         }
       ],
       "video_url": null,
@@ -53,8 +71,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2847-1-6cdaf562fcb5-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2847-1-6cdaf562fcb5-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2847-1-a45635ee213a-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2847-1-a45635ee213a-v4.jpg"
         }
       ],
       "video_url": null,
@@ -71,8 +89,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2846-1-eac563c511de-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2846-1-eac563c511de-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2846-1-f3a4f8a28937-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2846-1-f3a4f8a28937-v4.jpg"
         }
       ],
       "video_url": null,
@@ -89,8 +107,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2845-1-316569bb9927-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2845-1-316569bb9927-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2845-1-db4bcd55d202-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2845-1-db4bcd55d202-v4.jpg"
         }
       ],
       "video_url": null,
@@ -107,8 +125,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2844-1-bf25cbe5f9ce-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2844-1-bf25cbe5f9ce-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2844-1-120785796735-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2844-1-120785796735-v4.jpg"
         }
       ],
       "video_url": null,
@@ -125,8 +143,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2843-1-944d9fa456d6-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2843-1-944d9fa456d6-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2843-1-bd508d9121d9-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2843-1-bd508d9121d9-v4.jpg"
         }
       ],
       "video_url": null,
@@ -148,8 +166,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2842-1-3fc14cd545a0-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2842-1-3fc14cd545a0-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2842-1-2cde64730032-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2842-1-2cde64730032-v4.jpg"
         }
       ],
       "video_url": null,
@@ -166,12 +184,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2840-1-73f26634597f-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2840-1-73f26634597f-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2840-1-63e687e6d4f4-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2840-1-63e687e6d4f4-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2840-2-4950ae33054c-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2840-2-4950ae33054c-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2840-2-fecbef3bfd0a-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2840-2-fecbef3bfd0a-v4.jpg"
         }
       ],
       "video_url": null,
@@ -188,13 +206,13 @@
       "date": "2026-08-10T11:10:03+00:00",
       "text": "📢 Новости региональных УФНС\n\nНа сайте \"Налоговеда\" опубликован обзор новостей региональных УФНС за июль.\n\nВ фокусе внимания Управлений службы:\n     🔴вопросы уплаты НДФЛ и применения вычетов по налогу,\n     🔴взыскание налоговой задолженности,\n     🔴соблюдение валютного законодательства,\n     🔴обновление данных реестра МСП,\n     🔴итоги судебно-правовой работы за первое полугодие 2026.\n\n#обзор_новостей_УФНС\n\n➖➖\n💡 Индивидуальные обзоры изменений налогового законодательства и практики с учётом специфики Вашего бизнеса — оформить здесь 👉",
       "text_html": "📢 Новости региональных УФНС<br><br>На сайте \"Налоговеда\" опубликован <a href=\"https://nalogoved.ru/docs/16769.html\" target=\"_blank\" rel=\"noopener noreferrer\">обзор</a> новостей региональных УФНС за июль.<br><br>В фокусе внимания Управлений службы:<br>     🔴вопросы уплаты НДФЛ и применения вычетов по налогу,<br>     🔴взыскание налоговой задолженности,<br>     🔴соблюдение валютного законодательства,<br>     🔴обновление данных реестра МСП,<br>     🔴итоги судебно-правовой работы за первое полугодие 2026.<br><br>#обзор_новостей_УФНС<br><br>➖➖<br>💡 Индивидуальные обзоры изменений налогового законодательства и практики с учётом специфики Вашего бизнеса — <a href=\"https://www.pgplaw.ru/practice-and-industry/practices/obzory-zakonodatelstva-i-praktiki/\" target=\"_blank\" rel=\"noopener noreferrer\">оформить здесь</a> 👉",
-      "views": 885,
+      "views": 886,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2839-1-734910ce5b0d-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2839-1-734910ce5b0d-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2839-1-ba5dc14fa6dc-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2839-1-ba5dc14fa6dc-v4.jpg"
         }
       ],
       "video_url": null,
@@ -211,8 +229,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2838-1-f5f28a306286-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2838-1-f5f28a306286-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2838-1-0924dda42766-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2838-1-0924dda42766-v4.jpg"
         }
       ],
       "video_url": null,
@@ -229,8 +247,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2837-1-cb4ed1c61891-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2837-1-cb4ed1c61891-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2837-1-f08b9a70acab-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2837-1-f08b9a70acab-v4.jpg"
         }
       ],
       "video_url": null,
@@ -247,8 +265,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2836-1-d1f6d0b13e13-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2836-1-d1f6d0b13e13-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2836-1-f11ddda1691b-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2836-1-f11ddda1691b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -265,8 +283,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2835-1-3ee4b6fd46f2-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2835-1-3ee4b6fd46f2-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2835-1-19187a79b4d5-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2835-1-19187a79b4d5-v4.jpg"
         }
       ],
       "video_url": null,
@@ -283,25 +301,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2834-1-14763e7d2e87-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2834-1-14763e7d2e87-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2834-1-ed05d0554c0c-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2834-1-ed05d0554c0c-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/PG_Tax/2834",
-      "forwarded_from": null
-    },
-    {
-      "id": 2833,
-      "date": "2026-08-05T10:59:41+00:00",
-      "text": "РЕФОРМА БАНКРОТСТВА ЗАПУЩЕНА ❗️❗️  Практика банкротства и антикризисной защиты бизнеса сообщает об основных изменениях, внесенных в Закон о банкротстве Федеральным законом от 26.07.2026 № 253-ФЗ.  ✍️ Перестроена система саморегулирования арбитражных управляющих…",
-      "text_html": "РЕФОРМА БАНКРОТСТВА ЗАПУЩЕНА ❗️❗️  Практика банкротства и антикризисной защиты бизнеса сообщает об основных изменениях, внесенных в Закон о банкротстве Федеральным законом от 26.07.2026 № 253-ФЗ.  ✍️ Перестроена система саморегулирования арбитражных управляющих…",
-      "views": 1000,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2833",
       "forwarded_from": null
     }
   ]
