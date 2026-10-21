@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T23:31:19.206866+00:00",
+  "generated_at": "2026-10-21T07:08:07.288939+00:00",
   "pagination": {
     "page": 9,
     "page_size": 16,
@@ -17,8 +17,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2846-1-4b663f69f449-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2846-1-4b663f69f449-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2846-1-2b39efcbccd7-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2846-1-2b39efcbccd7-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2845-1-a301c4a56f22-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2845-1-a301c4a56f22-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2845-1-a74c43662ad0-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2845-1-a74c43662ad0-v4.jpg"
         }
       ],
       "video_url": null,
@@ -48,13 +48,13 @@
       "date": "2026-08-11T13:33:26+00:00",
       "text": "📚 Обновления сайта журнала «Налоговед» в июле\n\nОбращаем внимание на обновленную в июле информацию на сайте журнала «Налоговед» (по рубрикам):\n \n📎 КС РФ о налогах - коротко о постановлениях и определениях Суда, размещенных в указанный период\n\n📎 Обзор новостей УФНС – самые интересные новости региональных управлений (июль 2026 г.)\n\n📎 Диссертации – информация о назначенных к защите работах по специальности 5.1.2. Публично-правовые (государственно-правовые) науки\n\n#обновление_сайта_Налоговед",
       "text_html": "📚 Обновления сайта журнала «Налоговед» в июле<br><br>Обращаем внимание на обновленную в июле информацию на сайте журнала «<a href=\"https://nalogoved.ru/\" target=\"_blank\" rel=\"noopener noreferrer\">Налоговед</a>» (по рубрикам):<br> <br>📎 КС РФ о налогах - <a href=\"https://nalogoved.ru/ks-rf-o/\" target=\"_blank\" rel=\"noopener noreferrer\">коротко</a> о постановлениях и определениях Суда, размещенных в указанный период<br><br>📎 Обзор новостей УФНС – самые интересные новости региональных управлений (<a href=\"https://nalogoved.ru/docs/16769.html\" target=\"_blank\" rel=\"noopener noreferrer\">июль 2026 г.</a>)<br><br>📎 Диссертации – <a href=\"https://nalogoved.ru/dissertatsii/\" target=\"_blank\" rel=\"noopener noreferrer\">информация</a> о назначенных к защите работах по специальности 5.1.2. Публично-правовые (государственно-правовые) науки<br><br>#обновление_сайта_Налоговед",
-      "views": 995,
+      "views": 996,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2844-1-7187c651bd92-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2844-1-7187c651bd92-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2844-1-5935946c7de2-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2844-1-5935946c7de2-v4.jpg"
         }
       ],
       "video_url": null,
@@ -66,13 +66,13 @@
       "date": "2026-08-11T11:00:42+00:00",
       "text": "❗️ФАС МО 24.07.2026 по делу А40-31259/2025 поддержал исключение ПО из реестра российского ПО, поскольку в его составе были выявлены иностранные компоненты, принадлежащие ушедшей из России компании.\n\nПоводом исключения из реестра послужило обращение в Минцифры от ФСБ, которая основывалась на следующем:\n\n1️⃣спорное ПО представляет собой набор модулей, созданных на основе иностранного свободно распространяемого ПО;\n\n2️⃣компоненты, на которых построены все подсистемы и само ядро спорного ПО, управляются и обновляются иностранными лицами;\n\n3️⃣возможен ущерб национальных интересов, так как в спорном ПО «консолидированы сведения обо всех важных объектах социального обеспечения и экономической жизни регионов».\n\n⚖️ Суд исходил из того, что после прекращения американской компанией продаж и обслуживания в России компонентов спорного ПО, наличие таких компонентов означает ограничения, препятствующие распространению ПО согласно правилам формирования и ведения реестра ПО.\n\n🎙 Правообладатель ссылался на то, что впоследствии он исключил спорные компоненты, а сведения о доработанном ПО были повторно включены в реестр.\n\n⚖️ Однако суд не принял аргумент о последующем включении ПО в реестр ввиду следующего:\n\n🔴на момент рассмотрения дела в суде экземпляр ПО, предоставленный правообладателем для экспертизы, оказался недоступен;\n\n🔴правообладатель не представил доказательств отсутствия в ПО ограничений.\n\n📣 Таким образом, ПО с иностранными компонентами может быть исключено из реестра российского ПО. \n\nИ даже если компании удастся зарегистрировать в реестре модифицированную версию, соответствующую всем требованиям законодательства, это не освобождает компанию от рисков. Например, если правообладатель заключил длящиеся доходные договоры, условием которых является наличие первоначального ПО в реестре, или компания применяла освобождение от НДС в соответствующих налоговых периодах.\n➖➖➖➖➖\n📧 В случае возникновения вопросов, связанных с правовыми последствиями / рисками исключения ПО из реестра российского ПО, партнер «Пепеляев Групп» Наталья Коваленко (N.Kovalenko@pgplaw.ru) готова на них ответить.",
       "text_html": "❗️<a href=\"https://www.consultant.ru/cons/cgi/online.cgi?req=doc&amp;amp;base=AMS&amp;amp;n=589878#Qg1jtRVsDFToAwRH2\" target=\"_blank\" rel=\"noopener noreferrer\">ФАС МО 24.07.2026 по делу А40-31259/2025</a> поддержал исключение ПО из реестра российского ПО, поскольку в его составе были выявлены иностранные компоненты, принадлежащие ушедшей из России компании.<br><br>Поводом исключения из реестра послужило обращение в Минцифры от ФСБ, которая основывалась на следующем:<br><br>1️⃣спорное ПО представляет собой набор модулей, созданных на основе иностранного свободно распространяемого ПО;<br><br>2️⃣компоненты, на которых построены все подсистемы и само ядро спорного ПО, управляются и обновляются иностранными лицами;<br><br>3️⃣возможен ущерб национальных интересов, так как в спорном ПО «консолидированы сведения обо всех важных объектах социального обеспечения и экономической жизни регионов».<br><br>⚖️ Суд исходил из того, что после прекращения американской компанией продаж и обслуживания в России компонентов спорного ПО, наличие таких компонентов означает ограничения, препятствующие распространению ПО согласно <a href=\"http://pravo.gov.ru/proxy/ips/?docbody=&amp;amp;link_id=0&amp;amp;nd=102382688&amp;amp;intelsearch=&amp;amp;firstDoc=1\" target=\"_blank\" rel=\"noopener noreferrer\">правилам</a> формирования и ведения реестра ПО.<br><br>🎙 Правообладатель ссылался на то, что впоследствии он исключил спорные компоненты, а сведения о доработанном ПО были повторно включены в реестр.<br><br>⚖️ Однако суд не принял аргумент о последующем включении ПО в реестр ввиду следующего:<br><br>🔴на момент рассмотрения дела в суде экземпляр ПО, предоставленный правообладателем для экспертизы, оказался недоступен;<br><br>🔴правообладатель не представил доказательств отсутствия в ПО ограничений.<br><br>📣 Таким образом, ПО с иностранными компонентами может быть исключено из реестра российского ПО. <br><br>И даже если компании удастся зарегистрировать в реестре модифицированную версию, соответствующую всем требованиям законодательства, это не освобождает компанию от рисков. Например, если правообладатель заключил длящиеся доходные договоры, условием которых является наличие первоначального ПО в реестре, или компания применяла освобождение от НДС в соответствующих налоговых периодах.<br>➖➖➖➖➖<br>📧 В случае возникновения вопросов, связанных с правовыми последствиями / рисками исключения ПО из реестра российского ПО, партнер «Пепеляев Групп» <a href=\"https://www.pgplaw.ru/to-get-the-team/natalya-ivashchenko/\" target=\"_blank\" rel=\"noopener noreferrer\">Наталья Коваленко</a> (N.Kovalenko@pgplaw.ru) готова на них ответить.",
-      "views": 831,
+      "views": 832,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2843-1-bcc9b49bcfd7-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2843-1-bcc9b49bcfd7-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2843-1-3e69b28bf64d-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2843-1-3e69b28bf64d-v4.jpg"
         }
       ],
       "video_url": null,
@@ -94,8 +94,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2842-1-c643c1a6b413-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2842-1-c643c1a6b413-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2842-1-964a836da393-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2842-1-964a836da393-v4.jpg"
         }
       ],
       "video_url": null,
@@ -112,12 +112,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2840-1-a50fbd2835f4-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2840-1-a50fbd2835f4-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2840-1-213e52972b60-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2840-1-213e52972b60-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2840-2-e88987a87e4a-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2840-2-e88987a87e4a-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2840-2-f80c4eddb955-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2840-2-f80c4eddb955-v4.jpg"
         }
       ],
       "video_url": null,
@@ -139,8 +139,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2839-1-6ee861ef580d-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2839-1-6ee861ef580d-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2839-1-3fad84f877d9-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2839-1-3fad84f877d9-v4.jpg"
         }
       ],
       "video_url": null,
@@ -157,8 +157,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2838-1-8bbc9c47c8f2-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2838-1-8bbc9c47c8f2-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2838-1-89d30569eb45-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2838-1-89d30569eb45-v4.jpg"
         }
       ],
       "video_url": null,
@@ -175,8 +175,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2837-1-a51bb0477c23-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2837-1-a51bb0477c23-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2837-1-5f4757786407-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2837-1-5f4757786407-v4.jpg"
         }
       ],
       "video_url": null,
@@ -193,8 +193,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2836-1-752e513bb638-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2836-1-752e513bb638-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2836-1-d057916ee6f9-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2836-1-d057916ee6f9-v4.jpg"
         }
       ],
       "video_url": null,
@@ -211,8 +211,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2835-1-e6d5559b2fbe-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2835-1-e6d5559b2fbe-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2835-1-19d9edbdf98f-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2835-1-19d9edbdf98f-v4.jpg"
         }
       ],
       "video_url": null,
@@ -229,8 +229,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2834-1-9c8dd3b7f6d1-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2834-1-9c8dd3b7f6d1-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2834-1-e14340ca9adb-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2834-1-e14340ca9adb-v4.jpg"
         }
       ],
       "video_url": null,
@@ -260,8 +260,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2832-1-b045c04f1c91-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2832-1-b045c04f1c91-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2832-1-c2d96dcc6122-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2832-1-c2d96dcc6122-v4.jpg"
         }
       ],
       "video_url": null,
@@ -278,8 +278,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2831-1-1564c8d8019c-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2831-1-1564c8d8019c-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2831-1-896521d9b5ce-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2831-1-896521d9b5ce-v4.jpg"
         }
       ],
       "video_url": null,
@@ -301,8 +301,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2830-1-4de69bcae9ab-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2830-1-4de69bcae9ab-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2830-1-9ff2f2cd545d-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2830-1-9ff2f2cd545d-v4.jpg"
         }
       ],
       "video_url": null,
