@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T18:14:44.339246+00:00",
+  "generated_at": "2026-10-22T21:41:26.451915+00:00",
   "pagination": {
     "page": 2,
     "page_size": 16,
@@ -17,8 +17,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/2020-1-75f2f9ce8c1a-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/2020-1-75f2f9ce8c1a-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/2020-1-97f78f20ad10-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/2020-1-97f78f20ad10-v4.jpg"
         }
       ],
       "video_url": null,
@@ -39,8 +39,8 @@
           "full_url": "data/channels/pgp-official/media/posts/2018-1-e827c66c4755-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/2018-2-75e236e163b0-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/2018-2-75e236e163b0-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/2018-2-b53f266ef9c4-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/2018-2-b53f266ef9c4-v4.jpg"
         }
       ],
       "video_url": null,
@@ -57,8 +57,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/2017-1-fbb18952f062-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/2017-1-fbb18952f062-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/2017-1-b86bfc99db07-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/2017-1-b86bfc99db07-v4.jpg"
         }
       ],
       "video_url": null,
@@ -93,8 +93,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/2015-1-517ebf02cfa0-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/2015-1-517ebf02cfa0-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/2015-1-0a37427a0d3f-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/2015-1-0a37427a0d3f-v4.jpg"
         }
       ],
       "video_url": null,
@@ -119,16 +119,17 @@
           "full_url": "data/channels/pgp-official/media/posts/2012-2-aa930806a304-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/2012-3-3149f07b5c36-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/2012-3-3149f07b5c36-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/2012-3-9c8d7ea089c6-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/2012-3-9c8d7ea089c6-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/pgp_official/2012",
       "forwarded_from": {
-        "source_url": "https://t.me/pgp_official/2012?single",
-        "channel_url": "https://t.me/s/pgp_official",
-        "channel_username": "pgp_official"
+        "source_url": "https://t.me/PG_Tax/2932",
+        "channel_url": "https://t.me/s/PG_Tax",
+        "channel_username": "PG_Tax",
+        "channel_title": "PG Tax | Налоги"
       }
     },
     {
@@ -181,8 +182,8 @@
           "full_url": "data/channels/pgp-official/media/posts/2008-1-43816715b83d-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/2008-2-b519e31e6db2-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/2008-2-b519e31e6db2-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/2008-2-467887d853c5-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/2008-2-467887d853c5-v4.jpg"
         }
       ],
       "video_url": null,
@@ -199,8 +200,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/2007-1-dde9d68fe41c-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/2007-1-dde9d68fe41c-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/2007-1-2a8686d06c62-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/2007-1-2a8686d06c62-v4.jpg"
         }
       ],
       "video_url": null,
@@ -224,9 +225,10 @@
       "video_url": null,
       "tg_url": "https://t.me/pgp_official/2006",
       "forwarded_from": {
-        "source_url": "https://t.me/pgp_official/2006",
-        "channel_url": "https://t.me/s/pgp_official",
-        "channel_username": "pgp_official"
+        "source_url": "https://t.me/PgAntitrust/1469",
+        "channel_url": "https://t.me/s/PgAntitrust",
+        "channel_username": "PgAntitrust",
+        "channel_title": "PG Antitrust | Антимонопольное право"
       }
     },
     {
@@ -239,8 +241,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/2005-1-521e672db967-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/2005-1-521e672db967-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/2005-1-d2b437af727a-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/2005-1-d2b437af727a-v4.jpg"
         }
       ],
       "video_url": null,
@@ -264,9 +266,10 @@
       "video_url": null,
       "tg_url": "https://t.me/pgp_official/2004",
       "forwarded_from": {
-        "source_url": "https://t.me/pgp_official/2004",
-        "channel_url": "https://t.me/s/pgp_official",
-        "channel_username": "pgp_official"
+        "source_url": "https://t.me/PG_Tax/2913",
+        "channel_url": "https://t.me/s/PG_Tax",
+        "channel_username": "PG_Tax",
+        "channel_title": "PG Tax | Налоги"
       }
     },
     {
@@ -279,8 +282,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/2002-1-b58abac7a2a6-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/2002-1-b58abac7a2a6-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/2002-1-33c455a7072b-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/2002-1-33c455a7072b-v4.jpg"
         },
         {
           "thumb_url": "data/channels/pgp-official/media/posts/thumbs/2002-2-2c17013b88a6-v4.jpg",
@@ -301,8 +304,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/2001-1-e19adcff9624-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/2001-1-e19adcff9624-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/2001-1-766933442198-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/2001-1-766933442198-v4.jpg"
         }
       ],
       "video_url": null,
