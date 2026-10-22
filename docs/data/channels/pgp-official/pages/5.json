@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-22T02:55:38.416546+00:00",
+  "generated_at": "2026-10-22T08:18:38.331546+00:00",
   "pagination": {
     "page": 5,
     "page_size": 16,
-    "total_posts": 70,
+    "total_posts": 69,
     "total_pages": 5
   },
   "posts": [
@@ -17,8 +17,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1951-1-8cb47be47d88-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1951-1-8cb47be47d88-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1951-1-3fbdfad3d139-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1951-1-3fbdfad3d139-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1950-1-cebfbb3c4c36-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1950-1-cebfbb3c4c36-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1950-1-9da7f1c82134-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1950-1-9da7f1c82134-v4.jpg"
         }
       ],
       "video_url": null,
@@ -58,12 +58,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1948-1-f5b5677920a5-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1948-1-f5b5677920a5-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1948-1-a30870513cce-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1948-1-a30870513cce-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1948-2-f292da5c9c18-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1948-2-f292da5c9c18-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1948-2-05aaa1558d7c-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1948-2-05aaa1558d7c-v4.jpg"
         }
       ],
       "video_url": null,
@@ -80,8 +80,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1947-1-9681978eafa7-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1947-1-9681978eafa7-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1947-1-4853307480e2-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1947-1-4853307480e2-v4.jpg"
         }
       ],
       "video_url": null,
@@ -98,50 +98,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1946-1-11ec1fab4e58-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1946-1-11ec1fab4e58-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1946-1-c431faa0ac24-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1946-1-c431faa0ac24-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/pgp_official/1946",
-      "forwarded_from": null
-    },
-    {
-      "id": 1940,
-      "date": "2026-07-22T07:13:08+00:00",
-      "text": "🚀Автомобильные грузоперевозки по-новому: что изменится с 1 сентября\n \n🔘С 1 сентября 2026 г. транспортные накладные, заявки грузоотправителей, экспедиторские документы, сопроводительные ведомости и путевые листы должны будут оформляться в электронном виде и передаваться в ГИС ЭПД через операторов ЭДО.\n \nНо переход затронет не только документооборот. Компаниям предстоит определить, кто формирует и подписывает ЭТРН, уточнить роли экспедиторов, складов и грузополучателей, оформить электронные подписи и машиночитаемые доверенности, а также проверить готовность всей цепочки контрагентов.\n \n❌Готовности одной компании недостаточно: если к новому порядку не готовы перевозчик, экспедитор, склад или грузополучатель, надлежащее оформление и приемка груза могут оказаться невозможными.\n \nРазбираем ключевые изменения и практические шаги в карточках☝️\n\n👉  Подробный обзор изменений на сайте",
-      "text_html": "🚀Автомобильные грузоперевозки по-новому: что изменится с 1 сентября<br> <br>🔘С 1 сентября 2026 г. транспортные накладные, заявки грузоотправителей, экспедиторские документы, сопроводительные ведомости и путевые листы должны будут оформляться в электронном виде и передаваться в ГИС ЭПД через операторов ЭДО.<br> <br>Но переход затронет не только документооборот. Компаниям предстоит определить, кто формирует и подписывает ЭТРН, уточнить роли экспедиторов, складов и грузополучателей, оформить электронные подписи и машиночитаемые доверенности, а также проверить готовность всей цепочки контрагентов.<br> <br>❌Готовности одной компании недостаточно: если к новому порядку не готовы перевозчик, экспедитор, склад или грузополучатель, надлежащее оформление и приемка груза могут оказаться невозможными.<br> <br>Разбираем ключевые изменения и практические шаги в карточках☝️<br><br>👉  <a href=\"https://www.pgplaw.ru/analytics-and-brochures/alerts/avtomobilnye-gruzoperevozki-s-1-sentyabrya-2026-goda-novye-trebovaniya-i-prakticheskie-vyvody/\" target=\"_blank\" rel=\"noopener noreferrer\">Подробный обзор изменений на сайте</a>",
-      "views": 1720,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1940-1-1d48daa27308-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1940-1-1d48daa27308-v4.jpg"
-        },
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1940-2-d1a835cd2b67-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1940-2-d1a835cd2b67-v4.jpg"
-        },
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1940-3-61a87943b71d-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1940-3-61a87943b71d-v4.jpg"
-        },
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1940-4-b413216c1a19-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1940-4-b413216c1a19-v4.jpg"
-        },
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1940-5-91514bdeddb6-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1940-5-91514bdeddb6-v4.jpg"
-        },
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1940-6-51ce1890cb09-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1940-6-51ce1890cb09-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/pgp_official/1940",
       "forwarded_from": null
     }
   ]
