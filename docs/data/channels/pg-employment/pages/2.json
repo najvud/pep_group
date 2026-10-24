@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T21:42:11.001170+00:00",
+  "generated_at": "2026-10-24T00:01:53.908725+00:00",
   "pagination": {
     "page": 2,
     "page_size": 16,
@@ -141,9 +141,10 @@
       "video_url": null,
       "tg_url": "https://t.me/pgEmployment/1996",
       "forwarded_from": {
-        "source_url": "https://t.me/pgEmployment/1996",
-        "channel_url": "https://t.me/s/pgEmployment",
-        "channel_username": "pgEmployment"
+        "source_url": "https://t.me/PG_Tax/2765",
+        "channel_url": "https://t.me/s/PG_Tax",
+        "channel_username": "PG_Tax",
+        "channel_title": "PG Tax | Налоги"
       }
     }
   ]
