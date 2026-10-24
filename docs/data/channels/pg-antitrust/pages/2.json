@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T04:25:05.825088+00:00",
+  "generated_at": "2026-10-24T09:00:10.201774+00:00",
   "pagination": {
     "page": 2,
     "page_size": 16,
@@ -24,10 +24,9 @@
       "video_url": null,
       "tg_url": "https://t.me/PgAntitrust/1459",
       "forwarded_from": {
-        "source_url": "https://t.me/pgp_official/1962",
-        "channel_url": "https://t.me/s/pgp_official",
-        "channel_username": "pgp_official",
-        "channel_title": "Pepeliaev Group | Пепеляев Групп"
+        "source_url": "https://t.me/PgAntitrust/1459",
+        "channel_url": "https://t.me/s/PgAntitrust",
+        "channel_username": "PgAntitrust"
       }
     },
     {
@@ -40,8 +39,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1457-1-03c48c04c225-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1457-1-03c48c04c225-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1457-1-587fe1c6078c-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1457-1-587fe1c6078c-v4.jpg"
         }
       ],
       "video_url": null,
