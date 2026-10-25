@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T21:39:55.887338+00:00",
+  "generated_at": "2026-10-25T23:32:51.846178+00:00",
   "pagination": {
     "page": 4,
     "page_size": 16,
@@ -96,10 +96,9 @@
       "video_url": null,
       "tg_url": "https://t.me/PG_Tax/2947",
       "forwarded_from": {
-        "source_url": "https://t.me/pgp_official/2015",
-        "channel_url": "https://t.me/s/pgp_official",
-        "channel_username": "pgp_official",
-        "channel_title": "Pepeliaev Group | Пепеляев Групп"
+        "source_url": "https://t.me/PG_Tax/2947",
+        "channel_url": "https://t.me/s/PG_Tax",
+        "channel_username": "PG_Tax"
       }
     },
     {
@@ -227,10 +226,9 @@
       "video_url": null,
       "tg_url": "https://t.me/PG_Tax/2939",
       "forwarded_from": {
-        "source_url": "https://t.me/pgp_official/2010",
-        "channel_url": "https://t.me/s/pgp_official",
-        "channel_username": "pgp_official",
-        "channel_title": "Pepeliaev Group | Пепеляев Групп"
+        "source_url": "https://t.me/PG_Tax/2939",
+        "channel_url": "https://t.me/s/PG_Tax",
+        "channel_username": "PG_Tax"
       }
     },
     {

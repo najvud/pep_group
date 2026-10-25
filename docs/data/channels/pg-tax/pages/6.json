@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T21:39:55.892685+00:00",
+  "generated_at": "2026-10-25T23:32:51.849812+00:00",
   "pagination": {
     "page": 6,
     "page_size": 16,
@@ -78,10 +78,9 @@
       "video_url": null,
       "tg_url": "https://t.me/PG_Tax/2910",
       "forwarded_from": {
-        "source_url": "https://t.me/pgp_official/1999",
-        "channel_url": "https://t.me/s/pgp_official",
-        "channel_username": "pgp_official",
-        "channel_title": "Pepeliaev Group | Пепеляев Групп"
+        "source_url": "https://t.me/PG_Tax/2910",
+        "channel_url": "https://t.me/s/PG_Tax",
+        "channel_username": "PG_Tax"
       }
     },
     {
@@ -233,8 +232,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2898-1-5003a28a6635-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2898-1-5003a28a6635-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2898-1-0de8455b4def-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2898-1-0de8455b4def-v4.jpg"
         }
       ],
       "video_url": null,
@@ -251,8 +250,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2896-1-6819f57028a0-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2896-1-6819f57028a0-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2896-1-3f93cef3b7c8-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2896-1-3f93cef3b7c8-v4.jpg"
         }
       ],
       "video_url": null,
@@ -269,8 +268,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2895-1-e5c17c9a5cf4-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2895-1-e5c17c9a5cf4-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2895-1-0b444f86d720-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2895-1-0b444f86d720-v4.jpg"
         }
       ],
       "video_url": null,
@@ -287,12 +286,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2893-1-d6b68cf1f1a7-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2893-1-d6b68cf1f1a7-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2893-1-2124a1f1ed29-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2893-1-2124a1f1ed29-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2893-2-b5f5f119aad6-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2893-2-b5f5f119aad6-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2893-2-1c12808f20f6-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2893-2-1c12808f20f6-v4.jpg"
         }
       ],
       "video_url": null,
