@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T06:48:10.109702+00:00",
+  "generated_at": "2026-10-25T12:06:26.451642+00:00",
   "pagination": {
     "page": 2,
     "page_size": 16,
@@ -24,10 +24,9 @@
       "video_url": null,
       "tg_url": "https://t.me/PgAntitrust/1459",
       "forwarded_from": {
-        "source_url": "https://t.me/pgp_official/1962",
-        "channel_url": "https://t.me/s/pgp_official",
-        "channel_username": "pgp_official",
-        "channel_title": "Pepeliaev Group | Пепеляев Групп"
+        "source_url": "https://t.me/PgAntitrust/1459",
+        "channel_url": "https://t.me/s/PgAntitrust",
+        "channel_username": "PgAntitrust"
       }
     },
     {
@@ -40,8 +39,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1457-1-7919f74eb4e5-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1457-1-7919f74eb4e5-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1457-1-526fb0741117-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1457-1-526fb0741117-v4.jpg"
         }
       ],
       "video_url": null,
@@ -58,8 +57,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1456-1-32fc266b6c43-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1456-1-32fc266b6c43-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1456-1-dde4a843bd64-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1456-1-dde4a843bd64-v4.jpg"
         }
       ],
       "video_url": null,
@@ -76,8 +75,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1455-1-3931c2c2b7d3-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1455-1-3931c2c2b7d3-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1455-1-c4927972cfab-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1455-1-c4927972cfab-v4.jpg"
         }
       ],
       "video_url": null,
