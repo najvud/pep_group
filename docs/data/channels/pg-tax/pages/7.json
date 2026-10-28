@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T22:57:08.498520+00:00",
+  "generated_at": "2026-10-28T08:12:26.769815+00:00",
   "pagination": {
     "page": 7,
     "page_size": 16,
@@ -7,6 +7,24 @@
     "total_pages": 11
   },
   "posts": [
+    {
+      "id": 2899,
+      "date": "2026-09-10T10:02:25+00:00",
+      "text": "🔍 Изменения в регулировании налогового мониторинга\n\nФНС России сообщает: введены дополнительные основания для досрочного прекращения налогового мониторинга (ст. 105.28 НК РФ в ред. Федерального закона от 28.11.2025 № 425-ФЗ). \n\n❌ Налоговый орган теперь вправе прекратить мониторинг при наступлении любого из следующих событий:\n   🔴неисполнении организацией регламента информационного взаимодействия;\n   🔴выявлении факта представления организацией недостоверной информации;\n   🔴систематическом непредставлении (несвоевременном представлении) документов (информации), пояснений в порядке ст.105.29 НК РФ;\n   🔴ликвидации или реорганизации организации, если правопреемник не вступил в налоговый мониторинг, а также при исключении организации из ЕГРЮЛ;\n   🔴неактуальности представленных документов для правопреемника по истечении месяца со дня его образования;\n   🔴несоответствии регламента информационного взаимодействия установленным требованиям;\n   🔴систематических нарушениях порядка и сроков доступа к информационным системам — два раза и более за период проведения налогового мониторинга;\n   🔴несоответствии информационных систем установленным требованиям;\n   🔴несоответствии системы внутреннего контроля установленным требованиям.\n\n💰 Скорректированы положения о мониторинге для правопреемников\nТакие компании могут вступить в режим без соблюдения суммовых критериев.\n\n💡 Урегулировано сопровождение при вступлении в мониторинг\nТеперь компании, планирующие переход на налоговый мониторинг и представившие в территориальный налоговый орган дорожную карту или заявление о вступлении, будут сопровождаться межрегиональной или межрайонной ИФНС России по крупнейшим налогоплательщикам (см. Приказ ФНС России от 31.08.2026 № ЕД-1-23/634@).\n\n#налоговый_мониторинг",
+      "text_html": "🔍 Изменения в регулировании налогового мониторинга<br><br>ФНС России <a href=\"https://www.nalog.gov.ru/rn77/news/activities_fts/16648544/\" target=\"_blank\" rel=\"noopener noreferrer\">сообщает</a>: введены дополнительные основания для досрочного прекращения налогового мониторинга (ст. 105.28 НК РФ в ред. Федерального закона от 28.11.2025 № 425-ФЗ). <br><br>❌ Налоговый орган теперь вправе прекратить мониторинг при наступлении любого из следующих событий:<br>   🔴неисполнении организацией регламента информационного взаимодействия;<br>   🔴выявлении факта представления организацией недостоверной информации;<br>   🔴систематическом непредставлении (несвоевременном представлении) документов (информации), пояснений в порядке ст.105.29 НК РФ;<br>   🔴ликвидации или реорганизации организации, если правопреемник не вступил в налоговый мониторинг, а также при исключении организации из ЕГРЮЛ;<br>   🔴неактуальности представленных документов для правопреемника по истечении месяца со дня его образования;<br>   🔴несоответствии регламента информационного взаимодействия установленным требованиям;<br>   🔴систематических нарушениях порядка и сроков доступа к информационным системам — два раза и более за период проведения налогового мониторинга;<br>   🔴несоответствии информационных систем установленным требованиям;<br>   🔴несоответствии системы внутреннего контроля установленным требованиям.<br><br>💰 Скорректированы положения о мониторинге для правопреемников<br>Такие компании могут вступить в режим без соблюдения суммовых критериев.<br><br>💡 Урегулировано сопровождение при вступлении в мониторинг<br>Теперь компании, планирующие переход на налоговый мониторинг и представившие в территориальный налоговый орган дорожную карту или заявление о вступлении, <a href=\"https://www.nalog.gov.ru/rn77/news/activities_fts/16648756/\" target=\"_blank\" rel=\"noopener noreferrer\">будут сопровождаться</a> межрегиональной или межрайонной ИФНС России по крупнейшим налогоплательщикам (см. Приказ ФНС России от 31.08.2026 № ЕД-1-23/634@).<br><br>#налоговый_мониторинг",
+      "views": 907,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2899-1-3e285e948a39-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2899-1-3e285e948a39-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/PG_Tax/2899",
+      "forwarded_from": null
+    },
     {
       "id": 2898,
       "date": "2026-09-10T08:28:39+00:00",
@@ -17,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2898-1-1830ec64a79b-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2898-1-1830ec64a79b-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2898-1-4904397fdf81-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2898-1-4904397fdf81-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +53,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2896-1-adb7cceebdb8-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2896-1-adb7cceebdb8-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2896-1-fd597dc038bb-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2896-1-fd597dc038bb-v4.jpg"
         }
       ],
       "video_url": null,
@@ -48,13 +66,13 @@
       "date": "2026-09-09T07:15:59+00:00",
       "text": "⚡️ Тема дня\n \nВ России до 1 февраля 2027 г. создадут федеральный реестр подставных налогоплательщиков. \n\nДо 1 марта 2027 ФНС должна разработать механизм аннулирования налоговых деклараций, поданных от имени подставных лиц, и выработать единый подход к выявлению признаков подделки (фальсификации) счетов-фактур и (или) деклараций.\n\nПоручение ФНС усилить совместно с МВД борьбу с налоговыми преступлениями дала Правкомиссия по профилактике правонарушений под руководством Владимира Колокольцева.\n\n⚙️ Практика\n\nНалоговые органы смогут не только мониторить движение цифровых рублей, но и увидеть технический след каждого запрошенного перевода. \n🛑 С июля 2027 г. в выписках для ФНС появятся IP- и MAC-адреса, номер телефона, сим-карты и другие идентификаторы устройства, с которого проводилась операция. \n \n✈️ За рубежом\n \nРекордная прибыль кредитных организаций на фоне жесткой монетарной политики заставляет власти Италии, Испании и Великобритании искать новые источники пополнения бюджетов. Сраны обсуждают введение налога на сверхприбыль для них.\n \n#главные_налоговые_новости",
       "text_html": "⚡️ Тема дня<br> <br>В России до 1 февраля 2027 г. <a href=\"https://iz.ru/2163444/natalia-bashlykova/v-rossii-sozdadut-chernyj-spisok-podstavnyh-nalogoplatelshchikov\" target=\"_blank\" rel=\"noopener noreferrer\">создадут</a> федеральный реестр подставных налогоплательщиков. <br><br>До 1 марта 2027 ФНС должна разработать механизм аннулирования налоговых деклараций, поданных от имени подставных лиц, и выработать единый подход к выявлению признаков подделки (фальсификации) счетов-фактур и (или) деклараций.<br><br>Поручение ФНС усилить совместно с МВД борьбу с налоговыми преступлениями дала Правкомиссия по профилактике правонарушений под руководством Владимира Колокольцева.<br><br>⚙️ Практика<br><br>Налоговые органы <a href=\"https://iz.ru/2163486/milana-gadzhieva/fns-poluchit-pravo-otslezhivat-ustrojstva-vladelcev-cifrovyh-rublej\" target=\"_blank\" rel=\"noopener noreferrer\">смогут</a> не только мониторить движение цифровых рублей, но и увидеть технический след каждого запрошенного перевода. <br>🛑 С июля 2027 г. в выписках для ФНС появятся IP- и MAC-адреса, номер телефона, сим-карты и другие идентификаторы устройства, с которого проводилась операция. <br> <br>✈️ За рубежом<br> <br>Рекордная прибыль кредитных организаций на фоне жесткой монетарной политики <a href=\"https://www.vedomosti.ru/economics/articles/2026/09/09/1227309-vvedenie-naloga-na-sverhpribil-bankov-stanovitsya-trendom\" target=\"_blank\" rel=\"noopener noreferrer\">заставляет</a> власти Италии, Испании и Великобритании искать новые источники пополнения бюджетов. Сраны обсуждают введение налога на сверхприбыль для них.<br> <br>#главные_налоговые_новости",
-      "views": 999,
+      "views": 1000,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2895-1-a8c3c828a026-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2895-1-a8c3c828a026-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2895-1-889736df77af-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2895-1-889736df77af-v4.jpg"
         }
       ],
       "video_url": null,
@@ -71,12 +89,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2893-1-be0a1d44c901-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2893-1-be0a1d44c901-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2893-1-84ef3a876c8c-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2893-1-84ef3a876c8c-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2893-2-b737a1f6dc3d-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2893-2-b737a1f6dc3d-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2893-2-a4f2e5f76a9c-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2893-2-a4f2e5f76a9c-v4.jpg"
         }
       ],
       "video_url": null,
@@ -93,8 +111,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2892-1-27f24e2cec21-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2892-1-27f24e2cec21-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2892-1-9b84df4c17e4-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2892-1-9b84df4c17e4-v4.jpg"
         }
       ],
       "video_url": null,
@@ -111,8 +129,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2891-1-f5d15611cee1-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2891-1-f5d15611cee1-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2891-1-5687f02edb12-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2891-1-5687f02edb12-v4.jpg"
         }
       ],
       "video_url": null,
@@ -134,8 +152,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2890-1-dceb2a240f43-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2890-1-dceb2a240f43-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2890-1-47f845047478-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2890-1-47f845047478-v4.jpg"
         }
       ],
       "video_url": null,
@@ -152,8 +170,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2889-1-b8daf84d12be-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2889-1-b8daf84d12be-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2889-1-ff65c4ae5da2-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2889-1-ff65c4ae5da2-v4.jpg"
         }
       ],
       "video_url": null,
@@ -170,8 +188,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2888-1-346c1bb059fb-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2888-1-346c1bb059fb-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2888-1-4c0cd6dae0e9-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2888-1-4c0cd6dae0e9-v4.jpg"
         }
       ],
       "video_url": null,
@@ -193,8 +211,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2887-1-0129f71caedb-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2887-1-0129f71caedb-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2887-1-283a7c2938a1-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2887-1-283a7c2938a1-v4.jpg"
         }
       ],
       "video_url": null,
@@ -216,8 +234,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2886-1-a7c69cff38a7-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2886-1-a7c69cff38a7-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2886-1-2e1e7b28c23a-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2886-1-2e1e7b28c23a-v4.jpg"
         }
       ],
       "video_url": null,
@@ -234,8 +252,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2885-1-84ac0e3228c3-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2885-1-84ac0e3228c3-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2885-1-dccd532b0caa-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2885-1-dccd532b0caa-v4.jpg"
         }
       ],
       "video_url": null,
@@ -252,8 +270,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2884-1-5ef8cb12bf08-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2884-1-5ef8cb12bf08-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2884-1-4830c46fe8d6-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2884-1-4830c46fe8d6-v4.jpg"
         }
       ],
       "video_url": null,
@@ -270,8 +288,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2883-1-7825d549540c-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2883-1-7825d549540c-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2883-1-955ce9cebcb3-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2883-1-955ce9cebcb3-v4.jpg"
         }
       ],
       "video_url": null,
@@ -288,31 +306,13 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2882-1-c47656e29f11-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2882-1-c47656e29f11-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2882-1-823c457f46d8-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2882-1-823c457f46d8-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/PG_Tax/2882",
       "forwarded_from": null
-    },
-    {
-      "id": 2881,
-      "date": "2026-09-01T11:04:23+00:00",
-      "text": "❗️Реклама на запрещенных площадках: как рекламодателям обезопасить себя?\n\nВ выпуске программы Adindex «Дело в рекламе» Илья Тюленев, руководитель антимонопольной практики «Пепеляев Групп», рассказал:\n\n🔸 как распределяется ответственность между сторонами;\n\n🔸 какие условия стоит включать в договоры с блогерами и рекламораспространителями;\n\n🔸 почему важно заранее согласовывать площадки размещения.\n\nОтдельно эксперт остановился на налоговых рисках: расходы на рекламу на запрещённых ресурсах нельзя учитывать при расчёте налогооблагаемой прибыли.\n\n⬆️ Смотрите интервью, чтобы узнать подробнее о рисках рекламодателей и способах их минимизировать.",
-      "text_html": "❗️Реклама на запрещенных площадках: как рекламодателям обезопасить себя?<br><br>В <a href=\"https://vkvideo.ru/video-14899079_456247020?t=44m15s\" target=\"_blank\" rel=\"noopener noreferrer\">выпуске программы</a> Adindex «Дело в рекламе» <a href=\"https://www.pgplaw.ru/to-get-the-team/tiulenev/\" target=\"_blank\" rel=\"noopener noreferrer\">Илья Тюленев</a>, руководитель антимонопольной практики «Пепеляев Групп», рассказал:<br><br>🔸 как распределяется ответственность между сторонами;<br><br>🔸 какие условия стоит включать в договоры с блогерами и рекламораспространителями;<br><br>🔸 почему важно заранее согласовывать площадки размещения.<br><br>Отдельно эксперт остановился на налоговых рисках: расходы на рекламу на запрещённых ресурсах нельзя учитывать при расчёте налогооблагаемой прибыли.<br><br>⬆️ Смотрите интервью, чтобы узнать подробнее о рисках рекламодателей и способах их минимизировать.",
-      "views": 918,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2881",
-      "forwarded_from": {
-        "source_url": "https://t.me/PgAntitrust/1467",
-        "channel_url": "https://t.me/s/PgAntitrust",
-        "channel_username": "PgAntitrust",
-        "channel_title": "PG Antitrust | Антимонопольное право"
-      }
     }
   ]
 }
