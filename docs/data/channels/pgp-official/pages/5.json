@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-29T11:43:51.782612+00:00",
+  "generated_at": "2026-10-29T17:33:50.821876+00:00",
   "pagination": {
     "page": 5,
     "page_size": 16,
-    "total_posts": 70,
+    "total_posts": 69,
     "total_pages": 5
   },
   "posts": [
@@ -17,8 +17,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1957-1-362c160e4ae9-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1957-1-362c160e4ae9-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1957-1-bc3a7ac93ba2-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1957-1-bc3a7ac93ba2-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,12 +35,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1955-1-26fbbeb59186-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1955-1-26fbbeb59186-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1955-1-6b65954ee4bf-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1955-1-6b65954ee4bf-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1955-2-4a274628e1fc-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1955-2-4a274628e1fc-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1955-2-1843e83b0687-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1955-2-1843e83b0687-v4.jpg"
         }
       ],
       "video_url": null,
@@ -57,8 +57,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1954-1-58e39c05f2c3-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1954-1-58e39c05f2c3-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1954-1-dc58ec767889-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1954-1-dc58ec767889-v4.jpg"
         }
       ],
       "video_url": null,
@@ -75,8 +75,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1952-1-0c0e6c4fd98a-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1952-1-0c0e6c4fd98a-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1952-1-b35d467bc059-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1952-1-b35d467bc059-v4.jpg"
         }
       ],
       "video_url": null,
@@ -98,36 +98,13 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1951-1-7f8d71f7de6c-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1951-1-7f8d71f7de6c-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1951-1-bd1fdbf7e533-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1951-1-bd1fdbf7e533-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/pgp_official/1951",
       "forwarded_from": null
-    },
-    {
-      "id": 1950,
-      "date": "2026-07-29T13:18:15+00:00",
-      "text": "❗️Какие ИТ-компании могут признать стратегическими, и что изменится для иностранных инвесторов\n\nПравительство РФ предложило расширить перечень стратегически значимых видов деятельности. В него могут включить маркетплейсы, разработчиков доверенного ПО и ИИ-технологий, операторов ЦОД, майнинговой инфраструктуры и информационных систем по выпуску ЦФА.\n\nЕсли законопроект примут, иностранным инвесторам потребуется:\n🔸при владении от 5% голосов — уведомить ФАС России в течение 180 дней;\n🔸при контроле более 50% — в течение 365 дней согласовать его с ФАС либо сократить долю участия.\n\nНарушение требований может привести к лишению инвестора права голоса по решению суда.\n\nИТ-компаниям, чья деятельность может быть отнесена к стратегически значимой, целесообразно уже сейчас проверить структуру владения и определить наличие иностранных инвесторов, а также их долю участия применительно к порогам 5 и 50% голосов.\n\n➡️ Подробнее в алерте «Пепеляев Групп».",
-      "text_html": "❗️Какие ИТ-компании могут признать стратегическими, и что изменится для иностранных инвесторов<br><br>Правительство РФ предложило расширить перечень стратегически значимых видов деятельности. В него могут включить маркетплейсы, разработчиков доверенного ПО и ИИ-технологий, операторов ЦОД, майнинговой инфраструктуры и информационных систем по выпуску ЦФА.<br><br>Если законопроект примут, иностранным инвесторам потребуется:<br>🔸при владении от 5% голосов — уведомить ФАС России в течение 180 дней;<br>🔸при контроле более 50% — в течение 365 дней согласовать его с ФАС либо сократить долю участия.<br><br>Нарушение требований может привести к лишению инвестора права голоса по решению суда.<br><br>ИТ-компаниям, чья деятельность может быть отнесена к стратегически значимой, целесообразно уже сейчас проверить структуру владения и определить наличие иностранных инвесторов, а также их долю участия применительно к порогам 5 и 50% голосов.<br><br>➡️ Подробнее в <a href=\"https://www.pgplaw.ru/analytics-and-brochures/alerts/it-kompanii-v-perechne-strategicheskikh-obshchestv/\" target=\"_blank\" rel=\"noopener noreferrer\">алерте «Пепеляев Групп»</a>.",
-      "views": 824,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1950-1-d9d0cd398beb-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1950-1-d9d0cd398beb-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/pgp_official/1950",
-      "forwarded_from": {
-        "source_url": "https://t.me/PgAntitrust/1455",
-        "channel_url": "https://t.me/s/PgAntitrust",
-        "channel_username": "PgAntitrust",
-        "channel_title": "PG Antitrust | Антимонопольное право"
-      }
     }
   ]
 }
