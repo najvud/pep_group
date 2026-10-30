@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T22:01:26.169086+00:00",
+  "generated_at": "2026-10-30T01:47:22.911588+00:00",
   "site": {
     "channel_username": "PG_RealEstate",
     "channel_title": "PG Real Estate | Недвижимость",
@@ -35,8 +35,10 @@
       "video_url": null,
       "tg_url": "https://t.me/PG_RealEstate/265",
       "forwarded_from": {
-        "source_url": "https://t.me?q=%23%D0%9A%D0%B5%D0%B9%D1%81",
-        "channel_url": "https://t.me?q=%23%D0%9A%D0%B5%D0%B9%D1%81"
+        "source_url": "https://t.me/InvestmentLaw/1162",
+        "channel_url": "https://t.me/s/InvestmentLaw",
+        "channel_username": "InvestmentLaw",
+        "channel_title": "СпецИнвестРежимы"
       }
     },
     {
@@ -51,8 +53,10 @@
       "video_url": null,
       "tg_url": "https://t.me/PG_RealEstate/264",
       "forwarded_from": {
-        "source_url": "https://kad.arbitr.ru/Document/Pdf/1e136e06-63c5-43b6-9ede-358b0cc9cf04/b0805cf1-c321-4e3e-9792-35f75d0fe277/A51-13104-2025_20260929_Postanovlenie_apelljacionnoj_instancii.pdf?isAddStamp=True",
-        "channel_url": "https://kad.arbitr.ru/Document/Pdf/1e136e06-63c5-43b6-9ede-358b0cc9cf04/b0805cf1-c321-4e3e-9792-35f75d0fe277/A51-13104-2025_20260929_Postanovlenie_apelljacionnoj_instancii.pdf?isAddStamp=True"
+        "source_url": "https://t.me/InvestmentLaw/1161",
+        "channel_url": "https://t.me/s/InvestmentLaw",
+        "channel_username": "InvestmentLaw",
+        "channel_title": "СпецИнвестРежимы"
       }
     },
     {
@@ -67,8 +71,10 @@
       "video_url": null,
       "tg_url": "https://t.me/PG_RealEstate/263",
       "forwarded_from": {
-        "source_url": "https://kad.arbitr.ru/Card/794f8072-6705-4dd6-a4dc-9052db38bd6e",
-        "channel_url": "https://kad.arbitr.ru/Card/794f8072-6705-4dd6-a4dc-9052db38bd6e"
+        "source_url": "https://t.me/InvestmentLaw/1155",
+        "channel_url": "https://t.me/s/InvestmentLaw",
+        "channel_username": "InvestmentLaw",
+        "channel_title": "СпецИнвестРежимы"
       }
     },
     {
@@ -101,8 +107,10 @@
       "video_url": null,
       "tg_url": "https://t.me/PG_RealEstate/261",
       "forwarded_from": {
-        "source_url": "https://legalacts.ru/sud/tematicheskii-obzor-verkhovnogo-suda-rossiiskoi-federatsii-n-112026-o-rassmotrenii-sudami-del-sviazannykh-s-pravami-na-zemelnye-uchastki/%20",
-        "channel_url": "https://legalacts.ru/sud/tematicheskii-obzor-verkhovnogo-suda-rossiiskoi-federatsii-n-112026-o-rassmotrenii-sudami-del-sviazannykh-s-pravami-na-zemelnye-uchastki/%20"
+        "source_url": "https://t.me/pgecology/1416",
+        "channel_url": "https://t.me/s/pgecology",
+        "channel_username": "pgecology",
+        "channel_title": "PG Ecology | Экология"
       }
     },
     {
@@ -122,9 +130,10 @@
       "video_url": null,
       "tg_url": "https://t.me/PG_RealEstate/259",
       "forwarded_from": {
-        "source_url": "https://t.me/PG_RealEstate/259",
-        "channel_url": "https://t.me/s/PG_RealEstate",
-        "channel_username": "PG_RealEstate"
+        "source_url": "https://t.me/PG_Tax/2896",
+        "channel_url": "https://t.me/s/PG_Tax",
+        "channel_username": "PG_Tax",
+        "channel_title": "PG Tax | Налоги"
       }
     },
     {
@@ -144,9 +153,10 @@
       "video_url": null,
       "tg_url": "https://t.me/PG_RealEstate/258",
       "forwarded_from": {
-        "source_url": "https://t.me/PG_RealEstate/258",
-        "channel_url": "https://t.me/s/PG_RealEstate",
-        "channel_username": "PG_RealEstate"
+        "source_url": "https://t.me/PG_Tax/2877",
+        "channel_url": "https://t.me/s/PG_Tax",
+        "channel_username": "PG_Tax",
+        "channel_title": "PG Tax | Налоги"
       }
     },
     {
@@ -161,8 +171,10 @@
       "video_url": null,
       "tg_url": "https://t.me/PG_RealEstate/257",
       "forwarded_from": {
-        "source_url": "https://t.me//1122",
-        "channel_url": "https://t.me//1122"
+        "source_url": "https://t.me/PG_Tax/2863",
+        "channel_url": "https://t.me/s/PG_Tax",
+        "channel_username": "PG_Tax",
+        "channel_title": "PG Tax | Налоги"
       }
     },
     {
@@ -175,16 +187,17 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-real-estate/media/posts/thumbs/256-1-625785354cc8-v4.jpg",
-          "full_url": "data/channels/pg-real-estate/media/posts/256-1-625785354cc8-v4.jpg"
+          "thumb_url": "data/channels/pg-real-estate/media/posts/thumbs/256-1-9299fadb3047-v4.jpg",
+          "full_url": "data/channels/pg-real-estate/media/posts/256-1-9299fadb3047-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/PG_RealEstate/256",
       "forwarded_from": {
-        "source_url": "https://t.me/PG_RealEstate/256",
-        "channel_url": "https://t.me/s/PG_RealEstate",
-        "channel_username": "PG_RealEstate"
+        "source_url": "https://t.me/pgecology/1400",
+        "channel_url": "https://t.me/s/pgecology",
+        "channel_username": "pgecology",
+        "channel_title": "PG Ecology | Экология"
       }
     },
     {
