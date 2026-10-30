@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T19:39:49.157245+00:00",
+  "generated_at": "2026-10-30T23:14:10.064770+00:00",
   "pagination": {
     "page": 2,
     "page_size": 16,
@@ -40,8 +40,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/2026-1-9b02b4dd9002-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/2026-1-9b02b4dd9002-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/2026-1-4de800eb7044-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/2026-1-4de800eb7044-v4.jpg"
         }
       ],
       "video_url": null,
@@ -58,12 +58,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/2024-1-43d9ebd332b9-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/2024-1-43d9ebd332b9-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/2024-1-afb50d29723c-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/2024-1-afb50d29723c-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/2024-2-c11d62365285-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/2024-2-c11d62365285-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/2024-2-1b255f452060-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/2024-2-1b255f452060-v4.jpg"
         }
       ],
       "video_url": null,
@@ -80,8 +80,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/2021-1-885ad08d754e-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/2021-1-885ad08d754e-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/2021-1-73cf22c8a478-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/2021-1-73cf22c8a478-v4.jpg"
         }
       ],
       "video_url": null,
@@ -98,8 +98,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/2020-1-ce8e592b8d35-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/2020-1-ce8e592b8d35-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/2020-1-e13a8d175c64-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/2020-1-e13a8d175c64-v4.jpg"
         }
       ],
       "video_url": null,
@@ -120,8 +120,8 @@
           "full_url": "data/channels/pgp-official/media/posts/2018-1-3e0cc1d91d08-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/2018-2-b9de3d0c6d24-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/2018-2-b9de3d0c6d24-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/2018-2-436a6b2b7ceb-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/2018-2-436a6b2b7ceb-v4.jpg"
         }
       ],
       "video_url": null,
@@ -138,8 +138,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/2017-1-a4e2cc4724d2-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/2017-1-a4e2cc4724d2-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/2017-1-ab2e6b676551-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/2017-1-ab2e6b676551-v4.jpg"
         }
       ],
       "video_url": null,
@@ -156,8 +156,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/2016-1-9bfc2e9ef739-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/2016-1-9bfc2e9ef739-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/2016-1-1e5ac5ea4de9-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/2016-1-1e5ac5ea4de9-v4.jpg"
         }
       ],
       "video_url": null,
@@ -174,8 +174,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/2015-1-bbe0c96ca8f0-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/2015-1-bbe0c96ca8f0-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/2015-1-a7c80d04e1a9-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/2015-1-a7c80d04e1a9-v4.jpg"
         }
       ],
       "video_url": null,
@@ -200,8 +200,8 @@
           "full_url": "data/channels/pgp-official/media/posts/2012-2-39abac32294e-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/2012-3-e3fa818e1c35-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/2012-3-e3fa818e1c35-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/2012-3-6249ff39c8b6-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/2012-3-6249ff39c8b6-v4.jpg"
         }
       ],
       "video_url": null,
@@ -254,7 +254,7 @@
       "date": "2026-09-21T07:04:51+00:00",
       "text": "💡 Начинаем очередную рабочую неделю с рубрикой #PGГрамотность\n\n🔘Позитивный. Какие есть синонимы?\n\nЧитайте в карточке правописания!\n\n🏢 Подписаться на рассылки | MAX | Приложение PG",
       "text_html": "💡 Начинаем очередную рабочую неделю с рубрикой #PGГрамотность<br><br>🔘Позитивный. Какие есть синонимы?<br><br>Читайте в карточке правописания!<br><br>🏢 <a href=\"https://www.pgplaw.ru/subscribe/\" target=\"_blank\" rel=\"noopener noreferrer\">Подписаться на рассылки |</a> <a href=\"https://max.ru/id7707301372_biz\" target=\"_blank\" rel=\"noopener noreferrer\">MAX |</a> <a href=\"https://t.me/pgp_official/1769\" target=\"_blank\" rel=\"noopener noreferrer\">Приложение PG</a>",
-      "views": 841,
+      "views": 842,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
@@ -263,8 +263,8 @@
           "full_url": "data/channels/pgp-official/media/posts/2008-1-b0a940e55b97-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/2008-2-a5c7de2211ad-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/2008-2-a5c7de2211ad-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/2008-2-f60150f0533e-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/2008-2-f60150f0533e-v4.jpg"
         }
       ],
       "video_url": null,
@@ -281,8 +281,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/2007-1-57f434aa641e-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/2007-1-57f434aa641e-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/2007-1-87618db5306e-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/2007-1-87618db5306e-v4.jpg"
         }
       ],
       "video_url": null,
@@ -299,8 +299,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/2006-1-2864989a78ac-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/2006-1-2864989a78ac-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/2006-1-77e778bac3d3-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/2006-1-77e778bac3d3-v4.jpg"
         }
       ],
       "video_url": null,
@@ -322,8 +322,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/2005-1-f4f9520a52a0-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/2005-1-f4f9520a52a0-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/2005-1-31cf4ebdc218-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/2005-1-31cf4ebdc218-v4.jpg"
         }
       ],
       "video_url": null,
