@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-30T23:15:58.688078+00:00",
+  "generated_at": "2026-10-31T08:42:33.373708+00:00",
   "pagination": {
     "page": 4,
     "page_size": 16,
-    "total_posts": 58,
+    "total_posts": 57,
     "total_pages": 4
   },
   "posts": [
@@ -30,8 +30,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1396-1-860205350f7e-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1396-1-860205350f7e-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1396-1-000e7de4426d-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1396-1-000e7de4426d-v4.jpg"
         }
       ],
       "video_url": null,
@@ -61,8 +61,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1394-1-cb3fce50fec4-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1394-1-cb3fce50fec4-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1394-1-794f20b59c86-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1394-1-794f20b59c86-v4.jpg"
         }
       ],
       "video_url": null,
@@ -79,8 +79,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1393-1-dd9357d55113-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1393-1-dd9357d55113-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1393-1-230a392baccf-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1393-1-230a392baccf-v4.jpg"
         }
       ],
       "video_url": null,
@@ -110,8 +110,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1391-1-2579294c59e1-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1391-1-2579294c59e1-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1391-1-81dc009c9852-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1391-1-81dc009c9852-v4.jpg"
         }
       ],
       "video_url": null,
@@ -141,30 +141,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1389-1-21f390e17cc7-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1389-1-21f390e17cc7-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1389-1-c1cf2680595d-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1389-1-c1cf2680595d-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/pgecology/1389",
-      "forwarded_from": null
-    },
-    {
-      "id": 1388,
-      "date": "2026-07-31T04:00:06+00:00",
-      "text": "#РешаемСпор\n\n⚔️Общество оспорило предписание 🛡️Росприроднадзора о превышении установленных нормативов образования отходов, посчитав, что превышение нормативов образования отходов не является нарушением обязательных требований по обращению с отходами, так как законом ответственность предусмотрена только за превышение установленных лимитов на размещение отходов.\n\nА как считаете Вы\n\n1️⃣ Превышение нормативов образования отходов является нарушением нормативных требований по обращению с отходами;\n\n2️⃣ Обязательный, нормативный характер носят только лимиты на размещение отходов.",
-      "text_html": "#РешаемСпор<br><br>⚔️Общество оспорило предписание 🛡️Росприроднадзора о превышении установленных нормативов образования отходов, посчитав, что превышение нормативов образования отходов не является нарушением обязательных требований по обращению с отходами, так как законом ответственность предусмотрена только за превышение установленных лимитов на размещение отходов.<br><br>А как считаете Вы<br><br>1️⃣ Превышение нормативов образования отходов является нарушением нормативных требований по обращению с отходами;<br><br>2️⃣ Обязательный, нормативный характер носят только лимиты на размещение отходов.",
-      "views": 337,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1388-1-098e26d9712a-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1388-1-098e26d9712a-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/pgecology/1388",
       "forwarded_from": null
     }
   ]
