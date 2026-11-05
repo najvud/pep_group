@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T01:52:06.346941+00:00",
+  "generated_at": "2026-11-05T08:37:54.941697+00:00",
   "pagination": {
     "page": 10,
     "page_size": 16,
@@ -7,6 +7,24 @@
     "total_pages": 11
   },
   "posts": [
+    {
+      "id": 2858,
+      "date": "2026-08-19T09:09:48+00:00",
+      "text": "⚡️Тема дня\n\nМинпромторг России предложил порядок исчисления и уплаты технологического сбора на электронику (проходит публичное обсуждение).\n\nОсновное:\n🔴сбор будут рассчитывать автоматически на основании данных о товаре из системы маркировки;\n🔴оператор системы должен будет в течение одного календарного дня после получения уведомления о вводе товара в оборот передать сведения в ГИСП;\n🔴система сверит начисленную сумму с данными ФНС России об уплате и подтвердит, что товар можно ввести в оборот. Если окажется, что сбор не уплачен или перечисленной суммы недостаточно, ГИСП не позволит завершить оформление товара в системе маркировки. \n\n💰 По оценкам Минпромторга затраты производителей и импортеров на уплату составят 136,2 млрд руб. за шесть лет, или 22,7 млрд руб. ежегодно.\n \n✍️ Нормотворчество\n\nАссоциация текстильщиков России обратилась к Председателю Правительства РФ с предложениями о поддержке отрасли легкой промышленности в условиях атак БПЛА по логистической инфраструктуре маркетплейсов.\nℹ️ Среди предложенных налоговых мер поддержки:\n🔴 предоставление отсрочек по уплате налогов и страховых взносов для пострадавших предприятий (селлеров), \n🔴введение моратория на начисление штрафов и пеней по обязательным платежам для компаний, документально подтвердивших влияние ЧС,\n🔴ускоренный возврат НДС для предприятий, понесших убытки из-за сбоев в логистике.\n \n⚙️ Практика\n \nЗа 6 месяцев 2026 таможенные органы доначислили бизнесу по итогам проверок 35,2 млрд руб., что на 25% больше января – июня 2025. Но разрыв между начисленной и реальной выплаченной суммой вырос: в прошлом году бюджет получил 79,4%, в этом — только 72,2%). \nТаможенники возбудили 80 148 дел об административных правонарушениях, в результате чего в бюджет взыскано 1,8 млрд руб. (за аналогичный период 2025 – 1,35 млрд руб., хотя количество дел было больше — 87 976).\n\n🛑 Основные нарушения, которые допускали участники ВЭД, – занижение таможенной стоимости товара, заявление недостоверных либо ошибочных сведений о его классификационном коде, а также незаконный оборот продукции. \n\n#главные_налоговые_новости",
+      "text_html": "⚡️Тема дня<br><br>Минпромторг России <a href=\"https://pravo.ru/news/265340/\" target=\"_blank\" rel=\"noopener noreferrer\">предложил</a> порядок исчисления и уплаты технологического сбора на электронику (<a href=\"https://regulation.gov.ru/projects/165947/\" target=\"_blank\" rel=\"noopener noreferrer\">проходит</a> публичное обсуждение).<br><br>Основное:<br>🔴сбор будут рассчитывать автоматически на основании данных о товаре из системы маркировки;<br>🔴оператор системы должен будет в течение одного календарного дня после получения уведомления о вводе товара в оборот передать сведения в ГИСП;<br>🔴система сверит начисленную сумму с данными ФНС России об уплате и подтвердит, что товар можно ввести в оборот. Если окажется, что сбор не уплачен или перечисленной суммы недостаточно, ГИСП не позволит завершить оформление товара в системе маркировки. <br><br>💰 По оценкам Минпромторга затраты производителей и импортеров на уплату составят 136,2 млрд руб. за шесть лет, или 22,7 млрд руб. ежегодно.<br> <br>✍️ Нормотворчество<br><br>Ассоциация текстильщиков России <a href=\"https://tass.ru/ekonomika/28023959\" target=\"_blank\" rel=\"noopener noreferrer\">обратилась</a> к Председателю Правительства РФ с предложениями о поддержке отрасли легкой промышленности в условиях атак БПЛА по логистической инфраструктуре маркетплейсов.<br>ℹ️ Среди предложенных налоговых мер поддержки:<br>🔴 предоставление отсрочек по уплате налогов и страховых взносов для пострадавших предприятий (селлеров), <br>🔴введение моратория на начисление штрафов и пеней по обязательным платежам для компаний, документально подтвердивших влияние ЧС,<br>🔴ускоренный возврат НДС для предприятий, понесших убытки из-за сбоев в логистике.<br> <br>⚙️ Практика<br> <br>За 6 месяцев 2026 таможенные органы <a href=\"https://www.vedomosti.ru/economics/articles/2026/08/19/1222081-donachisleniya-po-itogam-tamozhennih-proverok-virosli\" target=\"_blank\" rel=\"noopener noreferrer\">доначислили</a> бизнесу по итогам проверок 35,2 млрд руб., что на 25% больше января – июня 2025. Но разрыв между начисленной и реальной выплаченной суммой вырос: в прошлом году бюджет получил 79,4%, в этом — только 72,2%). <br>Таможенники возбудили 80 148 дел об административных правонарушениях, в результате чего в бюджет взыскано 1,8 млрд руб. (за аналогичный период 2025 – 1,35 млрд руб., хотя количество дел было больше — 87 976).<br><br>🛑 Основные нарушения, которые допускали участники ВЭД, – занижение таможенной стоимости товара, заявление недостоверных либо ошибочных сведений о его классификационном коде, а также незаконный оборот продукции. <br><br>#главные_налоговые_новости",
+      "views": 892,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2858-1-1e4c7166cd10-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2858-1-1e4c7166cd10-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/PG_Tax/2858",
+      "forwarded_from": null
+    },
     {
       "id": 2857,
       "date": "2026-08-18T11:16:48+00:00",
@@ -17,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2857-1-7842f0291af5-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2857-1-7842f0291af5-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2857-1-db0413c225c2-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2857-1-db0413c225c2-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +53,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2856-1-dc605de2f844-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2856-1-dc605de2f844-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2856-1-639cb49642ac-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2856-1-639cb49642ac-v4.jpg"
         }
       ],
       "video_url": null,
@@ -53,8 +71,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2854-1-034fa2252830-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2854-1-034fa2252830-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2854-1-89677210dfbb-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2854-1-89677210dfbb-v4.jpg"
         }
       ],
       "video_url": null,
@@ -76,8 +94,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2853-1-afc67c077085-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2853-1-afc67c077085-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2853-1-bb6faaf4fcf9-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2853-1-bb6faaf4fcf9-v4.jpg"
         }
       ],
       "video_url": null,
@@ -94,8 +112,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2852-1-dc218a996e71-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2852-1-dc218a996e71-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2852-1-fa688d462e57-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2852-1-fa688d462e57-v4.jpg"
         }
       ],
       "video_url": null,
@@ -112,8 +130,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2850-1-95b641674a36-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2850-1-95b641674a36-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2850-1-acdcebcc8acc-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2850-1-acdcebcc8acc-v4.jpg"
         }
       ],
       "video_url": null,
@@ -130,8 +148,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2849-1-8d10017b0e15-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2849-1-8d10017b0e15-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2849-1-62b31f04fed9-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2849-1-62b31f04fed9-v4.jpg"
         }
       ],
       "video_url": null,
@@ -148,8 +166,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2848-1-217defdc0ce6-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2848-1-217defdc0ce6-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2848-1-b4ca9089d720-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2848-1-b4ca9089d720-v4.jpg"
         }
       ],
       "video_url": null,
@@ -166,8 +184,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2847-1-08a64f549035-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2847-1-08a64f549035-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2847-1-f84ce21bcfca-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2847-1-f84ce21bcfca-v4.jpg"
         }
       ],
       "video_url": null,
@@ -184,8 +202,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2846-1-0c7813cd5896-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2846-1-0c7813cd5896-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2846-1-91ccfb2a8c23-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2846-1-91ccfb2a8c23-v4.jpg"
         }
       ],
       "video_url": null,
@@ -202,8 +220,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2845-1-a99c5082c85d-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2845-1-a99c5082c85d-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2845-1-e566f2146a38-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2845-1-e566f2146a38-v4.jpg"
         }
       ],
       "video_url": null,
@@ -220,8 +238,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2844-1-22c1c2661b8e-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2844-1-22c1c2661b8e-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2844-1-d25a117fb049-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2844-1-d25a117fb049-v4.jpg"
         }
       ],
       "video_url": null,
@@ -238,8 +256,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2843-1-3d2e70d83795-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2843-1-3d2e70d83795-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2843-1-da4bd93ec7de-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2843-1-da4bd93ec7de-v4.jpg"
         }
       ],
       "video_url": null,
@@ -261,8 +279,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2842-1-5960acab4afa-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2842-1-5960acab4afa-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2842-1-df6800612823-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2842-1-df6800612823-v4.jpg"
         }
       ],
       "video_url": null,
@@ -279,12 +297,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2840-1-fcc6b4959f47-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2840-1-fcc6b4959f47-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2840-1-d962ba14a957-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2840-1-d962ba14a957-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2840-2-73263511a8fb-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2840-2-73263511a8fb-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2840-2-fddc8591c32c-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2840-2-fddc8591c32c-v4.jpg"
         }
       ],
       "video_url": null,
@@ -295,24 +313,6 @@
         "channel_username": "pgp_official",
         "channel_title": "Pepeliaev Group | Пепеляев Групп"
       }
-    },
-    {
-      "id": 2839,
-      "date": "2026-08-10T11:10:03+00:00",
-      "text": "📢 Новости региональных УФНС\n\nНа сайте \"Налоговеда\" опубликован обзор новостей региональных УФНС за июль.\n\nВ фокусе внимания Управлений службы:\n     🔴вопросы уплаты НДФЛ и применения вычетов по налогу,\n     🔴взыскание налоговой задолженности,\n     🔴соблюдение валютного законодательства,\n     🔴обновление данных реестра МСП,\n     🔴итоги судебно-правовой работы за первое полугодие 2026.\n\n#обзор_новостей_УФНС\n\n➖➖\n💡 Индивидуальные обзоры изменений налогового законодательства и практики с учётом специфики Вашего бизнеса — оформить здесь 👉",
-      "text_html": "📢 Новости региональных УФНС<br><br>На сайте \"Налоговеда\" опубликован <a href=\"https://nalogoved.ru/docs/16769.html\" target=\"_blank\" rel=\"noopener noreferrer\">обзор</a> новостей региональных УФНС за июль.<br><br>В фокусе внимания Управлений службы:<br>     🔴вопросы уплаты НДФЛ и применения вычетов по налогу,<br>     🔴взыскание налоговой задолженности,<br>     🔴соблюдение валютного законодательства,<br>     🔴обновление данных реестра МСП,<br>     🔴итоги судебно-правовой работы за первое полугодие 2026.<br><br>#обзор_новостей_УФНС<br><br>➖➖<br>💡 Индивидуальные обзоры изменений налогового законодательства и практики с учётом специфики Вашего бизнеса — <a href=\"https://www.pgplaw.ru/practice-and-industry/practices/obzory-zakonodatelstva-i-praktiki/\" target=\"_blank\" rel=\"noopener noreferrer\">оформить здесь</a> 👉",
-      "views": 893,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2839-1-9f8a6fa30481-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2839-1-9f8a6fa30481-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2839",
-      "forwarded_from": null
     }
   ]
 }
