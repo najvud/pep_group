@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T08:37:54.943075+00:00",
+  "generated_at": "2026-11-05T16:51:22.542169+00:00",
   "pagination": {
     "page": 11,
     "page_size": 16,
@@ -7,6 +7,33 @@
     "total_pages": 11
   },
   "posts": [
+    {
+      "id": 2840,
+      "date": "2026-08-10T14:02:05+00:00",
+      "text": "⭐️ «Пепеляев Групп» вошла в число лидеров рейтинга «WEALTH Navigator: юристы для частного капитала – 2026» \n\nПо итогам исследования компания отмечена в пяти номинациях:\n\n🔴 Банковское и финансовое право: сопровождение финансовых операций в РФ – Лидер;\n🔴 Налогообложение: личное налогообложение и планирование – Лидер;\n🔴 Защита в кризисной ситуации: защита личных и семейных активов в процедуре банкротства – Ведущая фирма;\n🔴 Операции с активами: сделки с активами, ценными бумагами и инвестиции – Ведущая фирма;\n🔴 Разрешение конфликтов: разрешение споров в РФ – Ведущая фирма.\n\nРезультаты рейтинга подтверждают сильные позиции «Пепеляев Групп» в сопровождении частного капитала и комплексном консультировании клиентов по вопросам управления активами, налогового планирования, защиты капитала и разрешения сложных правовых споров.\n\n👉Подробнее с результатами рейтинга можно ознакомиться на сайте WEALTH Navigator.",
+      "text_html": "⭐️ «Пепеляев Групп» вошла в число лидеров рейтинга «WEALTH Navigator: юристы для частного капитала – 2026» <br><br>По итогам исследования компания отмечена в пяти номинациях:<br><br>🔴 Банковское и финансовое право: сопровождение финансовых операций в РФ – Лидер;<br>🔴 Налогообложение: личное налогообложение и планирование – Лидер;<br>🔴 Защита в кризисной ситуации: защита личных и семейных активов в процедуре банкротства – Ведущая фирма;<br>🔴 Операции с активами: сделки с активами, ценными бумагами и инвестиции – Ведущая фирма;<br>🔴 Разрешение конфликтов: разрешение споров в РФ – Ведущая фирма.<br><br>Результаты рейтинга подтверждают сильные позиции «Пепеляев Групп» в сопровождении частного капитала и комплексном консультировании клиентов по вопросам управления активами, налогового планирования, защиты капитала и разрешения сложных правовых споров.<br><br>👉Подробнее с результатами рейтинга можно ознакомиться на <a href=\"https://legal.wealthnavigator.ru/rating/\" target=\"_blank\" rel=\"noopener noreferrer\">сайте WEALTH Navigator</a>.",
+      "views": 870,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2840-1-32b2ef3c9de9-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2840-1-32b2ef3c9de9-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2840-2-b4aa3a89b20d-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2840-2-b4aa3a89b20d-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/PG_Tax/2840",
+      "forwarded_from": {
+        "source_url": "https://t.me/pgp_official/1955",
+        "channel_url": "https://t.me/s/pgp_official",
+        "channel_username": "pgp_official",
+        "channel_title": "Pepeliaev Group | Пепеляев Групп"
+      }
+    },
     {
       "id": 2839,
       "date": "2026-08-10T11:10:03+00:00",
@@ -17,8 +44,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2839-1-40b99761075c-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2839-1-40b99761075c-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2839-1-3e61d2528010-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2839-1-3e61d2528010-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +62,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2838-1-92aa75a94463-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2838-1-92aa75a94463-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2838-1-1b4a3e8989e9-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2838-1-1b4a3e8989e9-v4.jpg"
         }
       ],
       "video_url": null,
@@ -53,8 +80,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2837-1-89747f36f6b2-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2837-1-89747f36f6b2-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2837-1-766c12ff10eb-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2837-1-766c12ff10eb-v4.jpg"
         }
       ],
       "video_url": null,
@@ -71,8 +98,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2836-1-39c927be9c64-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2836-1-39c927be9c64-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2836-1-8447f0ce58a6-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2836-1-8447f0ce58a6-v4.jpg"
         }
       ],
       "video_url": null,
@@ -89,8 +116,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2835-1-24642c118515-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2835-1-24642c118515-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2835-1-8b11a7fa90bf-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2835-1-8b11a7fa90bf-v4.jpg"
         }
       ],
       "video_url": null,
@@ -107,25 +134,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2834-1-0a0ee669c563-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2834-1-0a0ee669c563-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2834-1-09dce12baf83-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2834-1-09dce12baf83-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/PG_Tax/2834",
-      "forwarded_from": null
-    },
-    {
-      "id": 2833,
-      "date": "2026-08-05T10:59:41+00:00",
-      "text": "РЕФОРМА БАНКРОТСТВА ЗАПУЩЕНА ❗️❗️  Практика банкротства и антикризисной защиты бизнеса сообщает об основных изменениях, внесенных в Закон о банкротстве Федеральным законом от 26.07.2026 № 253-ФЗ.  ✍️ Перестроена система саморегулирования арбитражных управляющих…",
-      "text_html": "РЕФОРМА БАНКРОТСТВА ЗАПУЩЕНА ❗️❗️  Практика банкротства и антикризисной защиты бизнеса сообщает об основных изменениях, внесенных в Закон о банкротстве Федеральным законом от 26.07.2026 № 253-ФЗ.  ✍️ Перестроена система саморегулирования арбитражных управляющих…",
-      "views": 1010,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2833",
       "forwarded_from": null
     }
   ]
