@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-07T01:50:01.296943+00:00",
+  "generated_at": "2026-11-07T07:51:21.339266+00:00",
   "pagination": {
     "page": 5,
     "page_size": 16,
-    "total_posts": 69,
+    "total_posts": 68,
     "total_pages": 5
   },
   "posts": [
@@ -17,24 +17,24 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1963-1-f666ef715e4a-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1963-1-f666ef715e4a-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1963-1-faf39bc0d19f-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1963-1-faf39bc0d19f-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1963-2-8d9a69963cfc-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1963-2-8d9a69963cfc-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1963-2-1a1be9cfab3f-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1963-2-1a1be9cfab3f-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1963-3-f5ffb23f0514-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1963-3-f5ffb23f0514-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1963-3-8ad2d000df37-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1963-3-8ad2d000df37-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1963-4-391e3d4479a4-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1963-4-391e3d4479a4-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1963-4-1601322747fb-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1963-4-1601322747fb-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1963-5-83600c1dd2c0-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1963-5-83600c1dd2c0-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1963-5-1cfeb28f9613-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1963-5-1cfeb28f9613-v4.jpg"
         }
       ],
       "video_url": null,
@@ -51,8 +51,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1962-1-168500d339ca-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1962-1-168500d339ca-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1962-1-15bac2df82f9-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1962-1-15bac2df82f9-v4.jpg"
         }
       ],
       "video_url": null,
@@ -69,12 +69,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1960-1-2768a319ade4-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1960-1-2768a319ade4-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1960-1-26266c2057d2-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1960-1-26266c2057d2-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1960-2-a25443d3e881-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1960-2-a25443d3e881-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1960-2-767e9a0cb7b4-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1960-2-767e9a0cb7b4-v4.jpg"
         }
       ],
       "video_url": null,
@@ -91,30 +91,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1959-1-4284fd96c2a0-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1959-1-4284fd96c2a0-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1959-1-41e8bafa407c-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1959-1-41e8bafa407c-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/pgp_official/1959",
-      "forwarded_from": null
-    },
-    {
-      "id": 1958,
-      "date": "2026-08-07T07:01:41+00:00",
-      "text": "🔍 Атака на склад маркетплейса: когда продавец сможет взыскать убытки?\n\nПосле атак беспилотников на склады маркетплейсов многие продавцы задаются вопросом, можно ли через суд добиться полной компенсации за утраченный товар.\n\n▫️В комментарии для vc.ru партнер «Пепеляев Групп» Юрий Воробьёв рассказал, когда у таких требований есть судебная перспектива, а также какие доказательства необходимо собрать до обращения в суд.\n\n 💬 «Само попадание беспилотника не является обстоятельством, за которое может отвечать маркетплейс. Однако теоретически возможна ситуация, при которой отдельные нарушения со стороны владельца склада способствовали увеличению причинённого ущерба. Например, если экспертиза установит, что система пожаротушения находилась в неработающем состоянии, а при её надлежащей работе распространение огня могло быть ограничено».\n\nЭксперт также объясняет, почему участие в официальном расследовании может оказаться ключевым для защиты интересов продавца, какие материалы необходимо изучить перед подачей иска и в каких случаях судебное разбирательство, несмотря на размер убытков, не имеет практического смысла.\n\nПодробнее – в материале vc.ru 👉",
-      "text_html": "🔍 Атака на склад маркетплейса: когда продавец сможет взыскать убытки?<br><br>После атак беспилотников на склады маркетплейсов многие продавцы задаются вопросом, можно ли через суд добиться полной компенсации за утраченный товар.<br><br>▫️В комментарии для <a href=\"http://vc.ru/\" target=\"_blank\" rel=\"noopener noreferrer\">vc.ru</a> партнер «Пепеляев Групп» <a href=\"https://www.pgplaw.ru/to-get-the-team/yuriy-vorobev/\" target=\"_blank\" rel=\"noopener noreferrer\">Юрий Воробьёв</a> рассказал, когда у таких требований есть судебная перспектива, а также какие доказательства необходимо собрать до обращения в суд.<br><br> 💬 «Само попадание беспилотника не является обстоятельством, за которое может отвечать маркетплейс. Однако теоретически возможна ситуация, при которой отдельные нарушения со стороны владельца склада способствовали увеличению причинённого ущерба. Например, если экспертиза установит, что система пожаротушения находилась в неработающем состоянии, а при её надлежащей работе распространение огня могло быть ограничено».<br><br>Эксперт также объясняет, почему участие в официальном расследовании может оказаться ключевым для защиты интересов продавца, какие материалы необходимо изучить перед подачей иска и в каких случаях судебное разбирательство, несмотря на размер убытков, не имеет практического смысла.<br><br>Подробнее – <a href=\"https://vc.ru/marketplace/3064521-posledstviya-atak-na-sklady-wildberries\" target=\"_blank\" rel=\"noopener noreferrer\">в материале vc.ru</a> 👉",
-      "views": 957,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1958-1-316e0ce61b7b-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1958-1-316e0ce61b7b-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/pgp_official/1958",
       "forwarded_from": null
     }
   ]
