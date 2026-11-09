@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-11-09T02:37:16.257203+00:00",
+  "generated_at": "2026-11-09T10:21:17.889743+00:00",
   "pagination": {
     "page": 11,
     "page_size": 16,
-    "total_posts": 165,
+    "total_posts": 166,
     "total_pages": 11
   },
   "posts": [
+    {
+      "id": 2844,
+      "date": "2026-08-11T13:33:26+00:00",
+      "text": "📚 Обновления сайта журнала «Налоговед» в июле\n\nОбращаем внимание на обновленную в июле информацию на сайте журнала «Налоговед» (по рубрикам):\n \n📎 КС РФ о налогах - коротко о постановлениях и определениях Суда, размещенных в указанный период\n\n📎 Обзор новостей УФНС – самые интересные новости региональных управлений (июль 2026 г.)\n\n📎 Диссертации – информация о назначенных к защите работах по специальности 5.1.2. Публично-правовые (государственно-правовые) науки\n\n#обновление_сайта_Налоговед",
+      "text_html": "📚 Обновления сайта журнала «Налоговед» в июле<br><br>Обращаем внимание на обновленную в июле информацию на сайте журнала «<a href=\"https://nalogoved.ru/\" target=\"_blank\" rel=\"noopener noreferrer\">Налоговед</a>» (по рубрикам):<br> <br>📎 КС РФ о налогах - <a href=\"https://nalogoved.ru/ks-rf-o/\" target=\"_blank\" rel=\"noopener noreferrer\">коротко</a> о постановлениях и определениях Суда, размещенных в указанный период<br><br>📎 Обзор новостей УФНС – самые интересные новости региональных управлений (<a href=\"https://nalogoved.ru/docs/16769.html\" target=\"_blank\" rel=\"noopener noreferrer\">июль 2026 г.</a>)<br><br>📎 Диссертации – <a href=\"https://nalogoved.ru/dissertatsii/\" target=\"_blank\" rel=\"noopener noreferrer\">информация</a> о назначенных к защите работах по специальности 5.1.2. Публично-правовые (государственно-правовые) науки<br><br>#обновление_сайта_Налоговед",
+      "views": 1000,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2844-1-d75c340e453d-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2844-1-d75c340e453d-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/PG_Tax/2844",
+      "forwarded_from": null
+    },
     {
       "id": 2843,
       "date": "2026-08-11T11:00:42+00:00",
@@ -17,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2843-1-ecfcd5c431fc-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2843-1-ecfcd5c431fc-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2843-1-730c54a0cd41-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2843-1-730c54a0cd41-v4.jpg"
         }
       ],
       "video_url": null,
@@ -40,8 +58,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2842-1-e8bf94a49fb3-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2842-1-e8bf94a49fb3-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2842-1-6d66ef6b0bf2-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2842-1-6d66ef6b0bf2-v4.jpg"
         }
       ],
       "video_url": null,
@@ -58,12 +76,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2840-1-52623f2deaf5-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2840-1-52623f2deaf5-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2840-1-1cd4fea64821-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2840-1-1cd4fea64821-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2840-2-450050fe7184-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2840-2-450050fe7184-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2840-2-8297a180877b-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2840-2-8297a180877b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -85,8 +103,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2839-1-287df8a778bc-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2839-1-287df8a778bc-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2839-1-53881fa659ca-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2839-1-53881fa659ca-v4.jpg"
         }
       ],
       "video_url": null,
@@ -103,8 +121,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2838-1-29e25c3ccc51-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2838-1-29e25c3ccc51-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2838-1-e0a242c44157-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2838-1-e0a242c44157-v4.jpg"
         }
       ],
       "video_url": null,

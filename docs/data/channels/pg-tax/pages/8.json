@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-11-09T02:37:16.252510+00:00",
+  "generated_at": "2026-11-09T10:21:17.882911+00:00",
   "pagination": {
     "page": 8,
     "page_size": 16,
-    "total_posts": 165,
+    "total_posts": 166,
     "total_pages": 11
   },
   "posts": [
+    {
+      "id": 2899,
+      "date": "2026-09-10T10:02:25+00:00",
+      "text": "🔍 Изменения в регулировании налогового мониторинга\n\nФНС России сообщает: введены дополнительные основания для досрочного прекращения налогового мониторинга (ст. 105.28 НК РФ в ред. Федерального закона от 28.11.2025 № 425-ФЗ). \n\n❌ Налоговый орган теперь вправе прекратить мониторинг при наступлении любого из следующих событий:\n   🔴неисполнении организацией регламента информационного взаимодействия;\n   🔴выявлении факта представления организацией недостоверной информации;\n   🔴систематическом непредставлении (несвоевременном представлении) документов (информации), пояснений в порядке ст.105.29 НК РФ;\n   🔴ликвидации или реорганизации организации, если правопреемник не вступил в налоговый мониторинг, а также при исключении организации из ЕГРЮЛ;\n   🔴неактуальности представленных документов для правопреемника по истечении месяца со дня его образования;\n   🔴несоответствии регламента информационного взаимодействия установленным требованиям;\n   🔴систематических нарушениях порядка и сроков доступа к информационным системам — два раза и более за период проведения налогового мониторинга;\n   🔴несоответствии информационных систем установленным требованиям;\n   🔴несоответствии системы внутреннего контроля установленным требованиям.\n\n💰 Скорректированы положения о мониторинге для правопреемников\nТакие компании могут вступить в режим без соблюдения суммовых критериев.\n\n💡 Урегулировано сопровождение при вступлении в мониторинг\nТеперь компании, планирующие переход на налоговый мониторинг и представившие в территориальный налоговый орган дорожную карту или заявление о вступлении, будут сопровождаться межрегиональной или межрайонной ИФНС России по крупнейшим налогоплательщикам (см. Приказ ФНС России от 31.08.2026 № ЕД-1-23/634@).\n\n#налоговый_мониторинг",
+      "text_html": "🔍 Изменения в регулировании налогового мониторинга<br><br>ФНС России <a href=\"https://www.nalog.gov.ru/rn77/news/activities_fts/16648544/\" target=\"_blank\" rel=\"noopener noreferrer\">сообщает</a>: введены дополнительные основания для досрочного прекращения налогового мониторинга (ст. 105.28 НК РФ в ред. Федерального закона от 28.11.2025 № 425-ФЗ). <br><br>❌ Налоговый орган теперь вправе прекратить мониторинг при наступлении любого из следующих событий:<br>   🔴неисполнении организацией регламента информационного взаимодействия;<br>   🔴выявлении факта представления организацией недостоверной информации;<br>   🔴систематическом непредставлении (несвоевременном представлении) документов (информации), пояснений в порядке ст.105.29 НК РФ;<br>   🔴ликвидации или реорганизации организации, если правопреемник не вступил в налоговый мониторинг, а также при исключении организации из ЕГРЮЛ;<br>   🔴неактуальности представленных документов для правопреемника по истечении месяца со дня его образования;<br>   🔴несоответствии регламента информационного взаимодействия установленным требованиям;<br>   🔴систематических нарушениях порядка и сроков доступа к информационным системам — два раза и более за период проведения налогового мониторинга;<br>   🔴несоответствии информационных систем установленным требованиям;<br>   🔴несоответствии системы внутреннего контроля установленным требованиям.<br><br>💰 Скорректированы положения о мониторинге для правопреемников<br>Такие компании могут вступить в режим без соблюдения суммовых критериев.<br><br>💡 Урегулировано сопровождение при вступлении в мониторинг<br>Теперь компании, планирующие переход на налоговый мониторинг и представившие в территориальный налоговый орган дорожную карту или заявление о вступлении, <a href=\"https://www.nalog.gov.ru/rn77/news/activities_fts/16648756/\" target=\"_blank\" rel=\"noopener noreferrer\">будут сопровождаться</a> межрегиональной или межрайонной ИФНС России по крупнейшим налогоплательщикам (см. Приказ ФНС России от 31.08.2026 № ЕД-1-23/634@).<br><br>#налоговый_мониторинг",
+      "views": 917,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2899-1-9be770a9d558-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2899-1-9be770a9d558-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/PG_Tax/2899",
+      "forwarded_from": null
+    },
     {
       "id": 2898,
       "date": "2026-09-10T08:28:39+00:00",
@@ -17,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2898-1-637bb7a8e047-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2898-1-637bb7a8e047-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2898-1-c20c4a065a96-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2898-1-c20c4a065a96-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +53,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2896-1-e7e7a9482d7d-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2896-1-e7e7a9482d7d-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2896-1-7f8d98bf39cc-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2896-1-7f8d98bf39cc-v4.jpg"
         }
       ],
       "video_url": null,
@@ -53,8 +71,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2895-1-b4deb64c1ad8-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2895-1-b4deb64c1ad8-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2895-1-8472fbeabc5f-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2895-1-8472fbeabc5f-v4.jpg"
         }
       ],
       "video_url": null,
@@ -71,12 +89,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2893-1-32fc060cb5c1-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2893-1-32fc060cb5c1-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2893-1-21b4c422fe91-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2893-1-21b4c422fe91-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2893-2-39e1f604cab8-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2893-2-39e1f604cab8-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2893-2-c48b6ce1aeee-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2893-2-c48b6ce1aeee-v4.jpg"
         }
       ],
       "video_url": null,
@@ -93,8 +111,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2892-1-46300d4e56bb-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2892-1-46300d4e56bb-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2892-1-f6d09ae75dbe-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2892-1-f6d09ae75dbe-v4.jpg"
         }
       ],
       "video_url": null,
@@ -111,8 +129,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2891-1-f3726043b96a-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2891-1-f3726043b96a-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2891-1-c1fc904dc4c5-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2891-1-c1fc904dc4c5-v4.jpg"
         }
       ],
       "video_url": null,
@@ -134,8 +152,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2890-1-9fbfba9a6ba4-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2890-1-9fbfba9a6ba4-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2890-1-72542ca4bad6-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2890-1-72542ca4bad6-v4.jpg"
         }
       ],
       "video_url": null,
@@ -152,8 +170,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2889-1-af7791fa0f63-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2889-1-af7791fa0f63-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2889-1-c5a62c6411ad-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2889-1-c5a62c6411ad-v4.jpg"
         }
       ],
       "video_url": null,
@@ -170,8 +188,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2888-1-d6ef35fe8a69-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2888-1-d6ef35fe8a69-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2888-1-0c1ff3193bef-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2888-1-0c1ff3193bef-v4.jpg"
         }
       ],
       "video_url": null,
@@ -193,8 +211,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2887-1-c39f4110c280-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2887-1-c39f4110c280-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2887-1-de6e3e0f1048-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2887-1-de6e3e0f1048-v4.jpg"
         }
       ],
       "video_url": null,
@@ -216,8 +234,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2886-1-a4188352512d-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2886-1-a4188352512d-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2886-1-f46175689659-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2886-1-f46175689659-v4.jpg"
         }
       ],
       "video_url": null,
@@ -234,8 +252,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2885-1-11bbc0089638-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2885-1-11bbc0089638-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2885-1-bed6a2103860-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2885-1-bed6a2103860-v4.jpg"
         }
       ],
       "video_url": null,
@@ -252,8 +270,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2884-1-9168ad699b56-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2884-1-9168ad699b56-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2884-1-113be3644d95-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2884-1-113be3644d95-v4.jpg"
         }
       ],
       "video_url": null,
@@ -270,8 +288,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2883-1-2128d1284e73-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2883-1-2128d1284e73-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2883-1-d653da4b46fd-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2883-1-d653da4b46fd-v4.jpg"
         }
       ],
       "video_url": null,
@@ -288,31 +306,13 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2882-1-05ffebcd68ef-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2882-1-05ffebcd68ef-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2882-1-dfaba958ec18-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2882-1-dfaba958ec18-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/PG_Tax/2882",
       "forwarded_from": null
-    },
-    {
-      "id": 2881,
-      "date": "2026-09-01T11:04:23+00:00",
-      "text": "❗️Реклама на запрещенных площадках: как рекламодателям обезопасить себя?\n\nВ выпуске программы Adindex «Дело в рекламе» Илья Тюленев, руководитель антимонопольной практики «Пепеляев Групп», рассказал:\n\n🔸 как распределяется ответственность между сторонами;\n\n🔸 какие условия стоит включать в договоры с блогерами и рекламораспространителями;\n\n🔸 почему важно заранее согласовывать площадки размещения.\n\nОтдельно эксперт остановился на налоговых рисках: расходы на рекламу на запрещённых ресурсах нельзя учитывать при расчёте налогооблагаемой прибыли.\n\n⬆️ Смотрите интервью, чтобы узнать подробнее о рисках рекламодателей и способах их минимизировать.",
-      "text_html": "❗️Реклама на запрещенных площадках: как рекламодателям обезопасить себя?<br><br>В <a href=\"https://vkvideo.ru/video-14899079_456247020?t=44m15s\" target=\"_blank\" rel=\"noopener noreferrer\">выпуске программы</a> Adindex «Дело в рекламе» <a href=\"https://www.pgplaw.ru/to-get-the-team/tiulenev/\" target=\"_blank\" rel=\"noopener noreferrer\">Илья Тюленев</a>, руководитель антимонопольной практики «Пепеляев Групп», рассказал:<br><br>🔸 как распределяется ответственность между сторонами;<br><br>🔸 какие условия стоит включать в договоры с блогерами и рекламораспространителями;<br><br>🔸 почему важно заранее согласовывать площадки размещения.<br><br>Отдельно эксперт остановился на налоговых рисках: расходы на рекламу на запрещённых ресурсах нельзя учитывать при расчёте налогооблагаемой прибыли.<br><br>⬆️ Смотрите интервью, чтобы узнать подробнее о рисках рекламодателей и способах их минимизировать.",
-      "views": 919,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2881",
-      "forwarded_from": {
-        "source_url": "https://t.me/PgAntitrust/1467",
-        "channel_url": "https://t.me/s/PgAntitrust",
-        "channel_username": "PgAntitrust",
-        "channel_title": "PG Antitrust | Антимонопольное право"
-      }
     }
   ]
 }

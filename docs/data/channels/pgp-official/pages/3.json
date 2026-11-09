@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-11-09T02:36:01.744069+00:00",
+  "generated_at": "2026-11-09T10:18:43.552871+00:00",
   "pagination": {
     "page": 3,
     "page_size": 16,
-    "total_posts": 67,
+    "total_posts": 68,
     "total_pages": 5
   },
   "posts": [
+    {
+      "id": 2010,
+      "date": "2026-09-22T12:00:51+00:00",
+      "text": "⭐️Сергей Пепеляев стал первым гостем цикла встреч с выдающимися представителями юридической профессии\n\n19 сентября в рамках традиционных «Юридических суббот» Института законодательства и сравнительного правоведения при Правительстве РФ стартовал новый цикл встреч с выдающимися представителями юридической профессии. Первым гостем стал Сергей Пепеляев, управляющий партнер «Пепеляев Групп», кандидат юридических наук.\n\n▫️Сергей Геннадьевич поделился своим профессиональным опытом и рассказал о развитии юридической профессии, управлении юридическим бизнесом и роли юриста в современном обществе.\n\n🔘Участники встречи обсудили профессиональную репутацию, сочетание практической работы и научной деятельности, развитие управленческих компетенций, устойчивость юридического бизнеса и вопросы регулирования юридического рынка.",
+      "text_html": "⭐️Сергей Пепеляев стал первым гостем цикла встреч с выдающимися представителями юридической профессии<br><br>19 сентября в рамках традиционных «Юридических суббот» Института законодательства и сравнительного правоведения при Правительстве РФ стартовал новый цикл встреч с выдающимися представителями юридической профессии. Первым гостем стал Сергей Пепеляев, управляющий партнер «Пепеляев Групп», кандидат юридических наук.<br><br>▫️Сергей Геннадьевич поделился своим профессиональным опытом и рассказал о развитии юридической профессии, управлении юридическим бизнесом и роли юриста в современном обществе.<br><br>🔘Участники встречи обсудили профессиональную репутацию, сочетание практической работы и научной деятельности, развитие управленческих компетенций, устойчивость юридического бизнеса и вопросы регулирования юридического рынка.",
+      "views": 2080,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/2010-1-ddc75dbc92fd-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/2010-1-ddc75dbc92fd-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/pgp_official/2010",
+      "forwarded_from": null
+    },
     {
       "id": 2008,
       "date": "2026-09-21T07:04:51+00:00",
@@ -17,12 +35,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/2008-1-4de73d390c42-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/2008-1-4de73d390c42-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/2008-1-0912718dfb5c-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/2008-1-0912718dfb5c-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/2008-2-dda50910951a-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/2008-2-dda50910951a-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/2008-2-0e3a2060cb34-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/2008-2-0e3a2060cb34-v4.jpg"
         }
       ],
       "video_url": null,
@@ -39,8 +57,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/2007-1-87960d4bd813-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/2007-1-87960d4bd813-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/2007-1-178bb9df9afa-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/2007-1-178bb9df9afa-v4.jpg"
         }
       ],
       "video_url": null,
@@ -57,8 +75,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/2006-1-3e8e3af385f0-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/2006-1-3e8e3af385f0-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/2006-1-8800e7ae8205-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/2006-1-8800e7ae8205-v4.jpg"
         }
       ],
       "video_url": null,
@@ -80,8 +98,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/2005-1-afe7e719d4f8-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/2005-1-afe7e719d4f8-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/2005-1-477752d9a485-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/2005-1-477752d9a485-v4.jpg"
         }
       ],
       "video_url": null,
@@ -98,8 +116,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/2004-1-964c978084c7-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/2004-1-964c978084c7-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/2004-1-c512d0d4152c-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/2004-1-c512d0d4152c-v4.jpg"
         }
       ],
       "video_url": null,
@@ -121,12 +139,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/2002-1-3df471bf303e-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/2002-1-3df471bf303e-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/2002-1-ac6893e07531-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/2002-1-ac6893e07531-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/2002-2-7c6b87b39845-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/2002-2-7c6b87b39845-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/2002-2-c88ee168e925-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/2002-2-c88ee168e925-v4.jpg"
         }
       ],
       "video_url": null,
@@ -138,13 +156,13 @@
       "date": "2026-09-10T10:01:27+00:00",
       "text": "🏢 Еженедельная подборка обзоров от практик «Пепеляев Групп»\n\nЧто изменилось за последнюю неделю, и на что стоит обратить внимание бизнесу?\n\n▫️ Налоговые новости. Дайджест за 31 августа - 6 сентября 2026 г.\n\n▫️ Ключевые разъяснения Минфина и ФНС для инвесторов за 1 полугодие 2026 г.\n\n▫️ СпецИнвестРежимы в Сибири и на Дальнем Востоке. Дайджест 31 августа - 6 сентября 2026 г.\n\n▫️ Ограничения и меры поддержки для бизнеса: дайджест за 10 августа - 6 сентября 2026 г.\n\n▫️ Письма Минфина и ФНС, разъяснения для ИТ-отрасли за 1 полугодие 2026 г.\n\n▫️ Банкротство: взгляд эксперта. Обзор № 337 за 3 – 9 сентября 2026 г.\n\n#pg_обзоры_недели\n\n☝️ Подписаться на рассылки | MAX | Приложение PG",
       "text_html": "🏢 Еженедельная подборка обзоров от практик «Пепеляев Групп»<br><br>Что изменилось за последнюю неделю, и на что стоит обратить внимание бизнесу?<br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/tax-reviews/tax-news-digest-07-09-26/\" target=\"_blank\" rel=\"noopener noreferrer\">Налоговые новости. Дайджест за 31 августа - 6 сентября 2026 г.</a><br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/spec-invest-obzor/razyasneniya-minfina-i-fns-dlya-investorov-za-1-polugodie/\" target=\"_blank\" rel=\"noopener noreferrer\">Ключевые разъяснения Минфина и ФНС для инвесторов за 1 полугодие 2026 г.</a><br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/spec-invest-obzor/invest-news-digest-07-09-26/\" target=\"_blank\" rel=\"noopener noreferrer\">СпецИнвестРежимы в Сибири и на Дальнем Востоке. Дайджест 31 августа - 6 сентября 2026 г.</a><br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/sanctions-support-digest/support-digest-07-09-26/\" target=\"_blank\" rel=\"noopener noreferrer\">Ограничения и меры поддержки для бизнеса: дайджест за 10 августа - 6 сентября 2026 г.</a><br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/telecom-digest/pisma-minfina-i-fns-razyasneniya-dlya-it-otrasli/\" target=\"_blank\" rel=\"noopener noreferrer\">Письма Минфина и ФНС, разъяснения для ИТ-отрасли за 1 полугодие 2026 г.</a><br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/bankruptcy-must-read/bankruptcy-digest-09-09-26/\" target=\"_blank\" rel=\"noopener noreferrer\">Банкротство: взгляд эксперта. Обзор № 337 за 3 – 9 сентября 2026 г.</a><br><br>#pg_обзоры_недели<br><br>☝️ <a href=\"https://www.pgplaw.ru/subscribe/\" target=\"_blank\" rel=\"noopener noreferrer\">Подписаться на рассылки |</a> <a href=\"https://max.ru/id7707301372_biz\" target=\"_blank\" rel=\"noopener noreferrer\">MAX |</a> <a href=\"https://t.me/pgp_official/1769\" target=\"_blank\" rel=\"noopener noreferrer\">Приложение PG</a>",
-      "views": 779,
+      "views": 780,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/2001-1-32d12591d955-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/2001-1-32d12591d955-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/2001-1-9c41fd8d2b28-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/2001-1-9c41fd8d2b28-v4.jpg"
         }
       ],
       "video_url": null,
@@ -156,13 +174,13 @@
       "date": "2026-09-09T08:02:32+00:00",
       "text": "📹 Как устроены налоги в бизнесе — снова в эфире\n\nЧто нужно знать юристу, менеджеру по закупкам, маркетингу, HR или руководителю, чтобы понимать, как налоговые правила влияют на бизнес?\n\nПродолжаем серию «Как устроены налоги в бизнесе» вместе с экспертами «Пепеляев Групп».\n\n👍 В первой серии участники особенно ценили то, что сложное объясняли понятно и связывали аспекты налогообложения с реальными бизнес-задачами:\n\n✔️ Информацию о самих налогах найти не так сложно, но то, как вы увязываете эти правила с их влиянием на бизнес – формат очень ценный.\n✔️ Подача материала создает массу стимулов погружения в мир налогов и более углубленного изучения некоторых вопросов. \n✔️ Было очень познавательно. Некоторые аспекты НДС открыл для себя впервые!\n✔️ С огромным интересом смотрю ваш вебинар, что называется, «подсел». Чрезвычайно интересно рассказываете, и главное – доступным языком.\n\nВ новой серии разберём:\n\n▫️ НДС— 22 и 29 сентября\n▫️ Налог на прибыль — 20 и 27 октября\n▫️ Налоговые схемы — 17 и 24 ноября\n▫️ Уголовную ответственность — 10 декабря\n\n👉 Регистрируйтесь и присылайте вопросы. Будем разбирать налоги так, чтобы их понимали не только налоговики.\n\n🏢 Подписаться на рассылки |MAX |Приложение PG",
       "text_html": "📹 Как устроены налоги в бизнесе — снова в эфире<br><br>Что нужно знать юристу, менеджеру по закупкам, маркетингу, HR или руководителю, чтобы понимать, как налоговые правила влияют на бизнес?<br><br>Продолжаем серию «Как устроены налоги в бизнесе» вместе с экспертами «Пепеляев Групп».<br><br>👍 В первой серии участники особенно ценили то, что сложное объясняли понятно и связывали аспекты налогообложения с реальными бизнес-задачами:<br><br>✔️ Информацию о самих налогах найти не так сложно, но то, как вы увязываете эти правила с их влиянием на бизнес – формат очень ценный.<br>✔️ Подача материала создает массу стимулов погружения в мир налогов и более углубленного изучения некоторых вопросов. <br>✔️ Было очень познавательно. Некоторые аспекты НДС открыл для себя впервые!<br>✔️ С огромным интересом смотрю ваш вебинар, что называется, «подсел». Чрезвычайно интересно рассказываете, и главное – доступным языком.<br><br>В новой серии разберём:<br><br>▫️ <a href=\"https://www.pgplaw.ru/events/upcoming-events/kak-ustroeny-nalogi-v-biznese-nds/\" target=\"_blank\" rel=\"noopener noreferrer\">НДС</a>— 22 и 29 сентября<br>▫️ <a href=\"https://www.pgplaw.ru/events/upcoming-events/kak-ustroeny-nalogi-v-biznese--nalog-na-pribyl/\" target=\"_blank\" rel=\"noopener noreferrer\">Налог на прибыль</a> — 20 и 27 октября<br>▫️ <a href=\"https://www.pgplaw.ru/events/upcoming-events/kak-ustroeny-nalogi-v-biznese-nalogovye-skhemy/\" target=\"_blank\" rel=\"noopener noreferrer\">Налоговые схемы</a> — 17 и 24 ноября<br>▫️ <a href=\"https://www.pgplaw.ru/events/upcoming-events/kak-ustroeny-nalogi-v-biznese-ugolovnaya-otvetstvennost/\" target=\"_blank\" rel=\"noopener noreferrer\">Уголовную ответственность</a> — 10 декабря<br><br>👉 Регистрируйтесь и присылайте вопросы. Будем разбирать налоги так, чтобы их понимали не только налоговики.<br><br>🏢 <a href=\"https://www.pgplaw.ru/subscribe/\" target=\"_blank\" rel=\"noopener noreferrer\">Подписаться на рассылки |</a><a href=\"https://max.ru/id7707301372_biz\" target=\"_blank\" rel=\"noopener noreferrer\">MAX |</a><a href=\"https://t.me/pgp_official/1769\" target=\"_blank\" rel=\"noopener noreferrer\">Приложение PG</a>",
-      "views": 843,
+      "views": 844,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/2000-1-e02ef947d33a-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/2000-1-e02ef947d33a-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/2000-1-3fa80e94aaba-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/2000-1-3fa80e94aaba-v4.jpg"
         }
       ],
       "video_url": null,
@@ -179,8 +197,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1999-1-a6c975f0716d-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1999-1-a6c975f0716d-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1999-1-d84a70b0fa44-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1999-1-d84a70b0fa44-v4.jpg"
         }
       ],
       "video_url": null,
@@ -197,8 +215,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1998-1-6082b2b9d72a-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1998-1-6082b2b9d72a-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1998-1-96f839366958-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1998-1-96f839366958-v4.jpg"
         }
       ],
       "video_url": null,
@@ -215,12 +233,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1996-1-a0c822adbc3e-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1996-1-a0c822adbc3e-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1996-1-7851ae844495-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1996-1-7851ae844495-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1996-2-551240c9a92d-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1996-2-551240c9a92d-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1996-2-fb758b452127-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1996-2-fb758b452127-v4.jpg"
         }
       ],
       "video_url": null,
@@ -237,8 +255,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1995-1-a1759899532f-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1995-1-a1759899532f-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1995-1-c8c60c641609-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1995-1-c8c60c641609-v4.jpg"
         }
       ],
       "video_url": null,
@@ -250,7 +268,7 @@
       "date": "2026-09-04T10:04:37+00:00",
       "text": "❗️Реклама на запрещенных площадках: как рекламодателям обезопасить себя?\n\nВ выпуске программы Adindex «Дело в рекламе» Илья Тюленев, руководитель антимонопольной практики «Пепеляев Групп», рассказал:\n\n🔸 как распределяется ответственность между сторонами;\n\n🔸 какие условия стоит включать в договоры с блогерами и рекламораспространителями;\n\n🔸 почему важно заранее согласовывать площадки размещения.\n\nОтдельно эксперт остановился на налоговых рисках: расходы на рекламу на запрещённых ресурсах нельзя учитывать при расчёте налогооблагаемой прибыли.\n\n⬆️ Смотрите интервью, чтобы узнать подробнее о рисках рекламодателей и способах их минимизировать.",
       "text_html": "❗️Реклама на запрещенных площадках: как рекламодателям обезопасить себя?<br><br>В <a href=\"https://vkvideo.ru/video-14899079_456247020?t=44m15s\" target=\"_blank\" rel=\"noopener noreferrer\">выпуске программы</a> Adindex «Дело в рекламе» <a href=\"https://www.pgplaw.ru/to-get-the-team/tiulenev/\" target=\"_blank\" rel=\"noopener noreferrer\">Илья Тюленев</a>, руководитель антимонопольной практики «Пепеляев Групп», рассказал:<br><br>🔸 как распределяется ответственность между сторонами;<br><br>🔸 какие условия стоит включать в договоры с блогерами и рекламораспространителями;<br><br>🔸 почему важно заранее согласовывать площадки размещения.<br><br>Отдельно эксперт остановился на налоговых рисках: расходы на рекламу на запрещённых ресурсах нельзя учитывать при расчёте налогооблагаемой прибыли.<br><br>⬆️ Смотрите интервью, чтобы узнать подробнее о рисках рекламодателей и способах их минимизировать.",
-      "views": 851,
+      "views": 852,
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
@@ -268,13 +286,13 @@
       "date": "2026-09-03T13:33:17+00:00",
       "text": "📢 Осеннее заседание Комплаенс Клуба\n\nБолее 6 лет «Пепеляев Групп» совместно с факультетом права НИУ ВШЭ проводит заседания Комплаенс Клуба — экспертной площадки для обмена лучшими практиками ведущих российских компаний в сфере комплаенса и профилактики правовых рисков.\n\n🗓  Ближайшее заседание состоится этой осенью.\n\nТема обсуждения: трудоправовые аспекты антикоррупционного комплаенса.\n\n❓ В связи с подготовкой повестки предлагаем поделиться вопросами, темами и аспектами, которые вы считаете актуальными и хотели бы обсудить на будущих заседаниях Клуба. \n\n👉 Заполните короткую форму по ссылке.",
       "text_html": "📢 Осеннее заседание Комплаенс Клуба<br><br>Более 6 лет «Пепеляев Групп» совместно с факультетом права НИУ ВШЭ проводит заседания Комплаенс Клуба — экспертной площадки для обмена лучшими практиками ведущих российских компаний в сфере комплаенса и профилактики правовых рисков.<br><br>🗓  Ближайшее заседание состоится этой осенью.<br><br>Тема обсуждения: трудоправовые аспекты антикоррупционного комплаенса.<br><br>❓ В связи с подготовкой повестки предлагаем поделиться вопросами, темами и аспектами, которые вы считаете актуальными и хотели бы обсудить на будущих заседаниях Клуба. <br><br>👉 Заполните короткую <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSfkSoHEiurj028OKP5iuUIOKQ4Qz-FAGtBmqeKrOWJM6huD3w/viewform\" target=\"_blank\" rel=\"noopener noreferrer\">форму по ссылке</a>.",
-      "views": 787,
+      "views": 789,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1993-1-1b167d41e862-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1993-1-1b167d41e862-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1993-1-fe017ad13529-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1993-1-fe017ad13529-v4.jpg"
         }
       ],
       "video_url": null,
@@ -291,34 +309,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1992-1-414d6108976d-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1992-1-414d6108976d-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1992-1-7650296d6e5f-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1992-1-7650296d6e5f-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/pgp_official/1992",
-      "forwarded_from": null
-    },
-    {
-      "id": 1990,
-      "date": "2026-09-03T09:01:32+00:00",
-      "text": "🎤 Как бизнесу защищать свои интересы в условиях постоянно меняющейся регуляторики?\n\n1 сентября Юрий Воробьев, партнер «Пепеляев Групп», принял участие в бизнес-форуме Russian Fashion Retail Forum.\n\n🎙 В рамках сессии «Механизмы правовой защиты бизнеса» Юрий Воробьев рассказал о том, как предпринимателям ориентироваться в постоянно меняющемся ландшафте регулирования и нормотворчества, и какие инструменты могут в этом помочь — от профессионального консалтинга и аутсорсинга юридических функций до специализированных сообществ, образовательных мероприятий и современных технологий.\n\n\nОтдельно участники обсудили наиболее значимые для бизнеса изменения 2026 года и кейсы, в которых правовые нормы напрямую влияют на развитие бизнеса, защиту бренда и возможность масштабирования.\n\n🏢 Подписаться на рассылки| MAX| Приложение PG",
-      "text_html": "🎤 Как бизнесу защищать свои интересы в условиях постоянно меняющейся регуляторики?<br><br>1 сентября Юрий Воробьев, партнер «Пепеляев Групп», принял участие в бизнес-форуме Russian Fashion Retail Forum.<br><br>🎙 В рамках сессии «Механизмы правовой защиты бизнеса» Юрий Воробьев рассказал о том, как предпринимателям ориентироваться в постоянно меняющемся ландшафте регулирования и нормотворчества, и какие инструменты могут в этом помочь — от профессионального консалтинга и аутсорсинга юридических функций до специализированных сообществ, образовательных мероприятий и современных технологий.<br><br><br>Отдельно участники обсудили наиболее значимые для бизнеса изменения 2026 года и кейсы, в которых правовые нормы напрямую влияют на развитие бизнеса, защиту бренда и возможность масштабирования.<br><br>🏢 <a href=\"https://www.pgplaw.ru/subscribe/\" target=\"_blank\" rel=\"noopener noreferrer\">Подписаться на рассылки</a>| <a href=\"https://max.ru/id7707301372_biz\" target=\"_blank\" rel=\"noopener noreferrer\">MAX</a>| <a href=\"https://t.me/pgp_official/1769\" target=\"_blank\" rel=\"noopener noreferrer\">Приложение PG</a>",
-      "views": 602,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1990-1-a2b8ab437989-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1990-1-a2b8ab437989-v4.jpg"
-        },
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1990-2-0afd1bbee7e5-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1990-2-0afd1bbee7e5-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/pgp_official/1990",
       "forwarded_from": null
     }
   ]

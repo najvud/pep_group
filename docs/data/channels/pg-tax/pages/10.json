@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-11-09T02:37:16.255961+00:00",
+  "generated_at": "2026-11-09T10:21:17.887929+00:00",
   "pagination": {
     "page": 10,
     "page_size": 16,
-    "total_posts": 165,
+    "total_posts": 166,
     "total_pages": 11
   },
   "posts": [
+    {
+      "id": 2864,
+      "date": "2026-08-20T12:43:21+00:00",
+      "text": "❌ Налог на «чужой» доход: вексельная ловушка Минфина\n\nСтарший партнер «Пепеляев Групп» Сергей Савсерис продолжает серию постов, посвященную «ошибочным» письмам Минфина за 2025–2026.\n \n📜 Письмо Минфина России 02.02.2026 № 03-04-06/6850 о налогообложении НДФЛ всей суммы процентов по векселям\n\nМинфин подготовил неприятный сюрприз для тех, кто инвестирует в процентные векселя. \nВедомство разъяснило, что при выплате физическому лицу дохода по процентному векселю необходимо удерживать НДФЛ со всей суммы процентов, указанных в векселе.\n\n⚙️ Чем мог руководствоваться Минфин? \n\nЗдесь мы видим торжество формального подхода над здравым смыслом. Логика чиновников проста: раз выплата происходит в адрес конкретного лица, то вся сумма выплаты — это его доход. \n\nВедомство не хочет усложнять жизнь налоговым агентам (банкам, брокерам) расчетами фактических периодов владения, предпочитая собирать налог по максимуму с того, кто «оказался крайним» в момент погашения.\n\n❌ В чем ошибка с позиции экономического смысла? \n\nПозиция Минфина прямо нарушает принцип обложения только реальной экономической выгоды (ст. 3 и ст. 41 НК РФ). Вексель — это инструмент, который может менять владельцев многократно. \nЕсли человек владел бумагой всего 2 дня из годового процентного периода, то удержание налога со всей годовой суммы процентов выглядит не просто спорным, а необоснованным. Получается, налогоплательщик платит налог за доходы, которые фактически получили предыдущие владельцы. \n\n☝️ Это превращает НДФЛ из налога на доход в налог на «факт владения в дату выплаты».\n\n#ошибки_Минфина\n\n➖➖\n📧 Если у вас возникли вопросы о применении этого или других разъяснений государственных органов, вы можете обращаться напрямую к Сергею Савсерису: s.savseris@pgplaw.ru",
+      "text_html": "❌ Налог на «чужой» доход: вексельная ловушка Минфина<br><br>Старший партнер «Пепеляев Групп» <a href=\"https://www.pgplaw.ru/to-get-the-team/sergey-savseris/\" target=\"_blank\" rel=\"noopener noreferrer\">Сергей Савсерис</a> продолжает серию постов, посвященную «ошибочным» письмам Минфина за 2025–2026.<br> <br>📜 Письмо Минфина России 02.02.2026 № 03-04-06/6850 о налогообложении НДФЛ всей суммы процентов по векселям<br><br>Минфин подготовил неприятный сюрприз для тех, кто инвестирует в процентные векселя. <br>Ведомство разъяснило, что при выплате физическому лицу дохода по процентному векселю необходимо удерживать НДФЛ со всей суммы процентов, указанных в векселе.<br><br>⚙️ Чем мог руководствоваться Минфин? <br><br>Здесь мы видим торжество формального подхода над здравым смыслом. Логика чиновников проста: раз выплата происходит в адрес конкретного лица, то вся сумма выплаты — это его доход. <br><br>Ведомство не хочет усложнять жизнь налоговым агентам (банкам, брокерам) расчетами фактических периодов владения, предпочитая собирать налог по максимуму с того, кто «оказался крайним» в момент погашения.<br><br>❌ В чем ошибка с позиции экономического смысла? <br><br>Позиция Минфина прямо нарушает принцип обложения только реальной экономической выгоды (ст. 3 и ст. 41 НК РФ). Вексель — это инструмент, который может менять владельцев многократно. <br>Если человек владел бумагой всего 2 дня из годового процентного периода, то удержание налога со всей годовой суммы процентов выглядит не просто спорным, а необоснованным. Получается, налогоплательщик платит налог за доходы, которые фактически получили предыдущие владельцы. <br><br>☝️ Это превращает НДФЛ из налога на доход в налог на «факт владения в дату выплаты».<br><br>#ошибки_Минфина<br><br>➖➖<br>📧 Если у вас возникли вопросы о применении этого или других разъяснений государственных органов, вы можете обращаться напрямую к Сергею Савсерису: s.savseris@pgplaw.ru",
+      "views": 968,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2864-1-7f5758f6a149-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2864-1-7f5758f6a149-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/PG_Tax/2864",
+      "forwarded_from": null
+    },
     {
       "id": 2863,
       "date": "2026-08-20T08:15:32+00:00",
@@ -30,8 +48,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2862-1-6d204fbca00b-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2862-1-6d204fbca00b-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2862-1-68e5c69dea3b-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2862-1-68e5c69dea3b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -48,8 +66,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2859-1-12fc3a1d921b-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2859-1-12fc3a1d921b-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2859-1-eaba5c34bc2b-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2859-1-eaba5c34bc2b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -66,8 +84,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2858-1-40a3d33c6dd4-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2858-1-40a3d33c6dd4-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2858-1-bd58a069855c-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2858-1-bd58a069855c-v4.jpg"
         }
       ],
       "video_url": null,
@@ -84,8 +102,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2857-1-d775d1aea649-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2857-1-d775d1aea649-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2857-1-ed4bafd09865-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2857-1-ed4bafd09865-v4.jpg"
         }
       ],
       "video_url": null,
@@ -102,8 +120,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2856-1-d71c319ae019-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2856-1-d71c319ae019-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2856-1-4924611dcc8f-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2856-1-4924611dcc8f-v4.jpg"
         }
       ],
       "video_url": null,
@@ -120,8 +138,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2854-1-b4336d49092e-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2854-1-b4336d49092e-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2854-1-2734247a6b97-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2854-1-2734247a6b97-v4.jpg"
         }
       ],
       "video_url": null,
@@ -143,8 +161,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2853-1-2c629f51736a-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2853-1-2c629f51736a-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2853-1-c24d666dbbf5-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2853-1-c24d666dbbf5-v4.jpg"
         }
       ],
       "video_url": null,
@@ -161,8 +179,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2852-1-1f49d3b951e5-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2852-1-1f49d3b951e5-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2852-1-d8eb671fa910-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2852-1-d8eb671fa910-v4.jpg"
         }
       ],
       "video_url": null,
@@ -179,8 +197,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2850-1-5d3fe9919252-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2850-1-5d3fe9919252-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2850-1-db97bdcec632-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2850-1-db97bdcec632-v4.jpg"
         }
       ],
       "video_url": null,
@@ -197,8 +215,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2849-1-54920de8bb18-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2849-1-54920de8bb18-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2849-1-8f4a82ff0a4a-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2849-1-8f4a82ff0a4a-v4.jpg"
         }
       ],
       "video_url": null,
@@ -215,8 +233,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2848-1-424230a7908a-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2848-1-424230a7908a-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2848-1-149d9aea1f66-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2848-1-149d9aea1f66-v4.jpg"
         }
       ],
       "video_url": null,
@@ -233,8 +251,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2847-1-7f865c4fcedb-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2847-1-7f865c4fcedb-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2847-1-93f5496c14cb-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2847-1-93f5496c14cb-v4.jpg"
         }
       ],
       "video_url": null,
@@ -251,8 +269,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2846-1-a5c333744324-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2846-1-a5c333744324-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2846-1-9b516de6df2a-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2846-1-9b516de6df2a-v4.jpg"
         }
       ],
       "video_url": null,
@@ -269,30 +287,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2845-1-73fc587a07b1-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2845-1-73fc587a07b1-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2845-1-0894c008f67e-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2845-1-0894c008f67e-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/PG_Tax/2845",
-      "forwarded_from": null
-    },
-    {
-      "id": 2844,
-      "date": "2026-08-11T13:33:26+00:00",
-      "text": "📚 Обновления сайта журнала «Налоговед» в июле\n\nОбращаем внимание на обновленную в июле информацию на сайте журнала «Налоговед» (по рубрикам):\n \n📎 КС РФ о налогах - коротко о постановлениях и определениях Суда, размещенных в указанный период\n\n📎 Обзор новостей УФНС – самые интересные новости региональных управлений (июль 2026 г.)\n\n📎 Диссертации – информация о назначенных к защите работах по специальности 5.1.2. Публично-правовые (государственно-правовые) науки\n\n#обновление_сайта_Налоговед",
-      "text_html": "📚 Обновления сайта журнала «Налоговед» в июле<br><br>Обращаем внимание на обновленную в июле информацию на сайте журнала «<a href=\"https://nalogoved.ru/\" target=\"_blank\" rel=\"noopener noreferrer\">Налоговед</a>» (по рубрикам):<br> <br>📎 КС РФ о налогах - <a href=\"https://nalogoved.ru/ks-rf-o/\" target=\"_blank\" rel=\"noopener noreferrer\">коротко</a> о постановлениях и определениях Суда, размещенных в указанный период<br><br>📎 Обзор новостей УФНС – самые интересные новости региональных управлений (<a href=\"https://nalogoved.ru/docs/16769.html\" target=\"_blank\" rel=\"noopener noreferrer\">июль 2026 г.</a>)<br><br>📎 Диссертации – <a href=\"https://nalogoved.ru/dissertatsii/\" target=\"_blank\" rel=\"noopener noreferrer\">информация</a> о назначенных к защите работах по специальности 5.1.2. Публично-правовые (государственно-правовые) науки<br><br>#обновление_сайта_Налоговед",
-      "views": 1000,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2844-1-6fa28f588e89-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2844-1-6fa28f588e89-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2844",
       "forwarded_from": null
     }
   ]

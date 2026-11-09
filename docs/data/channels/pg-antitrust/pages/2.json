@@ -1,18 +1,41 @@
 {
-  "generated_at": "2026-11-08T23:05:00.555864+00:00",
+  "generated_at": "2026-11-09T10:19:03.903254+00:00",
   "pagination": {
     "page": 2,
     "page_size": 16,
-    "total_posts": 22,
+    "total_posts": 23,
     "total_pages": 2
   },
   "posts": [
+    {
+      "id": 1468,
+      "date": "2026-08-31T07:03:01+00:00",
+      "text": "💰 ФАС работает над обеспечением экономически обоснованного уровня цен на нефтепродукты для потребителей. Об этом сообщили в кабинете министров.\n\nВ эфире РБК ТВ эксперты обсудили разные аспекты этой темы.\n\n🎤 Илья Тюленев, руководитель антимонопольной практики «Пепеляев Групп», рассказал, как ФАС оценивает обоснованность цен и какие факторы бизнесу важно учитывать и подтверждать при применении затратного метода.\n\nФАС усиливает внимание к ценообразованию на независимых АЗС. Но рост розничной цены необязательно означает необоснованное завышение: на нее одновременно могут влиять стоимость закупки топлива, логистика, дефицит, кассовые разрывы и расходы на финансирование оборотного капитала.\n\n👉 Смотреть эфир программы «День» на РБК ТВ \n(Выпуск от 28.08.2026, часть 2, И. Тюленев с 19 мин.)",
+      "text_html": "💰 ФАС работает над обеспечением экономически обоснованного уровня цен на нефтепродукты для потребителей. Об этом сообщили в кабинете министров.<br><br>В эфире РБК ТВ эксперты обсудили разные аспекты этой темы.<br><br>🎤 <a href=\"https://www.pgplaw.ru/to-get-the-team/tiulenev/\" target=\"_blank\" rel=\"noopener noreferrer\">Илья Тюленев</a>, руководитель антимонопольной практики «Пепеляев Групп», рассказал, как ФАС оценивает обоснованность цен и какие факторы бизнесу важно учитывать и подтверждать при применении затратного метода.<br><br>ФАС усиливает внимание к ценообразованию на независимых АЗС. Но рост розничной цены необязательно означает необоснованное завышение: на нее одновременно могут влиять стоимость закупки топлива, логистика, дефицит, кассовые разрывы и расходы на финансирование оборотного капитала.<br><br>👉 <a href=\"https://tv.rbc.ru/archive/den/6a914b0b2ae596de94885bc7\" target=\"_blank\" rel=\"noopener noreferrer\">Смотреть эфир программы «День» на РБК ТВ</a> <br>(Выпуск от 28.08.2026, часть 2, И. Тюленев с 19 мин.)",
+      "views": 573,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1468-1-21ae181b5d8c-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1468-1-21ae181b5d8c-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/PgAntitrust/1468",
+      "forwarded_from": {
+        "source_url": "https://t.me/pgp_official/1984",
+        "channel_url": "https://t.me/s/pgp_official",
+        "channel_username": "pgp_official",
+        "channel_title": "Pepeliaev Group | Пепеляев Групп"
+      }
+    },
     {
       "id": 1467,
       "date": "2026-08-28T08:54:25+00:00",
       "text": "❗️Реклама на запрещенных площадках: как рекламодателям обезопасить себя?\n\nВ выпуске программы Adindex «Дело в рекламе» Илья Тюленев, руководитель антимонопольной практики «Пепеляев Групп», рассказал:\n\n🔸 как распределяется ответственность между сторонами;\n\n🔸 какие условия стоит включать в договоры с блогерами и рекламораспространителями;\n\n🔸 почему важно заранее согласовывать площадки размещения.\n\nОтдельно эксперт остановился на налоговых рисках: расходы на рекламу на запрещённых ресурсах нельзя учитывать при расчёте налогооблагаемой прибыли.\n\n⬆️ Смотрите интервью, чтобы узнать подробнее о рисках рекламодателей и способах их минимизировать.",
       "text_html": "❗️Реклама на запрещенных площадках: как рекламодателям обезопасить себя?<br><br>В <a href=\"https://vkvideo.ru/video-14899079_456247020?t=44m15s\" target=\"_blank\" rel=\"noopener noreferrer\">выпуске программы</a> Adindex «Дело в рекламе» <a href=\"https://www.pgplaw.ru/to-get-the-team/tiulenev/\" target=\"_blank\" rel=\"noopener noreferrer\">Илья Тюленев</a>, руководитель антимонопольной практики «Пепеляев Групп», рассказал:<br><br>🔸 как распределяется ответственность между сторонами;<br><br>🔸 какие условия стоит включать в договоры с блогерами и рекламораспространителями;<br><br>🔸 почему важно заранее согласовывать площадки размещения.<br><br>Отдельно эксперт остановился на налоговых рисках: расходы на рекламу на запрещённых ресурсах нельзя учитывать при расчёте налогооблагаемой прибыли.<br><br>⬆️ Смотрите интервью, чтобы узнать подробнее о рисках рекламодателей и способах их минимизировать.",
-      "views": 2420,
+      "views": 2430,
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
@@ -30,20 +53,20 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1463-1-f70d939ed449-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1463-1-f70d939ed449-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1463-1-23e35fb054d0-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1463-1-23e35fb054d0-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1463-2-be063c6ceafa-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1463-2-be063c6ceafa-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1463-2-aeeef2a9cbc0-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1463-2-aeeef2a9cbc0-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1463-3-d349405f6b5d-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1463-3-d349405f6b5d-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1463-3-9aa4619a1c68-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1463-3-9aa4619a1c68-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1463-4-37a2fc1096c4-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1463-4-37a2fc1096c4-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1463-4-8bbdf1b00719-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1463-4-8bbdf1b00719-v4.jpg"
         }
       ],
       "video_url": null,
@@ -60,8 +83,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1462-1-ec13d906c5da-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1462-1-ec13d906c5da-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1462-1-9d2e501255b6-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1462-1-9d2e501255b6-v4.jpg"
         }
       ],
       "video_url": null,
@@ -73,13 +96,13 @@
       "date": "2026-08-19T09:04:17+00:00",
       "text": "🔥 Что вы могли пропустить в антимонопольном регулировании и практике\n\nАвгуст принес сразу несколько значимых изменений для бизнеса: определены общие правила электронной торговли в ЕАЭС, расширяется регулирование цифровых платформ, меняются подходы к госзакупкам и мониторингу цен. Одновременно ФАС и суды продолжают формировать практику по соглашениям, ценообразованию и закупочным процедурам.\n\nЧтобы не пропустить важное, читайте новый дайджест антимонопольных новостей за период с 13 июля по 16 августа 2026 года.\n\n🔖 В новом выпуске:\n\n🔸  как торговая политика и внутренний контроль помогают снизить антимонопольные риски;\n\n🔸  какие новые правила вводятся для электронной торговли, цифровых платформ, мониторинга цен и госзакупок;\n\n🔸  какие выводы для бизнеса следуют из свежей практики ВС РФ и ФАС по закупкам, ценообразованию и ограничивающим конкуренцию соглашениям;\n\n🔸  как Китай усиливает контроль за алгоритмами торговых онлайн-платформ.\n\n©️Читать дайджест полностью\n\n➖➖\n✉️ При возникновении вопросов по новому регулированию или правоприменительной практике обращайтесь к Илье Тюленеву, руководителю антимонопольной практики «Пепеляев Групп».",
       "text_html": "🔥 Что вы могли пропустить в антимонопольном регулировании и практике<br><br>Август принес сразу несколько значимых изменений для бизнеса: определены общие правила электронной торговли в ЕАЭС, расширяется регулирование цифровых платформ, меняются подходы к госзакупкам и мониторингу цен. Одновременно ФАС и суды продолжают формировать практику по соглашениям, ценообразованию и закупочным процедурам.<br><br>Чтобы не пропустить важное, читайте новый дайджест антимонопольных новостей за период с 13 июля по 16 августа 2026 года.<br><br>🔖 В новом выпуске:<br><br>🔸  как торговая политика и внутренний контроль помогают снизить антимонопольные риски;<br><br>🔸  какие новые правила вводятся для электронной торговли, цифровых платформ, мониторинга цен и госзакупок;<br><br>🔸  какие выводы для бизнеса следуют из свежей практики ВС РФ и ФАС по закупкам, ценообразованию и ограничивающим конкуренцию соглашениям;<br><br>🔸  как Китай усиливает контроль за алгоритмами торговых онлайн-платформ.<br><br>©️<a href=\"https://www.pgplaw.ru/analytics-and-brochures/antitrust-reviews/antitrust-digest-26-08-17/\" target=\"_blank\" rel=\"noopener noreferrer\">Читать дайджест полностью</a><br><br>➖➖<br>✉️ При возникновении вопросов по новому регулированию или правоприменительной практике обращайтесь к <a href=\"https://www.pgplaw.ru/to-get-the-team/tiulenev/\" target=\"_blank\" rel=\"noopener noreferrer\">Илье Тюленеву</a>, руководителю антимонопольной практики «Пепеляев Групп».",
-      "views": 438,
+      "views": 439,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1461-1-af6d8d917aa5-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1461-1-af6d8d917aa5-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1461-1-b33b0bac8934-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1461-1-b33b0bac8934-v4.jpg"
         }
       ],
       "video_url": null,
@@ -96,8 +119,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1460-1-bc4ca1ed0b46-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1460-1-bc4ca1ed0b46-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1460-1-a7fbb703dfb6-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1460-1-a7fbb703dfb6-v4.jpg"
         }
       ],
       "video_url": null,
@@ -114,8 +137,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1459-1-9caad40169ba-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1459-1-9caad40169ba-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1459-1-2f0a33830bcb-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1459-1-2f0a33830bcb-v4.jpg"
         }
       ],
       "video_url": null,
