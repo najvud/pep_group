@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T03:02:08.715341+00:00",
+  "generated_at": "2026-11-10T11:03:55.418546+00:00",
   "pagination": {
     "page": 4,
     "page_size": 16,
@@ -7,6 +7,24 @@
     "total_pages": 5
   },
   "posts": [
+    {
+      "id": 588,
+      "date": "2026-09-02T06:58:10+00:00",
+      "text": "Еженедельный обзор Банкротство: Взгляд эксперта \n\nО новых событиях сферы банкротства с авторскими рекомендациями от Ю. Литовцевой в еженедельном обзоре Банкротство: Взгляд эксперта от команды практики банкротства и антикризисной защиты бизнеса! \n\nВ этом выпуске:\n\n⚖️ Банкротство увеличивает бремя доказывания для истца\n\n📎 Отступное, которого не было\n\n🍀 Размер ответственности пересмотру не подлежит\n\nПодробности уже ожидают по ссылке!\n\n☕️ Приятного чтения!\n\n#Банкротство_взгляд_эксперта\n#Процессуальные_вопросы\n#Требования_кредиторов\n#Недействительность_сделок\n#Субсидиарная_ответственность",
+      "text_html": "Еженедельный обзор Банкротство: Взгляд эксперта <br><br>О новых событиях сферы банкротства с авторскими рекомендациями от Ю. Литовцевой в еженедельном обзоре Банкротство: Взгляд эксперта от команды <a href=\"https://www.pgplaw.ru/practice-and-industry/practices/bankruptcy/\" target=\"_blank\" rel=\"noopener noreferrer\">практики банкротства и антикризисной защиты бизнеса</a>! <br><br>В этом выпуске:<br><br>⚖️ Банкротство увеличивает бремя доказывания для истца<br><br>📎 Отступное, которого не было<br><br>🍀 Размер ответственности пересмотру не подлежит<br><br>Подробности уже ожидают по <a href=\"https://www.pgplaw.ru/analytics-and-brochures/bankruptcy-must-read/bankruptcy-digest-02-09-26/\" target=\"_blank\" rel=\"noopener noreferrer\">ссылке</a>!<br><br>☕️ Приятного чтения!<br><br>#Банкротство_взгляд_эксперта<br>#Процессуальные_вопросы<br>#Требования_кредиторов<br>#Недействительность_сделок<br>#Субсидиарная_ответственность",
+      "views": 264,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/588-1-34277f6e4f4d-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/588-1-34277f6e4f4d-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/bankrotstvo_mustknow/588",
+      "forwarded_from": null
+    },
     {
       "id": 587,
       "date": "2026-09-01T06:03:19+00:00",
@@ -17,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/587-1-ec7aa832fe5f-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/587-1-ec7aa832fe5f-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/587-1-0f610a2e52cd-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/587-1-0f610a2e52cd-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +53,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/586-1-cd6235c1d84f-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/586-1-cd6235c1d84f-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/586-1-8db3bab98316-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/586-1-8db3bab98316-v4.jpg"
         }
       ],
       "video_url": null,
@@ -53,8 +71,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/585-1-c6596aabd257-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/585-1-c6596aabd257-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/585-1-a1156f280fe2-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/585-1-a1156f280fe2-v4.jpg"
         }
       ],
       "video_url": null,
@@ -71,8 +89,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/584-1-f188c34b50fd-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/584-1-f188c34b50fd-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/584-1-dcb61af6d86b-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/584-1-dcb61af6d86b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -89,8 +107,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/583-1-22a89a5bcf63-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/583-1-22a89a5bcf63-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/583-1-a2e696aa15ce-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/583-1-a2e696aa15ce-v4.jpg"
         }
       ],
       "video_url": null,
@@ -120,8 +138,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/581-1-5fa505c520f0-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/581-1-5fa505c520f0-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/581-1-fde5b2b06714-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/581-1-fde5b2b06714-v4.jpg"
         }
       ],
       "video_url": null,
@@ -138,8 +156,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/580-1-398d5a989812-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/580-1-398d5a989812-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/580-1-943ca5aa159d-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/580-1-943ca5aa159d-v4.jpg"
         }
       ],
       "video_url": null,
@@ -156,8 +174,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/579-1-310a510780fe-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/579-1-310a510780fe-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/579-1-6fc0f4fa8180-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/579-1-6fc0f4fa8180-v4.jpg"
         }
       ],
       "video_url": null,
@@ -174,8 +192,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/578-1-8da55fbbfc48-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/578-1-8da55fbbfc48-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/578-1-b39d637b9bdc-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/578-1-b39d637b9bdc-v4.jpg"
         }
       ],
       "video_url": null,
@@ -192,8 +210,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/577-1-4d7bd61d6e78-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/577-1-4d7bd61d6e78-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/577-1-f4aeb1ce0e32-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/577-1-f4aeb1ce0e32-v4.jpg"
         }
       ],
       "video_url": null,
@@ -210,8 +228,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/576-1-335047d7b540-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/576-1-335047d7b540-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/576-1-f99861b7ba0c-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/576-1-f99861b7ba0c-v4.jpg"
         }
       ],
       "video_url": null,
@@ -228,8 +246,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/575-1-d671b9dff657-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/575-1-d671b9dff657-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/575-1-a77cab8243fe-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/575-1-a77cab8243fe-v4.jpg"
         }
       ],
       "video_url": null,
@@ -259,30 +277,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/573-1-25963d203077-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/573-1-25963d203077-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/573-1-f00590dab85d-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/573-1-f00590dab85d-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/bankrotstvo_mustknow/573",
-      "forwarded_from": null
-    },
-    {
-      "id": 572,
-      "date": "2026-08-12T12:22:59+00:00",
-      "text": "Еженедельный обзор Банкротство: Взгляд эксперта \n\nО новых событиях сферы банкротства с авторскими рекомендациями от Ю. Литовцевой в еженедельном обзоре Банкротство: Взгляд эксперта от команды практики банкротства и антикризисной защиты бизнеса! \n\nВ этом выпуске:\n\n✍️ ТПП предложила изменить процедуру банкротства для пострадавших селлеров.\n\n🏦Как формировать лоты при продаже на торгах?\n\n💻 Унификация правил долгового консультирования граждан\n\nПодробности уже ожидают по ссылке!\n☕️ Приятного чтения!\n\n#Банкротство_взгляд_эксперта\n#Банкротство_граждан\n#Изменения_законодательства\n#Распределение_имущества\n#Торги\n#Убытки",
-      "text_html": "Еженедельный обзор Банкротство: Взгляд эксперта <br><br>О новых событиях сферы банкротства с авторскими рекомендациями от Ю. Литовцевой в еженедельном обзоре Банкротство: Взгляд эксперта от команды <a href=\"https://www.pgplaw.ru/practice-and-industry/practices/bankruptcy/\" target=\"_blank\" rel=\"noopener noreferrer\">практики банкротства и антикризисной защиты бизнеса!</a> <br><br>В этом выпуске:<br><br>✍️ ТПП <a href=\"https://www.vedomosti.ru/economics/articles/2026/08/07/1219456-tpp-predlozhila-izmenit-protseduru-bankrotstva-dlya-postradavshih-ot-atak-bpla\" target=\"_blank\" rel=\"noopener noreferrer\">предложила</a> изменить процедуру банкротства для пострадавших селлеров.<br><br>🏦Как формировать лоты при продаже на торгах?<br><br>💻 Унификация правил долгового консультирования граждан<br><br>Подробности уже ожидают по <a href=\"https://www.pgplaw.ru/analytics-and-brochures/bankruptcy-must-read/bankruptcy-digest-12-08-26/\" target=\"_blank\" rel=\"noopener noreferrer\">ссылке</a>!<br><a href=\"https://www.pgplaw.ru/analytics-and-brochures/bankruptcy-must-read/bankruptcy-must-read-26-11-25/\" target=\"_blank\" rel=\"noopener noreferrer\">☕️</a> Приятного чтения!<br><br>#Банкротство_взгляд_эксперта<br>#Банкротство_граждан<br>#Изменения_законодательства<br>#Распределение_имущества<br>#Торги<br>#Убытки",
-      "views": 267,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/572-1-fe099410ddb5-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/572-1-fe099410ddb5-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/bankrotstvo_mustknow/572",
       "forwarded_from": null
     }
   ]
