@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-11-11T03:03:35.232180+00:00",
+  "generated_at": "2026-11-11T10:45:44.024247+00:00",
   "pagination": {
     "page": 2,
     "page_size": 16,
-    "total_posts": 23,
+    "total_posts": 24,
     "total_pages": 2
   },
   "posts": [
+    {
+      "id": 1470,
+      "date": "2026-09-17T08:42:23+00:00",
+      "text": "❗️НДС в закупках: ВС РФ уравнял тех, кто не равен\n \nДля заказчика на общей системе налоговый статус поставщика нейтрален: уплаченный НДС он примет к вычету. Но в закупке с оценкой по цене с НДС участник на ОСН заведомо дороже «упрощенца» или льготника на 22%. Заказчики пытались сравнивать заявки без НДС, однако ВС РФ считает это нарушением равноправия участников.\n \n✏️ Сергей Пепеляев, управляющий партнер «Пепеляев Групп», разбирает эту позицию в статье. Повод – Определение СКЭС ВС РФ от 31.07.2026: от Суда ждали пересмотра подхода, но он его подтвердил.\n \nО чём статья: почему плательщики НДС и лица на УСН или с льготой не находятся в одинаковом правовом положении; как нижестоящие суды обосновывали сравнение «чистых» цен и почему ВС РФ эту логику отверг; как толкование Закона о закупках расходится с НК РФ, где цена служит базой для НДС и не может его включать; при чём здесь интерес заказчика к вычету.\n \nГлавный тезис: ВС РФ читает Закон о закупках в отрыве от налогового законодательства, и формальное равенство оборачивается дискриминацией плательщиков НДС вопреки ст. 19 Конституции. Практика устоялась, поэтому выход – поправки в Закон о закупках или вмешательство КС РФ. До тех пор заказчикам рискованно оценивать заявки без НДС, а компаниям на ОСН придется конкурировать с форой в 22% у соперников.\n \n➡️Полный текст статьи\n\n➖➖\nЗащищаем заказчиков и участников закупок в спорах с ФАС и в судах.",
+      "text_html": "❗️НДС в закупках: ВС РФ уравнял тех, кто не равен<br> <br>Для заказчика на общей системе налоговый статус поставщика нейтрален: уплаченный НДС он примет к вычету. Но в закупке с оценкой по цене с НДС участник на ОСН заведомо дороже «упрощенца» или льготника на 22%. Заказчики пытались сравнивать заявки без НДС, однако ВС РФ считает это нарушением равноправия участников.<br> <br>✏️ Сергей Пепеляев, управляющий партнер «Пепеляев Групп», разбирает эту позицию в статье. Повод – Определение СКЭС ВС РФ от 31.07.2026: от Суда ждали пересмотра подхода, но он его подтвердил.<br> <br>О чём статья: почему плательщики НДС и лица на УСН или с льготой не находятся в одинаковом правовом положении; как нижестоящие суды обосновывали сравнение «чистых» цен и почему ВС РФ эту логику отверг; как толкование Закона о закупках расходится с НК РФ, где цена служит базой для НДС и не может его включать; при чём здесь интерес заказчика к вычету.<br> <br>Главный тезис: ВС РФ читает Закон о закупках в отрыве от налогового законодательства, и формальное равенство оборачивается дискриминацией плательщиков НДС вопреки ст. 19 Конституции. Практика устоялась, поэтому выход – поправки в Закон о закупках или вмешательство КС РФ. До тех пор заказчикам рискованно оценивать заявки без НДС, а компаниям на ОСН придется конкурировать с форой в 22% у соперников.<br> <br>➡️<a href=\"https://cljournal.ru/glavnoe/369/\" target=\"_blank\" rel=\"noopener noreferrer\">Полный текст статьи</a><br><br>➖➖<br><a href=\"https://www.pgplaw.ru/practice-and-industry/practices/antitrust-regulation/\" target=\"_blank\" rel=\"noopener noreferrer\">Защищаем</a> заказчиков и участников закупок в спорах с ФАС и в судах.",
+      "views": 1730,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1470-1-e593135df286-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1470-1-e593135df286-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/PgAntitrust/1470",
+      "forwarded_from": null
+    },
     {
       "id": 1469,
       "date": "2026-09-14T11:33:11+00:00",
@@ -17,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1469-1-3fec48fc16be-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1469-1-3fec48fc16be-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1469-1-80aaac49f2ed-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1469-1-80aaac49f2ed-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +53,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1468-1-751f5b6c1dd4-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1468-1-751f5b6c1dd4-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1468-1-c31988d45009-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1468-1-c31988d45009-v4.jpg"
         }
       ],
       "video_url": null,
@@ -71,20 +89,20 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1463-1-75e7b997755c-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1463-1-75e7b997755c-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1463-1-eb3004365e11-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1463-1-eb3004365e11-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1463-2-782bb64d4b6b-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1463-2-782bb64d4b6b-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1463-2-a5d810a54693-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1463-2-a5d810a54693-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1463-3-4964bbf200a0-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1463-3-4964bbf200a0-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1463-3-5a1dda7bd0a3-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1463-3-5a1dda7bd0a3-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1463-4-f8205e854c61-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1463-4-f8205e854c61-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1463-4-ec5b364280a3-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1463-4-ec5b364280a3-v4.jpg"
         }
       ],
       "video_url": null,
@@ -101,8 +119,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1462-1-de8f9c5b932b-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1462-1-de8f9c5b932b-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1462-1-aea5477ca84f-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1462-1-aea5477ca84f-v4.jpg"
         }
       ],
       "video_url": null,
@@ -119,8 +137,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1461-1-eafb655138a2-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1461-1-eafb655138a2-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1461-1-4b32321cde69-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1461-1-4b32321cde69-v4.jpg"
         }
       ],
       "video_url": null,
@@ -137,8 +155,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1460-1-31c1456240e7-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1460-1-31c1456240e7-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1460-1-e99a8e0d1b54-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1460-1-e99a8e0d1b54-v4.jpg"
         }
       ],
       "video_url": null,

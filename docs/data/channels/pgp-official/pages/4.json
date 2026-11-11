@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-11T03:03:28.309158+00:00",
+  "generated_at": "2026-11-11T10:45:27.008275+00:00",
   "pagination": {
     "page": 4,
     "page_size": 16,
-    "total_posts": 66,
+    "total_posts": 65,
     "total_pages": 5
   },
   "posts": [
@@ -17,12 +17,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1990-1-6fd58d808c4e-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1990-1-6fd58d808c4e-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1990-1-f87e40f8e9cf-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1990-1-f87e40f8e9cf-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1990-2-ff23c5ea4354-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1990-2-ff23c5ea4354-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1990-2-176d8c849913-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1990-2-176d8c849913-v4.jpg"
         }
       ],
       "video_url": null,
@@ -39,8 +39,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1987-1-b2b290733a2a-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1987-1-b2b290733a2a-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1987-1-c24e114e1837-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1987-1-c24e114e1837-v4.jpg"
         }
       ],
       "video_url": null,
@@ -57,8 +57,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1986-1-56c589f9d487-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1986-1-56c589f9d487-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1986-1-f8081d435e94-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1986-1-f8081d435e94-v4.jpg"
         }
       ],
       "video_url": null,
@@ -75,8 +75,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1985-1-03472c12bcf9-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1985-1-03472c12bcf9-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1985-1-58bdef2f520f-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1985-1-58bdef2f520f-v4.jpg"
         }
       ],
       "video_url": null,
@@ -93,8 +93,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1984-1-d48b9204c48f-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1984-1-d48b9204c48f-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1984-1-4f27321491b4-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1984-1-4f27321491b4-v4.jpg"
         }
       ],
       "video_url": null,
@@ -111,8 +111,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1983-1-e51c48f861c2-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1983-1-e51c48f861c2-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1983-1-eadf6fe22ccb-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1983-1-eadf6fe22ccb-v4.jpg"
         }
       ],
       "video_url": null,
@@ -129,8 +129,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1982-1-9505db19f01f-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1982-1-9505db19f01f-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1982-1-73973a885b74-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1982-1-73973a885b74-v4.jpg"
         }
       ],
       "video_url": null,
@@ -147,8 +147,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1981-1-7d8ab46474f6-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1981-1-7d8ab46474f6-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1981-1-d48e7300db56-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1981-1-d48e7300db56-v4.jpg"
         }
       ],
       "video_url": null,
@@ -165,20 +165,20 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1977-1-b86172c3f598-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1977-1-b86172c3f598-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1977-1-bdf7461418c6-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1977-1-bdf7461418c6-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1977-2-ce95db10c832-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1977-2-ce95db10c832-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1977-2-2ea579fbd846-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1977-2-2ea579fbd846-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1977-3-063edd2861df-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1977-3-063edd2861df-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1977-3-5e4a5e94aec6-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1977-3-5e4a5e94aec6-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1977-4-e57574954ee6-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1977-4-e57574954ee6-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1977-4-befa5520f0f7-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1977-4-befa5520f0f7-v4.jpg"
         }
       ],
       "video_url": null,
@@ -200,12 +200,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1975-1-3c1b0d1f75a0-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1975-1-3c1b0d1f75a0-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1975-1-674f4762217e-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1975-1-674f4762217e-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1975-2-fe84cad9cff5-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1975-2-fe84cad9cff5-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1975-2-4cfd2078d447-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1975-2-4cfd2078d447-v4.jpg"
         }
       ],
       "video_url": null,
@@ -222,8 +222,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1974-1-16a594a9936a-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1974-1-16a594a9936a-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1974-1-600411ae156b-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1974-1-600411ae156b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -245,8 +245,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1973-1-c523dfffaeb9-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1973-1-c523dfffaeb9-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1973-1-a74dd565cf18-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1973-1-a74dd565cf18-v4.jpg"
         }
       ],
       "video_url": null,
@@ -258,13 +258,13 @@
       "date": "2026-08-18T13:16:09+00:00",
       "text": "⚖️ Корпоративный спор вокруг Zen Mobile: позиции партнеров\n\nС конца июля рынок наблюдает, как разворачивается корпоративный спор между совладельцами агентства мобильной рекламы Zen Mobile и iConText Group. AdIndex попросил экспертов оценить позиции сторон и перспективы спора, в том числе вопросы займов, сделок с заинтересованностью, смены генерального директора и изменения устава.\n\n🎙 Партнер, руководитель корпоративной практики «Пепеляев Групп» Илья Болотнов отмечает, что подобные конфликты нередко возникают на фоне ухудшения финансовых показателей и отсутствия заранее согласованных правил действий партнеров.\n\n💬 «Если стороны не заключили корпоративный договор, то каждая сторона предпринимает те действия, которые считает для себя уместными, не будучи связанной какой-либо договоренностью на такой случай. И это, конечно, зачастую создает очень агрессивную и деструктивную ситуацию, которая развивается по спирали».\n\nПо словам эксперта, судебный спор в такой ситуации — трудоемкая и дорогостоящая задача, которая может длиться годами, тогда как в итоге стороны все равно могут прийти к разрешению конфликта за столом переговоров.\n\nПодробнее о правовых аспектах спора в статье AdIndex 👉",
       "text_html": "⚖️ Корпоративный спор вокруг Zen Mobile: позиции партнеров<br><br>С конца июля рынок наблюдает, как разворачивается корпоративный спор между совладельцами агентства мобильной рекламы Zen Mobile и iConText Group. AdIndex попросил экспертов оценить позиции сторон и перспективы спора, в том числе вопросы займов, сделок с заинтересованностью, смены генерального директора и изменения устава.<br><br>🎙 Партнер, руководитель корпоративной практики «Пепеляев Групп» <a href=\"https://www.pgplaw.ru/to-get-the-team/ilya-bolotnov/\" target=\"_blank\" rel=\"noopener noreferrer\">Илья Болотнов</a> отмечает, что подобные конфликты нередко возникают на фоне ухудшения финансовых показателей и отсутствия заранее согласованных правил действий партнеров.<br><br>💬 «Если стороны не заключили корпоративный договор, то каждая сторона предпринимает те действия, которые считает для себя уместными, не будучи связанной какой-либо договоренностью на такой случай. И это, конечно, зачастую создает очень агрессивную и деструктивную ситуацию, которая развивается по спирали».<br><br>По словам эксперта, судебный спор в такой ситуации — трудоемкая и дорогостоящая задача, которая может длиться годами, тогда как в итоге стороны все равно могут прийти к разрешению конфликта за столом переговоров.<br><br>Подробнее о правовых аспектах спора <a href=\"https://adindex.ru/news/agencies/2026/08/17/348064.phtml\" target=\"_blank\" rel=\"noopener noreferrer\">в статье AdIndex</a> 👉",
-      "views": 964,
+      "views": 965,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1972-1-317f39bce717-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1972-1-317f39bce717-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1972-1-fd49549b440d-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1972-1-fd49549b440d-v4.jpg"
         }
       ],
       "video_url": null,
@@ -281,8 +281,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1971-1-a2918bb605da-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1971-1-a2918bb605da-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1971-1-d275481278f9-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1971-1-d275481278f9-v4.jpg"
         }
       ],
       "video_url": null,
@@ -299,8 +299,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1970-1-740fff983f94-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1970-1-740fff983f94-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1970-1-df5fbfc355b9-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1970-1-df5fbfc355b9-v4.jpg"
         }
       ],
       "video_url": null,
@@ -317,8 +317,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1969-1-5cfa3485ed72-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1969-1-5cfa3485ed72-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1969-1-0ece86a77a24-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1969-1-0ece86a77a24-v4.jpg"
         }
       ],
       "video_url": null,

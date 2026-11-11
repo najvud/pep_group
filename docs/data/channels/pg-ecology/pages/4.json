@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-11-10T23:43:42.827682+00:00",
+  "generated_at": "2026-11-11T10:47:57.118269+00:00",
   "pagination": {
     "page": 4,
     "page_size": 16,
-    "total_posts": 55,
+    "total_posts": 56,
     "total_pages": 4
   },
   "posts": [
+    {
+      "id": 1403,
+      "date": "2026-08-24T04:00:08+00:00",
+      "text": "📣 Постановлением Правительства РФ от 28.07.2026 \n№ 946 внесены изменения в постановление Правительства РФ от 30.06.2021 № 1096, которым утверждено Положение о федеральном государственном экологическом контроле (надзоре).\n\n⏱️Изменения действуют с 31.07.2026, \nновое Приложение № 2 к Положению вступает в силу с 01.10.2026.\n\n#ИзмененияЗаконодательства",
+      "text_html": "📣 <a href=\"http://publication.pravo.gov.ru/document/0001202607310014\" target=\"_blank\" rel=\"noopener noreferrer\">Постановлением Правительства РФ от 28.07.2026</a> <br><a href=\"http://publication.pravo.gov.ru/document/0001202607310014\" target=\"_blank\" rel=\"noopener noreferrer\">№ 946</a> внесены изменения в постановление Правительства РФ от 30.06.2021 № 1096, которым утверждено Положение о федеральном государственном экологическом контроле (надзоре).<br><br>⏱️Изменения действуют с 31.07.2026, <br>новое Приложение № 2 к Положению вступает в силу с 01.10.2026.<br><br>#ИзмененияЗаконодательства",
+      "views": 262,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1403-1-e1a04d867edd-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1403-1-e1a04d867edd-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/pgecology/1403",
+      "forwarded_from": null
+    },
     {
       "id": 1402,
       "date": "2026-08-21T04:00:01+00:00",
@@ -17,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1402-1-e31b73105536-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1402-1-e31b73105536-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1402-1-efe3e0a57d98-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1402-1-efe3e0a57d98-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +53,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1401-1-68a4491743ae-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1401-1-68a4491743ae-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1401-1-b9ba87aae678-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1401-1-b9ba87aae678-v4.jpg"
         }
       ],
       "video_url": null,
@@ -53,8 +71,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1400-1-1571d31c7900-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1400-1-1571d31c7900-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1400-1-6dbb04076118-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1400-1-6dbb04076118-v4.jpg"
         }
       ],
       "video_url": null,
@@ -71,8 +89,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1399-1-99387090c3d1-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1399-1-99387090c3d1-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1399-1-5f650bb731d0-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1399-1-5f650bb731d0-v4.jpg"
         }
       ],
       "video_url": null,
@@ -89,8 +107,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1398-1-d65e45c9c015-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1398-1-d65e45c9c015-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1398-1-22a36ef11598-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1398-1-22a36ef11598-v4.jpg"
         }
       ],
       "video_url": null,
@@ -120,8 +138,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1396-1-75ef297f81f3-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1396-1-75ef297f81f3-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1396-1-b8d3e8486b68-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1396-1-b8d3e8486b68-v4.jpg"
         }
       ],
       "video_url": null,
