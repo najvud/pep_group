@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-12T07:43:32.969606+00:00",
+  "generated_at": "2026-11-12T16:20:35.640133+00:00",
   "pagination": {
     "page": 5,
     "page_size": 16,
-    "total_posts": 66,
+    "total_posts": 65,
     "total_pages": 5
   },
   "posts": [
@@ -17,30 +17,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/573-1-3065903e9335-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/573-1-3065903e9335-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/573-1-70b0a77b5d4b-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/573-1-70b0a77b5d4b-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/bankrotstvo_mustknow/573",
-      "forwarded_from": null
-    },
-    {
-      "id": 572,
-      "date": "2026-08-12T12:22:59+00:00",
-      "text": "Еженедельный обзор Банкротство: Взгляд эксперта \n\nО новых событиях сферы банкротства с авторскими рекомендациями от Ю. Литовцевой в еженедельном обзоре Банкротство: Взгляд эксперта от команды практики банкротства и антикризисной защиты бизнеса! \n\nВ этом выпуске:\n\n✍️ ТПП предложила изменить процедуру банкротства для пострадавших селлеров.\n\n🏦Как формировать лоты при продаже на торгах?\n\n💻 Унификация правил долгового консультирования граждан\n\nПодробности уже ожидают по ссылке!\n☕️ Приятного чтения!\n\n#Банкротство_взгляд_эксперта\n#Банкротство_граждан\n#Изменения_законодательства\n#Распределение_имущества\n#Торги\n#Убытки",
-      "text_html": "Еженедельный обзор Банкротство: Взгляд эксперта <br><br>О новых событиях сферы банкротства с авторскими рекомендациями от Ю. Литовцевой в еженедельном обзоре Банкротство: Взгляд эксперта от команды <a href=\"https://www.pgplaw.ru/practice-and-industry/practices/bankruptcy/\" target=\"_blank\" rel=\"noopener noreferrer\">практики банкротства и антикризисной защиты бизнеса!</a> <br><br>В этом выпуске:<br><br>✍️ ТПП <a href=\"https://www.vedomosti.ru/economics/articles/2026/08/07/1219456-tpp-predlozhila-izmenit-protseduru-bankrotstva-dlya-postradavshih-ot-atak-bpla\" target=\"_blank\" rel=\"noopener noreferrer\">предложила</a> изменить процедуру банкротства для пострадавших селлеров.<br><br>🏦Как формировать лоты при продаже на торгах?<br><br>💻 Унификация правил долгового консультирования граждан<br><br>Подробности уже ожидают по <a href=\"https://www.pgplaw.ru/analytics-and-brochures/bankruptcy-must-read/bankruptcy-digest-12-08-26/\" target=\"_blank\" rel=\"noopener noreferrer\">ссылке</a>!<br><a href=\"https://www.pgplaw.ru/analytics-and-brochures/bankruptcy-must-read/bankruptcy-must-read-26-11-25/\" target=\"_blank\" rel=\"noopener noreferrer\">☕️</a> Приятного чтения!<br><br>#Банкротство_взгляд_эксперта<br>#Банкротство_граждан<br>#Изменения_законодательства<br>#Распределение_имущества<br>#Торги<br>#Убытки",
-      "views": 267,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/572-1-9d2301de80dc-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/572-1-9d2301de80dc-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/bankrotstvo_mustknow/572",
       "forwarded_from": null
     }
   ]
