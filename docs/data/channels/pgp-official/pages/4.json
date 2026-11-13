@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-11-13T10:00:43.235710+00:00",
+  "generated_at": "2026-11-13T17:38:17.910397+00:00",
   "pagination": {
     "page": 4,
     "page_size": 16,
-    "total_posts": 64,
-    "total_pages": 4
+    "total_posts": 65,
+    "total_pages": 5
   },
   "posts": [
+    {
+      "id": 1993,
+      "date": "2026-09-03T13:33:17+00:00",
+      "text": "📢 Осеннее заседание Комплаенс Клуба\n\nБолее 6 лет «Пепеляев Групп» совместно с факультетом права НИУ ВШЭ проводит заседания Комплаенс Клуба — экспертной площадки для обмена лучшими практиками ведущих российских компаний в сфере комплаенса и профилактики правовых рисков.\n\n🗓  Ближайшее заседание состоится этой осенью.\n\nТема обсуждения: трудоправовые аспекты антикоррупционного комплаенса.\n\n❓ В связи с подготовкой повестки предлагаем поделиться вопросами, темами и аспектами, которые вы считаете актуальными и хотели бы обсудить на будущих заседаниях Клуба. \n\n👉 Заполните короткую форму по ссылке.",
+      "text_html": "📢 Осеннее заседание Комплаенс Клуба<br><br>Более 6 лет «Пепеляев Групп» совместно с факультетом права НИУ ВШЭ проводит заседания Комплаенс Клуба — экспертной площадки для обмена лучшими практиками ведущих российских компаний в сфере комплаенса и профилактики правовых рисков.<br><br>🗓  Ближайшее заседание состоится этой осенью.<br><br>Тема обсуждения: трудоправовые аспекты антикоррупционного комплаенса.<br><br>❓ В связи с подготовкой повестки предлагаем поделиться вопросами, темами и аспектами, которые вы считаете актуальными и хотели бы обсудить на будущих заседаниях Клуба. <br><br>👉 Заполните короткую <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSfkSoHEiurj028OKP5iuUIOKQ4Qz-FAGtBmqeKrOWJM6huD3w/viewform\" target=\"_blank\" rel=\"noopener noreferrer\">форму по ссылке</a>.",
+      "views": 791,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1993-1-2a90d442bdf8-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1993-1-2a90d442bdf8-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/pgp_official/1993",
+      "forwarded_from": null
+    },
     {
       "id": 1992,
       "date": "2026-09-03T10:31:15+00:00",
@@ -17,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1992-1-d06b165f3538-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1992-1-d06b165f3538-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1992-1-2722c3760c3a-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1992-1-2722c3760c3a-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,12 +53,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1990-1-7ee7f3dad38e-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1990-1-7ee7f3dad38e-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1990-1-418170bd9a36-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1990-1-418170bd9a36-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1990-2-f120b2d2f5fd-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1990-2-f120b2d2f5fd-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1990-2-5162383cd483-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1990-2-5162383cd483-v4.jpg"
         }
       ],
       "video_url": null,
@@ -52,13 +70,13 @@
       "date": "2026-09-02T13:50:30+00:00",
       "text": "📑 Что считать моментом утечки персональных данных?\n\nПартнер Наталья Коваленко комментирует два различных подхода судов в отношении одного и того же оператора ПДн. \n\n⚖️ В деле № А19-25808/2025 АС Иркутской области и Четвертый арбитражный апелляционный суд признали ООО «Орион Телеком» виновным по ч. 13 ст. 13.11 КоАП РФ за утечку данных 36 544 абонентов, опубликованных хакерской группировкой в Telegram-канале 29.07.2025.\n\nCуды указали, что деяние считается оконченным в момент неправомерной передачи, предоставления, распространения или доступа к данным, то есть в момент их публикации, а не в момент более раннего проникновения в информационную систему в период с 24 по 26 мая 2025 года. Само проникновение в информационную систему суды назвали лишь подготовительным действием, не образующим объективную сторону правонарушения. \n\n🔍 Напротив, в деле № А74-10378/2025 АС Республики Хакасия по факту утечки данных того же оператора пришел к противоположному выводу. Суд установил, что неправомерный доступ третьих лиц к информационной системе произошел 24 мая 2025 года, то есть до вступления в силу ч. 13 ст. 13.11 КоАП РФ, и на этом основании переквалифицировал действия общества на более «мягкую» ч. 1 ст. 13.11 КоАП РФ. По мнению суда, правонарушение, предусмотренное ч. 13 ст. 13.11 КоАП РФ, считается оконченным в момент, когда действия (бездействие) оператора повлекли любое из перечисленных в статье последствий (неправомерная передача (предоставление, распространение, доступ) информации). \n\nТаким образом, по мнению суда, в данном случае вменяемое обществу нарушение является оконченным при наступлении последствий в виде несанкционированного доступа к персональным данным, находящимся у общества, состоявшегося 24 мая 2025 года.\n\nЭто расхождение показывает, что судебная практика по квалификации утечек ПДн не единообразна, и итоговая квалификация может критически зависеть от того, что суд признает моментом окончания правонарушения, сам взлом или последующую публикацию похищенных данных. \n\n🛑 Для операторов ПДн это означает, что дата фактической публикации украденных данных сохраняет решающее значение для риска привлечения к ответственности по ч. 13 ст. 13.11 КоАП РФ и исход спора может отличаться в зависимости от суда и представленных доказательств о хронологии инцидента.\n\n➖➖➖➖➖\n📧 В случае возникновения вопросов, связанных с утечкой персональных данных, партнер «Пепеляев Групп» Наталья Коваленко (N.Kovalenko@pgplaw.ru) готова на них ответить.",
       "text_html": "📑 Что считать моментом утечки персональных данных?<br><br>Партнер Наталья Коваленко комментирует два различных подхода судов в отношении одного и того же оператора ПДн. <br><br>⚖️ В деле № А19-25808/2025 АС Иркутской области и Четвертый арбитражный апелляционный суд признали ООО «Орион Телеком» виновным по ч. 13 ст. 13.11 КоАП РФ за утечку данных 36 544 абонентов, опубликованных хакерской группировкой в Telegram-канале 29.07.2025.<br><br>Cуды указали, что деяние считается оконченным в момент неправомерной передачи, предоставления, распространения или доступа к данным, то есть в момент их публикации, а не в момент более раннего проникновения в информационную систему в период с 24 по 26 мая 2025 года. Само проникновение в информационную систему суды назвали лишь подготовительным действием, не образующим объективную сторону правонарушения. <br><br>🔍 Напротив, в деле № А74-10378/2025 АС Республики Хакасия по факту утечки данных того же оператора пришел к противоположному выводу. Суд установил, что неправомерный доступ третьих лиц к информационной системе произошел 24 мая 2025 года, то есть до вступления в силу ч. 13 ст. 13.11 КоАП РФ, и на этом основании переквалифицировал действия общества на более «мягкую» ч. 1 ст. 13.11 КоАП РФ. По мнению суда, правонарушение, предусмотренное ч. 13 ст. 13.11 КоАП РФ, считается оконченным в момент, когда действия (бездействие) оператора повлекли любое из перечисленных в статье последствий (неправомерная передача (предоставление, распространение, доступ) информации). <br><br>Таким образом, по мнению суда, в данном случае вменяемое обществу нарушение является оконченным при наступлении последствий в виде несанкционированного доступа к персональным данным, находящимся у общества, состоявшегося 24 мая 2025 года.<br><br>Это расхождение показывает, что судебная практика по квалификации утечек ПДн не единообразна, и итоговая квалификация может критически зависеть от того, что суд признает моментом окончания правонарушения, сам взлом или последующую публикацию похищенных данных. <br><br>🛑 Для операторов ПДн это означает, что дата фактической публикации украденных данных сохраняет решающее значение для риска привлечения к ответственности по ч. 13 ст. 13.11 КоАП РФ и исход спора может отличаться в зависимости от суда и представленных доказательств о хронологии инцидента.<br><br>➖➖➖➖➖<br>📧 В случае возникновения вопросов, связанных с утечкой персональных данных, партнер «Пепеляев Групп» <a href=\"https://www.pgplaw.ru/to-get-the-team/natalya-ivashchenko/\" target=\"_blank\" rel=\"noopener noreferrer\">Наталья Коваленко</a> (N.Kovalenko@pgplaw.ru) готова на них ответить.",
-      "views": 764,
+      "views": 765,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1987-1-cd47d4a1e2e5-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1987-1-cd47d4a1e2e5-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1987-1-f17932b9af31-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1987-1-f17932b9af31-v4.jpg"
         }
       ],
       "video_url": null,
@@ -75,8 +93,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1986-1-b12bf3e46416-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1986-1-b12bf3e46416-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1986-1-441ead9a2874-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1986-1-441ead9a2874-v4.jpg"
         }
       ],
       "video_url": null,
@@ -93,8 +111,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1985-1-742fb735b200-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1985-1-742fb735b200-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1985-1-4ba76b9943f6-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1985-1-4ba76b9943f6-v4.jpg"
         }
       ],
       "video_url": null,
@@ -111,8 +129,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1984-1-9d9b78377f23-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1984-1-9d9b78377f23-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1984-1-75f8c5ab79c0-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1984-1-75f8c5ab79c0-v4.jpg"
         }
       ],
       "video_url": null,
@@ -129,8 +147,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1983-1-f355ff628bb2-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1983-1-f355ff628bb2-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1983-1-f6f51c069c43-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1983-1-f6f51c069c43-v4.jpg"
         }
       ],
       "video_url": null,
@@ -142,13 +160,13 @@
       "date": "2026-08-27T10:01:08+00:00",
       "text": "🏢 Еженедельная подборка обзоров от практик «Пепеляев Групп»\n\nЧто изменилось за последнюю неделю, и на что стоит обратить внимание бизнесу?\n\n▫️ СпецИнвестРежимы в Сибири и на Дальнем Востоке. Дайджест 17–23 августа 2026 г.\n\n▫️ Налоговые новости. Дайджест за 17–23 августа 2026 г.\n\n▫️ Значимые споры в сфере экологии за июль и август 2026 г.\n\n▫️ Телекоммуникации, медиа, ИТ, персональные данные. Дайджест за 7 – 21 августа 2026 г.\n\n▫️ Банкротство: взгляд эксперта. Обзор № 335 за 20 – 26 августа 2026 г.\n\nТакже смотрите новое видео:\n\n🔘 Предписание о перечислении дохода в бюджет: тихая революция в арсенале ФАС. Илья Тюленев \nVK| Rutube| YouTube\n\n☝️ Подписаться на рассылки | MAX | Приложение PG\n\n#pg_обзоры_недели",
       "text_html": "🏢 Еженедельная подборка обзоров от практик «Пепеляев Групп»<br><br>Что изменилось за последнюю неделю, и на что стоит обратить внимание бизнесу?<br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/spec-invest-obzor/invest-news-digest-26-08-24/\" target=\"_blank\" rel=\"noopener noreferrer\">СпецИнвестРежимы в Сибири и на Дальнем Востоке. Дайджест 17–23 августа 2026 г.</a><br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/tax-reviews/tax-news-digest-24-08-26/\" target=\"_blank\" rel=\"noopener noreferrer\">Налоговые новости. Дайджест за 17–23 августа 2026 г.</a><br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/ecology-digest/ecology-digest-24-08-26/\" target=\"_blank\" rel=\"noopener noreferrer\">Значимые споры в сфере экологии за июль и август 2026 г.</a><br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/telecom-digest/telecom-digest-21-08-26/\" target=\"_blank\" rel=\"noopener noreferrer\">Телекоммуникации, медиа, ИТ, персональные данные. Дайджест за 7 – 21 августа 2026 г.</a><br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/bankruptcy-must-read/bankruptcy-digest-26-08-26/\" target=\"_blank\" rel=\"noopener noreferrer\">Банкротство: взгляд эксперта. Обзор № 335 за 20 – 26 августа 2026 г.</a><br><br>Также смотрите новое видео:<br><br>🔘 Предписание о перечислении дохода в бюджет: тихая революция в арсенале ФАС. Илья Тюленев <br><a href=\"https://vkvideo.ru/video-227047542_456239430\" target=\"_blank\" rel=\"noopener noreferrer\">VK</a>| <a href=\"https://rutube.ru/video/94b94f2a316f5c916c491fd14726870e/\" target=\"_blank\" rel=\"noopener noreferrer\">Rutube</a>| <a href=\"https://youtu.be/cOjkOTHr-eA\" target=\"_blank\" rel=\"noopener noreferrer\">YouTube</a><br><br>☝️ <a href=\"https://www.pgplaw.ru/subscribe/\" target=\"_blank\" rel=\"noopener noreferrer\">Подписаться на рассылки |</a> <a href=\"https://max.ru/id7707301372_biz\" target=\"_blank\" rel=\"noopener noreferrer\">MAX |</a> <a href=\"https://t.me/pgp_official/1769\" target=\"_blank\" rel=\"noopener noreferrer\">Приложение PG</a><br><br>#pg_обзоры_недели",
-      "views": 771,
+      "views": 772,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1982-1-0603e36870c2-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1982-1-0603e36870c2-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1982-1-f227643137b4-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1982-1-f227643137b4-v4.jpg"
         }
       ],
       "video_url": null,
@@ -160,13 +178,13 @@
       "date": "2026-08-25T13:05:08+00:00",
       "text": "💻 Телекоммуникации, медиа, ИТ, персональные данные: дайджест\n\nВ обзоре собрали принятые акты, ключевые законодательные инициативы, регуляторные тренды, судебную практику и события отрасли.\n\nГлавные новости:\n\n🔘 подготовлены обновленные правила идентификации пользователей мобильной связи; \n\n🔘 утечка ПДн считается оконченной в момент публикации данных, а не взлома; \n\n🔘 нарушение сроков выполнения условий ИТ-субсидии при достигнутом результате, на который выдавалась ИТ-субсидия, не влечет необходимость ее возврата.\n\nКакие изменения могут повлиять на бизнес, и на что стоит обратить внимание компаниям — читайте по ссылке 👉\n\n🏢 Подписаться на рассылки | MAX | Приложение PG",
       "text_html": "💻 Телекоммуникации, медиа, ИТ, персональные данные: дайджест<br><br>В обзоре собрали принятые акты, ключевые законодательные инициативы, регуляторные тренды, судебную практику и события отрасли.<br><br>Главные новости:<br><br>🔘 подготовлены обновленные правила идентификации пользователей мобильной связи; <br><br>🔘 утечка ПДн считается оконченной в момент публикации данных, а не взлома; <br><br>🔘 нарушение сроков выполнения условий ИТ-субсидии при достигнутом результате, на который выдавалась ИТ-субсидия, не влечет необходимость ее возврата.<br><br>Какие изменения могут повлиять на бизнес, и на что стоит обратить внимание компаниям — <a href=\"https://www.pgplaw.ru/analytics-and-brochures/telecom-digest/telecom-digest-21-08-26/\" target=\"_blank\" rel=\"noopener noreferrer\">читайте по ссылке</a> 👉<br><br>🏢 <a href=\"https://www.pgplaw.ru/subscribe/\" target=\"_blank\" rel=\"noopener noreferrer\">Подписаться на рассылки |</a> <a href=\"https://max.ru/id7707301372_biz\" target=\"_blank\" rel=\"noopener noreferrer\">MAX |</a> <a href=\"https://t.me/pgp_official/1769\" target=\"_blank\" rel=\"noopener noreferrer\">Приложение PG</a>",
-      "views": 783,
+      "views": 784,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1981-1-f273fbc1f7d4-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1981-1-f273fbc1f7d4-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1981-1-27e784d20928-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1981-1-27e784d20928-v4.jpg"
         }
       ],
       "video_url": null,
@@ -183,20 +201,20 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1977-1-d332cde6f291-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1977-1-d332cde6f291-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1977-1-8004b4e67c42-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1977-1-8004b4e67c42-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1977-2-09628df6354e-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1977-2-09628df6354e-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1977-2-4ba04060ac1c-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1977-2-4ba04060ac1c-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1977-3-3540108dcf86-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1977-3-3540108dcf86-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1977-3-27b34736df10-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1977-3-27b34736df10-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1977-4-35b5de995307-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1977-4-35b5de995307-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1977-4-c61375a5f08c-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1977-4-c61375a5f08c-v4.jpg"
         }
       ],
       "video_url": null,
@@ -218,12 +236,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1975-1-fa1e2c72354f-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1975-1-fa1e2c72354f-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1975-1-46f2d5f4475e-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1975-1-46f2d5f4475e-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1975-2-91341e398971-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1975-2-91341e398971-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1975-2-1cd62edbc9ad-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1975-2-1cd62edbc9ad-v4.jpg"
         }
       ],
       "video_url": null,
@@ -240,8 +258,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1974-1-2b21774a902f-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1974-1-2b21774a902f-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1974-1-dfe0a98f7560-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1974-1-dfe0a98f7560-v4.jpg"
         }
       ],
       "video_url": null,
@@ -263,8 +281,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1973-1-6042ae4456bc-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1973-1-6042ae4456bc-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1973-1-08a8eb4d43d1-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1973-1-08a8eb4d43d1-v4.jpg"
         }
       ],
       "video_url": null,
@@ -281,8 +299,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1972-1-66d0427129ee-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1972-1-66d0427129ee-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1972-1-def7237006d1-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1972-1-def7237006d1-v4.jpg"
         }
       ],
       "video_url": null,
@@ -299,30 +317,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1971-1-192e4b5cdeb7-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1971-1-192e4b5cdeb7-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1971-1-9ecc42199315-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1971-1-9ecc42199315-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/pgp_official/1971",
-      "forwarded_from": null
-    },
-    {
-      "id": 1970,
-      "date": "2026-08-14T13:02:40+00:00",
-      "text": "⭐️ Наталья Присекина отмечена Благодарностью Думы Владивостока\n\nПредседатель Думы города Владивостока Андрей Брик вручил Благодарность Думы Наталье Присекиной, партнеру и руководителю Дальневосточного отделения «Пепеляев Групп», члену наблюдательного совета Фонда памяти Николая Васильевича Комарова.\n\n🔘Награда – за значимый вклад в сохранение исторической памяти города Владивостока.\n\n📎 При поддержке Фонда на сопке Орлиное гнездо был установлен памятник «Прапорщику Комарову и солдатам 4-го Восточно-Сибирского линейного батальона, основателям поста Владивосток. 1860 год». Бронзовая фигура прапорщика Комарова обращена в сторону бухты Золотой Рог – именно здесь 166 лет назад Николай Васильевич Комаров вместе с 20 солдатами высадился с военного транспорта «Манджур» для основания военного поста, получившего название Владивосток.\n\n💬 «Мы должны сохранять память о таких людях, первопроходцах, первостроителях, благодаря которым Владивосток стал сегодня крупнейшим экономическим и культурным центром на Дальнем Востоке», – отметил Андрей Брик, подчеркнув вклад Натальи Присекиной в сохранение исторической памяти.",
-      "text_html": "⭐️ Наталья Присекина отмечена Благодарностью Думы Владивостока<br><br>Председатель Думы города Владивостока Андрей Брик вручил Благодарность Думы <a href=\"https://www.pgplaw.ru/to-get-the-team/prisekina/\" target=\"_blank\" rel=\"noopener noreferrer\">Наталье Присекиной</a>, партнеру и руководителю Дальневосточного отделения «Пепеляев Групп», члену наблюдательного совета Фонда памяти Николая Васильевича Комарова.<br><br>🔘Награда – за значимый вклад в сохранение исторической памяти города Владивостока.<br><br>📎 При поддержке Фонда на сопке Орлиное гнездо был установлен памятник «Прапорщику Комарову и солдатам 4-го Восточно-Сибирского линейного батальона, основателям поста Владивосток. 1860 год». Бронзовая фигура прапорщика Комарова обращена в сторону бухты Золотой Рог – именно здесь 166 лет назад Николай Васильевич Комаров вместе с 20 солдатами высадился с военного транспорта «Манджур» для основания военного поста, получившего название Владивосток.<br><br>💬 «Мы должны сохранять память о таких людях, первопроходцах, первостроителях, благодаря которым Владивосток стал сегодня крупнейшим экономическим и культурным центром на Дальнем Востоке», – отметил Андрей Брик, подчеркнув вклад Натальи Присекиной в сохранение исторической памяти.",
-      "views": 965,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1970-1-d8e6d086a3ac-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1970-1-d8e6d086a3ac-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/pgp_official/1970",
       "forwarded_from": null
     }
   ]
