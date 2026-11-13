@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-11-13T02:43:00.065409+00:00",
+  "generated_at": "2026-11-13T10:02:34.900362+00:00",
   "pagination": {
     "page": 4,
     "page_size": 16,
-    "total_posts": 55,
+    "total_posts": 56,
     "total_pages": 4
   },
   "posts": [
+    {
+      "id": 1405,
+      "date": "2026-08-26T04:00:07+00:00",
+      "text": "📣 Приказом Росприроднадзора от 02.03.2026 № 107  утверждена новая форма проверочного листа, применяемого при осуществлении федерального государственного геологического контроля (надзора), взамен проверочного листа, утв. приказом Росприроднадзора от 24.02.2022 N 116.\n\n⏱️ Документ действует с 01.08.2026.\n\n#ИзмененияЗаконодательства",
+      "text_html": "📣 <a href=\"http://publication.pravo.gov.ru/document/0001202607220007\" target=\"_blank\" rel=\"noopener noreferrer\">Приказом Росприроднадзора от 02.03.2026 № 107</a>  утверждена новая форма проверочного листа, применяемого при осуществлении федерального государственного геологического контроля (надзора), взамен проверочного листа, утв. приказом Росприроднадзора от 24.02.2022 N 116.<br><br>⏱️ Документ действует с 01.08.2026.<br><br>#ИзмененияЗаконодательства",
+      "views": 296,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1405-1-46d93ac08888-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1405-1-46d93ac08888-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/pgecology/1405",
+      "forwarded_from": null
+    },
     {
       "id": 1404,
       "date": "2026-08-24T04:01:04+00:00",
@@ -30,8 +48,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1403-1-68958e55af98-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1403-1-68958e55af98-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1403-1-e7c244e7d985-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1403-1-e7c244e7d985-v4.jpg"
         }
       ],
       "video_url": null,
@@ -48,8 +66,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1402-1-b95682732e85-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1402-1-b95682732e85-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1402-1-d6905cd6bf86-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1402-1-d6905cd6bf86-v4.jpg"
         }
       ],
       "video_url": null,
@@ -66,8 +84,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1401-1-9514cf73e89f-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1401-1-9514cf73e89f-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1401-1-3af8b5a6cbea-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1401-1-3af8b5a6cbea-v4.jpg"
         }
       ],
       "video_url": null,
@@ -84,8 +102,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1400-1-b4543fd0ec06-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1400-1-b4543fd0ec06-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1400-1-c17d82d755a1-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1400-1-c17d82d755a1-v4.jpg"
         }
       ],
       "video_url": null,
@@ -102,8 +120,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1399-1-32053d9e06e8-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1399-1-32053d9e06e8-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1399-1-19edbde4e372-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1399-1-19edbde4e372-v4.jpg"
         }
       ],
       "video_url": null,
@@ -120,8 +138,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1398-1-0d69bf3e4676-v4.jpg",
-          "full_url": "data/channels/pg-ecology/media/posts/1398-1-0d69bf3e4676-v4.jpg"
+          "thumb_url": "data/channels/pg-ecology/media/posts/thumbs/1398-1-8dcaf83c9f61-v4.jpg",
+          "full_url": "data/channels/pg-ecology/media/posts/1398-1-8dcaf83c9f61-v4.jpg"
         }
       ],
       "video_url": null,

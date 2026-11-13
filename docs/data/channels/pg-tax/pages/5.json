@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T02:42:42.789869+00:00",
+  "generated_at": "2026-11-13T10:02:06.747107+00:00",
   "pagination": {
     "page": 5,
     "page_size": 16,
@@ -7,6 +7,19 @@
     "total_pages": 11
   },
   "posts": [
+    {
+      "id": 2966,
+      "date": "2026-10-08T11:46:43+00:00",
+      "text": "➖➖➖➖➖➖➖\n🏢 Делимся материалами ФНС, а вопросы оценки налоговых рисков ЗПИФ предлагаем направить напрямую Сергею Савсерису (s.savseris@pgplaw.ru), не дожидаясь, когда налоговый орган задаст их Вам.",
+      "text_html": "➖➖➖➖➖➖➖<br>🏢 Делимся материалами ФНС, а вопросы оценки налоговых рисков ЗПИФ предлагаем направить напрямую Сергею Савсерису (s.savseris@pgplaw.ru), не дожидаясь, когда налоговый орган задаст их Вам.",
+      "views": 1290,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [],
+      "video_url": null,
+      "tg_url": "https://t.me/PG_Tax/2966",
+      "forwarded_from": null
+    },
     {
       "id": 2965,
       "date": "2026-10-08T11:46:15+00:00",
@@ -17,8 +30,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2965-1-beee289d4139-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2965-1-beee289d4139-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2965-1-46aab8d8038f-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2965-1-46aab8d8038f-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +48,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2964-1-ba379af51378-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2964-1-ba379af51378-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2964-1-dde697dad8aa-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2964-1-dde697dad8aa-v4.jpg"
         }
       ],
       "video_url": null,
@@ -53,8 +66,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2963-1-e902e437e3a3-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2963-1-e902e437e3a3-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2963-1-f49523ed0d0b-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2963-1-f49523ed0d0b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -71,8 +84,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2962-1-90f32a4c9c3c-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2962-1-90f32a4c9c3c-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2962-1-c1595e97c7a3-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2962-1-c1595e97c7a3-v4.jpg"
         }
       ],
       "video_url": null,
@@ -89,8 +102,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2961-1-53ef83796fae-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2961-1-53ef83796fae-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2961-1-e4c00c0fa813-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2961-1-e4c00c0fa813-v4.jpg"
         }
       ],
       "video_url": null,
@@ -107,8 +120,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2960-1-f4e8e9e82a47-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2960-1-f4e8e9e82a47-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2960-1-a2a7fca3722b-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2960-1-a2a7fca3722b-v4.jpg"
         }
       ],
       "video_url": null,
@@ -138,8 +151,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2958-1-c60ad416a612-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2958-1-c60ad416a612-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2958-1-eac769b45d1a-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2958-1-eac769b45d1a-v4.jpg"
         }
       ],
       "video_url": null,
@@ -156,8 +169,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2957-1-2e646d7547c7-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2957-1-2e646d7547c7-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2957-1-27a0ee9a93a4-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2957-1-27a0ee9a93a4-v4.jpg"
         }
       ],
       "video_url": null,
@@ -174,8 +187,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2956-1-3a0ad15a160f-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2956-1-3a0ad15a160f-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2956-1-68197a25ed41-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2956-1-68197a25ed41-v4.jpg"
         }
       ],
       "video_url": null,
@@ -197,8 +210,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2955-1-2c58e71c6536-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2955-1-2c58e71c6536-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2955-1-1b28f612b4e4-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2955-1-1b28f612b4e4-v4.jpg"
         }
       ],
       "video_url": null,
@@ -215,8 +228,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2954-1-cc8a32d4ddec-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2954-1-cc8a32d4ddec-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2954-1-61fdea6afddb-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2954-1-61fdea6afddb-v4.jpg"
         }
       ],
       "video_url": null,
@@ -233,8 +246,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2953-1-28d57374e46f-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2953-1-28d57374e46f-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2953-1-8252748c1b46-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2953-1-8252748c1b46-v4.jpg"
         }
       ],
       "video_url": null,
@@ -251,8 +264,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2952-1-96104dcd351c-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2952-1-96104dcd351c-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2952-1-7bc5fa973f14-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2952-1-7bc5fa973f14-v4.jpg"
         }
       ],
       "video_url": null,
@@ -269,30 +282,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2951-1-6d397cc5163c-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2951-1-6d397cc5163c-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2951-1-454377c2dcc4-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2951-1-454377c2dcc4-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/PG_Tax/2951",
-      "forwarded_from": null
-    },
-    {
-      "id": 2950,
-      "date": "2026-10-01T15:10:53+00:00",
-      "text": "🏆 Авторы PG TAX в числе лидеров рейтинга Private Wealth ИД «Коммерсантъ»!\n\nСтарший партнер Сергей Савсерис и партнер Сергей Сосновский отмечены в Band 1 индивидуального рейтинга в категории «Налоги частных клиентов».\n\n«Пепеляев Групп» также вошла в Band 1 в этой категории.\n\n⭐️ Рады за коллег и поздравляем с отличным результатом! \n\n👉 Подробнее",
-      "text_html": "🏆 Авторы PG TAX в числе лидеров рейтинга Private Wealth ИД «Коммерсантъ»!<br><br>Старший партнер Сергей Савсерис и партнер Сергей Сосновский отмечены в Band 1 индивидуального рейтинга в категории «Налоги частных клиентов».<br><br>«Пепеляев Групп» также вошла в Band 1 в этой категории.<br><br>⭐️ Рады за коллег и поздравляем с отличным результатом! <br><br>👉 <a href=\"https://t.me/pgp_official/2018\" target=\"_blank\" rel=\"noopener noreferrer\">Подробнее</a>",
-      "views": 981,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2950-1-ead9840f5886-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2950-1-ead9840f5886-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2950",
       "forwarded_from": null
     }
   ]
