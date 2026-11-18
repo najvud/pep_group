@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-11-18T02:42:25.818255+00:00",
+  "generated_at": "2026-11-18T10:45:51.314012+00:00",
   "pagination": {
     "page": 4,
     "page_size": 16,
-    "total_posts": 65,
+    "total_posts": 66,
     "total_pages": 5
   },
   "posts": [
+    {
+      "id": 1996,
+      "date": "2026-09-07T07:04:47+00:00",
+      "text": "💡 Новая неделя – новое правило в рубрике #PGГрамотность.\n\n🔘В отличие от. Выделять ли этот оборот запятыми?\n\nЧитайте в карточке правописания!\n\n🏢 Подписаться на рассылки | MAX | Приложение PG",
+      "text_html": "💡 Новая неделя – новое правило в рубрике #PGГрамотность.<br><br>🔘В отличие от. Выделять ли этот оборот запятыми?<br><br>Читайте в карточке правописания!<br><br>🏢 <a href=\"https://www.pgplaw.ru/subscribe/\" target=\"_blank\" rel=\"noopener noreferrer\">Подписаться на рассылки |</a> <a href=\"https://max.ru/id7707301372_biz\" target=\"_blank\" rel=\"noopener noreferrer\">MAX |</a> <a href=\"https://t.me/pgp_official/1769\" target=\"_blank\" rel=\"noopener noreferrer\">Приложение PG</a>",
+      "views": 749,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1996-1-d07d302f8ea8-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1996-1-d07d302f8ea8-v4.jpg"
+        },
+        {
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1996-2-afbf2c333986-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1996-2-afbf2c333986-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/pgp_official/1996",
+      "forwarded_from": null
+    },
     {
       "id": 1995,
       "date": "2026-09-04T13:01:22+00:00",
@@ -17,8 +39,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1995-1-ac1d314614e3-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1995-1-ac1d314614e3-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1995-1-c0293322716f-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1995-1-c0293322716f-v4.jpg"
         }
       ],
       "video_url": null,
@@ -30,7 +52,7 @@
       "date": "2026-09-04T10:04:37+00:00",
       "text": "❗️Реклама на запрещенных площадках: как рекламодателям обезопасить себя?\n\nВ выпуске программы Adindex «Дело в рекламе» Илья Тюленев, руководитель антимонопольной практики «Пепеляев Групп», рассказал:\n\n🔸 как распределяется ответственность между сторонами;\n\n🔸 какие условия стоит включать в договоры с блогерами и рекламораспространителями;\n\n🔸 почему важно заранее согласовывать площадки размещения.\n\nОтдельно эксперт остановился на налоговых рисках: расходы на рекламу на запрещённых ресурсах нельзя учитывать при расчёте налогооблагаемой прибыли.\n\n⬆️ Смотрите интервью, чтобы узнать подробнее о рисках рекламодателей и способах их минимизировать.",
       "text_html": "❗️Реклама на запрещенных площадках: как рекламодателям обезопасить себя?<br><br>В <a href=\"https://vkvideo.ru/video-14899079_456247020?t=44m15s\" target=\"_blank\" rel=\"noopener noreferrer\">выпуске программы</a> Adindex «Дело в рекламе» <a href=\"https://www.pgplaw.ru/to-get-the-team/tiulenev/\" target=\"_blank\" rel=\"noopener noreferrer\">Илья Тюленев</a>, руководитель антимонопольной практики «Пепеляев Групп», рассказал:<br><br>🔸 как распределяется ответственность между сторонами;<br><br>🔸 какие условия стоит включать в договоры с блогерами и рекламораспространителями;<br><br>🔸 почему важно заранее согласовывать площадки размещения.<br><br>Отдельно эксперт остановился на налоговых рисках: расходы на рекламу на запрещённых ресурсах нельзя учитывать при расчёте налогооблагаемой прибыли.<br><br>⬆️ Смотрите интервью, чтобы узнать подробнее о рисках рекламодателей и способах их минимизировать.",
-      "views": 858,
+      "views": 859,
       "comments_count": 0,
       "comments_url": null,
       "photos": [],
@@ -53,8 +75,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1993-1-f3f566001117-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1993-1-f3f566001117-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1993-1-d1ad06788e8c-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1993-1-d1ad06788e8c-v4.jpg"
         }
       ],
       "video_url": null,
@@ -71,8 +93,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1992-1-12bdc5ff58a9-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1992-1-12bdc5ff58a9-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1992-1-a2ef668ff001-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1992-1-a2ef668ff001-v4.jpg"
         }
       ],
       "video_url": null,
@@ -89,12 +111,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1990-1-db56c2f9bda8-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1990-1-db56c2f9bda8-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1990-1-8af1a289db21-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1990-1-8af1a289db21-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1990-2-f8d8d06289e5-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1990-2-f8d8d06289e5-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1990-2-0cce5a598d51-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1990-2-0cce5a598d51-v4.jpg"
         }
       ],
       "video_url": null,
@@ -111,8 +133,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1987-1-cec7560dea15-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1987-1-cec7560dea15-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1987-1-c525d0861885-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1987-1-c525d0861885-v4.jpg"
         }
       ],
       "video_url": null,
@@ -129,8 +151,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1986-1-8d305d9b73b5-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1986-1-8d305d9b73b5-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1986-1-08bc71a41fdb-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1986-1-08bc71a41fdb-v4.jpg"
         }
       ],
       "video_url": null,
@@ -147,8 +169,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1985-1-2be0b6be8a5e-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1985-1-2be0b6be8a5e-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1985-1-3a65f07b8b34-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1985-1-3a65f07b8b34-v4.jpg"
         }
       ],
       "video_url": null,
@@ -165,8 +187,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1984-1-689ff88a7d4d-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1984-1-689ff88a7d4d-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1984-1-5cdd13da682d-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1984-1-5cdd13da682d-v4.jpg"
         }
       ],
       "video_url": null,
@@ -183,8 +205,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1983-1-6d2a0f163deb-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1983-1-6d2a0f163deb-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1983-1-887f0bdbcdfd-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1983-1-887f0bdbcdfd-v4.jpg"
         }
       ],
       "video_url": null,
@@ -196,13 +218,13 @@
       "date": "2026-08-27T10:01:08+00:00",
       "text": "🏢 Еженедельная подборка обзоров от практик «Пепеляев Групп»\n\nЧто изменилось за последнюю неделю, и на что стоит обратить внимание бизнесу?\n\n▫️ СпецИнвестРежимы в Сибири и на Дальнем Востоке. Дайджест 17–23 августа 2026 г.\n\n▫️ Налоговые новости. Дайджест за 17–23 августа 2026 г.\n\n▫️ Значимые споры в сфере экологии за июль и август 2026 г.\n\n▫️ Телекоммуникации, медиа, ИТ, персональные данные. Дайджест за 7 – 21 августа 2026 г.\n\n▫️ Банкротство: взгляд эксперта. Обзор № 335 за 20 – 26 августа 2026 г.\n\nТакже смотрите новое видео:\n\n🔘 Предписание о перечислении дохода в бюджет: тихая революция в арсенале ФАС. Илья Тюленев \nVK| Rutube| YouTube\n\n☝️ Подписаться на рассылки | MAX | Приложение PG\n\n#pg_обзоры_недели",
       "text_html": "🏢 Еженедельная подборка обзоров от практик «Пепеляев Групп»<br><br>Что изменилось за последнюю неделю, и на что стоит обратить внимание бизнесу?<br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/spec-invest-obzor/invest-news-digest-26-08-24/\" target=\"_blank\" rel=\"noopener noreferrer\">СпецИнвестРежимы в Сибири и на Дальнем Востоке. Дайджест 17–23 августа 2026 г.</a><br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/tax-reviews/tax-news-digest-24-08-26/\" target=\"_blank\" rel=\"noopener noreferrer\">Налоговые новости. Дайджест за 17–23 августа 2026 г.</a><br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/ecology-digest/ecology-digest-24-08-26/\" target=\"_blank\" rel=\"noopener noreferrer\">Значимые споры в сфере экологии за июль и август 2026 г.</a><br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/telecom-digest/telecom-digest-21-08-26/\" target=\"_blank\" rel=\"noopener noreferrer\">Телекоммуникации, медиа, ИТ, персональные данные. Дайджест за 7 – 21 августа 2026 г.</a><br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/bankruptcy-must-read/bankruptcy-digest-26-08-26/\" target=\"_blank\" rel=\"noopener noreferrer\">Банкротство: взгляд эксперта. Обзор № 335 за 20 – 26 августа 2026 г.</a><br><br>Также смотрите новое видео:<br><br>🔘 Предписание о перечислении дохода в бюджет: тихая революция в арсенале ФАС. Илья Тюленев <br><a href=\"https://vkvideo.ru/video-227047542_456239430\" target=\"_blank\" rel=\"noopener noreferrer\">VK</a>| <a href=\"https://rutube.ru/video/94b94f2a316f5c916c491fd14726870e/\" target=\"_blank\" rel=\"noopener noreferrer\">Rutube</a>| <a href=\"https://youtu.be/cOjkOTHr-eA\" target=\"_blank\" rel=\"noopener noreferrer\">YouTube</a><br><br>☝️ <a href=\"https://www.pgplaw.ru/subscribe/\" target=\"_blank\" rel=\"noopener noreferrer\">Подписаться на рассылки |</a> <a href=\"https://max.ru/id7707301372_biz\" target=\"_blank\" rel=\"noopener noreferrer\">MAX |</a> <a href=\"https://t.me/pgp_official/1769\" target=\"_blank\" rel=\"noopener noreferrer\">Приложение PG</a><br><br>#pg_обзоры_недели",
-      "views": 776,
+      "views": 778,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1982-1-959d2ffd9ec0-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1982-1-959d2ffd9ec0-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1982-1-9bdf10d63e61-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1982-1-9bdf10d63e61-v4.jpg"
         }
       ],
       "video_url": null,
@@ -214,13 +236,13 @@
       "date": "2026-08-25T13:05:08+00:00",
       "text": "💻 Телекоммуникации, медиа, ИТ, персональные данные: дайджест\n\nВ обзоре собрали принятые акты, ключевые законодательные инициативы, регуляторные тренды, судебную практику и события отрасли.\n\nГлавные новости:\n\n🔘 подготовлены обновленные правила идентификации пользователей мобильной связи; \n\n🔘 утечка ПДн считается оконченной в момент публикации данных, а не взлома; \n\n🔘 нарушение сроков выполнения условий ИТ-субсидии при достигнутом результате, на который выдавалась ИТ-субсидия, не влечет необходимость ее возврата.\n\nКакие изменения могут повлиять на бизнес, и на что стоит обратить внимание компаниям — читайте по ссылке 👉\n\n🏢 Подписаться на рассылки | MAX | Приложение PG",
       "text_html": "💻 Телекоммуникации, медиа, ИТ, персональные данные: дайджест<br><br>В обзоре собрали принятые акты, ключевые законодательные инициативы, регуляторные тренды, судебную практику и события отрасли.<br><br>Главные новости:<br><br>🔘 подготовлены обновленные правила идентификации пользователей мобильной связи; <br><br>🔘 утечка ПДн считается оконченной в момент публикации данных, а не взлома; <br><br>🔘 нарушение сроков выполнения условий ИТ-субсидии при достигнутом результате, на который выдавалась ИТ-субсидия, не влечет необходимость ее возврата.<br><br>Какие изменения могут повлиять на бизнес, и на что стоит обратить внимание компаниям — <a href=\"https://www.pgplaw.ru/analytics-and-brochures/telecom-digest/telecom-digest-21-08-26/\" target=\"_blank\" rel=\"noopener noreferrer\">читайте по ссылке</a> 👉<br><br>🏢 <a href=\"https://www.pgplaw.ru/subscribe/\" target=\"_blank\" rel=\"noopener noreferrer\">Подписаться на рассылки |</a> <a href=\"https://max.ru/id7707301372_biz\" target=\"_blank\" rel=\"noopener noreferrer\">MAX |</a> <a href=\"https://t.me/pgp_official/1769\" target=\"_blank\" rel=\"noopener noreferrer\">Приложение PG</a>",
-      "views": 788,
+      "views": 789,
       "comments_count": 0,
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1981-1-b5dd20ba0417-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1981-1-b5dd20ba0417-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1981-1-0bc15fb0e529-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1981-1-0bc15fb0e529-v4.jpg"
         }
       ],
       "video_url": null,
@@ -237,20 +259,20 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1977-1-7aa46d87b773-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1977-1-7aa46d87b773-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1977-1-bffd3ecd0f63-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1977-1-bffd3ecd0f63-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1977-2-005878041cf2-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1977-2-005878041cf2-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1977-2-5ca9cd792039-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1977-2-5ca9cd792039-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1977-3-b5a8a0219f1b-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1977-3-b5a8a0219f1b-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1977-3-4d4fafa3bec4-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1977-3-4d4fafa3bec4-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1977-4-803c1f5b0c9d-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1977-4-803c1f5b0c9d-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1977-4-513b7b5fcd66-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1977-4-513b7b5fcd66-v4.jpg"
         }
       ],
       "video_url": null,
@@ -272,12 +294,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1975-1-5195601e7dad-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1975-1-5195601e7dad-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1975-1-bf781382ce94-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1975-1-bf781382ce94-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1975-2-a5297c0b9b16-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1975-2-a5297c0b9b16-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1975-2-d7a542eace1a-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1975-2-d7a542eace1a-v4.jpg"
         }
       ],
       "video_url": null,
@@ -294,8 +316,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1974-1-6283315a5677-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1974-1-6283315a5677-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1974-1-bac29e366961-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1974-1-bac29e366961-v4.jpg"
         }
       ],
       "video_url": null,
@@ -306,24 +328,6 @@
         "channel_username": "PG_Tax",
         "channel_title": "PG Tax | Налоги"
       }
-    },
-    {
-      "id": 1973,
-      "date": "2026-08-20T10:01:29+00:00",
-      "text": "🏢 Еженедельная подборка обзоров от практик «Пепеляев Групп»\n\nЧто изменилось за последнюю неделю, и на что стоит обратить внимание бизнесу?\n\n▫️ Налоговые новости. Дайджест за 10–16 августа 2026 г.\n\n▫️ Антимонопольные новости. Дайджест за 13 июля – 16 августа 2026 г.\n\n▫️ СпецИнвестРежимы в Сибири и на Дальнем Востоке. Дайджест 10 – 16 августа 2026 г.\n\n▫️ Банкротство: взгляд эксперта. Обзор № 334 за 13 – 19 августа 2026 г.\n\nСмотрите также:\n\n🔘 Дело «Вокфорс»: новые границы налоговой реконструкции\nYouTube | VK Видео | Rutube\n\n#pg_обзоры_недели\n\n☝️ Подписаться на рассылки | MAX | Приложение PG",
-      "text_html": "🏢 Еженедельная подборка обзоров от практик «Пепеляев Групп»<br><br>Что изменилось за последнюю неделю, и на что стоит обратить внимание бизнесу?<br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/tax-reviews/tax-news-digest-17-08-26/\" target=\"_blank\" rel=\"noopener noreferrer\">Налоговые новости. Дайджест за 10–16 августа 2026 г.</a><br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/antitrust-reviews/antitrust-digest-26-08-17/\" target=\"_blank\" rel=\"noopener noreferrer\">Антимонопольные новости. Дайджест за 13 июля – 16 августа 2026 г.</a><br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/spec-invest-obzor/invest-news-digest-26-08-17/\" target=\"_blank\" rel=\"noopener noreferrer\">СпецИнвестРежимы в Сибири и на Дальнем Востоке. Дайджест 10 – 16 августа 2026 г.</a><br><br>▫️ <a href=\"https://www.pgplaw.ru/analytics-and-brochures/bankruptcy-must-read/bankruptcy-digest-19-08-26/\" target=\"_blank\" rel=\"noopener noreferrer\">Банкротство: взгляд эксперта. Обзор № 334 за 13 – 19 августа 2026 г.</a><br><br>Смотрите также:<br><br>🔘 Дело «Вокфорс»: новые границы налоговой реконструкции<br><a href=\"https://youtu.be/Y0payjJgGxw\" target=\"_blank\" rel=\"noopener noreferrer\">YouTube</a> | <a href=\"https://vkvideo.ru/video-227047542_456239429\" target=\"_blank\" rel=\"noopener noreferrer\">VK Видео</a> | <a href=\"https://rutube.ru/video/8c00576a37a29d9297f19d11e5db0bd0/\" target=\"_blank\" rel=\"noopener noreferrer\">Rutube</a><br><br>#pg_обзоры_недели<br><br>☝️ <a href=\"https://www.pgplaw.ru/subscribe/\" target=\"_blank\" rel=\"noopener noreferrer\">Подписаться на рассылки |</a> <a href=\"https://max.ru/id7707301372_biz\" target=\"_blank\" rel=\"noopener noreferrer\">MAX |</a> <a href=\"https://t.me/pgp_official/1769\" target=\"_blank\" rel=\"noopener noreferrer\">Приложение PG</a>",
-      "views": 850,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1973-1-67d5bc802d88-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1973-1-67d5bc802d88-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/pgp_official/1973",
-      "forwarded_from": null
     }
   ]
 }

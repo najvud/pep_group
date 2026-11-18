@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T02:43:37.020375+00:00",
+  "generated_at": "2026-11-18T10:47:28.648123+00:00",
   "pagination": {
     "page": 7,
     "page_size": 16,
@@ -7,6 +7,24 @@
     "total_pages": 11
   },
   "posts": [
+    {
+      "id": 2940,
+      "date": "2026-09-28T07:53:06+00:00",
+      "text": "✍️ Нормотворчество\n \nМинфин России предложил продлить нулевой НДПИ для газового завода «Ямал СПГ» в обмен на инвестсоглашение.\n \n⚙️ Практика\n \nНачальник Управления модернизации налоговых органов ФНС России Павел Лабазнов рассказал о том, какие ИТ-технологии применяет сегодня ФНС России.\n\nО процесс-майнинге и таск-майнинге — технологиях, работающих с большим объемом данных и изучающих цифровые следы — смотрите видео 👉 \n \n✈️ За рубежом\n \nВласти Китая разворачивают кампанию по увеличению налоговых поступлений за счет сегмента сверхбогатых граждан и крупнейших корпораций. \n\nℹ️ В частности, изменены правила в отношении офшорных трастов, что затрудняет скрытие капитала.\nТакже проводится масштабная операция по возврату неуплаченных налогов у крупнейших местных компаний, особое внимание уделяется капиталу китайских граждан в Гонконге. \n\nДля «борьбы» с высококвалифицированными командами юристов и консультантов, которых нанимают миллиардеры для оптимизации налогов, власти создали специализированные рабочие группы.\n \n #главные_налоговые_новости\n\n➖➖\nНовости прошедшей недели читайте в обзоре на сайте ПГ 👉",
+      "text_html": "✍️ Нормотворчество<br> <br>Минфин России <a href=\"https://www.vedomosti.ru/business/news/2026/09/25/1231746-ndpi-yamal-spg\" target=\"_blank\" rel=\"noopener noreferrer\">предложил</a> продлить нулевой НДПИ для газового завода «Ямал СПГ» в обмен на инвестсоглашение.<br> <br>⚙️ Практика<br> <br>Начальник Управления модернизации налоговых органов ФНС России Павел Лабазнов рассказал о том, какие ИТ-технологии применяет сегодня ФНС России.<br><br>О процесс-майнинге и таск-майнинге — технологиях, работающих с большим объемом данных и изучающих цифровые следы — смотрите <a href=\"https://www.nalog.gov.ru/rn77/news/activities_fts/16651943/\" target=\"_blank\" rel=\"noopener noreferrer\">видео</a> 👉 <br> <br>✈️ За рубежом<br> <br>Власти Китая <a href=\"https://www.rbc.ru/politics/28/09/2026/6ab995bd9a79470253610bde\" target=\"_blank\" rel=\"noopener noreferrer\">разворачивают</a> кампанию по увеличению налоговых поступлений за счет сегмента сверхбогатых граждан и крупнейших корпораций. <br><br>ℹ️ В частности, изменены правила в отношении офшорных трастов, что затрудняет скрытие капитала.<br>Также проводится масштабная операция по возврату неуплаченных налогов у крупнейших местных компаний, особое внимание уделяется капиталу китайских граждан в Гонконге. <br><br>Для «борьбы» с высококвалифицированными командами юристов и консультантов, которых нанимают миллиардеры для оптимизации налогов, власти создали специализированные рабочие группы.<br> <br> #главные_налоговые_новости<br><br>➖➖<br>Новости прошедшей недели читайте в обзоре <a href=\"https://www.pgplaw.ru/analytics-and-brochures/tax-reviews/tax-news-digest-28-09-26/\" target=\"_blank\" rel=\"noopener noreferrer\">на сайте</a> ПГ 👉",
+      "views": 1020,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2940-1-5dc0cdbdaaef-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2940-1-5dc0cdbdaaef-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/PG_Tax/2940",
+      "forwarded_from": null
+    },
     {
       "id": 2939,
       "date": "2026-09-25T14:03:34+00:00",
@@ -17,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2939-1-056429aaef7d-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2939-1-056429aaef7d-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2939-1-a15410992c53-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2939-1-a15410992c53-v4.jpg"
         }
       ],
       "video_url": null,
@@ -40,8 +58,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2938-1-50eb315a0256-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2938-1-50eb315a0256-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2938-1-b445a185ae81-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2938-1-b445a185ae81-v4.jpg"
         }
       ],
       "video_url": null,
@@ -58,8 +76,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2937-1-0ea4305eacd8-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2937-1-0ea4305eacd8-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2937-1-a12d5bb2d8d5-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2937-1-a12d5bb2d8d5-v4.jpg"
         }
       ],
       "video_url": null,
@@ -76,8 +94,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2936-1-da80b94346c6-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2936-1-da80b94346c6-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2936-1-f44caa152528-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2936-1-f44caa152528-v4.jpg"
         }
       ],
       "video_url": null,
@@ -94,16 +112,16 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2932-1-564e172c4118-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2932-1-564e172c4118-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2932-1-03bda5db9df6-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2932-1-03bda5db9df6-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2932-2-f5d351d40ef7-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2932-2-f5d351d40ef7-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2932-2-22b79c5af876-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2932-2-22b79c5af876-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2932-3-2c48aecdee11-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2932-3-2c48aecdee11-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2932-3-96b284c1a1fe-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2932-3-96b284c1a1fe-v4.jpg"
         }
       ],
       "video_url": null,
@@ -120,8 +138,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2931-1-b4a52b04f42d-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2931-1-b4a52b04f42d-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2931-1-172b533ac619-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2931-1-172b533ac619-v4.jpg"
         }
       ],
       "video_url": null,
@@ -138,8 +156,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2930-1-ed99a5b3dac2-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2930-1-ed99a5b3dac2-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2930-1-e27072a0cd4e-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2930-1-e27072a0cd4e-v4.jpg"
         }
       ],
       "video_url": null,
@@ -156,8 +174,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2929-1-4f9dbf541ea3-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2929-1-4f9dbf541ea3-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2929-1-12a2542661b2-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2929-1-12a2542661b2-v4.jpg"
         }
       ],
       "video_url": null,
@@ -174,8 +192,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2928-1-55f83bc3b51b-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2928-1-55f83bc3b51b-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2928-1-6be54de194ef-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2928-1-6be54de194ef-v4.jpg"
         }
       ],
       "video_url": null,
@@ -192,8 +210,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2927-1-52ec5eda193b-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2927-1-52ec5eda193b-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2927-1-144e36d3c8d4-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2927-1-144e36d3c8d4-v4.jpg"
         }
       ],
       "video_url": null,
@@ -210,8 +228,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2926-1-d2961bc2cc82-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2926-1-d2961bc2cc82-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2926-1-9b6460e0d480-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2926-1-9b6460e0d480-v4.jpg"
         }
       ],
       "video_url": null,
@@ -228,8 +246,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2924-1-a5dc3bbe06f0-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2924-1-a5dc3bbe06f0-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2924-1-9bf399f25794-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2924-1-9bf399f25794-v4.jpg"
         }
       ],
       "video_url": null,
@@ -246,8 +264,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2923-1-32ec3e155df1-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2923-1-32ec3e155df1-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2923-1-91afe5c71891-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2923-1-91afe5c71891-v4.jpg"
         }
       ],
       "video_url": null,
@@ -264,8 +282,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2922-1-a42524cfcde9-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2922-1-a42524cfcde9-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2922-1-d933d4bc5516-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2922-1-d933d4bc5516-v4.jpg"
         }
       ],
       "video_url": null,
@@ -282,30 +300,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2921-1-b4f22e742b1c-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2921-1-b4f22e742b1c-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2921-1-7223afc31a69-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2921-1-7223afc31a69-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/PG_Tax/2921",
-      "forwarded_from": null
-    },
-    {
-      "id": 2920,
-      "date": "2026-09-18T08:00:45+00:00",
-      "text": "⚖️ Судебные дела\n \n14 октября СКЭС ВС РФ планирует рассмотреть два дела ООО «Корнер Агент» (Казань) к Межрайонной ИФНС № 4 по Республике Татарстан по вопросу исчисления земельного налога с учетом повышающих коэффициентов к ставке 1,5% и самой ставки 1,5% в отношении земельных участков для ИЖС (дела № А65-42003/2024 и А65-42007/2024). \n\nНижестоящие суды (ВВО) отказали Обществу в удовлетворении требования. Напомним, вопрос конституционности норм ст. 394 и 396 НК РФ был рассмотрен Конституционным Судом РФ по жалобе ООО «Корнер Казань» (Постановление от 21.07.2026 № 52-П).\n\n🛑 О Постановлении КС РФ № 52-П эксперты ПГ рассказывали здесь и здесь.\n\n🛑 А здесь и здесь — о работе ФНС России с выводами Постановления.\n \n⛳️ Новости таможни\n \nПравительство РФ обновило Стратегию развития таможенной службы до 2030 г. \n\nСреди поставленных задач:\n\n   🔴сокращение времени прохождения контроля грузового автотранспорта в пунктах пропуска с 35–50 до 10 минут. \nВ связи с этим сделан акцент на цифровизацию и автоматизацию таможенных процедур;\n\n   🔴увеличение доли электронного декларирования товаров. Для ускорения товарооборота планируется концентрировать таможенной контроль уже на этапе «поствыпуска» товаров — с автоматизацией доступа к системам учета надежных импортеров — уполномоченных экономических операторов (УЭО);\n\n   🔴стимулирование получения бизнесом статуса УЭО. Наличие такого статуса относит компанию к категории низкого риска и дает некоторые преференции — в частности, освобождение от необходимости вносить обеспечительный платеж в рамках СПОТ.\n\n✈️ Международные новости\n \nФНС России и Главное налоговое управление Катара подписали Меморандум о взаимопонимании и техническом взаимодействии в сфере налогового администрирования. \nℹ️ Стороны сфокусируются на внедрении клиентоцентричных подходов, совершенствовании методов сбора налогов, управлении задолженностью и разработке налоговой политики будущего.\n\n#главные_налоговые_новости",
-      "text_html": "⚖️ Судебные дела<br> <br>14 октября СКЭС ВС РФ планирует рассмотреть два дела ООО «Корнер Агент» (Казань) к Межрайонной ИФНС № 4 по Республике Татарстан по вопросу исчисления земельного налога с учетом повышающих коэффициентов к ставке 1,5% и самой ставки 1,5% в отношении земельных участков для ИЖС (дела № <a href=\"https://kad.arbitr.ru/Kad/Card?number=%D0%9065-42003%2F2024\" target=\"_blank\" rel=\"noopener noreferrer\">А65-42003/2024</a> и <a href=\"https://kad.arbitr.ru/Kad/Card?number=%D0%9065-42007%2F2024\" target=\"_blank\" rel=\"noopener noreferrer\">А65-42007/2024</a>). <br><br>Нижестоящие суды (ВВО) отказали Обществу в удовлетворении требования. Напомним, вопрос конституционности норм ст. 394 и 396 НК РФ был рассмотрен Конституционным Судом РФ по жалобе ООО «Корнер Казань» (Постановление от 21.07.2026 № 52-П).<br><br>🛑 О Постановлении КС РФ № 52-П эксперты ПГ рассказывали <a href=\"https://t.me/PG_Tax/2814\" target=\"_blank\" rel=\"noopener noreferrer\">здесь</a> и <a href=\"https://t.me/PG_Tax/2816\" target=\"_blank\" rel=\"noopener noreferrer\">здесь</a>.<br><br>🛑 А <a href=\"https://t.me/PG_Tax/2820\" target=\"_blank\" rel=\"noopener noreferrer\">здесь</a> и <a href=\"https://t.me/PG_Tax/2896\" target=\"_blank\" rel=\"noopener noreferrer\">здесь</a> — о работе ФНС России с выводами Постановления.<br> <br>⛳️ Новости таможни<br> <br>Правительство РФ <a href=\"https://www.kommersant.ru/doc/8957379\" target=\"_blank\" rel=\"noopener noreferrer\">обновило</a> <a href=\"http://government.ru/news/59904/\" target=\"_blank\" rel=\"noopener noreferrer\">Стратегию</a> развития таможенной службы до 2030 г. <br><br>Среди поставленных задач:<br><br>   🔴сокращение времени прохождения контроля грузового автотранспорта в пунктах пропуска с 35–50 до 10 минут. <br>В связи с этим сделан акцент на цифровизацию и автоматизацию таможенных процедур;<br><br>   🔴увеличение доли электронного декларирования товаров. Для ускорения товарооборота планируется концентрировать таможенной контроль уже на этапе «поствыпуска» товаров — с автоматизацией доступа к системам учета надежных импортеров — уполномоченных экономических операторов (УЭО);<br><br>   🔴стимулирование получения бизнесом статуса УЭО. Наличие такого статуса относит компанию к категории низкого риска и дает некоторые преференции — в частности, освобождение от необходимости вносить обеспечительный платеж в рамках СПОТ.<br><br>✈️ Международные новости<br> <br>ФНС России и Главное налоговое управление Катара <a href=\"https://www.rbc.ru/rbcfreenews/6aac0d3952abc4e8a6d75af3\" target=\"_blank\" rel=\"noopener noreferrer\">подписали</a> Меморандум о взаимопонимании и техническом взаимодействии в сфере налогового администрирования. <br>ℹ️ Стороны сфокусируются на внедрении клиентоцентричных подходов, совершенствовании методов сбора налогов, управлении задолженностью и разработке налоговой политики будущего.<br><br>#главные_налоговые_новости",
-      "views": 1030,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2920-1-c7b256ae2be4-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2920-1-c7b256ae2be4-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2920",
       "forwarded_from": null
     }
   ]
