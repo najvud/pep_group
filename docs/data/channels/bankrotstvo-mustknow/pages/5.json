@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-19T08:49:29.325808+00:00",
+  "generated_at": "2026-11-19T17:45:55.125349+00:00",
   "pagination": {
     "page": 5,
     "page_size": 16,
-    "total_posts": 67,
+    "total_posts": 66,
     "total_pages": 5
   },
   "posts": [
@@ -17,8 +17,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/580-1-f756402618ca-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/580-1-f756402618ca-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/580-1-63240a56a810-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/580-1-63240a56a810-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,30 +35,12 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/579-1-a5268bab54f2-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/579-1-a5268bab54f2-v4.jpg"
+          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/579-1-a08668a8bf47-v4.jpg",
+          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/579-1-a08668a8bf47-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/bankrotstvo_mustknow/579",
-      "forwarded_from": null
-    },
-    {
-      "id": 578,
-      "date": "2026-08-19T12:39:11+00:00",
-      "text": "Еженедельный обзор Банкротство: Взгляд эксперта \n\nО новых событиях сферы банкротства с авторскими рекомендациями от Ю. Литовцевой в еженедельном обзоре Банкротство: Взгляд эксперта от команды практики банкротства и антикризисной защиты бизнеса! \n\nВ этом выпуске:\n\n✍️ Реформа банкротства начнет действовать через 4 месяца?\n\n💡Реанимация законопроекта об очередности налоговых обязательств\n\n🏠 Компенсация при передаче объектов фонду защиты прав дольщиков\n\n🔎 И снова о солидарных требованиях при уступке\n\nПодробности уже ожидают по ссылке!\n\n☕️ Приятного чтения!\n\n#Банкротство_взгляд_эксперта\n#Изменения_законодательства\n#Налоги_в_банкротстве\n#Банкротство_застройщиков",
-      "text_html": "Еженедельный обзор Банкротство: Взгляд эксперта <br><br>О новых событиях сферы банкротства с авторскими рекомендациями от Ю. Литовцевой в еженедельном обзоре Банкротство: Взгляд эксперта от команды <a href=\"https://www.pgplaw.ru/practice-and-industry/practices/bankruptcy/\" target=\"_blank\" rel=\"noopener noreferrer\">практики банкротства и антикризисной защиты бизнеса</a>! <br><br>В этом выпуске:<br><br>✍️ Реформа банкротства начнет действовать через 4 месяца?<br><br>💡Реанимация законопроекта об очередности налоговых обязательств<br><br>🏠 Компенсация при передаче объектов фонду защиты прав дольщиков<br><br>🔎 И снова о солидарных требованиях при уступке<br><br>Подробности уже ожидают по <a href=\"https://www.pgplaw.ru/analytics-and-brochures/bankruptcy-must-read/bankruptcy-digest-19-08-26/\" target=\"_blank\" rel=\"noopener noreferrer\">ссылке</a>!<br><br>☕️ Приятного чтения!<br><br>#Банкротство_взгляд_эксперта<br>#Изменения_законодательства<br>#Налоги_в_банкротстве<br>#Банкротство_застройщиков",
-      "views": 341,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/bankrotstvo-mustknow/media/posts/thumbs/578-1-3362ab2155a6-v4.jpg",
-          "full_url": "data/channels/bankrotstvo-mustknow/media/posts/578-1-3362ab2155a6-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/bankrotstvo_mustknow/578",
       "forwarded_from": null
     }
   ]
