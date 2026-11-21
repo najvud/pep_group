@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-21T10:16:52.871061+00:00",
+  "generated_at": "2026-11-21T17:38:34.281568+00:00",
   "pagination": {
     "page": 5,
     "page_size": 16,
-    "total_posts": 67,
+    "total_posts": 66,
     "total_pages": 5
   },
   "posts": [
@@ -17,20 +17,20 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1977-1-472fdf165f55-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1977-1-472fdf165f55-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1977-1-fd720ba7e6ce-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1977-1-fd720ba7e6ce-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1977-2-42197d682e7b-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1977-2-42197d682e7b-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1977-2-d655fdae40d0-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1977-2-d655fdae40d0-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1977-3-e6226def5336-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1977-3-e6226def5336-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1977-3-456259d38404-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1977-3-456259d38404-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1977-4-30a2cf67f944-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1977-4-30a2cf67f944-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1977-4-8a095b5b3967-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1977-4-8a095b5b3967-v4.jpg"
         }
       ],
       "video_url": null,
@@ -52,40 +52,17 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1975-1-dd1a2bf08a3b-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1975-1-dd1a2bf08a3b-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1975-1-a6c107b145ae-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1975-1-a6c107b145ae-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1975-2-88a93ee4f660-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1975-2-88a93ee4f660-v4.jpg"
+          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1975-2-22c2f8b346a5-v4.jpg",
+          "full_url": "data/channels/pgp-official/media/posts/1975-2-22c2f8b346a5-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/pgp_official/1975",
       "forwarded_from": null
-    },
-    {
-      "id": 1974,
-      "date": "2026-08-21T14:44:01+00:00",
-      "text": "🔍 «Налоговые льготы все чаще становятся зоной повышенного внимания ФНС»\n\nВ эфире РБК-ТВ Старший партнер «Пепеляев Групп» Сергей Савсерис рассказал об усилении налогового контроля за компаниями, которые пользуются льготами в сфере образования и медицины.\n\n💬 В последние годы налоговые органы все внимательнее смотрят не только на формальное соблюдение условий льготы, но и на экономическую сущность деятельности компании. В зоне особого внимания — структура доходов, разделение бизнеса между несколькими юридическими лицами и операции, которые могут свидетельствовать об искусственном сохранении права на льготный режим.\n\nНалоговая льгота — это всегда зона повышенного риска. Чем она существеннее, тем выше вероятность того, что налоговый орган захочет убедиться: компания действительно соответствует всем условиям ее применения, а структура бизнеса не была искусственно выстроена исключительно ради налоговой экономии.\n\nОсобенно чувствительны такие проверки для компаний, применяющих нулевую ставку по налогу на прибыль. Утрата хотя бы одного из предусмотренных законом условий может привести к пересчету налога по общей ставке с начала года, начислению пеней, а в отдельных случаях — и штрафов.\n\n☝️ Поэтому для бизнеса вопрос сегодня заключается уже не только в том, есть ли формальное право на льготу, но и в том, насколько компания готова подтвердить экономическую обоснованность своей модели перед налоговыми органами. \nУсиление такого контроля — часть более общего тренда: ФНС последовательно проверяет те режимы и льготы, где потенциальная сумма доначислений особенно велика.\n\n#комментарий_эксперта\n#видео\n\n➖➖\n📧 Пообщаться с Сергеем Савсерисом напрямую про льготы или по другим налоговым вопросам можно по почте: s.savseris@pgplaw.ru",
-      "text_html": "🔍 «Налоговые льготы все чаще становятся зоной повышенного внимания ФНС»<br><br>В <a href=\"https://tv.rbc.ru/archive/den/6a86e6e4a477cc4e08576d60\" target=\"_blank\" rel=\"noopener noreferrer\">эфире РБК-ТВ</a> Старший партнер «Пепеляев Групп» <a href=\"https://www.pgplaw.ru/to-get-the-team/sergey-savseris/\" target=\"_blank\" rel=\"noopener noreferrer\">Сергей Савсерис</a> рассказал об усилении налогового контроля за компаниями, которые пользуются льготами в сфере образования и медицины.<br><br>💬 В последние годы налоговые органы все внимательнее смотрят не только на формальное соблюдение условий льготы, но и на экономическую сущность деятельности компании. В зоне особого внимания — структура доходов, разделение бизнеса между несколькими юридическими лицами и операции, которые могут свидетельствовать об искусственном сохранении права на льготный режим.<br><br>Налоговая льгота — это всегда зона повышенного риска. Чем она существеннее, тем выше вероятность того, что налоговый орган захочет убедиться: компания действительно соответствует всем условиям ее применения, а структура бизнеса не была искусственно выстроена исключительно ради налоговой экономии.<br><br>Особенно чувствительны такие проверки для компаний, применяющих нулевую ставку по налогу на прибыль. Утрата хотя бы одного из предусмотренных законом условий может привести к пересчету налога по общей ставке с начала года, начислению пеней, а в отдельных случаях — и штрафов.<br><br>☝️ Поэтому для бизнеса вопрос сегодня заключается уже не только в том, есть ли формальное право на льготу, но и в том, насколько компания готова подтвердить экономическую обоснованность своей модели перед налоговыми органами. <br>Усиление такого контроля — часть более общего тренда: ФНС последовательно проверяет те режимы и льготы, где потенциальная сумма доначислений особенно велика.<br><br>#комментарий_эксперта<br>#видео<br><br>➖➖<br>📧 Пообщаться с Сергеем Савсерисом напрямую про льготы или по другим налоговым вопросам можно по почте: s.savseris@pgplaw.ru",
-      "views": 774,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pgp-official/media/posts/thumbs/1974-1-bfc33d0035a6-v4.jpg",
-          "full_url": "data/channels/pgp-official/media/posts/1974-1-bfc33d0035a6-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/pgp_official/1974",
-      "forwarded_from": {
-        "source_url": "https://t.me/PG_Tax/2867",
-        "channel_url": "https://t.me/s/PG_Tax",
-        "channel_username": "PG_Tax",
-        "channel_title": "PG Tax | Налоги"
-      }
     }
   ]
 }
