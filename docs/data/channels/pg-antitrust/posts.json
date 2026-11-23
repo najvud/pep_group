@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T17:45:43.366806+00:00",
+  "generated_at": "2026-11-23T03:16:21.443142+00:00",
   "site": {
     "channel_username": "PgAntitrust",
     "channel_title": "PG Antitrust | Антимонопольное право",
@@ -71,10 +71,9 @@
       "video_url": null,
       "tg_url": "https://t.me/PgAntitrust/1488",
       "forwarded_from": {
-        "source_url": "https://t.me/bankrotstvo_mustknow/636",
-        "channel_url": "https://t.me/s/bankrotstvo_mustknow",
-        "channel_username": "bankrotstvo_mustknow",
-        "channel_title": "Банкротство | Взгляд эксперта"
+        "source_url": "https://t.me/PgAntitrust/1488",
+        "channel_url": "https://t.me/s/PgAntitrust",
+        "channel_username": "PgAntitrust"
       }
     },
     {
@@ -178,10 +177,9 @@
       "video_url": null,
       "tg_url": "https://t.me/PgAntitrust/1480",
       "forwarded_from": {
-        "source_url": "https://t.me/pgp_official/2046",
-        "channel_url": "https://t.me/s/pgp_official",
-        "channel_username": "pgp_official",
-        "channel_title": "Pepeliaev Group | Пепеляев Групп"
+        "source_url": "https://t.me/PgAntitrust/1480",
+        "channel_url": "https://t.me/s/PgAntitrust",
+        "channel_username": "PgAntitrust"
       }
     },
     {
@@ -230,8 +228,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1477-1-3b5ffc24c38d-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1477-1-3b5ffc24c38d-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1477-1-e768fcd007af-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1477-1-e768fcd007af-v4.jpg"
         }
       ],
       "video_url": null,
@@ -266,17 +264,16 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1475-1-6a8c34f38388-v4.jpg",
-          "full_url": "data/channels/pg-antitrust/media/posts/1475-1-6a8c34f38388-v4.jpg"
+          "thumb_url": "data/channels/pg-antitrust/media/posts/thumbs/1475-1-f173971e86f9-v4.jpg",
+          "full_url": "data/channels/pg-antitrust/media/posts/1475-1-f173971e86f9-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/PgAntitrust/1475",
       "forwarded_from": {
-        "source_url": "https://t.me/pgp_official/2015",
-        "channel_url": "https://t.me/s/pgp_official",
-        "channel_username": "pgp_official",
-        "channel_title": "Pepeliaev Group | Пепеляев Групп"
+        "source_url": "https://t.me/PgAntitrust/1475",
+        "channel_url": "https://t.me/s/PgAntitrust",
+        "channel_username": "PgAntitrust"
       }
     },
     {
