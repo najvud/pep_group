@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T00:50:28.074387+00:00",
+  "generated_at": "2026-11-24T10:30:45.427511+00:00",
   "pagination": {
     "page": 9,
     "page_size": 16,
@@ -7,6 +7,24 @@
     "total_pages": 11
   },
   "posts": [
+    {
+      "id": 2913,
+      "date": "2026-09-15T13:00:48+00:00",
+      "text": "Мы продолжаем серию онлайн-встреч на тему: «Как устроены налоги в бизнесе: что важно знать неналоговым специалистам».\n\n🗓 Вебинары про НДС пройдут 22 и 29 сентября в 11:00\n\nВы узнаете: \n\n🔘что такое НДС, каков его экономический смысл; \n🔘основные юридические концепции НДС; \n🔘какие основные налоговые риски возникают при ошибках, связанных с НДС; \n🔘наиболее актуальные случаи, когда в практике возникают налоговые риски. \n\n🎤О том, как говорить с налоговыми и финансовыми службами на одном языке, расскажет старший партнер «Пепеляев Групп» Сергей Савсерис.\n\nРегистрируйтесьи присылайте вопросы. Постараемся раскрыть все связанные с НДС темы, которые важно знать неналоговым специалистам.\n\n☝️ Подписаться на рассылки | MAX | Приложение PG",
+      "text_html": "Мы продолжаем серию онлайн-встреч на тему: «Как устроены налоги в бизнесе: что важно знать неналоговым специалистам».<br><br>🗓 Вебинары про НДС пройдут 22 и 29 сентября в 11:00<br><br>Вы узнаете: <br><br>🔘что такое НДС, каков его экономический смысл; <br>🔘основные юридические концепции НДС; <br>🔘какие основные налоговые риски возникают при ошибках, связанных с НДС; <br>🔘наиболее актуальные случаи, когда в практике возникают налоговые риски. <br><br>🎤О том, как говорить с налоговыми и финансовыми службами на одном языке, расскажет старший партнер «Пепеляев Групп» <a href=\"https://www.pgplaw.ru/to-get-the-team/sergey-savseris/\" target=\"_blank\" rel=\"noopener noreferrer\">Сергей Савсерис.</a><br><br><a href=\"https://www.pgplaw.ru/events/upcoming-events/kak-ustroeny-nalogi-v-biznese-nds/\" target=\"_blank\" rel=\"noopener noreferrer\">Регистрируйтесь</a>и присылайте вопросы. Постараемся раскрыть все связанные с НДС темы, которые важно знать неналоговым специалистам.<br><br>☝️ <a href=\"https://www.pgplaw.ru/subscribe/\" target=\"_blank\" rel=\"noopener noreferrer\">Подписаться на рассылки |</a> <a href=\"https://max.ru/id7707301372_biz\" target=\"_blank\" rel=\"noopener noreferrer\">MAX |</a> <a href=\"https://t.me/pgp_official/1769\" target=\"_blank\" rel=\"noopener noreferrer\">Приложение PG</a>",
+      "views": 1570,
+      "comments_count": 0,
+      "comments_url": null,
+      "photos": [
+        {
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2913-1-9258dd7f4742-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2913-1-9258dd7f4742-v4.jpg"
+        }
+      ],
+      "video_url": null,
+      "tg_url": "https://t.me/PG_Tax/2913",
+      "forwarded_from": null
+    },
     {
       "id": 2912,
       "date": "2026-09-15T11:04:18+00:00",
@@ -17,8 +35,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2912-1-fc7c3796d36d-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2912-1-fc7c3796d36d-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2912-1-70dfac6f24dd-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2912-1-70dfac6f24dd-v4.jpg"
         }
       ],
       "video_url": null,
@@ -35,8 +53,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2911-1-7f2086b580c7-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2911-1-7f2086b580c7-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2911-1-bcd81bf6a908-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2911-1-bcd81bf6a908-v4.jpg"
         }
       ],
       "video_url": null,
@@ -53,8 +71,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2910-1-f5caa2822907-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2910-1-f5caa2822907-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2910-1-84943688a4fd-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2910-1-84943688a4fd-v4.jpg"
         }
       ],
       "video_url": null,
@@ -76,8 +94,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2909-1-e23e050fe41f-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2909-1-e23e050fe41f-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2909-1-0c2b4e396aec-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2909-1-0c2b4e396aec-v4.jpg"
         }
       ],
       "video_url": null,
@@ -94,8 +112,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2908-1-8753833860ed-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2908-1-8753833860ed-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2908-1-02a8de853ee6-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2908-1-02a8de853ee6-v4.jpg"
         }
       ],
       "video_url": null,
@@ -112,8 +130,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2906-1-81691f0acb7e-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2906-1-81691f0acb7e-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2906-1-6ea5cb53550c-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2906-1-6ea5cb53550c-v4.jpg"
         }
       ],
       "video_url": null,
@@ -130,8 +148,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2905-1-29c791de1e2e-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2905-1-29c791de1e2e-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2905-1-c9642c4f811f-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2905-1-c9642c4f811f-v4.jpg"
         }
       ],
       "video_url": null,
@@ -161,8 +179,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2901-1-fcf5ddcd27ec-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2901-1-fcf5ddcd27ec-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2901-1-9e33b80767ff-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2901-1-9e33b80767ff-v4.jpg"
         }
       ],
       "video_url": null,
@@ -179,8 +197,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2900-1-f978e5462f2c-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2900-1-f978e5462f2c-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2900-1-ae90af26d1ac-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2900-1-ae90af26d1ac-v4.jpg"
         }
       ],
       "video_url": null,
@@ -197,8 +215,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2899-1-424930f63674-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2899-1-424930f63674-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2899-1-e13fe2d12068-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2899-1-e13fe2d12068-v4.jpg"
         }
       ],
       "video_url": null,
@@ -215,8 +233,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2898-1-c0d57ac251f3-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2898-1-c0d57ac251f3-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2898-1-743a8fc31882-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2898-1-743a8fc31882-v4.jpg"
         }
       ],
       "video_url": null,
@@ -233,8 +251,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2896-1-261dc9f8d5f2-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2896-1-261dc9f8d5f2-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2896-1-d6dd8b63e1b1-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2896-1-d6dd8b63e1b1-v4.jpg"
         }
       ],
       "video_url": null,
@@ -251,8 +269,8 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2895-1-6e888b9bd187-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2895-1-6e888b9bd187-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2895-1-23e5a4bceef7-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2895-1-23e5a4bceef7-v4.jpg"
         }
       ],
       "video_url": null,
@@ -269,34 +287,16 @@
       "comments_url": null,
       "photos": [
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2893-1-5541f06041d4-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2893-1-5541f06041d4-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2893-1-842ce6a08642-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2893-1-842ce6a08642-v4.jpg"
         },
         {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2893-2-3860a9c8a5bb-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2893-2-3860a9c8a5bb-v4.jpg"
+          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2893-2-3b0f4a585d6e-v4.jpg",
+          "full_url": "data/channels/pg-tax/media/posts/2893-2-3b0f4a585d6e-v4.jpg"
         }
       ],
       "video_url": null,
       "tg_url": "https://t.me/PG_Tax/2893",
-      "forwarded_from": null
-    },
-    {
-      "id": 2892,
-      "date": "2026-09-08T09:19:00+00:00",
-      "text": "⚡️Тема дня\n\nСчетная палата РФ выяснила, что каждый второй оператор связи показывает Минцифры России доход ниже, чем в налоговой отчетности. \nОколо трети операторов с лицензиями ежегодно отчитываются о нулевых доходах: в 2023 г. — 3 226 (37%), в 2024 — 3 122 (36%), в 2025 — 2 705 (33%). \n\nПри этом само министерство, которое администрирует отчисления в резерв универсального обслуживания, такие расчеты не проверяет. Обязательный порядок мониторинга по состоянию на 20 июня этого года Министерство так и не утвердило. \n\n💰 По оценке Счетной палаты, за 2023–2025 гг. резерв недополучил 2,58 млрд руб. Платежи сконцентрированы на крупнейших игроках: в 2025 г. 50 операторов (1% плательщиков) внесли 93% всех отчислений в резерв универсального обслуживания.\n\n✍️ Нормотворчество\n \nМинцифры России готовит масштабную реформу отрасли связи. Среди предложений - ввести минимальную сумму обязательных отчислений в резерв универсального обслуживания (специальный фонд, куда все операторы отчисляют по 2% выручки от услуг связи) в размере не менее 1 млн руб. в год.\n \n⚙️ Практика\n \nПоступления от налога на прибыль организаций в консолидированный бюджет в 1 пол. выросли на 10% в годовом выражении - бюджет получил 4,92 трлн руб.\nПри этом данные Росстата о сальдированной прибыли предприятий в первом полугодии показывают отрицательную динамику. Рост сальдированной прибыли показали добывающие отрасли (+49,6%). В обрабатывающей промышленности показатель сократился на 27,1%, сельском хозяйстве – на 33,9%, строительстве – на 37%, транспортировке и хранении – на 39,5%.\n \n✈️ Международные новости\n \nНа Восточном экономическом форуме подписано Соглашение о сотрудничестве по вопросам развития российской промышленной зоны в Египте. \nℹ️ Резиденты РПЗ получают освобождение по налогу на имущество и льготы по налогу на прибыль до 50% на 5 лет, существенная часть расходов на внешнюю инженерную инфраструктуру покрывается администрацией ОЭЗ.\n\n#главные_налоговые_новости",
-      "text_html": "⚡️Тема дня<br><br>Счетная палата РФ <a href=\"https://www.rbc.ru/technology_and_media/08/09/2026/6a9ecfac9a79471437c1f7c3\" target=\"_blank\" rel=\"noopener noreferrer\">выяснила</a>, что каждый второй оператор связи <a href=\"https://ach.gov.ru/checks/40435?highlight-search-result=%D0%9E%D0%9F%D0%95%D0%A0%D0%90%D0%A2%D0%9E%D0%A0&amp;amp;highlight-search-result=%D0%A1%D0%92%D0%AF%D0%97\" target=\"_blank\" rel=\"noopener noreferrer\">показывает</a> Минцифры России доход ниже, чем в налоговой отчетности. <br>Около трети операторов с лицензиями ежегодно отчитываются о нулевых доходах: в 2023 г. — 3 226 (37%), в 2024 — 3 122 (36%), в 2025 — 2 705 (33%). <br><br>При этом само министерство, которое администрирует отчисления в резерв универсального обслуживания, такие расчеты не проверяет. Обязательный порядок мониторинга по состоянию на 20 июня этого года Министерство так и не утвердило. <br><br>💰 По оценке Счетной палаты, за 2023–2025 гг. резерв недополучил 2,58 млрд руб. Платежи сконцентрированы на крупнейших игроках: в 2025 г. 50 операторов (1% плательщиков) внесли 93% всех отчислений в резерв универсального обслуживания.<br><br>✍️ Нормотворчество<br> <br>Минцифры России <a href=\"https://www.rbc.ru/technology_and_media/03/09/2026/6a99675f9a79474527666dd1\" target=\"_blank\" rel=\"noopener noreferrer\">готовит</a> масштабную реформу отрасли связи. Среди предложений - ввести минимальную сумму обязательных отчислений в резерв универсального обслуживания (специальный фонд, куда все операторы отчисляют по 2% выручки от услуг связи) в размере не менее 1 млн руб. в год.<br> <br>⚙️ Практика<br> <br>Поступления от налога на прибыль организаций в консолидированный бюджет в 1 пол. <a href=\"https://www.vedomosti.ru/economics/articles/2026/09/08/1227034-pochemu-postupleniya-ot-naloga-na-pribil-rastut\" target=\"_blank\" rel=\"noopener noreferrer\">выросли</a> на 10% в годовом выражении - бюджет получил 4,92 трлн руб.<br>При этом данные Росстата о сальдированной прибыли предприятий в первом полугодии показывают отрицательную динамику. Рост сальдированной прибыли показали добывающие отрасли (+49,6%). В обрабатывающей промышленности показатель сократился на 27,1%, сельском хозяйстве – на 33,9%, строительстве – на 37%, транспортировке и хранении – на 39,5%.<br> <br>✈️ Международные новости<br> <br>На Восточном экономическом форуме <a href=\"https://nalogoved.ru/news/16858.html\" target=\"_blank\" rel=\"noopener noreferrer\">подписано</a> Соглашение о сотрудничестве по вопросам развития российской промышленной зоны в Египте. <br>ℹ️ Резиденты РПЗ получают освобождение по налогу на имущество и льготы по налогу на прибыль до 50% на 5 лет, существенная часть расходов на внешнюю инженерную инфраструктуру покрывается администрацией ОЭЗ.<br><br>#главные_налоговые_новости",
-      "views": 1120,
-      "comments_count": 0,
-      "comments_url": null,
-      "photos": [
-        {
-          "thumb_url": "data/channels/pg-tax/media/posts/thumbs/2892-1-48e96e3101df-v4.jpg",
-          "full_url": "data/channels/pg-tax/media/posts/2892-1-48e96e3101df-v4.jpg"
-        }
-      ],
-      "video_url": null,
-      "tg_url": "https://t.me/PG_Tax/2892",
       "forwarded_from": null
     }
   ]
